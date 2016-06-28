@@ -2,13 +2,14 @@
   "id": 370449791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.171166,43.234681,-123.171166,43.234681",
     "geom:latitude":43.234681,
     "geom:longitude":-123.171166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3442 Strader Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370449791,
-    "wof:lastmodified":1449032218,
+    "wof:lastmodified":1466772123,
     "wof:name":"Singleton Ranch",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-123.171166,43.234681,-123.171166,43.234681],
+  "bbox": [
+    -123.171166,
+    43.234681,
+    -123.171166,
+    43.234681
+],
   "geometry": {"coordinates":[-123.171166,43.234681],"type":"Point"}
 }

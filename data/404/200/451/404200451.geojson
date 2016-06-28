@@ -2,13 +2,14 @@
   "id": 404200451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.298746,44.594945,-123.298746,44.594945",
     "geom:latitude":44.594945,
     "geom:longitude":-123.298746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2663 NW Princess St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404200451,
-    "wof:lastmodified":1449039517,
+    "wof:lastmodified":1466768120,
     "wof:name":"Willamette Valley Paint Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "paper"
     ]
 },
-  "bbox": [-123.298746,44.594945,-123.298746,44.594945],
-  "geometry": {"coordinates":[-123.298746,44.594945],"type":"Point"}
+  "bbox": [
+    -123.298746,
+    44.594945,
+    -123.298746,
+    44.594945
+],
+  "geometry": {"coordinates":[-123.29874599999999,44.594945],"type":"Point"}
 }

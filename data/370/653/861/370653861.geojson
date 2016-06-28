@@ -2,13 +2,14 @@
   "id": 370653861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.852257,45.740243,-123.852257,45.740243",
     "geom:latitude":45.740243,
     "geom:longitude":-123.852257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39305 State Hwy 53",
     "sg:city":"Nehalem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370653861,
-    "wof:lastmodified":1449029330,
+    "wof:lastmodified":1466773310,
     "wof:name":"Coleman Construction-Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.852257,45.740243,-123.852257,45.740243],
-  "geometry": {"coordinates":[-123.852257,45.740243],"type":"Point"}
+  "bbox": [
+    -123.852257,
+    45.740243,
+    -123.852257,
+    45.740243
+],
+  "geometry": {"coordinates":[-123.85225699999999,45.740243],"type":"Point"}
 }

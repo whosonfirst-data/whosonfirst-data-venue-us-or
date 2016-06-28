@@ -2,13 +2,14 @@
   "id": 404200835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.847125,46.187285,-123.847125,46.187285",
     "geom:latitude":46.187285,
     "geom:longitude":-123.847125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Lincoln St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404200835,
-    "wof:lastmodified":1449039512,
+    "wof:lastmodified":1466768127,
     "wof:name":"S D Schwarz and Associates",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "geological"
     ]
 },
-  "bbox": [-123.847125,46.187285,-123.847125,46.187285],
-  "geometry": {"coordinates":[-123.847125,46.187285],"type":"Point"}
+  "bbox": [
+    -123.847125,
+    46.187285,
+    -123.847125,
+    46.187285
+],
+  "geometry": {"coordinates":[-123.84712500000001,46.187285],"type":"Point"}
 }

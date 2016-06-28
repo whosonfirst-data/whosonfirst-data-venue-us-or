@@ -2,13 +2,14 @@
   "id": 370765255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.649516,45.51665,-122.649516,45.51665",
     "geom:latitude":45.51665,
     "geom:longitude":-122.649516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 SE 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370765255,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1466773977,
     "wof:name":"Paragon Creative Group",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "offset"
     ]
 },
-  "bbox": [-122.649516,45.51665,-122.649516,45.51665],
-  "geometry": {"coordinates":[-122.649516,45.51665],"type":"Point"}
+  "bbox": [
+    -122.649516,
+    45.51665,
+    -122.649516,
+    45.51665
+],
+  "geometry": {"coordinates":[-122.64951600000001,45.51665],"type":"Point"}
 }

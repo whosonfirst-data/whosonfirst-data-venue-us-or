@@ -2,13 +2,14 @@
   "id": 370774171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.550592,45.550538,-122.550592,45.550538",
     "geom:latitude":45.550538,
     "geom:longitude":-122.550592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 NE 109th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370774171,
-    "wof:lastmodified":1449030401,
+    "wof:lastmodified":1466773845,
     "wof:name":"Broyles Home Care",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.550592,45.550538,-122.550592,45.550538],
-  "geometry": {"coordinates":[-122.550592,45.550538],"type":"Point"}
+  "bbox": [
+    -122.550592,
+    45.550538,
+    -122.550592,
+    45.550538
+],
+  "geometry": {"coordinates":[-122.55059199999999,45.550538],"type":"Point"}
 }

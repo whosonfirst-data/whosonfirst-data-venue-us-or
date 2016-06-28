@@ -2,13 +2,14 @@
   "id": 404038271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.981496,45.518854,-122.981496,45.518854",
     "geom:latitude":45.518854,
     "geom:longitude":-122.981496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 SE Oak St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404038271,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466769132,
     "wof:name":"Hillsboro Gastroenterology PC",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.981496,45.518854,-122.981496,45.518854],
-  "geometry": {"coordinates":[-122.981496,45.518854],"type":"Point"}
+  "bbox": [
+    -122.981496,
+    45.518854,
+    -122.981496,
+    45.518854
+],
+  "geometry": {"coordinates":[-122.98149600000001,45.518854],"type":"Point"}
 }

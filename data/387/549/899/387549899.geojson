@@ -2,13 +2,14 @@
   "id": 387549899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.234823,44.069897,-123.234823,44.069897",
     "geom:latitude":44.069897,
     "geom:longitude":-123.234823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88708 Gentry Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387549899,
-    "wof:lastmodified":1449057145,
+    "wof:lastmodified":1466773489,
     "wof:name":"Davlin Inc",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.234823,44.069897,-123.234823,44.069897],
-  "geometry": {"coordinates":[-123.234823,44.069897],"type":"Point"}
+  "bbox": [
+    -123.234823,
+    44.069897,
+    -123.234823,
+    44.069897
+],
+  "geometry": {"coordinates":[-123.23482300000001,44.069897],"type":"Point"}
 }

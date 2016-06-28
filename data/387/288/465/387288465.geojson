@@ -2,13 +2,14 @@
   "id": 387288465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.509492,43.265523,-123.509492,43.265523",
     "geom:latitude":43.265523,
     "geom:longitude":-123.509492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Becker Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387288465,
-    "wof:lastmodified":1449056509,
+    "wof:lastmodified":1466771827,
     "wof:name":"Turkey Gulch Alpacas",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-123.509492,43.265523,-123.509492,43.265523],
-  "geometry": {"coordinates":[-123.509492,43.265523],"type":"Point"}
+  "bbox": [
+    -123.509492,
+    43.265523,
+    -123.509492,
+    43.265523
+],
+  "geometry": {"coordinates":[-123.50949199999999,43.265523],"type":"Point"}
 }

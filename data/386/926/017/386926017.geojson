@@ -2,13 +2,14 @@
   "id": 386926017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011858,44.046171,-123.011858,44.046171",
     "geom:latitude":44.046171,
     "geom:longitude":-123.011858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386926017,
-    "wof:lastmodified":1449028735,
+    "wof:lastmodified":1466771423,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.011858,44.046171,-123.011858,44.046171],
+  "bbox": [
+    -123.011858,
+    44.046171,
+    -123.011858,
+    44.046171
+],
   "geometry": {"coordinates":[-123.011858,44.046171],"type":"Point"}
 }

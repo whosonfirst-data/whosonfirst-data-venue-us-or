@@ -2,13 +2,14 @@
   "id": 371053607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.551032,45.140057,-122.551032,45.140057",
     "geom:latitude":45.140057,
     "geom:longitude":-122.551032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15450 S Feyrer Park Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371053607,
-    "wof:lastmodified":1449049232,
+    "wof:lastmodified":1466768043,
     "wof:name":"Pacific Coast Quarries",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rock"
     ]
 },
-  "bbox": [-122.551032,45.140057,-122.551032,45.140057],
-  "geometry": {"coordinates":[-122.551032,45.140057],"type":"Point"}
+  "bbox": [
+    -122.551032,
+    45.140057,
+    -122.551032,
+    45.140057
+],
+  "geometry": {"coordinates":[-122.55103200000001,45.140057],"type":"Point"}
 }

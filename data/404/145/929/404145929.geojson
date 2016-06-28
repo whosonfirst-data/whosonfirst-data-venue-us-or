@@ -2,13 +2,14 @@
   "id": 404145929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.189185,44.272632,-121.189185,44.272632",
     "geom:latitude":44.272632,
     "geom:longitude":-121.189185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 SW Rimrock Dr",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404145929,
-    "wof:lastmodified":1449039385,
+    "wof:lastmodified":1466767178,
     "wof:name":"Canyon Crest Apartments",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-121.189185,44.272632,-121.189185,44.272632],
-  "geometry": {"coordinates":[-121.189185,44.272632],"type":"Point"}
+  "bbox": [
+    -121.189185,
+    44.272632,
+    -121.189185,
+    44.272632
+],
+  "geometry": {"coordinates":[-121.18918499999999,44.272632],"type":"Point"}
 }

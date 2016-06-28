@@ -2,13 +2,14 @@
   "id": 387622415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.197845,45.215508,-123.197845,45.215508",
     "geom:latitude":45.215508,
     "geom:longitude":-123.197845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 NE Baker St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387622415,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1466774053,
     "wof:name":"Grandma's Weddings",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-123.197845,45.215508,-123.197845,45.215508],
+  "bbox": [
+    -123.197845,
+    45.215508,
+    -123.197845,
+    45.215508
+],
   "geometry": {"coordinates":[-123.197845,45.215508],"type":"Point"}
 }

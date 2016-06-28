@@ -2,13 +2,14 @@
   "id": 370948115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.996281,44.950114,-122.996281,44.950114",
     "geom:latitude":44.950114,
     "geom:longitude":-122.996281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Market St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370948115,
-    "wof:lastmodified":1449031779,
+    "wof:lastmodified":1466774922,
     "wof:name":"Salem Transportation",
     "wof:parent_id":85880589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.996281,44.950114,-122.996281,44.950114],
+  "bbox": [
+    -122.996281,
+    44.950114,
+    -122.996281,
+    44.950114
+],
   "geometry": {"coordinates":[-122.996281,44.950114],"type":"Point"}
 }

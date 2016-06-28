@@ -2,13 +2,14 @@
   "id": 387669129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.612716,42.288675,-123.612716,42.288675",
     "geom:latitude":42.288675,
     "geom:longitude":-123.612716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18092 Redwood Hwy",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387669129,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1466774326,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-123.612716,42.288675,-123.612716,42.288675],
-  "geometry": {"coordinates":[-123.612716,42.288675],"type":"Point"}
+  "bbox": [
+    -123.612716,
+    42.288675,
+    -123.612716,
+    42.288675
+],
+  "geometry": {"coordinates":[-123.61271600000001,42.288675],"type":"Point"}
 }

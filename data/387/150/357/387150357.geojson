@@ -2,13 +2,14 @@
   "id": 387150357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537843,45.558256,-122.537843,45.558256",
     "geom:latitude":45.558256,
     "geom:longitude":-122.537843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4822 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387150357,
-    "wof:lastmodified":1449056167,
+    "wof:lastmodified":1466769773,
     "wof:name":"Bugs No More",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.537843,45.558256,-122.537843,45.558256],
+  "bbox": [
+    -122.537843,
+    45.558256,
+    -122.537843,
+    45.558256
+],
   "geometry": {"coordinates":[-122.537843,45.558256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403953371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.324976,44.171913,-123.324976,44.171913",
     "geom:latitude":44.171913,
     "geom:longitude":-123.324976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25953 State Hwy 36",
     "sg:city":"Cheshire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403953371,
-    "wof:lastmodified":1449055524,
+    "wof:lastmodified":1466768319,
     "wof:name":"Teral Inc",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-123.324976,44.171913,-123.324976,44.171913],
-  "geometry": {"coordinates":[-123.324976,44.171913],"type":"Point"}
+  "bbox": [
+    -123.324976,
+    44.171913,
+    -123.324976,
+    44.171913
+],
+  "geometry": {"coordinates":[-123.32497600000001,44.171913],"type":"Point"}
 }

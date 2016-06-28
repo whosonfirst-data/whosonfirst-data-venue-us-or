@@ -2,13 +2,14 @@
   "id": 387939091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.008561,45.002354,-123.008561,45.002354",
     "geom:latitude":45.002354,
     "geom:longitude":-123.008561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5456 Chetco Ct NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387939091,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1466775430,
     "wof:name":"Silver Needles",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.008561,45.002354,-123.008561,45.002354],
+  "bbox": [
+    -123.008561,
+    45.002354,
+    -123.008561,
+    45.002354
+],
   "geometry": {"coordinates":[-123.008561,45.002354],"type":"Point"}
 }

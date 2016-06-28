@@ -2,13 +2,14 @@
   "id": 404062251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.300475,44.556076,-123.300475,44.556076",
     "geom:latitude":44.556076,
     "geom:longitude":-123.300475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 SW Sunset Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404062251,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1466769529,
     "wof:name":"Bonnie Lorenz",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-123.300475,44.556076,-123.300475,44.556076],
-  "geometry": {"coordinates":[-123.300475,44.556076],"type":"Point"}
+  "bbox": [
+    -123.300475,
+    44.556076,
+    -123.300475,
+    44.556076
+],
+  "geometry": {"coordinates":[-123.30047500000001,44.556076],"type":"Point"}
 }

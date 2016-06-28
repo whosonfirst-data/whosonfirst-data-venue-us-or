@@ -2,13 +2,14 @@
   "id": 370147651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.214785,44.851299,-123.214785,44.851299",
     "geom:latitude":44.851299,
     "geom:longitude":-123.214785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Monmouth St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370147651,
-    "wof:lastmodified":1449032111,
+    "wof:lastmodified":1466767132,
     "wof:name":"Independence Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-123.214785,44.851299,-123.214785,44.851299],
-  "geometry": {"coordinates":[-123.214785,44.851299],"type":"Point"}
+  "bbox": [
+    -123.214785,
+    44.851299,
+    -123.214785,
+    44.851299
+],
+  "geometry": {"coordinates":[-123.21478500000001,44.851299],"type":"Point"}
 }

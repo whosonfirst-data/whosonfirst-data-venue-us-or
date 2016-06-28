@@ -2,13 +2,14 @@
   "id": 387223653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.54225,45.52649,-122.54225,45.52649",
     "geom:latitude":45.52649,
     "geom:longitude":-122.54225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 NE 117th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387223653,
-    "wof:lastmodified":1449056370,
+    "wof:lastmodified":1466771278,
     "wof:name":"Ethan Foster Care",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.54225,45.52649,-122.54225,45.52649],
+  "bbox": [
+    -122.54225,
+    45.52649,
+    -122.54225,
+    45.52649
+],
   "geometry": {"coordinates":[-122.54225,45.52649],"type":"Point"}
 }

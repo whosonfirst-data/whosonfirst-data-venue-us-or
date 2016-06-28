@@ -2,13 +2,14 @@
   "id": 371128317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.18463,44.851262,-123.18463,44.851262",
     "geom:latitude":44.851262,
     "geom:longitude":-123.18463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 S Main St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371128317,
-    "wof:lastmodified":1449049424,
+    "wof:lastmodified":1466769306,
     "wof:name":"San Miguel Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.18463,44.851262,-123.18463,44.851262],
+  "bbox": [
+    -123.18463,
+    44.851262,
+    -123.18463,
+    44.851262
+],
   "geometry": {"coordinates":[-123.18463,44.851262],"type":"Point"}
 }

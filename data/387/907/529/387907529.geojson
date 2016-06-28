@@ -2,13 +2,14 @@
   "id": 387907529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.291565,44.257578,-123.291565,44.257578",
     "geom:latitude":44.257578,
     "geom:longitude":-123.291565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26877 Berg Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387907529,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1466775305,
     "wof:name":"David Lane",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.291565,44.257578,-123.291565,44.257578],
-  "geometry": {"coordinates":[-123.291565,44.257578],"type":"Point"}
+  "bbox": [
+    -123.291565,
+    44.257578,
+    -123.291565,
+    44.257578
+],
+  "geometry": {"coordinates":[-123.29156500000001,44.257578],"type":"Point"}
 }

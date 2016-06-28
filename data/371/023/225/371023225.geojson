@@ -2,13 +2,14 @@
   "id": 371023225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633649,45.424889,-122.633649,45.424889",
     "geom:latitude":45.424889,
     "geom:longitude":-122.633649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13750 SE McLoughlin Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371023225,
-    "wof:lastmodified":1449050033,
+    "wof:lastmodified":1466767531,
     "wof:name":"Abbott & Lind Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mailing"
     ]
 },
-  "bbox": [-122.633649,45.424889,-122.633649,45.424889],
-  "geometry": {"coordinates":[-122.633649,45.424889],"type":"Point"}
+  "bbox": [
+    -122.633649,
+    45.424889,
+    -122.633649,
+    45.424889
+],
+  "geometry": {"coordinates":[-122.63364900000001,45.424889],"type":"Point"}
 }

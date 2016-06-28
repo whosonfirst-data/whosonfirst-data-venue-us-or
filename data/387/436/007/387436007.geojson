@@ -2,13 +2,14 @@
   "id": 387436007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.089441,44.013754,-123.089441,44.013754",
     "geom:latitude":44.013754,
     "geom:longitude":-123.089441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 39th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387436007,
-    "wof:lastmodified":1449059555,
+    "wof:lastmodified":1466772926,
     "wof:name":"Canfield Consulting",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-123.089441,44.013754,-123.089441,44.013754],
-  "geometry": {"coordinates":[-123.089441,44.013754],"type":"Point"}
+  "bbox": [
+    -123.089441,
+    44.013754,
+    -123.089441,
+    44.013754
+],
+  "geometry": {"coordinates":[-123.08944099999999,44.013754],"type":"Point"}
 }

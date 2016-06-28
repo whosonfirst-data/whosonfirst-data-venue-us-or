@@ -2,13 +2,14 @@
   "id": 387708007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.56202,45.558989,-122.56202,45.558989",
     "geom:latitude":45.558989,
     "geom:longitude":-122.56202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9710 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387708007,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1466774653,
     "wof:name":"Glass House Tavern",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-122.56202,45.558989,-122.56202,45.558989],
+  "bbox": [
+    -122.56202,
+    45.558989,
+    -122.56202,
+    45.558989
+],
   "geometry": {"coordinates":[-122.56202,45.558989],"type":"Point"}
 }

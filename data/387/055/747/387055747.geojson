@@ -2,13 +2,14 @@
   "id": 387055747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.217008,45.207937,-123.217008,45.207937",
     "geom:latitude":45.207937,
     "geom:longitude":-123.217008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 SW Agee St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387055747,
-    "wof:lastmodified":1449056958,
+    "wof:lastmodified":1466768071,
     "wof:name":"Villa West Apartments",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.217008,45.207937,-123.217008,45.207937],
-  "geometry": {"coordinates":[-123.217008,45.207937],"type":"Point"}
+  "bbox": [
+    -123.217008,
+    45.207937,
+    -123.217008,
+    45.207937
+],
+  "geometry": {"coordinates":[-123.21700800000001,45.207937],"type":"Point"}
 }

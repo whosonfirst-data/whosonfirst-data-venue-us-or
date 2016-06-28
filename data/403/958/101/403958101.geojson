@@ -2,13 +2,14 @@
   "id": 403958101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.861602,44.020392,-123.861602,44.020392",
     "geom:latitude":44.020392,
     "geom:longitude":-123.861602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11635 1st Ave",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403958101,
-    "wof:lastmodified":1449055679,
+    "wof:lastmodified":1466768404,
     "wof:name":"Melton Construction",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.861602,44.020392,-123.861602,44.020392],
+  "bbox": [
+    -123.861602,
+    44.020392,
+    -123.861602,
+    44.020392
+],
   "geometry": {"coordinates":[-123.861602,44.020392],"type":"Point"}
 }

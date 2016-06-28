@@ -2,13 +2,14 @@
   "id": 387240211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.031176,44.930363,-123.031176,44.930363",
     "geom:latitude":44.930363,
     "geom:longitude":-123.031176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Mission St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387240211,
-    "wof:lastmodified":1449056504,
+    "wof:lastmodified":1466771553,
     "wof:name":"Pacific Pathology Assoc",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.031176,44.930363,-123.031176,44.930363],
+  "bbox": [
+    -123.031176,
+    44.930363,
+    -123.031176,
+    44.930363
+],
   "geometry": {"coordinates":[-123.031176,44.930363],"type":"Point"}
 }

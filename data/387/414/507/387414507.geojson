@@ -2,13 +2,14 @@
   "id": 387414507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.77854,45.474432,-122.77854,45.474432",
     "geom:latitude":45.474432,
     "geom:longitude":-122.77854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9655 SW Allen Blvd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387414507,
-    "wof:lastmodified":1449057884,
+    "wof:lastmodified":1466772700,
     "wof:name":"Wunderlich-Malec Engineering",
     "wof:parent_id":85857585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-122.77854,45.474432,-122.77854,45.474432],
-  "geometry": {"coordinates":[-122.77854,45.474432],"type":"Point"}
+  "bbox": [
+    -122.77854,
+    45.474432,
+    -122.77854,
+    45.474432
+],
+  "geometry": {"coordinates":[-122.77854000000001,45.474432],"type":"Point"}
 }

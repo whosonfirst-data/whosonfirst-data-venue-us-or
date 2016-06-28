@@ -2,13 +2,14 @@
   "id": 370610887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.579924,45.328837,-122.579924,45.328837",
     "geom:latitude":45.328837,
     "geom:longitude":-122.579924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13896 S Fir St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370610887,
-    "wof:lastmodified":1449032414,
+    "wof:lastmodified":1466773091,
     "wof:name":"Western States Fire Protection",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-122.579924,45.328837,-122.579924,45.328837],
-  "geometry": {"coordinates":[-122.579924,45.328837],"type":"Point"}
+  "bbox": [
+    -122.579924,
+    45.328837,
+    -122.579924,
+    45.328837
+],
+  "geometry": {"coordinates":[-122.57992400000001,45.328837],"type":"Point"}
 }

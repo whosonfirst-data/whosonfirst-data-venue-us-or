@@ -2,13 +2,14 @@
   "id": 370402787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.696345,45.263373,-122.696345,45.263373",
     "geom:latitude":45.263373,
     "geom:longitude":-122.696345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Grant St",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370402787,
-    "wof:lastmodified":1449030182,
+    "wof:lastmodified":1466771668,
     "wof:name":"Club Fit",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-122.696345,45.263373,-122.696345,45.263373],
-  "geometry": {"coordinates":[-122.696345,45.263373],"type":"Point"}
+  "bbox": [
+    -122.696345,
+    45.263373,
+    -122.696345,
+    45.263373
+],
+  "geometry": {"coordinates":[-122.69634499999999,45.263373],"type":"Point"}
 }

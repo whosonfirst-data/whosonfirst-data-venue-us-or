@@ -2,13 +2,14 @@
   "id": 387860039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661691,45.539499,-122.661691,45.539499",
     "geom:latitude":45.539499,
     "geom:longitude":-122.661691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387860039,
-    "wof:lastmodified":1449057798,
+    "wof:lastmodified":1466775181,
     "wof:name":"United Welding Supply",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welding"
     ]
 },
-  "bbox": [-122.661691,45.539499,-122.661691,45.539499],
+  "bbox": [
+    -122.661691,
+    45.539499,
+    -122.661691,
+    45.539499
+],
   "geometry": {"coordinates":[-122.661691,45.539499],"type":"Point"}
 }

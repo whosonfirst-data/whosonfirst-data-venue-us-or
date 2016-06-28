@@ -2,13 +2,14 @@
   "id": 387610493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03513,44.776757,-123.03513,44.776757",
     "geom:latitude":44.776757,
     "geom:longitude":-123.03513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1389 Ankeny Hill Rd SE",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387610493,
-    "wof:lastmodified":1449059860,
+    "wof:lastmodified":1466774101,
     "wof:name":"H & K Meats",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "slaughterhouse"
     ]
 },
-  "bbox": [-123.03513,44.776757,-123.03513,44.776757],
+  "bbox": [
+    -123.03513,
+    44.776757,
+    -123.03513,
+    44.776757
+],
   "geometry": {"coordinates":[-123.03513,44.776757],"type":"Point"}
 }

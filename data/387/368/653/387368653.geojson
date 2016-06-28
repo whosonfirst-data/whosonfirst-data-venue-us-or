@@ -2,13 +2,14 @@
   "id": 387368653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.330717,43.375103,-123.330717,43.375103",
     "geom:latitude":43.375103,
     "geom:longitude":-123.330717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Page Ave",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387368653,
-    "wof:lastmodified":1449056978,
+    "wof:lastmodified":1466772271,
     "wof:name":"Double R Manufacturing Inc",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "po"
     ]
 },
-  "bbox": [-123.330717,43.375103,-123.330717,43.375103],
-  "geometry": {"coordinates":[-123.330717,43.375103],"type":"Point"}
+  "bbox": [
+    -123.330717,
+    43.375103,
+    -123.330717,
+    43.375103
+],
+  "geometry": {"coordinates":[-123.33071700000001,43.375103],"type":"Point"}
 }

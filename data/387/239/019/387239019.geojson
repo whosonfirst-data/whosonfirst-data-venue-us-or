@@ -2,13 +2,14 @@
   "id": 387239019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.898418,46.161234,-123.898418,46.161234",
     "geom:latitude":46.161234,
     "geom:longitude":-123.898418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 US Hwy 101",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387239019,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1466771694,
     "wof:name":"Youngs Bay Plaza",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.898418,46.161234,-123.898418,46.161234],
-  "geometry": {"coordinates":[-123.898418,46.161234],"type":"Point"}
+  "bbox": [
+    -123.898418,
+    46.161234,
+    -123.898418,
+    46.161234
+],
+  "geometry": {"coordinates":[-123.89841800000001,46.161234],"type":"Point"}
 }

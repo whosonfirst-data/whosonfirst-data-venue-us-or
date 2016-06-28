@@ -2,13 +2,14 @@
   "id": 370503023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.812751,45.451343,-122.812751,45.451343",
     "geom:latitude":45.451343,
     "geom:longitude":-122.812751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9625 SW New Forest Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370503023,
-    "wof:lastmodified":1449032481,
+    "wof:lastmodified":1466772211,
     "wof:name":"Child Care Improvement Proj",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.812751,45.451343,-122.812751,45.451343],
-  "geometry": {"coordinates":[-122.812751,45.451343],"type":"Point"}
+  "bbox": [
+    -122.812751,
+    45.451343,
+    -122.812751,
+    45.451343
+],
+  "geometry": {"coordinates":[-122.81275100000001,45.451343],"type":"Point"}
 }

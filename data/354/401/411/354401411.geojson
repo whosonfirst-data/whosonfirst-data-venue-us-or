@@ -2,13 +2,14 @@
   "id": 354401411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.340364,43.12786,-123.340364,43.12786",
     "geom:latitude":43.12786,
     "geom:longitude":-123.340364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Roberts Creek Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354401411,
-    "wof:lastmodified":1449067397,
+    "wof:lastmodified":1466771324,
     "wof:name":"Roy Burton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.340364,43.12786,-123.340364,43.12786],
-  "geometry": {"coordinates":[-123.340364,43.12786],"type":"Point"}
+  "bbox": [
+    -123.340364,
+    43.12786,
+    -123.340364,
+    43.12786
+],
+  "geometry": {"coordinates":[-123.34036399999999,43.12786],"type":"Point"}
 }

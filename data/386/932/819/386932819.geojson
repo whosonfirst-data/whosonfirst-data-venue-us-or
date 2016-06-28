@@ -2,13 +2,14 @@
   "id": 386932819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.970256,44.048982,-122.970256,44.048982",
     "geom:latitude":44.048982,
     "geom:longitude":-122.970256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 39th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386932819,
-    "wof:lastmodified":1449028743,
+    "wof:lastmodified":1466767172,
     "wof:name":"Hart Construction",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.970256,44.048982,-122.970256,44.048982],
-  "geometry": {"coordinates":[-122.970256,44.048982],"type":"Point"}
+  "bbox": [
+    -122.970256,
+    44.048982,
+    -122.970256,
+    44.048982
+],
+  "geometry": {"coordinates":[-122.97025600000001,44.048982],"type":"Point"}
 }

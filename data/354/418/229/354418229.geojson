@@ -2,13 +2,14 @@
   "id": 354418229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.551422,45.503722,-122.551422,45.503722",
     "geom:latitude":45.503722,
     "geom:longitude":-122.551422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2637 SE 109th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354418229,
-    "wof:lastmodified":1449067270,
+    "wof:lastmodified":1466767312,
     "wof:name":"Davis Painting",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.551422,45.503722,-122.551422,45.503722],
+  "bbox": [
+    -122.551422,
+    45.503722,
+    -122.551422,
+    45.503722
+],
   "geometry": {"coordinates":[-122.551422,45.503722],"type":"Point"}
 }

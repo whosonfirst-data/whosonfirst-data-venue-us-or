@@ -2,13 +2,14 @@
   "id": 370572449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.841625,45.432463,-122.841625,45.432463",
     "geom:latitude":45.432463,
     "geom:longitude":-122.841625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16140 SW Bobolink St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370572449,
-    "wof:lastmodified":1449031161,
+    "wof:lastmodified":1466772712,
     "wof:name":"Dimac Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.841625,45.432463,-122.841625,45.432463],
-  "geometry": {"coordinates":[-122.841625,45.432463],"type":"Point"}
+  "bbox": [
+    -122.841625,
+    45.432463,
+    -122.841625,
+    45.432463
+],
+  "geometry": {"coordinates":[-122.84162499999999,45.432463],"type":"Point"}
 }

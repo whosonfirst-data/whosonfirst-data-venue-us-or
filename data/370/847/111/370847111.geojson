@@ -2,13 +2,14 @@
   "id": 370847111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.973392,44.952594,-122.973392,44.952594",
     "geom:latitude":44.952594,
     "geom:longitude":-122.973392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 45th Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370847111,
-    "wof:lastmodified":1449030322,
+    "wof:lastmodified":1466774509,
     "wof:name":"KCCS",
     "wof:parent_id":85880571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-122.973392,44.952594,-122.973392,44.952594],
+  "bbox": [
+    -122.973392,
+    44.952594,
+    -122.973392,
+    44.952594
+],
   "geometry": {"coordinates":[-122.973392,44.952594],"type":"Point"}
 }

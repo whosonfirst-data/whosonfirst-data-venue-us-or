@@ -2,13 +2,14 @@
   "id": 404060673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.00422,45.049626,-123.00422,45.049626",
     "geom:latitude":45.049626,
     "geom:longitude":-123.00422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Brooklake Rd NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404060673,
-    "wof:lastmodified":1449040220,
+    "wof:lastmodified":1466769507,
     "wof:name":"Pattersons Horses",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.00422,45.049626,-123.00422,45.049626],
+  "bbox": [
+    -123.00422,
+    45.049626,
+    -123.00422,
+    45.049626
+],
   "geometry": {"coordinates":[-123.00422,45.049626],"type":"Point"}
 }

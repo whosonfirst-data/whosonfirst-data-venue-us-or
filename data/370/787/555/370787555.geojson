@@ -2,13 +2,14 @@
   "id": 370787555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.578601,45.551475,-122.578601,45.551475",
     "geom:latitude":45.551475,
     "geom:longitude":-122.578601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 NE 82nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370787555,
-    "wof:lastmodified":1449030629,
+    "wof:lastmodified":1466774115,
     "wof:name":"Century 16 Eastport",
     "wof:parent_id":85867145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.578601,45.551475,-122.578601,45.551475],
-  "geometry": {"coordinates":[-122.578601,45.551475],"type":"Point"}
+  "bbox": [
+    -122.578601,
+    45.551475,
+    -122.578601,
+    45.551475
+],
+  "geometry": {"coordinates":[-122.57860100000001,45.551475],"type":"Point"}
 }

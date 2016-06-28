@@ -2,13 +2,14 @@
   "id": 387077737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.212619,45.209226,-123.212619,45.209226",
     "geom:latitude":45.209226,
     "geom:longitude":-123.212619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 NW 2nd St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387077737,
-    "wof:lastmodified":1449056707,
+    "wof:lastmodified":1466768440,
     "wof:name":"Country Pines Townhome",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.212619,45.209226,-123.212619,45.209226],
+  "bbox": [
+    -123.212619,
+    45.209226,
+    -123.212619,
+    45.209226
+],
   "geometry": {"coordinates":[-123.212619,45.209226],"type":"Point"}
 }

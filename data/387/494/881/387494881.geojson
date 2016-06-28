@@ -2,13 +2,14 @@
   "id": 387494881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.990761,45.517668,-122.990761,45.517668",
     "geom:latitude":45.517668,
     "geom:longitude":-122.990761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 SW Walnut St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387494881,
-    "wof:lastmodified":1449059496,
+    "wof:lastmodified":1466773214,
     "wof:name":"Polyjohn",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.990761,45.517668,-122.990761,45.517668],
-  "geometry": {"coordinates":[-122.990761,45.517668],"type":"Point"}
+  "bbox": [
+    -122.990761,
+    45.517668,
+    -122.990761,
+    45.517668
+],
+  "geometry": {"coordinates":[-122.99076100000001,45.517668],"type":"Point"}
 }

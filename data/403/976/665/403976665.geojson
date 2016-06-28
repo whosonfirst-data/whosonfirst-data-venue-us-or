@@ -2,13 +2,14 @@
   "id": 403976665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.248819,44.593854,-123.248819,44.593854",
     "geom:latitude":44.593854,
     "geom:longitude":-123.248819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2636 NE Belvue St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403976665,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1466768735,
     "wof:name":"Earth 2 O",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-123.248819,44.593854,-123.248819,44.593854],
+  "bbox": [
+    -123.248819,
+    44.593854,
+    -123.248819,
+    44.593854
+],
   "geometry": {"coordinates":[-123.248819,44.593854],"type":"Point"}
 }

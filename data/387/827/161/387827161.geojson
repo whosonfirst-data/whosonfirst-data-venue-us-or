@@ -2,13 +2,14 @@
   "id": 387827161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.277123,44.575555,-123.277123,44.575555",
     "geom:latitude":44.575555,
     "geom:longitude":-123.277123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 NW Fillmore Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387827161,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1466775098,
     "wof:name":"Oceania Apartments",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.277123,44.575555,-123.277123,44.575555],
+  "bbox": [
+    -123.277123,
+    44.575555,
+    -123.277123,
+    44.575555
+],
   "geometry": {"coordinates":[-123.277123,44.575555],"type":"Point"}
 }

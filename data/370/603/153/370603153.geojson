@@ -2,13 +2,14 @@
   "id": 370603153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675396,45.487905,-122.675396,45.487905",
     "geom:latitude":45.487905,
     "geom:longitude":-122.675396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4949 SW Macadam Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370603153,
-    "wof:lastmodified":1449031943,
+    "wof:lastmodified":1466772911,
     "wof:name":"Dee Jay Entertainment",
     "wof:parent_id":85893175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-122.675396,45.487905,-122.675396,45.487905],
-  "geometry": {"coordinates":[-122.675396,45.487905],"type":"Point"}
+  "bbox": [
+    -122.675396,
+    45.487905,
+    -122.675396,
+    45.487905
+],
+  "geometry": {"coordinates":[-122.67539600000001,45.487905],"type":"Point"}
 }

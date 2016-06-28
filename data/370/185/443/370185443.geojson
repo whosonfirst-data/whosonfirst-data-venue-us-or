@@ -2,13 +2,14 @@
   "id": 370185443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.669435,45.666436,-118.669435,45.666436",
     "geom:latitude":45.666436,
     "geom:longitude":-118.669435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Umatilla Loop",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370185443,
-    "wof:lastmodified":1449029643,
+    "wof:lastmodified":1466767780,
     "wof:name":"Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.669435,45.666436,-118.669435,45.666436],
-  "geometry": {"coordinates":[-118.669435,45.666436],"type":"Point"}
+  "bbox": [
+    -118.669435,
+    45.666436,
+    -118.669435,
+    45.666436
+],
+  "geometry": {"coordinates":[-118.66943499999999,45.666436],"type":"Point"}
 }

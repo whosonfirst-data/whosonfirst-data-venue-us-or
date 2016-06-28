@@ -2,13 +2,14 @@
   "id": 386986577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.697923,45.527028,-122.697923,45.527028",
     "geom:latitude":45.527028,
     "geom:longitude":-122.697923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 NW Hoyt St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386986577,
-    "wof:lastmodified":1449028893,
+    "wof:lastmodified":1466767438,
     "wof:name":"Room & Board",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-122.697923,45.527028,-122.697923,45.527028],
+  "bbox": [
+    -122.697923,
+    45.527028,
+    -122.697923,
+    45.527028
+],
   "geometry": {"coordinates":[-122.697923,45.527028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370410511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.845875,45.73686,-122.845875,45.73686",
     "geom:latitude":45.73686,
     "geom:longitude":-122.845875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51318 Dike Rd",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370410511,
-    "wof:lastmodified":1449029114,
+    "wof:lastmodified":1466771714,
     "wof:name":"Kris Haefker",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.845875,45.73686,-122.845875,45.73686],
-  "geometry": {"coordinates":[-122.845875,45.73686],"type":"Point"}
+  "bbox": [
+    -122.845875,
+    45.73686,
+    -122.845875,
+    45.73686
+],
+  "geometry": {"coordinates":[-122.84587500000001,45.73686],"type":"Point"}
 }

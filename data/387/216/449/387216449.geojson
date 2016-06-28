@@ -2,13 +2,14 @@
   "id": 387216449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.983214,45.522661,-122.983214,45.522661",
     "geom:latitude":45.522661,
     "geom:longitude":-122.983214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 E Main St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387216449,
-    "wof:lastmodified":1449059486,
+    "wof:lastmodified":1466771135,
     "wof:name":"Hillsboro Pediatric Clinic",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.983214,45.522661,-122.983214,45.522661],
+  "bbox": [
+    -122.983214,
+    45.522661,
+    -122.983214,
+    45.522661
+],
   "geometry": {"coordinates":[-122.983214,45.522661],"type":"Point"}
 }

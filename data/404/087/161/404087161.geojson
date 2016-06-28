@@ -2,13 +2,14 @@
   "id": 404087161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.649347,45.505364,-122.649347,45.505364",
     "geom:latitude":45.505364,
     "geom:longitude":-122.649347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 SE 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404087161,
-    "wof:lastmodified":1449039567,
+    "wof:lastmodified":1466770128,
     "wof:name":"Catholic Charismatic Prayer",
     "wof:parent_id":85893239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.649347,45.505364,-122.649347,45.505364],
-  "geometry": {"coordinates":[-122.649347,45.505364],"type":"Point"}
+  "bbox": [
+    -122.649347,
+    45.505364,
+    -122.649347,
+    45.505364
+],
+  "geometry": {"coordinates":[-122.64934700000001,45.505364],"type":"Point"}
 }

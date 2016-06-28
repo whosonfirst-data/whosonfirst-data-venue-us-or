@@ -2,13 +2,14 @@
   "id": 404083763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045038,44.914572,-123.045038,44.914572",
     "geom:latitude":44.914572,
     "geom:longitude":-123.045038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404083763,
-    "wof:lastmodified":1449039583,
+    "wof:lastmodified":1466770001,
     "wof:name":"Universal Field Services Inc",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.045038,44.914572,-123.045038,44.914572],
-  "geometry": {"coordinates":[-123.045038,44.914572],"type":"Point"}
+  "bbox": [
+    -123.045038,
+    44.914572,
+    -123.045038,
+    44.914572
+],
+  "geometry": {"coordinates":[-123.04503800000001,44.914572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370386421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.657333,45.571777,-122.657333,45.571777",
     "geom:latitude":45.571777,
     "geom:longitude":-122.657333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 NE Dekum St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370386421,
-    "wof:lastmodified":1449030858,
+    "wof:lastmodified":1466771530,
     "wof:name":"JBM Svc",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.657333,45.571777,-122.657333,45.571777],
-  "geometry": {"coordinates":[-122.657333,45.571777],"type":"Point"}
+  "bbox": [
+    -122.657333,
+    45.571777,
+    -122.657333,
+    45.571777
+],
+  "geometry": {"coordinates":[-122.65733299999999,45.571777],"type":"Point"}
 }

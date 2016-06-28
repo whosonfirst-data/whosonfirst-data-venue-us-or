@@ -2,13 +2,14 @@
   "id": 387513831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136125,44.027318,-123.136125,44.027318",
     "geom:latitude":44.027318,
     "geom:longitude":-123.136125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2761 Kismet Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387513831,
-    "wof:lastmodified":1449058631,
+    "wof:lastmodified":1466773325,
     "wof:name":"Fabri-Tech Corp",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.136125,44.027318,-123.136125,44.027318],
-  "geometry": {"coordinates":[-123.136125,44.027318],"type":"Point"}
+  "bbox": [
+    -123.136125,
+    44.027318,
+    -123.136125,
+    44.027318
+],
+  "geometry": {"coordinates":[-123.13612500000001,44.027318],"type":"Point"}
 }

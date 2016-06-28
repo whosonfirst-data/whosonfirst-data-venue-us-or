@@ -2,13 +2,14 @@
   "id": 404053977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.037867,44.807408,-123.037867,44.807408",
     "geom:latitude":44.807408,
     "geom:longitude":-123.037867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Twin Hills Rd SE",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404053977,
-    "wof:lastmodified":1449039282,
+    "wof:lastmodified":1466769371,
     "wof:name":"World Congress Microdentist",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.037867,44.807408,-123.037867,44.807408],
-  "geometry": {"coordinates":[-123.037867,44.807408],"type":"Point"}
+  "bbox": [
+    -123.037867,
+    44.807408,
+    -123.037867,
+    44.807408
+],
+  "geometry": {"coordinates":[-123.03786700000001,44.807408],"type":"Point"}
 }

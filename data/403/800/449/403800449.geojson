@@ -2,13 +2,14 @@
   "id": 403800449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.590004,45.453168,-122.590004,45.453168",
     "geom:latitude":45.453168,
     "geom:longitude":-122.590004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7280 SE Lamphier St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403800449,
-    "wof:lastmodified":1449054740,
+    "wof:lastmodified":1466769633,
     "wof:name":"Special Patrolmens Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.590004,45.453168,-122.590004,45.453168],
-  "geometry": {"coordinates":[-122.590004,45.453168],"type":"Point"}
+  "bbox": [
+    -122.590004,
+    45.453168,
+    -122.590004,
+    45.453168
+],
+  "geometry": {"coordinates":[-122.59000399999999,45.453168],"type":"Point"}
 }

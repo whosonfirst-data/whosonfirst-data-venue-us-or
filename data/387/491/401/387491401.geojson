@@ -2,13 +2,14 @@
   "id": 387491401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633367,45.32926,-122.633367,45.32926",
     "geom:latitude":45.32926,
     "geom:longitude":-122.633367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19239 Merchant Pl",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387491401,
-    "wof:lastmodified":1449056052,
+    "wof:lastmodified":1466773189,
     "wof:name":"Oic Electric Inc",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.633367,45.32926,-122.633367,45.32926],
-  "geometry": {"coordinates":[-122.633367,45.32926],"type":"Point"}
+  "bbox": [
+    -122.633367,
+    45.32926,
+    -122.633367,
+    45.32926
+],
+  "geometry": {"coordinates":[-122.63336700000001,45.32926],"type":"Point"}
 }

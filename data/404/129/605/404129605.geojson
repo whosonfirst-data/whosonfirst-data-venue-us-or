@@ -2,13 +2,14 @@
   "id": 404129605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.139613,44.617972,-121.139613,44.617972",
     "geom:latitude":44.617972,
     "geom:longitude":-121.139613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"458 SW Fairgrounds Rd",
     "sg:city":"Madras",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404129605,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466771177,
     "wof:name":"Jefferson County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-121.139613,44.617972,-121.139613,44.617972],
+  "bbox": [
+    -121.139613,
+    44.617972,
+    -121.139613,
+    44.617972
+],
   "geometry": {"coordinates":[-121.139613,44.617972],"type":"Point"}
 }

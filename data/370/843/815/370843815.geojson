@@ -2,13 +2,14 @@
   "id": 370843815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.650646,45.539063,-122.650646,45.539063",
     "geom:latitude":45.539063,
     "geom:longitude":-122.650646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 NE Thompson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370843815,
-    "wof:lastmodified":1449029384,
+    "wof:lastmodified":1466774481,
     "wof:name":"Thompson House",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-122.650646,45.539063,-122.650646,45.539063],
-  "geometry": {"coordinates":[-122.650646,45.539063],"type":"Point"}
+  "bbox": [
+    -122.650646,
+    45.539063,
+    -122.650646,
+    45.539063
+],
+  "geometry": {"coordinates":[-122.65064599999999,45.539063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370166307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.183997,44.048342,-123.183997,44.048342",
     "geom:latitude":44.048342,
     "geom:longitude":-123.183997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4977 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370166307,
-    "wof:lastmodified":1449030959,
+    "wof:lastmodified":1466767446,
     "wof:name":"Express Co Incorporated",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.183997,44.048342,-123.183997,44.048342],
-  "geometry": {"coordinates":[-123.183997,44.048342],"type":"Point"}
+  "bbox": [
+    -123.183997,
+    44.048342,
+    -123.183997,
+    44.048342
+],
+  "geometry": {"coordinates":[-123.18399700000001,44.048342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370817423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.824306,45.426782,-123.824306,45.426782",
     "geom:latitude":45.426782,
     "geom:longitude":-123.824306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 Hwy 101 S",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370817423,
-    "wof:lastmodified":1449031815,
+    "wof:lastmodified":1466774071,
     "wof:name":"Abbott Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.824306,45.426782,-123.824306,45.426782],
-  "geometry": {"coordinates":[-123.824306,45.426782],"type":"Point"}
+  "bbox": [
+    -123.824306,
+    45.426782,
+    -123.824306,
+    45.426782
+],
+  "geometry": {"coordinates":[-123.82430600000001,45.426782],"type":"Point"}
 }

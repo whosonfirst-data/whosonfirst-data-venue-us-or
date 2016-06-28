@@ -2,13 +2,14 @@
   "id": 387347893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.565723,42.251463,-123.565723,42.251463",
     "geom:latitude":42.251463,
     "geom:longitude":-123.565723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 McMullen Creek Rd",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387347893,
-    "wof:lastmodified":1449057941,
+    "wof:lastmodified":1466772114,
     "wof:name":"Tierra Madre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.565723,42.251463,-123.565723,42.251463],
-  "geometry": {"coordinates":[-123.565723,42.251463],"type":"Point"}
+  "bbox": [
+    -123.565723,
+    42.251463,
+    -123.565723,
+    42.251463
+],
+  "geometry": {"coordinates":[-123.56572300000001,42.251463],"type":"Point"}
 }

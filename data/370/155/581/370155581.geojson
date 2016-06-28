@@ -2,13 +2,14 @@
   "id": 370155581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.866881,45.553899,-122.866881,45.553899",
     "geom:latitude":45.553899,
     "geom:longitude":-122.866881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 NW Kahneeta Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370155581,
-    "wof:lastmodified":1449031881,
+    "wof:lastmodified":1466767263,
     "wof:name":"BP Consulting",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "used"
     ]
 },
-  "bbox": [-122.866881,45.553899,-122.866881,45.553899],
-  "geometry": {"coordinates":[-122.866881,45.553899],"type":"Point"}
+  "bbox": [
+    -122.866881,
+    45.553899,
+    -122.866881,
+    45.553899
+],
+  "geometry": {"coordinates":[-122.86688100000001,45.553899],"type":"Point"}
 }

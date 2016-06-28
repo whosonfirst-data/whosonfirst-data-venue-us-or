@@ -2,13 +2,14 @@
   "id": 370169633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.495021,45.494526,-122.495021,45.494526",
     "geom:latitude":45.494526,
     "geom:longitude":-122.495021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16211 SE Powell Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370169633,
-    "wof:lastmodified":1449031178,
+    "wof:lastmodified":1466767503,
     "wof:name":"Millenium Homes",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-122.495021,45.494526,-122.495021,45.494526],
-  "geometry": {"coordinates":[-122.495021,45.494526],"type":"Point"}
+  "bbox": [
+    -122.495021,
+    45.494526,
+    -122.495021,
+    45.494526
+],
+  "geometry": {"coordinates":[-122.49502099999999,45.494526],"type":"Point"}
 }

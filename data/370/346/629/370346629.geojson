@@ -2,13 +2,14 @@
   "id": 370346629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.795988,45.51122,-122.795988,45.51122",
     "geom:latitude":45.51122,
     "geom:longitude":-122.795988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11460 SW Lanewood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370346629,
-    "wof:lastmodified":1449029050,
+    "wof:lastmodified":1466770733,
     "wof:name":"Quicksilver Asphalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.795988,45.51122,-122.795988,45.51122],
-  "geometry": {"coordinates":[-122.795988,45.51122],"type":"Point"}
+  "bbox": [
+    -122.795988,
+    45.51122,
+    -122.795988,
+    45.51122
+],
+  "geometry": {"coordinates":[-122.79598799999999,45.51122],"type":"Point"}
 }

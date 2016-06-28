@@ -2,13 +2,14 @@
   "id": 370615367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.161707,44.048018,-123.161707,44.048018",
     "geom:latitude":44.048018,
     "geom:longitude":-123.161707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370615367,
-    "wof:lastmodified":1449030166,
+    "wof:lastmodified":1466772997,
     "wof:name":"Lotus Antiques",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-123.161707,44.048018,-123.161707,44.048018],
-  "geometry": {"coordinates":[-123.161707,44.048018],"type":"Point"}
+  "bbox": [
+    -123.161707,
+    44.048018,
+    -123.161707,
+    44.048018
+],
+  "geometry": {"coordinates":[-123.16170700000001,44.048018],"type":"Point"}
 }

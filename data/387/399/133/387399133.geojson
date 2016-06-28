@@ -2,13 +2,14 @@
   "id": 387399133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.510826,45.497366,-122.510826,45.497366",
     "geom:latitude":45.497366,
     "geom:longitude":-122.510826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14725 SE Rhine St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387399133,
-    "wof:lastmodified":1449056774,
+    "wof:lastmodified":1466772469,
     "wof:name":"Foster Elite Care",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.510826,45.497366,-122.510826,45.497366],
-  "geometry": {"coordinates":[-122.510826,45.497366],"type":"Point"}
+  "bbox": [
+    -122.510826,
+    45.497366,
+    -122.510826,
+    45.497366
+],
+  "geometry": {"coordinates":[-122.51082599999999,45.497366],"type":"Point"}
 }

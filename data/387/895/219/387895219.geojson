@@ -2,13 +2,14 @@
   "id": 387895219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.636711,45.535085,-122.636711,45.535085",
     "geom:latitude":45.535085,
     "geom:longitude":-122.636711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 NE Broadway St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387895219,
-    "wof:lastmodified":1449057722,
+    "wof:lastmodified":1466775270,
     "wof:name":"Salon 27",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.636711,45.535085,-122.636711,45.535085],
-  "geometry": {"coordinates":[-122.636711,45.535085],"type":"Point"}
+  "bbox": [
+    -122.636711,
+    45.535085,
+    -122.636711,
+    45.535085
+],
+  "geometry": {"coordinates":[-122.63671100000001,45.535085],"type":"Point"}
 }

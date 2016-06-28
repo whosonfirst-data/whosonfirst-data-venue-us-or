@@ -2,13 +2,14 @@
   "id": 370890453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.501961,43.67231,-121.501961,43.67231",
     "geom:latitude":43.67231,
     "geom:longitude":-121.501961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51546 Hwy 97",
     "sg:city":"La Pine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370890453,
-    "wof:lastmodified":1449029837,
+    "wof:lastmodified":1466774596,
     "wof:name":"Cascade Cosignment",
     "wof:parent_id":85876217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-121.501961,43.67231,-121.501961,43.67231],
-  "geometry": {"coordinates":[-121.501961,43.67231],"type":"Point"}
+  "bbox": [
+    -121.501961,
+    43.67231,
+    -121.501961,
+    43.67231
+],
+  "geometry": {"coordinates":[-121.50196099999999,43.67231],"type":"Point"}
 }

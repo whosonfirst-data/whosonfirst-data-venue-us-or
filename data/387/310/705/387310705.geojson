@@ -2,13 +2,14 @@
   "id": 387310705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601368,45.56944,-122.601368,45.56944",
     "geom:latitude":45.56944,
     "geom:longitude":-122.601368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6428 NE 59th Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387310705,
-    "wof:lastmodified":1449058448,
+    "wof:lastmodified":1466771852,
     "wof:name":"Advantage Moving & Storage LLC",
     "wof:parent_id":85893167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.601368,45.56944,-122.601368,45.56944],
-  "geometry": {"coordinates":[-122.601368,45.56944],"type":"Point"}
+  "bbox": [
+    -122.601368,
+    45.56944,
+    -122.601368,
+    45.56944
+],
+  "geometry": {"coordinates":[-122.60136799999999,45.56944],"type":"Point"}
 }

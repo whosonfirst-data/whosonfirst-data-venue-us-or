@@ -2,13 +2,14 @@
   "id": 403964929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.351475,44.051604,-123.351475,44.051604",
     "geom:latitude":44.051604,
     "geom:longitude":-123.351475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88233 Territorial Rd",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403964929,
-    "wof:lastmodified":1449055629,
+    "wof:lastmodified":1466768527,
     "wof:name":"Veneta Veterinary Hospital",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-123.351475,44.051604,-123.351475,44.051604],
-  "geometry": {"coordinates":[-123.351475,44.051604],"type":"Point"}
+  "bbox": [
+    -123.351475,
+    44.051604,
+    -123.351475,
+    44.051604
+],
+  "geometry": {"coordinates":[-123.35147499999999,44.051604],"type":"Point"}
 }

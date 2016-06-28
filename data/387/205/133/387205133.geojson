@@ -2,13 +2,14 @@
   "id": 387205133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.822966,45.451933,-122.822966,45.451933",
     "geom:latitude":45.451933,
     "geom:longitude":-122.822966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9320 SW Palomino Pl",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387205133,
-    "wof:lastmodified":1449058406,
+    "wof:lastmodified":1466770891,
     "wof:name":"Seabatmarine Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.822966,45.451933,-122.822966,45.451933],
-  "geometry": {"coordinates":[-122.822966,45.451933],"type":"Point"}
+  "bbox": [
+    -122.822966,
+    45.451933,
+    -122.822966,
+    45.451933
+],
+  "geometry": {"coordinates":[-122.82296599999999,45.451933],"type":"Point"}
 }

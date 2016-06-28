@@ -2,13 +2,14 @@
   "id": 386965731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.993965,45.522629,-122.993965,45.522629",
     "geom:latitude":45.522629,
     "geom:longitude":-122.993965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 W Main St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386965731,
-    "wof:lastmodified":1449028844,
+    "wof:lastmodified":1466767349,
     "wof:name":"Portland Computer Guys",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.993965,45.522629,-122.993965,45.522629],
+  "bbox": [
+    -122.993965,
+    45.522629,
+    -122.993965,
+    45.522629
+],
   "geometry": {"coordinates":[-122.993965,45.522629],"type":"Point"}
 }

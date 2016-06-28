@@ -2,13 +2,14 @@
   "id": 387373487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661619,45.556647,-122.661619,45.556647",
     "geom:latitude":45.556647,
     "geom:longitude":-122.661619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4747 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387373487,
-    "wof:lastmodified":1449058076,
+    "wof:lastmodified":1466772315,
     "wof:name":"John Wolf Co",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.661619,45.556647,-122.661619,45.556647],
+  "bbox": [
+    -122.661619,
+    45.556647,
+    -122.661619,
+    45.556647
+],
   "geometry": {"coordinates":[-122.661619,45.556647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370610953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.117162,44.031485,-123.117162,44.031485",
     "geom:latitude":44.031485,
     "geom:longitude":-123.117162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 Fillmore St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370610953,
-    "wof:lastmodified":1449032413,
+    "wof:lastmodified":1466773092,
     "wof:name":"Acorn House",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.117162,44.031485,-123.117162,44.031485],
-  "geometry": {"coordinates":[-123.117162,44.031485],"type":"Point"}
+  "bbox": [
+    -123.117162,
+    44.031485,
+    -123.117162,
+    44.031485
+],
+  "geometry": {"coordinates":[-123.11716199999999,44.031485],"type":"Point"}
 }

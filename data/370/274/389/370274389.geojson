@@ -2,13 +2,14 @@
   "id": 370274389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.139886,44.038374,-123.139886,44.038374",
     "geom:latitude":44.038374,
     "geom:longitude":-123.139886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Ellen Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370274389,
-    "wof:lastmodified":1449029505,
+    "wof:lastmodified":1466769346,
     "wof:name":"CCA Enterprise",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-123.139886,44.038374,-123.139886,44.038374],
+  "bbox": [
+    -123.139886,
+    44.038374,
+    -123.139886,
+    44.038374
+],
   "geometry": {"coordinates":[-123.139886,44.038374],"type":"Point"}
 }

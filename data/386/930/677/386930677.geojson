@@ -2,13 +2,14 @@
   "id": 386930677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.685265,45.525754,-122.685265,45.525754",
     "geom:latitude":45.525754,
     "geom:longitude":-122.685265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 NW 14th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386930677,
-    "wof:lastmodified":1449028716,
+    "wof:lastmodified":1466767154,
     "wof:name":"Oregon Singers",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-122.685265,45.525754,-122.685265,45.525754],
+  "bbox": [
+    -122.685265,
+    45.525754,
+    -122.685265,
+    45.525754
+],
   "geometry": {"coordinates":[-122.685265,45.525754],"type":"Point"}
 }

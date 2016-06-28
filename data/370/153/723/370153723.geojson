@@ -2,13 +2,14 @@
   "id": 370153723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.717964,45.375397,-122.717964,45.375397",
     "geom:latitude":45.375397,
     "geom:longitude":-122.717964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4061 SW Borland Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370153723,
-    "wof:lastmodified":1449031407,
+    "wof:lastmodified":1466767234,
     "wof:name":"O'Neill Construction",
     "wof:parent_id":85878581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.717964,45.375397,-122.717964,45.375397],
-  "geometry": {"coordinates":[-122.717964,45.375397],"type":"Point"}
+  "bbox": [
+    -122.717964,
+    45.375397,
+    -122.717964,
+    45.375397
+],
+  "geometry": {"coordinates":[-122.71796399999999,45.375397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370214123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.429487,45.508329,-122.429487,45.508329",
     "geom:latitude":45.508329,
     "geom:longitude":-122.429487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 NE Burnside Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370214123,
-    "wof:lastmodified":1449032363,
+    "wof:lastmodified":1466768276,
     "wof:name":"Les Schwab Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-122.429487,45.508329,-122.429487,45.508329],
-  "geometry": {"coordinates":[-122.429487,45.508329],"type":"Point"}
+  "bbox": [
+    -122.429487,
+    45.508329,
+    -122.429487,
+    45.508329
+],
+  "geometry": {"coordinates":[-122.42948699999999,45.508329],"type":"Point"}
 }

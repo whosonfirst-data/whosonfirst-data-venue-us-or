@@ -2,13 +2,14 @@
   "id": 387721109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151911,44.460943,-123.151911,44.460943",
     "geom:latitude":44.460943,
     "geom:longitude":-123.151911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30519 Fayetteville Dr",
     "sg:city":"Shedd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387721109,
-    "wof:lastmodified":1449059910,
+    "wof:lastmodified":1466774618,
     "wof:name":"Parker & Parker Warehouse",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-123.151911,44.460943,-123.151911,44.460943],
+  "bbox": [
+    -123.151911,
+    44.460943,
+    -123.151911,
+    44.460943
+],
   "geometry": {"coordinates":[-123.151911,44.460943],"type":"Point"}
 }

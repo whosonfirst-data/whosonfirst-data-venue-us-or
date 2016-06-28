@@ -2,13 +2,14 @@
   "id": 354398977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.116009,44.631254,-123.116009,44.631254",
     "geom:latitude":44.631254,
     "geom:longitude":-123.116009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 7th Ave SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354398977,
-    "wof:lastmodified":1449066062,
+    "wof:lastmodified":1466771281,
     "wof:name":"W Scott Serrill MD",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.116009,44.631254,-123.116009,44.631254],
-  "geometry": {"coordinates":[-123.116009,44.631254],"type":"Point"}
+  "bbox": [
+    -123.116009,
+    44.631254,
+    -123.116009,
+    44.631254
+],
+  "geometry": {"coordinates":[-123.11600900000001,44.631254],"type":"Point"}
 }

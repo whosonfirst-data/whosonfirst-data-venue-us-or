@@ -2,13 +2,14 @@
   "id": 387478255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.013104,44.946397,-123.013104,44.946397",
     "geom:latitude":44.946397,
     "geom:longitude":-123.013104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 18th St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387478255,
-    "wof:lastmodified":1449056244,
+    "wof:lastmodified":1466772995,
     "wof:name":"Sullivan Painting",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-123.013104,44.946397,-123.013104,44.946397],
+  "bbox": [
+    -123.013104,
+    44.946397,
+    -123.013104,
+    44.946397
+],
   "geometry": {"coordinates":[-123.013104,44.946397],"type":"Point"}
 }

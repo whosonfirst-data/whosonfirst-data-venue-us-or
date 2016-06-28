@@ -2,13 +2,14 @@
   "id": 386968443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.079248,43.770025,-123.079248,43.770025",
     "geom:latitude":43.770025,
     "geom:longitude":-123.079248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77684 State Hwy 99",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":386968443,
-    "wof:lastmodified":1449028650,
+    "wof:lastmodified":1466767360,
     "wof:name":"Kimwood Corp",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworking"
     ]
 },
-  "bbox": [-123.079248,43.770025,-123.079248,43.770025],
-  "geometry": {"coordinates":[-123.079248,43.770025],"type":"Point"}
+  "bbox": [
+    -123.079248,
+    43.770025,
+    -123.079248,
+    43.770025
+],
+  "geometry": {"coordinates":[-123.07924800000001,43.770025],"type":"Point"}
 }

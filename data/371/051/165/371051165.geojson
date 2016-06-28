@@ -2,13 +2,14 @@
   "id": 371051165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.794222,45.547675,-122.794222,45.547675",
     "geom:latitude":45.547675,
     "geom:longitude":-122.794222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11205 NW Thompson Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371051165,
-    "wof:lastmodified":1449049684,
+    "wof:lastmodified":1466768002,
     "wof:name":"Gene Brodsky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.794222,45.547675,-122.794222,45.547675],
+  "bbox": [
+    -122.794222,
+    45.547675,
+    -122.794222,
+    45.547675
+],
   "geometry": {"coordinates":[-122.794222,45.547675],"type":"Point"}
 }

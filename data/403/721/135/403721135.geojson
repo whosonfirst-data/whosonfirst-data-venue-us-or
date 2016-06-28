@@ -2,13 +2,14 @@
   "id": 403721135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581765,45.552986,-122.581765,45.552986",
     "geom:latitude":45.552986,
     "geom:longitude":-122.581765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 NE 79th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403721135,
-    "wof:lastmodified":1449055959,
+    "wof:lastmodified":1466768221,
     "wof:name":"Leslie L Watson",
     "wof:parent_id":85867145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.581765,45.552986,-122.581765,45.552986],
+  "bbox": [
+    -122.581765,
+    45.552986,
+    -122.581765,
+    45.552986
+],
   "geometry": {"coordinates":[-122.581765,45.552986],"type":"Point"}
 }

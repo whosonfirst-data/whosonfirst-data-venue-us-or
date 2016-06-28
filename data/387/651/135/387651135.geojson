@@ -2,13 +2,14 @@
   "id": 387651135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032072,44.943342,-123.032072,44.943342",
     "geom:latitude":44.943342,
     "geom:longitude":-123.032072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Marion St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387651135,
-    "wof:lastmodified":1449056853,
+    "wof:lastmodified":1466774216,
     "wof:name":"Police Dept",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-123.032072,44.943342,-123.032072,44.943342],
+  "bbox": [
+    -123.032072,
+    44.943342,
+    -123.032072,
+    44.943342
+],
   "geometry": {"coordinates":[-123.032072,44.943342],"type":"Point"}
 }

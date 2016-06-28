@@ -2,13 +2,14 @@
   "id": 387231857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.494138,45.509648,-122.494138,45.509648",
     "geom:latitude":45.509648,
     "geom:longitude":-122.494138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16446 SE Stephens Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387231857,
-    "wof:lastmodified":1449058054,
+    "wof:lastmodified":1466771421,
     "wof:name":"Pacific Crest Consulting Prgrm",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.494138,45.509648,-122.494138,45.509648],
-  "geometry": {"coordinates":[-122.494138,45.509648],"type":"Point"}
+  "bbox": [
+    -122.494138,
+    45.509648,
+    -122.494138,
+    45.509648
+],
+  "geometry": {"coordinates":[-122.49413800000001,45.509648],"type":"Point"}
 }

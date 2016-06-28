@@ -2,13 +2,14 @@
   "id": 370764395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.052602,43.797222,-123.052602,43.797222",
     "geom:latitude":43.797222,
     "geom:longitude":-123.052602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Main St",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370764395,
-    "wof:lastmodified":1449032312,
+    "wof:lastmodified":1466773874,
     "wof:name":"Safeway 1458",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supermarket"
     ]
 },
-  "bbox": [-123.052602,43.797222,-123.052602,43.797222],
-  "geometry": {"coordinates":[-123.052602,43.797222],"type":"Point"}
+  "bbox": [
+    -123.052602,
+    43.797222,
+    -123.052602,
+    43.797222
+],
+  "geometry": {"coordinates":[-123.05260199999999,43.797222],"type":"Point"}
 }

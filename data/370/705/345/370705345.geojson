@@ -2,13 +2,14 @@
   "id": 370705345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.105793,43.967259,-124.105793,43.967259",
     "geom:latitude":43.967259,
     "geom:longitude":-124.105793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Maple St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370705345,
-    "wof:lastmodified":1449032495,
+    "wof:lastmodified":1466773484,
     "wof:name":"Pauline's Place",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-124.105793,43.967259,-124.105793,43.967259],
-  "geometry": {"coordinates":[-124.105793,43.967259],"type":"Point"}
+  "bbox": [
+    -124.105793,
+    43.967259,
+    -124.105793,
+    43.967259
+],
+  "geometry": {"coordinates":[-124.10579300000001,43.967259],"type":"Point"}
 }

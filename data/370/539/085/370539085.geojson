@@ -2,13 +2,14 @@
   "id": 370539085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.611124,45.505302,-122.611124,45.505302",
     "geom:latitude":45.505302,
     "geom:longitude":-122.611124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 SE Division St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370539085,
-    "wof:lastmodified":1449032545,
+    "wof:lastmodified":1466772614,
     "wof:name":"Resolutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-122.611124,45.505302,-122.611124,45.505302],
+  "bbox": [
+    -122.611124,
+    45.505302,
+    -122.611124,
+    45.505302
+],
   "geometry": {"coordinates":[-122.611124,45.505302],"type":"Point"}
 }

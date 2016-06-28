@@ -2,13 +2,14 @@
   "id": 387000339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.186363,44.04872,-123.186363,44.04872",
     "geom:latitude":44.04872,
     "geom:longitude":-123.186363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Arrowsmith St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387000339,
-    "wof:lastmodified":1449056712,
+    "wof:lastmodified":1466767132,
     "wof:name":"Potter Manufacturing Co",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decal"
     ]
 },
-  "bbox": [-123.186363,44.04872,-123.186363,44.04872],
+  "bbox": [
+    -123.186363,
+    44.04872,
+    -123.186363,
+    44.04872
+],
   "geometry": {"coordinates":[-123.186363,44.04872],"type":"Point"}
 }

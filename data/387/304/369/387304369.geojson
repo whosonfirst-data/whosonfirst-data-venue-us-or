@@ -2,13 +2,14 @@
   "id": 387304369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.280273,44.593111,-123.280273,44.593111",
     "geom:latitude":44.593111,
     "geom:longitude":-123.280273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 NW Walnut Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387304369,
-    "wof:lastmodified":1449058942,
+    "wof:lastmodified":1466771939,
     "wof:name":"Cargo Northwest",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.280273,44.593111,-123.280273,44.593111],
-  "geometry": {"coordinates":[-123.280273,44.593111],"type":"Point"}
+  "bbox": [
+    -123.280273,
+    44.593111,
+    -123.280273,
+    44.593111
+],
+  "geometry": {"coordinates":[-123.28027299999999,44.593111],"type":"Point"}
 }

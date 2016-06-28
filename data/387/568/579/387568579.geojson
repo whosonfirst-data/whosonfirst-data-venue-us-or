@@ -2,13 +2,14 @@
   "id": 387568579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.518212,45.553766,-122.518212,45.553766",
     "geom:latitude":45.553766,
     "geom:longitude":-122.518212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14102 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387568579,
-    "wof:lastmodified":1449056026,
+    "wof:lastmodified":1466773737,
     "wof:name":"Parkway Gardens",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.518212,45.553766,-122.518212,45.553766],
-  "geometry": {"coordinates":[-122.518212,45.553766],"type":"Point"}
+  "bbox": [
+    -122.518212,
+    45.553766,
+    -122.518212,
+    45.553766
+],
+  "geometry": {"coordinates":[-122.51821200000001,45.553766],"type":"Point"}
 }

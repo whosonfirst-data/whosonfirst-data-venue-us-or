@@ -2,13 +2,14 @@
   "id": 387918535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.585529,45.444598,-122.585529,45.444598",
     "geom:latitude":45.444598,
     "geom:longitude":-122.585529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7562 SE Monroe St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387918535,
-    "wof:lastmodified":1449058698,
+    "wof:lastmodified":1466775350,
     "wof:name":"Family Dogs NW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.585529,45.444598,-122.585529,45.444598],
-  "geometry": {"coordinates":[-122.585529,45.444598],"type":"Point"}
+  "bbox": [
+    -122.585529,
+    45.444598,
+    -122.585529,
+    45.444598
+],
+  "geometry": {"coordinates":[-122.58552899999999,45.444598],"type":"Point"}
 }

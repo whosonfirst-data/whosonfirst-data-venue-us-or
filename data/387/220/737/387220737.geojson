@@ -2,13 +2,14 @@
   "id": 387220737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.881168,45.495385,-122.881168,45.495385",
     "geom:latitude":45.495385,
     "geom:longitude":-122.881168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20125 SW Tualatin Valley Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387220737,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1466771221,
     "wof:name":"Valley Woods Apartments",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.881168,45.495385,-122.881168,45.495385],
+  "bbox": [
+    -122.881168,
+    45.495385,
+    -122.881168,
+    45.495385
+],
   "geometry": {"coordinates":[-122.881168,45.495385],"type":"Point"}
 }

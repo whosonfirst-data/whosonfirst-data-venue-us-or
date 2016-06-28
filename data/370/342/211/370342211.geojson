@@ -2,13 +2,14 @@
   "id": 370342211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.852394,45.456241,-123.852394,45.456241",
     "geom:latitude":45.456241,
     "geom:longitude":-123.852394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 3rd St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370342211,
-    "wof:lastmodified":1449032220,
+    "wof:lastmodified":1466770641,
     "wof:name":"Stan J Neitling MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.852394,45.456241,-123.852394,45.456241],
+  "bbox": [
+    -123.852394,
+    45.456241,
+    -123.852394,
+    45.456241
+],
   "geometry": {"coordinates":[-123.852394,45.456241],"type":"Point"}
 }

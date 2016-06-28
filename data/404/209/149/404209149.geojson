@@ -2,13 +2,14 @@
   "id": 404209149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628318,45.531599,-122.628318,45.531599",
     "geom:latitude":45.531599,
     "geom:longitude":-122.628318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 NE Multnomah St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404209149,
-    "wof:lastmodified":1449040195,
+    "wof:lastmodified":1466768268,
     "wof:name":"Sterling Talent",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "orchestra"
     ]
 },
-  "bbox": [-122.628318,45.531599,-122.628318,45.531599],
-  "geometry": {"coordinates":[-122.628318,45.531599],"type":"Point"}
+  "bbox": [
+    -122.628318,
+    45.531599,
+    -122.628318,
+    45.531599
+],
+  "geometry": {"coordinates":[-122.62831799999999,45.531599],"type":"Point"}
 }

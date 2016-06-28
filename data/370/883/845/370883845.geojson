@@ -2,13 +2,14 @@
   "id": 370883845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.548128,45.466177,-122.548128,45.466177",
     "geom:latitude":45.466177,
     "geom:longitude":-122.548128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 SE 112th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370883845,
-    "wof:lastmodified":1449031682,
+    "wof:lastmodified":1466774564,
     "wof:name":"Freelance Enterprises",
     "wof:parent_id":85803591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.548128,45.466177,-122.548128,45.466177],
-  "geometry": {"coordinates":[-122.548128,45.466177],"type":"Point"}
+  "bbox": [
+    -122.548128,
+    45.466177,
+    -122.548128,
+    45.466177
+],
+  "geometry": {"coordinates":[-122.54812800000001,45.466177],"type":"Point"}
 }

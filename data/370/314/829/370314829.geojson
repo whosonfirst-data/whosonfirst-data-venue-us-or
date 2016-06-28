@@ -2,13 +2,14 @@
   "id": 370314829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.322763,42.442103,-123.322763,42.442103",
     "geom:latitude":42.442103,
     "geom:longitude":-123.322763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 NE B St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370314829,
-    "wof:lastmodified":1449032329,
+    "wof:lastmodified":1466770112,
     "wof:name":"Forrester & Forrester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planner"
     ]
 },
-  "bbox": [-123.322763,42.442103,-123.322763,42.442103],
-  "geometry": {"coordinates":[-123.322763,42.442103],"type":"Point"}
+  "bbox": [
+    -123.322763,
+    42.442103,
+    -123.322763,
+    42.442103
+],
+  "geometry": {"coordinates":[-123.32276299999999,42.442103],"type":"Point"}
 }

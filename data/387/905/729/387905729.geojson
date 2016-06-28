@@ -2,13 +2,14 @@
   "id": 387905729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.044288,42.431635,-123.044288,42.431635",
     "geom:latitude":42.431635,
     "geom:longitude":-123.044288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 4th Ave",
     "sg:city":"Gold Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387905729,
-    "wof:lastmodified":1449057594,
+    "wof:lastmodified":1466775300,
     "wof:name":"Gold Hill City Office",
     "wof:parent_id":85868985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-123.044288,42.431635,-123.044288,42.431635],
-  "geometry": {"coordinates":[-123.044288,42.431635],"type":"Point"}
+  "bbox": [
+    -123.044288,
+    42.431635,
+    -123.044288,
+    42.431635
+],
+  "geometry": {"coordinates":[-123.04428799999999,42.431635],"type":"Point"}
 }

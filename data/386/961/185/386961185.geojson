@@ -2,13 +2,14 @@
   "id": 386961185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.646295,45.511471,-122.646295,45.511471",
     "geom:latitude":45.511471,
     "geom:longitude":-122.646295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 SE Elliott Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386961185,
-    "wof:lastmodified":1449028963,
+    "wof:lastmodified":1466767323,
     "wof:name":"Celtic Harp",
     "wof:parent_id":85828991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.646295,45.511471,-122.646295,45.511471],
-  "geometry": {"coordinates":[-122.646295,45.511471],"type":"Point"}
+  "bbox": [
+    -122.646295,
+    45.511471,
+    -122.646295,
+    45.511471
+],
+  "geometry": {"coordinates":[-122.64629499999999,45.511471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403770477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.069331,45.315914,-123.069331,45.315914",
     "geom:latitude":45.315914,
     "geom:longitude":-123.069331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13445 NE Worden Hill Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403770477,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466769188,
     "wof:name":"Philpott Apple Orchards Co",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tree"
     ]
 },
-  "bbox": [-123.069331,45.315914,-123.069331,45.315914],
-  "geometry": {"coordinates":[-123.069331,45.315914],"type":"Point"}
+  "bbox": [
+    -123.069331,
+    45.315914,
+    -123.069331,
+    45.315914
+],
+  "geometry": {"coordinates":[-123.06933100000001,45.315914],"type":"Point"}
 }

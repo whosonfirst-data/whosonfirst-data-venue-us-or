@@ -2,13 +2,14 @@
   "id": 403744051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.608113,45.35805,-122.608113,45.35805",
     "geom:latitude":45.35805,
     "geom:longitude":-122.608113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Main St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403744051,
-    "wof:lastmodified":1449055111,
+    "wof:lastmodified":1466768761,
     "wof:name":"Clackamas Brd-Property Tax Apl",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-122.608113,45.35805,-122.608113,45.35805],
+  "bbox": [
+    -122.608113,
+    45.35805,
+    -122.608113,
+    45.35805
+],
   "geometry": {"coordinates":[-122.608113,45.35805],"type":"Point"}
 }

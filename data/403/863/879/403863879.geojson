@@ -2,13 +2,14 @@
   "id": 403863879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.949394,44.392528,-118.949394,44.392528",
     "geom:latitude":44.392528,
     "geom:longitude":-118.949394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Clark St",
     "sg:city":"Canyon City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403863879,
-    "wof:lastmodified":1449055524,
+    "wof:lastmodified":1466771041,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.949394,44.392528,-118.949394,44.392528],
+  "bbox": [
+    -118.949394,
+    44.392528,
+    -118.949394,
+    44.392528
+],
   "geometry": {"coordinates":[-118.949394,44.392528],"type":"Point"}
 }

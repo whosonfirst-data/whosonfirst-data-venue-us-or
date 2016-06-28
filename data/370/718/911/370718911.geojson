@@ -2,13 +2,14 @@
   "id": 370718911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.610371,45.562829,-122.610371,45.562829",
     "geom:latitude":45.562829,
     "geom:longitude":-122.610371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5023 NE Killingsworth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370718911,
-    "wof:lastmodified":1449029825,
+    "wof:lastmodified":1466773648,
     "wof:name":"Cascadia Behavioral Health",
     "wof:parent_id":85893167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.610371,45.562829,-122.610371,45.562829],
+  "bbox": [
+    -122.610371,
+    45.562829,
+    -122.610371,
+    45.562829
+],
   "geometry": {"coordinates":[-122.610371,45.562829],"type":"Point"}
 }

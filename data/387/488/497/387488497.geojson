@@ -2,13 +2,14 @@
   "id": 387488497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.689486,45.521459,-122.689486,45.521459",
     "geom:latitude":45.521459,
     "geom:longitude":-122.689486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 SW 17th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387488497,
-    "wof:lastmodified":1449059825,
+    "wof:lastmodified":1466773159,
     "wof:name":"Stadium Station Apartments",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.689486,45.521459,-122.689486,45.521459],
+  "bbox": [
+    -122.689486,
+    45.521459,
+    -122.689486,
+    45.521459
+],
   "geometry": {"coordinates":[-122.689486,45.521459],"type":"Point"}
 }

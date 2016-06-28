@@ -2,13 +2,14 @@
   "id": 370780483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.159472,44.683853,-123.159472,44.683853",
     "geom:latitude":44.683853,
     "geom:longitude":-123.159472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4053 NW Oak Grove Dr",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370780483,
-    "wof:lastmodified":1449031627,
+    "wof:lastmodified":1466773985,
     "wof:name":"Smith Bob & Rose",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.159472,44.683853,-123.159472,44.683853],
-  "geometry": {"coordinates":[-123.159472,44.683853],"type":"Point"}
+  "bbox": [
+    -123.159472,
+    44.683853,
+    -123.159472,
+    44.683853
+],
+  "geometry": {"coordinates":[-123.15947199999999,44.683853],"type":"Point"}
 }

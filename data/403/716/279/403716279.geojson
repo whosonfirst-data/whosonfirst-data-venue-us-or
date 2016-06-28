@@ -2,13 +2,14 @@
   "id": 403716279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.783546,45.422717,-122.783546,45.422717",
     "geom:latitude":45.422717,
     "geom:longitude":-122.783546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13500 SW Pacific Hwy",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403716279,
-    "wof:lastmodified":1449054815,
+    "wof:lastmodified":1466768095,
     "wof:name":"WCI Investigative Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-122.783546,45.422717,-122.783546,45.422717],
+  "bbox": [
+    -122.783546,
+    45.422717,
+    -122.783546,
+    45.422717
+],
   "geometry": {"coordinates":[-122.783546,45.422717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386970353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.723931,45.332044,-122.723931,45.332044",
     "geom:latitude":45.332044,
     "geom:longitude":-122.723931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4651 SW Homesteader Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386970353,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1466767367,
     "wof:name":"Fernlund Paper Station Inc",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.723931,45.332044,-122.723931,45.332044],
-  "geometry": {"coordinates":[-122.723931,45.332044],"type":"Point"}
+  "bbox": [
+    -122.723931,
+    45.332044,
+    -122.723931,
+    45.332044
+],
+  "geometry": {"coordinates":[-122.72393099999999,45.332044],"type":"Point"}
 }

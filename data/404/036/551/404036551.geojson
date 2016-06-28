@@ -2,13 +2,14 @@
   "id": 404036551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.559626,45.55454,-121.559626,45.55454",
     "geom:latitude":45.55454,
     "geom:longitude":-121.559626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Mountain Meadow Dr",
     "sg:city":"Mount Hood Parkdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404036551,
-    "wof:lastmodified":1449039313,
+    "wof:lastmodified":1466769102,
     "wof:name":"Webbed Toes Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.559626,45.55454,-121.559626,45.55454],
-  "geometry": {"coordinates":[-121.559626,45.55454],"type":"Point"}
+  "bbox": [
+    -121.559626,
+    45.55454,
+    -121.559626,
+    45.55454
+],
+  "geometry": {"coordinates":[-121.55962599999999,45.55454],"type":"Point"}
 }

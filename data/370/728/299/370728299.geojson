@@ -2,13 +2,14 @@
   "id": 370728299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.785005,45.537403,-123.785005,45.537403",
     "geom:latitude":45.537403,
     "geom:longitude":-123.785005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 Kilchis River Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370728299,
-    "wof:lastmodified":1449029877,
+    "wof:lastmodified":1466773681,
     "wof:name":"Kilchis Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-123.785005,45.537403,-123.785005,45.537403],
+  "bbox": [
+    -123.785005,
+    45.537403,
+    -123.785005,
+    45.537403
+],
   "geometry": {"coordinates":[-123.785005,45.537403],"type":"Point"}
 }

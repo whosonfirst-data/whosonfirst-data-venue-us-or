@@ -2,13 +2,14 @@
   "id": 387640769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.112998,44.018081,-123.112998,44.018081",
     "geom:latitude":44.018081,
     "geom:longitude":-123.112998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Mesa Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387640769,
-    "wof:lastmodified":1449057758,
+    "wof:lastmodified":1466774049,
     "wof:name":"Gwp Corp",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-123.112998,44.018081,-123.112998,44.018081],
+  "bbox": [
+    -123.112998,
+    44.018081,
+    -123.112998,
+    44.018081
+],
   "geometry": {"coordinates":[-123.112998,44.018081],"type":"Point"}
 }

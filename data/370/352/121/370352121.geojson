@@ -2,13 +2,14 @@
   "id": 370352121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.420093,45.493835,-122.420093,45.493835",
     "geom:latitude":45.493835,
     "geom:longitude":-122.420093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 SE 5th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370352121,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1466770852,
     "wof:name":"Dexter Mc Carty Middle School",
     "wof:parent_id":85868961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-122.420093,45.493835,-122.420093,45.493835],
-  "geometry": {"coordinates":[-122.420093,45.493835],"type":"Point"}
+  "bbox": [
+    -122.420093,
+    45.493835,
+    -122.420093,
+    45.493835
+],
+  "geometry": {"coordinates":[-122.42009299999999,45.493835],"type":"Point"}
 }

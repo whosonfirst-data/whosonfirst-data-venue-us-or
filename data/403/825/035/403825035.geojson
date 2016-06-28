@@ -2,13 +2,14 @@
   "id": 403825035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.088057,44.055553,-123.088057,44.055553",
     "geom:latitude":44.055553,
     "geom:longitude":-123.088057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 High St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403825035,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466770233,
     "wof:name":"Ashleys Deli",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-123.088057,44.055553,-123.088057,44.055553],
-  "geometry": {"coordinates":[-123.088057,44.055553],"type":"Point"}
+  "bbox": [
+    -123.088057,
+    44.055553,
+    -123.088057,
+    44.055553
+],
+  "geometry": {"coordinates":[-123.08805700000001,44.055553],"type":"Point"}
 }

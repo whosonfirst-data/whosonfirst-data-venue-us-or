@@ -2,13 +2,14 @@
   "id": 370524307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.052909,44.051915,-123.052909,44.051915",
     "geom:latitude":44.051915,
     "geom:longitude":-123.052909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Bardell Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370524307,
-    "wof:lastmodified":1449029031,
+    "wof:lastmodified":1466772498,
     "wof:name":"Silicon Silver",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-123.052909,44.051915,-123.052909,44.051915],
+  "bbox": [
+    -123.052909,
+    44.051915,
+    -123.052909,
+    44.051915
+],
   "geometry": {"coordinates":[-123.052909,44.051915],"type":"Point"}
 }

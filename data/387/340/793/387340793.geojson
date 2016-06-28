@@ -2,13 +2,14 @@
   "id": 387340793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.836745,44.774292,-117.836745,44.774292",
     "geom:latitude":44.774292,
     "geom:longitude":-117.836745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 6th St",
     "sg:city":"Baker City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387340793,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1466772061,
     "wof:name":"Windjammer Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-117.836745,44.774292,-117.836745,44.774292],
-  "geometry": {"coordinates":[-117.836745,44.774292],"type":"Point"}
+  "bbox": [
+    -117.836745,
+    44.774292,
+    -117.836745,
+    44.774292
+],
+  "geometry": {"coordinates":[-117.83674499999999,44.774292],"type":"Point"}
 }

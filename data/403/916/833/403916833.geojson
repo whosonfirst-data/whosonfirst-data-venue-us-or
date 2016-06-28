@@ -2,13 +2,14 @@
   "id": 403916833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.037103,44.940857,-123.037103,44.940857",
     "geom:latitude":44.940857,
     "geom:longitude":-123.037103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Court St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403916833,
-    "wof:lastmodified":1449055362,
+    "wof:lastmodified":1466767658,
     "wof:name":"G E Mallow Investigations",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-123.037103,44.940857,-123.037103,44.940857],
+  "bbox": [
+    -123.037103,
+    44.940857,
+    -123.037103,
+    44.940857
+],
   "geometry": {"coordinates":[-123.037103,44.940857],"type":"Point"}
 }

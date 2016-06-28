@@ -2,13 +2,14 @@
   "id": 387023473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.961655,44.993538,-122.961655,44.993538",
     "geom:latitude":44.993538,
     "geom:longitude":-122.961655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4726 Oakleaf Ct NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387023473,
-    "wof:lastmodified":1449059546,
+    "wof:lastmodified":1466767515,
     "wof:name":"Associated Mobile Home Svc",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-122.961655,44.993538,-122.961655,44.993538],
-  "geometry": {"coordinates":[-122.961655,44.993538],"type":"Point"}
+  "bbox": [
+    -122.961655,
+    44.993538,
+    -122.961655,
+    44.993538
+],
+  "geometry": {"coordinates":[-122.96165499999999,44.993538],"type":"Point"}
 }

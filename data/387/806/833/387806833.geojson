@@ -2,13 +2,14 @@
   "id": 387806833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628728,45.510388,-122.628728,45.510388",
     "geom:latitude":45.510388,
     "geom:longitude":-122.628728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1837 SE 35th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387806833,
-    "wof:lastmodified":1449056101,
+    "wof:lastmodified":1466775020,
     "wof:name":"James D Beaton",
     "wof:parent_id":85867133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.628728,45.510388,-122.628728,45.510388],
+  "bbox": [
+    -122.628728,
+    45.510388,
+    -122.628728,
+    45.510388
+],
   "geometry": {"coordinates":[-122.628728,45.510388],"type":"Point"}
 }

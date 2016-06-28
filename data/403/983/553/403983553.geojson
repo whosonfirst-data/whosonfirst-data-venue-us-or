@@ -2,13 +2,14 @@
   "id": 403983553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.910247,45.55955,-123.910247,45.55955",
     "geom:latitude":45.55955,
     "geom:longitude":-123.910247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Garibaldi Ave",
     "sg:city":"Garibaldi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403983553,
-    "wof:lastmodified":1449055851,
+    "wof:lastmodified":1466768853,
     "wof:name":"Tami's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.910247,45.55955,-123.910247,45.55955],
+  "bbox": [
+    -123.910247,
+    45.55955,
+    -123.910247,
+    45.55955
+],
   "geometry": {"coordinates":[-123.910247,45.55955],"type":"Point"}
 }

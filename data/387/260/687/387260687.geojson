@@ -2,13 +2,14 @@
   "id": 387260687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.336391,44.761963,-123.336391,44.761963",
     "geom:latitude":44.761963,
     "geom:longitude":-123.336391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14810 Airlie Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387260687,
-    "wof:lastmodified":1449056735,
+    "wof:lastmodified":1466771682,
     "wof:name":"Airlie Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-123.336391,44.761963,-123.336391,44.761963],
-  "geometry": {"coordinates":[-123.336391,44.761963],"type":"Point"}
+  "bbox": [
+    -123.336391,
+    44.761963,
+    -123.336391,
+    44.761963
+],
+  "geometry": {"coordinates":[-123.33639100000001,44.761963],"type":"Point"}
 }

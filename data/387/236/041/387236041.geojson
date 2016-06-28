@@ -2,13 +2,14 @@
   "id": 387236041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.351521,43.272051,-123.351521,43.272051",
     "geom:latitude":43.272051,
     "geom:longitude":-123.351521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Saddlebutte Ln",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387236041,
-    "wof:lastmodified":1449056514,
+    "wof:lastmodified":1466771684,
     "wof:name":"Out Back Septic Svc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-123.351521,43.272051,-123.351521,43.272051],
-  "geometry": {"coordinates":[-123.351521,43.272051],"type":"Point"}
+  "bbox": [
+    -123.351521,
+    43.272051,
+    -123.351521,
+    43.272051
+],
+  "geometry": {"coordinates":[-123.35152100000001,43.272051],"type":"Point"}
 }

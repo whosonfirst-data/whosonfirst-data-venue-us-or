@@ -2,13 +2,14 @@
   "id": 387030385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.77093,45.513244,-118.77093,45.513244",
     "geom:latitude":45.513244,
     "geom:longitude":-118.77093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68445 Shaw Rd",
     "sg:city":"Pilot Rock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387030385,
-    "wof:lastmodified":1449057497,
+    "wof:lastmodified":1466767629,
     "wof:name":"Morehead Farming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-118.77093,45.513244,-118.77093,45.513244],
-  "geometry": {"coordinates":[-118.77093,45.513244],"type":"Point"}
+  "bbox": [
+    -118.77093,
+    45.513244,
+    -118.77093,
+    45.513244
+],
+  "geometry": {"coordinates":[-118.77093000000001,45.513244],"type":"Point"}
 }

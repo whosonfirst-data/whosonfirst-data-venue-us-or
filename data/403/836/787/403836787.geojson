@@ -2,13 +2,14 @@
   "id": 403836787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01708,44.93935,-123.01708,44.93935",
     "geom:latitude":44.93935,
     "geom:longitude":-123.01708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Center St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403836787,
-    "wof:lastmodified":1449055497,
+    "wof:lastmodified":1466771486,
     "wof:name":"Hedley Clews",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-123.01708,44.93935,-123.01708,44.93935],
-  "geometry": {"coordinates":[-123.01708,44.93935],"type":"Point"}
+  "bbox": [
+    -123.01708,
+    44.93935,
+    -123.01708,
+    44.93935
+],
+  "geometry": {"coordinates":[-123.01708000000001,44.93935],"type":"Point"}
 }

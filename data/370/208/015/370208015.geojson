@@ -2,13 +2,14 @@
   "id": 370208015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.338113,42.384188,-123.338113,42.384188",
     "geom:latitude":42.384188,
     "geom:longitude":-123.338113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Williams Hwy",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370208015,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1466768171,
     "wof:name":"Funky Towne Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.338113,42.384188,-123.338113,42.384188],
-  "geometry": {"coordinates":[-123.338113,42.384188],"type":"Point"}
+  "bbox": [
+    -123.338113,
+    42.384188,
+    -123.338113,
+    42.384188
+],
+  "geometry": {"coordinates":[-123.33811300000001,42.384188],"type":"Point"}
 }

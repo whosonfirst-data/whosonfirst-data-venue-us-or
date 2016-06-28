@@ -2,13 +2,14 @@
   "id": 370257691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.545499,45.501287,-122.545499,45.501287",
     "geom:latitude":45.501287,
     "geom:longitude":-122.545499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 SE 115th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370257691,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1466769030,
     "wof:name":"Hai Gov",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.545499,45.501287,-122.545499,45.501287],
-  "geometry": {"coordinates":[-122.545499,45.501287],"type":"Point"}
+  "bbox": [
+    -122.545499,
+    45.501287,
+    -122.545499,
+    45.501287
+],
+  "geometry": {"coordinates":[-122.54549900000001,45.501287],"type":"Point"}
 }

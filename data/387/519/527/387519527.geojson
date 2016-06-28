@@ -2,13 +2,14 @@
   "id": 387519527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.497721,44.573251,-123.497721,44.573251",
     "geom:latitude":44.573251,
     "geom:longitude":-123.497721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22214 Harris Rd",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387519527,
-    "wof:lastmodified":1449059665,
+    "wof:lastmodified":1466773268,
     "wof:name":"Morgan Manor",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.497721,44.573251,-123.497721,44.573251],
+  "bbox": [
+    -123.497721,
+    44.573251,
+    -123.497721,
+    44.573251
+],
   "geometry": {"coordinates":[-123.497721,44.573251],"type":"Point"}
 }

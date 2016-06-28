@@ -2,13 +2,14 @@
   "id": 386958151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136896,44.032429,-123.136896,44.032429",
     "geom:latitude":44.032429,
     "geom:longitude":-123.136896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2469 Park Forest Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386958151,
-    "wof:lastmodified":1449028878,
+    "wof:lastmodified":1466767312,
     "wof:name":"Von Ronne Enterprises",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.136896,44.032429,-123.136896,44.032429],
-  "geometry": {"coordinates":[-123.136896,44.032429],"type":"Point"}
+  "bbox": [
+    -123.136896,
+    44.032429,
+    -123.136896,
+    44.032429
+],
+  "geometry": {"coordinates":[-123.13689599999999,44.032429],"type":"Point"}
 }

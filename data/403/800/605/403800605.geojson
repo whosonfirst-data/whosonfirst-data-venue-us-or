@@ -2,13 +2,14 @@
   "id": 403800605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.845002,45.548694,-122.845002,45.548694",
     "geom:latitude":45.548694,
     "geom:longitude":-122.845002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16348 NW Charlais St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403800605,
-    "wof:lastmodified":1449054738,
+    "wof:lastmodified":1466769638,
     "wof:name":"Trump Hollow Builders",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.845002,45.548694,-122.845002,45.548694],
-  "geometry": {"coordinates":[-122.845002,45.548694],"type":"Point"}
+  "bbox": [
+    -122.845002,
+    45.548694,
+    -122.845002,
+    45.548694
+],
+  "geometry": {"coordinates":[-122.84500199999999,45.548694],"type":"Point"}
 }

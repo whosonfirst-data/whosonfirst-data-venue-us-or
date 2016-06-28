@@ -2,13 +2,14 @@
   "id": 370445863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.166687,45.219889,-123.166687,45.219889",
     "geom:latitude":45.219889,
     "geom:longitude":-123.166687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 NE Miller St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370445863,
-    "wof:lastmodified":1449029547,
+    "wof:lastmodified":1466771829,
     "wof:name":"McMinnville Business Park",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.166687,45.219889,-123.166687,45.219889],
+  "bbox": [
+    -123.166687,
+    45.219889,
+    -123.166687,
+    45.219889
+],
   "geometry": {"coordinates":[-123.166687,45.219889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354400163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.283288,45.840526,-119.283288,45.840526",
     "geom:latitude":45.840526,
     "geom:longitude":-119.283288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Main St",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354400163,
-    "wof:lastmodified":1449066095,
+    "wof:lastmodified":1466771303,
     "wof:name":"Umatilla Basin Watershed",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-119.283288,45.840526,-119.283288,45.840526],
+  "bbox": [
+    -119.283288,
+    45.840526,
+    -119.283288,
+    45.840526
+],
   "geometry": {"coordinates":[-119.283288,45.840526],"type":"Point"}
 }

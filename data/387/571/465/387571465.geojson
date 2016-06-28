@@ -2,13 +2,14 @@
   "id": 387571465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.784207,44.962619,-122.784207,44.962619",
     "geom:latitude":44.962619,
     "geom:longitude":-122.784207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13490 Finlay Rd NE",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387571465,
-    "wof:lastmodified":1449058710,
+    "wof:lastmodified":1466773754,
     "wof:name":"Donald Beale",
     "wof:parent_id":85880571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cattle"
     ]
 },
-  "bbox": [-122.784207,44.962619,-122.784207,44.962619],
-  "geometry": {"coordinates":[-122.784207,44.962619],"type":"Point"}
+  "bbox": [
+    -122.784207,
+    44.962619,
+    -122.784207,
+    44.962619
+],
+  "geometry": {"coordinates":[-122.78420699999999,44.962619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403835145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.298897,44.594239,-123.298897,44.594239",
     "geom:latitude":44.594239,
     "geom:longitude":-123.298897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 NW Princess St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403835145,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1466770495,
     "wof:name":"Trust of Robert Botts",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-123.298897,44.594239,-123.298897,44.594239],
+  "bbox": [
+    -123.298897,
+    44.594239,
+    -123.298897,
+    44.594239
+],
   "geometry": {"coordinates":[-123.298897,44.594239],"type":"Point"}
 }

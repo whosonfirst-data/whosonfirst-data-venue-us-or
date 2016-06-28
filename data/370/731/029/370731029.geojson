@@ -2,13 +2,14 @@
   "id": 370731029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.839621,45.548675,-122.839621,45.548675",
     "geom:latitude":45.548675,
     "geom:longitude":-122.839621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15735 NW Saint Andrews Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370731029,
-    "wof:lastmodified":1449032096,
+    "wof:lastmodified":1466773686,
     "wof:name":"Roland Rousseau",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.839621,45.548675,-122.839621,45.548675],
-  "geometry": {"coordinates":[-122.839621,45.548675],"type":"Point"}
+  "bbox": [
+    -122.839621,
+    45.548675,
+    -122.839621,
+    45.548675
+],
+  "geometry": {"coordinates":[-122.83962099999999,45.548675],"type":"Point"}
 }

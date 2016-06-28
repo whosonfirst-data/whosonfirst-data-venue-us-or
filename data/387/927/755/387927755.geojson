@@ -2,13 +2,14 @@
   "id": 387927755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675255,45.485341,-122.675255,45.485341",
     "geom:latitude":45.485341,
     "geom:longitude":-122.675255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 SW Macadam Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387927755,
-    "wof:lastmodified":1449059518,
+    "wof:lastmodified":1466775400,
     "wof:name":"Open Adoption & Family Svc Inc",
     "wof:parent_id":85893175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.675255,45.485341,-122.675255,45.485341],
-  "geometry": {"coordinates":[-122.675255,45.485341],"type":"Point"}
+  "bbox": [
+    -122.675255,
+    45.485341,
+    -122.675255,
+    45.485341
+],
+  "geometry": {"coordinates":[-122.67525500000001,45.485341],"type":"Point"}
 }

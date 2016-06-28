@@ -2,13 +2,14 @@
   "id": 370787981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.157119,45.368375,-123.157119,45.368375",
     "geom:latitude":45.368375,
     "geom:longitude":-123.157119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21735 NE Cove Orchard Rd",
     "sg:city":"Yamhill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370787981,
-    "wof:lastmodified":1449030629,
+    "wof:lastmodified":1466774029,
     "wof:name":"Healthcare Market Strategies",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.157119,45.368375,-123.157119,45.368375],
-  "geometry": {"coordinates":[-123.157119,45.368375],"type":"Point"}
+  "bbox": [
+    -123.157119,
+    45.368375,
+    -123.157119,
+    45.368375
+],
+  "geometry": {"coordinates":[-123.15711899999999,45.368375],"type":"Point"}
 }

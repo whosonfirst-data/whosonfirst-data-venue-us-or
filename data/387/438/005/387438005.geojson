@@ -2,13 +2,14 @@
   "id": 387438005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.845514,44.773623,-117.845514,44.773623",
     "geom:latitude":44.773623,
     "geom:longitude":-117.845514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Place St",
     "sg:city":"Baker City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387438005,
-    "wof:lastmodified":1449057390,
+    "wof:lastmodified":1466772696,
     "wof:name":"Detail On Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-117.845514,44.773623,-117.845514,44.773623],
-  "geometry": {"coordinates":[-117.845514,44.773623],"type":"Point"}
+  "bbox": [
+    -117.845514,
+    44.773623,
+    -117.845514,
+    44.773623
+],
+  "geometry": {"coordinates":[-117.84551399999999,44.773623],"type":"Point"}
 }

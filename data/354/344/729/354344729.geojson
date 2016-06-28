@@ -2,13 +2,14 @@
   "id": 354344729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.77836,45.005592,-122.77836,45.005592",
     "geom:latitude":45.005592,
     "geom:longitude":-122.77836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Jersey St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354344729,
-    "wof:lastmodified":1449066028,
+    "wof:lastmodified":1466770225,
     "wof:name":"Classic Glass",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.77836,45.005592,-122.77836,45.005592],
-  "geometry": {"coordinates":[-122.77836,45.005592],"type":"Point"}
+  "bbox": [
+    -122.77836,
+    45.005592,
+    -122.77836,
+    45.005592
+],
+  "geometry": {"coordinates":[-122.77836000000001,45.005592],"type":"Point"}
 }

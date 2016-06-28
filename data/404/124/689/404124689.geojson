@@ -2,13 +2,14 @@
   "id": 404124689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.636462,45.579998,-122.636462,45.579998",
     "geom:latitude":45.579998,
     "geom:longitude":-122.636462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 NE Riverside Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404124689,
-    "wof:lastmodified":1449040248,
+    "wof:lastmodified":1466771073,
     "wof:name":"Box Maker Inc",
     "wof:parent_id":85868949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "box"
     ]
 },
-  "bbox": [-122.636462,45.579998,-122.636462,45.579998],
-  "geometry": {"coordinates":[-122.636462,45.579998],"type":"Point"}
+  "bbox": [
+    -122.636462,
+    45.579998,
+    -122.636462,
+    45.579998
+],
+  "geometry": {"coordinates":[-122.63646199999999,45.579998],"type":"Point"}
 }

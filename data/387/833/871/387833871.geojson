@@ -2,13 +2,14 @@
   "id": 387833871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.901935,45.529714,-122.901935,45.529714",
     "geom:latitude":45.529714,
     "geom:longitude":-122.901935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21845 NW Cherry Ln",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387833871,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1466775230,
     "wof:name":"Walker Garbage & Recycling Svc",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "collection"
     ]
 },
-  "bbox": [-122.901935,45.529714,-122.901935,45.529714],
-  "geometry": {"coordinates":[-122.901935,45.529714],"type":"Point"}
+  "bbox": [
+    -122.901935,
+    45.529714,
+    -122.901935,
+    45.529714
+],
+  "geometry": {"coordinates":[-122.90193499999999,45.529714],"type":"Point"}
 }

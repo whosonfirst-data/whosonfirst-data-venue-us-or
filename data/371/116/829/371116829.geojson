@@ -2,13 +2,14 @@
   "id": 371116829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.494993,45.500154,-122.494993,45.500154",
     "geom:latitude":45.500154,
     "geom:longitude":-122.494993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16207 SE Tibbetts St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371116829,
-    "wof:lastmodified":1449049179,
+    "wof:lastmodified":1466769092,
     "wof:name":"Richard W Owens",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.494993,45.500154,-122.494993,45.500154],
-  "geometry": {"coordinates":[-122.494993,45.500154],"type":"Point"}
+  "bbox": [
+    -122.494993,
+    45.500154,
+    -122.494993,
+    45.500154
+],
+  "geometry": {"coordinates":[-122.49499299999999,45.500154],"type":"Point"}
 }

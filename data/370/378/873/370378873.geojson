@@ -2,13 +2,14 @@
   "id": 370378873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.91393,45.55929,-123.91393,45.55929",
     "geom:latitude":45.55929,
     "geom:longitude":-123.91393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Garibaldi Ave",
     "sg:city":"Garibaldi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370378873,
-    "wof:lastmodified":1449031363,
+    "wof:lastmodified":1466771381,
     "wof:name":"Godfrey's Garibaldi Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.91393,45.55929,-123.91393,45.55929],
-  "geometry": {"coordinates":[-123.91393,45.55929],"type":"Point"}
+  "bbox": [
+    -123.91393,
+    45.55929,
+    -123.91393,
+    45.55929
+],
+  "geometry": {"coordinates":[-123.91392999999999,45.55929],"type":"Point"}
 }

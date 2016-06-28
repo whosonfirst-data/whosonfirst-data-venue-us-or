@@ -2,13 +2,14 @@
   "id": 370693079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.112254,44.569822,-123.112254,44.569822",
     "geom:latitude":44.569822,
     "geom:longitude":-123.112254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34070 McFarland Rd",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370693079,
-    "wof:lastmodified":1449029276,
+    "wof:lastmodified":1466773427,
     "wof:name":"Olboy Machine Shop",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.112254,44.569822,-123.112254,44.569822],
-  "geometry": {"coordinates":[-123.112254,44.569822],"type":"Point"}
+  "bbox": [
+    -123.112254,
+    44.569822,
+    -123.112254,
+    44.569822
+],
+  "geometry": {"coordinates":[-123.11225399999999,44.569822],"type":"Point"}
 }

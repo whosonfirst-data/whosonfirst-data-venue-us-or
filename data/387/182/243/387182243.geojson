@@ -2,13 +2,14 @@
   "id": 387182243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.095537,44.004975,-124.095537,44.004975",
     "geom:latitude":44.004975,
     "geom:longitude":-124.095537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Munsel Creek Loop",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387182243,
-    "wof:lastmodified":1449058516,
+    "wof:lastmodified":1466770419,
     "wof:name":"Florentine Estates",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.095537,44.004975,-124.095537,44.004975],
-  "geometry": {"coordinates":[-124.095537,44.004975],"type":"Point"}
+  "bbox": [
+    -124.095537,
+    44.004975,
+    -124.095537,
+    44.004975
+],
+  "geometry": {"coordinates":[-124.09553699999999,44.004975],"type":"Point"}
 }

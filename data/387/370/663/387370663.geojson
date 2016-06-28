@@ -2,13 +2,14 @@
   "id": 387370663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.842931,45.45691,-122.842931,45.45691",
     "geom:latitude":45.45691,
     "geom:longitude":-122.842931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16186 SW Sexton Mountain Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387370663,
-    "wof:lastmodified":1449058187,
+    "wof:lastmodified":1466772290,
     "wof:name":"T W Morgan Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.842931,45.45691,-122.842931,45.45691],
-  "geometry": {"coordinates":[-122.842931,45.45691],"type":"Point"}
+  "bbox": [
+    -122.842931,
+    45.45691,
+    -122.842931,
+    45.45691
+],
+  "geometry": {"coordinates":[-122.84293099999999,45.45691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387502505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675379,45.520567,-122.675379,45.520567",
     "geom:latitude":45.520567,
     "geom:longitude":-122.675379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 SW 4th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387502505,
-    "wof:lastmodified":1449057847,
+    "wof:lastmodified":1466773255,
     "wof:name":"Norwester Rail Tours",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "promoter"
     ]
 },
-  "bbox": [-122.675379,45.520567,-122.675379,45.520567],
-  "geometry": {"coordinates":[-122.675379,45.520567],"type":"Point"}
+  "bbox": [
+    -122.675379,
+    45.520567,
+    -122.675379,
+    45.520567
+],
+  "geometry": {"coordinates":[-122.67537900000001,45.520567],"type":"Point"}
 }

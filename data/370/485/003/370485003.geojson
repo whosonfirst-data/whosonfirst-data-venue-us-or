@@ -2,13 +2,14 @@
   "id": 370485003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633395,45.32247,-122.633395,45.32247",
     "geom:latitude":45.32247,
     "geom:longitude":-122.633395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19586 Kari Ann Ct",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370485003,
-    "wof:lastmodified":1449031150,
+    "wof:lastmodified":1466772401,
     "wof:name":"Total Golf Management Svcs LLC",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-122.633395,45.32247,-122.633395,45.32247],
-  "geometry": {"coordinates":[-122.633395,45.32247],"type":"Point"}
+  "bbox": [
+    -122.633395,
+    45.32247,
+    -122.633395,
+    45.32247
+],
+  "geometry": {"coordinates":[-122.63339499999999,45.32247],"type":"Point"}
 }

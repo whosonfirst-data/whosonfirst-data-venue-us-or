@@ -2,13 +2,14 @@
   "id": 404035253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.015208,44.00064,-123.015208,44.00064",
     "geom:latitude":44.00064,
     "geom:longitude":-123.015208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85944 State Hwy 99 S",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404035253,
-    "wof:lastmodified":1449040062,
+    "wof:lastmodified":1466769076,
     "wof:name":"Land OGoshen Tavern",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-123.015208,44.00064,-123.015208,44.00064],
+  "bbox": [
+    -123.015208,
+    44.00064,
+    -123.015208,
+    44.00064
+],
   "geometry": {"coordinates":[-123.015208,44.00064],"type":"Point"}
 }

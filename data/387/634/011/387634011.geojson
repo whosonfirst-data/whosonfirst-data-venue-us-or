@@ -2,13 +2,14 @@
   "id": 387634011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.66115,45.196624,-122.66115,45.196624",
     "geom:latitude":45.196624,
     "geom:longitude":-122.66115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28284 S Dryland Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387634011,
-    "wof:lastmodified":1449057919,
+    "wof:lastmodified":1466774023,
     "wof:name":"Steve Olson Construction Inc",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "concrete"
     ]
 },
-  "bbox": [-122.66115,45.196624,-122.66115,45.196624],
-  "geometry": {"coordinates":[-122.66115,45.196624],"type":"Point"}
+  "bbox": [
+    -122.66115,
+    45.196624,
+    -122.66115,
+    45.196624
+],
+  "geometry": {"coordinates":[-122.66115000000001,45.196624],"type":"Point"}
 }

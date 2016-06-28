@@ -2,13 +2,14 @@
   "id": 387256393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.747993,45.000055,-122.747993,45.000055",
     "geom:latitude":45.000055,
     "geom:longitude":-122.747993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15470 Drew Ln NE",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387256393,
-    "wof:lastmodified":1449058998,
+    "wof:lastmodified":1466771650,
     "wof:name":"Barrett Electric",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.747993,45.000055,-122.747993,45.000055],
-  "geometry": {"coordinates":[-122.747993,45.000055],"type":"Point"}
+  "bbox": [
+    -122.747993,
+    45.000055,
+    -122.747993,
+    45.000055
+],
+  "geometry": {"coordinates":[-122.74799299999999,45.000055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370395357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.740603,45.413307,-122.740603,45.413307",
     "geom:latitude":45.413307,
     "geom:longitude":-122.740603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15460 Partridge Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370395357,
-    "wof:lastmodified":1449031971,
+    "wof:lastmodified":1466771578,
     "wof:name":"John K Sidman Construction",
     "wof:parent_id":85812127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.740603,45.413307,-122.740603,45.413307],
-  "geometry": {"coordinates":[-122.740603,45.413307],"type":"Point"}
+  "bbox": [
+    -122.740603,
+    45.413307,
+    -122.740603,
+    45.413307
+],
+  "geometry": {"coordinates":[-122.74060299999999,45.413307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404102575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.607988,45.352001,-122.607988,45.352001",
     "geom:latitude":45.352001,
     "geom:longitude":-122.607988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 John Adams St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404102575,
-    "wof:lastmodified":1449040251,
+    "wof:lastmodified":1466770640,
     "wof:name":"Garcia Nettleton Steel Spc",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.607988,45.352001,-122.607988,45.352001],
-  "geometry": {"coordinates":[-122.607988,45.352001],"type":"Point"}
+  "bbox": [
+    -122.607988,
+    45.352001,
+    -122.607988,
+    45.352001
+],
+  "geometry": {"coordinates":[-122.60798800000001,45.352001],"type":"Point"}
 }

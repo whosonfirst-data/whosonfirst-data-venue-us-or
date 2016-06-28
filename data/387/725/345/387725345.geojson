@@ -2,13 +2,14 @@
   "id": 387725345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820641,45.499386,-122.820641,45.499386",
     "geom:latitude":45.499386,
     "geom:longitude":-122.820641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 SW Karl Braun Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387725345,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1466774673,
     "wof:name":"Technical Visions Inc",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "marketing"
     ]
 },
-  "bbox": [-122.820641,45.499386,-122.820641,45.499386],
-  "geometry": {"coordinates":[-122.820641,45.499386],"type":"Point"}
+  "bbox": [
+    -122.820641,
+    45.499386,
+    -122.820641,
+    45.499386
+],
+  "geometry": {"coordinates":[-122.82064099999999,45.499386],"type":"Point"}
 }

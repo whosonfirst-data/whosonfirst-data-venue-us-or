@@ -2,13 +2,14 @@
   "id": 387131977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.323861,44.059745,-121.323861,44.059745",
     "geom:latitude":44.059745,
     "geom:longitude":-121.323861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 NW Harmon Blvd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387131977,
-    "wof:lastmodified":1449057246,
+    "wof:lastmodified":1466769402,
     "wof:name":"Northcraft/Foley",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.323861,44.059745,-121.323861,44.059745],
-  "geometry": {"coordinates":[-121.323861,44.059745],"type":"Point"}
+  "bbox": [
+    -121.323861,
+    44.059745,
+    -121.323861,
+    44.059745
+],
+  "geometry": {"coordinates":[-121.32386099999999,44.059745],"type":"Point"}
 }

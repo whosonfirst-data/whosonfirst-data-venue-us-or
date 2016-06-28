@@ -2,13 +2,14 @@
   "id": 370235371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.457018,45.431529,-122.457018,45.431529",
     "geom:latitude":45.431529,
     "geom:longitude":-122.457018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12635 SE 199th Dr",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370235371,
-    "wof:lastmodified":1449029675,
+    "wof:lastmodified":1466768624,
     "wof:name":"Simpson Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.457018,45.431529,-122.457018,45.431529],
-  "geometry": {"coordinates":[-122.457018,45.431529],"type":"Point"}
+  "bbox": [
+    -122.457018,
+    45.431529,
+    -122.457018,
+    45.431529
+],
+  "geometry": {"coordinates":[-122.45701800000001,45.431529],"type":"Point"}
 }

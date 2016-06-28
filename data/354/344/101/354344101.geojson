@@ -2,13 +2,14 @@
   "id": 354344101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.947814,44.820997,-122.947814,44.820997",
     "geom:latitude":44.820997,
     "geom:longitude":-122.947814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9113 55th Ave SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354344101,
-    "wof:lastmodified":1449066030,
+    "wof:lastmodified":1466770213,
     "wof:name":"Hightower Trucking",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.947814,44.820997,-122.947814,44.820997],
-  "geometry": {"coordinates":[-122.947814,44.820997],"type":"Point"}
+  "bbox": [
+    -122.947814,
+    44.820997,
+    -122.947814,
+    44.820997
+],
+  "geometry": {"coordinates":[-122.94781399999999,44.820997],"type":"Point"}
 }

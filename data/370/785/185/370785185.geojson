@@ -2,13 +2,14 @@
   "id": 370785185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633354,45.467796,-122.633354,45.467796",
     "geom:latitude":45.467796,
     "geom:longitude":-122.633354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 SE 29th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370785185,
-    "wof:lastmodified":1449031893,
+    "wof:lastmodified":1466774011,
     "wof:name":"Stinky Ink",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "book"
     ]
 },
-  "bbox": [-122.633354,45.467796,-122.633354,45.467796],
+  "bbox": [
+    -122.633354,
+    45.467796,
+    -122.633354,
+    45.467796
+],
   "geometry": {"coordinates":[-122.633354,45.467796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403958893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.649645,45.534385,-122.649645,45.534385",
     "geom:latitude":45.534385,
     "geom:longitude":-122.649645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 NE Weidler St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403958893,
-    "wof:lastmodified":1449055679,
+    "wof:lastmodified":1466768416,
     "wof:name":"Wendy Talbot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-122.649645,45.534385,-122.649645,45.534385],
-  "geometry": {"coordinates":[-122.649645,45.534385],"type":"Point"}
+  "bbox": [
+    -122.649645,
+    45.534385,
+    -122.649645,
+    45.534385
+],
+  "geometry": {"coordinates":[-122.64964500000001,45.534385],"type":"Point"}
 }

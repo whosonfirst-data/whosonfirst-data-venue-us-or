@@ -2,13 +2,14 @@
   "id": 387683367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045508,45.004496,-123.045508,45.004496",
     "geom:latitude":45.004496,
     "geom:longitude":-123.045508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Windsor Island Rd N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387683367,
-    "wof:lastmodified":1449057502,
+    "wof:lastmodified":1466774497,
     "wof:name":"Curt Durham",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.045508,45.004496,-123.045508,45.004496],
+  "bbox": [
+    -123.045508,
+    45.004496,
+    -123.045508,
+    45.004496
+],
   "geometry": {"coordinates":[-123.045508,45.004496],"type":"Point"}
 }

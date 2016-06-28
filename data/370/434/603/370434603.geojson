@@ -2,13 +2,14 @@
   "id": 370434603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675562,45.518115,-122.675562,45.518115",
     "geom:latitude":45.518115,
     "geom:longitude":-122.675562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370434603,
-    "wof:lastmodified":1449029828,
+    "wof:lastmodified":1466771869,
     "wof:name":"Trade Secret",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.675562,45.518115,-122.675562,45.518115],
+  "bbox": [
+    -122.675562,
+    45.518115,
+    -122.675562,
+    45.518115
+],
   "geometry": {"coordinates":[-122.675562,45.518115],"type":"Point"}
 }

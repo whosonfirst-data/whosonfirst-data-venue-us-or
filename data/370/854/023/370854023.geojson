@@ -2,13 +2,14 @@
   "id": 370854023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.052883,44.878045,-123.052883,44.878045",
     "geom:latitude":44.878045,
     "geom:longitude":-123.052883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Silver Hills Cir SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370854023,
-    "wof:lastmodified":1449032350,
+    "wof:lastmodified":1466774431,
     "wof:name":"Flam Trap",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "musical"
     ]
 },
-  "bbox": [-123.052883,44.878045,-123.052883,44.878045],
-  "geometry": {"coordinates":[-123.052883,44.878045],"type":"Point"}
+  "bbox": [
+    -123.052883,
+    44.878045,
+    -123.052883,
+    44.878045
+],
+  "geometry": {"coordinates":[-123.05288299999999,44.878045],"type":"Point"}
 }

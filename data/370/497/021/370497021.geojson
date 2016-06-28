@@ -2,13 +2,14 @@
   "id": 370497021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091708,44.041057,-123.091708,44.041057",
     "geom:latitude":44.041057,
     "geom:longitude":-123.091708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 E 17th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370497021,
-    "wof:lastmodified":1449032419,
+    "wof:lastmodified":1466772423,
     "wof:name":"The Ink Well",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-123.091708,44.041057,-123.091708,44.041057],
+  "bbox": [
+    -123.091708,
+    44.041057,
+    -123.091708,
+    44.041057
+],
   "geometry": {"coordinates":[-123.091708,44.041057],"type":"Point"}
 }

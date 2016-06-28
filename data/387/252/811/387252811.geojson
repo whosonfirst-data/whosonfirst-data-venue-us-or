@@ -2,13 +2,14 @@
   "id": 387252811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.681554,45.268486,-122.681554,45.268486",
     "geom:latitude":45.268486,
     "geom:longitude":-122.681554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 N Pine St",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387252811,
-    "wof:lastmodified":1449056605,
+    "wof:lastmodified":1466771646,
     "wof:name":"North Pine Mini Storage",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-122.681554,45.268486,-122.681554,45.268486],
-  "geometry": {"coordinates":[-122.681554,45.268486],"type":"Point"}
+  "bbox": [
+    -122.681554,
+    45.268486,
+    -122.681554,
+    45.268486
+],
+  "geometry": {"coordinates":[-122.68155400000001,45.268486],"type":"Point"}
 }

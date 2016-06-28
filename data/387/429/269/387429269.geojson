@@ -2,13 +2,14 @@
   "id": 387429269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.008429,44.044544,-123.008429,44.044544",
     "geom:latitude":44.044544,
     "geom:longitude":-123.008429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 S A St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387429269,
-    "wof:lastmodified":1449059716,
+    "wof:lastmodified":1466772891,
     "wof:name":"Lumber & Sawmill Workers",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.008429,44.044544,-123.008429,44.044544],
-  "geometry": {"coordinates":[-123.008429,44.044544],"type":"Point"}
+  "bbox": [
+    -123.008429,
+    44.044544,
+    -123.008429,
+    44.044544
+],
+  "geometry": {"coordinates":[-123.00842900000001,44.044544],"type":"Point"}
 }

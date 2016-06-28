@@ -2,13 +2,14 @@
   "id": 370375075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.557651,45.549512,-121.557651,45.549512",
     "geom:latitude":45.549512,
     "geom:longitude":-121.557651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6270 Miller Rd",
     "sg:city":"Mt Hood Parkdale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370375075,
-    "wof:lastmodified":1449029187,
+    "wof:lastmodified":1466771309,
     "wof:name":"Gorge Portable Sanitation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-121.557651,45.549512,-121.557651,45.549512],
-  "geometry": {"coordinates":[-121.557651,45.549512],"type":"Point"}
+  "bbox": [
+    -121.557651,
+    45.549512,
+    -121.557651,
+    45.549512
+],
+  "geometry": {"coordinates":[-121.55765100000001,45.549512],"type":"Point"}
 }

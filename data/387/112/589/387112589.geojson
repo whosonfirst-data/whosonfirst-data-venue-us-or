@@ -2,13 +2,14 @@
   "id": 387112589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.814777,45.516543,-122.814777,45.516543",
     "geom:latitude":45.516543,
     "geom:longitude":-122.814777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13380 SW Rita Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387112589,
-    "wof:lastmodified":1449057851,
+    "wof:lastmodified":1466769026,
     "wof:name":"Jesse Kilgore Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.814777,45.516543,-122.814777,45.516543],
-  "geometry": {"coordinates":[-122.814777,45.516543],"type":"Point"}
+  "bbox": [
+    -122.814777,
+    45.516543,
+    -122.814777,
+    45.516543
+],
+  "geometry": {"coordinates":[-122.81477700000001,45.516543],"type":"Point"}
 }

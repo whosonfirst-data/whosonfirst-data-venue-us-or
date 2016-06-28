@@ -2,13 +2,14 @@
   "id": 370602631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.063225,44.089988,-123.063225,44.089988",
     "geom:latitude":44.089988,
     "geom:longitude":-123.063225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 Chad Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370602631,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1466773140,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-123.063225,44.089988,-123.063225,44.089988],
+  "bbox": [
+    -123.063225,
+    44.089988,
+    -123.063225,
+    44.089988
+],
   "geometry": {"coordinates":[-123.063225,44.089988],"type":"Point"}
 }

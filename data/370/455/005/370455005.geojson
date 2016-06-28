@@ -2,13 +2,14 @@
   "id": 370455005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.857049,42.34391,-122.857049,42.34391",
     "geom:latitude":42.34391,
     "geom:longitude":-122.857049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Yucca St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370455005,
-    "wof:lastmodified":1449031928,
+    "wof:lastmodified":1466772015,
     "wof:name":"Rent-A-Van",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-122.857049,42.34391,-122.857049,42.34391],
+  "bbox": [
+    -122.857049,
+    42.34391,
+    -122.857049,
+    42.34391
+],
   "geometry": {"coordinates":[-122.857049,42.34391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387468965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.541413,45.629661,-121.541413,45.629661",
     "geom:latitude":45.629661,
     "geom:longitude":-121.541413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3270 Mud Alley Rd",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387468965,
-    "wof:lastmodified":1449058836,
+    "wof:lastmodified":1466772923,
     "wof:name":"Michael Schwartz Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-121.541413,45.629661,-121.541413,45.629661],
-  "geometry": {"coordinates":[-121.541413,45.629661],"type":"Point"}
+  "bbox": [
+    -121.541413,
+    45.629661,
+    -121.541413,
+    45.629661
+],
+  "geometry": {"coordinates":[-121.54141300000001,45.629661],"type":"Point"}
 }

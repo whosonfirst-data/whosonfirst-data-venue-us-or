@@ -2,13 +2,14 @@
   "id": 371117793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.790703,45.461144,-122.790703,45.461144",
     "geom:latitude":45.461144,
     "geom:longitude":-122.790703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7939 SW Cirrus Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371117793,
-    "wof:lastmodified":1449049772,
+    "wof:lastmodified":1466769109,
     "wof:name":"Eis Inc",
     "wof:parent_id":85818901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-122.790703,45.461144,-122.790703,45.461144],
-  "geometry": {"coordinates":[-122.790703,45.461144],"type":"Point"}
+  "bbox": [
+    -122.790703,
+    45.461144,
+    -122.790703,
+    45.461144
+],
+  "geometry": {"coordinates":[-122.79070299999999,45.461144],"type":"Point"}
 }

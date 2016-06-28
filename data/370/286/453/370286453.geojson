@@ -2,13 +2,14 @@
   "id": 370286453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.539759,45.565243,-122.539759,45.565243",
     "geom:latitude":45.565243,
     "geom:longitude":-122.539759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11744 NE Ainsworth Cir",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370286453,
-    "wof:lastmodified":1449029988,
+    "wof:lastmodified":1466769575,
     "wof:name":"IPD Co",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.539759,45.565243,-122.539759,45.565243],
+  "bbox": [
+    -122.539759,
+    45.565243,
+    -122.539759,
+    45.565243
+],
   "geometry": {"coordinates":[-122.539759,45.565243],"type":"Point"}
 }

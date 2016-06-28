@@ -2,13 +2,14 @@
   "id": 386978993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.745466,45.594836,-122.745466,45.594836",
     "geom:latitude":45.594836,
     "geom:longitude":-122.745466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9475 N Mohawk Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386978993,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1466767412,
     "wof:name":"Mohawk Apartments",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.745466,45.594836,-122.745466,45.594836],
-  "geometry": {"coordinates":[-122.745466,45.594836],"type":"Point"}
+  "bbox": [
+    -122.745466,
+    45.594836,
+    -122.745466,
+    45.594836
+],
+  "geometry": {"coordinates":[-122.74546599999999,45.594836],"type":"Point"}
 }

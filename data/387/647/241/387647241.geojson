@@ -2,13 +2,14 @@
   "id": 387647241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.578041,45.570059,-122.578041,45.570059",
     "geom:latitude":45.570059,
     "geom:longitude":-122.578041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6627 NE 82nd Ave Frontage Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387647241,
-    "wof:lastmodified":1449057906,
+    "wof:lastmodified":1466774089,
     "wof:name":"General Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-122.578041,45.570059,-122.578041,45.570059],
+  "bbox": [
+    -122.578041,
+    45.570059,
+    -122.578041,
+    45.570059
+],
   "geometry": {"coordinates":[-122.578041,45.570059],"type":"Point"}
 }

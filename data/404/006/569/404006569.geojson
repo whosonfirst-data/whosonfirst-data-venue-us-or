@@ -2,13 +2,14 @@
   "id": 404006569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.188244,45.208526,-123.188244,45.208526",
     "geom:latitude":45.208526,
     "geom:longitude":-123.188244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 SE 1st St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404006569,
-    "wof:lastmodified":1449040051,
+    "wof:lastmodified":1466768445,
     "wof:name":"Habitat For Humanity Restore",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-123.188244,45.208526,-123.188244,45.208526],
+  "bbox": [
+    -123.188244,
+    45.208526,
+    -123.188244,
+    45.208526
+],
   "geometry": {"coordinates":[-123.188244,45.208526],"type":"Point"}
 }

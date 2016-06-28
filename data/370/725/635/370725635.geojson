@@ -2,13 +2,14 @@
   "id": 370725635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.938877,45.718413,-123.938877,45.718413",
     "geom:latitude":45.718413,
     "geom:longitude":-123.938877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Laneda Ave",
     "sg:city":"Manzanita",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370725635,
-    "wof:lastmodified":1449029917,
+    "wof:lastmodified":1466773675,
     "wof:name":"North Coast Citizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-123.938877,45.718413,-123.938877,45.718413],
-  "geometry": {"coordinates":[-123.938877,45.718413],"type":"Point"}
+  "bbox": [
+    -123.938877,
+    45.718413,
+    -123.938877,
+    45.718413
+],
+  "geometry": {"coordinates":[-123.93887700000001,45.718413],"type":"Point"}
 }

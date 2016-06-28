@@ -2,13 +2,14 @@
   "id": 403791095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.581482,46.170722,-123.581482,46.170722",
     "geom:latitude":46.170722,
     "geom:longitude":-123.581482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92767 Allen Rd",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403791095,
-    "wof:lastmodified":1449055659,
+    "wof:lastmodified":1466769493,
     "wof:name":"Woodys Wabbits Inc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cage"
     ]
 },
-  "bbox": [-123.581482,46.170722,-123.581482,46.170722],
-  "geometry": {"coordinates":[-123.581482,46.170722],"type":"Point"}
+  "bbox": [
+    -123.581482,
+    46.170722,
+    -123.581482,
+    46.170722
+],
+  "geometry": {"coordinates":[-123.58148199999999,46.170722],"type":"Point"}
 }

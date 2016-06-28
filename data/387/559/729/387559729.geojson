@@ -2,13 +2,14 @@
   "id": 387559729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.546089,43.677199,-121.546089,43.677199",
     "geom:latitude":43.677199,
     "geom:longitude":-121.546089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51605 Pine St",
     "sg:city":"La Pine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387559729,
-    "wof:lastmodified":1449059080,
+    "wof:lastmodified":1466773688,
     "wof:name":"Head Start",
     "wof:parent_id":85876217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-121.546089,43.677199,-121.546089,43.677199],
-  "geometry": {"coordinates":[-121.546089,43.677199],"type":"Point"}
+  "bbox": [
+    -121.546089,
+    43.677199,
+    -121.546089,
+    43.677199
+],
+  "geometry": {"coordinates":[-121.54608899999999,43.677199],"type":"Point"}
 }

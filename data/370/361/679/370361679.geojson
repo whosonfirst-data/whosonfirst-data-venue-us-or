@@ -2,13 +2,14 @@
   "id": 370361679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.453744,45.514605,-122.453744,45.514605",
     "geom:latitude":45.514605,
     "geom:longitude":-122.453744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 NW Burnside Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370361679,
-    "wof:lastmodified":1449031560,
+    "wof:lastmodified":1466771043,
     "wof:name":"Gresham Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "replacement"
     ]
 },
-  "bbox": [-122.453744,45.514605,-122.453744,45.514605],
+  "bbox": [
+    -122.453744,
+    45.514605,
+    -122.453744,
+    45.514605
+],
   "geometry": {"coordinates":[-122.453744,45.514605],"type":"Point"}
 }

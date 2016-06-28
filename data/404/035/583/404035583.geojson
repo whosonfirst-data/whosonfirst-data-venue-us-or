@@ -2,13 +2,14 @@
   "id": 404035583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.148237,44.069105,-123.148237,44.069105",
     "geom:latitude":44.069105,
     "geom:longitude":-123.148237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3370 Bell Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404035583,
-    "wof:lastmodified":1449040062,
+    "wof:lastmodified":1466769082,
     "wof:name":"Hefty Trucking Co",
     "wof:parent_id":85877261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.148237,44.069105,-123.148237,44.069105],
-  "geometry": {"coordinates":[-123.148237,44.069105],"type":"Point"}
+  "bbox": [
+    -123.148237,
+    44.069105,
+    -123.148237,
+    44.069105
+],
+  "geometry": {"coordinates":[-123.14823699999999,44.069105],"type":"Point"}
 }

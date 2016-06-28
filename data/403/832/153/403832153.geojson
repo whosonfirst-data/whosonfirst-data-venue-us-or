@@ -2,13 +2,14 @@
   "id": 403832153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.424891,45.813548,-118.424891,45.813548",
     "geom:latitude":45.813548,
     "geom:longitude":-118.424891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Main St",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403832153,
-    "wof:lastmodified":1449054632,
+    "wof:lastmodified":1466770395,
     "wof:name":"Weston Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-118.424891,45.813548,-118.424891,45.813548],
+  "bbox": [
+    -118.424891,
+    45.813548,
+    -118.424891,
+    45.813548
+],
   "geometry": {"coordinates":[-118.424891,45.813548],"type":"Point"}
 }

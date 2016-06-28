@@ -2,13 +2,14 @@
   "id": 371057131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.841519,45.356643,-122.841519,45.356643",
     "geom:latitude":45.356643,
     "geom:longitude":-122.841519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 NW 1st St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371057131,
-    "wof:lastmodified":1449049538,
+    "wof:lastmodified":1466768098,
     "wof:name":"Smockville Station Antiques",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.841519,45.356643,-122.841519,45.356643],
-  "geometry": {"coordinates":[-122.841519,45.356643],"type":"Point"}
+  "bbox": [
+    -122.841519,
+    45.356643,
+    -122.841519,
+    45.356643
+],
+  "geometry": {"coordinates":[-122.84151900000001,45.356643],"type":"Point"}
 }

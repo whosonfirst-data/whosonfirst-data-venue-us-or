@@ -2,13 +2,14 @@
   "id": 370293531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.109004,43.981389,-124.109004,43.981389",
     "geom:latitude":43.981389,
     "geom:longitude":-124.109004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Kingwood St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370293531,
-    "wof:lastmodified":1449029756,
+    "wof:lastmodified":1466769704,
     "wof:name":"Florence Welding & Machine",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-124.109004,43.981389,-124.109004,43.981389],
+  "bbox": [
+    -124.109004,
+    43.981389,
+    -124.109004,
+    43.981389
+],
   "geometry": {"coordinates":[-124.109004,43.981389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370921271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721015,45.476214,-122.721015,45.476214",
     "geom:latitude":45.476214,
     "geom:longitude":-122.721015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4328 SW Idaho Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370921271,
-    "wof:lastmodified":1449031249,
+    "wof:lastmodified":1466774779,
     "wof:name":"Jeff Skinner",
     "wof:parent_id":85893245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.721015,45.476214,-122.721015,45.476214],
-  "geometry": {"coordinates":[-122.721015,45.476214],"type":"Point"}
+  "bbox": [
+    -122.721015,
+    45.476214,
+    -122.721015,
+    45.476214
+],
+  "geometry": {"coordinates":[-122.72101499999999,45.476214],"type":"Point"}
 }

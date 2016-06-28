@@ -2,13 +2,14 @@
   "id": 371103789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.984277,45.001132,-123.984277,45.001132",
     "geom:latitude":45.001132,
     "geom:longitude":-123.984277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 NE I Ave",
     "sg:city":"Neotsu",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371103789,
-    "wof:lastmodified":1449049694,
+    "wof:lastmodified":1466768860,
     "wof:name":"Funk's Pressure Washing",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-123.984277,45.001132,-123.984277,45.001132],
-  "geometry": {"coordinates":[-123.984277,45.001132],"type":"Point"}
+  "bbox": [
+    -123.984277,
+    45.001132,
+    -123.984277,
+    45.001132
+],
+  "geometry": {"coordinates":[-123.98427700000001,45.001132],"type":"Point"}
 }

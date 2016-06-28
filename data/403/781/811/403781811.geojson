@@ -2,13 +2,14 @@
   "id": 403781811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.161307,44.273224,-123.161307,44.273224",
     "geom:latitude":44.273224,
     "geom:longitude":-123.161307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"795 Monroe St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781811,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1466769358,
     "wof:name":"Jones' Worldwide Outfitters",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-123.161307,44.273224,-123.161307,44.273224],
-  "geometry": {"coordinates":[-123.161307,44.273224],"type":"Point"}
+  "bbox": [
+    -123.161307,
+    44.273224,
+    -123.161307,
+    44.273224
+],
+  "geometry": {"coordinates":[-123.16130699999999,44.273224],"type":"Point"}
 }

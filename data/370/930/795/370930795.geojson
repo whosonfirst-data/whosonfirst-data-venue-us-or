@@ -2,13 +2,14 @@
   "id": 370930795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.266097,44.168841,-121.266097,44.168841",
     "geom:latitude":44.168841,
     "geom:longitude":-121.266097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65234 78th St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370930795,
-    "wof:lastmodified":1449030178,
+    "wof:lastmodified":1466774837,
     "wof:name":"McWilliams Tile",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-121.266097,44.168841,-121.266097,44.168841],
+  "bbox": [
+    -121.266097,
+    44.168841,
+    -121.266097,
+    44.168841
+],
   "geometry": {"coordinates":[-121.266097,44.168841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387220053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.641961,45.449059,-122.641961,45.449059",
     "geom:latitude":45.449059,
     "geom:longitude":-122.641961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10387 SE Main St",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387220053,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1466771206,
     "wof:name":"Oregon Home Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.641961,45.449059,-122.641961,45.449059],
-  "geometry": {"coordinates":[-122.641961,45.449059],"type":"Point"}
+  "bbox": [
+    -122.641961,
+    45.449059,
+    -122.641961,
+    45.449059
+],
+  "geometry": {"coordinates":[-122.64196099999999,45.449059],"type":"Point"}
 }

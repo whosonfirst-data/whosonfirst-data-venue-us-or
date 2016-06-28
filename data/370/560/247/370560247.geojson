@@ -2,13 +2,14 @@
   "id": 370560247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.946384,45.286201,-122.946384,45.286201",
     "geom:latitude":45.286201,
     "geom:longitude":-122.946384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 NE Wynooski Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370560247,
-    "wof:lastmodified":1449031679,
+    "wof:lastmodified":1466772759,
     "wof:name":"National Realty LTD",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.946384,45.286201,-122.946384,45.286201],
-  "geometry": {"coordinates":[-122.946384,45.286201],"type":"Point"}
+  "bbox": [
+    -122.946384,
+    45.286201,
+    -122.946384,
+    45.286201
+],
+  "geometry": {"coordinates":[-122.94638399999999,45.286201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370684097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.527256,45.182814,-122.527256,45.182814",
     "geom:latitude":45.182814,
     "geom:longitude":-122.527256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29032 S Salo Rd",
     "sg:city":"Mulino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370684097,
-    "wof:lastmodified":1449029939,
+    "wof:lastmodified":1466773585,
     "wof:name":"Clarke Mfg Co Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.527256,45.182814,-122.527256,45.182814],
-  "geometry": {"coordinates":[-122.527256,45.182814],"type":"Point"}
+  "bbox": [
+    -122.527256,
+    45.182814,
+    -122.527256,
+    45.182814
+],
+  "geometry": {"coordinates":[-122.52725599999999,45.182814],"type":"Point"}
 }

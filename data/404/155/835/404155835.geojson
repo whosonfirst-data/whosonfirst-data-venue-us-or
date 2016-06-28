@@ -2,13 +2,14 @@
   "id": 404155835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.138221,45.200104,-123.138221,45.200104",
     "geom:latitude":45.200104,
     "geom:longitude":-123.138221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 SE Nimbus Loop",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404155835,
-    "wof:lastmodified":1449040083,
+    "wof:lastmodified":1466767342,
     "wof:name":"Comcast Ad Sales",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.138221,45.200104,-123.138221,45.200104],
+  "bbox": [
+    -123.138221,
+    45.200104,
+    -123.138221,
+    45.200104
+],
   "geometry": {"coordinates":[-123.138221,45.200104],"type":"Point"}
 }

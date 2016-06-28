@@ -2,13 +2,14 @@
   "id": 354279097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.031477,44.960715,-123.031477,44.960715",
     "geom:latitude":44.960715,
     "geom:longitude":-123.031477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Liberty St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354279097,
-    "wof:lastmodified":1449066695,
+    "wof:lastmodified":1466769177,
     "wof:name":"Oregon Parent Training & Info",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.031477,44.960715,-123.031477,44.960715],
+  "bbox": [
+    -123.031477,
+    44.960715,
+    -123.031477,
+    44.960715
+],
   "geometry": {"coordinates":[-123.031477,44.960715],"type":"Point"}
 }

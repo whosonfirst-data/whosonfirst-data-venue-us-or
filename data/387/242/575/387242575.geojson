@@ -2,13 +2,14 @@
   "id": 387242575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.214195,45.200492,-123.214195,45.200492",
     "geom:latitude":45.200492,
     "geom:longitude":-123.214195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 SW Gilson Ct",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387242575,
-    "wof:lastmodified":1449059467,
+    "wof:lastmodified":1466771470,
     "wof:name":"MCHM Design",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.214195,45.200492,-123.214195,45.200492],
+  "bbox": [
+    -123.214195,
+    45.200492,
+    -123.214195,
+    45.200492
+],
   "geometry": {"coordinates":[-123.214195,45.200492],"type":"Point"}
 }

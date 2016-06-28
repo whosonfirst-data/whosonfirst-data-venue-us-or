@@ -2,13 +2,14 @@
   "id": 370410027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652603,45.578575,-122.652603,45.578575",
     "geom:latitude":45.578575,
     "geom:longitude":-122.652603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370410027,
-    "wof:lastmodified":1449029114,
+    "wof:lastmodified":1466771810,
     "wof:name":"Greenfinders",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.652603,45.578575,-122.652603,45.578575],
+  "bbox": [
+    -122.652603,
+    45.578575,
+    -122.652603,
+    45.578575
+],
   "geometry": {"coordinates":[-122.652603,45.578575],"type":"Point"}
 }

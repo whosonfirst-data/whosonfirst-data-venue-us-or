@@ -2,13 +2,14 @@
   "id": 370300965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265831,44.573818,-123.265831,44.573818",
     "geom:latitude":44.573818,
     "geom:longitude":-123.265831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 NW 11th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370300965,
-    "wof:lastmodified":1449030975,
+    "wof:lastmodified":1466769832,
     "wof:name":"Robinson Construction",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.265831,44.573818,-123.265831,44.573818],
-  "geometry": {"coordinates":[-123.265831,44.573818],"type":"Point"}
+  "bbox": [
+    -123.265831,
+    44.573818,
+    -123.265831,
+    44.573818
+],
+  "geometry": {"coordinates":[-123.26583100000001,44.573818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404141381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.641325,45.516375,-122.641325,45.516375",
     "geom:latitude":45.516375,
     "geom:longitude":-122.641325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2442 SE Belmont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404141381,
-    "wof:lastmodified":1449039439,
+    "wof:lastmodified":1466771394,
     "wof:name":"Working America Aflcio",
     "wof:parent_id":85893171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.641325,45.516375,-122.641325,45.516375],
-  "geometry": {"coordinates":[-122.641325,45.516375],"type":"Point"}
+  "bbox": [
+    -122.641325,
+    45.516375,
+    -122.641325,
+    45.516375
+],
+  "geometry": {"coordinates":[-122.64132499999999,45.516375],"type":"Point"}
 }

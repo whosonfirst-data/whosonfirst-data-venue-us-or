@@ -2,13 +2,14 @@
   "id": 387111833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.732204,45.51185,-122.732204,45.51185",
     "geom:latitude":45.51185,
     "geom:longitude":-122.732204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 SW Skyline Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387111833,
-    "wof:lastmodified":1449060036,
+    "wof:lastmodified":1466769011,
     "wof:name":"Skyline West Apartments",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.732204,45.51185,-122.732204,45.51185],
+  "bbox": [
+    -122.732204,
+    45.51185,
+    -122.732204,
+    45.51185
+],
   "geometry": {"coordinates":[-122.732204,45.51185],"type":"Point"}
 }

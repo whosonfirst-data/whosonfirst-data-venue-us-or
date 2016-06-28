@@ -2,13 +2,14 @@
   "id": 354417223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.443869,45.500568,-122.443869,45.500568",
     "geom:latitude":45.500568,
     "geom:longitude":-122.443869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 NW Florence Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354417223,
-    "wof:lastmodified":1449066614,
+    "wof:lastmodified":1466767293,
     "wof:name":"Rockwood Solid Waste Inc",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-122.443869,45.500568,-122.443869,45.500568],
-  "geometry": {"coordinates":[-122.443869,45.500568],"type":"Point"}
+  "bbox": [
+    -122.443869,
+    45.500568,
+    -122.443869,
+    45.500568
+],
+  "geometry": {"coordinates":[-122.44386900000001,45.500568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387812355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.638675,45.528555,-122.638675,45.528555",
     "geom:latitude":45.528555,
     "geom:longitude":-122.638675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387812355,
-    "wof:lastmodified":1449056226,
+    "wof:lastmodified":1466775044,
     "wof:name":"Northwest Auto Credit Corp",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-122.638675,45.528555,-122.638675,45.528555],
-  "geometry": {"coordinates":[-122.638675,45.528555],"type":"Point"}
+  "bbox": [
+    -122.638675,
+    45.528555,
+    -122.638675,
+    45.528555
+],
+  "geometry": {"coordinates":[-122.63867500000001,45.528555],"type":"Point"}
 }

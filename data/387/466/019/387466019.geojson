@@ -2,13 +2,14 @@
   "id": 387466019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.496603,45.503791,-122.496603,45.503791",
     "geom:latitude":45.503791,
     "geom:longitude":-122.496603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 SE 162nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387466019,
-    "wof:lastmodified":1449057234,
+    "wof:lastmodified":1466773032,
     "wof:name":"Video Update Inc",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-122.496603,45.503791,-122.496603,45.503791],
-  "geometry": {"coordinates":[-122.496603,45.503791],"type":"Point"}
+  "bbox": [
+    -122.496603,
+    45.503791,
+    -122.496603,
+    45.503791
+],
+  "geometry": {"coordinates":[-122.49660299999999,45.503791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370150869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.940182,45.160052,-123.940182,45.160052",
     "geom:latitude":45.160052,
     "geom:longitude":-123.940182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9190 Meda Loop Rd",
     "sg:city":"Cloverdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370150869,
-    "wof:lastmodified":1449029113,
+    "wof:lastmodified":1466767188,
     "wof:name":"Carl & Eleanor Higdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.940182,45.160052,-123.940182,45.160052],
-  "geometry": {"coordinates":[-123.940182,45.160052],"type":"Point"}
+  "bbox": [
+    -123.940182,
+    45.160052,
+    -123.940182,
+    45.160052
+],
+  "geometry": {"coordinates":[-123.94018199999999,45.160052],"type":"Point"}
 }

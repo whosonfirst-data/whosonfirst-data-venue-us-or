@@ -2,13 +2,14 @@
   "id": 403904453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.32331,44.139573,-121.32331,44.139573",
     "geom:latitude":44.139573,
     "geom:longitude":-121.32331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Rodeo Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403904453,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1466767438,
     "wof:name":"Torre Services",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-121.32331,44.139573,-121.32331,44.139573],
-  "geometry": {"coordinates":[-121.32331,44.139573],"type":"Point"}
+  "bbox": [
+    -121.32331,
+    44.139573,
+    -121.32331,
+    44.139573
+],
+  "geometry": {"coordinates":[-121.32331000000001,44.139573],"type":"Point"}
 }

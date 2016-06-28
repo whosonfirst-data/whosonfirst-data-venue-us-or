@@ -2,13 +2,14 @@
   "id": 370730459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.868017,45.095038,-122.868017,45.095038",
     "geom:latitude":45.095038,
     "geom:longitude":-122.868017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12159 Howell Prairie Rd NE",
     "sg:city":"Gervais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370730459,
-    "wof:lastmodified":1449031921,
+    "wof:lastmodified":1466773686,
     "wof:name":"Oregon State Interiors",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.868017,45.095038,-122.868017,45.095038],
-  "geometry": {"coordinates":[-122.868017,45.095038],"type":"Point"}
+  "bbox": [
+    -122.868017,
+    45.095038,
+    -122.868017,
+    45.095038
+],
+  "geometry": {"coordinates":[-122.86801699999999,45.095038],"type":"Point"}
 }

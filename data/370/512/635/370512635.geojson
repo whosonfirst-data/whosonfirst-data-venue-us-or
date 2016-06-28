@@ -2,13 +2,14 @@
   "id": 370512635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.777037,45.505021,-122.777037,45.505021",
     "geom:latitude":45.505021,
     "geom:longitude":-122.777037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9555 SW Ardenwood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370512635,
-    "wof:lastmodified":1449031557,
+    "wof:lastmodified":1466772283,
     "wof:name":"Forum Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.777037,45.505021,-122.777037,45.505021],
-  "geometry": {"coordinates":[-122.777037,45.505021],"type":"Point"}
+  "bbox": [
+    -122.777037,
+    45.505021,
+    -122.777037,
+    45.505021
+],
+  "geometry": {"coordinates":[-122.77703700000001,45.505021],"type":"Point"}
 }

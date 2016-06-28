@@ -2,13 +2,14 @@
   "id": 354324941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.599578,45.223327,-122.599578,45.223327",
     "geom:latitude":45.223327,
     "geom:longitude":-122.599578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 S Mulino Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354324941,
-    "wof:lastmodified":1449066935,
+    "wof:lastmodified":1466769838,
     "wof:name":"Cascadia Farm",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.599578,45.223327,-122.599578,45.223327],
-  "geometry": {"coordinates":[-122.599578,45.223327],"type":"Point"}
+  "bbox": [
+    -122.599578,
+    45.223327,
+    -122.599578,
+    45.223327
+],
+  "geometry": {"coordinates":[-122.59957799999999,45.223327],"type":"Point"}
 }

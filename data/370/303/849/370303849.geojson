@@ -2,13 +2,14 @@
   "id": 370303849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.9493,45.327155,-122.9493,45.327155",
     "geom:latitude":45.327155,
     "geom:longitude":-122.9493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 NE Zimri Dr",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370303849,
-    "wof:lastmodified":1449029094,
+    "wof:lastmodified":1466769880,
     "wof:name":"Curves of Newberg",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-122.9493,45.327155,-122.9493,45.327155],
-  "geometry": {"coordinates":[-122.9493,45.327155],"type":"Point"}
+  "bbox": [
+    -122.9493,
+    45.327155,
+    -122.9493,
+    45.327155
+],
+  "geometry": {"coordinates":[-122.94929999999999,45.327155],"type":"Point"}
 }

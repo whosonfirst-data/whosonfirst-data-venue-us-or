@@ -2,13 +2,14 @@
   "id": 387093049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.186788,45.220931,-123.186788,45.220931",
     "geom:latitude":45.220931,
     "geom:longitude":-123.186788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 NE 18th St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387093049,
-    "wof:lastmodified":1449056118,
+    "wof:lastmodified":1466768686,
     "wof:name":"Cal's Photos",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-123.186788,45.220931,-123.186788,45.220931],
-  "geometry": {"coordinates":[-123.186788,45.220931],"type":"Point"}
+  "bbox": [
+    -123.186788,
+    45.220931,
+    -123.186788,
+    45.220931
+],
+  "geometry": {"coordinates":[-123.18678800000001,45.220931],"type":"Point"}
 }

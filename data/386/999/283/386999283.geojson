@@ -2,13 +2,14 @@
   "id": 386999283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.457782,45.519198,-122.457782,45.519198",
     "geom:latitude":45.519198,
     "geom:longitude":-122.457782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20012 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386999283,
-    "wof:lastmodified":1449028928,
+    "wof:lastmodified":1466767480,
     "wof:name":"Ron's Salvage Sales",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.457782,45.519198,-122.457782,45.519198],
-  "geometry": {"coordinates":[-122.457782,45.519198],"type":"Point"}
+  "bbox": [
+    -122.457782,
+    45.519198,
+    -122.457782,
+    45.519198
+],
+  "geometry": {"coordinates":[-122.45778199999999,45.519198],"type":"Point"}
 }

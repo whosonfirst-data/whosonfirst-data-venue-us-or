@@ -2,13 +2,14 @@
   "id": 387172553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.208788,44.21498,-123.208788,44.21498",
     "geom:latitude":44.21498,
     "geom:longitude":-123.208788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Maple St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387172553,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1466771484,
     "wof:name":"Maple Manor",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.208788,44.21498,-123.208788,44.21498],
+  "bbox": [
+    -123.208788,
+    44.21498,
+    -123.208788,
+    44.21498
+],
   "geometry": {"coordinates":[-123.208788,44.21498],"type":"Point"}
 }

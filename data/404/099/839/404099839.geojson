@@ -2,13 +2,14 @@
   "id": 404099839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581421,45.216283,-122.581421,45.216283",
     "geom:latitude":45.216283,
     "geom:longitude":-122.581421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26976 State Hwy 213",
     "sg:city":"Mulino",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404099839,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1466770529,
     "wof:name":"Set Laboratories Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-122.581421,45.216283,-122.581421,45.216283],
-  "geometry": {"coordinates":[-122.581421,45.216283],"type":"Point"}
+  "bbox": [
+    -122.581421,
+    45.216283,
+    -122.581421,
+    45.216283
+],
+  "geometry": {"coordinates":[-122.58142100000001,45.216283],"type":"Point"}
 }

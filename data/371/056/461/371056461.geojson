@@ -2,13 +2,14 @@
   "id": 371056461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.647119,45.460288,-122.647119,45.460288",
     "geom:latitude":45.460288,
     "geom:longitude":-122.647119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8635 SE 17th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371056461,
-    "wof:lastmodified":1449049295,
+    "wof:lastmodified":1466768084,
     "wof:name":"John Fox Company",
     "wof:parent_id":85868967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-122.647119,45.460288,-122.647119,45.460288],
+  "bbox": [
+    -122.647119,
+    45.460288,
+    -122.647119,
+    45.460288
+],
   "geometry": {"coordinates":[-122.647119,45.460288],"type":"Point"}
 }

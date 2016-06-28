@@ -2,13 +2,14 @@
   "id": 387600913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091612,44.023109,-123.091612,44.023109",
     "geom:latitude":44.023109,
     "geom:longitude":-123.091612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W 31st Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600913,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1466774058,
     "wof:name":"Terrapin Press",
     "wof:parent_id":85877225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-123.091612,44.023109,-123.091612,44.023109],
+  "bbox": [
+    -123.091612,
+    44.023109,
+    -123.091612,
+    44.023109
+],
   "geometry": {"coordinates":[-123.091612,44.023109],"type":"Point"}
 }

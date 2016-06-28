@@ -2,13 +2,14 @@
   "id": 387350691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.350805,43.659592,-123.350805,43.659592",
     "geom:latitude":43.659592,
     "geom:longitude":-123.350805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Grimes Ln",
     "sg:city":"Drain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387350691,
-    "wof:lastmodified":1449058047,
+    "wof:lastmodified":1466772254,
     "wof:name":"Radshack Woodworks",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-123.350805,43.659592,-123.350805,43.659592],
-  "geometry": {"coordinates":[-123.350805,43.659592],"type":"Point"}
+  "bbox": [
+    -123.350805,
+    43.659592,
+    -123.350805,
+    43.659592
+],
+  "geometry": {"coordinates":[-123.35080499999999,43.659592],"type":"Point"}
 }

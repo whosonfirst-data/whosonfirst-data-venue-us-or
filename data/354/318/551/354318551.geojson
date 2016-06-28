@@ -2,13 +2,14 @@
   "id": 354318551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.166119,44.066715,-123.166119,44.066715",
     "geom:latitude":44.066715,
     "geom:longitude":-123.166119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4060 Wood Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354318551,
-    "wof:lastmodified":1449066290,
+    "wof:lastmodified":1466769752,
     "wof:name":"John K Joyce Construction",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-123.166119,44.066715,-123.166119,44.066715],
-  "geometry": {"coordinates":[-123.166119,44.066715],"type":"Point"}
+  "bbox": [
+    -123.166119,
+    44.066715,
+    -123.166119,
+    44.066715
+],
+  "geometry": {"coordinates":[-123.16611899999999,44.066715],"type":"Point"}
 }

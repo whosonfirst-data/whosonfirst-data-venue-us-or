@@ -2,13 +2,14 @@
   "id": 387776561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.488851,45.548103,-122.488851,45.548103",
     "geom:latitude":45.548103,
     "geom:longitude":-122.488851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16800 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387776561,
-    "wof:lastmodified":1449056930,
+    "wof:lastmodified":1466775003,
     "wof:name":"TNT Logistics North America",
     "wof:parent_id":85824571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.488851,45.548103,-122.488851,45.548103],
+  "bbox": [
+    -122.488851,
+    45.548103,
+    -122.488851,
+    45.548103
+],
   "geometry": {"coordinates":[-122.488851,45.548103],"type":"Point"}
 }

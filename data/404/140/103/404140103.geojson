@@ -2,13 +2,14 @@
   "id": 404140103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.989341,45.521415,-122.989341,45.521415",
     "geom:latitude":45.521415,
     "geom:longitude":-122.989341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 SE Washington St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404140103,
-    "wof:lastmodified":1449039184,
+    "wof:lastmodified":1466771372,
     "wof:name":"Washington Cnty Property Maint",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-122.989341,45.521415,-122.989341,45.521415],
+  "bbox": [
+    -122.989341,
+    45.521415,
+    -122.989341,
+    45.521415
+],
   "geometry": {"coordinates":[-122.989341,45.521415],"type":"Point"}
 }

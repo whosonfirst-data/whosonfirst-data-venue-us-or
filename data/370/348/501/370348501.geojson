@@ -2,13 +2,14 @@
   "id": 370348501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.010253,44.912649,-123.010253,44.912649",
     "geom:latitude":44.912649,
     "geom:longitude":-123.010253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2790 25th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370348501,
-    "wof:lastmodified":1449029218,
+    "wof:lastmodified":1466770774,
     "wof:name":"Hertz Car & Truck Rental",
     "wof:parent_id":85880581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-123.010253,44.912649,-123.010253,44.912649],
-  "geometry": {"coordinates":[-123.010253,44.912649],"type":"Point"}
+  "bbox": [
+    -123.010253,
+    44.912649,
+    -123.010253,
+    44.912649
+],
+  "geometry": {"coordinates":[-123.01025300000001,44.912649],"type":"Point"}
 }

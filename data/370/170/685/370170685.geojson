@@ -2,13 +2,14 @@
   "id": 370170685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.805006,45.510917,-122.805006,45.510917",
     "geom:latitude":45.510917,
     "geom:longitude":-122.805006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12230 SW Foothill Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370170685,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1466771440,
     "wof:name":"Toland Audio Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.805006,45.510917,-122.805006,45.510917],
-  "geometry": {"coordinates":[-122.805006,45.510917],"type":"Point"}
+  "bbox": [
+    -122.805006,
+    45.510917,
+    -122.805006,
+    45.510917
+],
+  "geometry": {"coordinates":[-122.80500600000001,45.510917],"type":"Point"}
 }

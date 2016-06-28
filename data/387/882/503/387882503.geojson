@@ -2,13 +2,14 @@
   "id": 387882503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.262608,44.05566,-121.262608,44.05566",
     "geom:latitude":44.05566,
     "geom:longitude":-121.262608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 NE Bellevue Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387882503,
-    "wof:lastmodified":1449056782,
+    "wof:lastmodified":1466775233,
     "wof:name":"Cascade Cleaners East",
     "wof:parent_id":85876201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-121.262608,44.05566,-121.262608,44.05566],
+  "bbox": [
+    -121.262608,
+    44.05566,
+    -121.262608,
+    44.05566
+],
   "geometry": {"coordinates":[-121.262608,44.05566],"type":"Point"}
 }

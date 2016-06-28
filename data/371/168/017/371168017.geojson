@@ -2,13 +2,14 @@
   "id": 371168017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192546,45.228381,-123.192546,45.228381",
     "geom:latitude":45.228381,
     "geom:longitude":-123.192546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 NE 27th St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371168017,
-    "wof:lastmodified":1449049583,
+    "wof:lastmodified":1466770026,
     "wof:name":"Alterra Villas Of Mc Minnville",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-123.192546,45.228381,-123.192546,45.228381],
-  "geometry": {"coordinates":[-123.192546,45.228381],"type":"Point"}
+  "bbox": [
+    -123.192546,
+    45.228381,
+    -123.192546,
+    45.228381
+],
+  "geometry": {"coordinates":[-123.19254599999999,45.228381],"type":"Point"}
 }

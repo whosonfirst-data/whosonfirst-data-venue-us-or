@@ -2,13 +2,14 @@
   "id": 404026293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.326205,44.561406,-123.326205,44.561406",
     "geom:latitude":44.561406,
     "geom:longitude":-123.326205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 SW Reservoir Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404026293,
-    "wof:lastmodified":1449039824,
+    "wof:lastmodified":1466768911,
     "wof:name":"Engraving Creations",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-123.326205,44.561406,-123.326205,44.561406],
+  "bbox": [
+    -123.326205,
+    44.561406,
+    -123.326205,
+    44.561406
+],
   "geometry": {"coordinates":[-123.326205,44.561406],"type":"Point"}
 }

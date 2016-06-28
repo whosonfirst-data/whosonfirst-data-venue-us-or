@@ -2,13 +2,14 @@
   "id": 404013383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.017119,45.030779,-123.017119,45.030779",
     "geom:latitude":45.030779,
     "geom:longitude":-123.017119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Keystone Loop NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404013383,
-    "wof:lastmodified":1449039939,
+    "wof:lastmodified":1466768685,
     "wof:name":"Thomas Reece",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-123.017119,45.030779,-123.017119,45.030779],
-  "geometry": {"coordinates":[-123.017119,45.030779],"type":"Point"}
+  "bbox": [
+    -123.017119,
+    45.030779,
+    -123.017119,
+    45.030779
+],
+  "geometry": {"coordinates":[-123.01711899999999,45.030779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370999695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092662,44.051528,-123.092662,44.051528",
     "geom:latitude":44.051528,
     "geom:longitude":-123.092662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370999695,
-    "wof:lastmodified":1449032050,
+    "wof:lastmodified":1466775015,
     "wof:name":"Anderson's Barber Shop",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.092662,44.051528,-123.092662,44.051528],
+  "bbox": [
+    -123.092662,
+    44.051528,
+    -123.092662,
+    44.051528
+],
   "geometry": {"coordinates":[-123.092662,44.051528],"type":"Point"}
 }

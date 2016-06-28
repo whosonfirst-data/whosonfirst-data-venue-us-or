@@ -2,13 +2,14 @@
   "id": 387100013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.625646,45.527603,-122.625646,45.527603",
     "geom:latitude":45.527603,
     "geom:longitude":-122.625646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 NE Royal Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387100013,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1466768806,
     "wof:name":"Soup Media",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.625646,45.527603,-122.625646,45.527603],
+  "bbox": [
+    -122.625646,
+    45.527603,
+    -122.625646,
+    45.527603
+],
   "geometry": {"coordinates":[-122.625646,45.527603],"type":"Point"}
 }

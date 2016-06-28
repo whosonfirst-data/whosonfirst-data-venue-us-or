@@ -2,13 +2,14 @@
   "id": 387946399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.549403,45.368241,-122.549403,45.368241",
     "geom:latitude":45.368241,
     "geom:longitude":-122.549403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15370 S Holcomb Blvd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946399,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1466775563,
     "wof:name":"Affordable Quality",
     "wof:parent_id":85811111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.549403,45.368241,-122.549403,45.368241],
+  "bbox": [
+    -122.549403,
+    45.368241,
+    -122.549403,
+    45.368241
+],
   "geometry": {"coordinates":[-122.549403,45.368241],"type":"Point"}
 }

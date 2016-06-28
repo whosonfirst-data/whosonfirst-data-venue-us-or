@@ -2,13 +2,14 @@
   "id": 370515343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.129415,44.028938,-123.129415,44.028938",
     "geom:latitude":44.028938,
     "geom:longitude":-123.129415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 W 28th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370515343,
-    "wof:lastmodified":1449029875,
+    "wof:lastmodified":1466772430,
     "wof:name":"Oregon Copper Smith Co",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.129415,44.028938,-123.129415,44.028938],
-  "geometry": {"coordinates":[-123.129415,44.028938],"type":"Point"}
+  "bbox": [
+    -123.129415,
+    44.028938,
+    -123.129415,
+    44.028938
+],
+  "geometry": {"coordinates":[-123.12941499999999,44.028938],"type":"Point"}
 }

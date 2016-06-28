@@ -2,13 +2,14 @@
   "id": 387619961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.21662,45.585381,-123.21662,45.585381",
     "geom:latitude":45.585381,
     "geom:longitude":-123.21662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53175 NW Old Wilson River Rd",
     "sg:city":"Gales Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387619961,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1466773944,
     "wof:name":"Dober David J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.21662,45.585381,-123.21662,45.585381],
-  "geometry": {"coordinates":[-123.21662,45.585381],"type":"Point"}
+  "bbox": [
+    -123.21662,
+    45.585381,
+    -123.21662,
+    45.585381
+],
+  "geometry": {"coordinates":[-123.21662000000001,45.585381],"type":"Point"}
 }

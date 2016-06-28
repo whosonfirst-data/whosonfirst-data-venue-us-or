@@ -2,13 +2,14 @@
   "id": 370349031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.819217,45.454699,-122.819217,45.454699",
     "geom:latitude":45.454699,
     "geom:longitude":-122.819217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 SW Brockman Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370349031,
-    "wof:lastmodified":1449030365,
+    "wof:lastmodified":1466770785,
     "wof:name":"Brockman Road 266",
     "wof:parent_id":85818901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-122.819217,45.454699,-122.819217,45.454699],
-  "geometry": {"coordinates":[-122.819217,45.454699],"type":"Point"}
+  "bbox": [
+    -122.819217,
+    45.454699,
+    -122.819217,
+    45.454699
+],
+  "geometry": {"coordinates":[-122.81921699999999,45.454699],"type":"Point"}
 }

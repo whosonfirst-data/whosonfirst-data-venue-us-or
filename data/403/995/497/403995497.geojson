@@ -2,13 +2,14 @@
   "id": 403995497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.167267,44.051844,-123.167267,44.051844",
     "geom:latitude":44.051844,
     "geom:longitude":-123.167267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Commercial St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995497,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1466769071,
     "wof:name":"Stone Works International",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.167267,44.051844,-123.167267,44.051844],
+  "bbox": [
+    -123.167267,
+    44.051844,
+    -123.167267,
+    44.051844
+],
   "geometry": {"coordinates":[-123.167267,44.051844],"type":"Point"}
 }

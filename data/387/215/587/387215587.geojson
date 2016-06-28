@@ -2,13 +2,14 @@
   "id": 387215587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.540422,45.569196,-122.540422,45.569196",
     "geom:latitude":45.569196,
     "geom:longitude":-122.540422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11867 NE Glenn Widing Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387215587,
-    "wof:lastmodified":1449059260,
+    "wof:lastmodified":1466771117,
     "wof:name":"Walt Medak & Assoc",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-122.540422,45.569196,-122.540422,45.569196],
-  "geometry": {"coordinates":[-122.540422,45.569196],"type":"Point"}
+  "bbox": [
+    -122.540422,
+    45.569196,
+    -122.540422,
+    45.569196
+],
+  "geometry": {"coordinates":[-122.54042200000001,45.569196],"type":"Point"}
 }

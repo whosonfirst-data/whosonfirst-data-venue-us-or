@@ -2,13 +2,14 @@
   "id": 370705285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81122,45.375736,-122.81122,45.375736",
     "geom:latitude":45.375736,
     "geom:longitude":-122.81122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13011 SW Herman Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370705285,
-    "wof:lastmodified":1449032491,
+    "wof:lastmodified":1466773483,
     "wof:name":"Robert Martin Sprayers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.81122,45.375736,-122.81122,45.375736],
-  "geometry": {"coordinates":[-122.81122,45.375736],"type":"Point"}
+  "bbox": [
+    -122.81122,
+    45.375736,
+    -122.81122,
+    45.375736
+],
+  "geometry": {"coordinates":[-122.81122000000001,45.375736],"type":"Point"}
 }

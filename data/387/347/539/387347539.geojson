@@ -2,13 +2,14 @@
   "id": 387347539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.758529,45.460646,-123.758529,45.460646",
     "geom:latitude":45.460646,
     "geom:longitude":-123.758529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10290 Gould Ave",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387347539,
-    "wof:lastmodified":1449057942,
+    "wof:lastmodified":1466772110,
     "wof:name":"Ray Yost Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.758529,45.460646,-123.758529,45.460646],
+  "bbox": [
+    -123.758529,
+    45.460646,
+    -123.758529,
+    45.460646
+],
   "geometry": {"coordinates":[-123.758529,45.460646],"type":"Point"}
 }

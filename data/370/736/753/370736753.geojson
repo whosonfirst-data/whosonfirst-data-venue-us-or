@@ -2,13 +2,14 @@
   "id": 370736753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092669,44.047237,-123.092669,44.047237",
     "geom:latitude":44.047237,
     "geom:longitude":-123.092669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370736753,
-    "wof:lastmodified":1449032422,
+    "wof:lastmodified":1466773609,
     "wof:name":"Assistance of Eugene",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.092669,44.047237,-123.092669,44.047237],
+  "bbox": [
+    -123.092669,
+    44.047237,
+    -123.092669,
+    44.047237
+],
   "geometry": {"coordinates":[-123.092669,44.047237],"type":"Point"}
 }

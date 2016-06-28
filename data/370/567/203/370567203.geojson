@@ -2,13 +2,14 @@
   "id": 370567203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.557598,45.504221,-122.557598,45.504221",
     "geom:latitude":45.504221,
     "geom:longitude":-122.557598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10114 SE Division St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370567203,
-    "wof:lastmodified":1449032498,
+    "wof:lastmodified":1466772820,
     "wof:name":"Miller Paint Co",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-122.557598,45.504221,-122.557598,45.504221],
+  "bbox": [
+    -122.557598,
+    45.504221,
+    -122.557598,
+    45.504221
+],
   "geometry": {"coordinates":[-122.557598,45.504221],"type":"Point"}
 }

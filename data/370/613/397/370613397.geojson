@@ -2,13 +2,14 @@
   "id": 370613397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.426723,45.502198,-122.426723,45.502198",
     "geom:latitude":45.502198,
     "geom:longitude":-122.426723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 NE 7th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370613397,
-    "wof:lastmodified":1449030669,
+    "wof:lastmodified":1466772973,
     "wof:name":"Cascadia Behavioral Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.426723,45.502198,-122.426723,45.502198],
+  "bbox": [
+    -122.426723,
+    45.502198,
+    -122.426723,
+    45.502198
+],
   "geometry": {"coordinates":[-122.426723,45.502198],"type":"Point"}
 }

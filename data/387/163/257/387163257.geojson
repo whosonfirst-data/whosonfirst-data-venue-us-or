@@ -2,13 +2,14 @@
   "id": 387163257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.781703,45.675106,-118.781703,45.675106",
     "geom:latitude":45.675106,
     "geom:longitude":-118.781703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 SE Byers Ave",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387163257,
-    "wof:lastmodified":1449059835,
+    "wof:lastmodified":1466770036,
     "wof:name":"Dr John M Carrington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clinic"
     ]
 },
-  "bbox": [-118.781703,45.675106,-118.781703,45.675106],
-  "geometry": {"coordinates":[-118.781703,45.675106],"type":"Point"}
+  "bbox": [
+    -118.781703,
+    45.675106,
+    -118.781703,
+    45.675106
+],
+  "geometry": {"coordinates":[-118.78170299999999,45.675106],"type":"Point"}
 }

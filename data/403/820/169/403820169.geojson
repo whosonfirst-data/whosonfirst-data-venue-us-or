@@ -2,13 +2,14 @@
   "id": 403820169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030749,44.882981,-123.030749,44.882981",
     "geom:latitude":44.882981,
     "geom:longitude":-123.030749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403820169,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1466770098,
     "wof:name":"Crawford & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-123.030749,44.882981,-123.030749,44.882981],
+  "bbox": [
+    -123.030749,
+    44.882981,
+    -123.030749,
+    44.882981
+],
   "geometry": {"coordinates":[-123.030749,44.882981],"type":"Point"}
 }

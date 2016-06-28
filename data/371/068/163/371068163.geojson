@@ -2,13 +2,14 @@
   "id": 371068163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.374969,44.522125,-123.374969,44.522125",
     "geom:latitude":44.522125,
     "geom:longitude":-123.374969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25052 Evergreen Rd",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371068163,
-    "wof:lastmodified":1449049567,
+    "wof:lastmodified":1466768277,
     "wof:name":"Stouder Construction Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.374969,44.522125,-123.374969,44.522125],
-  "geometry": {"coordinates":[-123.374969,44.522125],"type":"Point"}
+  "bbox": [
+    -123.374969,
+    44.522125,
+    -123.374969,
+    44.522125
+],
+  "geometry": {"coordinates":[-123.37496899999999,44.522125],"type":"Point"}
 }

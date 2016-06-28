@@ -2,13 +2,14 @@
   "id": 354336133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151253,44.125714,-123.151253,44.125714",
     "geom:latitude":44.125714,
     "geom:longitude":-123.151253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4419 Hyacinth St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354336133,
-    "wof:lastmodified":1449065901,
+    "wof:lastmodified":1466770050,
     "wof:name":"Whatcom Seed Co",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-123.151253,44.125714,-123.151253,44.125714],
+  "bbox": [
+    -123.151253,
+    44.125714,
+    -123.151253,
+    44.125714
+],
   "geometry": {"coordinates":[-123.151253,44.125714],"type":"Point"}
 }

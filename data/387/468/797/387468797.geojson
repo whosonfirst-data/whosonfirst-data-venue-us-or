@@ -2,13 +2,14 @@
   "id": 387468797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.0055,44.950782,-123.0055,44.950782",
     "geom:latitude":44.950782,
     "geom:longitude":-123.0055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 Madison St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387468797,
-    "wof:lastmodified":1449058836,
+    "wof:lastmodified":1466772920,
     "wof:name":"Positive Communications",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-123.0055,44.950782,-123.0055,44.950782],
+  "bbox": [
+    -123.0055,
+    44.950782,
+    -123.0055,
+    44.950782
+],
   "geometry": {"coordinates":[-123.0055,44.950782],"type":"Point"}
 }

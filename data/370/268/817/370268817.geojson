@@ -2,13 +2,14 @@
   "id": 370268817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.182193,44.254196,-121.182193,44.254196",
     "geom:latitude":44.254196,
     "geom:longitude":-121.182193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2337 S Hwy 97",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370268817,
-    "wof:lastmodified":1449030997,
+    "wof:lastmodified":1466769234,
     "wof:name":"Ron's Oil",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-121.182193,44.254196,-121.182193,44.254196],
+  "bbox": [
+    -121.182193,
+    44.254196,
+    -121.182193,
+    44.254196
+],
   "geometry": {"coordinates":[-121.182193,44.254196],"type":"Point"}
 }

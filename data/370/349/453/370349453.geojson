@@ -2,13 +2,14 @@
   "id": 370349453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.679925,45.522543,-122.679925,45.522543",
     "geom:latitude":45.522543,
     "geom:longitude":-122.679925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 SW Oak St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370349453,
-    "wof:lastmodified":1449030367,
+    "wof:lastmodified":1466770793,
     "wof:name":"WCI Cable",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-122.679925,45.522543,-122.679925,45.522543],
+  "bbox": [
+    -122.679925,
+    45.522543,
+    -122.679925,
+    45.522543
+],
   "geometry": {"coordinates":[-122.679925,45.522543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387733575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.159957,44.165284,-123.159957,44.165284",
     "geom:latitude":44.165284,
     "geom:longitude":-123.159957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30104 Heather Oak Dr",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387733575,
-    "wof:lastmodified":1449056634,
+    "wof:lastmodified":1466774589,
     "wof:name":"Michey Harwood Trucking",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.159957,44.165284,-123.159957,44.165284],
-  "geometry": {"coordinates":[-123.159957,44.165284],"type":"Point"}
+  "bbox": [
+    -123.159957,
+    44.165284,
+    -123.159957,
+    44.165284
+],
+  "geometry": {"coordinates":[-123.15995700000001,44.165284],"type":"Point"}
 }

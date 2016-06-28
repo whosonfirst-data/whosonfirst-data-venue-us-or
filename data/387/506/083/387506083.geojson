@@ -2,13 +2,14 @@
   "id": 387506083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030482,44.945699,-123.030482,44.945699",
     "geom:latitude":44.945699,
     "geom:longitude":-123.030482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 Cottage St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387506083,
-    "wof:lastmodified":1449056203,
+    "wof:lastmodified":1466773368,
     "wof:name":"Razors Edge",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.030482,44.945699,-123.030482,44.945699],
-  "geometry": {"coordinates":[-123.030482,44.945699],"type":"Point"}
+  "bbox": [
+    -123.030482,
+    44.945699,
+    -123.030482,
+    44.945699
+],
+  "geometry": {"coordinates":[-123.03048200000001,44.945699],"type":"Point"}
 }

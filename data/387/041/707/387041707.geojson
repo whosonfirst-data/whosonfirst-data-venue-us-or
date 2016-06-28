@@ -2,13 +2,14 @@
   "id": 387041707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.635382,45.539985,-122.635382,45.539985",
     "geom:latitude":45.539985,
     "geom:longitude":-122.635382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 NE 30th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387041707,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1466767828,
     "wof:name":"Acme Sales LLC",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.635382,45.539985,-122.635382,45.539985],
-  "geometry": {"coordinates":[-122.635382,45.539985],"type":"Point"}
+  "bbox": [
+    -122.635382,
+    45.539985,
+    -122.635382,
+    45.539985
+],
+  "geometry": {"coordinates":[-122.63538200000001,45.539985],"type":"Point"}
 }

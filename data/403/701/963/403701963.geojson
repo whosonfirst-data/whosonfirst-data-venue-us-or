@@ -2,13 +2,14 @@
   "id": 403701963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756199,45.500626,-122.756199,45.500626",
     "geom:latitude":45.500626,
     "geom:longitude":-122.756199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 SW Memory Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403701963,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466767823,
     "wof:name":"Snack Attack",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.756199,45.500626,-122.756199,45.500626],
+  "bbox": [
+    -122.756199,
+    45.500626,
+    -122.756199,
+    45.500626
+],
   "geometry": {"coordinates":[-122.756199,45.500626],"type":"Point"}
 }

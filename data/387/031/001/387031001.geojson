@@ -2,13 +2,14 @@
   "id": 387031001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.164285,43.31662,-123.164285,43.31662",
     "geom:latitude":43.31662,
     "geom:longitude":-123.164285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15245 N Bank Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387031001,
-    "wof:lastmodified":1449057511,
+    "wof:lastmodified":1466767641,
     "wof:name":"Sierra Pacific Capital",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-123.164285,43.31662,-123.164285,43.31662],
-  "geometry": {"coordinates":[-123.164285,43.31662],"type":"Point"}
+  "bbox": [
+    -123.164285,
+    43.31662,
+    -123.164285,
+    43.31662
+],
+  "geometry": {"coordinates":[-123.16428500000001,43.31662],"type":"Point"}
 }

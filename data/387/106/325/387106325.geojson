@@ -2,13 +2,14 @@
   "id": 387106325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.63836,45.512802,-122.63836,45.512802",
     "geom:latitude":45.512802,
     "geom:longitude":-122.63836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 SE Madison St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387106325,
-    "wof:lastmodified":1449056061,
+    "wof:lastmodified":1466768911,
     "wof:name":"HI Line Investment Co",
     "wof:parent_id":85893171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-122.63836,45.512802,-122.63836,45.512802],
-  "geometry": {"coordinates":[-122.63836,45.512802],"type":"Point"}
+  "bbox": [
+    -122.63836,
+    45.512802,
+    -122.63836,
+    45.512802
+],
+  "geometry": {"coordinates":[-122.63836000000001,45.512802],"type":"Point"}
 }

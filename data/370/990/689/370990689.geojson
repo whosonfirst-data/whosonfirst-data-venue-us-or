@@ -2,13 +2,14 @@
   "id": 370990689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.068671,44.078434,-123.068671,44.078434",
     "geom:latitude":44.078434,
     "geom:longitude":-123.068671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Coburg Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370990689,
-    "wof:lastmodified":1449031348,
+    "wof:lastmodified":1466775167,
     "wof:name":"Woodcraft",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-123.068671,44.078434,-123.068671,44.078434],
-  "geometry": {"coordinates":[-123.068671,44.078434],"type":"Point"}
+  "bbox": [
+    -123.068671,
+    44.078434,
+    -123.068671,
+    44.078434
+],
+  "geometry": {"coordinates":[-123.06867099999999,44.078434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370849817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.605956,45.379669,-122.605956,45.379669",
     "geom:latitude":45.379669,
     "geom:longitude":-122.605956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19563 River Rd",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370849817,
-    "wof:lastmodified":1449029720,
+    "wof:lastmodified":1466774307,
     "wof:name":"Northwest Motion",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.605956,45.379669,-122.605956,45.379669],
-  "geometry": {"coordinates":[-122.605956,45.379669],"type":"Point"}
+  "bbox": [
+    -122.605956,
+    45.379669,
+    -122.605956,
+    45.379669
+],
+  "geometry": {"coordinates":[-122.60595600000001,45.379669],"type":"Point"}
 }

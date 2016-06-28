@@ -2,13 +2,14 @@
   "id": 387158543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.246659,44.628921,-123.246659,44.628921",
     "geom:latitude":44.628921,
     "geom:longitude":-123.246659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 NW Lewisburg Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387158543,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1466769930,
     "wof:name":"Comcast Cable",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.246659,44.628921,-123.246659,44.628921],
-  "geometry": {"coordinates":[-123.246659,44.628921],"type":"Point"}
+  "bbox": [
+    -123.246659,
+    44.628921,
+    -123.246659,
+    44.628921
+],
+  "geometry": {"coordinates":[-123.24665899999999,44.628921],"type":"Point"}
 }

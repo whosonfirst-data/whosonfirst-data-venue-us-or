@@ -2,13 +2,14 @@
   "id": 404019563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.459156,43.745845,-122.459156,43.745845",
     "geom:latitude":43.745845,
     "geom:longitude":-122.459156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48261 Railroad Ave",
     "sg:city":"Oakridge",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404019563,
-    "wof:lastmodified":1449039816,
+    "wof:lastmodified":1466768802,
     "wof:name":"Union Pacific Railroad",
     "wof:parent_id":85857787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.459156,43.745845,-122.459156,43.745845],
-  "geometry": {"coordinates":[-122.459156,43.745845],"type":"Point"}
+  "bbox": [
+    -122.459156,
+    43.745845,
+    -122.459156,
+    43.745845
+],
+  "geometry": {"coordinates":[-122.45915599999999,43.745845],"type":"Point"}
 }

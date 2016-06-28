@@ -2,13 +2,14 @@
   "id": 370464353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.919593,46.024078,-123.919593,46.024078",
     "geom:latitude":46.024078,
     "geom:longitude":-123.919593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Pacific Way",
     "sg:city":"Gearhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370464353,
-    "wof:lastmodified":1449030018,
+    "wof:lastmodified":1466771972,
     "wof:name":"Gearhart Fire Dept",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-123.919593,46.024078,-123.919593,46.024078],
-  "geometry": {"coordinates":[-123.919593,46.024078],"type":"Point"}
+  "bbox": [
+    -123.919593,
+    46.024078,
+    -123.919593,
+    46.024078
+],
+  "geometry": {"coordinates":[-123.91959300000001,46.024078],"type":"Point"}
 }

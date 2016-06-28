@@ -2,13 +2,14 @@
   "id": 387679481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.526919,45.543423,-122.526919,45.543423",
     "geom:latitude":45.543423,
     "geom:longitude":-122.526919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 NE 132nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387679481,
-    "wof:lastmodified":1449058560,
+    "wof:lastmodified":1466774488,
     "wof:name":"Chiro Cafe The",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.526919,45.543423,-122.526919,45.543423],
-  "geometry": {"coordinates":[-122.526919,45.543423],"type":"Point"}
+  "bbox": [
+    -122.526919,
+    45.543423,
+    -122.526919,
+    45.543423
+],
+  "geometry": {"coordinates":[-122.52691900000001,45.543423],"type":"Point"}
 }

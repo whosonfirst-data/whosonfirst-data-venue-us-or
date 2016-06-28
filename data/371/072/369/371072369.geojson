@@ -2,13 +2,14 @@
   "id": 371072369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.766235,45.499182,-122.766235,45.499182",
     "geom:latitude":45.499182,
     "geom:longitude":-122.766235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8585 SW Canyon Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":371072369,
-    "wof:lastmodified":1449049596,
+    "wof:lastmodified":1466768342,
     "wof:name":"World Video Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "tape"
     ]
 },
-  "bbox": [-122.766235,45.499182,-122.766235,45.499182],
-  "geometry": {"coordinates":[-122.766235,45.499182],"type":"Point"}
+  "bbox": [
+    -122.766235,
+    45.499182,
+    -122.766235,
+    45.499182
+],
+  "geometry": {"coordinates":[-122.76623499999999,45.499182],"type":"Point"}
 }

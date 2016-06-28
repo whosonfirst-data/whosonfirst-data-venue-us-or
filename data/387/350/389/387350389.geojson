@@ -2,13 +2,14 @@
   "id": 387350389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.645537,45.526947,-122.645537,45.526947",
     "geom:latitude":45.526947,
     "geom:longitude":-122.645537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 NE 20th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387350389,
-    "wof:lastmodified":1449058050,
+    "wof:lastmodified":1466772249,
     "wof:name":"Portland Family Practice",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.645537,45.526947,-122.645537,45.526947],
+  "bbox": [
+    -122.645537,
+    45.526947,
+    -122.645537,
+    45.526947
+],
   "geometry": {"coordinates":[-122.645537,45.526947],"type":"Point"}
 }

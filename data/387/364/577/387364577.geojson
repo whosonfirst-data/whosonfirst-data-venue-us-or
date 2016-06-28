@@ -2,13 +2,14 @@
   "id": 387364577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.657863,45.503486,-122.657863,45.503486",
     "geom:latitude":45.503486,
     "geom:longitude":-122.657863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 SE 8th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387364577,
-    "wof:lastmodified":1449058247,
+    "wof:lastmodified":1466772229,
     "wof:name":"Land OLakes Inc",
     "wof:parent_id":85868957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prepared"
     ]
 },
-  "bbox": [-122.657863,45.503486,-122.657863,45.503486],
-  "geometry": {"coordinates":[-122.657863,45.503486],"type":"Point"}
+  "bbox": [
+    -122.657863,
+    45.503486,
+    -122.657863,
+    45.503486
+],
+  "geometry": {"coordinates":[-122.65786300000001,45.503486],"type":"Point"}
 }

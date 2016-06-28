@@ -2,13 +2,14 @@
   "id": 370313161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.416198,45.516019,-122.416198,45.516019",
     "geom:latitude":45.516019,
     "geom:longitude":-122.416198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1556 NE 27th Ter",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370313161,
-    "wof:lastmodified":1449029164,
+    "wof:lastmodified":1466770076,
     "wof:name":"Sk Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.416198,45.516019,-122.416198,45.516019],
-  "geometry": {"coordinates":[-122.416198,45.516019],"type":"Point"}
+  "bbox": [
+    -122.416198,
+    45.516019,
+    -122.416198,
+    45.516019
+],
+  "geometry": {"coordinates":[-122.41619799999999,45.516019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386946327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.081559,45.222266,-123.081559,45.222266",
     "geom:latitude":45.222266,
     "geom:longitude":-123.081559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Ash St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386946327,
-    "wof:lastmodified":1449028929,
+    "wof:lastmodified":1466767241,
     "wof:name":"Westview Group",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.081559,45.222266,-123.081559,45.222266],
+  "bbox": [
+    -123.081559,
+    45.222266,
+    -123.081559,
+    45.222266
+],
   "geometry": {"coordinates":[-123.081559,45.222266],"type":"Point"}
 }

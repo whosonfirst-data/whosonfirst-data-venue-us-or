@@ -2,13 +2,14 @@
   "id": 404082897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.479183,45.114197,-122.479183,45.114197",
     "geom:latitude":45.114197,
     "geom:longitude":-122.479183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33999 S Ball Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404082897,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1466769984,
     "wof:name":"Avison Rock Quarry",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-122.479183,45.114197,-122.479183,45.114197],
-  "geometry": {"coordinates":[-122.479183,45.114197],"type":"Point"}
+  "bbox": [
+    -122.479183,
+    45.114197,
+    -122.479183,
+    45.114197
+],
+  "geometry": {"coordinates":[-122.47918300000001,45.114197],"type":"Point"}
 }

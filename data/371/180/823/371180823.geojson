@@ -2,13 +2,14 @@
   "id": 371180823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.831696,45.367718,-122.831696,45.367718",
     "geom:latitude":45.367718,
     "geom:longitude":-122.831696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14991 SW Tualatin Sherwood Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371180823,
-    "wof:lastmodified":1449049105,
+    "wof:lastmodified":1466770303,
     "wof:name":"Watch Prince",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "strap"
     ]
 },
-  "bbox": [-122.831696,45.367718,-122.831696,45.367718],
-  "geometry": {"coordinates":[-122.831696,45.367718],"type":"Point"}
+  "bbox": [
+    -122.831696,
+    45.367718,
+    -122.831696,
+    45.367718
+],
+  "geometry": {"coordinates":[-122.83169599999999,45.367718],"type":"Point"}
 }

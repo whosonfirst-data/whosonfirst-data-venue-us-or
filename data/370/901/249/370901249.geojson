@@ -2,13 +2,14 @@
   "id": 370901249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.065612,44.966689,-123.065612,44.966689",
     "geom:latitude":44.966689,
     "geom:longitude":-123.065612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2238 Hemlock Ct NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370901249,
-    "wof:lastmodified":1449030501,
+    "wof:lastmodified":1466774656,
     "wof:name":"Metro Tree Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-123.065612,44.966689,-123.065612,44.966689],
+  "bbox": [
+    -123.065612,
+    44.966689,
+    -123.065612,
+    44.966689
+],
   "geometry": {"coordinates":[-123.065612,44.966689],"type":"Point"}
 }

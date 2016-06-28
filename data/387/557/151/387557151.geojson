@@ -2,13 +2,14 @@
   "id": 387557151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.051561,44.885401,-123.051561,44.885401",
     "geom:latitude":44.885401,
     "geom:longitude":-123.051561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4874 Fir Dell Dr SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387557151,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1466773574,
     "wof:name":"Doug Wardell Remodeling",
     "wof:parent_id":85830411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.051561,44.885401,-123.051561,44.885401],
-  "geometry": {"coordinates":[-123.051561,44.885401],"type":"Point"}
+  "bbox": [
+    -123.051561,
+    44.885401,
+    -123.051561,
+    44.885401
+],
+  "geometry": {"coordinates":[-123.05156100000001,44.885401],"type":"Point"}
 }

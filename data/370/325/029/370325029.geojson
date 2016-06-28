@@ -2,13 +2,14 @@
   "id": 370325029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.595481,45.552628,-121.595481,45.552628",
     "geom:latitude":45.552628,
     "geom:longitude":-121.595481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4978 Alexander Dr",
     "sg:city":"Mount Hood Parkdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370325029,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1466770327,
     "wof:name":"Rippling River Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-121.595481,45.552628,-121.595481,45.552628],
-  "geometry": {"coordinates":[-121.595481,45.552628],"type":"Point"}
+  "bbox": [
+    -121.595481,
+    45.552628,
+    -121.595481,
+    45.552628
+],
+  "geometry": {"coordinates":[-121.59548100000001,45.552628],"type":"Point"}
 }

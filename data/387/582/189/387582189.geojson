@@ -2,13 +2,14 @@
   "id": 387582189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03337,45.521996,-123.03337,45.521996",
     "geom:latitude":45.521996,
     "geom:longitude":-123.03337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 N Barlow Pl",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387582189,
-    "wof:lastmodified":1449058159,
+    "wof:lastmodified":1466773823,
     "wof:name":"Right Choice Remodeling",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.03337,45.521996,-123.03337,45.521996],
-  "geometry": {"coordinates":[-123.03337,45.521996],"type":"Point"}
+  "bbox": [
+    -123.03337,
+    45.521996,
+    -123.03337,
+    45.521996
+],
+  "geometry": {"coordinates":[-123.03337000000001,45.521996],"type":"Point"}
 }

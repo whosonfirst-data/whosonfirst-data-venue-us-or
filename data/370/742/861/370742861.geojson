@@ -2,13 +2,14 @@
   "id": 370742861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.564164,45.410507,-122.564164,45.410507",
     "geom:latitude":45.410507,
     "geom:longitude":-122.564164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9550 SE Clackamas Rd",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370742861,
-    "wof:lastmodified":1449029307,
+    "wof:lastmodified":1466773768,
     "wof:name":"Lucht's Concrete Pumping",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.564164,45.410507,-122.564164,45.410507],
-  "geometry": {"coordinates":[-122.564164,45.410507],"type":"Point"}
+  "bbox": [
+    -122.564164,
+    45.410507,
+    -122.564164,
+    45.410507
+],
+  "geometry": {"coordinates":[-122.56416400000001,45.410507],"type":"Point"}
 }

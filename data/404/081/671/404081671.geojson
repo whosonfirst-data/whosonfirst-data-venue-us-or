@@ -2,13 +2,14 @@
   "id": 404081671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.780977,45.390382,-122.780977,45.390382",
     "geom:latitude":45.390382,
     "geom:longitude":-122.780977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17720 SW Yaquina Ct",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404081671,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466769966,
     "wof:name":"Christie Farms",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gathering"
     ]
 },
-  "bbox": [-122.780977,45.390382,-122.780977,45.390382],
-  "geometry": {"coordinates":[-122.780977,45.390382],"type":"Point"}
+  "bbox": [
+    -122.780977,
+    45.390382,
+    -122.780977,
+    45.390382
+],
+  "geometry": {"coordinates":[-122.78097699999999,45.390382],"type":"Point"}
 }

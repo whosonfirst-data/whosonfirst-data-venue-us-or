@@ -2,13 +2,14 @@
   "id": 371098493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.689334,45.529885,-122.689334,45.529885",
     "geom:latitude":45.529885,
     "geom:longitude":-122.689334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 NW Lovejoy St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371098493,
-    "wof:lastmodified":1449050017,
+    "wof:lastmodified":1466768769,
     "wof:name":"Wild Alchemy",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-122.689334,45.529885,-122.689334,45.529885],
+  "bbox": [
+    -122.689334,
+    45.529885,
+    -122.689334,
+    45.529885
+],
   "geometry": {"coordinates":[-122.689334,45.529885],"type":"Point"}
 }

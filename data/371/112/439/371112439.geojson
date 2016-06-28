@@ -2,13 +2,14 @@
   "id": 371112439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.205399,45.302165,-123.205399,45.302165",
     "geom:latitude":45.302165,
     "geom:longitude":-123.205399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11380 NW Westside Rd",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371112439,
-    "wof:lastmodified":1449049478,
+    "wof:lastmodified":1466769006,
     "wof:name":"Superior Gas Construction",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.205399,45.302165,-123.205399,45.302165],
+  "bbox": [
+    -123.205399,
+    45.302165,
+    -123.205399,
+    45.302165
+],
   "geometry": {"coordinates":[-123.205399,45.302165],"type":"Point"}
 }

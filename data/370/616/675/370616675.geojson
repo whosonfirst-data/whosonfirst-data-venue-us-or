@@ -2,13 +2,14 @@
   "id": 370616675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.842147,45.456999,-123.842147,45.456999",
     "geom:latitude":45.456999,
     "geom:longitude":-123.842147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Laurel Ave",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370616675,
-    "wof:lastmodified":1449031580,
+    "wof:lastmodified":1466773012,
     "wof:name":"City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-123.842147,45.456999,-123.842147,45.456999],
+  "bbox": [
+    -123.842147,
+    45.456999,
+    -123.842147,
+    45.456999
+],
   "geometry": {"coordinates":[-123.842147,45.456999],"type":"Point"}
 }

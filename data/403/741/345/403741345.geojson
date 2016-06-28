@@ -2,13 +2,14 @@
   "id": 403741345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109924,44.383741,-123.109924,44.383741",
     "geom:latitude":44.383741,
     "geom:longitude":-123.109924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 W 2nd St",
     "sg:city":"Halsey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403741345,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1466768729,
     "wof:name":"Halsey Fire Dept",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-123.109924,44.383741,-123.109924,44.383741],
-  "geometry": {"coordinates":[-123.109924,44.383741],"type":"Point"}
+  "bbox": [
+    -123.109924,
+    44.383741,
+    -123.109924,
+    44.383741
+],
+  "geometry": {"coordinates":[-123.10992400000001,44.383741],"type":"Point"}
 }

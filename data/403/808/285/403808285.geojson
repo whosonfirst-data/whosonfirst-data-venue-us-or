@@ -2,13 +2,14 @@
   "id": 403808285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120832,44.120477,-123.120832,44.120477",
     "geom:latitude":44.120477,
     "geom:longitude":-123.120832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"968 Rio Vista Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403808285,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1466769787,
     "wof:name":"Absolute Laundry",
     "wof:parent_id":85877255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-123.120832,44.120477,-123.120832,44.120477],
-  "geometry": {"coordinates":[-123.120832,44.120477],"type":"Point"}
+  "bbox": [
+    -123.120832,
+    44.120477,
+    -123.120832,
+    44.120477
+],
+  "geometry": {"coordinates":[-123.12083199999999,44.120477],"type":"Point"}
 }

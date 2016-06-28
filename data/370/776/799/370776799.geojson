@@ -2,13 +2,14 @@
   "id": 370776799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.228992,44.784012,-123.228992,44.784012",
     "geom:latitude":44.784012,
     "geom:longitude":-123.228992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9900 Old Fort Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370776799,
-    "wof:lastmodified":1449029835,
+    "wof:lastmodified":1466773859,
     "wof:name":"Duck Haven Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-123.228992,44.784012,-123.228992,44.784012],
-  "geometry": {"coordinates":[-123.228992,44.784012],"type":"Point"}
+  "bbox": [
+    -123.228992,
+    44.784012,
+    -123.228992,
+    44.784012
+],
+  "geometry": {"coordinates":[-123.22899200000001,44.784012],"type":"Point"}
 }

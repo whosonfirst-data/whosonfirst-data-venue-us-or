@@ -2,13 +2,14 @@
   "id": 404080077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.917095,46.001444,-123.917095,46.001444",
     "geom:latitude":46.001444,
     "geom:longitude":-123.917095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Roosevelt Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404080077,
-    "wof:lastmodified":1449040298,
+    "wof:lastmodified":1466769936,
     "wof:name":"Book Warehouse",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.917095,46.001444,-123.917095,46.001444],
+  "bbox": [
+    -123.917095,
+    46.001444,
+    -123.917095,
+    46.001444
+],
   "geometry": {"coordinates":[-123.917095,46.001444],"type":"Point"}
 }

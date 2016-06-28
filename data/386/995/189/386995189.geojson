@@ -2,13 +2,14 @@
   "id": 386995189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.220155,43.378414,-124.220155,43.378414",
     "geom:latitude":43.378414,
     "geom:longitude":-124.220155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Koos Bay Blvd",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386995189,
-    "wof:lastmodified":1449028938,
+    "wof:lastmodified":1466767464,
     "wof:name":"House",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-124.220155,43.378414,-124.220155,43.378414],
-  "geometry": {"coordinates":[-124.220155,43.378414],"type":"Point"}
+  "bbox": [
+    -124.220155,
+    43.378414,
+    -124.220155,
+    43.378414
+],
+  "geometry": {"coordinates":[-124.22015500000001,43.378414],"type":"Point"}
 }

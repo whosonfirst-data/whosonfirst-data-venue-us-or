@@ -2,13 +2,14 @@
   "id": 387035885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.015545,44.881156,-123.015545,44.881156",
     "geom:latitude":44.881156,
     "geom:longitude":-123.015545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 Barnes Ave SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387035885,
-    "wof:lastmodified":1449059187,
+    "wof:lastmodified":1466767730,
     "wof:name":"Greg Bachran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.015545,44.881156,-123.015545,44.881156],
+  "bbox": [
+    -123.015545,
+    44.881156,
+    -123.015545,
+    44.881156
+],
   "geometry": {"coordinates":[-123.015545,44.881156],"type":"Point"}
 }

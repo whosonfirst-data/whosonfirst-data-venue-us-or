@@ -2,13 +2,14 @@
   "id": 370806017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.893271,45.469595,-122.893271,45.469595",
     "geom:latitude":45.469595,
     "geom:longitude":-122.893271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6870 SW Lisbon Ct",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370806017,
-    "wof:lastmodified":1449029057,
+    "wof:lastmodified":1466774112,
     "wof:name":"Software Support",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.893271,45.469595,-122.893271,45.469595],
+  "bbox": [
+    -122.893271,
+    45.469595,
+    -122.893271,
+    45.469595
+],
   "geometry": {"coordinates":[-122.893271,45.469595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387806673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.826321,45.524933,-122.826321,45.524933",
     "geom:latitude":45.524933,
     "geom:longitude":-122.826321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14700 NW Greenbrier Pkwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387806673,
-    "wof:lastmodified":1449056100,
+    "wof:lastmodified":1466775020,
     "wof:name":"Rosetta Technologies",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.826321,45.524933,-122.826321,45.524933],
-  "geometry": {"coordinates":[-122.826321,45.524933],"type":"Point"}
+  "bbox": [
+    -122.826321,
+    45.524933,
+    -122.826321,
+    45.524933
+],
+  "geometry": {"coordinates":[-122.82632099999999,45.524933],"type":"Point"}
 }

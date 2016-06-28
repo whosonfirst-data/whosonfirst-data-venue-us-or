@@ -2,13 +2,14 @@
   "id": 403722579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.754478,45.514674,-122.754478,45.514674",
     "geom:latitude":45.514674,
     "geom:longitude":-122.754478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7736 SW Barnes Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403722579,
-    "wof:lastmodified":1449055093,
+    "wof:lastmodified":1466768262,
     "wof:name":"Happy Tails Dog Walking Svc",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.754478,45.514674,-122.754478,45.514674],
-  "geometry": {"coordinates":[-122.754478,45.514674],"type":"Point"}
+  "bbox": [
+    -122.754478,
+    45.514674,
+    -122.754478,
+    45.514674
+],
+  "geometry": {"coordinates":[-122.75447800000001,45.514674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370385503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.083209,45.325797,-118.083209,45.325797",
     "geom:latitude":45.325797,
     "geom:longitude":-118.083209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Cove Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370385503,
-    "wof:lastmodified":1449031089,
+    "wof:lastmodified":1466771680,
     "wof:name":"LA Grande City Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-118.083209,45.325797,-118.083209,45.325797],
+  "bbox": [
+    -118.083209,
+    45.325797,
+    -118.083209,
+    45.325797
+],
   "geometry": {"coordinates":[-118.083209,45.325797],"type":"Point"}
 }

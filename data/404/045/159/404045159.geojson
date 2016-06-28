@@ -2,13 +2,14 @@
   "id": 404045159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.650484,45.54638,-122.650484,45.54638",
     "geom:latitude":45.54638,
     "geom:longitude":-122.650484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 NE 15th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404045159,
-    "wof:lastmodified":1449040178,
+    "wof:lastmodified":1466769267,
     "wof:name":"Bowman Consulting Services",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.650484,45.54638,-122.650484,45.54638],
-  "geometry": {"coordinates":[-122.650484,45.54638],"type":"Point"}
+  "bbox": [
+    -122.650484,
+    45.54638,
+    -122.650484,
+    45.54638
+],
+  "geometry": {"coordinates":[-122.65048400000001,45.54638],"type":"Point"}
 }

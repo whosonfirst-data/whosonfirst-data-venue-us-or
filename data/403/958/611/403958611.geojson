@@ -2,13 +2,14 @@
   "id": 403958611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.129044,44.047766,-123.129044,44.047766",
     "geom:latitude":44.047766,
     "geom:longitude":-123.129044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403958611,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466768412,
     "wof:name":"Mac Towing",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-123.129044,44.047766,-123.129044,44.047766],
-  "geometry": {"coordinates":[-123.129044,44.047766],"type":"Point"}
+  "bbox": [
+    -123.129044,
+    44.047766,
+    -123.129044,
+    44.047766
+],
+  "geometry": {"coordinates":[-123.12904399999999,44.047766],"type":"Point"}
 }

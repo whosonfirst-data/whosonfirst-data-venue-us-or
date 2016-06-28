@@ -2,13 +2,14 @@
   "id": 387886525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.262475,44.563651,-123.262475,44.563651",
     "geom:latitude":44.563651,
     "geom:longitude":-123.262475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 SW 4th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387886525,
-    "wof:lastmodified":1449058217,
+    "wof:lastmodified":1466775240,
     "wof:name":"Adkins & Assoc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.262475,44.563651,-123.262475,44.563651],
-  "geometry": {"coordinates":[-123.262475,44.563651],"type":"Point"}
+  "bbox": [
+    -123.262475,
+    44.563651,
+    -123.262475,
+    44.563651
+],
+  "geometry": {"coordinates":[-123.26247499999999,44.563651],"type":"Point"}
 }

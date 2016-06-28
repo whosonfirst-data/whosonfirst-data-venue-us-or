@@ -2,13 +2,14 @@
   "id": 371068247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.259717,44.577614,-123.259717,44.577614",
     "geom:latitude":44.577614,
     "geom:longitude":-123.259717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NW Cornell Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371068247,
-    "wof:lastmodified":1449049566,
+    "wof:lastmodified":1466768278,
     "wof:name":"Schudel Enterprises LLC",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "christmas"
     ]
 },
-  "bbox": [-123.259717,44.577614,-123.259717,44.577614],
-  "geometry": {"coordinates":[-123.259717,44.577614],"type":"Point"}
+  "bbox": [
+    -123.259717,
+    44.577614,
+    -123.259717,
+    44.577614
+],
+  "geometry": {"coordinates":[-123.25971699999999,44.577614],"type":"Point"}
 }

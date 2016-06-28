@@ -2,13 +2,14 @@
   "id": 387825279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.24357,44.642503,-123.24357,44.642503",
     "geom:latitude":44.642503,
     "geom:longitude":-123.24357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 NW Alder Creek Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387825279,
-    "wof:lastmodified":1449056265,
+    "wof:lastmodified":1466775091,
     "wof:name":"Studio Works Photography",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-123.24357,44.642503,-123.24357,44.642503],
-  "geometry": {"coordinates":[-123.24357,44.642503],"type":"Point"}
+  "bbox": [
+    -123.24357,
+    44.642503,
+    -123.24357,
+    44.642503
+],
+  "geometry": {"coordinates":[-123.24357000000001,44.642503],"type":"Point"}
 }

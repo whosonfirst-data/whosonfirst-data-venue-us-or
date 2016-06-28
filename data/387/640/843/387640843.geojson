@@ -2,13 +2,14 @@
   "id": 387640843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.794812,45.005995,-122.794812,45.005995",
     "geom:latitude":45.005995,
     "geom:longitude":-122.794812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 McClaine St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387640843,
-    "wof:lastmodified":1449057759,
+    "wof:lastmodified":1466774050,
     "wof:name":"De-Tech Mfg",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sign"
     ]
 },
-  "bbox": [-122.794812,45.005995,-122.794812,45.005995],
-  "geometry": {"coordinates":[-122.794812,45.005995],"type":"Point"}
+  "bbox": [
+    -122.794812,
+    45.005995,
+    -122.794812,
+    45.005995
+],
+  "geometry": {"coordinates":[-122.79481199999999,45.005995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387695039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.550148,45.543196,-122.550148,45.543196",
     "geom:latitude":45.543196,
     "geom:longitude":-122.550148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 NE Morris St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387695039,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466774427,
     "wof:name":"Safe Transportation",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.550148,45.543196,-122.550148,45.543196],
-  "geometry": {"coordinates":[-122.550148,45.543196],"type":"Point"}
+  "bbox": [
+    -122.550148,
+    45.543196,
+    -122.550148,
+    45.543196
+],
+  "geometry": {"coordinates":[-122.55014799999999,45.543196],"type":"Point"}
 }

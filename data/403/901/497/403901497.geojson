@@ -2,13 +2,14 @@
   "id": 403901497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.491851,45.537584,-122.491851,45.537584",
     "geom:latitude":45.537584,
     "geom:longitude":-122.491851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 NE 165th Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403901497,
-    "wof:lastmodified":1449055187,
+    "wof:lastmodified":1466767390,
     "wof:name":"Northwest Electroplating Svc",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electroplating"
     ]
 },
-  "bbox": [-122.491851,45.537584,-122.491851,45.537584],
+  "bbox": [
+    -122.491851,
+    45.537584,
+    -122.491851,
+    45.537584
+],
   "geometry": {"coordinates":[-122.491851,45.537584],"type":"Point"}
 }

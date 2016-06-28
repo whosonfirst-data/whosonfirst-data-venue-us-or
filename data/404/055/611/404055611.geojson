@@ -2,13 +2,14 @@
   "id": 404055611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.630333,45.278443,-122.630333,45.278443",
     "geom:latitude":45.278443,
     "geom:longitude":-122.630333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22636 S Central Point Rd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404055611,
-    "wof:lastmodified":1449039318,
+    "wof:lastmodified":1466769389,
     "wof:name":"Tim Gilmer",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crop"
     ]
 },
-  "bbox": [-122.630333,45.278443,-122.630333,45.278443],
-  "geometry": {"coordinates":[-122.630333,45.278443],"type":"Point"}
+  "bbox": [
+    -122.630333,
+    45.278443,
+    -122.630333,
+    45.278443
+],
+  "geometry": {"coordinates":[-122.63033299999999,45.278443],"type":"Point"}
 }

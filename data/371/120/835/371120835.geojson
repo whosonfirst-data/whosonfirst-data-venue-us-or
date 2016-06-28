@@ -2,13 +2,14 @@
   "id": 371120835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.118874,44.005689,-123.118874,44.005689",
     "geom:latitude":44.005689,
     "geom:longitude":-123.118874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4575 Blanton Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371120835,
-    "wof:lastmodified":1449049983,
+    "wof:lastmodified":1466769169,
     "wof:name":"KVAL",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-123.118874,44.005689,-123.118874,44.005689],
-  "geometry": {"coordinates":[-123.118874,44.005689],"type":"Point"}
+  "bbox": [
+    -123.118874,
+    44.005689,
+    -123.118874,
+    44.005689
+],
+  "geometry": {"coordinates":[-123.11887400000001,44.005689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387712937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.683123,45.524638,-122.683123,45.524638",
     "geom:latitude":45.524638,
     "geom:longitude":-122.683123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 NW 12th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387712937,
-    "wof:lastmodified":1449057738,
+    "wof:lastmodified":1466774697,
     "wof:name":"Cobras & Matadors",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.683123,45.524638,-122.683123,45.524638],
-  "geometry": {"coordinates":[-122.683123,45.524638],"type":"Point"}
+  "bbox": [
+    -122.683123,
+    45.524638,
+    -122.683123,
+    45.524638
+],
+  "geometry": {"coordinates":[-122.68312299999999,45.524638],"type":"Point"}
 }

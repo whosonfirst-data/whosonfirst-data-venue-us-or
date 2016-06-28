@@ -2,13 +2,14 @@
   "id": 371174693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.933147,44.048263,-122.933147,44.048263",
     "geom:latitude":44.048263,
     "geom:longitude":-122.933147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 55th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371174693,
-    "wof:lastmodified":1449049154,
+    "wof:lastmodified":1466770176,
     "wof:name":"Greer Enterprises",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.933147,44.048263,-122.933147,44.048263],
-  "geometry": {"coordinates":[-122.933147,44.048263],"type":"Point"}
+  "bbox": [
+    -122.933147,
+    44.048263,
+    -122.933147,
+    44.048263
+],
+  "geometry": {"coordinates":[-122.93314700000001,44.048263],"type":"Point"}
 }

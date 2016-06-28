@@ -2,13 +2,14 @@
   "id": 387362919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.635273,45.408111,-122.635273,45.408111",
     "geom:latitude":45.408111,
     "geom:longitude":-122.635273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 SE Risley Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387362919,
-    "wof:lastmodified":1449058572,
+    "wof:lastmodified":1466772349,
     "wof:name":"Robert Waldo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.635273,45.408111,-122.635273,45.408111],
+  "bbox": [
+    -122.635273,
+    45.408111,
+    -122.635273,
+    45.408111
+],
   "geometry": {"coordinates":[-122.635273,45.408111],"type":"Point"}
 }

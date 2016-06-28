@@ -2,13 +2,14 @@
   "id": 387848219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.895851,45.196714,-123.895851,45.196714",
     "geom:latitude":45.196714,
     "geom:longitude":-123.895851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35615 Hwy 101 S",
     "sg:city":"Cloverdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387848219,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1466775155,
     "wof:name":"Robert Cook Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.895851,45.196714,-123.895851,45.196714],
-  "geometry": {"coordinates":[-123.895851,45.196714],"type":"Point"}
+  "bbox": [
+    -123.895851,
+    45.196714,
+    -123.895851,
+    45.196714
+],
+  "geometry": {"coordinates":[-123.89585099999999,45.196714],"type":"Point"}
 }

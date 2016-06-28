@@ -2,13 +2,14 @@
   "id": 387173287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.122785,44.102528,-123.122785,44.102528",
     "geom:latitude":44.102528,
     "geom:longitude":-123.122785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Helen St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387173287,
-    "wof:lastmodified":1449056832,
+    "wof:lastmodified":1466770239,
     "wof:name":"Alice Hanauska",
     "wof:parent_id":85877255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.122785,44.102528,-123.122785,44.102528],
-  "geometry": {"coordinates":[-123.122785,44.102528],"type":"Point"}
+  "bbox": [
+    -123.122785,
+    44.102528,
+    -123.122785,
+    44.102528
+],
+  "geometry": {"coordinates":[-123.12278499999999,44.102528],"type":"Point"}
 }

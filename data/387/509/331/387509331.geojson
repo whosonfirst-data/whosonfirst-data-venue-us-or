@@ -2,13 +2,14 @@
   "id": 387509331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.781765,45.51912,-122.781765,45.51912",
     "geom:latitude":45.51912,
     "geom:longitude":-122.781765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10170 SW Todd Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387509331,
-    "wof:lastmodified":1449056272,
+    "wof:lastmodified":1466773194,
     "wof:name":"Slice Of The Bred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-122.781765,45.51912,-122.781765,45.51912],
-  "geometry": {"coordinates":[-122.781765,45.51912],"type":"Point"}
+  "bbox": [
+    -122.781765,
+    45.51912,
+    -122.781765,
+    45.51912
+],
+  "geometry": {"coordinates":[-122.78176499999999,45.51912],"type":"Point"}
 }

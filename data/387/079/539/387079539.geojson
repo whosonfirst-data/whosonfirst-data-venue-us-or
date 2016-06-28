@@ -2,13 +2,14 @@
   "id": 387079539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.864719,45.509729,-123.864719,45.509729",
     "geom:latitude":45.509729,
     "geom:longitude":-123.864719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7495 Alderbrook Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387079539,
-    "wof:lastmodified":1449059289,
+    "wof:lastmodified":1466768467,
     "wof:name":"Idaville Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-123.864719,45.509729,-123.864719,45.509729],
-  "geometry": {"coordinates":[-123.864719,45.509729],"type":"Point"}
+  "bbox": [
+    -123.864719,
+    45.509729,
+    -123.864719,
+    45.509729
+],
+  "geometry": {"coordinates":[-123.86471899999999,45.509729],"type":"Point"}
 }

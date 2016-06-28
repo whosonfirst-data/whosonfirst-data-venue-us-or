@@ -2,13 +2,14 @@
   "id": 386986265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.523497,45.488216,-122.523497,45.488216",
     "geom:latitude":45.488216,
     "geom:longitude":-122.523497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 SE 136th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386986265,
-    "wof:lastmodified":1449028887,
+    "wof:lastmodified":1466767432,
     "wof:name":"Vio T Construction",
     "wof:parent_id":85858087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.523497,45.488216,-122.523497,45.488216],
-  "geometry": {"coordinates":[-122.523497,45.488216],"type":"Point"}
+  "bbox": [
+    -122.523497,
+    45.488216,
+    -122.523497,
+    45.488216
+],
+  "geometry": {"coordinates":[-122.52349700000001,45.488216],"type":"Point"}
 }

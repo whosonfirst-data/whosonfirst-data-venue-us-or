@@ -2,13 +2,14 @@
   "id": 387035887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.271659,45.823517,-119.271659,45.823517",
     "geom:latitude":45.823517,
     "geom:longitude":-119.271659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 S Hwy 395",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387035887,
-    "wof:lastmodified":1449059188,
+    "wof:lastmodified":1466767731,
     "wof:name":"Highway Maintenance Station",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.271659,45.823517,-119.271659,45.823517],
+  "bbox": [
+    -119.271659,
+    45.823517,
+    -119.271659,
+    45.823517
+],
   "geometry": {"coordinates":[-119.271659,45.823517],"type":"Point"}
 }

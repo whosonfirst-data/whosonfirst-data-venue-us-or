@@ -2,13 +2,14 @@
   "id": 370421545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.53777,45.491568,-122.53777,45.491568",
     "geom:latitude":45.491568,
     "geom:longitude":-122.53777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4251 SE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370421545,
-    "wof:lastmodified":1449031222,
+    "wof:lastmodified":1466771680,
     "wof:name":"Evergreen Place  LLC",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.53777,45.491568,-122.53777,45.491568],
-  "geometry": {"coordinates":[-122.53777,45.491568],"type":"Point"}
+  "bbox": [
+    -122.53777,
+    45.491568,
+    -122.53777,
+    45.491568
+],
+  "geometry": {"coordinates":[-122.53776999999999,45.491568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387948975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.123011,44.024927,-123.123011,44.024927",
     "geom:latitude":44.024927,
     "geom:longitude":-123.123011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 Graham Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387948975,
-    "wof:lastmodified":1449059127,
+    "wof:lastmodified":1466775388,
     "wof:name":"Michael Rebar",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-123.123011,44.024927,-123.123011,44.024927],
-  "geometry": {"coordinates":[-123.123011,44.024927],"type":"Point"}
+  "bbox": [
+    -123.123011,
+    44.024927,
+    -123.123011,
+    44.024927
+],
+  "geometry": {"coordinates":[-123.12301100000001,44.024927],"type":"Point"}
 }

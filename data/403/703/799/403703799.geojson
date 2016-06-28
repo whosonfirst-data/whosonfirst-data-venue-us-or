@@ -2,13 +2,14 @@
   "id": 403703799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.342033,42.422479,-123.342033,42.422479",
     "geom:latitude":42.422479,
     "geom:longitude":-123.342033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Union Ave",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403703799,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1466767857,
     "wof:name":"Southern Oregon Dental Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-123.342033,42.422479,-123.342033,42.422479],
+  "bbox": [
+    -123.342033,
+    42.422479,
+    -123.342033,
+    42.422479
+],
   "geometry": {"coordinates":[-123.342033,42.422479],"type":"Point"}
 }

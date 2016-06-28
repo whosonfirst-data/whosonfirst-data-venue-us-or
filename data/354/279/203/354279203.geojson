@@ -2,13 +2,14 @@
   "id": 354279203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.599207,45.439666,-122.599207,45.439666",
     "geom:latitude":45.439666,
     "geom:longitude":-122.599207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11448 SE Linwood Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354279203,
-    "wof:lastmodified":1449066693,
+    "wof:lastmodified":1466769179,
     "wof:name":"Lydon Custom Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-122.599207,45.439666,-122.599207,45.439666],
-  "geometry": {"coordinates":[-122.599207,45.439666],"type":"Point"}
+  "bbox": [
+    -122.599207,
+    45.439666,
+    -122.599207,
+    45.439666
+],
+  "geometry": {"coordinates":[-122.59920700000001,45.439666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387885253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.260899,44.563137,-123.260899,44.563137",
     "geom:latitude":44.563137,
     "geom:longitude":-123.260899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 SW Madison Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387885253,
-    "wof:lastmodified":1449058131,
+    "wof:lastmodified":1466775235,
     "wof:name":"Heart Of The Valley Choir",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "g"
     ]
 },
-  "bbox": [-123.260899,44.563137,-123.260899,44.563137],
-  "geometry": {"coordinates":[-123.260899,44.563137],"type":"Point"}
+  "bbox": [
+    -123.260899,
+    44.563137,
+    -123.260899,
+    44.563137
+],
+  "geometry": {"coordinates":[-123.26089899999999,44.563137],"type":"Point"}
 }

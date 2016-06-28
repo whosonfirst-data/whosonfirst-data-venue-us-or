@@ -2,13 +2,14 @@
   "id": 387550225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093595,44.030653,-123.093595,44.030653",
     "geom:latitude":44.030653,
     "geom:longitude":-123.093595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 McMillan St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387550225,
-    "wof:lastmodified":1449058169,
+    "wof:lastmodified":1466773594,
     "wof:name":"John The Plumber Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.093595,44.030653,-123.093595,44.030653],
-  "geometry": {"coordinates":[-123.093595,44.030653],"type":"Point"}
+  "bbox": [
+    -123.093595,
+    44.030653,
+    -123.093595,
+    44.030653
+],
+  "geometry": {"coordinates":[-123.09359499999999,44.030653],"type":"Point"}
 }

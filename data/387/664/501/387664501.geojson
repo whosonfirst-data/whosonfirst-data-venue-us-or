@@ -2,13 +2,14 @@
   "id": 387664501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018791,44.979523,-123.018791,44.979523",
     "geom:latitude":44.979523,
     "geom:longitude":-123.018791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3681 Shady Pl NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387664501,
-    "wof:lastmodified":1449057511,
+    "wof:lastmodified":1466774213,
     "wof:name":"Hagemann Painting",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.018791,44.979523,-123.018791,44.979523],
-  "geometry": {"coordinates":[-123.018791,44.979523],"type":"Point"}
+  "bbox": [
+    -123.018791,
+    44.979523,
+    -123.018791,
+    44.979523
+],
+  "geometry": {"coordinates":[-123.01879099999999,44.979523],"type":"Point"}
 }

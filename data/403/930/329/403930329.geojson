@@ -2,13 +2,14 @@
   "id": 403930329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.000135,44.058786,-123.000135,44.058786",
     "geom:latitude":44.058786,
     "geom:longitude":-123.000135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Mohawk Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403930329,
-    "wof:lastmodified":1449055055,
+    "wof:lastmodified":1466767904,
     "wof:name":"Dutch Bros Coffee",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-123.000135,44.058786,-123.000135,44.058786],
+  "bbox": [
+    -123.000135,
+    44.058786,
+    -123.000135,
+    44.058786
+],
   "geometry": {"coordinates":[-123.000135,44.058786],"type":"Point"}
 }

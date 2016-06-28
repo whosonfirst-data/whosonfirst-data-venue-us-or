@@ -2,13 +2,14 @@
   "id": 370285343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.327081,43.390199,-123.327081,43.390199",
     "geom:latitude":43.390199,
     "geom:longitude":-123.327081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"881 W 6th Ave",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370285343,
-    "wof:lastmodified":1449029162,
+    "wof:lastmodified":1466769554,
     "wof:name":"Chapel Of The Firs",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-123.327081,43.390199,-123.327081,43.390199],
-  "geometry": {"coordinates":[-123.327081,43.390199],"type":"Point"}
+  "bbox": [
+    -123.327081,
+    43.390199,
+    -123.327081,
+    43.390199
+],
+  "geometry": {"coordinates":[-123.32708100000001,43.390199],"type":"Point"}
 }

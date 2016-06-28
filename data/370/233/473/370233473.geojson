@@ -2,13 +2,14 @@
   "id": 370233473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.793754,45.191923,-122.793754,45.191923",
     "geom:latitude":45.191923,
     "geom:longitude":-122.793754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18797 Hwy 99E",
     "sg:city":"Hubbard",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370233473,
-    "wof:lastmodified":1449032535,
+    "wof:lastmodified":1466768589,
     "wof:name":"Furniture Place",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.793754,45.191923,-122.793754,45.191923],
-  "geometry": {"coordinates":[-122.793754,45.191923],"type":"Point"}
+  "bbox": [
+    -122.793754,
+    45.191923,
+    -122.793754,
+    45.191923
+],
+  "geometry": {"coordinates":[-122.79375400000001,45.191923],"type":"Point"}
 }

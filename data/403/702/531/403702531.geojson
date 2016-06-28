@@ -2,13 +2,14 @@
   "id": 403702531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820293,45.520716,-122.820293,45.520716",
     "geom:latitude":45.520716,
     "geom:longitude":-122.820293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13724 NW Mill Creek Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403702531,
-    "wof:lastmodified":1449055299,
+    "wof:lastmodified":1466767845,
     "wof:name":"Hatfields Xpress Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.820293,45.520716,-122.820293,45.520716],
-  "geometry": {"coordinates":[-122.820293,45.520716],"type":"Point"}
+  "bbox": [
+    -122.820293,
+    45.520716,
+    -122.820293,
+    45.520716
+],
+  "geometry": {"coordinates":[-122.82029300000001,45.520716],"type":"Point"}
 }

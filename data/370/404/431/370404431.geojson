@@ -2,13 +2,14 @@
   "id": 370404431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81112,45.402953,-122.81112,45.402953",
     "geom:latitude":45.402953,
     "geom:longitude":-122.81112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16457 SW 130th Ter",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370404431,
-    "wof:lastmodified":1449031324,
+    "wof:lastmodified":1466771689,
     "wof:name":"Med-Data",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-122.81112,45.402953,-122.81112,45.402953],
+  "bbox": [
+    -122.81112,
+    45.402953,
+    -122.81112,
+    45.402953
+],
   "geometry": {"coordinates":[-122.81112,45.402953],"type":"Point"}
 }

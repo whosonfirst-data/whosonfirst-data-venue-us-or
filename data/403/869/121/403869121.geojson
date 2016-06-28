@@ -2,13 +2,14 @@
   "id": 403869121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091802,44.049843,-123.091802,44.049843",
     "geom:latitude":44.049843,
     "geom:longitude":-123.091802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 E Broadway",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403869121,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1466771145,
     "wof:name":"Muhlheim Boyd",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.091802,44.049843,-123.091802,44.049843],
+  "bbox": [
+    -123.091802,
+    44.049843,
+    -123.091802,
+    44.049843
+],
   "geometry": {"coordinates":[-123.091802,44.049843],"type":"Point"}
 }

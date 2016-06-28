@@ -2,13 +2,14 @@
   "id": 387533017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.035547,44.950878,-123.035547,44.950878",
     "geom:latitude":44.950878,
     "geom:longitude":-123.035547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Commercial St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387533017,
-    "wof:lastmodified":1449056071,
+    "wof:lastmodified":1466773375,
     "wof:name":"Pacific Medical Supply Inc",
     "wof:parent_id":85880575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rent"
     ]
 },
-  "bbox": [-123.035547,44.950878,-123.035547,44.950878],
-  "geometry": {"coordinates":[-123.035547,44.950878],"type":"Point"}
+  "bbox": [
+    -123.035547,
+    44.950878,
+    -123.035547,
+    44.950878
+],
+  "geometry": {"coordinates":[-123.03554699999999,44.950878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387210819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.683422,45.521888,-122.683422,45.521888",
     "geom:latitude":45.521888,
     "geom:longitude":-122.683422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 SW Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387210819,
-    "wof:lastmodified":1449057389,
+    "wof:lastmodified":1466771013,
     "wof:name":"Princeton Athletic Club",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-122.683422,45.521888,-122.683422,45.521888],
-  "geometry": {"coordinates":[-122.683422,45.521888],"type":"Point"}
+  "bbox": [
+    -122.683422,
+    45.521888,
+    -122.683422,
+    45.521888
+],
+  "geometry": {"coordinates":[-122.68342199999999,45.521888],"type":"Point"}
 }

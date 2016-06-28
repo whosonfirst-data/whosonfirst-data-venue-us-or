@@ -2,13 +2,14 @@
   "id": 387059989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.145497,44.047931,-123.145497,44.047931",
     "geom:latitude":44.047931,
     "geom:longitude":-123.145497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3364 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387059989,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1466768141,
     "wof:name":"Bike Friday",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bicycle"
     ]
 },
-  "bbox": [-123.145497,44.047931,-123.145497,44.047931],
-  "geometry": {"coordinates":[-123.145497,44.047931],"type":"Point"}
+  "bbox": [
+    -123.145497,
+    44.047931,
+    -123.145497,
+    44.047931
+],
+  "geometry": {"coordinates":[-123.14549700000001,44.047931],"type":"Point"}
 }

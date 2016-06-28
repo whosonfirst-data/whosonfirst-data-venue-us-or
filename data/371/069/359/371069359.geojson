@@ -2,13 +2,14 @@
   "id": 371069359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.829017,44.774295,-117.829017,44.774295",
     "geom:latitude":44.774295,
     "geom:longitude":-117.829017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Bridge St",
     "sg:city":"Baker City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371069359,
-    "wof:lastmodified":1449049712,
+    "wof:lastmodified":1466768295,
     "wof:name":"Shirley's Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-117.829017,44.774295,-117.829017,44.774295],
-  "geometry": {"coordinates":[-117.829017,44.774295],"type":"Point"}
+  "bbox": [
+    -117.829017,
+    44.774295,
+    -117.829017,
+    44.774295
+],
+  "geometry": {"coordinates":[-117.82901699999999,44.774295],"type":"Point"}
 }

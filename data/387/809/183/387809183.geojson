@@ -2,13 +2,14 @@
   "id": 387809183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820777,45.441764,-122.820777,45.441764",
     "geom:latitude":45.441764,
     "geom:longitude":-122.820777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10660 SW Davies Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809183,
-    "wof:lastmodified":1449059239,
+    "wof:lastmodified":1466774923,
     "wof:name":"Doug Hampton Painting",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.820777,45.441764,-122.820777,45.441764],
-  "geometry": {"coordinates":[-122.820777,45.441764],"type":"Point"}
+  "bbox": [
+    -122.820777,
+    45.441764,
+    -122.820777,
+    45.441764
+],
+  "geometry": {"coordinates":[-122.82077700000001,45.441764],"type":"Point"}
 }

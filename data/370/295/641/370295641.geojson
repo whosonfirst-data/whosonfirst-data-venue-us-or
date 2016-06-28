@@ -2,13 +2,14 @@
   "id": 370295641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.648835,45.473974,-122.648835,45.473974",
     "geom:latitude":45.473974,
     "geom:longitude":-122.648835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 SE Milwaukie Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370295641,
-    "wof:lastmodified":1449030462,
+    "wof:lastmodified":1466769743,
     "wof:name":"Digital Vision Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-122.648835,45.473974,-122.648835,45.473974],
-  "geometry": {"coordinates":[-122.648835,45.473974],"type":"Point"}
+  "bbox": [
+    -122.648835,
+    45.473974,
+    -122.648835,
+    45.473974
+],
+  "geometry": {"coordinates":[-122.64883500000001,45.473974],"type":"Point"}
 }

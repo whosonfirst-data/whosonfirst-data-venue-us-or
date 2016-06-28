@@ -2,13 +2,14 @@
   "id": 403912427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.123248,44.046701,-123.123248,44.046701",
     "geom:latitude":44.046701,
     "geom:longitude":-123.123248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 Garfield St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403912427,
-    "wof:lastmodified":1449055292,
+    "wof:lastmodified":1466767577,
     "wof:name":"Northwest Elder Law",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.123248,44.046701,-123.123248,44.046701],
+  "bbox": [
+    -123.123248,
+    44.046701,
+    -123.123248,
+    44.046701
+],
   "geometry": {"coordinates":[-123.123248,44.046701],"type":"Point"}
 }

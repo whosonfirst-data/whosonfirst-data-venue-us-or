@@ -2,13 +2,14 @@
   "id": 371014153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.701613,45.454376,-122.701613,45.454376",
     "geom:latitude":45.454376,
     "geom:longitude":-122.701613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10050 SW 25th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371014153,
-    "wof:lastmodified":1449049533,
+    "wof:lastmodified":1466767380,
     "wof:name":"Guys Wood",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.701613,45.454376,-122.701613,45.454376],
-  "geometry": {"coordinates":[-122.701613,45.454376],"type":"Point"}
+  "bbox": [
+    -122.701613,
+    45.454376,
+    -122.701613,
+    45.454376
+],
+  "geometry": {"coordinates":[-122.70161299999999,45.454376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370958599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.344723,43.207827,-123.344723,43.207827",
     "geom:latitude":43.207827,
     "geom:longitude":-123.344723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 SE Jackson St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370958599,
-    "wof:lastmodified":1449031738,
+    "wof:lastmodified":1466774949,
     "wof:name":"Hanson Jewelers",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-123.344723,43.207827,-123.344723,43.207827],
+  "bbox": [
+    -123.344723,
+    43.207827,
+    -123.344723,
+    43.207827
+],
   "geometry": {"coordinates":[-123.344723,43.207827],"type":"Point"}
 }

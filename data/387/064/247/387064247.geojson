@@ -2,13 +2,14 @@
   "id": 387064247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.858703,45.531192,-122.858703,45.531192",
     "geom:latitude":45.531192,
     "geom:longitude":-122.858703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1596 NW Tanasbrook Ct",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387064247,
-    "wof:lastmodified":1449057439,
+    "wof:lastmodified":1466768205,
     "wof:name":"Paragon Cruise & Tour",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-122.858703,45.531192,-122.858703,45.531192],
-  "geometry": {"coordinates":[-122.858703,45.531192],"type":"Point"}
+  "bbox": [
+    -122.858703,
+    45.531192,
+    -122.858703,
+    45.531192
+],
+  "geometry": {"coordinates":[-122.85870300000001,45.531192],"type":"Point"}
 }

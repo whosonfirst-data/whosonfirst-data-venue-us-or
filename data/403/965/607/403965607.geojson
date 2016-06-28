@@ -2,13 +2,14 @@
   "id": 403965607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.147459,44.001747,-123.147459,44.001747",
     "geom:latitude":44.001747,
     "geom:longitude":-123.147459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86020 Lorane Hwy",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":403965607,
-    "wof:lastmodified":1449055539,
+    "wof:lastmodified":1466768540,
     "wof:name":"Woodland Gardens Nursery",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-123.147459,44.001747,-123.147459,44.001747],
+  "bbox": [
+    -123.147459,
+    44.001747,
+    -123.147459,
+    44.001747
+],
   "geometry": {"coordinates":[-123.147459,44.001747],"type":"Point"}
 }

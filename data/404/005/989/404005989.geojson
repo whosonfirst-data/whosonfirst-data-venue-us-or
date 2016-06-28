@@ -2,13 +2,14 @@
   "id": 404005989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.618558,45.433035,-122.618558,45.433035",
     "geom:latitude":45.433035,
     "geom:longitude":-122.618558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 SE Northridge Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404005989,
-    "wof:lastmodified":1449040240,
+    "wof:lastmodified":1466768420,
     "wof:name":"Cascade Open Systems Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-122.618558,45.433035,-122.618558,45.433035],
-  "geometry": {"coordinates":[-122.618558,45.433035],"type":"Point"}
+  "bbox": [
+    -122.618558,
+    45.433035,
+    -122.618558,
+    45.433035
+],
+  "geometry": {"coordinates":[-122.61855799999999,45.433035],"type":"Point"}
 }

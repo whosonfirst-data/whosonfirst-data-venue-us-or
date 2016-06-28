@@ -2,13 +2,14 @@
   "id": 387467021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.591411,45.491061,-122.591411,45.491061",
     "geom:latitude":45.491061,
     "geom:longitude":-122.591411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6729 SE Mall St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387467021,
-    "wof:lastmodified":1449059098,
+    "wof:lastmodified":1466772905,
     "wof:name":"Magic Pencil",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-122.591411,45.491061,-122.591411,45.491061],
-  "geometry": {"coordinates":[-122.591411,45.491061],"type":"Point"}
+  "bbox": [
+    -122.591411,
+    45.491061,
+    -122.591411,
+    45.491061
+],
+  "geometry": {"coordinates":[-122.59141099999999,45.491061],"type":"Point"}
 }

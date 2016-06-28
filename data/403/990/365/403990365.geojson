@@ -2,13 +2,14 @@
   "id": 403990365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.725631,45.510385,-122.725631,45.510385",
     "geom:latitude":45.510385,
     "geom:longitude":-122.725631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 SW Highland Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403990365,
-    "wof:lastmodified":1449055503,
+    "wof:lastmodified":1466768970,
     "wof:name":"Carol Amrais",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "assistance"
     ]
 },
-  "bbox": [-122.725631,45.510385,-122.725631,45.510385],
-  "geometry": {"coordinates":[-122.725631,45.510385],"type":"Point"}
+  "bbox": [
+    -122.725631,
+    45.510385,
+    -122.725631,
+    45.510385
+],
+  "geometry": {"coordinates":[-122.72563100000001,45.510385],"type":"Point"}
 }

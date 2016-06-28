@@ -2,13 +2,14 @@
   "id": 370798115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.943062,45.973334,-123.943062,45.973334",
     "geom:latitude":45.973334,
     "geom:longitude":-123.943062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Bayview Ter",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370798115,
-    "wof:lastmodified":1449029721,
+    "wof:lastmodified":1466774074,
     "wof:name":"Jeff Wood",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.943062,45.973334,-123.943062,45.973334],
+  "bbox": [
+    -123.943062,
+    45.973334,
+    -123.943062,
+    45.973334
+],
   "geometry": {"coordinates":[-123.943062,45.973334],"type":"Point"}
 }

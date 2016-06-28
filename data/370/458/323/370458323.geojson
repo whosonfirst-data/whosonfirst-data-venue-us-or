@@ -2,13 +2,14 @@
   "id": 370458323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.900149,45.537135,-122.900149,45.537135",
     "geom:latitude":45.537135,
     "geom:longitude":-122.900149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 NW Cornelius Pass Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370458323,
-    "wof:lastmodified":1449031499,
+    "wof:lastmodified":1466771904,
     "wof:name":"Orenco Station Import Auto",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.900149,45.537135,-122.900149,45.537135],
+  "bbox": [
+    -122.900149,
+    45.537135,
+    -122.900149,
+    45.537135
+],
   "geometry": {"coordinates":[-122.900149,45.537135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387020305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.744048,45.487154,-122.744048,45.487154",
     "geom:latitude":45.487154,
     "geom:longitude":-122.744048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6663 SW Beaverton-Hillsdale Hwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387020305,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1466767465,
     "wof:name":"D R Kelley Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consulting"
     ]
 },
-  "bbox": [-122.744048,45.487154,-122.744048,45.487154],
-  "geometry": {"coordinates":[-122.744048,45.487154],"type":"Point"}
+  "bbox": [
+    -122.744048,
+    45.487154,
+    -122.744048,
+    45.487154
+],
+  "geometry": {"coordinates":[-122.74404800000001,45.487154],"type":"Point"}
 }

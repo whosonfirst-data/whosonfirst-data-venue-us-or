@@ -2,13 +2,14 @@
   "id": 403767071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.74304,45.595403,-122.74304,45.595403",
     "geom:latitude":45.595403,
     "geom:longitude":-122.74304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7705 N Fessenden St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403767071,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1466769134,
     "wof:name":"Tuscan Concrete & Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.74304,45.595403,-122.74304,45.595403],
-  "geometry": {"coordinates":[-122.74304,45.595403],"type":"Point"}
+  "bbox": [
+    -122.74304,
+    45.595403,
+    -122.74304,
+    45.595403
+],
+  "geometry": {"coordinates":[-122.74303999999999,45.595403],"type":"Point"}
 }

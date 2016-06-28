@@ -2,13 +2,14 @@
   "id": 387110045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.698392,45.252395,-122.698392,45.252395",
     "geom:latitude":45.252395,
     "geom:longitude":-122.698392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 S Cedar Dr",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387110045,
-    "wof:lastmodified":1449057348,
+    "wof:lastmodified":1466768977,
     "wof:name":"Paradise Maintenance",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-122.698392,45.252395,-122.698392,45.252395],
+  "bbox": [
+    -122.698392,
+    45.252395,
+    -122.698392,
+    45.252395
+],
   "geometry": {"coordinates":[-122.698392,45.252395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371110589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.28458,44.578475,-123.28458,44.578475",
     "geom:latitude":44.578475,
     "geom:longitude":-123.28458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 NW 30th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371110589,
-    "wof:lastmodified":1449049350,
+    "wof:lastmodified":1466768971,
     "wof:name":"Edith Yang Architect",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-123.28458,44.578475,-123.28458,44.578475],
-  "geometry": {"coordinates":[-123.28458,44.578475],"type":"Point"}
+  "bbox": [
+    -123.28458,
+    44.578475,
+    -123.28458,
+    44.578475
+],
+  "geometry": {"coordinates":[-123.28458000000001,44.578475],"type":"Point"}
 }

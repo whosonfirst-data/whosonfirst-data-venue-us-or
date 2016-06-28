@@ -2,13 +2,14 @@
   "id": 387194401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.96335,44.050346,-122.96335,44.050346",
     "geom:latitude":44.050346,
     "geom:longitude":-122.96335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 N 42nd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387194401,
-    "wof:lastmodified":1449059374,
+    "wof:lastmodified":1466770669,
     "wof:name":"Agee Financial Services",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-122.96335,44.050346,-122.96335,44.050346],
-  "geometry": {"coordinates":[-122.96335,44.050346],"type":"Point"}
+  "bbox": [
+    -122.96335,
+    44.050346,
+    -122.96335,
+    44.050346
+],
+  "geometry": {"coordinates":[-122.96335000000001,44.050346],"type":"Point"}
 }

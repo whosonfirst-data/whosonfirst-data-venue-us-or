@@ -2,13 +2,14 @@
   "id": 370911479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.931388,45.529835,-122.931388,45.529835",
     "geom:latitude":45.529835,
     "geom:longitude":-122.931388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 NE Elam Young Pkwy",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370911479,
-    "wof:lastmodified":1449031912,
+    "wof:lastmodified":1466774725,
     "wof:name":"Intel",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.931388,45.529835,-122.931388,45.529835],
+  "bbox": [
+    -122.931388,
+    45.529835,
+    -122.931388,
+    45.529835
+],
   "geometry": {"coordinates":[-122.931388,45.529835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370822161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97509,45.301209,-122.97509,45.301209",
     "geom:latitude":45.301209,
     "geom:longitude":-122.97509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Hancock St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370822161,
-    "wof:lastmodified":1449032366,
+    "wof:lastmodified":1466774244,
     "wof:name":"Newberg City Library",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-122.97509,45.301209,-122.97509,45.301209],
-  "geometry": {"coordinates":[-122.97509,45.301209],"type":"Point"}
+  "bbox": [
+    -122.97509,
+    45.301209,
+    -122.97509,
+    45.301209
+],
+  "geometry": {"coordinates":[-122.97508999999999,45.301209],"type":"Point"}
 }

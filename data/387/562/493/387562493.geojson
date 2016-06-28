@@ -2,13 +2,14 @@
   "id": 387562493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.033702,44.975209,-123.033702,44.975209",
     "geom:latitude":44.975209,
     "geom:longitude":-123.033702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Apple Blossom Ave N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387562493,
-    "wof:lastmodified":1449058125,
+    "wof:lastmodified":1466773714,
     "wof:name":"Suds City Depoe",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.033702,44.975209,-123.033702,44.975209],
-  "geometry": {"coordinates":[-123.033702,44.975209],"type":"Point"}
+  "bbox": [
+    -123.033702,
+    44.975209,
+    -123.033702,
+    44.975209
+],
+  "geometry": {"coordinates":[-123.03370200000001,44.975209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370645727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.074727,44.037937,-123.074727,44.037937",
     "geom:latitude":44.037937,
     "geom:longitude":-123.074727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 University St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370645727,
-    "wof:lastmodified":1449029425,
+    "wof:lastmodified":1466773277,
     "wof:name":"Secret Garden Bed & Breakfast",
     "wof:parent_id":85877257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-123.074727,44.037937,-123.074727,44.037937],
+  "bbox": [
+    -123.074727,
+    44.037937,
+    -123.074727,
+    44.037937
+],
   "geometry": {"coordinates":[-123.074727,44.037937],"type":"Point"}
 }

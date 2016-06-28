@@ -2,13 +2,14 @@
   "id": 370640041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.262065,44.562216,-123.262065,44.562216",
     "geom:latitude":44.562216,
     "geom:longitude":-123.262065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 SW 3rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370640041,
-    "wof:lastmodified":1449030559,
+    "wof:lastmodified":1466773138,
     "wof:name":"Unified Insurance",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.262065,44.562216,-123.262065,44.562216],
-  "geometry": {"coordinates":[-123.262065,44.562216],"type":"Point"}
+  "bbox": [
+    -123.262065,
+    44.562216,
+    -123.262065,
+    44.562216
+],
+  "geometry": {"coordinates":[-123.26206500000001,44.562216],"type":"Point"}
 }

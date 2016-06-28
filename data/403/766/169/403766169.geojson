@@ -2,13 +2,14 @@
   "id": 403766169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.577059,45.429513,-122.577059,45.429513",
     "geom:latitude":45.429513,
     "geom:longitude":-122.577059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13035 SE 84th Ave",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403766169,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1466769118,
     "wof:name":"American General Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "financial"
     ]
 },
-  "bbox": [-122.577059,45.429513,-122.577059,45.429513],
-  "geometry": {"coordinates":[-122.577059,45.429513],"type":"Point"}
+  "bbox": [
+    -122.577059,
+    45.429513,
+    -122.577059,
+    45.429513
+],
+  "geometry": {"coordinates":[-122.57705900000001,45.429513],"type":"Point"}
 }

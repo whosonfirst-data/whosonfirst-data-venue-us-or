@@ -2,13 +2,14 @@
   "id": 370887287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756917,45.37783,-122.756917,45.37783",
     "geom:latitude":45.37783,
     "geom:longitude":-122.756917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7654 SW Mohawk St",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370887287,
-    "wof:lastmodified":1449031808,
+    "wof:lastmodified":1466774582,
     "wof:name":"United States Shippers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-122.756917,45.37783,-122.756917,45.37783],
+  "bbox": [
+    -122.756917,
+    45.37783,
+    -122.756917,
+    45.37783
+],
   "geometry": {"coordinates":[-122.756917,45.37783],"type":"Point"}
 }

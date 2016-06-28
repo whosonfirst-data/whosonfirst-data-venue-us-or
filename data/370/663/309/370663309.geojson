@@ -2,13 +2,14 @@
   "id": 370663309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661279,45.429536,-122.661279,45.429536",
     "geom:latitude":45.429536,
     "geom:longitude":-122.661279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 SW Midvale Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370663309,
-    "wof:lastmodified":1449031586,
+    "wof:lastmodified":1466773365,
     "wof:name":"Kate Schiele Advertising",
     "wof:parent_id":85807327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-122.661279,45.429536,-122.661279,45.429536],
-  "geometry": {"coordinates":[-122.661279,45.429536],"type":"Point"}
+  "bbox": [
+    -122.661279,
+    45.429536,
+    -122.661279,
+    45.429536
+],
+  "geometry": {"coordinates":[-122.66127899999999,45.429536],"type":"Point"}
 }

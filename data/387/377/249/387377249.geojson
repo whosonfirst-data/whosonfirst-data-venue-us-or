@@ -2,13 +2,14 @@
   "id": 387377249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.16599,45.505706,-123.16599,45.505706",
     "geom:latitude":45.505706,
     "geom:longitude":-123.16599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47655 SW Chanterelle Dr",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387377249,
-    "wof:lastmodified":1449057533,
+    "wof:lastmodified":1466772345,
     "wof:name":"Pale Moon Electronic Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-123.16599,45.505706,-123.16599,45.505706],
-  "geometry": {"coordinates":[-123.16599,45.505706],"type":"Point"}
+  "bbox": [
+    -123.16599,
+    45.505706,
+    -123.16599,
+    45.505706
+],
+  "geometry": {"coordinates":[-123.16598999999999,45.505706],"type":"Point"}
 }

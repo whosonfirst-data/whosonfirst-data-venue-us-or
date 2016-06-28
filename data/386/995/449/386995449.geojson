@@ -2,13 +2,14 @@
   "id": 386995449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.171344,44.277351,-121.171344,44.277351",
     "geom:latitude":44.277351,
     "geom:longitude":-121.171344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 NW Birch Ave",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386995449,
-    "wof:lastmodified":1449028939,
+    "wof:lastmodified":1466767470,
     "wof:name":"Bob Schley Trucking",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-121.171344,44.277351,-121.171344,44.277351],
+  "bbox": [
+    -121.171344,
+    44.277351,
+    -121.171344,
+    44.277351
+],
   "geometry": {"coordinates":[-121.171344,44.277351],"type":"Point"}
 }

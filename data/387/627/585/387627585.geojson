@@ -2,13 +2,14 @@
   "id": 387627585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.98287,45.20173,-122.98287,45.20173",
     "geom:latitude":45.20173,
     "geom:longitude":-122.98287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19521 River Rd NE",
     "sg:city":"St Paul",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387627585,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1466774083,
     "wof:name":"Total Industrial",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.98287,45.20173,-122.98287,45.20173],
-  "geometry": {"coordinates":[-122.98287,45.20173],"type":"Point"}
+  "bbox": [
+    -122.98287,
+    45.20173,
+    -122.98287,
+    45.20173
+],
+  "geometry": {"coordinates":[-122.98287000000001,45.20173],"type":"Point"}
 }

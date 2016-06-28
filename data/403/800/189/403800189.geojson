@@ -2,13 +2,14 @@
   "id": 403800189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.76572,45.424841,-122.76572,45.424841",
     "geom:latitude":45.424841,
     "geom:longitude":-122.76572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 SW Hall Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403800189,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1466769625,
     "wof:name":"First Student Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.76572,45.424841,-122.76572,45.424841],
+  "bbox": [
+    -122.76572,
+    45.424841,
+    -122.76572,
+    45.424841
+],
   "geometry": {"coordinates":[-122.76572,45.424841],"type":"Point"}
 }

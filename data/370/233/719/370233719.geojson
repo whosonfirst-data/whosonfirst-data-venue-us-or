@@ -2,13 +2,14 @@
   "id": 370233719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.031906,44.97953,-123.031906,44.97953",
     "geom:latitude":44.97953,
     "geom:longitude":-123.031906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Fall Creek Dr N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370233719,
-    "wof:lastmodified":1449032534,
+    "wof:lastmodified":1466768596,
     "wof:name":"Willamette Roofing & Repair",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.031906,44.97953,-123.031906,44.97953],
-  "geometry": {"coordinates":[-123.031906,44.97953],"type":"Point"}
+  "bbox": [
+    -123.031906,
+    44.97953,
+    -123.031906,
+    44.97953
+],
+  "geometry": {"coordinates":[-123.03190600000001,44.97953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370853141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.016489,45.376477,-122.016489,45.376477",
     "geom:latitude":45.376477,
     "geom:longitude":-122.016489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63045 E Brightwood Br Rd",
     "sg:city":"Brightwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370853141,
-    "wof:lastmodified":1449030454,
+    "wof:lastmodified":1466774334,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.016489,45.376477,-122.016489,45.376477],
-  "geometry": {"coordinates":[-122.016489,45.376477],"type":"Point"}
+  "bbox": [
+    -122.016489,
+    45.376477,
+    -122.016489,
+    45.376477
+],
+  "geometry": {"coordinates":[-122.01648900000001,45.376477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370802447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.338722,43.216568,-123.338722,43.216568",
     "geom:latitude":43.216568,
     "geom:longitude":-123.338722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 NE Jackson St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370802447,
-    "wof:lastmodified":1449031839,
+    "wof:lastmodified":1466774232,
     "wof:name":"Stanton Elizabeth Foster Home",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.338722,43.216568,-123.338722,43.216568],
+  "bbox": [
+    -123.338722,
+    43.216568,
+    -123.338722,
+    43.216568
+],
   "geometry": {"coordinates":[-123.338722,43.216568],"type":"Point"}
 }

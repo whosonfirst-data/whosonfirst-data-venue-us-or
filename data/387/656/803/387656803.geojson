@@ -2,13 +2,14 @@
   "id": 387656803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.766691,45.496848,-122.766691,45.496848",
     "geom:latitude":45.496848,
     "geom:longitude":-122.766691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3060 SW 87th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387656803,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1466774113,
     "wof:name":"A-1 Fitness Nutrition Discount",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-122.766691,45.496848,-122.766691,45.496848],
-  "geometry": {"coordinates":[-122.766691,45.496848],"type":"Point"}
+  "bbox": [
+    -122.766691,
+    45.496848,
+    -122.766691,
+    45.496848
+],
+  "geometry": {"coordinates":[-122.76669099999999,45.496848],"type":"Point"}
 }

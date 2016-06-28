@@ -2,13 +2,14 @@
   "id": 370444245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.683405,45.514276,-122.683405,45.514276",
     "geom:latitude":45.514276,
     "geom:longitude":-122.683405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 SW Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370444245,
-    "wof:lastmodified":1449032008,
+    "wof:lastmodified":1466771958,
     "wof:name":"Gender Identity Counselling",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.683405,45.514276,-122.683405,45.514276],
-  "geometry": {"coordinates":[-122.683405,45.514276],"type":"Point"}
+  "bbox": [
+    -122.683405,
+    45.514276,
+    -122.683405,
+    45.514276
+],
+  "geometry": {"coordinates":[-122.68340499999999,45.514276],"type":"Point"}
 }

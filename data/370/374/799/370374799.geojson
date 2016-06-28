@@ -2,13 +2,14 @@
   "id": 370374799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.743941,45.342977,-122.743941,45.342977",
     "geom:latitude":45.342977,
     "geom:longitude":-122.743941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24836 SW 65th Ave",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370374799,
-    "wof:lastmodified":1449030565,
+    "wof:lastmodified":1466771304,
     "wof:name":"Weitman Excavation LLC",
     "wof:parent_id":85852343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.743941,45.342977,-122.743941,45.342977],
-  "geometry": {"coordinates":[-122.743941,45.342977],"type":"Point"}
+  "bbox": [
+    -122.743941,
+    45.342977,
+    -122.743941,
+    45.342977
+],
+  "geometry": {"coordinates":[-122.74394100000001,45.342977],"type":"Point"}
 }

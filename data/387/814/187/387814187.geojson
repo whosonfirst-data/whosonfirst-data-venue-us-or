@@ -2,13 +2,14 @@
   "id": 387814187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.639648,45.487125,-122.639648,45.487125",
     "geom:latitude":45.487125,
     "geom:longitude":-122.639648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 SE 26th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387814187,
-    "wof:lastmodified":1449056795,
+    "wof:lastmodified":1466775049,
     "wof:name":"Portland Die & Stamping Co Inc",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.639648,45.487125,-122.639648,45.487125],
-  "geometry": {"coordinates":[-122.639648,45.487125],"type":"Point"}
+  "bbox": [
+    -122.639648,
+    45.487125,
+    -122.639648,
+    45.487125
+],
+  "geometry": {"coordinates":[-122.63964799999999,45.487125],"type":"Point"}
 }

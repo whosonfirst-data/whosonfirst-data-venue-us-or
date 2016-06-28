@@ -2,13 +2,14 @@
   "id": 387900935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756678,45.586957,-122.756678,45.586957",
     "geom:latitude":45.586957,
     "geom:longitude":-122.756678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8521 N Edison St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387900935,
-    "wof:lastmodified":1449057750,
+    "wof:lastmodified":1466775198,
     "wof:name":"Mike Boster",
     "wof:parent_id":85830793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewerage"
     ]
 },
-  "bbox": [-122.756678,45.586957,-122.756678,45.586957],
-  "geometry": {"coordinates":[-122.756678,45.586957],"type":"Point"}
+  "bbox": [
+    -122.756678,
+    45.586957,
+    -122.756678,
+    45.586957
+],
+  "geometry": {"coordinates":[-122.75667799999999,45.586957],"type":"Point"}
 }

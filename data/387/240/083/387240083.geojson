@@ -2,13 +2,14 @@
   "id": 387240083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.292155,45.841388,-119.292155,45.841388",
     "geom:latitude":45.841388,
     "geom:longitude":-119.292155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Hermiston Ave",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387240083,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1466771551,
     "wof:name":"Jasper Trucking",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.292155,45.841388,-119.292155,45.841388],
-  "geometry": {"coordinates":[-119.292155,45.841388],"type":"Point"}
+  "bbox": [
+    -119.292155,
+    45.841388,
+    -119.292155,
+    45.841388
+],
+  "geometry": {"coordinates":[-119.29215499999999,45.841388],"type":"Point"}
 }

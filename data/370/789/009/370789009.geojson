@@ -2,13 +2,14 @@
   "id": 370789009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.133266,45.530605,-123.133266,45.530605",
     "geom:latitude":45.530605,
     "geom:longitude":-123.133266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Gales Creek Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370789009,
-    "wof:lastmodified":1449030627,
+    "wof:lastmodified":1466773926,
     "wof:name":"Forestry Dept",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-123.133266,45.530605,-123.133266,45.530605],
-  "geometry": {"coordinates":[-123.133266,45.530605],"type":"Point"}
+  "bbox": [
+    -123.133266,
+    45.530605,
+    -123.133266,
+    45.530605
+],
+  "geometry": {"coordinates":[-123.13326600000001,45.530605],"type":"Point"}
 }

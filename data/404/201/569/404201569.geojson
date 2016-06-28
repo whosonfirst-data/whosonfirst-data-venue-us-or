@@ -2,13 +2,14 @@
   "id": 404201569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.609952,45.448081,-122.609952,45.448081",
     "geom:latitude":45.448081,
     "geom:longitude":-122.609952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5197 SE King Rd",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404201569,
-    "wof:lastmodified":1449040163,
+    "wof:lastmodified":1466768138,
     "wof:name":"Milwaukie Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.609952,45.448081,-122.609952,45.448081],
-  "geometry": {"coordinates":[-122.609952,45.448081],"type":"Point"}
+  "bbox": [
+    -122.609952,
+    45.448081,
+    -122.609952,
+    45.448081
+],
+  "geometry": {"coordinates":[-122.60995200000001,45.448081],"type":"Point"}
 }

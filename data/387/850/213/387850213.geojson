@@ -2,13 +2,14 @@
   "id": 387850213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.833875,46.18688,-123.833875,46.18688",
     "geom:latitude":46.18688,
     "geom:longitude":-123.833875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 9th St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387850213,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1466775151,
     "wof:name":"Custom Tile & Cabinets",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-123.833875,46.18688,-123.833875,46.18688],
-  "geometry": {"coordinates":[-123.833875,46.18688],"type":"Point"}
+  "bbox": [
+    -123.833875,
+    46.18688,
+    -123.833875,
+    46.18688
+],
+  "geometry": {"coordinates":[-123.83387500000001,46.18688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387322377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.961935,45.889157,-123.961935,45.889157",
     "geom:latitude":45.889157,
     "geom:longitude":-123.961935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 S Hemlock St",
     "sg:city":"Cannon Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387322377,
-    "wof:lastmodified":1449056073,
+    "wof:lastmodified":1466772064,
     "wof:name":"Sleepy Monk Coffee Roasters",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-123.961935,45.889157,-123.961935,45.889157],
+  "bbox": [
+    -123.961935,
+    45.889157,
+    -123.961935,
+    45.889157
+],
   "geometry": {"coordinates":[-123.961935,45.889157],"type":"Point"}
 }

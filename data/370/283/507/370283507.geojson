@@ -2,13 +2,14 @@
   "id": 370283507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.568298,45.566453,-122.568298,45.566453",
     "geom:latitude":45.566453,
     "geom:longitude":-122.568298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6113 NE 92nd Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370283507,
-    "wof:lastmodified":1449030106,
+    "wof:lastmodified":1466769519,
     "wof:name":"Happy Tofu Co",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-122.568298,45.566453,-122.568298,45.566453],
+  "bbox": [
+    -122.568298,
+    45.566453,
+    -122.568298,
+    45.566453
+],
   "geometry": {"coordinates":[-122.568298,45.566453],"type":"Point"}
 }

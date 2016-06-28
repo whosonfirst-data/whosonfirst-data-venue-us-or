@@ -2,13 +2,14 @@
   "id": 387460145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032591,45.51963,-123.032591,45.51963",
     "geom:latitude":45.51963,
     "geom:longitude":-123.032591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 SW 345th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387460145,
-    "wof:lastmodified":1449059701,
+    "wof:lastmodified":1466772986,
     "wof:name":"Western Tool Supply",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-123.032591,45.51963,-123.032591,45.51963],
+  "bbox": [
+    -123.032591,
+    45.51963,
+    -123.032591,
+    45.51963
+],
   "geometry": {"coordinates":[-123.032591,45.51963],"type":"Point"}
 }

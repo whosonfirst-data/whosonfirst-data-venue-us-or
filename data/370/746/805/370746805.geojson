@@ -2,13 +2,14 @@
   "id": 370746805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.561582,45.518248,-122.561582,45.518248",
     "geom:latitude":45.518248,
     "geom:longitude":-122.561582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9980 SE Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370746805,
-    "wof:lastmodified":1449029038,
+    "wof:lastmodified":1466773688,
     "wof:name":"Subway",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.561582,45.518248,-122.561582,45.518248],
+  "bbox": [
+    -122.561582,
+    45.518248,
+    -122.561582,
+    45.518248
+],
   "geometry": {"coordinates":[-122.561582,45.518248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404110145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192541,44.081177,-123.192541,44.081177",
     "geom:latitude":44.081177,
     "geom:longitude":-123.192541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Praslin St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404110145,
-    "wof:lastmodified":1449039409,
+    "wof:lastmodified":1466770793,
     "wof:name":"Classics of Avalon",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.192541,44.081177,-123.192541,44.081177],
-  "geometry": {"coordinates":[-123.192541,44.081177],"type":"Point"}
+  "bbox": [
+    -123.192541,
+    44.081177,
+    -123.192541,
+    44.081177
+],
+  "geometry": {"coordinates":[-123.19254100000001,44.081177],"type":"Point"}
 }

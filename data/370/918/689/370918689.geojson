@@ -2,13 +2,14 @@
   "id": 370918689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.959094,45.530605,-122.959094,45.530605",
     "geom:latitude":45.530605,
     "geom:longitude":-122.959094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 NE Cornell Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370918689,
-    "wof:lastmodified":1449031379,
+    "wof:lastmodified":1466774773,
     "wof:name":"U-Haul",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "utility"
     ]
 },
-  "bbox": [-122.959094,45.530605,-122.959094,45.530605],
-  "geometry": {"coordinates":[-122.959094,45.530605],"type":"Point"}
+  "bbox": [
+    -122.959094,
+    45.530605,
+    -122.959094,
+    45.530605
+],
+  "geometry": {"coordinates":[-122.95909399999999,45.530605],"type":"Point"}
 }

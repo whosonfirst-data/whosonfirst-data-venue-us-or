@@ -2,13 +2,14 @@
   "id": 370572815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.909321,45.990099,-123.909321,45.990099",
     "geom:latitude":45.990099,
     "geom:longitude":-123.909321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Hilltop Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370572815,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1466772856,
     "wof:name":"Harrison Mike Builder",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.909321,45.990099,-123.909321,45.990099],
-  "geometry": {"coordinates":[-123.909321,45.990099],"type":"Point"}
+  "bbox": [
+    -123.909321,
+    45.990099,
+    -123.909321,
+    45.990099
+],
+  "geometry": {"coordinates":[-123.90932100000001,45.990099],"type":"Point"}
 }

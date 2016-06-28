@@ -2,13 +2,14 @@
   "id": 387330593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.781951,45.446634,-122.781951,45.446634",
     "geom:latitude":45.446634,
     "geom:longitude":-122.781951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9495 SW Washington Square Rd",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387330593,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1466771973,
     "wof:name":"Kits Cameras",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-122.781951,45.446634,-122.781951,45.446634],
-  "geometry": {"coordinates":[-122.781951,45.446634],"type":"Point"}
+  "bbox": [
+    -122.781951,
+    45.446634,
+    -122.781951,
+    45.446634
+],
+  "geometry": {"coordinates":[-122.78195100000001,45.446634],"type":"Point"}
 }

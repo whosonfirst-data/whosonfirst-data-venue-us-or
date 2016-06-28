@@ -2,13 +2,14 @@
   "id": 387039745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.958527,44.045837,-122.958527,44.045837",
     "geom:latitude":44.045837,
     "geom:longitude":-122.958527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387039745,
-    "wof:lastmodified":1449059448,
+    "wof:lastmodified":1466767795,
     "wof:name":"White Horse Tavern",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-122.958527,44.045837,-122.958527,44.045837],
+  "bbox": [
+    -122.958527,
+    44.045837,
+    -122.958527,
+    44.045837
+],
   "geometry": {"coordinates":[-122.958527,44.045837],"type":"Point"}
 }

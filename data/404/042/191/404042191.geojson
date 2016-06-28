@@ -2,13 +2,14 @@
   "id": 404042191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.949245,45.019314,-123.949245,45.019314",
     "geom:latitude":45.019314,
     "geom:longitude":-123.949245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 Salmon River Hwy",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404042191,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1466769215,
     "wof:name":"US Post Office",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.949245,45.019314,-123.949245,45.019314],
+  "bbox": [
+    -123.949245,
+    45.019314,
+    -123.949245,
+    45.019314
+],
   "geometry": {"coordinates":[-123.949245,45.019314],"type":"Point"}
 }

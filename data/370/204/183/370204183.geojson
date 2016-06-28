@@ -2,13 +2,14 @@
   "id": 370204183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.005205,44.894863,-123.005205,44.894863",
     "geom:latitude":44.894863,
     "geom:longitude":-123.005205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 27th Ave SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370204183,
-    "wof:lastmodified":1449032581,
+    "wof:lastmodified":1466768107,
     "wof:name":"Elite Cabinets",
     "wof:parent_id":85880581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-123.005205,44.894863,-123.005205,44.894863],
+  "bbox": [
+    -123.005205,
+    44.894863,
+    -123.005205,
+    44.894863
+],
   "geometry": {"coordinates":[-123.005205,44.894863],"type":"Point"}
 }

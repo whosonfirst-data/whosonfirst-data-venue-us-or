@@ -2,13 +2,14 @@
   "id": 370667377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.012976,44.982345,-123.012976,44.982345",
     "geom:latitude":44.982345,
     "geom:longitude":-123.012976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3890 Pleasant View Dr NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370667377,
-    "wof:lastmodified":1449031288,
+    "wof:lastmodified":1466773285,
     "wof:name":"Pacific Concrete Construction",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.012976,44.982345,-123.012976,44.982345],
-  "geometry": {"coordinates":[-123.012976,44.982345],"type":"Point"}
+  "bbox": [
+    -123.012976,
+    44.982345,
+    -123.012976,
+    44.982345
+],
+  "geometry": {"coordinates":[-123.01297599999999,44.982345],"type":"Point"}
 }

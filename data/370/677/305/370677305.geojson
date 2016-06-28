@@ -2,13 +2,14 @@
   "id": 370677305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.579045,45.438316,-122.579045,45.438316",
     "geom:latitude":45.438316,
     "geom:longitude":-122.579045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8915 SE Monterey Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370677305,
-    "wof:lastmodified":1449030305,
+    "wof:lastmodified":1466773319,
     "wof:name":"Monterey Crt Alzheimer's Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "citizen"
     ]
 },
-  "bbox": [-122.579045,45.438316,-122.579045,45.438316],
-  "geometry": {"coordinates":[-122.579045,45.438316],"type":"Point"}
+  "bbox": [
+    -122.579045,
+    45.438316,
+    -122.579045,
+    45.438316
+],
+  "geometry": {"coordinates":[-122.57904499999999,45.438316],"type":"Point"}
 }

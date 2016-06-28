@@ -2,13 +2,14 @@
   "id": 354327317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.335441,43.374935,-123.335441,43.374935",
     "geom:latitude":43.374935,
     "geom:longitude":-123.335441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 S Comstock Rd",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354327317,
-    "wof:lastmodified":1449066058,
+    "wof:lastmodified":1466769861,
     "wof:name":"Public Works Dept Maintenance",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.335441,43.374935,-123.335441,43.374935],
+  "bbox": [
+    -123.335441,
+    43.374935,
+    -123.335441,
+    43.374935
+],
   "geometry": {"coordinates":[-123.335441,43.374935],"type":"Point"}
 }

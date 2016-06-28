@@ -2,13 +2,14 @@
   "id": 386990967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.616996,45.541853,-122.616996,45.541853",
     "geom:latitude":45.541853,
     "geom:longitude":-122.616996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4373 NE Wistaria Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386990967,
-    "wof:lastmodified":1449028832,
+    "wof:lastmodified":1466767459,
     "wof:name":"Wistaria Press",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-122.616996,45.541853,-122.616996,45.541853],
+  "bbox": [
+    -122.616996,
+    45.541853,
+    -122.616996,
+    45.541853
+],
   "geometry": {"coordinates":[-122.616996,45.541853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403751031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.559198,45.555314,-122.559198,45.555314",
     "geom:latitude":45.555314,
     "geom:longitude":-122.559198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 NE Prescott St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403751031,
-    "wof:lastmodified":1449054700,
+    "wof:lastmodified":1466768865,
     "wof:name":"Maywood Park City Office",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-122.559198,45.555314,-122.559198,45.555314],
-  "geometry": {"coordinates":[-122.559198,45.555314],"type":"Point"}
+  "bbox": [
+    -122.559198,
+    45.555314,
+    -122.559198,
+    45.555314
+],
+  "geometry": {"coordinates":[-122.55919799999999,45.555314],"type":"Point"}
 }

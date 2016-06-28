@@ -2,13 +2,14 @@
   "id": 387581387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347794,42.407105,-123.347794,42.407105",
     "geom:latitude":42.407105,
     "geom:longitude":-123.347794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2628 New Hope Rd",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387581387,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466773827,
     "wof:name":"Malaby Transport System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.347794,42.407105,-123.347794,42.407105],
-  "geometry": {"coordinates":[-123.347794,42.407105],"type":"Point"}
+  "bbox": [
+    -123.347794,
+    42.407105,
+    -123.347794,
+    42.407105
+],
+  "geometry": {"coordinates":[-123.34779399999999,42.407105],"type":"Point"}
 }

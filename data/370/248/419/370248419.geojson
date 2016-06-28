@@ -2,13 +2,14 @@
   "id": 370248419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.837921,45.02222,-123.837921,45.02222",
     "geom:latitude":45.02222,
     "geom:longitude":-123.837921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5211 Salmon River Hwy",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370248419,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466768857,
     "wof:name":"Browns Rose Lodge Nursery",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.837921,45.02222,-123.837921,45.02222],
-  "geometry": {"coordinates":[-123.837921,45.02222],"type":"Point"}
+  "bbox": [
+    -123.837921,
+    45.02222,
+    -123.837921,
+    45.02222
+],
+  "geometry": {"coordinates":[-123.83792099999999,45.02222],"type":"Point"}
 }

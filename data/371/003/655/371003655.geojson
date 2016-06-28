@@ -2,13 +2,14 @@
   "id": 371003655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.346181,43.309575,-123.346181,43.309575",
     "geom:latitude":43.309575,
     "geom:longitude":-123.346181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7981 Old Hwy 99 N",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371003655,
-    "wof:lastmodified":1449050065,
+    "wof:lastmodified":1466767193,
     "wof:name":"Bentleys Mfg Inc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.346181,43.309575,-123.346181,43.309575],
+  "bbox": [
+    -123.346181,
+    43.309575,
+    -123.346181,
+    43.309575
+],
   "geometry": {"coordinates":[-123.346181,43.309575],"type":"Point"}
 }

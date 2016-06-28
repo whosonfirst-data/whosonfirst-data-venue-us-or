@@ -2,13 +2,14 @@
   "id": 387938751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.972946,45.51191,-122.972946,45.51191",
     "geom:latitude":45.51191,
     "geom:longitude":-122.972946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 SE Tualatin Valley Hwy",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387938751,
-    "wof:lastmodified":1449058941,
+    "wof:lastmodified":1466775520,
     "wof:name":"Coffee Rush",
     "wof:parent_id":85836887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-122.972946,45.51191,-122.972946,45.51191],
-  "geometry": {"coordinates":[-122.972946,45.51191],"type":"Point"}
+  "bbox": [
+    -122.972946,
+    45.51191,
+    -122.972946,
+    45.51191
+],
+  "geometry": {"coordinates":[-122.97294599999999,45.51191],"type":"Point"}
 }

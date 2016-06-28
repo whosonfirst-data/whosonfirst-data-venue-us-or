@@ -2,13 +2,14 @@
   "id": 387171319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01405,45.028049,-123.01405,45.028049",
     "geom:latitude":45.028049,
     "geom:longitude":-123.01405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 Barnick Rd NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387171319,
-    "wof:lastmodified":1449059933,
+    "wof:lastmodified":1466770218,
     "wof:name":"Grealish Construction",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.01405,45.028049,-123.01405,45.028049],
+  "bbox": [
+    -123.01405,
+    45.028049,
+    -123.01405,
+    45.028049
+],
   "geometry": {"coordinates":[-123.01405,45.028049],"type":"Point"}
 }

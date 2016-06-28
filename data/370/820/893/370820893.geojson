@@ -2,13 +2,14 @@
   "id": 370820893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.348556,43.331619,-123.348556,43.331619",
     "geom:latitude":43.331619,
     "geom:longitude":-123.348556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Oak Hill Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370820893,
-    "wof:lastmodified":1449030828,
+    "wof:lastmodified":1466774232,
     "wof:name":"Jack Pollock Septic Tank Svc",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-123.348556,43.331619,-123.348556,43.331619],
+  "bbox": [
+    -123.348556,
+    43.331619,
+    -123.348556,
+    43.331619
+],
   "geometry": {"coordinates":[-123.348556,43.331619],"type":"Point"}
 }

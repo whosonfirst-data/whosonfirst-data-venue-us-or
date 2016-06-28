@@ -2,13 +2,14 @@
   "id": 387352999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.387414,45.994267,-118.387414,45.994267",
     "geom:latitude":45.994267,
     "geom:longitude":-118.387414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85452 Hwy 11",
     "sg:city":"Milton Freewater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387352999,
-    "wof:lastmodified":1449058443,
+    "wof:lastmodified":1466772144,
     "wof:name":"Heitco Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-118.387414,45.994267,-118.387414,45.994267],
-  "geometry": {"coordinates":[-118.387414,45.994267],"type":"Point"}
+  "bbox": [
+    -118.387414,
+    45.994267,
+    -118.387414,
+    45.994267
+],
+  "geometry": {"coordinates":[-118.38741400000001,45.994267],"type":"Point"}
 }

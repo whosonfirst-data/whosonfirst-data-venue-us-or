@@ -2,13 +2,14 @@
   "id": 404112409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.643578,45.481594,-122.643578,45.481594",
     "geom:latitude":45.481594,
     "geom:longitude":-122.643578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 SE Reedway St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404112409,
-    "wof:lastmodified":1449039559,
+    "wof:lastmodified":1466770834,
     "wof:name":"From Inception Consulting Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.643578,45.481594,-122.643578,45.481594],
-  "geometry": {"coordinates":[-122.643578,45.481594],"type":"Point"}
+  "bbox": [
+    -122.643578,
+    45.481594,
+    -122.643578,
+    45.481594
+],
+  "geometry": {"coordinates":[-122.64357800000001,45.481594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387220319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.301793,44.844398,-123.301793,44.844398",
     "geom:latitude":44.844398,
     "geom:longitude":-123.301793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13240 Monmouth Hwy",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387220319,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1466771212,
     "wof:name":"Jim Lofting",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-123.301793,44.844398,-123.301793,44.844398],
+  "bbox": [
+    -123.301793,
+    44.844398,
+    -123.301793,
+    44.844398
+],
   "geometry": {"coordinates":[-123.301793,44.844398],"type":"Point"}
 }

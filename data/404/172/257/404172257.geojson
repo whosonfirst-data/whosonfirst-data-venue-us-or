@@ -2,13 +2,14 @@
   "id": 404172257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.061162,45.135608,-123.061162,45.135608",
     "geom:latitude":45.135608,
     "geom:longitude":-123.061162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17000 SE Wallace Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404172257,
-    "wof:lastmodified":1449039519,
+    "wof:lastmodified":1466767629,
     "wof:name":"Ron Finnicum",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.061162,45.135608,-123.061162,45.135608],
+  "bbox": [
+    -123.061162,
+    45.135608,
+    -123.061162,
+    45.135608
+],
   "geometry": {"coordinates":[-123.061162,45.135608],"type":"Point"}
 }

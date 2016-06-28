@@ -2,13 +2,14 @@
   "id": 387365209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661628,45.537931,-122.661628,45.537931",
     "geom:latitude":45.537931,
     "geom:longitude":-122.661628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387365209,
-    "wof:lastmodified":1449056719,
+    "wof:lastmodified":1466772395,
     "wof:name":"Futon Factory",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-122.661628,45.537931,-122.661628,45.537931],
-  "geometry": {"coordinates":[-122.661628,45.537931],"type":"Point"}
+  "bbox": [
+    -122.661628,
+    45.537931,
+    -122.661628,
+    45.537931
+],
+  "geometry": {"coordinates":[-122.66162799999999,45.537931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387507725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.608312,45.513161,-122.608312,45.513161",
     "geom:latitude":45.513161,
     "geom:longitude":-122.608312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 SE 53rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387507725,
-    "wof:lastmodified":1449058061,
+    "wof:lastmodified":1466773275,
     "wof:name":"Music Together Of Portland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "music"
     ]
 },
-  "bbox": [-122.608312,45.513161,-122.608312,45.513161],
+  "bbox": [
+    -122.608312,
+    45.513161,
+    -122.608312,
+    45.513161
+],
   "geometry": {"coordinates":[-122.608312,45.513161],"type":"Point"}
 }

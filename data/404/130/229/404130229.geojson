@@ -2,13 +2,14 @@
   "id": 404130229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.269092,44.549,-123.269092,44.549",
     "geom:latitude":44.549,
     "geom:longitude":-123.269092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 SW Cummings Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404130229,
-    "wof:lastmodified":1449039428,
+    "wof:lastmodified":1466771186,
     "wof:name":"Olin's Auto Care LLC",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-123.269092,44.549,-123.269092,44.549],
+  "bbox": [
+    -123.269092,
+    44.549,
+    -123.269092,
+    44.549
+],
   "geometry": {"coordinates":[-123.269092,44.549],"type":"Point"}
 }

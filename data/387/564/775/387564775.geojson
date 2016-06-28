@@ -2,13 +2,14 @@
   "id": 387564775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.069201,45.512363,-123.069201,45.512363",
     "geom:latitude":45.512363,
     "geom:longitude":-123.069201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"867 S 2nd Ave",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387564775,
-    "wof:lastmodified":1449059695,
+    "wof:lastmodified":1466773832,
     "wof:name":"Brian Sullivan",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.069201,45.512363,-123.069201,45.512363],
-  "geometry": {"coordinates":[-123.069201,45.512363],"type":"Point"}
+  "bbox": [
+    -123.069201,
+    45.512363,
+    -123.069201,
+    45.512363
+],
+  "geometry": {"coordinates":[-123.06920100000001,45.512363],"type":"Point"}
 }

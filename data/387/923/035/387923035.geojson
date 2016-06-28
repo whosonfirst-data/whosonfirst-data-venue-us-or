@@ -2,13 +2,14 @@
   "id": 387923035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.750166,45.497152,-122.750166,45.497152",
     "geom:latitude":45.497152,
     "geom:longitude":-122.750166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 SW 72nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387923035,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1466775270,
     "wof:name":"Decor Provenance LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.750166,45.497152,-122.750166,45.497152],
-  "geometry": {"coordinates":[-122.750166,45.497152],"type":"Point"}
+  "bbox": [
+    -122.750166,
+    45.497152,
+    -122.750166,
+    45.497152
+],
+  "geometry": {"coordinates":[-122.75016599999999,45.497152],"type":"Point"}
 }

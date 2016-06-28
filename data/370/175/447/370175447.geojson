@@ -2,13 +2,14 @@
   "id": 370175447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820574,45.163315,-122.820574,45.163315",
     "geom:latitude":45.163315,
     "geom:longitude":-122.820574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16937 Hwy 99 E NE",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370175447,
-    "wof:lastmodified":1449031428,
+    "wof:lastmodified":1466767593,
     "wof:name":"S&K Nursery",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "nurseryman"
     ]
 },
-  "bbox": [-122.820574,45.163315,-122.820574,45.163315],
-  "geometry": {"coordinates":[-122.820574,45.163315],"type":"Point"}
+  "bbox": [
+    -122.820574,
+    45.163315,
+    -122.820574,
+    45.163315
+],
+  "geometry": {"coordinates":[-122.82057399999999,45.163315],"type":"Point"}
 }

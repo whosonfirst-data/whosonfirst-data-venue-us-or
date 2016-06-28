@@ -2,13 +2,14 @@
   "id": 404020163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.83298,45.43753,-122.83298,45.43753",
     "geom:latitude":45.43753,
     "geom:longitude":-122.83298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11475 SW Pintail Loop",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404020163,
-    "wof:lastmodified":1449039572,
+    "wof:lastmodified":1466768808,
     "wof:name":"V W Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.83298,45.43753,-122.83298,45.43753],
-  "geometry": {"coordinates":[-122.83298,45.43753],"type":"Point"}
+  "bbox": [
+    -122.83298,
+    45.43753,
+    -122.83298,
+    45.43753
+],
+  "geometry": {"coordinates":[-122.83298000000001,45.43753],"type":"Point"}
 }

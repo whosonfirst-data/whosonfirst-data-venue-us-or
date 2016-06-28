@@ -2,13 +2,14 @@
   "id": 404125765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.64698,45.532962,-122.64698,45.532962",
     "geom:latitude":45.532962,
     "geom:longitude":-122.64698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 NE Clackamas St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404125765,
-    "wof:lastmodified":1449040284,
+    "wof:lastmodified":1466771092,
     "wof:name":"Sullivan Inspection Svc Co",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-122.64698,45.532962,-122.64698,45.532962],
+  "bbox": [
+    -122.64698,
+    45.532962,
+    -122.64698,
+    45.532962
+],
   "geometry": {"coordinates":[-122.64698,45.532962],"type":"Point"}
 }

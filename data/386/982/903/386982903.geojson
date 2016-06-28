@@ -2,13 +2,14 @@
   "id": 386982903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.524722,45.708674,-121.524722,45.708674",
     "geom:latitude":45.708674,
     "geom:longitude":-121.524722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Oak St",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386982903,
-    "wof:lastmodified":1449028670,
+    "wof:lastmodified":1466767427,
     "wof:name":"Columbia River Acupuncture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-121.524722,45.708674,-121.524722,45.708674],
+  "bbox": [
+    -121.524722,
+    45.708674,
+    -121.524722,
+    45.708674
+],
   "geometry": {"coordinates":[-121.524722,45.708674],"type":"Point"}
 }

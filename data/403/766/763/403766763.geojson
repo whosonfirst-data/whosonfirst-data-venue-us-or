@@ -2,13 +2,14 @@
   "id": 403766763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.867095,45.499213,-122.867095,45.499213",
     "geom:latitude":45.499213,
     "geom:longitude":-122.867095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 SW 185th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403766763,
-    "wof:lastmodified":1449054614,
+    "wof:lastmodified":1466769129,
     "wof:name":"Menninas",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.867095,45.499213,-122.867095,45.499213],
-  "geometry": {"coordinates":[-122.867095,45.499213],"type":"Point"}
+  "bbox": [
+    -122.867095,
+    45.499213,
+    -122.867095,
+    45.499213
+],
+  "geometry": {"coordinates":[-122.86709500000001,45.499213],"type":"Point"}
 }

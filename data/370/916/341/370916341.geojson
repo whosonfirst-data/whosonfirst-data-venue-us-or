@@ -2,13 +2,14 @@
   "id": 370916341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.609668,45.35688,-122.609668,45.35688",
     "geom:latitude":45.35688,
     "geom:longitude":-122.609668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Main St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370916341,
-    "wof:lastmodified":1449030927,
+    "wof:lastmodified":1466774858,
     "wof:name":"Willamette Oregonian Distr",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-122.609668,45.35688,-122.609668,45.35688],
+  "bbox": [
+    -122.609668,
+    45.35688,
+    -122.609668,
+    45.35688
+],
   "geometry": {"coordinates":[-122.609668,45.35688],"type":"Point"}
 }

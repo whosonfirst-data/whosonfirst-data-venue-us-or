@@ -2,13 +2,14 @@
   "id": 387720901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.15104,44.734269,-122.15104,44.734269",
     "geom:latitude":44.734269,
     "geom:longitude":-122.15104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Detroit Ave",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387720901,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1466774623,
     "wof:name":"Detroit Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.15104,44.734269,-122.15104,44.734269],
-  "geometry": {"coordinates":[-122.15104,44.734269],"type":"Point"}
+  "bbox": [
+    -122.15104,
+    44.734269,
+    -122.15104,
+    44.734269
+],
+  "geometry": {"coordinates":[-122.15103999999999,44.734269],"type":"Point"}
 }

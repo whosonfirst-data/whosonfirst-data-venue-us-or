@@ -2,13 +2,14 @@
   "id": 370659893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.88067,45.530741,-122.88067,45.530741",
     "geom:latitude":45.530741,
     "geom:longitude":-122.88067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19545 NW Von Neumann Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370659893,
-    "wof:lastmodified":1449029454,
+    "wof:lastmodified":1466773346,
     "wof:name":"Ods Technologies LP",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "subscription"
     ]
 },
-  "bbox": [-122.88067,45.530741,-122.88067,45.530741],
-  "geometry": {"coordinates":[-122.88067,45.530741],"type":"Point"}
+  "bbox": [
+    -122.88067,
+    45.530741,
+    -122.88067,
+    45.530741
+],
+  "geometry": {"coordinates":[-122.88066999999999,45.530741],"type":"Point"}
 }

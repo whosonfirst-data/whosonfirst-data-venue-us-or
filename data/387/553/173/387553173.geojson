@@ -2,13 +2,14 @@
   "id": 387553173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.252254,44.588927,-123.252254,44.588927",
     "geom:latitude":44.588927,
     "geom:longitude":-123.252254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 NE Circle Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387553173,
-    "wof:lastmodified":1449056135,
+    "wof:lastmodified":1466773531,
     "wof:name":"Self-Stor",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-123.252254,44.588927,-123.252254,44.588927],
-  "geometry": {"coordinates":[-123.252254,44.588927],"type":"Point"}
+  "bbox": [
+    -123.252254,
+    44.588927,
+    -123.252254,
+    44.588927
+],
+  "geometry": {"coordinates":[-123.25225399999999,44.588927],"type":"Point"}
 }

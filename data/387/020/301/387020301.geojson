@@ -2,13 +2,14 @@
   "id": 387020301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.090787,44.027208,-123.090787,44.027208",
     "geom:latitude":44.027208,
     "geom:longitude":-123.090787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2852 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387020301,
-    "wof:lastmodified":1449057879,
+    "wof:lastmodified":1466767465,
     "wof:name":"A-Net",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "integration"
     ]
 },
-  "bbox": [-123.090787,44.027208,-123.090787,44.027208],
-  "geometry": {"coordinates":[-123.090787,44.027208],"type":"Point"}
+  "bbox": [
+    -123.090787,
+    44.027208,
+    -123.090787,
+    44.027208
+],
+  "geometry": {"coordinates":[-123.09078700000001,44.027208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370525241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652921,45.465066,-122.652921,45.465066",
     "geom:latitude":45.465066,
     "geom:longitude":-122.652921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8002 SE 13th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370525241,
-    "wof:lastmodified":1449031778,
+    "wof:lastmodified":1466772643,
     "wof:name":"Chrismans Frame It Yourself",
     "wof:parent_id":85868965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "framing"
     ]
 },
-  "bbox": [-122.652921,45.465066,-122.652921,45.465066],
-  "geometry": {"coordinates":[-122.652921,45.465066],"type":"Point"}
+  "bbox": [
+    -122.652921,
+    45.465066,
+    -122.652921,
+    45.465066
+],
+  "geometry": {"coordinates":[-122.65292100000001,45.465066],"type":"Point"}
 }

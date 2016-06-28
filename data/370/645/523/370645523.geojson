@@ -2,13 +2,14 @@
   "id": 370645523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.348204,43.206563,-123.348204,43.206563",
     "geom:latitude":43.206563,
     "geom:longitude":-123.348204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 SE Stephens St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370645523,
-    "wof:lastmodified":1449029429,
+    "wof:lastmodified":1466773274,
     "wof:name":"City Center Apartments",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.348204,43.206563,-123.348204,43.206563],
+  "bbox": [
+    -123.348204,
+    43.206563,
+    -123.348204,
+    43.206563
+],
   "geometry": {"coordinates":[-123.348204,43.206563],"type":"Point"}
 }

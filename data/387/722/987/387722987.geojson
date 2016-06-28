@@ -2,13 +2,14 @@
   "id": 387722987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.075167,44.632359,-123.075167,44.632359",
     "geom:latitude":44.632359,
     "geom:longitude":-123.075167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Santiam Hwy SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387722987,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466774645,
     "wof:name":"Mona Lisa's Custom Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-123.075167,44.632359,-123.075167,44.632359],
-  "geometry": {"coordinates":[-123.075167,44.632359],"type":"Point"}
+  "bbox": [
+    -123.075167,
+    44.632359,
+    -123.075167,
+    44.632359
+],
+  "geometry": {"coordinates":[-123.07516699999999,44.632359],"type":"Point"}
 }

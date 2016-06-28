@@ -2,13 +2,14 @@
   "id": 370522559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.330705,44.919268,-123.330705,44.919268",
     "geom:latitude":44.919268,
     "geom:longitude":-123.330705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 SW Clay St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370522559,
-    "wof:lastmodified":1449030704,
+    "wof:lastmodified":1466772386,
     "wof:name":"A Plus Carpet Cleaning",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-123.330705,44.919268,-123.330705,44.919268],
-  "geometry": {"coordinates":[-123.330705,44.919268],"type":"Point"}
+  "bbox": [
+    -123.330705,
+    44.919268,
+    -123.330705,
+    44.919268
+],
+  "geometry": {"coordinates":[-123.33070499999999,44.919268],"type":"Point"}
 }

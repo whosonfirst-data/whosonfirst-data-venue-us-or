@@ -2,13 +2,14 @@
   "id": 387790985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.779695,44.802595,-122.779695,44.802595",
     "geom:latitude":44.802595,
     "geom:longitude":-122.779695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1353 E Santiam St",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387790985,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1466774965,
     "wof:name":"Wolf Ridge Apartments",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.779695,44.802595,-122.779695,44.802595],
+  "bbox": [
+    -122.779695,
+    44.802595,
+    -122.779695,
+    44.802595
+],
   "geometry": {"coordinates":[-122.779695,44.802595],"type":"Point"}
 }

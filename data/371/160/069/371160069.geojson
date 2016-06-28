@@ -2,13 +2,14 @@
   "id": 371160069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.457394,45.500807,-122.457394,45.500807",
     "geom:latitude":45.500807,
     "geom:longitude":-122.457394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2289 NW 5th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371160069,
-    "wof:lastmodified":1449049956,
+    "wof:lastmodified":1466769864,
     "wof:name":"Brian Johnson Painting",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.457394,45.500807,-122.457394,45.500807],
-  "geometry": {"coordinates":[-122.457394,45.500807],"type":"Point"}
+  "bbox": [
+    -122.457394,
+    45.500807,
+    -122.457394,
+    45.500807
+],
+  "geometry": {"coordinates":[-122.45739399999999,45.500807],"type":"Point"}
 }

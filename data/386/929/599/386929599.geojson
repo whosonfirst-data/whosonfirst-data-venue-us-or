@@ -2,13 +2,14 @@
   "id": 386929599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.164797,45.074425,-123.164797,45.074425",
     "geom:latitude":45.074425,
     "geom:longitude":-123.164797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6520 Yampo Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386929599,
-    "wof:lastmodified":1449028747,
+    "wof:lastmodified":1466767149,
     "wof:name":"Jerry Howard & Sons Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.164797,45.074425,-123.164797,45.074425],
-  "geometry": {"coordinates":[-123.164797,45.074425],"type":"Point"}
+  "bbox": [
+    -123.164797,
+    45.074425,
+    -123.164797,
+    45.074425
+],
+  "geometry": {"coordinates":[-123.16479699999999,45.074425],"type":"Point"}
 }

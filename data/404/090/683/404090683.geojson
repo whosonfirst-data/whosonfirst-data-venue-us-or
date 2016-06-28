@@ -2,13 +2,14 @@
   "id": 404090683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.123476,44.061263,-123.123476,44.061263",
     "geom:latitude":44.061263,
     "geom:longitude":-123.123476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Cross St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404090683,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1466770307,
     "wof:name":"Western Panel Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-123.123476,44.061263,-123.123476,44.061263],
+  "bbox": [
+    -123.123476,
+    44.061263,
+    -123.123476,
+    44.061263
+],
   "geometry": {"coordinates":[-123.123476,44.061263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387559401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.869985,45.494295,-122.869985,45.494295",
     "geom:latitude":45.494295,
     "geom:longitude":-122.869985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 SW 187th Ave",
     "sg:city":"Aloha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387559401,
-    "wof:lastmodified":1449059081,
+    "wof:lastmodified":1466773682,
     "wof:name":"Aloha Dental Ctr",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.869985,45.494295,-122.869985,45.494295],
+  "bbox": [
+    -122.869985,
+    45.494295,
+    -122.869985,
+    45.494295
+],
   "geometry": {"coordinates":[-122.869985,45.494295],"type":"Point"}
 }

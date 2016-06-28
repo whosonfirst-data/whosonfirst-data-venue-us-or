@@ -2,13 +2,14 @@
   "id": 370315789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.975288,45.290987,-122.975288,45.290987",
     "geom:latitude":45.290987,
     "geom:longitude":-122.975288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 James St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370315789,
-    "wof:lastmodified":1449032289,
+    "wof:lastmodified":1466770133,
     "wof:name":"OMRS",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-122.975288,45.290987,-122.975288,45.290987],
-  "geometry": {"coordinates":[-122.975288,45.290987],"type":"Point"}
+  "bbox": [
+    -122.975288,
+    45.290987,
+    -122.975288,
+    45.290987
+],
+  "geometry": {"coordinates":[-122.97528800000001,45.290987],"type":"Point"}
 }

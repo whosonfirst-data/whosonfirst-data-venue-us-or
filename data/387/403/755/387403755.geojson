@@ -2,13 +2,14 @@
   "id": 387403755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.510602,45.520947,-122.510602,45.520947",
     "geom:latitude":45.520947,
     "geom:longitude":-122.510602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 SE 148th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387403755,
-    "wof:lastmodified":1449059391,
+    "wof:lastmodified":1466772494,
     "wof:name":"Raven Apartments",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.510602,45.520947,-122.510602,45.520947],
-  "geometry": {"coordinates":[-122.510602,45.520947],"type":"Point"}
+  "bbox": [
+    -122.510602,
+    45.520947,
+    -122.510602,
+    45.520947
+],
+  "geometry": {"coordinates":[-122.51060200000001,45.520947],"type":"Point"}
 }

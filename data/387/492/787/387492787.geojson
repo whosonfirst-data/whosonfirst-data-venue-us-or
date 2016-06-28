@@ -2,13 +2,14 @@
   "id": 387492787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.684278,45.526486,-122.684278,45.526486",
     "geom:latitude":45.526486,
     "geom:longitude":-122.684278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 NW 13th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387492787,
-    "wof:lastmodified":1449056109,
+    "wof:lastmodified":1466773199,
     "wof:name":"East West Room",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.684278,45.526486,-122.684278,45.526486],
-  "geometry": {"coordinates":[-122.684278,45.526486],"type":"Point"}
+  "bbox": [
+    -122.684278,
+    45.526486,
+    -122.684278,
+    45.526486
+],
+  "geometry": {"coordinates":[-122.68427800000001,45.526486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387842263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.027903,44.918696,-123.027903,44.918696",
     "geom:latitude":44.918696,
     "geom:longitude":-123.027903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 Pringle Rd SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387842263,
-    "wof:lastmodified":1449056392,
+    "wof:lastmodified":1466775141,
     "wof:name":"Fluid Connector Products Inc",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hose"
     ]
 },
-  "bbox": [-123.027903,44.918696,-123.027903,44.918696],
-  "geometry": {"coordinates":[-123.027903,44.918696],"type":"Point"}
+  "bbox": [
+    -123.027903,
+    44.918696,
+    -123.027903,
+    44.918696
+],
+  "geometry": {"coordinates":[-123.02790299999999,44.918696],"type":"Point"}
 }

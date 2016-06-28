@@ -2,13 +2,14 @@
   "id": 403763813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.995956,45.369055,-121.995956,45.369055",
     "geom:latitude":45.369055,
     "geom:longitude":-121.995956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65045 E Lupine Dr",
     "sg:city":"Rhododendron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403763813,
-    "wof:lastmodified":1449055954,
+    "wof:lastmodified":1466769077,
     "wof:name":"Trnd Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-121.995956,45.369055,-121.995956,45.369055],
-  "geometry": {"coordinates":[-121.995956,45.369055],"type":"Point"}
+  "bbox": [
+    -121.995956,
+    45.369055,
+    -121.995956,
+    45.369055
+],
+  "geometry": {"coordinates":[-121.99595600000001,45.369055],"type":"Point"}
 }

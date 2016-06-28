@@ -2,13 +2,14 @@
   "id": 371121757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.74948,45.403889,-122.74948,45.403889",
     "geom:latitude":45.403889,
     "geom:longitude":-122.74948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16320 SW 72nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371121757,
-    "wof:lastmodified":1449049852,
+    "wof:lastmodified":1466769188,
     "wof:name":"R Factor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mate"
     ]
 },
-  "bbox": [-122.74948,45.403889,-122.74948,45.403889],
-  "geometry": {"coordinates":[-122.74948,45.403889],"type":"Point"}
+  "bbox": [
+    -122.74948,
+    45.403889,
+    -122.74948,
+    45.403889
+],
+  "geometry": {"coordinates":[-122.74948000000001,45.403889],"type":"Point"}
 }

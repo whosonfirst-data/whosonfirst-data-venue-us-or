@@ -2,13 +2,14 @@
   "id": 403943131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.69151,45.455359,-122.69151,45.455359",
     "geom:latitude":45.455359,
     "geom:longitude":-122.69151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9315 SW 12th Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403943131,
-    "wof:lastmodified":1449054998,
+    "wof:lastmodified":1466768138,
     "wof:name":"Chip-Away",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.69151,45.455359,-122.69151,45.455359],
-  "geometry": {"coordinates":[-122.69151,45.455359],"type":"Point"}
+  "bbox": [
+    -122.69151,
+    45.455359,
+    -122.69151,
+    45.455359
+],
+  "geometry": {"coordinates":[-122.69150999999999,45.455359],"type":"Point"}
 }

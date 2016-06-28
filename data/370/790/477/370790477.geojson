@@ -2,13 +2,14 @@
   "id": 370790477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.104841,44.051813,-123.104841,44.051813",
     "geom:latitude":44.051813,
     "geom:longitude":-123.104841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"769 Monroe St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370790477,
-    "wof:lastmodified":1449031693,
+    "wof:lastmodified":1466774045,
     "wof:name":"Community Mediation Services",
     "wof:parent_id":85877247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-123.104841,44.051813,-123.104841,44.051813],
-  "geometry": {"coordinates":[-123.104841,44.051813],"type":"Point"}
+  "bbox": [
+    -123.104841,
+    44.051813,
+    -123.104841,
+    44.051813
+],
+  "geometry": {"coordinates":[-123.10484099999999,44.051813],"type":"Point"}
 }

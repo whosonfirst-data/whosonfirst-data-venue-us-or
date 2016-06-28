@@ -2,13 +2,14 @@
   "id": 354322241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.36885,45.486559,-122.36885,45.486559",
     "geom:latitude":45.486559,
     "geom:longitude":-122.36885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28525 SE Lusted Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354322241,
-    "wof:lastmodified":1449065915,
+    "wof:lastmodified":1466769803,
     "wof:name":"Custom Touch Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-122.36885,45.486559,-122.36885,45.486559],
-  "geometry": {"coordinates":[-122.36885,45.486559],"type":"Point"}
+  "bbox": [
+    -122.36885,
+    45.486559,
+    -122.36885,
+    45.486559
+],
+  "geometry": {"coordinates":[-122.36884999999999,45.486559],"type":"Point"}
 }

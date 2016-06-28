@@ -2,13 +2,14 @@
   "id": 370800251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.993498,44.974334,-122.993498,44.974334",
     "geom:latitude":44.974334,
     "geom:longitude":-122.993498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3760 32nd Pl NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370800251,
-    "wof:lastmodified":1449029352,
+    "wof:lastmodified":1466774083,
     "wof:name":"Cascade Pointe Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.993498,44.974334,-122.993498,44.974334],
+  "bbox": [
+    -122.993498,
+    44.974334,
+    -122.993498,
+    44.974334
+],
   "geometry": {"coordinates":[-122.993498,44.974334],"type":"Point"}
 }

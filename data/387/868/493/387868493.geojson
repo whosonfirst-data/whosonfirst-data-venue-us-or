@@ -2,13 +2,14 @@
   "id": 387868493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.223582,44.092884,-123.223582,44.092884",
     "geom:latitude":44.092884,
     "geom:longitude":-123.223582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89676 Montieth Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387868493,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1466775202,
     "wof:name":"In Depth Earth Boring & Pole",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.223582,44.092884,-123.223582,44.092884],
-  "geometry": {"coordinates":[-123.223582,44.092884],"type":"Point"}
+  "bbox": [
+    -123.223582,
+    44.092884,
+    -123.223582,
+    44.092884
+],
+  "geometry": {"coordinates":[-123.22358199999999,44.092884],"type":"Point"}
 }

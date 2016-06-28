@@ -2,13 +2,14 @@
   "id": 370938945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.751381,45.423222,-122.751381,45.423222",
     "geom:latitude":45.423222,
     "geom:longitude":-122.751381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7080 SW Fir Loop",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370938945,
-    "wof:lastmodified":1449031619,
+    "wof:lastmodified":1466774981,
     "wof:name":"LDS Family Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "adoption"
     ]
 },
-  "bbox": [-122.751381,45.423222,-122.751381,45.423222],
-  "geometry": {"coordinates":[-122.751381,45.423222],"type":"Point"}
+  "bbox": [
+    -122.751381,
+    45.423222,
+    -122.751381,
+    45.423222
+],
+  "geometry": {"coordinates":[-122.75138099999999,45.423222],"type":"Point"}
 }

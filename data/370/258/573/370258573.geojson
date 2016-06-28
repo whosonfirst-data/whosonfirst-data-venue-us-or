@@ -2,13 +2,14 @@
   "id": 370258573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.281088,44.578385,-123.281088,44.578385",
     "geom:latitude":44.578385,
     "geom:longitude":-123.281088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 NW 27th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370258573,
-    "wof:lastmodified":1449031790,
+    "wof:lastmodified":1466769046,
     "wof:name":"Tempest Software",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-123.281088,44.578385,-123.281088,44.578385],
+  "bbox": [
+    -123.281088,
+    44.578385,
+    -123.281088,
+    44.578385
+],
   "geometry": {"coordinates":[-123.281088,44.578385],"type":"Point"}
 }

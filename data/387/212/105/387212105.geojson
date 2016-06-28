@@ -2,13 +2,14 @@
   "id": 387212105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.179493,45.587822,-121.179493,45.587822",
     "geom:latitude":45.587822,
     "geom:longitude":-121.179493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 E 18th St",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387212105,
-    "wof:lastmodified":1449058573,
+    "wof:lastmodified":1466771044,
     "wof:name":"SDC Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.179493,45.587822,-121.179493,45.587822],
-  "geometry": {"coordinates":[-121.179493,45.587822],"type":"Point"}
+  "bbox": [
+    -121.179493,
+    45.587822,
+    -121.179493,
+    45.587822
+],
+  "geometry": {"coordinates":[-121.17949299999999,45.587822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403953987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.09628,44.000015,-124.09628,44.000015",
     "geom:latitude":44.000015,
     "geom:longitude":-124.09628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Glenbrook Cir",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403953987,
-    "wof:lastmodified":1449055521,
+    "wof:lastmodified":1466768331,
     "wof:name":"Queen of HArts-Hatter",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.09628,44.000015,-124.09628,44.000015],
-  "geometry": {"coordinates":[-124.09628,44.000015],"type":"Point"}
+  "bbox": [
+    -124.09628,
+    44.000015,
+    -124.09628,
+    44.000015
+],
+  "geometry": {"coordinates":[-124.09627999999999,44.000015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403782925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.891321,45.545605,-122.891321,45.545605",
     "geom:latitude":45.545605,
     "geom:longitude":-122.891321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 NW Aloclek Dr",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403782925,
-    "wof:lastmodified":1449054619,
+    "wof:lastmodified":1466769375,
     "wof:name":"Trivium Systems Inc",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.891321,45.545605,-122.891321,45.545605],
+  "bbox": [
+    -122.891321,
+    45.545605,
+    -122.891321,
+    45.545605
+],
   "geometry": {"coordinates":[-122.891321,45.545605],"type":"Point"}
 }

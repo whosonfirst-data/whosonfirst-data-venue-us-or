@@ -2,13 +2,14 @@
   "id": 370362275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258149,44.539579,-123.258149,44.539579",
     "geom:latitude":44.539579,
     "geom:longitude":-123.258149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 SE Bell Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362275,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466771055,
     "wof:name":"Meridian Surveying & Mapping",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-123.258149,44.539579,-123.258149,44.539579],
+  "bbox": [
+    -123.258149,
+    44.539579,
+    -123.258149,
+    44.539579
+],
   "geometry": {"coordinates":[-123.258149,44.539579],"type":"Point"}
 }

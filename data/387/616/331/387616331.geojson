@@ -2,13 +2,14 @@
   "id": 387616331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265087,44.563117,-123.265087,44.563117",
     "geom:latitude":44.563117,
     "geom:longitude":-123.265087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 SW Jefferson Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387616331,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1466774036,
     "wof:name":"Peggy Fitzsimmons PHD",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-123.265087,44.563117,-123.265087,44.563117],
-  "geometry": {"coordinates":[-123.265087,44.563117],"type":"Point"}
+  "bbox": [
+    -123.265087,
+    44.563117,
+    -123.265087,
+    44.563117
+],
+  "geometry": {"coordinates":[-123.26508699999999,44.563117],"type":"Point"}
 }

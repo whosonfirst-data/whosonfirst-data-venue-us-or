@@ -2,13 +2,14 @@
   "id": 403808115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.379126,44.326057,-123.379126,44.326057",
     "geom:latitude":44.326057,
     "geom:longitude":-123.379126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24704 Alpine Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403808115,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1466769783,
     "wof:name":"Stampede Mountain Ranch",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-123.379126,44.326057,-123.379126,44.326057],
+  "bbox": [
+    -123.379126,
+    44.326057,
+    -123.379126,
+    44.326057
+],
   "geometry": {"coordinates":[-123.379126,44.326057],"type":"Point"}
 }

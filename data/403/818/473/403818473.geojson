@@ -2,13 +2,14 @@
   "id": 403818473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.918664,45.565505,-122.918664,45.565505",
     "geom:latitude":45.565505,
     "geom:longitude":-122.918664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23585 NW Jacobson Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403818473,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1466770035,
     "wof:name":"Ln D Trucking",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.918664,45.565505,-122.918664,45.565505],
-  "geometry": {"coordinates":[-122.918664,45.565505],"type":"Point"}
+  "bbox": [
+    -122.918664,
+    45.565505,
+    -122.918664,
+    45.565505
+],
+  "geometry": {"coordinates":[-122.91866400000001,45.565505],"type":"Point"}
 }

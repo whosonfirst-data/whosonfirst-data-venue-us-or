@@ -2,13 +2,14 @@
   "id": 387223701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.63031,45.471176,-122.63031,45.471176",
     "geom:latitude":45.471176,
     "geom:longitude":-122.63031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 SE 32nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387223701,
-    "wof:lastmodified":1449056373,
+    "wof:lastmodified":1466771280,
     "wof:name":"Electronic Medical Supply",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.63031,45.471176,-122.63031,45.471176],
-  "geometry": {"coordinates":[-122.63031,45.471176],"type":"Point"}
+  "bbox": [
+    -122.63031,
+    45.471176,
+    -122.63031,
+    45.471176
+],
+  "geometry": {"coordinates":[-122.63030999999999,45.471176],"type":"Point"}
 }

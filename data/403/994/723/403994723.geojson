@@ -2,13 +2,14 @@
   "id": 403994723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.788689,46.150787,-123.788689,46.150787",
     "geom:latitude":46.150787,
     "geom:longitude":-123.788689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92861 Walluski Loop",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403994723,
-    "wof:lastmodified":1449054689,
+    "wof:lastmodified":1466769053,
     "wof:name":"Robert Martens Excavation",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.788689,46.150787,-123.788689,46.150787],
-  "geometry": {"coordinates":[-123.788689,46.150787],"type":"Point"}
+  "bbox": [
+    -123.788689,
+    46.150787,
+    -123.788689,
+    46.150787
+],
+  "geometry": {"coordinates":[-123.78868900000001,46.150787],"type":"Point"}
 }

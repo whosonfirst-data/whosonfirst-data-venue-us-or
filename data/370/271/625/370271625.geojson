@@ -2,13 +2,14 @@
   "id": 370271625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.740691,45.338227,-122.740691,45.338227",
     "geom:latitude":45.338227,
     "geom:longitude":-122.740691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 SW Stafford Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370271625,
-    "wof:lastmodified":1449030856,
+    "wof:lastmodified":1466769290,
     "wof:name":"Badger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "house"
     ]
 },
-  "bbox": [-122.740691,45.338227,-122.740691,45.338227],
+  "bbox": [
+    -122.740691,
+    45.338227,
+    -122.740691,
+    45.338227
+],
   "geometry": {"coordinates":[-122.740691,45.338227],"type":"Point"}
 }

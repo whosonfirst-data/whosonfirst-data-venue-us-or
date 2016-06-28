@@ -2,13 +2,14 @@
   "id": 371186221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675494,45.520689,-122.675494,45.520689",
     "geom:latitude":45.520689,
     "geom:longitude":-122.675494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 SW 4th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371186221,
-    "wof:lastmodified":1449049861,
+    "wof:lastmodified":1466770412,
     "wof:name":"Northwest New Tech",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.675494,45.520689,-122.675494,45.520689],
+  "bbox": [
+    -122.675494,
+    45.520689,
+    -122.675494,
+    45.520689
+],
   "geometry": {"coordinates":[-122.675494,45.520689],"type":"Point"}
 }

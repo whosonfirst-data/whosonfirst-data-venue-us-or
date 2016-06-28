@@ -2,13 +2,14 @@
   "id": 403838933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.638348,45.521614,-122.638348,45.521614",
     "geom:latitude":45.521614,
     "geom:longitude":-122.638348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 SE 27th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403838933,
-    "wof:lastmodified":1449054781,
+    "wof:lastmodified":1466770573,
     "wof:name":"Duvinci Inc",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-122.638348,45.521614,-122.638348,45.521614],
-  "geometry": {"coordinates":[-122.638348,45.521614],"type":"Point"}
+  "bbox": [
+    -122.638348,
+    45.521614,
+    -122.638348,
+    45.521614
+],
+  "geometry": {"coordinates":[-122.63834799999999,45.521614],"type":"Point"}
 }

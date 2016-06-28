@@ -2,13 +2,14 @@
   "id": 371116623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.51453,45.515264,-122.51453,45.515264",
     "geom:latitude":45.515264,
     "geom:longitude":-122.51453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 SE 144th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371116623,
-    "wof:lastmodified":1449049180,
+    "wof:lastmodified":1466769088,
     "wof:name":"Euroway Construction",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.51453,45.515264,-122.51453,45.515264],
-  "geometry": {"coordinates":[-122.51453,45.515264],"type":"Point"}
+  "bbox": [
+    -122.51453,
+    45.515264,
+    -122.51453,
+    45.515264
+],
+  "geometry": {"coordinates":[-122.51452999999999,45.515264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370888981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.944888,43.984171,-122.944888,43.984171",
     "geom:latitude":43.984171,
     "geom:longitude":-122.944888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85339 Ridgeway Rd",
     "sg:city":"Pleasant Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370888981,
-    "wof:lastmodified":1449031198,
+    "wof:lastmodified":1466774601,
     "wof:name":"John Van Hoy",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.944888,43.984171,-122.944888,43.984171],
-  "geometry": {"coordinates":[-122.944888,43.984171],"type":"Point"}
+  "bbox": [
+    -122.944888,
+    43.984171,
+    -122.944888,
+    43.984171
+],
+  "geometry": {"coordinates":[-122.94488800000001,43.984171],"type":"Point"}
 }

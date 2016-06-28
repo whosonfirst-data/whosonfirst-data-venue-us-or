@@ -2,13 +2,14 @@
   "id": 404000047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.387913,45.519121,-122.387913,45.519121",
     "geom:latitude":45.519121,
     "geom:longitude":-122.387913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26733 SE Stark St",
     "sg:city":"Troutdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404000047,
-    "wof:lastmodified":1449039208,
+    "wof:lastmodified":1466768235,
     "wof:name":"Great Hair Day Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.387913,45.519121,-122.387913,45.519121],
+  "bbox": [
+    -122.387913,
+    45.519121,
+    -122.387913,
+    45.519121
+],
   "geometry": {"coordinates":[-122.387913,45.519121],"type":"Point"}
 }

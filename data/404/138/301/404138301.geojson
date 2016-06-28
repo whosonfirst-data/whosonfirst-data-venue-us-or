@@ -2,13 +2,14 @@
   "id": 404138301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.414752,45.507622,-122.414752,45.507622",
     "geom:latitude":45.507622,
     "geom:longitude":-122.414752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 NE Hogan Dr",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404138301,
-    "wof:lastmodified":1449039358,
+    "wof:lastmodified":1466771343,
     "wof:name":"Hogan Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.414752,45.507622,-122.414752,45.507622],
-  "geometry": {"coordinates":[-122.414752,45.507622],"type":"Point"}
+  "bbox": [
+    -122.414752,
+    45.507622,
+    -122.414752,
+    45.507622
+],
+  "geometry": {"coordinates":[-122.41475199999999,45.507622],"type":"Point"}
 }

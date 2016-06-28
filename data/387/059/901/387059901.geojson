@@ -2,13 +2,14 @@
   "id": 387059901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.944849,45.502045,-122.944849,45.502045",
     "geom:latitude":45.502045,
     "geom:longitude":-122.944849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 SE Tualatin Valley Hwy",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387059901,
-    "wof:lastmodified":1449057140,
+    "wof:lastmodified":1466768139,
     "wof:name":"Valley Memorial Park",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-122.944849,45.502045,-122.944849,45.502045],
+  "bbox": [
+    -122.944849,
+    45.502045,
+    -122.944849,
+    45.502045
+],
   "geometry": {"coordinates":[-122.944849,45.502045],"type":"Point"}
 }

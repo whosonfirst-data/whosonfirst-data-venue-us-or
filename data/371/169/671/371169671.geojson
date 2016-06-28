@@ -2,13 +2,14 @@
   "id": 371169671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.040805,44.939972,-123.040805,44.939972",
     "geom:latitude":44.939972,
     "geom:longitude":-123.040805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371169671,
-    "wof:lastmodified":1449049673,
+    "wof:lastmodified":1466770062,
     "wof:name":"Weber's Bar & Grill",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.040805,44.939972,-123.040805,44.939972],
-  "geometry": {"coordinates":[-123.040805,44.939972],"type":"Point"}
+  "bbox": [
+    -123.040805,
+    44.939972,
+    -123.040805,
+    44.939972
+],
+  "geometry": {"coordinates":[-123.04080500000001,44.939972],"type":"Point"}
 }

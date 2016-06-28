@@ -2,13 +2,14 @@
   "id": 370655239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.973987,45.51944,-122.973987,45.51944",
     "geom:latitude":45.51944,
     "geom:longitude":-122.973987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 SE 10th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370655239,
-    "wof:lastmodified":1449031014,
+    "wof:lastmodified":1466773314,
     "wof:name":"International Money Transfers",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transfer"
     ]
 },
-  "bbox": [-122.973987,45.51944,-122.973987,45.51944],
-  "geometry": {"coordinates":[-122.973987,45.51944],"type":"Point"}
+  "bbox": [
+    -122.973987,
+    45.51944,
+    -122.973987,
+    45.51944
+],
+  "geometry": {"coordinates":[-122.97398699999999,45.51944],"type":"Point"}
 }

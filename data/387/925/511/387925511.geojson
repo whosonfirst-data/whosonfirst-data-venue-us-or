@@ -2,13 +2,14 @@
   "id": 387925511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.60598,45.452643,-122.60598,45.452643",
     "geom:latitude":45.452643,
     "geom:longitude":-122.60598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 SE Willow St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387925511,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466775455,
     "wof:name":"Love Holding LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-122.60598,45.452643,-122.60598,45.452643],
+  "bbox": [
+    -122.60598,
+    45.452643,
+    -122.60598,
+    45.452643
+],
   "geometry": {"coordinates":[-122.60598,45.452643],"type":"Point"}
 }

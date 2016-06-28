@@ -2,13 +2,14 @@
   "id": 403851727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.465359,45.529925,-122.465359,45.529925",
     "geom:latitude":45.529925,
     "geom:longitude":-122.465359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"752 NE 192nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403851727,
-    "wof:lastmodified":1449055491,
+    "wof:lastmodified":1466770811,
     "wof:name":"6deep",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-122.465359,45.529925,-122.465359,45.529925],
-  "geometry": {"coordinates":[-122.465359,45.529925],"type":"Point"}
+  "bbox": [
+    -122.465359,
+    45.529925,
+    -122.465359,
+    45.529925
+],
+  "geometry": {"coordinates":[-122.46535900000001,45.529925],"type":"Point"}
 }

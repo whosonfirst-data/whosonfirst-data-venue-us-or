@@ -2,13 +2,14 @@
   "id": 404049809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.557926,45.536765,-122.557926,45.536765",
     "geom:latitude":45.536765,
     "geom:longitude":-122.557926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 NE 102nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404049809,
-    "wof:lastmodified":1449039661,
+    "wof:lastmodified":1466769328,
     "wof:name":"Woodland Park Chapel",
     "wof:parent_id":85868989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.557926,45.536765,-122.557926,45.536765],
-  "geometry": {"coordinates":[-122.557926,45.536765],"type":"Point"}
+  "bbox": [
+    -122.557926,
+    45.536765,
+    -122.557926,
+    45.536765
+],
+  "geometry": {"coordinates":[-122.55792599999999,45.536765],"type":"Point"}
 }

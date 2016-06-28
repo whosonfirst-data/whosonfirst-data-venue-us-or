@@ -2,13 +2,14 @@
   "id": 404070511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.021571,45.010877,-123.021571,45.010877",
     "geom:latitude":45.010877,
     "geom:longitude":-123.021571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 McNary Estates Dr N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404070511,
-    "wof:lastmodified":1449039593,
+    "wof:lastmodified":1466769734,
     "wof:name":"Mc Nary Golf Club",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pro"
     ]
 },
-  "bbox": [-123.021571,45.010877,-123.021571,45.010877],
-  "geometry": {"coordinates":[-123.021571,45.010877],"type":"Point"}
+  "bbox": [
+    -123.021571,
+    45.010877,
+    -123.021571,
+    45.010877
+],
+  "geometry": {"coordinates":[-123.02157099999999,45.010877],"type":"Point"}
 }

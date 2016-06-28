@@ -2,13 +2,14 @@
   "id": 386964301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.588478,45.416151,-122.588478,45.416151",
     "geom:latitude":45.416151,
     "geom:longitude":-122.588478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7284 SE Thiessen Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386964301,
-    "wof:lastmodified":1449028874,
+    "wof:lastmodified":1466767342,
     "wof:name":"Moby Pendergrass Contract",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.588478,45.416151,-122.588478,45.416151],
-  "geometry": {"coordinates":[-122.588478,45.416151],"type":"Point"}
+  "bbox": [
+    -122.588478,
+    45.416151,
+    -122.588478,
+    45.416151
+],
+  "geometry": {"coordinates":[-122.58847799999999,45.416151],"type":"Point"}
 }

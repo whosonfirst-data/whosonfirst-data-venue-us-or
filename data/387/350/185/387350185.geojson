@@ -2,13 +2,14 @@
   "id": 387350185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.185566,44.328784,-121.185566,44.328784",
     "geom:latitude":44.328784,
     "geom:longitude":-121.185566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 NW 19th St",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387350185,
-    "wof:lastmodified":1449058047,
+    "wof:lastmodified":1466772247,
     "wof:name":"Eric Capucci",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.185566,44.328784,-121.185566,44.328784],
-  "geometry": {"coordinates":[-121.185566,44.328784],"type":"Point"}
+  "bbox": [
+    -121.185566,
+    44.328784,
+    -121.185566,
+    44.328784
+],
+  "geometry": {"coordinates":[-121.18556599999999,44.328784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403703263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.090968,44.228819,-123.090968,44.228819",
     "geom:latitude":44.228819,
     "geom:longitude":-123.090968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32200 Bowers Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403703263,
-    "wof:lastmodified":1449055049,
+    "wof:lastmodified":1466767848,
     "wof:name":"Roy Bowers Warehouse",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-123.090968,44.228819,-123.090968,44.228819],
+  "bbox": [
+    -123.090968,
+    44.228819,
+    -123.090968,
+    44.228819
+],
   "geometry": {"coordinates":[-123.090968,44.228819],"type":"Point"}
 }

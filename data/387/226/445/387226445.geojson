@@ -2,13 +2,14 @@
   "id": 387226445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.679216,45.519915,-122.679216,45.519915",
     "geom:latitude":45.519915,
     "geom:longitude":-122.679216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 SW Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387226445,
-    "wof:lastmodified":1449058867,
+    "wof:lastmodified":1466771327,
     "wof:name":"Samuel C Justice",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-122.679216,45.519915,-122.679216,45.519915],
+  "bbox": [
+    -122.679216,
+    45.519915,
+    -122.679216,
+    45.519915
+],
   "geometry": {"coordinates":[-122.679216,45.519915],"type":"Point"}
 }

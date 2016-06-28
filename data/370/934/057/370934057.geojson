@@ -2,13 +2,14 @@
   "id": 370934057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.26211,44.566834,-123.26211,44.566834",
     "geom:latitude":44.566834,
     "geom:longitude":-123.26211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 NW 5th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370934057,
-    "wof:lastmodified":1449029243,
+    "wof:lastmodified":1466774750,
     "wof:name":"Mc Henry Funeral Home",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-123.26211,44.566834,-123.26211,44.566834],
-  "geometry": {"coordinates":[-123.26211,44.566834],"type":"Point"}
+  "bbox": [
+    -123.26211,
+    44.566834,
+    -123.26211,
+    44.566834
+],
+  "geometry": {"coordinates":[-123.26211000000001,44.566834],"type":"Point"}
 }

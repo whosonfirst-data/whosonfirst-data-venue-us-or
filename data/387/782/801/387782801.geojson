@@ -2,13 +2,14 @@
   "id": 387782801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.911392,46.02182,-123.911392,46.02182",
     "geom:latitude":46.02182,
     "geom:longitude":-123.911392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3537 US Hwy 101",
     "sg:city":"Gearhart",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387782801,
-    "wof:lastmodified":1449056098,
+    "wof:lastmodified":1466775020,
     "wof:name":"North Coast Realty Inc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.911392,46.02182,-123.911392,46.02182],
-  "geometry": {"coordinates":[-123.911392,46.02182],"type":"Point"}
+  "bbox": [
+    -123.911392,
+    46.02182,
+    -123.911392,
+    46.02182
+],
+  "geometry": {"coordinates":[-123.91139200000001,46.02182],"type":"Point"}
 }

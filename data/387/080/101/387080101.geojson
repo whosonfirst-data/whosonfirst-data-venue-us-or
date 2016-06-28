@@ -2,13 +2,14 @@
   "id": 387080101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.354365,44.503824,-123.354365,44.503824",
     "geom:latitude":44.503824,
     "geom:longitude":-123.354365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25619 Wonderly Ln",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387080101,
-    "wof:lastmodified":1449059815,
+    "wof:lastmodified":1466768473,
     "wof:name":"Mike Wiebe",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-123.354365,44.503824,-123.354365,44.503824],
+  "bbox": [
+    -123.354365,
+    44.503824,
+    -123.354365,
+    44.503824
+],
   "geometry": {"coordinates":[-123.354365,44.503824],"type":"Point"}
 }

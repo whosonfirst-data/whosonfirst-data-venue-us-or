@@ -2,13 +2,14 @@
   "id": 370882169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.600895,45.407364,-122.600895,45.407364",
     "geom:latitude":45.407364,
     "geom:longitude":-122.600895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16000 SE Norma Rd",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370882169,
-    "wof:lastmodified":1449029699,
+    "wof:lastmodified":1466774440,
     "wof:name":"Linear Technology Corp",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "built"
     ]
 },
-  "bbox": [-122.600895,45.407364,-122.600895,45.407364],
-  "geometry": {"coordinates":[-122.600895,45.407364],"type":"Point"}
+  "bbox": [
+    -122.600895,
+    45.407364,
+    -122.600895,
+    45.407364
+],
+  "geometry": {"coordinates":[-122.60089499999999,45.407364],"type":"Point"}
 }

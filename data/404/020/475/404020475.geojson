@@ -2,13 +2,14 @@
   "id": 404020475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.183617,44.252628,-121.183617,44.252628",
     "geom:latitude":44.252628,
     "geom:longitude":-121.183617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2498 S Hwy 97",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404020475,
-    "wof:lastmodified":1449039571,
+    "wof:lastmodified":1466768814,
     "wof:name":"Us Cellular Inc",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-121.183617,44.252628,-121.183617,44.252628],
+  "bbox": [
+    -121.183617,
+    44.252628,
+    -121.183617,
+    44.252628
+],
   "geometry": {"coordinates":[-121.183617,44.252628],"type":"Point"}
 }

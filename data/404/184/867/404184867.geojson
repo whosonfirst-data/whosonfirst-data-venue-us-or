@@ -2,13 +2,14 @@
   "id": 404184867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.723008,45.443397,-122.723008,45.443397",
     "geom:latitude":45.443397,
     "geom:longitude":-122.723008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11322 SW 45th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":404184867,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1466767851,
     "wof:name":"Sequoia Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.723008,45.443397,-122.723008,45.443397],
-  "geometry": {"coordinates":[-122.723008,45.443397],"type":"Point"}
+  "bbox": [
+    -122.723008,
+    45.443397,
+    -122.723008,
+    45.443397
+],
+  "geometry": {"coordinates":[-122.72300799999999,45.443397],"type":"Point"}
 }

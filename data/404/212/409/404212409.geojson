@@ -2,13 +2,14 @@
   "id": 404212409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.862919,45.885482,-122.862919,45.885482",
     "geom:latitude":45.885482,
     "geom:longitude":-122.862919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60891 Robinette Rd",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404212409,
-    "wof:lastmodified":1449039911,
+    "wof:lastmodified":1466768327,
     "wof:name":"Broadcast Engineering Svc",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.862919,45.885482,-122.862919,45.885482],
-  "geometry": {"coordinates":[-122.862919,45.885482],"type":"Point"}
+  "bbox": [
+    -122.862919,
+    45.885482,
+    -122.862919,
+    45.885482
+],
+  "geometry": {"coordinates":[-122.86291900000001,45.885482],"type":"Point"}
 }

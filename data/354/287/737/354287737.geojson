@@ -2,13 +2,14 @@
   "id": 354287737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.036348,44.949024,-123.036348,44.949024",
     "geom:latitude":44.949024,
     "geom:longitude":-123.036348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 D St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354287737,
-    "wof:lastmodified":1449066037,
+    "wof:lastmodified":1466769363,
     "wof:name":"Dag Photography",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-123.036348,44.949024,-123.036348,44.949024],
+  "bbox": [
+    -123.036348,
+    44.949024,
+    -123.036348,
+    44.949024
+],
   "geometry": {"coordinates":[-123.036348,44.949024],"type":"Point"}
 }

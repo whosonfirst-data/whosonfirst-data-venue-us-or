@@ -2,13 +2,14 @@
   "id": 403765075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.085447,44.013105,-123.085447,44.013105",
     "geom:latitude":44.013105,
     "geom:longitude":-123.085447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E 39th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403765075,
-    "wof:lastmodified":1449055402,
+    "wof:lastmodified":1466769097,
     "wof:name":"Interamerican Woods Inc",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-123.085447,44.013105,-123.085447,44.013105],
+  "bbox": [
+    -123.085447,
+    44.013105,
+    -123.085447,
+    44.013105
+],
   "geometry": {"coordinates":[-123.085447,44.013105],"type":"Point"}
 }

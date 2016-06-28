@@ -2,13 +2,14 @@
   "id": 404096623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.96282,44.801169,-122.96282,44.801169",
     "geom:latitude":44.801169,
     "geom:longitude":-122.96282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 Parrish Gap Rd SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404096623,
-    "wof:lastmodified":1449039404,
+    "wof:lastmodified":1466770441,
     "wof:name":"Twin View Ranch",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.96282,44.801169,-122.96282,44.801169],
-  "geometry": {"coordinates":[-122.96282,44.801169],"type":"Point"}
+  "bbox": [
+    -122.96282,
+    44.801169,
+    -122.96282,
+    44.801169
+],
+  "geometry": {"coordinates":[-122.96281999999999,44.801169],"type":"Point"}
 }

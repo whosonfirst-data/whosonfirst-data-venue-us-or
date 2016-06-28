@@ -2,13 +2,14 @@
   "id": 387148893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.830405,44.773013,-117.830405,44.773013",
     "geom:latitude":44.773013,
     "geom:longitude":-117.830405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Dewey Ave",
     "sg:city":"Baker City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387148893,
-    "wof:lastmodified":1449059333,
+    "wof:lastmodified":1466769743,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-117.830405,44.773013,-117.830405,44.773013],
+  "bbox": [
+    -117.830405,
+    44.773013,
+    -117.830405,
+    44.773013
+],
   "geometry": {"coordinates":[-117.830405,44.773013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404002059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.557156,45.559156,-122.557156,45.559156",
     "geom:latitude":45.559156,
     "geom:longitude":-122.557156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10279 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404002059,
-    "wof:lastmodified":1449040080,
+    "wof:lastmodified":1466768309,
     "wof:name":"Keith Brown Building Materials",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.557156,45.559156,-122.557156,45.559156],
-  "geometry": {"coordinates":[-122.557156,45.559156],"type":"Point"}
+  "bbox": [
+    -122.557156,
+    45.559156,
+    -122.557156,
+    45.559156
+],
+  "geometry": {"coordinates":[-122.55715600000001,45.559156],"type":"Point"}
 }

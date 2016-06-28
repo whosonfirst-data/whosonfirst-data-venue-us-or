@@ -2,13 +2,14 @@
   "id": 387848865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.605804,45.359028,-122.605804,45.359028",
     "geom:latitude":45.359028,
     "geom:longitude":-122.605804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Main St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387848865,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1466775263,
     "wof:name":"Commissioners Office",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-122.605804,45.359028,-122.605804,45.359028],
-  "geometry": {"coordinates":[-122.605804,45.359028],"type":"Point"}
+  "bbox": [
+    -122.605804,
+    45.359028,
+    -122.605804,
+    45.359028
+],
+  "geometry": {"coordinates":[-122.60580400000001,45.359028],"type":"Point"}
 }

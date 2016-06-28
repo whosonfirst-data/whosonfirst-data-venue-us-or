@@ -2,13 +2,14 @@
   "id": 371000251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120383,44.076719,-123.120383,44.076719",
     "geom:latitude":44.076719,
     "geom:longitude":-123.120383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Elkay Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371000251,
-    "wof:lastmodified":1449049198,
+    "wof:lastmodified":1466767130,
     "wof:name":"Yoga Studio",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.120383,44.076719,-123.120383,44.076719],
+  "bbox": [
+    -123.120383,
+    44.076719,
+    -123.120383,
+    44.076719
+],
   "geometry": {"coordinates":[-123.120383,44.076719],"type":"Point"}
 }

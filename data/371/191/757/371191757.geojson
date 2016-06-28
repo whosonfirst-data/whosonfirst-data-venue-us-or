@@ -2,13 +2,14 @@
   "id": 371191757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.90457,44.867219,-122.90457,44.867219",
     "geom:latitude":44.867219,
     "geom:longitude":-122.90457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7670 Madras St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371191757,
-    "wof:lastmodified":1449049662,
+    "wof:lastmodified":1466770520,
     "wof:name":"Thomas McCaffrey Trucking",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.90457,44.867219,-122.90457,44.867219],
-  "geometry": {"coordinates":[-122.90457,44.867219],"type":"Point"}
+  "bbox": [
+    -122.90457,
+    44.867219,
+    -122.90457,
+    44.867219
+],
+  "geometry": {"coordinates":[-122.90457000000001,44.867219],"type":"Point"}
 }

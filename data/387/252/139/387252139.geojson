@@ -2,13 +2,14 @@
   "id": 387252139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.061559,44.045128,-123.061559,44.045128",
     "geom:latitude":44.045128,
     "geom:longitude":-123.061559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Walnut St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387252139,
-    "wof:lastmodified":1449056606,
+    "wof:lastmodified":1466771642,
     "wof:name":"PHD P Stephen Schweitzer",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-123.061559,44.045128,-123.061559,44.045128],
+  "bbox": [
+    -123.061559,
+    44.045128,
+    -123.061559,
+    44.045128
+],
   "geometry": {"coordinates":[-123.061559,44.045128],"type":"Point"}
 }

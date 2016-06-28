@@ -2,13 +2,14 @@
   "id": 387186699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347879,43.304532,-123.347879,43.304532",
     "geom:latitude":43.304532,
     "geom:longitude":-123.347879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7585 Old Hwy 99 N",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387186699,
-    "wof:lastmodified":1449059083,
+    "wof:lastmodified":1466770507,
     "wof:name":"Fertilizer",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "whole"
     ]
 },
-  "bbox": [-123.347879,43.304532,-123.347879,43.304532],
-  "geometry": {"coordinates":[-123.347879,43.304532],"type":"Point"}
+  "bbox": [
+    -123.347879,
+    43.304532,
+    -123.347879,
+    43.304532
+],
+  "geometry": {"coordinates":[-123.34787900000001,43.304532],"type":"Point"}
 }

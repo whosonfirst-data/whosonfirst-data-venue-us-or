@@ -2,13 +2,14 @@
   "id": 404142169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.203975,44.857565,-123.203975,44.857565",
     "geom:latitude":44.857565,
     "geom:longitude":-123.203975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Williams Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404142169,
-    "wof:lastmodified":1449040046,
+    "wof:lastmodified":1466771407,
     "wof:name":"Three Brothers Reforestation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reforestation"
     ]
 },
-  "bbox": [-123.203975,44.857565,-123.203975,44.857565],
+  "bbox": [
+    -123.203975,
+    44.857565,
+    -123.203975,
+    44.857565
+],
   "geometry": {"coordinates":[-123.203975,44.857565],"type":"Point"}
 }

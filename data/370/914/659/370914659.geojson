@@ -2,13 +2,14 @@
   "id": 370914659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.12914,45.203554,-123.12914,45.203554",
     "geom:latitude":45.203554,
     "geom:longitude":-123.12914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10680 SE Loop Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370914659,
-    "wof:lastmodified":1449030376,
+    "wof:lastmodified":1466774747,
     "wof:name":"Sweeney Electric",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.12914,45.203554,-123.12914,45.203554],
-  "geometry": {"coordinates":[-123.12914,45.203554],"type":"Point"}
+  "bbox": [
+    -123.12914,
+    45.203554,
+    -123.12914,
+    45.203554
+],
+  "geometry": {"coordinates":[-123.12914000000001,45.203554],"type":"Point"}
 }

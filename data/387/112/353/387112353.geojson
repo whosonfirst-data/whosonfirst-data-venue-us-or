@@ -2,13 +2,14 @@
   "id": 387112353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.096555,45.326831,-118.096555,45.326831",
     "geom:latitude":45.326831,
     "geom:longitude":-118.096555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 4th St",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387112353,
-    "wof:lastmodified":1449057851,
+    "wof:lastmodified":1466769022,
     "wof:name":"ERA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.096555,45.326831,-118.096555,45.326831],
+  "bbox": [
+    -118.096555,
+    45.326831,
+    -118.096555,
+    45.326831
+],
   "geometry": {"coordinates":[-118.096555,45.326831],"type":"Point"}
 }

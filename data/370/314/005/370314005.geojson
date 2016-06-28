@@ -2,13 +2,14 @@
   "id": 370314005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.876787,42.337894,-122.876787,42.337894",
     "geom:latitude":42.337894,
     "geom:longitude":-122.876787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Niantic St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370314005,
-    "wof:lastmodified":1449032328,
+    "wof:lastmodified":1466770093,
     "wof:name":"3 JS Reforestation",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reforestation"
     ]
 },
-  "bbox": [-122.876787,42.337894,-122.876787,42.337894],
-  "geometry": {"coordinates":[-122.876787,42.337894],"type":"Point"}
+  "bbox": [
+    -122.876787,
+    42.337894,
+    -122.876787,
+    42.337894
+],
+  "geometry": {"coordinates":[-122.87678699999999,42.337894],"type":"Point"}
 }

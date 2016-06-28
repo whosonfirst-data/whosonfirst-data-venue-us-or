@@ -2,13 +2,14 @@
   "id": 370970039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.85468,45.458324,-122.85468,45.458324",
     "geom:latitude":45.458324,
     "geom:longitude":-122.85468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17264 SW Tall Tree Pl",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370970039,
-    "wof:lastmodified":1449032410,
+    "wof:lastmodified":1466775014,
     "wof:name":"West Slope Garbage",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-122.85468,45.458324,-122.85468,45.458324],
+  "bbox": [
+    -122.85468,
+    45.458324,
+    -122.85468,
+    45.458324
+],
   "geometry": {"coordinates":[-122.85468,45.458324],"type":"Point"}
 }

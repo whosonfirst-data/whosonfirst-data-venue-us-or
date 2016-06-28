@@ -2,13 +2,14 @@
   "id": 387124033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806857,45.499706,-122.806857,45.499706",
     "geom:latitude":45.499706,
     "geom:longitude":-122.806857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2648 SW Cedar Hills Blvd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387124033,
-    "wof:lastmodified":1449059624,
+    "wof:lastmodified":1466769253,
     "wof:name":"Loan Mart",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-122.806857,45.499706,-122.806857,45.499706],
-  "geometry": {"coordinates":[-122.806857,45.499706],"type":"Point"}
+  "bbox": [
+    -122.806857,
+    45.499706,
+    -122.806857,
+    45.499706
+],
+  "geometry": {"coordinates":[-122.80685699999999,45.499706],"type":"Point"}
 }

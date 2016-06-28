@@ -2,13 +2,14 @@
   "id": 387862251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844946,45.45123,-123.844946,45.45123",
     "geom:latitude":45.45123,
     "geom:longitude":-123.844946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 10th St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387862251,
-    "wof:lastmodified":1449060006,
+    "wof:lastmodified":1466775183,
     "wof:name":"Tillamook Animal Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-123.844946,45.45123,-123.844946,45.45123],
-  "geometry": {"coordinates":[-123.844946,45.45123],"type":"Point"}
+  "bbox": [
+    -123.844946,
+    45.45123,
+    -123.844946,
+    45.45123
+],
+  "geometry": {"coordinates":[-123.84494599999999,45.45123],"type":"Point"}
 }

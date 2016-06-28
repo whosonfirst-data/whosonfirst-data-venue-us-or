@@ -2,13 +2,14 @@
   "id": 371082109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.794492,44.825999,-122.794492,44.825999",
     "geom:latitude":44.825999,
     "geom:longitude":-122.794492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 S Center St",
     "sg:city":"Sublimity",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371082109,
-    "wof:lastmodified":1449049095,
+    "wof:lastmodified":1466768501,
     "wof:name":"D D Electric Motor Svc",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-122.794492,44.825999,-122.794492,44.825999],
-  "geometry": {"coordinates":[-122.794492,44.825999],"type":"Point"}
+  "bbox": [
+    -122.794492,
+    44.825999,
+    -122.794492,
+    44.825999
+],
+  "geometry": {"coordinates":[-122.79449200000001,44.825999],"type":"Point"}
 }

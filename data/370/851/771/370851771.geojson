@@ -2,13 +2,14 @@
   "id": 370851771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.289167,44.599587,-123.289167,44.599587",
     "geom:latitude":44.599587,
     "geom:longitude":-123.289167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3378 NW Firefern Pl",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370851771,
-    "wof:lastmodified":1449031304,
+    "wof:lastmodified":1466774329,
     "wof:name":"Frederick W Bradley",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.289167,44.599587,-123.289167,44.599587],
-  "geometry": {"coordinates":[-123.289167,44.599587],"type":"Point"}
+  "bbox": [
+    -123.289167,
+    44.599587,
+    -123.289167,
+    44.599587
+],
+  "geometry": {"coordinates":[-123.28916700000001,44.599587],"type":"Point"}
 }

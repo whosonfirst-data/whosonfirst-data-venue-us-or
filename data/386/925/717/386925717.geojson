@@ -2,13 +2,14 @@
   "id": 386925717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.605015,45.527119,-122.605015,45.527119",
     "geom:latitude":45.527119,
     "geom:longitude":-122.605015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5624 NE Hoyt St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386925717,
-    "wof:lastmodified":1449028626,
+    "wof:lastmodified":1466769031,
     "wof:name":"Wood Flooring International",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.605015,45.527119,-122.605015,45.527119],
-  "geometry": {"coordinates":[-122.605015,45.527119],"type":"Point"}
+  "bbox": [
+    -122.605015,
+    45.527119,
+    -122.605015,
+    45.527119
+],
+  "geometry": {"coordinates":[-122.60501499999999,45.527119],"type":"Point"}
 }

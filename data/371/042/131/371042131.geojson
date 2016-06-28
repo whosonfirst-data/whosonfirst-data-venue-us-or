@@ -2,13 +2,14 @@
   "id": 371042131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.681075,45.547634,-122.681075,45.547634",
     "geom:latitude":45.547634,
     "geom:longitude":-122.681075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 N Interstate Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371042131,
-    "wof:lastmodified":1449049833,
+    "wof:lastmodified":1466767845,
     "wof:name":"Northwest Permanente",
     "wof:parent_id":85802599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.681075,45.547634,-122.681075,45.547634],
-  "geometry": {"coordinates":[-122.681075,45.547634],"type":"Point"}
+  "bbox": [
+    -122.681075,
+    45.547634,
+    -122.681075,
+    45.547634
+],
+  "geometry": {"coordinates":[-122.68107500000001,45.547634],"type":"Point"}
 }

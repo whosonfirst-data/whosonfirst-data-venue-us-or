@@ -2,13 +2,14 @@
   "id": 370531645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.274722,44.586322,-123.274722,44.586322",
     "geom:latitude":44.586322,
     "geom:longitude":-123.274722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 NW Circle Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370531645,
-    "wof:lastmodified":1449029891,
+    "wof:lastmodified":1466772559,
     "wof:name":"Circle Church Of Christ",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.274722,44.586322,-123.274722,44.586322],
+  "bbox": [
+    -123.274722,
+    44.586322,
+    -123.274722,
+    44.586322
+],
   "geometry": {"coordinates":[-123.274722,44.586322],"type":"Point"}
 }

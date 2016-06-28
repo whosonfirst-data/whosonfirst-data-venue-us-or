@@ -2,13 +2,14 @@
   "id": 370246573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.821948,45.482796,-122.821948,45.482796",
     "geom:latitude":45.482796,
     "geom:longitude":-122.821948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14170 SW 6th St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370246573,
-    "wof:lastmodified":1449029313,
+    "wof:lastmodified":1466768824,
     "wof:name":"Pressed For Time",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.821948,45.482796,-122.821948,45.482796],
-  "geometry": {"coordinates":[-122.821948,45.482796],"type":"Point"}
+  "bbox": [
+    -122.821948,
+    45.482796,
+    -122.821948,
+    45.482796
+],
+  "geometry": {"coordinates":[-122.82194800000001,45.482796],"type":"Point"}
 }

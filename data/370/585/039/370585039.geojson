@@ -2,13 +2,14 @@
   "id": 370585039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.753886,45.456802,-122.753886,45.456802",
     "geom:latitude":45.456802,
     "geom:longitude":-122.753886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7665 SW Florence Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370585039,
-    "wof:lastmodified":1449031332,
+    "wof:lastmodified":1466772931,
     "wof:name":"Tibor Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.753886,45.456802,-122.753886,45.456802],
-  "geometry": {"coordinates":[-122.753886,45.456802],"type":"Point"}
+  "bbox": [
+    -122.753886,
+    45.456802,
+    -122.753886,
+    45.456802
+],
+  "geometry": {"coordinates":[-122.75388599999999,45.456802],"type":"Point"}
 }

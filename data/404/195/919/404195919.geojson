@@ -2,13 +2,14 @@
   "id": 404195919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.568563,45.540833,-122.568563,45.540833",
     "geom:latitude":45.540833,
     "geom:longitude":-122.568563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2842 NE 92nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404195919,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1466768034,
     "wof:name":"Waldos Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.568563,45.540833,-122.568563,45.540833],
+  "bbox": [
+    -122.568563,
+    45.540833,
+    -122.568563,
+    45.540833
+],
   "geometry": {"coordinates":[-122.568563,45.540833],"type":"Point"}
 }

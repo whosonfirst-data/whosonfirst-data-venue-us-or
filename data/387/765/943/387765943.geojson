@@ -2,13 +2,14 @@
   "id": 387765943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.036633,45.522716,-123.036633,45.522716",
     "geom:latitude":45.522716,
     "geom:longitude":-123.036633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2773 N Clark Ct",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387765943,
-    "wof:lastmodified":1449058302,
+    "wof:lastmodified":1466774863,
     "wof:name":"Alder Plumbing Inc",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.036633,45.522716,-123.036633,45.522716],
-  "geometry": {"coordinates":[-123.036633,45.522716],"type":"Point"}
+  "bbox": [
+    -123.036633,
+    45.522716,
+    -123.036633,
+    45.522716
+],
+  "geometry": {"coordinates":[-123.03663299999999,45.522716],"type":"Point"}
 }

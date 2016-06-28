@@ -2,13 +2,14 @@
   "id": 371048541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806414,45.487097,-122.806414,45.487097",
     "geom:latitude":45.487097,
     "geom:longitude":-122.806414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12620 SW Farmington Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371048541,
-    "wof:lastmodified":1449049369,
+    "wof:lastmodified":1466767955,
     "wof:name":"Hot Box",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-122.806414,45.487097,-122.806414,45.487097],
+  "bbox": [
+    -122.806414,
+    45.487097,
+    -122.806414,
+    45.487097
+],
   "geometry": {"coordinates":[-122.806414,45.487097],"type":"Point"}
 }

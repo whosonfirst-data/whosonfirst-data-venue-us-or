@@ -2,13 +2,14 @@
   "id": 403981509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.153067,43.989819,-123.153067,43.989819",
     "geom:latitude":43.989819,
     "geom:longitude":-123.153067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85780 McBeth Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403981509,
-    "wof:lastmodified":1449055991,
+    "wof:lastmodified":1466768818,
     "wof:name":"Lutheran Church Good Shepherd",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.153067,43.989819,-123.153067,43.989819],
-  "geometry": {"coordinates":[-123.153067,43.989819],"type":"Point"}
+  "bbox": [
+    -123.153067,
+    43.989819,
+    -123.153067,
+    43.989819
+],
+  "geometry": {"coordinates":[-123.15306699999999,43.989819],"type":"Point"}
 }

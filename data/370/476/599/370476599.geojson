@@ -2,13 +2,14 @@
   "id": 370476599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.677669,45.409716,-122.677669,45.409716",
     "geom:latitude":45.409716,
     "geom:longitude":-122.677669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 Maple St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370476599,
-    "wof:lastmodified":1449030455,
+    "wof:lastmodified":1466772078,
     "wof:name":"North American Development",
     "wof:parent_id":85878583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.677669,45.409716,-122.677669,45.409716],
-  "geometry": {"coordinates":[-122.677669,45.409716],"type":"Point"}
+  "bbox": [
+    -122.677669,
+    45.409716,
+    -122.677669,
+    45.409716
+],
+  "geometry": {"coordinates":[-122.67766899999999,45.409716],"type":"Point"}
 }

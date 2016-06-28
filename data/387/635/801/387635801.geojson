@@ -2,13 +2,14 @@
   "id": 387635801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.828562,45.470322,-122.828562,45.470322",
     "geom:latitude":45.470322,
     "geom:longitude":-122.828562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6921 SW Tierra del Mar Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387635801,
-    "wof:lastmodified":1449057757,
+    "wof:lastmodified":1466774124,
     "wof:name":"Steve Redig",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.828562,45.470322,-122.828562,45.470322],
-  "geometry": {"coordinates":[-122.828562,45.470322],"type":"Point"}
+  "bbox": [
+    -122.828562,
+    45.470322,
+    -122.828562,
+    45.470322
+],
+  "geometry": {"coordinates":[-122.82856200000001,45.470322],"type":"Point"}
 }

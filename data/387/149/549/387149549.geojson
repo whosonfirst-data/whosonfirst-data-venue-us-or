@@ -2,13 +2,14 @@
   "id": 387149549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.052109,45.308308,-123.052109,45.308308",
     "geom:latitude":45.308308,
     "geom:longitude":-123.052109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 NE Faircrest Dr",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387149549,
-    "wof:lastmodified":1449056121,
+    "wof:lastmodified":1466769757,
     "wof:name":"JMM",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-123.052109,45.308308,-123.052109,45.308308],
+  "bbox": [
+    -123.052109,
+    45.308308,
+    -123.052109,
+    45.308308
+],
   "geometry": {"coordinates":[-123.052109,45.308308],"type":"Point"}
 }

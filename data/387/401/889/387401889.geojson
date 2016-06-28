@@ -2,13 +2,14 @@
   "id": 387401889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.744048,45.487154,-122.744048,45.487154",
     "geom:latitude":45.487154,
     "geom:longitude":-122.744048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6663 SW Beaverton-Hillsdale Hwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387401889,
-    "wof:lastmodified":1449059363,
+    "wof:lastmodified":1466772722,
     "wof:name":"Stelmen Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drywall"
     ]
 },
-  "bbox": [-122.744048,45.487154,-122.744048,45.487154],
-  "geometry": {"coordinates":[-122.744048,45.487154],"type":"Point"}
+  "bbox": [
+    -122.744048,
+    45.487154,
+    -122.744048,
+    45.487154
+],
+  "geometry": {"coordinates":[-122.74404800000001,45.487154],"type":"Point"}
 }

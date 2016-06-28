@@ -2,13 +2,14 @@
   "id": 370970053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.027619,44.914494,-123.027619,44.914494",
     "geom:latitude":44.914494,
     "geom:longitude":-123.027619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Pringle Rd SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370970053,
-    "wof:lastmodified":1449032407,
+    "wof:lastmodified":1466775015,
     "wof:name":"C W Electric Supply",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-123.027619,44.914494,-123.027619,44.914494],
+  "bbox": [
+    -123.027619,
+    44.914494,
+    -123.027619,
+    44.914494
+],
   "geometry": {"coordinates":[-123.027619,44.914494],"type":"Point"}
 }

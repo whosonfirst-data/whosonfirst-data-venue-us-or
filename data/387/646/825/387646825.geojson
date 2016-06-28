@@ -2,13 +2,14 @@
   "id": 387646825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.960882,45.300295,-122.960882,45.300295",
     "geom:latitude":45.300295,
     "geom:longitude":-122.960882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1556 E 1st St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387646825,
-    "wof:lastmodified":1449056021,
+    "wof:lastmodified":1466774086,
     "wof:name":"Newberg Chiropractic Clinic",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.960882,45.300295,-122.960882,45.300295],
+  "bbox": [
+    -122.960882,
+    45.300295,
+    -122.960882,
+    45.300295
+],
   "geometry": {"coordinates":[-122.960882,45.300295],"type":"Point"}
 }

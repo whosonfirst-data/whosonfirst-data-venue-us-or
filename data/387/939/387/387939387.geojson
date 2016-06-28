@@ -2,13 +2,14 @@
   "id": 387939387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.996882,44.986846,-123.996882,44.986846",
     "geom:latitude":44.986846,
     "geom:longitude":-123.996882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 NE West Devils Lake Rd",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387939387,
-    "wof:lastmodified":1449057217,
+    "wof:lastmodified":1466775517,
     "wof:name":"Samaritan Surgical Clinic",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-123.996882,44.986846,-123.996882,44.986846],
+  "bbox": [
+    -123.996882,
+    44.986846,
+    -123.996882,
+    44.986846
+],
   "geometry": {"coordinates":[-123.996882,44.986846],"type":"Point"}
 }

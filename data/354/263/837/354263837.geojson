@@ -2,13 +2,14 @@
   "id": 354263837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.073423,44.089379,-123.073423,44.089379",
     "geom:latitude":44.089379,
     "geom:longitude":-123.073423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Chuckanut St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354263837,
-    "wof:lastmodified":1449067628,
+    "wof:lastmodified":1466768873,
     "wof:name":"Metal Building Specialists Inc",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "erectors"
     ]
 },
-  "bbox": [-123.073423,44.089379,-123.073423,44.089379],
-  "geometry": {"coordinates":[-123.073423,44.089379],"type":"Point"}
+  "bbox": [
+    -123.073423,
+    44.089379,
+    -123.073423,
+    44.089379
+],
+  "geometry": {"coordinates":[-123.07342300000001,44.089379],"type":"Point"}
 }

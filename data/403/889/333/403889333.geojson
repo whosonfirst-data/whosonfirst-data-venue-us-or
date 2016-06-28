@@ -2,13 +2,14 @@
   "id": 403889333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.083511,45.424053,-123.083511,45.424053",
     "geom:latitude":45.424053,
     "geom:longitude":-123.083511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39391 SW Laurelwood Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403889333,
-    "wof:lastmodified":1449054610,
+    "wof:lastmodified":1466767185,
     "wof:name":"OTD Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.083511,45.424053,-123.083511,45.424053],
+  "bbox": [
+    -123.083511,
+    45.424053,
+    -123.083511,
+    45.424053
+],
   "geometry": {"coordinates":[-123.083511,45.424053],"type":"Point"}
 }

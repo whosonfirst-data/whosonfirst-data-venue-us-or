@@ -2,13 +2,14 @@
   "id": 387190451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.578932,45.54009,-122.578932,45.54009",
     "geom:latitude":45.54009,
     "geom:longitude":-122.578932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 NE 82nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387190451,
-    "wof:lastmodified":1449059678,
+    "wof:lastmodified":1466770588,
     "wof:name":"Thrifty Auto Ctr",
     "wof:parent_id":85822419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-122.578932,45.54009,-122.578932,45.54009],
-  "geometry": {"coordinates":[-122.578932,45.54009],"type":"Point"}
+  "bbox": [
+    -122.578932,
+    45.54009,
+    -122.578932,
+    45.54009
+],
+  "geometry": {"coordinates":[-122.57893199999999,45.54009],"type":"Point"}
 }

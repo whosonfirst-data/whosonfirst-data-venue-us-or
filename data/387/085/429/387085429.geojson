@@ -2,13 +2,14 @@
   "id": 387085429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.088069,45.521421,-123.088069,45.521421",
     "geom:latitude":45.521421,
     "geom:longitude":-123.088069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Oak St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387085429,
-    "wof:lastmodified":1449057057,
+    "wof:lastmodified":1466768567,
     "wof:name":"Grove Assisted Living Facility",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-123.088069,45.521421,-123.088069,45.521421],
+  "bbox": [
+    -123.088069,
+    45.521421,
+    -123.088069,
+    45.521421
+],
   "geometry": {"coordinates":[-123.088069,45.521421],"type":"Point"}
 }

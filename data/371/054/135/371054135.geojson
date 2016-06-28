@@ -2,13 +2,14 @@
   "id": 371054135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.916246,45.523944,-122.916246,45.523944",
     "geom:latitude":45.523944,
     "geom:longitude":-122.916246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23400 NW Oelrich Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371054135,
-    "wof:lastmodified":1449049499,
+    "wof:lastmodified":1466768053,
     "wof:name":"John's Custom Garage Door",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-122.916246,45.523944,-122.916246,45.523944],
+  "bbox": [
+    -122.916246,
+    45.523944,
+    -122.916246,
+    45.523944
+],
   "geometry": {"coordinates":[-122.916246,45.523944],"type":"Point"}
 }

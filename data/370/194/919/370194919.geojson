@@ -2,13 +2,14 @@
   "id": 370194919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.69634,45.261777,-122.69634,45.261777",
     "geom:latitude":45.261777,
     "geom:longitude":-122.69634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 NW 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370194919,
-    "wof:lastmodified":1449031981,
+    "wof:lastmodified":1466767948,
     "wof:name":"Codys Coffee",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-122.69634,45.261777,-122.69634,45.261777],
-  "geometry": {"coordinates":[-122.69634,45.261777],"type":"Point"}
+  "bbox": [
+    -122.69634,
+    45.261777,
+    -122.69634,
+    45.261777
+],
+  "geometry": {"coordinates":[-122.69634000000001,45.261777],"type":"Point"}
 }

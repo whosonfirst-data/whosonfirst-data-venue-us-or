@@ -2,13 +2,14 @@
   "id": 387249239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.844068,42.321025,-122.844068,42.321025",
     "geom:latitude":42.321025,
     "geom:longitude":-122.844068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Siskiyou Blvd",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387249239,
-    "wof:lastmodified":1449056309,
+    "wof:lastmodified":1466771746,
     "wof:name":"Siskiyou Memorial Park",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-122.844068,42.321025,-122.844068,42.321025],
-  "geometry": {"coordinates":[-122.844068,42.321025],"type":"Point"}
+  "bbox": [
+    -122.844068,
+    42.321025,
+    -122.844068,
+    42.321025
+],
+  "geometry": {"coordinates":[-122.84406799999999,42.321025],"type":"Point"}
 }

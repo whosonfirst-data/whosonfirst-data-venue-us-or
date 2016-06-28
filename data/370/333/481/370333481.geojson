@@ -2,13 +2,14 @@
   "id": 370333481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.798882,44.802505,-122.798882,44.802505",
     "geom:latitude":44.802505,
     "geom:longitude":-122.798882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 W Locust St",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370333481,
-    "wof:lastmodified":1449032227,
+    "wof:lastmodified":1466771492,
     "wof:name":"K&K Remodeling Contractors",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "co"
     ]
 },
-  "bbox": [-122.798882,44.802505,-122.798882,44.802505],
-  "geometry": {"coordinates":[-122.798882,44.802505],"type":"Point"}
+  "bbox": [
+    -122.798882,
+    44.802505,
+    -122.798882,
+    44.802505
+],
+  "geometry": {"coordinates":[-122.79888200000001,44.802505],"type":"Point"}
 }

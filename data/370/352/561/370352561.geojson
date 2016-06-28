@@ -2,13 +2,14 @@
   "id": 370352561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.684112,45.510525,-122.684112,45.510525",
     "geom:latitude":45.510525,
     "geom:longitude":-122.684112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 SW Hall St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370352561,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1466770863,
     "wof:name":"Population Research",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.684112,45.510525,-122.684112,45.510525],
+  "bbox": [
+    -122.684112,
+    45.510525,
+    -122.684112,
+    45.510525
+],
   "geometry": {"coordinates":[-122.684112,45.510525],"type":"Point"}
 }

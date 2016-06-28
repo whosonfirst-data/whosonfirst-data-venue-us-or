@@ -2,13 +2,14 @@
   "id": 387940155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151728,44.047946,-123.151728,44.047946",
     "geom:latitude":44.047946,
     "geom:longitude":-123.151728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387940155,
-    "wof:lastmodified":1449057032,
+    "wof:lastmodified":1466775429,
     "wof:name":"Teaching Strategies",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "educational"
     ]
 },
-  "bbox": [-123.151728,44.047946,-123.151728,44.047946],
-  "geometry": {"coordinates":[-123.151728,44.047946],"type":"Point"}
+  "bbox": [
+    -123.151728,
+    44.047946,
+    -123.151728,
+    44.047946
+],
+  "geometry": {"coordinates":[-123.15172800000001,44.047946],"type":"Point"}
 }

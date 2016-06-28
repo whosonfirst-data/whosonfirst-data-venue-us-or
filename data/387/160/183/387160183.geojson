@@ -2,13 +2,14 @@
   "id": 387160183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.028511,44.978127,-123.028511,44.978127",
     "geom:latitude":44.978127,
     "geom:longitude":-123.028511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Glynbrook St N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387160183,
-    "wof:lastmodified":1449059323,
+    "wof:lastmodified":1466769968,
     "wof:name":"Glynbrook Estates",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.028511,44.978127,-123.028511,44.978127],
-  "geometry": {"coordinates":[-123.028511,44.978127],"type":"Point"}
+  "bbox": [
+    -123.028511,
+    44.978127,
+    -123.028511,
+    44.978127
+],
+  "geometry": {"coordinates":[-123.02851099999999,44.978127],"type":"Point"}
 }

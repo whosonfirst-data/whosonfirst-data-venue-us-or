@@ -2,13 +2,14 @@
   "id": 387631385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.249953,44.253729,-123.249953,44.253729",
     "geom:latitude":44.253729,
     "geom:longitude":-123.249953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96565 Hulbert Lake Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387631385,
-    "wof:lastmodified":1449057275,
+    "wof:lastmodified":1466774003,
     "wof:name":"Whisper N Oaks",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-123.249953,44.253729,-123.249953,44.253729],
+  "bbox": [
+    -123.249953,
+    44.253729,
+    -123.249953,
+    44.253729
+],
   "geometry": {"coordinates":[-123.249953,44.253729],"type":"Point"}
 }

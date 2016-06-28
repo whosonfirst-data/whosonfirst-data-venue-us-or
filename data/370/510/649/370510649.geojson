@@ -2,13 +2,14 @@
   "id": 370510649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.865727,45.55505,-122.865727,45.55505",
     "geom:latitude":45.55505,
     "geom:longitude":-122.865727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 NW Shaniko Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370510649,
-    "wof:lastmodified":1449031119,
+    "wof:lastmodified":1466772259,
     "wof:name":"BJ & Jaacks Development Inc",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.865727,45.55505,-122.865727,45.55505],
-  "geometry": {"coordinates":[-122.865727,45.55505],"type":"Point"}
+  "bbox": [
+    -122.865727,
+    45.55505,
+    -122.865727,
+    45.55505
+],
+  "geometry": {"coordinates":[-122.86572700000001,45.55505],"type":"Point"}
 }

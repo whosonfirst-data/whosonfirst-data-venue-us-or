@@ -2,13 +2,14 @@
   "id": 387346155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.33545,42.442843,-123.33545,42.442843",
     "geom:latitude":42.442843,
     "geom:longitude":-123.33545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 NW F St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387346155,
-    "wof:lastmodified":1449056093,
+    "wof:lastmodified":1466772221,
     "wof:name":"Cover Up Upholstery LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-123.33545,42.442843,-123.33545,42.442843],
-  "geometry": {"coordinates":[-123.33545,42.442843],"type":"Point"}
+  "bbox": [
+    -123.33545,
+    42.442843,
+    -123.33545,
+    42.442843
+],
+  "geometry": {"coordinates":[-123.33544999999999,42.442843],"type":"Point"}
 }

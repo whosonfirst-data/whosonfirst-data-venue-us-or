@@ -2,13 +2,14 @@
   "id": 370480979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.733111,45.446713,-122.733111,45.446713",
     "geom:latitude":45.446713,
     "geom:longitude":-122.733111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 SW Comus St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370480979,
-    "wof:lastmodified":1449030198,
+    "wof:lastmodified":1466772338,
     "wof:name":"Cascade Honey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "animal"
     ]
 },
-  "bbox": [-122.733111,45.446713,-122.733111,45.446713],
-  "geometry": {"coordinates":[-122.733111,45.446713],"type":"Point"}
+  "bbox": [
+    -122.733111,
+    45.446713,
+    -122.733111,
+    45.446713
+],
+  "geometry": {"coordinates":[-122.73311099999999,45.446713],"type":"Point"}
 }

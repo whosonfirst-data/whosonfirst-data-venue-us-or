@@ -2,13 +2,14 @@
   "id": 387503137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.970566,45.303566,-122.970566,45.303566",
     "geom:latitude":45.303566,
     "geom:longitude":-122.970566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Meridian St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387503137,
-    "wof:lastmodified":1449059931,
+    "wof:lastmodified":1466773353,
     "wof:name":"University House-Newberg B & B",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-122.970566,45.303566,-122.970566,45.303566],
-  "geometry": {"coordinates":[-122.970566,45.303566],"type":"Point"}
+  "bbox": [
+    -122.970566,
+    45.303566,
+    -122.970566,
+    45.303566
+],
+  "geometry": {"coordinates":[-122.97056600000001,45.303566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387217213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.074384,44.905544,-123.074384,44.905544",
     "geom:latitude":44.905544,
     "geom:longitude":-123.074384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3493 Aldous Ave S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387217213,
-    "wof:lastmodified":1449059690,
+    "wof:lastmodified":1466771149,
     "wof:name":"High Desert Systems",
     "wof:parent_id":85880599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-123.074384,44.905544,-123.074384,44.905544],
-  "geometry": {"coordinates":[-123.074384,44.905544],"type":"Point"}
+  "bbox": [
+    -123.074384,
+    44.905544,
+    -123.074384,
+    44.905544
+],
+  "geometry": {"coordinates":[-123.07438399999999,44.905544],"type":"Point"}
 }

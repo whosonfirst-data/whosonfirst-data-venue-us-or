@@ -2,13 +2,14 @@
   "id": 403801103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.950741,44.408656,-118.950741,44.408656",
     "geom:latitude":44.408656,
     "geom:longitude":-118.950741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Canyon Blvd",
     "sg:city":"John Day",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403801103,
-    "wof:lastmodified":1449055742,
+    "wof:lastmodified":1466769647,
     "wof:name":"Bible Way Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-118.950741,44.408656,-118.950741,44.408656],
-  "geometry": {"coordinates":[-118.950741,44.408656],"type":"Point"}
+  "bbox": [
+    -118.950741,
+    44.408656,
+    -118.950741,
+    44.408656
+],
+  "geometry": {"coordinates":[-118.95074099999999,44.408656],"type":"Point"}
 }

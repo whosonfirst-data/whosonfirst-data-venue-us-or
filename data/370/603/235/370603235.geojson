@@ -2,13 +2,14 @@
   "id": 370603235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.010209,44.911251,-123.010209,44.911251",
     "geom:latitude":44.911251,
     "geom:longitude":-123.010209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 25th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370603235,
-    "wof:lastmodified":1449031942,
+    "wof:lastmodified":1466772913,
     "wof:name":"Hut Airport Shuttle",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-123.010209,44.911251,-123.010209,44.911251],
+  "bbox": [
+    -123.010209,
+    44.911251,
+    -123.010209,
+    44.911251
+],
   "geometry": {"coordinates":[-123.010209,44.911251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371017113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.089577,45.176016,-123.089577,45.176016",
     "geom:latitude":45.176016,
     "geom:longitude":-123.089577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11465 SE Webfoot Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371017113,
-    "wof:lastmodified":1449049606,
+    "wof:lastmodified":1466767429,
     "wof:name":"May Family Farms",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.089577,45.176016,-123.089577,45.176016],
-  "geometry": {"coordinates":[-123.089577,45.176016],"type":"Point"}
+  "bbox": [
+    -123.089577,
+    45.176016,
+    -123.089577,
+    45.176016
+],
+  "geometry": {"coordinates":[-123.08957700000001,45.176016],"type":"Point"}
 }

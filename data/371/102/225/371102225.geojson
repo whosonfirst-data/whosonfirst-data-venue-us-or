@@ -2,13 +2,14 @@
   "id": 371102225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.323737,43.344923,-124.323737,43.344923",
     "geom:latitude":43.344923,
     "geom:longitude":-124.323737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 Kingfisher Dr",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371102225,
-    "wof:lastmodified":1449050074,
+    "wof:lastmodified":1466768832,
     "wof:name":"US Post Office",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-124.323737,43.344923,-124.323737,43.344923],
-  "geometry": {"coordinates":[-124.323737,43.344923],"type":"Point"}
+  "bbox": [
+    -124.323737,
+    43.344923,
+    -124.323737,
+    43.344923
+],
+  "geometry": {"coordinates":[-124.32373699999999,43.344923],"type":"Point"}
 }

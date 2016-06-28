@@ -2,13 +2,14 @@
   "id": 404111519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.945016,44.910202,-122.945016,44.910202",
     "geom:latitude":44.910202,
     "geom:longitude":-122.945016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5960 Culver Dr SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404111519,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466770818,
     "wof:name":"Cordon Bleu Stables",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-122.945016,44.910202,-122.945016,44.910202],
+  "bbox": [
+    -122.945016,
+    44.910202,
+    -122.945016,
+    44.910202
+],
   "geometry": {"coordinates":[-122.945016,44.910202],"type":"Point"}
 }

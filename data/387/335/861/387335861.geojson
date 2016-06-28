@@ -2,13 +2,14 @@
   "id": 387335861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101903,45.451547,-123.101903,45.451547",
     "geom:latitude":45.451547,
     "geom:longitude":-123.101903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40789 SW Hummingbird Ln",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387335861,
-    "wof:lastmodified":1449058622,
+    "wof:lastmodified":1466772143,
     "wof:name":"Art Springs",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.101903,45.451547,-123.101903,45.451547],
-  "geometry": {"coordinates":[-123.101903,45.451547],"type":"Point"}
+  "bbox": [
+    -123.101903,
+    45.451547,
+    -123.101903,
+    45.451547
+],
+  "geometry": {"coordinates":[-123.10190299999999,45.451547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387785775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.357811,42.434361,-123.357811,42.434361",
     "geom:latitude":42.434361,
     "geom:longitude":-123.357811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Rogue Lea Ln",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387785775,
-    "wof:lastmodified":1449059273,
+    "wof:lastmodified":1466774839,
     "wof:name":"American Housekeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-123.357811,42.434361,-123.357811,42.434361],
+  "bbox": [
+    -123.357811,
+    42.434361,
+    -123.357811,
+    42.434361
+],
   "geometry": {"coordinates":[-123.357811,42.434361],"type":"Point"}
 }

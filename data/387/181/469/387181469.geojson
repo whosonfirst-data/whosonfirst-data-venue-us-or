@@ -2,13 +2,14 @@
   "id": 387181469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.819548,45.858924,-122.819548,45.858924",
     "geom:latitude":45.858924,
     "geom:longitude":-122.819548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Columbia Blvd",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387181469,
-    "wof:lastmodified":1449058441,
+    "wof:lastmodified":1466770402,
     "wof:name":"Mailboxes Northwest",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-122.819548,45.858924,-122.819548,45.858924],
+  "bbox": [
+    -122.819548,
+    45.858924,
+    -122.819548,
+    45.858924
+],
   "geometry": {"coordinates":[-122.819548,45.858924],"type":"Point"}
 }

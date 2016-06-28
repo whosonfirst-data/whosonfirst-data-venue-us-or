@@ -2,13 +2,14 @@
   "id": 387388383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.94289,45.485787,-117.94289,45.485787",
     "geom:latitude":45.485787,
     "geom:longitude":-117.94289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66769 Hibberd Rd",
     "sg:city":"Imbler",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387388383,
-    "wof:lastmodified":1449056262,
+    "wof:lastmodified":1466772508,
     "wof:name":"Hibberds Hornless Herefords",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-117.94289,45.485787,-117.94289,45.485787],
-  "geometry": {"coordinates":[-117.94289,45.485787],"type":"Point"}
+  "bbox": [
+    -117.94289,
+    45.485787,
+    -117.94289,
+    45.485787
+],
+  "geometry": {"coordinates":[-117.94289000000001,45.485787],"type":"Point"}
 }

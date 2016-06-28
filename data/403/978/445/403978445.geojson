@@ -2,13 +2,14 @@
   "id": 403978445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.990614,44.00919,-116.990614,44.00919",
     "geom:latitude":44.00919,
     "geom:longitude":-116.990614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Laurel Dr",
     "sg:city":"Ontario",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403978445,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1466768767,
     "wof:name":"S & S Yard Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.990614,44.00919,-116.990614,44.00919],
-  "geometry": {"coordinates":[-116.990614,44.00919],"type":"Point"}
+  "bbox": [
+    -116.990614,
+    44.00919,
+    -116.990614,
+    44.00919
+],
+  "geometry": {"coordinates":[-116.99061399999999,44.00919],"type":"Point"}
 }

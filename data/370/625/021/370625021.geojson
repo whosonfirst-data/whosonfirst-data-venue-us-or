@@ -2,13 +2,14 @@
   "id": 370625021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.938396,45.512115,-122.938396,45.512115",
     "geom:latitude":45.512115,
     "geom:longitude":-122.938396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4254 SE Bentley St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370625021,
-    "wof:lastmodified":1449032533,
+    "wof:lastmodified":1466773256,
     "wof:name":"Turn-Key Solutions",
     "wof:parent_id":85836887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.938396,45.512115,-122.938396,45.512115],
+  "bbox": [
+    -122.938396,
+    45.512115,
+    -122.938396,
+    45.512115
+],
   "geometry": {"coordinates":[-122.938396,45.512115],"type":"Point"}
 }

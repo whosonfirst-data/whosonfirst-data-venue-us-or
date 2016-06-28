@@ -2,13 +2,14 @@
   "id": 387588541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.647742,45.517822,-122.647742,45.517822",
     "geom:latitude":45.517822,
     "geom:longitude":-122.647742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 SE Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387588541,
-    "wof:lastmodified":1449059166,
+    "wof:lastmodified":1466773753,
     "wof:name":"Moore Remodeling",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.647742,45.517822,-122.647742,45.517822],
-  "geometry": {"coordinates":[-122.647742,45.517822],"type":"Point"}
+  "bbox": [
+    -122.647742,
+    45.517822,
+    -122.647742,
+    45.517822
+],
+  "geometry": {"coordinates":[-122.64774199999999,45.517822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403905667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.86607,45.545297,-122.86607,45.545297",
     "geom:latitude":45.545297,
     "geom:longitude":-122.86607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3685 NW 183rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403905667,
-    "wof:lastmodified":1449055164,
+    "wof:lastmodified":1466767461,
     "wof:name":"Provider Advantage",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-122.86607,45.545297,-122.86607,45.545297],
-  "geometry": {"coordinates":[-122.86607,45.545297],"type":"Point"}
+  "bbox": [
+    -122.86607,
+    45.545297,
+    -122.86607,
+    45.545297
+],
+  "geometry": {"coordinates":[-122.86606999999999,45.545297],"type":"Point"}
 }

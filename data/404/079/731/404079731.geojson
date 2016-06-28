@@ -2,13 +2,14 @@
   "id": 404079731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.809694,44.797095,-122.809694,44.797095",
     "geom:latitude":44.797095,
     "geom:longitude":-122.809694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 W Ida St",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404079731,
-    "wof:lastmodified":1449040115,
+    "wof:lastmodified":1466769929,
     "wof:name":"Tabor Construction",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.809694,44.797095,-122.809694,44.797095],
-  "geometry": {"coordinates":[-122.809694,44.797095],"type":"Point"}
+  "bbox": [
+    -122.809694,
+    44.797095,
+    -122.809694,
+    44.797095
+],
+  "geometry": {"coordinates":[-122.80969399999999,44.797095],"type":"Point"}
 }

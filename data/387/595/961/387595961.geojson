@@ -2,13 +2,14 @@
   "id": 387595961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.979235,45.105098,-123.979235,45.105098",
     "geom:latitude":45.105098,
     "geom:longitude":-123.979235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48480 US Hwy 101",
     "sg:city":"Neskowin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387595961,
-    "wof:lastmodified":1449059550,
+    "wof:lastmodified":1466773910,
     "wof:name":"Hawk Creek Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-123.979235,45.105098,-123.979235,45.105098],
+  "bbox": [
+    -123.979235,
+    45.105098,
+    -123.979235,
+    45.105098
+],
   "geometry": {"coordinates":[-123.979235,45.105098],"type":"Point"}
 }

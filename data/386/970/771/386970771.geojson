@@ -2,13 +2,14 @@
   "id": 386970771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.512237,45.708928,-121.512237,45.708928",
     "geom:latitude":45.708928,
     "geom:longitude":-121.512237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Oak St",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386970771,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1466767373,
     "wof:name":"Columbia Gorge Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-121.512237,45.708928,-121.512237,45.708928],
+  "bbox": [
+    -121.512237,
+    45.708928,
+    -121.512237,
+    45.708928
+],
   "geometry": {"coordinates":[-121.512237,45.708928],"type":"Point"}
 }

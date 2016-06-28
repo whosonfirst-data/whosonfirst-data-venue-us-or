@@ -2,13 +2,14 @@
   "id": 370742179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.822978,45.77053,-122.822978,45.77053",
     "geom:latitude":45.77053,
     "geom:longitude":-122.822978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53466 E Honeyman Rd",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370742179,
-    "wof:lastmodified":1449029307,
+    "wof:lastmodified":1466773759,
     "wof:name":"Scappoose Drainage Imprv Co",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drainage"
     ]
 },
-  "bbox": [-122.822978,45.77053,-122.822978,45.77053],
-  "geometry": {"coordinates":[-122.822978,45.77053],"type":"Point"}
+  "bbox": [
+    -122.822978,
+    45.77053,
+    -122.822978,
+    45.77053
+],
+  "geometry": {"coordinates":[-122.82297800000001,45.77053],"type":"Point"}
 }

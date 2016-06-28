@@ -2,13 +2,14 @@
   "id": 370645675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.189109,43.363025,-124.189109,43.363025",
     "geom:latitude":43.363025,
     "geom:longitude":-124.189109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 10th Ave",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370645675,
-    "wof:lastmodified":1449029426,
+    "wof:lastmodified":1466773276,
     "wof:name":"ABC Construction",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-124.189109,43.363025,-124.189109,43.363025],
+  "bbox": [
+    -124.189109,
+    43.363025,
+    -124.189109,
+    43.363025
+],
   "geometry": {"coordinates":[-124.189109,43.363025],"type":"Point"}
 }

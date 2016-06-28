@@ -2,13 +2,14 @@
   "id": 370739131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.541171,45.3085,-122.541171,45.3085",
     "geom:latitude":45.3085,
     "geom:longitude":-122.541171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15815 S Wilshire Cir",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370739131,
-    "wof:lastmodified":1449030512,
+    "wof:lastmodified":1466773635,
     "wof:name":"MGM Graphics Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-122.541171,45.3085,-122.541171,45.3085],
-  "geometry": {"coordinates":[-122.541171,45.3085],"type":"Point"}
+  "bbox": [
+    -122.541171,
+    45.3085,
+    -122.541171,
+    45.3085
+],
+  "geometry": {"coordinates":[-122.54117100000001,45.3085],"type":"Point"}
 }

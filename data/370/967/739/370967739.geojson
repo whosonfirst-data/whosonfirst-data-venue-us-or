@@ -2,13 +2,14 @@
   "id": 370967739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97056,45.307397,-122.97056,45.307397",
     "geom:latitude":45.307397,
     "geom:longitude":-122.97056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Meridian St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370967739,
-    "wof:lastmodified":1449032214,
+    "wof:lastmodified":1466775001,
     "wof:name":"Doran Automotive Inc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-122.97056,45.307397,-122.97056,45.307397],
-  "geometry": {"coordinates":[-122.97056,45.307397],"type":"Point"}
+  "bbox": [
+    -122.97056,
+    45.307397,
+    -122.97056,
+    45.307397
+],
+  "geometry": {"coordinates":[-122.97056000000001,45.307397],"type":"Point"}
 }

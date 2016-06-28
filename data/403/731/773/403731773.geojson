@@ -2,13 +2,14 @@
   "id": 403731773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.477147,45.524874,-122.477147,45.524874",
     "geom:latitude":45.524874,
     "geom:longitude":-122.477147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 NE 181st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403731773,
-    "wof:lastmodified":1449055816,
+    "wof:lastmodified":1466768504,
     "wof:name":"Sally's Embroidery",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-122.477147,45.524874,-122.477147,45.524874],
+  "bbox": [
+    -122.477147,
+    45.524874,
+    -122.477147,
+    45.524874
+],
   "geometry": {"coordinates":[-122.477147,45.524874],"type":"Point"}
 }

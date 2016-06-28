@@ -2,13 +2,14 @@
   "id": 371073981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.060415,44.040353,-123.060415,44.040353",
     "geom:latitude":44.040353,
     "geom:longitude":-123.060415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Sunset Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371073981,
-    "wof:lastmodified":1449049169,
+    "wof:lastmodified":1466768366,
     "wof:name":"Betsy Hardinger Editorial Serv",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.060415,44.040353,-123.060415,44.040353],
-  "geometry": {"coordinates":[-123.060415,44.040353],"type":"Point"}
+  "bbox": [
+    -123.060415,
+    44.040353,
+    -123.060415,
+    44.040353
+],
+  "geometry": {"coordinates":[-123.06041500000001,44.040353],"type":"Point"}
 }

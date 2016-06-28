@@ -2,13 +2,14 @@
   "id": 387754319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.218012,44.563961,-123.218012,44.563961",
     "geom:latitude":44.563961,
     "geom:longitude":-123.218012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29342 Hwy 34",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387754319,
-    "wof:lastmodified":1449058603,
+    "wof:lastmodified":1466774802,
     "wof:name":"Jim's Fruit Stand",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-123.218012,44.563961,-123.218012,44.563961],
+  "bbox": [
+    -123.218012,
+    44.563961,
+    -123.218012,
+    44.563961
+],
   "geometry": {"coordinates":[-123.218012,44.563961],"type":"Point"}
 }

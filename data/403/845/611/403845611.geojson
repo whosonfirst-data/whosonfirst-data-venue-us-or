@@ -2,13 +2,14 @@
   "id": 403845611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.305293,45.835032,-119.305293,45.835032",
     "geom:latitude":45.835032,
     "geom:longitude":-119.305293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 W Highland Ave",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403845611,
-    "wof:lastmodified":1449054849,
+    "wof:lastmodified":1466770698,
     "wof:name":"Gourmet Village Inc",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.305293,45.835032,-119.305293,45.835032],
-  "geometry": {"coordinates":[-119.305293,45.835032],"type":"Point"}
+  "bbox": [
+    -119.305293,
+    45.835032,
+    -119.305293,
+    45.835032
+],
+  "geometry": {"coordinates":[-119.30529300000001,45.835032],"type":"Point"}
 }

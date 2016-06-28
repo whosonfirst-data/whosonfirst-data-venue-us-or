@@ -2,13 +2,14 @@
   "id": 370458983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.494897,45.545962,-122.494897,45.545962",
     "geom:latitude":45.545962,
     "geom:longitude":-122.494897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16312 NE Fargo St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370458983,
-    "wof:lastmodified":1449031500,
+    "wof:lastmodified":1466771916,
     "wof:name":"Northwest Heating & Cooling",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.494897,45.545962,-122.494897,45.545962],
-  "geometry": {"coordinates":[-122.494897,45.545962],"type":"Point"}
+  "bbox": [
+    -122.494897,
+    45.545962,
+    -122.494897,
+    45.545962
+],
+  "geometry": {"coordinates":[-122.49489699999999,45.545962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404064823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.558441,45.51403,-122.558441,45.51403",
     "geom:latitude":45.51403,
     "geom:longitude":-122.558441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404064823,
-    "wof:lastmodified":1449039449,
+    "wof:lastmodified":1466769617,
     "wof:name":"Robert J Swanberg DMD",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.558441,45.51403,-122.558441,45.51403],
+  "bbox": [
+    -122.558441,
+    45.51403,
+    -122.558441,
+    45.51403
+],
   "geometry": {"coordinates":[-122.558441,45.51403],"type":"Point"}
 }

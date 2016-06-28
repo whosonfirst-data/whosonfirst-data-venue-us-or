@@ -2,13 +2,14 @@
   "id": 370779299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.868012,45.096186,-122.868012,45.096186",
     "geom:latitude":45.096186,
     "geom:longitude":-122.868012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12089 Howell Prairie Rd NE",
     "sg:city":"Gervais",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370779299,
-    "wof:lastmodified":1449029608,
+    "wof:lastmodified":1466773890,
     "wof:name":"MKI Enterprises",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-122.868012,45.096186,-122.868012,45.096186],
-  "geometry": {"coordinates":[-122.868012,45.096186],"type":"Point"}
+  "bbox": [
+    -122.868012,
+    45.096186,
+    -122.868012,
+    45.096186
+],
+  "geometry": {"coordinates":[-122.86801199999999,45.096186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354405385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.729304,45.458393,-122.729304,45.458393",
     "geom:latitude":45.458393,
     "geom:longitude":-122.729304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9326 SW 51st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354405385,
-    "wof:lastmodified":1449067520,
+    "wof:lastmodified":1466771400,
     "wof:name":"Data Organization Group",
     "wof:parent_id":85856197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.729304,45.458393,-122.729304,45.458393],
+  "bbox": [
+    -122.729304,
+    45.458393,
+    -122.729304,
+    45.458393
+],
   "geometry": {"coordinates":[-122.729304,45.458393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403891439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.273721,44.568247,-123.273721,44.568247",
     "geom:latitude":44.568247,
     "geom:longitude":-123.273721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 NW 16th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403891439,
-    "wof:lastmodified":1449055460,
+    "wof:lastmodified":1466767222,
     "wof:name":"Corvallis Plaza",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.273721,44.568247,-123.273721,44.568247],
-  "geometry": {"coordinates":[-123.273721,44.568247],"type":"Point"}
+  "bbox": [
+    -123.273721,
+    44.568247,
+    -123.273721,
+    44.568247
+],
+  "geometry": {"coordinates":[-123.27372099999999,44.568247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387005545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.009637,43.994894,-123.009637,43.994894",
     "geom:latitude":43.994894,
     "geom:longitude":-123.009637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34005 B St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387005545,
-    "wof:lastmodified":1449059608,
+    "wof:lastmodified":1466767221,
     "wof:name":"BBC Commercial Services Inc",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.009637,43.994894,-123.009637,43.994894],
+  "bbox": [
+    -123.009637,
+    43.994894,
+    -123.009637,
+    43.994894
+],
   "geometry": {"coordinates":[-123.009637,43.994894],"type":"Point"}
 }

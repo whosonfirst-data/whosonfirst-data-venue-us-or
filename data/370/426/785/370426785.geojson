@@ -2,13 +2,14 @@
   "id": 370426785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.805934,45.47908,-122.805934,45.47908",
     "geom:latitude":45.47908,
     "geom:longitude":-122.805934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 SW Watson Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370426785,
-    "wof:lastmodified":1449029819,
+    "wof:lastmodified":1466771714,
     "wof:name":"Tom's Taxidermy",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-122.805934,45.47908,-122.805934,45.47908],
-  "geometry": {"coordinates":[-122.805934,45.47908],"type":"Point"}
+  "bbox": [
+    -122.805934,
+    45.47908,
+    -122.805934,
+    45.47908
+],
+  "geometry": {"coordinates":[-122.80593399999999,45.47908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387178429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.643414,45.567849,-122.643414,45.567849",
     "geom:latitude":45.567849,
     "geom:longitude":-122.643414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6120 NE 22nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387178429,
-    "wof:lastmodified":1449058840,
+    "wof:lastmodified":1466770339,
     "wof:name":"Antica Terra",
     "wof:parent_id":85868949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-122.643414,45.567849,-122.643414,45.567849],
-  "geometry": {"coordinates":[-122.643414,45.567849],"type":"Point"}
+  "bbox": [
+    -122.643414,
+    45.567849,
+    -122.643414,
+    45.567849
+],
+  "geometry": {"coordinates":[-122.64341400000001,45.567849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403911075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.528812,45.559864,-122.528812,45.559864",
     "geom:latitude":45.559864,
     "geom:longitude":-122.528812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13122 NE David Cir",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403911075,
-    "wof:lastmodified":1449055756,
+    "wof:lastmodified":1466767551,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-122.528812,45.559864,-122.528812,45.559864],
+  "bbox": [
+    -122.528812,
+    45.559864,
+    -122.528812,
+    45.559864
+],
   "geometry": {"coordinates":[-122.528812,45.559864],"type":"Point"}
 }

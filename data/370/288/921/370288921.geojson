@@ -2,13 +2,14 @@
   "id": 370288921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537501,45.542825,-122.537501,45.542825",
     "geom:latitude":45.542825,
     "geom:longitude":-122.537501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12105 NE Stanton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370288921,
-    "wof:lastmodified":1449029445,
+    "wof:lastmodified":1466769619,
     "wof:name":"Grieve Doug Grnteed HM Extrors",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.537501,45.542825,-122.537501,45.542825],
-  "geometry": {"coordinates":[-122.537501,45.542825],"type":"Point"}
+  "bbox": [
+    -122.537501,
+    45.542825,
+    -122.537501,
+    45.542825
+],
+  "geometry": {"coordinates":[-122.53750100000001,45.542825],"type":"Point"}
 }

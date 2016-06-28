@@ -2,13 +2,14 @@
   "id": 403975747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.342999,43.209247,-123.342999,43.209247",
     "geom:latitude":43.209247,
     "geom:longitude":-123.342999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 SE Main St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403975747,
-    "wof:lastmodified":1449055782,
+    "wof:lastmodified":1466768721,
     "wof:name":"Southbound Sound & Music",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.342999,43.209247,-123.342999,43.209247],
-  "geometry": {"coordinates":[-123.342999,43.209247],"type":"Point"}
+  "bbox": [
+    -123.342999,
+    43.209247,
+    -123.342999,
+    43.209247
+],
+  "geometry": {"coordinates":[-123.34299900000001,43.209247],"type":"Point"}
 }

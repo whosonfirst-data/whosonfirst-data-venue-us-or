@@ -2,13 +2,14 @@
   "id": 387821013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111765,45.243333,-123.111765,45.243333",
     "geom:latitude":45.243333,
     "geom:longitude":-123.111765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 3rd St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387821013,
-    "wof:lastmodified":1449058185,
+    "wof:lastmodified":1466775007,
     "wof:name":"American Vehicle Resource",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.111765,45.243333,-123.111765,45.243333],
-  "geometry": {"coordinates":[-123.111765,45.243333],"type":"Point"}
+  "bbox": [
+    -123.111765,
+    45.243333,
+    -123.111765,
+    45.243333
+],
+  "geometry": {"coordinates":[-123.11176500000001,45.243333],"type":"Point"}
 }

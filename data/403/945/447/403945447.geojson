@@ -2,13 +2,14 @@
   "id": 403945447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.897781,45.108449,-122.897781,45.108449",
     "geom:latitude":45.108449,
     "geom:longitude":-122.897781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 4th St",
     "sg:city":"Gervais",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403945447,
-    "wof:lastmodified":1449054747,
+    "wof:lastmodified":1466768175,
     "wof:name":"Gervais Barber & Style Shop",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.897781,45.108449,-122.897781,45.108449],
-  "geometry": {"coordinates":[-122.897781,45.108449],"type":"Point"}
+  "bbox": [
+    -122.897781,
+    45.108449,
+    -122.897781,
+    45.108449
+],
+  "geometry": {"coordinates":[-122.89778099999999,45.108449],"type":"Point"}
 }

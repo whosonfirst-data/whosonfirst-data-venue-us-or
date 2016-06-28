@@ -2,13 +2,14 @@
   "id": 354255143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.613603,45.52659,-122.613603,45.52659",
     "geom:latitude":45.52659,
     "geom:longitude":-122.613603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354255143,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466768745,
     "wof:name":"Providence Outpatient Ntrtn",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weight"
     ]
 },
-  "bbox": [-122.613603,45.52659,-122.613603,45.52659],
+  "bbox": [
+    -122.613603,
+    45.52659,
+    -122.613603,
+    45.52659
+],
   "geometry": {"coordinates":[-122.613603,45.52659],"type":"Point"}
 }

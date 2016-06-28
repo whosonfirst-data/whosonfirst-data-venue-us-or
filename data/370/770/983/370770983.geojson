@@ -2,13 +2,14 @@
   "id": 370770983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.673976,45.497355,-122.673976,45.497355",
     "geom:latitude":45.497355,
     "geom:longitude":-122.673976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 SW Hood Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370770983,
-    "wof:lastmodified":1449032545,
+    "wof:lastmodified":1466773816,
     "wof:name":"Baugh Appraisal",
     "wof:parent_id":85849969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-122.673976,45.497355,-122.673976,45.497355],
+  "bbox": [
+    -122.673976,
+    45.497355,
+    -122.673976,
+    45.497355
+],
   "geometry": {"coordinates":[-122.673976,45.497355],"type":"Point"}
 }

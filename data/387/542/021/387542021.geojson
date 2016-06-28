@@ -2,13 +2,14 @@
   "id": 387542021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.596565,45.347629,-122.596565,45.347629",
     "geom:latitude":45.347629,
     "geom:longitude":-122.596565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Molalla Ave",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387542021,
-    "wof:lastmodified":1449059058,
+    "wof:lastmodified":1466773664,
     "wof:name":"North Willamette Radiologists",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.596565,45.347629,-122.596565,45.347629],
+  "bbox": [
+    -122.596565,
+    45.347629,
+    -122.596565,
+    45.347629
+],
   "geometry": {"coordinates":[-122.596565,45.347629],"type":"Point"}
 }

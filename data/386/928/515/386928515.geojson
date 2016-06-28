@@ -2,13 +2,14 @@
   "id": 386928515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.68229,45.525569,-122.68229,45.525569",
     "geom:latitude":45.525569,
     "geom:longitude":-122.68229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 NW 11th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386928515,
-    "wof:lastmodified":1449028908,
+    "wof:lastmodified":1466767139,
     "wof:name":"Lanier Brugh Corp",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-122.68229,45.525569,-122.68229,45.525569],
-  "geometry": {"coordinates":[-122.68229,45.525569],"type":"Point"}
+  "bbox": [
+    -122.68229,
+    45.525569,
+    -122.68229,
+    45.525569
+],
+  "geometry": {"coordinates":[-122.68228999999999,45.525569],"type":"Point"}
 }

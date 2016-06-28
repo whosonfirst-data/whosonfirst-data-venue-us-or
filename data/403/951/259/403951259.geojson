@@ -2,13 +2,14 @@
   "id": 403951259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.348578,45.522619,-122.348578,45.522619",
     "geom:latitude":45.522619,
     "geom:longitude":-122.348578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30600 NE Springhill Rd",
     "sg:city":"Troutdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403951259,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466768279,
     "wof:name":"Bill Booker Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.348578,45.522619,-122.348578,45.522619],
+  "bbox": [
+    -122.348578,
+    45.522619,
+    -122.348578,
+    45.522619
+],
   "geometry": {"coordinates":[-122.348578,45.522619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387177853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.831263,45.402104,-122.831263,45.402104",
     "geom:latitude":45.402104,
     "geom:longitude":-122.831263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16101 SW 150th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387177853,
-    "wof:lastmodified":1449059920,
+    "wof:lastmodified":1466770331,
     "wof:name":"Bunce Palmer Cpas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.831263,45.402104,-122.831263,45.402104],
-  "geometry": {"coordinates":[-122.831263,45.402104],"type":"Point"}
+  "bbox": [
+    -122.831263,
+    45.402104,
+    -122.831263,
+    45.402104
+],
+  "geometry": {"coordinates":[-122.83126300000001,45.402104],"type":"Point"}
 }

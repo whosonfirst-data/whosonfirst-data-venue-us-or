@@ -2,13 +2,14 @@
   "id": 403959725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81799,45.354504,-122.81799,45.354504",
     "geom:latitude":45.354504,
     "geom:longitude":-122.81799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13050 SW Tonquin Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403959725,
-    "wof:lastmodified":1449055833,
+    "wof:lastmodified":1466768431,
     "wof:name":"Tri-County Gun Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "skeet"
     ]
 },
-  "bbox": [-122.81799,45.354504,-122.81799,45.354504],
-  "geometry": {"coordinates":[-122.81799,45.354504],"type":"Point"}
+  "bbox": [
+    -122.81799,
+    45.354504,
+    -122.81799,
+    45.354504
+],
+  "geometry": {"coordinates":[-122.81798999999999,45.354504],"type":"Point"}
 }

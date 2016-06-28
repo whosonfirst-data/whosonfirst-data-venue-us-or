@@ -2,13 +2,14 @@
   "id": 370985249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.629314,45.496841,-122.629314,45.496841",
     "geom:latitude":45.496841,
     "geom:longitude":-122.629314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 SE Powell Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370985249,
-    "wof:lastmodified":1449030761,
+    "wof:lastmodified":1466774961,
     "wof:name":"Specialty Moving",
     "wof:parent_id":85893197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.629314,45.496841,-122.629314,45.496841],
-  "geometry": {"coordinates":[-122.629314,45.496841],"type":"Point"}
+  "bbox": [
+    -122.629314,
+    45.496841,
+    -122.629314,
+    45.496841
+],
+  "geometry": {"coordinates":[-122.62931399999999,45.496841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370840429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584088,45.585858,-122.584088,45.585858",
     "geom:latitude":45.585858,
     "geom:longitude":-122.584088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7495 NE Airport Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840429,
-    "wof:lastmodified":1449031723,
+    "wof:lastmodified":1466774346,
     "wof:name":"Air Oregon",
     "wof:parent_id":85871491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.584088,45.585858,-122.584088,45.585858],
-  "geometry": {"coordinates":[-122.584088,45.585858],"type":"Point"}
+  "bbox": [
+    -122.584088,
+    45.585858,
+    -122.584088,
+    45.585858
+],
+  "geometry": {"coordinates":[-122.58408799999999,45.585858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403865705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.400833,45.424994,-122.400833,45.424994",
     "geom:latitude":45.424994,
     "geom:longitude":-122.400833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25275 SE Hoffmeister Rd",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403865705,
-    "wof:lastmodified":1449055638,
+    "wof:lastmodified":1466771081,
     "wof:name":"HWB Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.400833,45.424994,-122.400833,45.424994],
-  "geometry": {"coordinates":[-122.400833,45.424994],"type":"Point"}
+  "bbox": [
+    -122.400833,
+    45.424994,
+    -122.400833,
+    45.424994
+],
+  "geometry": {"coordinates":[-122.40083300000001,45.424994],"type":"Point"}
 }

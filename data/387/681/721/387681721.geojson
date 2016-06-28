@@ -2,13 +2,14 @@
   "id": 387681721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.913499,44.536367,-122.913499,44.536367",
     "geom:latitude":44.536367,
     "geom:longitude":-122.913499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 W Oak St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387681721,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1466774392,
     "wof:name":"Starck Imagery",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.913499,44.536367,-122.913499,44.536367],
+  "bbox": [
+    -122.913499,
+    44.536367,
+    -122.913499,
+    44.536367
+],
   "geometry": {"coordinates":[-122.913499,44.536367],"type":"Point"}
 }

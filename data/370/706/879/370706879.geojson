@@ -2,13 +2,14 @@
   "id": 370706879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661473,45.567309,-122.661473,45.567309",
     "geom:latitude":45.567309,
     "geom:longitude":-122.661473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6019 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370706879,
-    "wof:lastmodified":1449029323,
+    "wof:lastmodified":1466773505,
     "wof:name":"Magic Nail",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.661473,45.567309,-122.661473,45.567309],
+  "bbox": [
+    -122.661473,
+    45.567309,
+    -122.661473,
+    45.567309
+],
   "geometry": {"coordinates":[-122.661473,45.567309],"type":"Point"}
 }

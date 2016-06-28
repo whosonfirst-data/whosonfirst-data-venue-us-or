@@ -2,13 +2,14 @@
   "id": 404202853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.035187,45.172881,-123.035187,45.172881",
     "geom:latitude":45.172881,
     "geom:longitude":-123.035187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18345 SE Nichols Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404202853,
-    "wof:lastmodified":1449040165,
+    "wof:lastmodified":1466768162,
     "wof:name":"Sleger's Dairy",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.035187,45.172881,-123.035187,45.172881],
-  "geometry": {"coordinates":[-123.035187,45.172881],"type":"Point"}
+  "bbox": [
+    -123.035187,
+    45.172881,
+    -123.035187,
+    45.172881
+],
+  "geometry": {"coordinates":[-123.03518699999999,45.172881],"type":"Point"}
 }

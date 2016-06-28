@@ -2,13 +2,14 @@
   "id": 371163325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.719529,42.203167,-122.719529,42.203167",
     "geom:latitude":42.203167,
     "geom:longitude":-122.719529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Main St",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371163325,
-    "wof:lastmodified":1449050112,
+    "wof:lastmodified":1466769929,
     "wof:name":"Ashland's Best B & B",
     "wof:parent_id":85847959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-122.719529,42.203167,-122.719529,42.203167],
-  "geometry": {"coordinates":[-122.719529,42.203167],"type":"Point"}
+  "bbox": [
+    -122.719529,
+    42.203167,
+    -122.719529,
+    42.203167
+],
+  "geometry": {"coordinates":[-122.71952899999999,42.203167],"type":"Point"}
 }

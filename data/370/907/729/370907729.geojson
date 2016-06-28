@@ -2,13 +2,14 @@
   "id": 370907729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.180011,45.509393,-123.180011,45.509393",
     "geom:latitude":45.509393,
     "geom:longitude":-123.180011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48365 SW Chanterelle Dr",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370907729,
-    "wof:lastmodified":1449032208,
+    "wof:lastmodified":1466774812,
     "wof:name":"Specialty Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.180011,45.509393,-123.180011,45.509393],
-  "geometry": {"coordinates":[-123.180011,45.509393],"type":"Point"}
+  "bbox": [
+    -123.180011,
+    45.509393,
+    -123.180011,
+    45.509393
+],
+  "geometry": {"coordinates":[-123.18001099999999,45.509393],"type":"Point"}
 }

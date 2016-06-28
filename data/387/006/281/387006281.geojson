@@ -2,13 +2,14 @@
   "id": 387006281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.202983,44.215831,-123.202983,44.215831",
     "geom:latitude":44.215831,
     "geom:longitude":-123.202983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 W 2nd Ave",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387006281,
-    "wof:lastmodified":1449059180,
+    "wof:lastmodified":1466767235,
     "wof:name":"Our Office",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-123.202983,44.215831,-123.202983,44.215831],
+  "bbox": [
+    -123.202983,
+    44.215831,
+    -123.202983,
+    44.215831
+],
   "geometry": {"coordinates":[-123.202983,44.215831],"type":"Point"}
 }

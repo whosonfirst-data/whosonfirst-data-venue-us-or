@@ -2,13 +2,14 @@
   "id": 387833761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.086273,44.056587,-123.086273,44.056587",
     "geom:latitude":44.056587,
     "geom:longitude":-123.086273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 E 3rd Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387833761,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1466775229,
     "wof:name":"Eugene Silk Screen Inc",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-123.086273,44.056587,-123.086273,44.056587],
-  "geometry": {"coordinates":[-123.086273,44.056587],"type":"Point"}
+  "bbox": [
+    -123.086273,
+    44.056587,
+    -123.086273,
+    44.056587
+],
+  "geometry": {"coordinates":[-123.08627300000001,44.056587],"type":"Point"}
 }

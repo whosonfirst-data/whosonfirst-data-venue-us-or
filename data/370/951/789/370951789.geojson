@@ -2,13 +2,14 @@
   "id": 370951789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.962567,46.096702,-122.962567,46.096702",
     "geom:latitude":46.096702,
     "geom:longitude":-122.962567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75930 Rock Crest St",
     "sg:city":"Rainier",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370951789,
-    "wof:lastmodified":1449029220,
+    "wof:lastmodified":1466775048,
     "wof:name":"J & R Sales Grocery Liquidator",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-122.962567,46.096702,-122.962567,46.096702],
-  "geometry": {"coordinates":[-122.962567,46.096702],"type":"Point"}
+  "bbox": [
+    -122.962567,
+    46.096702,
+    -122.962567,
+    46.096702
+],
+  "geometry": {"coordinates":[-122.96256700000001,46.096702],"type":"Point"}
 }

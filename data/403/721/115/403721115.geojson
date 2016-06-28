@@ -2,13 +2,14 @@
   "id": 403721115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.985597,45.292945,-122.985597,45.292945",
     "geom:latitude":45.292945,
     "geom:longitude":-122.985597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10830 NE Stevenson Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403721115,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1466768220,
     "wof:name":"Drillers Supply Co",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-122.985597,45.292945,-122.985597,45.292945],
+  "bbox": [
+    -122.985597,
+    45.292945,
+    -122.985597,
+    45.292945
+],
   "geometry": {"coordinates":[-122.985597,45.292945],"type":"Point"}
 }

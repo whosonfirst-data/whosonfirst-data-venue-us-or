@@ -2,13 +2,14 @@
   "id": 403836107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.409411,44.332801,-121.409411,44.332801",
     "geom:latitude":44.332801,
     "geom:longitude":-121.409411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18589 McSwain Dr",
     "sg:city":"Sisters",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403836107,
-    "wof:lastmodified":1449055497,
+    "wof:lastmodified":1466770514,
     "wof:name":"Central Oregon Electrostatic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-121.409411,44.332801,-121.409411,44.332801],
-  "geometry": {"coordinates":[-121.409411,44.332801],"type":"Point"}
+  "bbox": [
+    -121.409411,
+    44.332801,
+    -121.409411,
+    44.332801
+],
+  "geometry": {"coordinates":[-121.40941100000001,44.332801],"type":"Point"}
 }

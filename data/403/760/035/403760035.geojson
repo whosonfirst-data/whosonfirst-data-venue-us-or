@@ -2,13 +2,14 @@
   "id": 403760035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.948693,45.312235,-122.948693,45.312235",
     "geom:latitude":45.312235,
     "geom:longitude":-122.948693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Cedar St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403760035,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1466771459,
     "wof:name":"Clothes Line",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laundromat"
     ]
 },
-  "bbox": [-122.948693,45.312235,-122.948693,45.312235],
-  "geometry": {"coordinates":[-122.948693,45.312235],"type":"Point"}
+  "bbox": [
+    -122.948693,
+    45.312235,
+    -122.948693,
+    45.312235
+],
+  "geometry": {"coordinates":[-122.94869300000001,45.312235],"type":"Point"}
 }

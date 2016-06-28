@@ -2,13 +2,14 @@
   "id": 371065945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.48916,45.52212,-122.48916,45.52212",
     "geom:latitude":45.52212,
     "geom:longitude":-122.48916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17021 E Burnside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371065945,
-    "wof:lastmodified":1449050131,
+    "wof:lastmodified":1466768240,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.48916,45.52212,-122.48916,45.52212],
+  "bbox": [
+    -122.48916,
+    45.52212,
+    -122.48916,
+    45.52212
+],
   "geometry": {"coordinates":[-122.48916,45.52212],"type":"Point"}
 }

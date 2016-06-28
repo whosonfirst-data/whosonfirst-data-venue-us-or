@@ -2,13 +2,14 @@
   "id": 387342083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.747431,45.376323,-122.747431,45.376323",
     "geom:latitude":45.376323,
     "geom:longitude":-122.747431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19824 SW 68th Ave",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387342083,
-    "wof:lastmodified":1449059649,
+    "wof:lastmodified":1466772172,
     "wof:name":"Juan's Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-122.747431,45.376323,-122.747431,45.376323],
-  "geometry": {"coordinates":[-122.747431,45.376323],"type":"Point"}
+  "bbox": [
+    -122.747431,
+    45.376323,
+    -122.747431,
+    45.376323
+],
+  "geometry": {"coordinates":[-122.74743100000001,45.376323],"type":"Point"}
 }

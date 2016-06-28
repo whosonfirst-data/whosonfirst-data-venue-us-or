@@ -2,13 +2,14 @@
   "id": 403778867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.786814,45.642005,-122.786814,45.642005",
     "geom:latitude":45.642005,
     "geom:longitude":-122.786814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15707 NW Gillihan Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403778867,
-    "wof:lastmodified":1449054650,
+    "wof:lastmodified":1466769316,
     "wof:name":"Dafeakin Trucking",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.786814,45.642005,-122.786814,45.642005],
-  "geometry": {"coordinates":[-122.786814,45.642005],"type":"Point"}
+  "bbox": [
+    -122.786814,
+    45.642005,
+    -122.786814,
+    45.642005
+],
+  "geometry": {"coordinates":[-122.78681400000001,45.642005],"type":"Point"}
 }

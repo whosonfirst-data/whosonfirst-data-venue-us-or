@@ -2,13 +2,14 @@
   "id": 387647699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.811229,45.443603,-122.811229,45.443603",
     "geom:latitude":45.443603,
     "geom:longitude":-122.811229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13060 SW Cottontail Ln",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387647699,
-    "wof:lastmodified":1449057903,
+    "wof:lastmodified":1466774205,
     "wof:name":"Randy Tugg",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.811229,45.443603,-122.811229,45.443603],
+  "bbox": [
+    -122.811229,
+    45.443603,
+    -122.811229,
+    45.443603
+],
   "geometry": {"coordinates":[-122.811229,45.443603],"type":"Point"}
 }

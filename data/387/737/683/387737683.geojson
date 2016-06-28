@@ -2,13 +2,14 @@
   "id": 387737683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.625903,45.527295,-122.625903,45.527295",
     "geom:latitude":45.527295,
     "geom:longitude":-122.625903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 NE Royal Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387737683,
-    "wof:lastmodified":1449056951,
+    "wof:lastmodified":1466774626,
     "wof:name":"Import Cdscom",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "music"
     ]
 },
-  "bbox": [-122.625903,45.527295,-122.625903,45.527295],
-  "geometry": {"coordinates":[-122.625903,45.527295],"type":"Point"}
+  "bbox": [
+    -122.625903,
+    45.527295,
+    -122.625903,
+    45.527295
+],
+  "geometry": {"coordinates":[-122.62590299999999,45.527295],"type":"Point"}
 }

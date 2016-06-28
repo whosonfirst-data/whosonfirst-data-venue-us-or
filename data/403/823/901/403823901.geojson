@@ -2,13 +2,14 @@
   "id": 403823901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763681,45.578544,-122.763681,45.578544",
     "geom:latitude":45.578544,
     "geom:longitude":-122.763681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 NW Saint Helens Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403823901,
-    "wof:lastmodified":1449055942,
+    "wof:lastmodified":1466770194,
     "wof:name":"Ctc Analytical Services",
     "wof:parent_id":85850801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-122.763681,45.578544,-122.763681,45.578544],
-  "geometry": {"coordinates":[-122.763681,45.578544],"type":"Point"}
+  "bbox": [
+    -122.763681,
+    45.578544,
+    -122.763681,
+    45.578544
+],
+  "geometry": {"coordinates":[-122.76368100000001,45.578544],"type":"Point"}
 }

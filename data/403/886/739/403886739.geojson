@@ -2,13 +2,14 @@
   "id": 403886739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.473414,45.483195,-122.473414,45.483195",
     "geom:latitude":45.483195,
     "geom:longitude":-122.473414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 SW 17th Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403886739,
-    "wof:lastmodified":1449055372,
+    "wof:lastmodified":1466767139,
     "wof:name":"Coffee Pot",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-122.473414,45.483195,-122.473414,45.483195],
-  "geometry": {"coordinates":[-122.473414,45.483195],"type":"Point"}
+  "bbox": [
+    -122.473414,
+    45.483195,
+    -122.473414,
+    45.483195
+],
+  "geometry": {"coordinates":[-122.47341400000001,45.483195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387722839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.488007,45.50602,-122.488007,45.50602",
     "geom:latitude":45.50602,
     "geom:longitude":-122.488007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 SE 170th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387722839,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466774550,
     "wof:name":"Travel Planner Intrl",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-122.488007,45.50602,-122.488007,45.50602],
+  "bbox": [
+    -122.488007,
+    45.50602,
+    -122.488007,
+    45.50602
+],
   "geometry": {"coordinates":[-122.488007,45.50602],"type":"Point"}
 }

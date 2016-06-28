@@ -2,13 +2,14 @@
   "id": 387714803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.343733,44.539274,-123.343733,44.539274",
     "geom:latitude":44.539274,
     "geom:longitude":-123.343733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Vincent St",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387714803,
-    "wof:lastmodified":1449057979,
+    "wof:lastmodified":1466774601,
     "wof:name":"D G Gray",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-123.343733,44.539274,-123.343733,44.539274],
+  "bbox": [
+    -123.343733,
+    44.539274,
+    -123.343733,
+    44.539274
+],
   "geometry": {"coordinates":[-123.343733,44.539274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370209265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.792881,45.577749,-122.792881,45.577749",
     "geom:latitude":45.577749,
     "geom:longitude":-122.792881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11218 NW College Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370209265,
-    "wof:lastmodified":1449032117,
+    "wof:lastmodified":1466768192,
     "wof:name":"AGFA Div of Bayer Corporation",
     "wof:parent_id":85868975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.792881,45.577749,-122.792881,45.577749],
-  "geometry": {"coordinates":[-122.792881,45.577749],"type":"Point"}
+  "bbox": [
+    -122.792881,
+    45.577749,
+    -122.792881,
+    45.577749
+],
+  "geometry": {"coordinates":[-122.79288099999999,45.577749],"type":"Point"}
 }

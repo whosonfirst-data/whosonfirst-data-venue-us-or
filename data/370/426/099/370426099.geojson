@@ -2,13 +2,14 @@
   "id": 370426099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.604123,45.484725,-122.604123,45.484725",
     "geom:latitude":45.484725,
     "geom:longitude":-122.604123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 SE Steele St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370426099,
-    "wof:lastmodified":1449029815,
+    "wof:lastmodified":1466771704,
     "wof:name":"Central Plumbing",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.604123,45.484725,-122.604123,45.484725],
+  "bbox": [
+    -122.604123,
+    45.484725,
+    -122.604123,
+    45.484725
+],
   "geometry": {"coordinates":[-122.604123,45.484725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387851019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.170616,45.592959,-121.170616,45.592959",
     "geom:latitude":45.592959,
     "geom:longitude":-121.170616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 E 12th St",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387851019,
-    "wof:lastmodified":1449058615,
+    "wof:lastmodified":1466775065,
     "wof:name":"McBurneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-121.170616,45.592959,-121.170616,45.592959],
+  "bbox": [
+    -121.170616,
+    45.592959,
+    -121.170616,
+    45.592959
+],
   "geometry": {"coordinates":[-121.170616,45.592959],"type":"Point"}
 }

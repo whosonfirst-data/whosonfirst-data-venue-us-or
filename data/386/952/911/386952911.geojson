@@ -2,13 +2,14 @@
   "id": 386952911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258688,44.541357,-123.258688,44.541357",
     "geom:latitude":44.541357,
     "geom:longitude":-123.258688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 SE Ryan St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386952911,
-    "wof:lastmodified":1449028856,
+    "wof:lastmodified":1466767290,
     "wof:name":"Sewell's Taxidermy",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-123.258688,44.541357,-123.258688,44.541357],
-  "geometry": {"coordinates":[-123.258688,44.541357],"type":"Point"}
+  "bbox": [
+    -123.258688,
+    44.541357,
+    -123.258688,
+    44.541357
+],
+  "geometry": {"coordinates":[-123.25868800000001,44.541357],"type":"Point"}
 }

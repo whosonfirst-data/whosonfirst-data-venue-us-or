@@ -2,13 +2,14 @@
   "id": 370458651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.293489,44.579551,-123.293489,44.579551",
     "geom:latitude":44.579551,
     "geom:longitude":-123.293489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 NW Fernwood Cir",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370458651,
-    "wof:lastmodified":1449031498,
+    "wof:lastmodified":1466771910,
     "wof:name":"Bridges Enterprise",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foster"
     ]
 },
-  "bbox": [-123.293489,44.579551,-123.293489,44.579551],
-  "geometry": {"coordinates":[-123.293489,44.579551],"type":"Point"}
+  "bbox": [
+    -123.293489,
+    44.579551,
+    -123.293489,
+    44.579551
+],
+  "geometry": {"coordinates":[-123.29348899999999,44.579551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370450151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.525664,43.713904,-121.525664,43.713904",
     "geom:latitude":43.713904,
     "geom:longitude":-121.525664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52595 Day Rd",
     "sg:city":"La Pine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370450151,
-    "wof:lastmodified":1449031944,
+    "wof:lastmodified":1466771865,
     "wof:name":"Mountain High Ranch",
     "wof:parent_id":85876197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-121.525664,43.713904,-121.525664,43.713904],
-  "geometry": {"coordinates":[-121.525664,43.713904],"type":"Point"}
+  "bbox": [
+    -121.525664,
+    43.713904,
+    -121.525664,
+    43.713904
+],
+  "geometry": {"coordinates":[-121.52566400000001,43.713904],"type":"Point"}
 }

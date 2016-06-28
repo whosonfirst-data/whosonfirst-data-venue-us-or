@@ -2,13 +2,14 @@
   "id": 370879849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.399338,43.119652,-124.399338,43.119652",
     "geom:latitude":43.119652,
     "geom:longitude":-124.399338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 1st St SE",
     "sg:city":"Bandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370879849,
-    "wof:lastmodified":1449029091,
+    "wof:lastmodified":1466774630,
     "wof:name":"Bandon Clinic",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-124.399338,43.119652,-124.399338,43.119652],
+  "bbox": [
+    -124.399338,
+    43.119652,
+    -124.399338,
+    43.119652
+],
   "geometry": {"coordinates":[-124.399338,43.119652],"type":"Point"}
 }

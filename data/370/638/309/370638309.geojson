@@ -2,13 +2,14 @@
   "id": 370638309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.701256,45.583401,-122.701256,45.583401",
     "geom:latitude":45.583401,
     "geom:longitude":-122.701256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 N Arlington Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370638309,
-    "wof:lastmodified":1449029262,
+    "wof:lastmodified":1466773208,
     "wof:name":"Kenton Vending",
     "wof:parent_id":85841161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.701256,45.583401,-122.701256,45.583401],
+  "bbox": [
+    -122.701256,
+    45.583401,
+    -122.701256,
+    45.583401
+],
   "geometry": {"coordinates":[-122.701256,45.583401],"type":"Point"}
 }

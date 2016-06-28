@@ -2,13 +2,14 @@
   "id": 370489337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.838501,45.831166,-122.838501,45.831166",
     "geom:latitude":45.831166,
     "geom:longitude":-122.838501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57420 Old Portland Rd",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370489337,
-    "wof:lastmodified":1449030919,
+    "wof:lastmodified":1466772409,
     "wof:name":"Scappoose Bay Marina",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.838501,45.831166,-122.838501,45.831166],
-  "geometry": {"coordinates":[-122.838501,45.831166],"type":"Point"}
+  "bbox": [
+    -122.838501,
+    45.831166,
+    -122.838501,
+    45.831166
+],
+  "geometry": {"coordinates":[-122.83850099999999,45.831166],"type":"Point"}
 }

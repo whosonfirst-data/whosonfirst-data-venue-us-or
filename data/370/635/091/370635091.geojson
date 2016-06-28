@@ -2,13 +2,14 @@
   "id": 370635091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.950375,45.073505,-122.950375,45.073505",
     "geom:latitude":45.073505,
     "geom:longitude":-122.950375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5387 Waconda Rd NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370635091,
-    "wof:lastmodified":1449030554,
+    "wof:lastmodified":1466773201,
     "wof:name":"Diablo Auto Wrecking & Towing",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-122.950375,45.073505,-122.950375,45.073505],
-  "geometry": {"coordinates":[-122.950375,45.073505],"type":"Point"}
+  "bbox": [
+    -122.950375,
+    45.073505,
+    -122.950375,
+    45.073505
+],
+  "geometry": {"coordinates":[-122.95037499999999,45.073505],"type":"Point"}
 }

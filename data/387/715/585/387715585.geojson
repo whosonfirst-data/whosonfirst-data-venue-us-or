@@ -2,13 +2,14 @@
   "id": 387715585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.959848,45.571778,-122.959848,45.571778",
     "geom:latitude":45.571778,
     "geom:longitude":-122.959848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27480 NW Meek Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387715585,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1466774505,
     "wof:name":"Greenland Landscaping",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.959848,45.571778,-122.959848,45.571778],
-  "geometry": {"coordinates":[-122.959848,45.571778],"type":"Point"}
+  "bbox": [
+    -122.959848,
+    45.571778,
+    -122.959848,
+    45.571778
+],
+  "geometry": {"coordinates":[-122.95984799999999,45.571778],"type":"Point"}
 }

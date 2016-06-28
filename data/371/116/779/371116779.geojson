@@ -2,13 +2,14 @@
   "id": 371116779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120584,44.598244,-123.120584,44.598244",
     "geom:latitude":44.598244,
     "geom:longitude":-123.120584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5085 Elk Run Dr SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371116779,
-    "wof:lastmodified":1449049177,
+    "wof:lastmodified":1466769091,
     "wof:name":"Consignment Corner",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.120584,44.598244,-123.120584,44.598244],
-  "geometry": {"coordinates":[-123.120584,44.598244],"type":"Point"}
+  "bbox": [
+    -123.120584,
+    44.598244,
+    -123.120584,
+    44.598244
+],
+  "geometry": {"coordinates":[-123.12058399999999,44.598244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370196687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.070349,44.891442,-123.070349,44.891442",
     "geom:latitude":44.891442,
     "geom:longitude":-123.070349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 18th Pl S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370196687,
-    "wof:lastmodified":1449029857,
+    "wof:lastmodified":1466767978,
     "wof:name":"Doyle & Gibbons Occupational",
     "wof:parent_id":85839851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.070349,44.891442,-123.070349,44.891442],
-  "geometry": {"coordinates":[-123.070349,44.891442],"type":"Point"}
+  "bbox": [
+    -123.070349,
+    44.891442,
+    -123.070349,
+    44.891442
+],
+  "geometry": {"coordinates":[-123.07034899999999,44.891442],"type":"Point"}
 }

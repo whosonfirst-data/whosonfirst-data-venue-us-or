@@ -2,13 +2,14 @@
   "id": 370465545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.238071,45.844734,-123.238071,45.844734",
     "geom:latitude":45.844734,
     "geom:longitude":-123.238071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15961 Timber Rd E",
     "sg:city":"Vernonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370465545,
-    "wof:lastmodified":1449031355,
+    "wof:lastmodified":1466772112,
     "wof:name":"Vernonia Golf Club",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-123.238071,45.844734,-123.238071,45.844734],
-  "geometry": {"coordinates":[-123.238071,45.844734],"type":"Point"}
+  "bbox": [
+    -123.238071,
+    45.844734,
+    -123.238071,
+    45.844734
+],
+  "geometry": {"coordinates":[-123.23807100000001,45.844734],"type":"Point"}
 }

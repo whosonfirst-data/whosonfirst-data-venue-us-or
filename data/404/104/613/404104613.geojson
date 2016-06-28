@@ -2,13 +2,14 @@
   "id": 404104613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.357465,43.22596,-123.357465,43.22596",
     "geom:latitude":43.22596,
     "geom:longitude":-123.357465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 NW Ellan St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404104613,
-    "wof:lastmodified":1449039524,
+    "wof:lastmodified":1466770683,
     "wof:name":"RMLS Multiple Listing Svc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-123.357465,43.22596,-123.357465,43.22596],
+  "bbox": [
+    -123.357465,
+    43.22596,
+    -123.357465,
+    43.22596
+],
   "geometry": {"coordinates":[-123.357465,43.22596],"type":"Point"}
 }

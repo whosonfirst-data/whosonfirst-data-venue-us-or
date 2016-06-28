@@ -2,13 +2,14 @@
   "id": 387215457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.042057,44.919284,-123.042057,44.919284",
     "geom:latitude":44.919284,
     "geom:longitude":-123.042057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Hoyt St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387215457,
-    "wof:lastmodified":1449059261,
+    "wof:lastmodified":1466771115,
     "wof:name":"E G Financial",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-123.042057,44.919284,-123.042057,44.919284],
+  "bbox": [
+    -123.042057,
+    44.919284,
+    -123.042057,
+    44.919284
+],
   "geometry": {"coordinates":[-123.042057,44.919284],"type":"Point"}
 }

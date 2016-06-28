@@ -2,13 +2,14 @@
   "id": 370895165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661686,45.545299,-122.661686,45.545299",
     "geom:latitude":45.545299,
     "geom:longitude":-122.661686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370895165,
-    "wof:lastmodified":1449030524,
+    "wof:lastmodified":1466774632,
     "wof:name":"Battery Exchange",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-122.661686,45.545299,-122.661686,45.545299],
+  "bbox": [
+    -122.661686,
+    45.545299,
+    -122.661686,
+    45.545299
+],
   "geometry": {"coordinates":[-122.661686,45.545299],"type":"Point"}
 }

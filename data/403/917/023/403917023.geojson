@@ -2,13 +2,14 @@
   "id": 403917023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.765904,45.428608,-122.765904,45.428608",
     "geom:latitude":45.428608,
     "geom:longitude":-122.765904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12529 SW Hall Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403917023,
-    "wof:lastmodified":1449055790,
+    "wof:lastmodified":1466767662,
     "wof:name":"Superior Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-122.765904,45.428608,-122.765904,45.428608],
-  "geometry": {"coordinates":[-122.765904,45.428608],"type":"Point"}
+  "bbox": [
+    -122.765904,
+    45.428608,
+    -122.765904,
+    45.428608
+],
+  "geometry": {"coordinates":[-122.76590400000001,45.428608],"type":"Point"}
 }

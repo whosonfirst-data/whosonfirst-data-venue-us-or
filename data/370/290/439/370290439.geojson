@@ -2,13 +2,14 @@
   "id": 370290439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101458,44.024153,-123.101458,44.024153",
     "geom:latitude":44.024153,
     "geom:longitude":-123.101458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 W 30th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370290439,
-    "wof:lastmodified":1449030542,
+    "wof:lastmodified":1466769647,
     "wof:name":"Shawl Repair",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.101458,44.024153,-123.101458,44.024153],
-  "geometry": {"coordinates":[-123.101458,44.024153],"type":"Point"}
+  "bbox": [
+    -123.101458,
+    44.024153,
+    -123.101458,
+    44.024153
+],
+  "geometry": {"coordinates":[-123.10145799999999,44.024153],"type":"Point"}
 }

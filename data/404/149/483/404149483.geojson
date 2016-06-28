@@ -2,13 +2,14 @@
   "id": 404149483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.30246,44.054014,-121.30246,44.054014",
     "geom:latitude":44.054014,
     "geom:longitude":-121.30246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 NE Dekalb Ave",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404149483,
-    "wof:lastmodified":1449039087,
+    "wof:lastmodified":1466767239,
     "wof:name":"El Burrito",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-121.30246,44.054014,-121.30246,44.054014],
+  "bbox": [
+    -121.30246,
+    44.054014,
+    -121.30246,
+    44.054014
+],
   "geometry": {"coordinates":[-121.30246,44.054014],"type":"Point"}
 }

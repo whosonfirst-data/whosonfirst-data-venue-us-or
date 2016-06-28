@@ -2,13 +2,14 @@
   "id": 370544115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.967348,45.524301,-122.967348,45.524301",
     "geom:latitude":45.524301,
     "geom:longitude":-122.967348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 NE Hillwood Dr",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370544115,
-    "wof:lastmodified":1449032461,
+    "wof:lastmodified":1466772514,
     "wof:name":"Testec LLC",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-122.967348,45.524301,-122.967348,45.524301],
+  "bbox": [
+    -122.967348,
+    45.524301,
+    -122.967348,
+    45.524301
+],
   "geometry": {"coordinates":[-122.967348,45.524301],"type":"Point"}
 }

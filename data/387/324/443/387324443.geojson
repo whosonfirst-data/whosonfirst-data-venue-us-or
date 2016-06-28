@@ -2,13 +2,14 @@
   "id": 387324443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.414365,43.117554,-123.414365,43.117554",
     "geom:latitude":43.117554,
     "geom:longitude":-123.414365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 S Main St",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387324443,
-    "wof:lastmodified":1449058326,
+    "wof:lastmodified":1466772072,
     "wof:name":"Winston Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-123.414365,43.117554,-123.414365,43.117554],
+  "bbox": [
+    -123.414365,
+    43.117554,
+    -123.414365,
+    43.117554
+],
   "geometry": {"coordinates":[-123.414365,43.117554],"type":"Point"}
 }

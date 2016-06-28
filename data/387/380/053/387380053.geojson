@@ -2,13 +2,14 @@
   "id": 387380053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.275967,44.590097,-123.275967,44.590097",
     "geom:latitude":44.590097,
     "geom:longitude":-123.275967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 NW Kings Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387380053,
-    "wof:lastmodified":1449057866,
+    "wof:lastmodified":1466772377,
     "wof:name":"Cuts Unlimited",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.275967,44.590097,-123.275967,44.590097],
-  "geometry": {"coordinates":[-123.275967,44.590097],"type":"Point"}
+  "bbox": [
+    -123.275967,
+    44.590097,
+    -123.275967,
+    44.590097
+],
+  "geometry": {"coordinates":[-123.27596699999999,44.590097],"type":"Point"}
 }

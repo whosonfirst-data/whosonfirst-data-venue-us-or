@@ -2,13 +2,14 @@
   "id": 403817439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120331,44.040451,-123.120331,44.040451",
     "geom:latitude":44.040451,
     "geom:longitude":-123.120331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 W 18th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403817439,
-    "wof:lastmodified":1449055696,
+    "wof:lastmodified":1466769996,
     "wof:name":"Games Domain",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-123.120331,44.040451,-123.120331,44.040451],
-  "geometry": {"coordinates":[-123.120331,44.040451],"type":"Point"}
+  "bbox": [
+    -123.120331,
+    44.040451,
+    -123.120331,
+    44.040451
+],
+  "geometry": {"coordinates":[-123.12033099999999,44.040451],"type":"Point"}
 }

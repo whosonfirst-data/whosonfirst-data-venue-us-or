@@ -2,13 +2,14 @@
   "id": 387591793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.95686,44.99399,-122.95686,44.99399",
     "geom:latitude":44.99399,
     "geom:longitude":-122.95686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4993 Settlers Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387591793,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1466773886,
     "wof:name":"Santiam Depot Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.95686,44.99399,-122.95686,44.99399],
-  "geometry": {"coordinates":[-122.95686,44.99399],"type":"Point"}
+  "bbox": [
+    -122.95686,
+    44.99399,
+    -122.95686,
+    44.99399
+],
+  "geometry": {"coordinates":[-122.95686000000001,44.99399],"type":"Point"}
 }

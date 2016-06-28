@@ -2,13 +2,14 @@
   "id": 386940885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.893211,45.607539,-122.893211,45.607539",
     "geom:latitude":45.607539,
     "geom:longitude":-122.893211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12059 NW Valley Vista Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386940885,
-    "wof:lastmodified":1449028690,
+    "wof:lastmodified":1466767215,
     "wof:name":"Ashfult Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.893211,45.607539,-122.893211,45.607539],
-  "geometry": {"coordinates":[-122.893211,45.607539],"type":"Point"}
+  "bbox": [
+    -122.893211,
+    45.607539,
+    -122.893211,
+    45.607539
+],
+  "geometry": {"coordinates":[-122.89321099999999,45.607539],"type":"Point"}
 }

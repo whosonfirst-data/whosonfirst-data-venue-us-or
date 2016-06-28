@@ -2,13 +2,14 @@
   "id": 404006259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01802,43.917873,-123.01802,43.917873",
     "geom:latitude":43.917873,
     "geom:longitude":-123.01802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 S Mill St",
     "sg:city":"Creswell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404006259,
-    "wof:lastmodified":1449040049,
+    "wof:lastmodified":1466768440,
     "wof:name":"Orange Glo Northwest",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compound"
     ]
 },
-  "bbox": [-123.01802,43.917873,-123.01802,43.917873],
-  "geometry": {"coordinates":[-123.01802,43.917873],"type":"Point"}
+  "bbox": [
+    -123.01802,
+    43.917873,
+    -123.01802,
+    43.917873
+],
+  "geometry": {"coordinates":[-123.01802000000001,43.917873],"type":"Point"}
 }

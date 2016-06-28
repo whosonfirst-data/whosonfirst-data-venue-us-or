@@ -2,13 +2,14 @@
   "id": 387238471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.618541,45.501262,-122.618541,45.501262",
     "geom:latitude":45.501262,
     "geom:longitude":-122.618541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 SE Brooklyn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387238471,
-    "wof:lastmodified":1449057531,
+    "wof:lastmodified":1466771460,
     "wof:name":"Mary Cassatt Reggio School",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-122.618541,45.501262,-122.618541,45.501262],
-  "geometry": {"coordinates":[-122.618541,45.501262],"type":"Point"}
+  "bbox": [
+    -122.618541,
+    45.501262,
+    -122.618541,
+    45.501262
+],
+  "geometry": {"coordinates":[-122.61854099999999,45.501262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387404899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.908893,45.561413,-123.908893,45.561413",
     "geom:latitude":45.561413,
     "geom:longitude":-123.908893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Cypress Ave",
     "sg:city":"Garibaldi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387404899,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1466772646,
     "wof:name":"Wine Country Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.908893,45.561413,-123.908893,45.561413],
-  "geometry": {"coordinates":[-123.908893,45.561413],"type":"Point"}
+  "bbox": [
+    -123.908893,
+    45.561413,
+    -123.908893,
+    45.561413
+],
+  "geometry": {"coordinates":[-123.90889300000001,45.561413],"type":"Point"}
 }

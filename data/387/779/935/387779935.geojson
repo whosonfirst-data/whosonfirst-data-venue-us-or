@@ -2,13 +2,14 @@
   "id": 387779935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.348618,43.205874,-123.348618,43.205874",
     "geom:latitude":43.205874,
     "geom:longitude":-123.348618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 SE Stephens St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387779935,
-    "wof:lastmodified":1449056689,
+    "wof:lastmodified":1466774916,
     "wof:name":"Neighbor To Neighbor",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-123.348618,43.205874,-123.348618,43.205874],
+  "bbox": [
+    -123.348618,
+    43.205874,
+    -123.348618,
+    43.205874
+],
   "geometry": {"coordinates":[-123.348618,43.205874],"type":"Point"}
 }

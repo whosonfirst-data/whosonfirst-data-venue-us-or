@@ -2,13 +2,14 @@
   "id": 403993753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.1272,44.06207,-123.1272,44.06207",
     "geom:latitude":44.06207,
     "geom:longitude":-123.1272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 N Cleveland St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":403993753,
-    "wof:lastmodified":1449055218,
+    "wof:lastmodified":1466769034,
     "wof:name":"Swahili Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-123.1272,44.06207,-123.1272,44.06207],
+  "bbox": [
+    -123.1272,
+    44.06207,
+    -123.1272,
+    44.06207
+],
   "geometry": {"coordinates":[-123.1272,44.06207],"type":"Point"}
 }

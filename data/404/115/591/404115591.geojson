@@ -2,13 +2,14 @@
   "id": 404115591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.00107,44.057657,-123.00107,44.057657",
     "geom:latitude":44.057657,
     "geom:longitude":-123.00107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Mohawk Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404115591,
-    "wof:lastmodified":1449039077,
+    "wof:lastmodified":1466770900,
     "wof:name":"Prince Telecom",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-123.00107,44.057657,-123.00107,44.057657],
+  "bbox": [
+    -123.00107,
+    44.057657,
+    -123.00107,
+    44.057657
+],
   "geometry": {"coordinates":[-123.00107,44.057657],"type":"Point"}
 }

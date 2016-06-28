@@ -2,13 +2,14 @@
   "id": 403916185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.07277,45.319399,-118.07277,45.319399",
     "geom:latitude":45.319399,
     "geom:longitude":-118.07277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 22nd St",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403916185,
-    "wof:lastmodified":1449055362,
+    "wof:lastmodified":1466767647,
     "wof:name":"Ray Crapo Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-118.07277,45.319399,-118.07277,45.319399],
-  "geometry": {"coordinates":[-118.07277,45.319399],"type":"Point"}
+  "bbox": [
+    -118.07277,
+    45.319399,
+    -118.07277,
+    45.319399
+],
+  "geometry": {"coordinates":[-118.07277000000001,45.319399],"type":"Point"}
 }

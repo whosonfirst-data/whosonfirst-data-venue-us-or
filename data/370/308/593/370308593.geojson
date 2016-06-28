@@ -2,13 +2,14 @@
   "id": 370308593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.190627,45.4333,-123.190627,45.4333",
     "geom:latitude":45.4333,
     "geom:longitude":-123.190627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49572 SW South Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370308593,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1466769979,
     "wof:name":"West Valley Water Conditioning",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-123.190627,45.4333,-123.190627,45.4333],
-  "geometry": {"coordinates":[-123.190627,45.4333],"type":"Point"}
+  "bbox": [
+    -123.190627,
+    45.4333,
+    -123.190627,
+    45.4333
+],
+  "geometry": {"coordinates":[-123.19062700000001,45.4333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387604241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.179256,44.069967,-123.179256,44.069967",
     "geom:latitude":44.069967,
     "geom:longitude":-123.179256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 Royal Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387604241,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1466773954,
     "wof:name":"Bi-Mart",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.179256,44.069967,-123.179256,44.069967],
+  "bbox": [
+    -123.179256,
+    44.069967,
+    -123.179256,
+    44.069967
+],
   "geometry": {"coordinates":[-123.179256,44.069967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387880619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.213146,43.36936,-124.213146,43.36936",
     "geom:latitude":43.36936,
     "geom:longitude":-124.213146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Broadway",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387880619,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1466775235,
     "wof:name":"Wells Fargo",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-124.213146,43.36936,-124.213146,43.36936],
-  "geometry": {"coordinates":[-124.213146,43.36936],"type":"Point"}
+  "bbox": [
+    -124.213146,
+    43.36936,
+    -124.213146,
+    43.36936
+],
+  "geometry": {"coordinates":[-124.21314599999999,43.36936],"type":"Point"}
 }

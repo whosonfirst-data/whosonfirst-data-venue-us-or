@@ -2,13 +2,14 @@
   "id": 387835357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.990547,45.616825,-122.990547,45.616825",
     "geom:latitude":45.616825,
     "geom:longitude":-122.990547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13673 NW Pumpkin Ridge Rd",
     "sg:city":"North Plains",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387835357,
-    "wof:lastmodified":1449056648,
+    "wof:lastmodified":1466775116,
     "wof:name":"Henry Stadelman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-122.990547,45.616825,-122.990547,45.616825],
-  "geometry": {"coordinates":[-122.990547,45.616825],"type":"Point"}
+  "bbox": [
+    -122.990547,
+    45.616825,
+    -122.990547,
+    45.616825
+],
+  "geometry": {"coordinates":[-122.99054700000001,45.616825],"type":"Point"}
 }

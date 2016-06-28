@@ -2,13 +2,14 @@
   "id": 370793981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.098272,44.045592,-123.098272,44.045592",
     "geom:latitude":44.045592,
     "geom:longitude":-123.098272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W 13th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370793981,
-    "wof:lastmodified":1449030934,
+    "wof:lastmodified":1466774059,
     "wof:name":"Abel Computing Inc",
     "wof:parent_id":85877247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-123.098272,44.045592,-123.098272,44.045592],
-  "geometry": {"coordinates":[-123.098272,44.045592],"type":"Point"}
+  "bbox": [
+    -123.098272,
+    44.045592,
+    -123.098272,
+    44.045592
+],
+  "geometry": {"coordinates":[-123.09827199999999,44.045592],"type":"Point"}
 }

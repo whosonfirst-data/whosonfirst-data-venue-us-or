@@ -2,13 +2,14 @@
   "id": 354280975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.70771,45.261632,-122.70771,45.261632",
     "geom:latitude":45.261632,
     "geom:longitude":-122.70771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 NW 5th Pl",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354280975,
-    "wof:lastmodified":1449066759,
+    "wof:lastmodified":1466769206,
     "wof:name":"Pacific Crest Woodworks",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.70771,45.261632,-122.70771,45.261632],
-  "geometry": {"coordinates":[-122.70771,45.261632],"type":"Point"}
+  "bbox": [
+    -122.70771,
+    45.261632,
+    -122.70771,
+    45.261632
+],
+  "geometry": {"coordinates":[-122.70771000000001,45.261632],"type":"Point"}
 }

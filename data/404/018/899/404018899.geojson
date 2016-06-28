@@ -2,13 +2,14 @@
   "id": 404018899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.07295,44.065564,-123.07295,44.065564",
     "geom:latitude":44.065564,
     "geom:longitude":-123.07295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2479 Oakmont Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404018899,
-    "wof:lastmodified":1449039697,
+    "wof:lastmodified":1466768792,
     "wof:name":"N Paul Hudson MD",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.07295,44.065564,-123.07295,44.065564],
-  "geometry": {"coordinates":[-123.07295,44.065564],"type":"Point"}
+  "bbox": [
+    -123.07295,
+    44.065564,
+    -123.07295,
+    44.065564
+],
+  "geometry": {"coordinates":[-123.07295000000001,44.065564],"type":"Point"}
 }

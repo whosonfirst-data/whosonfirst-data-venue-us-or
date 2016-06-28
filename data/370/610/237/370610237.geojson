@@ -2,13 +2,14 @@
   "id": 370610237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772188,45.314192,-122.772188,45.314192",
     "geom:latitude":45.314192,
     "geom:longitude":-122.772188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28465 SW Boberg Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370610237,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1466773086,
     "wof:name":"Hydro-Temp Mechanical",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.772188,45.314192,-122.772188,45.314192],
+  "bbox": [
+    -122.772188,
+    45.314192,
+    -122.772188,
+    45.314192
+],
   "geometry": {"coordinates":[-122.772188,45.314192],"type":"Point"}
 }

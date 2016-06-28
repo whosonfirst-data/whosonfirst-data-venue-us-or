@@ -2,13 +2,14 @@
   "id": 387705913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.813595,44.902277,-122.813595,44.902277",
     "geom:latitude":44.902277,
     "geom:longitude":-122.813595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Waldo Hills Dr SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387705913,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1466774421,
     "wof:name":"B C Plumbing",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.813595,44.902277,-122.813595,44.902277],
-  "geometry": {"coordinates":[-122.813595,44.902277],"type":"Point"}
+  "bbox": [
+    -122.813595,
+    44.902277,
+    -122.813595,
+    44.902277
+],
+  "geometry": {"coordinates":[-122.81359500000001,44.902277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354395947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653428,45.538684,-122.653428,45.538684",
     "geom:latitude":45.538684,
     "geom:longitude":-122.653428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 NE 12th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354395947,
-    "wof:lastmodified":1449067405,
+    "wof:lastmodified":1466771226,
     "wof:name":"Ernest C Knox",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.653428,45.538684,-122.653428,45.538684],
-  "geometry": {"coordinates":[-122.653428,45.538684],"type":"Point"}
+  "bbox": [
+    -122.653428,
+    45.538684,
+    -122.653428,
+    45.538684
+],
+  "geometry": {"coordinates":[-122.65342800000001,45.538684],"type":"Point"}
 }

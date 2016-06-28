@@ -2,13 +2,14 @@
   "id": 386974787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801003,45.529594,-122.801003,45.529594",
     "geom:latitude":45.529594,
     "geom:longitude":-122.801003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12085 NW Kearney St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386974787,
-    "wof:lastmodified":1449028917,
+    "wof:lastmodified":1466767390,
     "wof:name":"Dove Bar Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-122.801003,45.529594,-122.801003,45.529594],
-  "geometry": {"coordinates":[-122.801003,45.529594],"type":"Point"}
+  "bbox": [
+    -122.801003,
+    45.529594,
+    -122.801003,
+    45.529594
+],
+  "geometry": {"coordinates":[-122.80100299999999,45.529594],"type":"Point"}
 }

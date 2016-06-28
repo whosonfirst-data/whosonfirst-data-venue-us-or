@@ -2,13 +2,14 @@
   "id": 403925613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.122944,44.657324,-123.122944,44.657324",
     "geom:latitude":44.657324,
     "geom:longitude":-123.122944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 NW 17th Ave",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403925613,
-    "wof:lastmodified":1449054640,
+    "wof:lastmodified":1466767815,
     "wof:name":"Biegel Investigations",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-123.122944,44.657324,-123.122944,44.657324],
+  "bbox": [
+    -123.122944,
+    44.657324,
+    -123.122944,
+    44.657324
+],
   "geometry": {"coordinates":[-123.122944,44.657324],"type":"Point"}
 }

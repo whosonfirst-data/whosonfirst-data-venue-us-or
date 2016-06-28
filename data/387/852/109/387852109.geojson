@@ -2,13 +2,14 @@
   "id": 387852109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.65167,45.520224,-122.65167,45.520224",
     "geom:latitude":45.520224,
     "geom:longitude":-122.65167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 SE 14th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387852109,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466775079,
     "wof:name":"Steven Ames Planning",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.65167,45.520224,-122.65167,45.520224],
+  "bbox": [
+    -122.65167,
+    45.520224,
+    -122.65167,
+    45.520224
+],
   "geometry": {"coordinates":[-122.65167,45.520224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387813251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.811231,45.375723,-122.811231,45.375723",
     "geom:latitude":45.375723,
     "geom:longitude":-122.811231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13017 SW Herman Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387813251,
-    "wof:lastmodified":1449057080,
+    "wof:lastmodified":1466775049,
     "wof:name":"House Of Woodbury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.811231,45.375723,-122.811231,45.375723],
-  "geometry": {"coordinates":[-122.811231,45.375723],"type":"Point"}
+  "bbox": [
+    -122.811231,
+    45.375723,
+    -122.811231,
+    45.375723
+],
+  "geometry": {"coordinates":[-122.81123100000001,45.375723],"type":"Point"}
 }

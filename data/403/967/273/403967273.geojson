@@ -2,13 +2,14 @@
   "id": 403967273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.789645,45.367729,-122.789645,45.367729",
     "geom:latitude":45.367729,
     "geom:longitude":-122.789645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11055 SW Industrial Way",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403967273,
-    "wof:lastmodified":1449055867,
+    "wof:lastmodified":1466768567,
     "wof:name":"Freight Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.789645,45.367729,-122.789645,45.367729],
-  "geometry": {"coordinates":[-122.789645,45.367729],"type":"Point"}
+  "bbox": [
+    -122.789645,
+    45.367729,
+    -122.789645,
+    45.367729
+],
+  "geometry": {"coordinates":[-122.78964499999999,45.367729],"type":"Point"}
 }

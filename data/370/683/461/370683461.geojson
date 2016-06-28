@@ -2,13 +2,14 @@
   "id": 370683461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.276373,44.081158,-121.276373,44.081158",
     "geom:latitude":44.081158,
     "geom:longitude":-121.276373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 NE Taylor St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370683461,
-    "wof:lastmodified":1449030330,
+    "wof:lastmodified":1466773359,
     "wof:name":"A Room With A View",
     "wof:parent_id":85876203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.276373,44.081158,-121.276373,44.081158],
-  "geometry": {"coordinates":[-121.276373,44.081158],"type":"Point"}
+  "bbox": [
+    -121.276373,
+    44.081158,
+    -121.276373,
+    44.081158
+],
+  "geometry": {"coordinates":[-121.27637300000001,44.081158],"type":"Point"}
 }

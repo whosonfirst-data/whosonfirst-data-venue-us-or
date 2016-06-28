@@ -2,13 +2,14 @@
   "id": 370802327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.154734,44.190264,-123.154734,44.190264",
     "geom:latitude":44.190264,
     "geom:longitude":-123.154734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30787 Hayes Ln",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370802327,
-    "wof:lastmodified":1449031838,
+    "wof:lastmodified":1466774231,
     "wof:name":"2buddies Software",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-123.154734,44.190264,-123.154734,44.190264],
+  "bbox": [
+    -123.154734,
+    44.190264,
+    -123.154734,
+    44.190264
+],
   "geometry": {"coordinates":[-123.154734,44.190264],"type":"Point"}
 }

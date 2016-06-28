@@ -2,13 +2,14 @@
   "id": 370308173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537741,45.507033,-122.537741,45.507033",
     "geom:latitude":45.507033,
     "geom:longitude":-122.537741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 SE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370308173,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1466769970,
     "wof:name":"Lincoln Court Apartments",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.537741,45.507033,-122.537741,45.507033],
+  "bbox": [
+    -122.537741,
+    45.507033,
+    -122.537741,
+    45.507033
+],
   "geometry": {"coordinates":[-122.537741,45.507033],"type":"Point"}
 }

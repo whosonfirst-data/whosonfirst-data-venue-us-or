@@ -2,13 +2,14 @@
   "id": 404066119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.770958,45.538911,-122.770958,45.538911",
     "geom:latitude":45.538911,
     "geom:longitude":-122.770958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8921 NW Bartholomew Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404066119,
-    "wof:lastmodified":1449039370,
+    "wof:lastmodified":1466769646,
     "wof:name":"Ulrich Consulting Inc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.770958,45.538911,-122.770958,45.538911],
-  "geometry": {"coordinates":[-122.770958,45.538911],"type":"Point"}
+  "bbox": [
+    -122.770958,
+    45.538911,
+    -122.770958,
+    45.538911
+],
+  "geometry": {"coordinates":[-122.77095799999999,45.538911],"type":"Point"}
 }

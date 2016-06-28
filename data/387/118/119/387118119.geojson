@@ -2,13 +2,14 @@
   "id": 387118119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772937,45.587254,-122.772937,45.587254",
     "geom:latitude":45.587254,
     "geom:longitude":-122.772937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8888 NW Saint Helens Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387118119,
-    "wof:lastmodified":1449059194,
+    "wof:lastmodified":1466769135,
     "wof:name":"International Beverages-Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-122.772937,45.587254,-122.772937,45.587254],
+  "bbox": [
+    -122.772937,
+    45.587254,
+    -122.772937,
+    45.587254
+],
   "geometry": {"coordinates":[-122.772937,45.587254],"type":"Point"}
 }

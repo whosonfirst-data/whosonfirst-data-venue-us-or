@@ -2,13 +2,14 @@
   "id": 403705445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.997031,44.986908,-123.997031,44.986908",
     "geom:latitude":44.986908,
     "geom:longitude":-123.997031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 NE West Devils Lake Rd",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403705445,
-    "wof:lastmodified":1449055969,
+    "wof:lastmodified":1466767879,
     "wof:name":"Celebrate Balloons",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.997031,44.986908,-123.997031,44.986908],
-  "geometry": {"coordinates":[-123.997031,44.986908],"type":"Point"}
+  "bbox": [
+    -123.997031,
+    44.986908,
+    -123.997031,
+    44.986908
+],
+  "geometry": {"coordinates":[-123.99703100000001,44.986908],"type":"Point"}
 }

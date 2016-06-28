@@ -2,13 +2,14 @@
   "id": 403829111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.016631,44.993454,-123.016631,44.993454",
     "geom:latitude":44.993454,
     "geom:longitude":-123.016631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Dearborn Ave NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403829111,
-    "wof:lastmodified":1449055874,
+    "wof:lastmodified":1466770330,
     "wof:name":"Whitney's Used Cars",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.016631,44.993454,-123.016631,44.993454],
+  "bbox": [
+    -123.016631,
+    44.993454,
+    -123.016631,
+    44.993454
+],
   "geometry": {"coordinates":[-123.016631,44.993454],"type":"Point"}
 }

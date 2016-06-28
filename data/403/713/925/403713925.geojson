@@ -2,13 +2,14 @@
   "id": 403713925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.787026,45.333184,-122.787026,45.333184",
     "geom:latitude":45.333184,
     "geom:longitude":-122.787026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10680 SW Clutter Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403713925,
-    "wof:lastmodified":1449055842,
+    "wof:lastmodified":1466768031,
     "wof:name":"Chris Bickford Stables",
     "wof:parent_id":85852343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-122.787026,45.333184,-122.787026,45.333184],
+  "bbox": [
+    -122.787026,
+    45.333184,
+    -122.787026,
+    45.333184
+],
   "geometry": {"coordinates":[-122.787026,45.333184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370688189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.540922,45.526289,-122.540922,45.526289",
     "geom:latitude":45.526289,
     "geom:longitude":-122.540922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11704 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370688189,
-    "wof:lastmodified":1449030347,
+    "wof:lastmodified":1466773385,
     "wof:name":"Sandy Dental Lab",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-122.540922,45.526289,-122.540922,45.526289],
-  "geometry": {"coordinates":[-122.540922,45.526289],"type":"Point"}
+  "bbox": [
+    -122.540922,
+    45.526289,
+    -122.540922,
+    45.526289
+],
+  "geometry": {"coordinates":[-122.54092199999999,45.526289],"type":"Point"}
 }

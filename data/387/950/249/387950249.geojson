@@ -2,13 +2,14 @@
   "id": 387950249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.781568,42.230584,-121.781568,42.230584",
     "geom:latitude":42.230584,
     "geom:longitude":-121.781568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 East St",
     "sg:city":"Klamath Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387950249,
-    "wof:lastmodified":1449057587,
+    "wof:lastmodified":1466775399,
     "wof:name":"Acme Property Management",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.781568,42.230584,-121.781568,42.230584],
-  "geometry": {"coordinates":[-121.781568,42.230584],"type":"Point"}
+  "bbox": [
+    -121.781568,
+    42.230584,
+    -121.781568,
+    42.230584
+],
+  "geometry": {"coordinates":[-121.78156799999999,42.230584],"type":"Point"}
 }

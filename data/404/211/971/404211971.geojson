@@ -2,13 +2,14 @@
   "id": 404211971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.176288,44.269509,-121.176288,44.269509",
     "geom:latitude":44.269509,
     "geom:longitude":-121.176288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 SW Highland Ave",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404211971,
-    "wof:lastmodified":1449039341,
+    "wof:lastmodified":1466768320,
     "wof:name":"Juniper Network Communications",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-121.176288,44.269509,-121.176288,44.269509],
+  "bbox": [
+    -121.176288,
+    44.269509,
+    -121.176288,
+    44.269509
+],
   "geometry": {"coordinates":[-121.176288,44.269509],"type":"Point"}
 }

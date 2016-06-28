@@ -2,13 +2,14 @@
   "id": 370518385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.099449,45.523953,-123.099449,45.523953",
     "geom:latitude":45.523953,
     "geom:longitude":-123.099449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 23rd Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370518385,
-    "wof:lastmodified":1449030985,
+    "wof:lastmodified":1466772342,
     "wof:name":"Pacific Air Switch Corp",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-123.099449,45.523953,-123.099449,45.523953],
-  "geometry": {"coordinates":[-123.099449,45.523953],"type":"Point"}
+  "bbox": [
+    -123.099449,
+    45.523953,
+    -123.099449,
+    45.523953
+],
+  "geometry": {"coordinates":[-123.09944900000001,45.523953],"type":"Point"}
 }

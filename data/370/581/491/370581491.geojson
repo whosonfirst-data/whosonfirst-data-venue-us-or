@@ -2,13 +2,14 @@
   "id": 370581491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81819,42.276486,-122.81819,42.276486",
     "geom:latitude":42.276486,
     "geom:longitude":-122.81819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N Main St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370581491,
-    "wof:lastmodified":1449029807,
+    "wof:lastmodified":1466772799,
     "wof:name":"Billing Connection Southern",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.81819,42.276486,-122.81819,42.276486],
+  "bbox": [
+    -122.81819,
+    42.276486,
+    -122.81819,
+    42.276486
+],
   "geometry": {"coordinates":[-122.81819,42.276486],"type":"Point"}
 }

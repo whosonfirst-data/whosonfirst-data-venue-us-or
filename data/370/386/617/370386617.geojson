@@ -2,13 +2,14 @@
   "id": 370386617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.611219,45.505369,-122.611219,45.505369",
     "geom:latitude":45.505369,
     "geom:longitude":-122.611219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2357 SE 50th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370386617,
-    "wof:lastmodified":1449030857,
+    "wof:lastmodified":1466771532,
     "wof:name":"Sunset Environmental/Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "removal"
     ]
 },
-  "bbox": [-122.611219,45.505369,-122.611219,45.505369],
-  "geometry": {"coordinates":[-122.611219,45.505369],"type":"Point"}
+  "bbox": [
+    -122.611219,
+    45.505369,
+    -122.611219,
+    45.505369
+],
+  "geometry": {"coordinates":[-122.61121900000001,45.505369],"type":"Point"}
 }

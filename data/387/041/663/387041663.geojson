@@ -2,13 +2,14 @@
   "id": 387041663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.244116,44.570481,-123.244116,44.570481",
     "geom:latitude":44.570481,
     "geom:longitude":-123.244116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34028 NE Electric Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387041663,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1466767826,
     "wof:name":"Trysting Tree Golf Course",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "public"
     ]
 },
-  "bbox": [-123.244116,44.570481,-123.244116,44.570481],
-  "geometry": {"coordinates":[-123.244116,44.570481],"type":"Point"}
+  "bbox": [
+    -123.244116,
+    44.570481,
+    -123.244116,
+    44.570481
+],
+  "geometry": {"coordinates":[-123.24411600000001,44.570481],"type":"Point"}
 }

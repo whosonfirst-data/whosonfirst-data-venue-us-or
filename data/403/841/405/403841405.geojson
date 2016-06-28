@@ -2,13 +2,14 @@
   "id": 403841405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.099663,44.005625,-123.099663,44.005625",
     "geom:latitude":44.005625,
     "geom:longitude":-123.099663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Brookside Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403841405,
-    "wof:lastmodified":1449054919,
+    "wof:lastmodified":1466770620,
     "wof:name":"Husted & Associates",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-123.099663,44.005625,-123.099663,44.005625],
-  "geometry": {"coordinates":[-123.099663,44.005625],"type":"Point"}
+  "bbox": [
+    -123.099663,
+    44.005625,
+    -123.099663,
+    44.005625
+],
+  "geometry": {"coordinates":[-123.09966300000001,44.005625],"type":"Point"}
 }

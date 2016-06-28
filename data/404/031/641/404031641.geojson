@@ -2,13 +2,14 @@
   "id": 404031641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.784793,45.429697,-122.784793,45.429697",
     "geom:latitude":45.429697,
     "geom:longitude":-122.784793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10495 SW Walnut St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404031641,
-    "wof:lastmodified":1449039481,
+    "wof:lastmodified":1466769004,
     "wof:name":"Adult Rsdntial Care Rfrral Svc",
     "wof:parent_id":85868987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.784793,45.429697,-122.784793,45.429697],
-  "geometry": {"coordinates":[-122.784793,45.429697],"type":"Point"}
+  "bbox": [
+    -122.784793,
+    45.429697,
+    -122.784793,
+    45.429697
+],
+  "geometry": {"coordinates":[-122.78479299999999,45.429697],"type":"Point"}
 }

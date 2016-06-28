@@ -2,13 +2,14 @@
   "id": 371107203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.038281,44.941254,-123.038281,44.941254",
     "geom:latitude":44.941254,
     "geom:longitude":-123.038281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Liberty St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371107203,
-    "wof:lastmodified":1449049074,
+    "wof:lastmodified":1466768913,
     "wof:name":"Beach Club",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-123.038281,44.941254,-123.038281,44.941254],
+  "bbox": [
+    -123.038281,
+    44.941254,
+    -123.038281,
+    44.941254
+],
   "geometry": {"coordinates":[-123.038281,44.941254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404017309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.131862,44.063763,-123.131862,44.063763",
     "geom:latitude":44.063763,
     "geom:longitude":-123.131862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2465 Roosevelt Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404017309,
-    "wof:lastmodified":1449039770,
+    "wof:lastmodified":1466768764,
     "wof:name":"Townhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.131862,44.063763,-123.131862,44.063763],
+  "bbox": [
+    -123.131862,
+    44.063763,
+    -123.131862,
+    44.063763
+],
   "geometry": {"coordinates":[-123.131862,44.063763],"type":"Point"}
 }

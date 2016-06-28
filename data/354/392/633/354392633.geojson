@@ -2,13 +2,14 @@
   "id": 354392633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.263434,44.559429,-123.263434,44.559429",
     "geom:latitude":44.559429,
     "geom:longitude":-123.263434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 SW 3rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354392633,
-    "wof:lastmodified":1449067300,
+    "wof:lastmodified":1466771176,
     "wof:name":"Buckingham Palace",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-123.263434,44.559429,-123.263434,44.559429],
+  "bbox": [
+    -123.263434,
+    44.559429,
+    -123.263434,
+    44.559429
+],
   "geometry": {"coordinates":[-123.263434,44.559429],"type":"Point"}
 }

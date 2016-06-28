@@ -2,13 +2,14 @@
   "id": 387057279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.607953,45.535696,-122.607953,45.535696",
     "geom:latitude":45.535696,
     "geom:longitude":-122.607953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 NE 54th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387057279,
-    "wof:lastmodified":1449057986,
+    "wof:lastmodified":1466768096,
     "wof:name":"Soapbox Enterprises",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.607953,45.535696,-122.607953,45.535696],
-  "geometry": {"coordinates":[-122.607953,45.535696],"type":"Point"}
+  "bbox": [
+    -122.607953,
+    45.535696,
+    -122.607953,
+    45.535696
+],
+  "geometry": {"coordinates":[-122.60795299999999,45.535696],"type":"Point"}
 }

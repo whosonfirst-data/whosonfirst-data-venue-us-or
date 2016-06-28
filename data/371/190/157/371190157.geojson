@@ -2,13 +2,14 @@
   "id": 371190157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.558225,45.52577,-122.558225,45.52577",
     "geom:latitude":45.52577,
     "geom:longitude":-122.558225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 NE 102nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371190157,
-    "wof:lastmodified":1449050087,
+    "wof:lastmodified":1466770486,
     "wof:name":"New Visual Corp",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-122.558225,45.52577,-122.558225,45.52577],
-  "geometry": {"coordinates":[-122.558225,45.52577],"type":"Point"}
+  "bbox": [
+    -122.558225,
+    45.52577,
+    -122.558225,
+    45.52577
+],
+  "geometry": {"coordinates":[-122.55822499999999,45.52577],"type":"Point"}
 }

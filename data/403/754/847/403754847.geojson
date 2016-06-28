@@ -2,13 +2,14 @@
   "id": 403754847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.662913,45.553249,-122.662913,45.553249",
     "geom:latitude":45.553249,
     "geom:longitude":-122.662913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 NE Mason St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403754847,
-    "wof:lastmodified":1449055489,
+    "wof:lastmodified":1466768935,
     "wof:name":"Philadelphia CMBC",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.662913,45.553249,-122.662913,45.553249],
+  "bbox": [
+    -122.662913,
+    45.553249,
+    -122.662913,
+    45.553249
+],
   "geometry": {"coordinates":[-122.662913,45.553249],"type":"Point"}
 }

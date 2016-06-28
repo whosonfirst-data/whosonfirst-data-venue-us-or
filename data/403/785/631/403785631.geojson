@@ -2,13 +2,14 @@
   "id": 403785631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.460648,43.74162,-122.460648,43.74162",
     "geom:latitude":43.74162,
     "geom:longitude":-122.460648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48207 Hwy 58",
     "sg:city":"Oakridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403785631,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1466769410,
     "wof:name":"K & M Real Estate Svc",
     "wof:parent_id":85857787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.460648,43.74162,-122.460648,43.74162],
-  "geometry": {"coordinates":[-122.460648,43.74162],"type":"Point"}
+  "bbox": [
+    -122.460648,
+    43.74162,
+    -122.460648,
+    43.74162
+],
+  "geometry": {"coordinates":[-122.46064800000001,43.74162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387298411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347366,43.237083,-123.347366,43.237083",
     "geom:latitude":43.237083,
     "geom:longitude":-123.347366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2288 NE Vine St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387298411,
-    "wof:lastmodified":1449057127,
+    "wof:lastmodified":1466772081,
     "wof:name":"Loris Acupuncture",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-123.347366,43.237083,-123.347366,43.237083],
-  "geometry": {"coordinates":[-123.347366,43.237083],"type":"Point"}
+  "bbox": [
+    -123.347366,
+    43.237083,
+    -123.347366,
+    43.237083
+],
+  "geometry": {"coordinates":[-123.34736599999999,43.237083],"type":"Point"}
 }

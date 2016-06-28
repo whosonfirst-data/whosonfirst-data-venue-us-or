@@ -2,13 +2,14 @@
   "id": 370380819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.610604,45.543343,-122.610604,45.543343",
     "geom:latitude":45.543343,
     "geom:longitude":-122.610604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2742 NE 51st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370380819,
-    "wof:lastmodified":1449030659,
+    "wof:lastmodified":1466771411,
     "wof:name":"Peartree Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-122.610604,45.543343,-122.610604,45.543343],
+  "bbox": [
+    -122.610604,
+    45.543343,
+    -122.610604,
+    45.543343
+],
   "geometry": {"coordinates":[-122.610604,45.543343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371094213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.105021,44.629216,-123.105021,44.629216",
     "geom:latitude":44.629216,
     "geom:longitude":-123.105021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Pacific Blvd SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371094213,
-    "wof:lastmodified":1449049695,
+    "wof:lastmodified":1466768700,
     "wof:name":"Whirlwind Press",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-123.105021,44.629216,-123.105021,44.629216],
-  "geometry": {"coordinates":[-123.105021,44.629216],"type":"Point"}
+  "bbox": [
+    -123.105021,
+    44.629216,
+    -123.105021,
+    44.629216
+],
+  "geometry": {"coordinates":[-123.10502099999999,44.629216],"type":"Point"}
 }

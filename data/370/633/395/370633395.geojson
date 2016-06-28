@@ -2,13 +2,14 @@
   "id": 370633395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.719778,45.492865,-122.719778,45.492865",
     "geom:latitude":45.492865,
     "geom:longitude":-122.719778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 SW Bancroft St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370633395,
-    "wof:lastmodified":1449032441,
+    "wof:lastmodified":1466773198,
     "wof:name":"Research Center",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-122.719778,45.492865,-122.719778,45.492865],
-  "geometry": {"coordinates":[-122.719778,45.492865],"type":"Point"}
+  "bbox": [
+    -122.719778,
+    45.492865,
+    -122.719778,
+    45.492865
+],
+  "geometry": {"coordinates":[-122.71977800000001,45.492865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370931309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.995538,44.045788,-122.995538,44.045788",
     "geom:latitude":44.045788,
     "geom:longitude":-122.995538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370931309,
-    "wof:lastmodified":1449032169,
+    "wof:lastmodified":1466774919,
     "wof:name":"B & D Auto",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.995538,44.045788,-122.995538,44.045788],
+  "bbox": [
+    -122.995538,
+    44.045788,
+    -122.995538,
+    44.045788
+],
   "geometry": {"coordinates":[-122.995538,44.045788],"type":"Point"}
 }

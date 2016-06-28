@@ -2,13 +2,14 @@
   "id": 370203035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.683751,45.509546,-122.683751,45.509546",
     "geom:latitude":45.509546,
     "geom:longitude":-122.683751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1986 SW 6th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370203035,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466768087,
     "wof:name":"Cha Cha Cha",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.683751,45.509546,-122.683751,45.509546],
+  "bbox": [
+    -122.683751,
+    45.509546,
+    -122.683751,
+    45.509546
+],
   "geometry": {"coordinates":[-122.683751,45.509546],"type":"Point"}
 }

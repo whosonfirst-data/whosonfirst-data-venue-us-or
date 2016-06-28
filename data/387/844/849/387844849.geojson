@@ -2,13 +2,14 @@
   "id": 387844849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.309705,43.390784,-123.309705,43.390784",
     "geom:latitude":43.390784,
     "geom:longitude":-123.309705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Central Ave",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387844849,
-    "wof:lastmodified":1449057728,
+    "wof:lastmodified":1466775257,
     "wof:name":"Sutherlin Senior Ctr",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-123.309705,43.390784,-123.309705,43.390784],
-  "geometry": {"coordinates":[-123.309705,43.390784],"type":"Point"}
+  "bbox": [
+    -123.309705,
+    43.390784,
+    -123.309705,
+    43.390784
+],
+  "geometry": {"coordinates":[-123.30970499999999,43.390784],"type":"Point"}
 }

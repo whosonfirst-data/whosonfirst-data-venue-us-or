@@ -2,13 +2,14 @@
   "id": 370255613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.508389,45.550862,-122.508389,45.550862",
     "geom:latitude":45.550862,
     "geom:longitude":-122.508389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3859 NE 149th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370255613,
-    "wof:lastmodified":1449030637,
+    "wof:lastmodified":1466768991,
     "wof:name":"Donald Schmidt",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.508389,45.550862,-122.508389,45.550862],
-  "geometry": {"coordinates":[-122.508389,45.550862],"type":"Point"}
+  "bbox": [
+    -122.508389,
+    45.550862,
+    -122.508389,
+    45.550862
+],
+  "geometry": {"coordinates":[-122.50838899999999,45.550862],"type":"Point"}
 }

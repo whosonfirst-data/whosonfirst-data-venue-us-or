@@ -2,13 +2,14 @@
   "id": 387485041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690789,42.194828,-122.690789,42.194828",
     "geom:latitude":42.194828,
     "geom:longitude":-122.690789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 E Main St",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387485041,
-    "wof:lastmodified":1449058421,
+    "wof:lastmodified":1466773056,
     "wof:name":"US Fish & Wildlife Dept Svc",
     "wof:parent_id":85847959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-122.690789,42.194828,-122.690789,42.194828],
+  "bbox": [
+    -122.690789,
+    42.194828,
+    -122.690789,
+    42.194828
+],
   "geometry": {"coordinates":[-122.690789,42.194828],"type":"Point"}
 }

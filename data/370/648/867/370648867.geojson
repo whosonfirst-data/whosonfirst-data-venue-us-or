@@ -2,13 +2,14 @@
   "id": 370648867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.082051,44.045334,-123.082051,44.045334",
     "geom:latitude":44.045334,
     "geom:longitude":-123.082051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Hilyard St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370648867,
-    "wof:lastmodified":1449030029,
+    "wof:lastmodified":1466773197,
     "wof:name":"Tom's Tea House",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-123.082051,44.045334,-123.082051,44.045334],
-  "geometry": {"coordinates":[-123.082051,44.045334],"type":"Point"}
+  "bbox": [
+    -123.082051,
+    44.045334,
+    -123.082051,
+    44.045334
+],
+  "geometry": {"coordinates":[-123.08205100000001,44.045334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387076683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.035637,45.007399,-123.035637,45.007399",
     "geom:latitude":45.007399,
     "geom:longitude":-123.035637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"778 Crystal Springs Ln N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387076683,
-    "wof:lastmodified":1449059091,
+    "wof:lastmodified":1466768422,
     "wof:name":"Camelot Photography",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-123.035637,45.007399,-123.035637,45.007399],
-  "geometry": {"coordinates":[-123.035637,45.007399],"type":"Point"}
+  "bbox": [
+    -123.035637,
+    45.007399,
+    -123.035637,
+    45.007399
+],
+  "geometry": {"coordinates":[-123.03563699999999,45.007399],"type":"Point"}
 }

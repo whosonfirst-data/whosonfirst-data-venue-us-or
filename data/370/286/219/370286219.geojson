@@ -2,13 +2,14 @@
   "id": 370286219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.685033,45.264859,-122.685033,45.264859",
     "geom:latitude":45.264859,
     "geom:longitude":-122.685033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 SE 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370286219,
-    "wof:lastmodified":1449029989,
+    "wof:lastmodified":1466769571,
     "wof:name":"Canby Health Care Clinic",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.685033,45.264859,-122.685033,45.264859],
+  "bbox": [
+    -122.685033,
+    45.264859,
+    -122.685033,
+    45.264859
+],
   "geometry": {"coordinates":[-122.685033,45.264859],"type":"Point"}
 }

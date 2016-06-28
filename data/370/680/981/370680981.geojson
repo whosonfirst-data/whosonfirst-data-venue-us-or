@@ -2,13 +2,14 @@
   "id": 370680981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120075,44.045469,-123.120075,44.045469",
     "geom:latitude":44.045469,
     "geom:longitude":-123.120075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 W 13th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370680981,
-    "wof:lastmodified":1449031460,
+    "wof:lastmodified":1466773465,
     "wof:name":"Paul Gardner Logging and Trckg",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.120075,44.045469,-123.120075,44.045469],
+  "bbox": [
+    -123.120075,
+    44.045469,
+    -123.120075,
+    44.045469
+],
   "geometry": {"coordinates":[-123.120075,44.045469],"type":"Point"}
 }

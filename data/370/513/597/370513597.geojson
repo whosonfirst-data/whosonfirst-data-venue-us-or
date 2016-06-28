@@ -2,13 +2,14 @@
   "id": 370513597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.016661,44.055655,-123.016661,44.055655",
     "geom:latitude":44.055655,
     "geom:longitude":-123.016661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 7th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370513597,
-    "wof:lastmodified":1449031320,
+    "wof:lastmodified":1466772536,
     "wof:name":"Lighthouse Enterprises",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.016661,44.055655,-123.016661,44.055655],
+  "bbox": [
+    -123.016661,
+    44.055655,
+    -123.016661,
+    44.055655
+],
   "geometry": {"coordinates":[-123.016661,44.055655],"type":"Point"}
 }

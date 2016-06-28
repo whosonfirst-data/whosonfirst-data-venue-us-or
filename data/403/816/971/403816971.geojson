@@ -2,13 +2,14 @@
   "id": 403816971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.747155,45.517148,-122.747155,45.517148",
     "geom:latitude":45.517148,
     "geom:longitude":-122.747155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 SW Breeze Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403816971,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1466769982,
     "wof:name":"Tempus Inc",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.747155,45.517148,-122.747155,45.517148],
-  "geometry": {"coordinates":[-122.747155,45.517148],"type":"Point"}
+  "bbox": [
+    -122.747155,
+    45.517148,
+    -122.747155,
+    45.517148
+],
+  "geometry": {"coordinates":[-122.74715500000001,45.517148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370663183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192082,45.210099,-123.192082,45.210099",
     "geom:latitude":45.210099,
     "geom:longitude":-123.192082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 NE 3rd St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370663183,
-    "wof:lastmodified":1449031585,
+    "wof:lastmodified":1466773365,
     "wof:name":"Alpha Building Company",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.192082,45.210099,-123.192082,45.210099],
+  "bbox": [
+    -123.192082,
+    45.210099,
+    -123.192082,
+    45.210099
+],
   "geometry": {"coordinates":[-123.192082,45.210099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404134949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.406556,44.019747,-123.406556,44.019747",
     "geom:latitude":44.019747,
     "geom:longitude":-123.406556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23561 Vaughn Rd",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404134949,
-    "wof:lastmodified":1449040273,
+    "wof:lastmodified":1466771286,
     "wof:name":"Floor Art",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-123.406556,44.019747,-123.406556,44.019747],
-  "geometry": {"coordinates":[-123.406556,44.019747],"type":"Point"}
+  "bbox": [
+    -123.406556,
+    44.019747,
+    -123.406556,
+    44.019747
+],
+  "geometry": {"coordinates":[-123.40655599999999,44.019747],"type":"Point"}
 }

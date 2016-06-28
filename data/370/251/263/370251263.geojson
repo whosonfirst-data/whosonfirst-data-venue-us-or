@@ -2,13 +2,14 @@
   "id": 370251263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.954361,45.306229,-122.954361,45.306229",
     "geom:latitude":45.306229,
     "geom:longitude":-122.954361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Elliott Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370251263,
-    "wof:lastmodified":1449029132,
+    "wof:lastmodified":1466768906,
     "wof:name":"Cedar Terrace Apartments",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.954361,45.306229,-122.954361,45.306229],
-  "geometry": {"coordinates":[-122.954361,45.306229],"type":"Point"}
+  "bbox": [
+    -122.954361,
+    45.306229,
+    -122.954361,
+    45.306229
+],
+  "geometry": {"coordinates":[-122.95436100000001,45.306229],"type":"Point"}
 }

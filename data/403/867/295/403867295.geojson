@@ -2,13 +2,14 @@
   "id": 403867295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.187775,44.261509,-121.187775,44.261509",
     "geom:latitude":44.261509,
     "geom:longitude":-121.187775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 SW Canyon Dr",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403867295,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466771105,
     "wof:name":"Central Oregon Overhead Door",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.187775,44.261509,-121.187775,44.261509],
+  "bbox": [
+    -121.187775,
+    44.261509,
+    -121.187775,
+    44.261509
+],
   "geometry": {"coordinates":[-121.187775,44.261509],"type":"Point"}
 }

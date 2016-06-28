@@ -2,13 +2,14 @@
   "id": 370924507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.166125,44.110723,-123.166125,44.110723",
     "geom:latitude":44.110723,
     "geom:longitude":-123.166125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30042 Carol Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370924507,
-    "wof:lastmodified":1449030042,
+    "wof:lastmodified":1466774705,
     "wof:name":"B & M of Bridgebrothers",
     "wof:parent_id":85877245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.166125,44.110723,-123.166125,44.110723],
-  "geometry": {"coordinates":[-123.166125,44.110723],"type":"Point"}
+  "bbox": [
+    -123.166125,
+    44.110723,
+    -123.166125,
+    44.110723
+],
+  "geometry": {"coordinates":[-123.16612499999999,44.110723],"type":"Point"}
 }

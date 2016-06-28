@@ -2,13 +2,14 @@
   "id": 386995551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.140848,44.051925,-123.140848,44.051925",
     "geom:latitude":44.051925,
     "geom:longitude":-123.140848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3395 W 7th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386995551,
-    "wof:lastmodified":1449028937,
+    "wof:lastmodified":1466767472,
     "wof:name":"West Coast Custom Dreamz",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.140848,44.051925,-123.140848,44.051925],
-  "geometry": {"coordinates":[-123.140848,44.051925],"type":"Point"}
+  "bbox": [
+    -123.140848,
+    44.051925,
+    -123.140848,
+    44.051925
+],
+  "geometry": {"coordinates":[-123.14084800000001,44.051925],"type":"Point"}
 }

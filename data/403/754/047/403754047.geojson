@@ -2,13 +2,14 @@
   "id": 403754047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136181,44.031572,-123.136181,44.031572",
     "geom:latitude":44.031572,
     "geom:longitude":-123.136181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Park Forest Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403754047,
-    "wof:lastmodified":1449055489,
+    "wof:lastmodified":1466771457,
     "wof:name":"Hayes Jack",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.136181,44.031572,-123.136181,44.031572],
-  "geometry": {"coordinates":[-123.136181,44.031572],"type":"Point"}
+  "bbox": [
+    -123.136181,
+    44.031572,
+    -123.136181,
+    44.031572
+],
+  "geometry": {"coordinates":[-123.13618099999999,44.031572],"type":"Point"}
 }

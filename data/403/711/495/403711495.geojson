@@ -2,13 +2,14 @@
   "id": 403711495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.514677,45.514947,-122.514677,45.514947",
     "geom:latitude":45.514947,
     "geom:longitude":-122.514677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 SE 144th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403711495,
-    "wof:lastmodified":1449055723,
+    "wof:lastmodified":1466767979,
     "wof:name":"A-1 Lawn & Grounds Maintenance",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.514677,45.514947,-122.514677,45.514947],
-  "geometry": {"coordinates":[-122.514677,45.514947],"type":"Point"}
+  "bbox": [
+    -122.514677,
+    45.514947,
+    -122.514677,
+    45.514947
+],
+  "geometry": {"coordinates":[-122.51467700000001,45.514947],"type":"Point"}
 }

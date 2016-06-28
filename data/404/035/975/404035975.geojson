@@ -2,13 +2,14 @@
   "id": 404035975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.147337,44.122247,-123.147337,44.122247",
     "geom:latitude":44.122247,
     "geom:longitude":-123.147337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Chimney Rock Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404035975,
-    "wof:lastmodified":1449040063,
+    "wof:lastmodified":1466769090,
     "wof:name":"D W Wall CPA",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.147337,44.122247,-123.147337,44.122247],
-  "geometry": {"coordinates":[-123.147337,44.122247],"type":"Point"}
+  "bbox": [
+    -123.147337,
+    44.122247,
+    -123.147337,
+    44.122247
+],
+  "geometry": {"coordinates":[-123.14733699999999,44.122247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370246937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.480438,45.540568,-122.480438,45.540568",
     "geom:latitude":45.540568,
     "geom:longitude":-122.480438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17268 NE Sacramento St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370246937,
-    "wof:lastmodified":1449029311,
+    "wof:lastmodified":1466768830,
     "wof:name":"P Tor",
     "wof:parent_id":85824571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-122.480438,45.540568,-122.480438,45.540568],
-  "geometry": {"coordinates":[-122.480438,45.540568],"type":"Point"}
+  "bbox": [
+    -122.480438,
+    45.540568,
+    -122.480438,
+    45.540568
+],
+  "geometry": {"coordinates":[-122.48043800000001,45.540568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370878295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.105467,44.028645,-123.105467,44.028645",
     "geom:latitude":44.028645,
     "geom:longitude":-123.105467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Friendly St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370878295,
-    "wof:lastmodified":1449030849,
+    "wof:lastmodified":1466774539,
     "wof:name":"Flicks & Pics",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rent"
     ]
 },
-  "bbox": [-123.105467,44.028645,-123.105467,44.028645],
+  "bbox": [
+    -123.105467,
+    44.028645,
+    -123.105467,
+    44.028645
+],
   "geometry": {"coordinates":[-123.105467,44.028645],"type":"Point"}
 }

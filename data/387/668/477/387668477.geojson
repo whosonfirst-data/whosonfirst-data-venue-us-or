@@ -2,13 +2,14 @@
   "id": 387668477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.550589,45.564973,-122.550589,45.564973",
     "geom:latitude":45.564973,
     "geom:longitude":-122.550589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5830 NE 109th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387668477,
-    "wof:lastmodified":1449058762,
+    "wof:lastmodified":1466774327,
     "wof:name":"IFC Storage",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-122.550589,45.564973,-122.550589,45.564973],
+  "bbox": [
+    -122.550589,
+    45.564973,
+    -122.550589,
+    45.564973
+],
   "geometry": {"coordinates":[-122.550589,45.564973],"type":"Point"}
 }

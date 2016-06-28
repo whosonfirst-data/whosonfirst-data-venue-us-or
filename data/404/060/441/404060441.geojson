@@ -2,13 +2,14 @@
   "id": 404060441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.041103,46.099207,-123.041103,46.099207",
     "geom:latitude":46.099207,
     "geom:longitude":-123.041103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25521 Wonderly Rd",
     "sg:city":"Rainier",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404060441,
-    "wof:lastmodified":1449040218,
+    "wof:lastmodified":1466769501,
     "wof:name":"AIC Insurance",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.041103,46.099207,-123.041103,46.099207],
-  "geometry": {"coordinates":[-123.041103,46.099207],"type":"Point"}
+  "bbox": [
+    -123.041103,
+    46.099207,
+    -123.041103,
+    46.099207
+],
+  "geometry": {"coordinates":[-123.04110300000001,46.099207],"type":"Point"}
 }

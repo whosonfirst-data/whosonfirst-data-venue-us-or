@@ -2,13 +2,14 @@
   "id": 387397105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.611209,45.508038,-122.611209,45.508038",
     "geom:latitude":45.508038,
     "geom:longitude":-122.611209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 SE 50th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387397105,
-    "wof:lastmodified":1449057625,
+    "wof:lastmodified":1466772588,
     "wof:name":"Patrick Chapman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-122.611209,45.508038,-122.611209,45.508038],
+  "bbox": [
+    -122.611209,
+    45.508038,
+    -122.611209,
+    45.508038
+],
   "geometry": {"coordinates":[-122.611209,45.508038],"type":"Point"}
 }

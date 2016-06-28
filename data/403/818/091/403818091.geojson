@@ -2,13 +2,14 @@
   "id": 403818091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.268685,44.628678,-123.268685,44.628678",
     "geom:latitude":44.628678,
     "geom:longitude":-123.268685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 NW Lewisburg Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403818091,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1466770023,
     "wof:name":"Hill Farm Stables",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.268685,44.628678,-123.268685,44.628678],
+  "bbox": [
+    -123.268685,
+    44.628678,
+    -123.268685,
+    44.628678
+],
   "geometry": {"coordinates":[-123.268685,44.628678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370327957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.110752,44.086401,-123.110752,44.086401",
     "geom:latitude":44.086401,
     "geom:longitude":-123.110752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Goodpasture Loop",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370327957,
-    "wof:lastmodified":1449029341,
+    "wof:lastmodified":1466770387,
     "wof:name":"Millennium Tour",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-123.110752,44.086401,-123.110752,44.086401],
-  "geometry": {"coordinates":[-123.110752,44.086401],"type":"Point"}
+  "bbox": [
+    -123.110752,
+    44.086401,
+    -123.110752,
+    44.086401
+],
+  "geometry": {"coordinates":[-123.11075200000001,44.086401],"type":"Point"}
 }

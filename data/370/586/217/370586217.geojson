@@ -2,13 +2,14 @@
   "id": 370586217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.749353,45.495002,-122.749353,45.495002",
     "geom:latitude":45.495002,
     "geom:longitude":-122.749353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7040 SW Gable Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370586217,
-    "wof:lastmodified":1449032089,
+    "wof:lastmodified":1466772935,
     "wof:name":"West Hills Jr Soccer Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.749353,45.495002,-122.749353,45.495002],
+  "bbox": [
+    -122.749353,
+    45.495002,
+    -122.749353,
+    45.495002
+],
   "geometry": {"coordinates":[-122.749353,45.495002],"type":"Point"}
 }

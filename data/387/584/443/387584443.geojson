@@ -2,13 +2,14 @@
   "id": 387584443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.995048,45.593982,-122.995048,45.593982",
     "geom:latitude":45.593982,
     "geom:longitude":-122.995048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10240 NW Glencoe Rd",
     "sg:city":"North Plains",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387584443,
-    "wof:lastmodified":1449056526,
+    "wof:lastmodified":1466773829,
     "wof:name":"Tom's Import Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.995048,45.593982,-122.995048,45.593982],
+  "bbox": [
+    -122.995048,
+    45.593982,
+    -122.995048,
+    45.593982
+],
   "geometry": {"coordinates":[-122.995048,45.593982],"type":"Point"}
 }

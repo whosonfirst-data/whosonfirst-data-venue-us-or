@@ -2,13 +2,14 @@
   "id": 403716719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030094,46.106483,-123.030094,46.106483",
     "geom:latitude":46.106483,
     "geom:longitude":-123.030094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76528 Heath Rd",
     "sg:city":"Rainier",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403716719,
-    "wof:lastmodified":1449054813,
+    "wof:lastmodified":1466768102,
     "wof:name":"US Bonneville Power Adm",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "govt"
     ]
 },
-  "bbox": [-123.030094,46.106483,-123.030094,46.106483],
-  "geometry": {"coordinates":[-123.030094,46.106483],"type":"Point"}
+  "bbox": [
+    -123.030094,
+    46.106483,
+    -123.030094,
+    46.106483
+],
+  "geometry": {"coordinates":[-123.03009400000001,46.106483],"type":"Point"}
 }

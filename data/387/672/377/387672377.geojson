@@ -2,13 +2,14 @@
   "id": 387672377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.00168,44.04435,-123.00168,44.04435",
     "geom:latitude":44.04435,
     "geom:longitude":-123.00168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 S A St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387672377,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1466774343,
     "wof:name":"Massey's Auto Wholesale",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.00168,44.04435,-123.00168,44.04435],
-  "geometry": {"coordinates":[-123.00168,44.04435],"type":"Point"}
+  "bbox": [
+    -123.00168,
+    44.04435,
+    -123.00168,
+    44.04435
+],
+  "geometry": {"coordinates":[-123.00167999999999,44.04435],"type":"Point"}
 }

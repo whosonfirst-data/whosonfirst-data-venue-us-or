@@ -2,13 +2,14 @@
   "id": 387636197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.237549,44.930111,-123.237549,44.930111",
     "geom:latitude":44.930111,
     "geom:longitude":-123.237549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 Rickreall Rd",
     "sg:city":"Rickreall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387636197,
-    "wof:lastmodified":1449057619,
+    "wof:lastmodified":1466774032,
     "wof:name":"Fastlane Coping",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-123.237549,44.930111,-123.237549,44.930111],
+  "bbox": [
+    -123.237549,
+    44.930111,
+    -123.237549,
+    44.930111
+],
   "geometry": {"coordinates":[-123.237549,44.930111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370481111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.556306,45.526197,-122.556306,45.526197",
     "geom:latitude":45.526197,
     "geom:longitude":-122.556306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10310 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370481111,
-    "wof:lastmodified":1449032042,
+    "wof:lastmodified":1466772089,
     "wof:name":"Dental Hygiene Assoc",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hygienist"
     ]
 },
-  "bbox": [-122.556306,45.526197,-122.556306,45.526197],
-  "geometry": {"coordinates":[-122.556306,45.526197],"type":"Point"}
+  "bbox": [
+    -122.556306,
+    45.526197,
+    -122.556306,
+    45.526197
+],
+  "geometry": {"coordinates":[-122.55630600000001,45.526197],"type":"Point"}
 }

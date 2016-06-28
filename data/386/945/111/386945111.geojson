@@ -2,13 +2,14 @@
   "id": 386945111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.96353,44.024642,-116.96353,44.024642",
     "geom:latitude":44.024642,
     "geom:longitude":-116.96353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Oregon St",
     "sg:city":"Ontario",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386945111,
-    "wof:lastmodified":1449028660,
+    "wof:lastmodified":1466767233,
     "wof:name":"Thread Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.96353,44.024642,-116.96353,44.024642],
-  "geometry": {"coordinates":[-116.96353,44.024642],"type":"Point"}
+  "bbox": [
+    -116.96353,
+    44.024642,
+    -116.96353,
+    44.024642
+],
+  "geometry": {"coordinates":[-116.96353000000001,44.024642],"type":"Point"}
 }

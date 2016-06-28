@@ -2,13 +2,14 @@
   "id": 387438797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.449942,45.54408,-122.449942,45.54408",
     "geom:latitude":45.54408,
     "geom:longitude":-122.449942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20708 NE Sandy Blvd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387438797,
-    "wof:lastmodified":1449057390,
+    "wof:lastmodified":1466772704,
     "wof:name":"Lars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-122.449942,45.54408,-122.449942,45.54408],
-  "geometry": {"coordinates":[-122.449942,45.54408],"type":"Point"}
+  "bbox": [
+    -122.449942,
+    45.54408,
+    -122.449942,
+    45.54408
+],
+  "geometry": {"coordinates":[-122.44994199999999,45.54408],"type":"Point"}
 }

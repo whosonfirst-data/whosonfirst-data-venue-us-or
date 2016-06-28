@@ -2,13 +2,14 @@
   "id": 370824301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.700054,45.263005,-122.700054,45.263005",
     "geom:latitude":45.263005,
     "geom:longitude":-122.700054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 NW 4th Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370824301,
-    "wof:lastmodified":1449030293,
+    "wof:lastmodified":1466774115,
     "wof:name":"IMR Inc",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-122.700054,45.263005,-122.700054,45.263005],
-  "geometry": {"coordinates":[-122.700054,45.263005],"type":"Point"}
+  "bbox": [
+    -122.700054,
+    45.263005,
+    -122.700054,
+    45.263005
+],
+  "geometry": {"coordinates":[-122.70005399999999,45.263005],"type":"Point"}
 }

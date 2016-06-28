@@ -2,13 +2,14 @@
   "id": 404192379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.326575,45.468842,-122.326575,45.468842",
     "geom:latitude":45.468842,
     "geom:longitude":-122.326575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7547 SE Altman Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404192379,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1466767975,
     "wof:name":"Elliotts Bending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heat"
     ]
 },
-  "bbox": [-122.326575,45.468842,-122.326575,45.468842],
-  "geometry": {"coordinates":[-122.326575,45.468842],"type":"Point"}
+  "bbox": [
+    -122.326575,
+    45.468842,
+    -122.326575,
+    45.468842
+],
+  "geometry": {"coordinates":[-122.32657500000001,45.468842],"type":"Point"}
 }

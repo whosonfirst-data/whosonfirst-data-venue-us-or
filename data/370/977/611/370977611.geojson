@@ -2,13 +2,14 @@
   "id": 370977611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.026219,44.938016,-123.026219,44.938016",
     "geom:latitude":44.938016,
     "geom:longitude":-123.026219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Court St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370977611,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1466775035,
     "wof:name":"Oregon Municipal Electric",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.026219,44.938016,-123.026219,44.938016],
+  "bbox": [
+    -123.026219,
+    44.938016,
+    -123.026219,
+    44.938016
+],
   "geometry": {"coordinates":[-123.026219,44.938016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370446569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.443737,44.839885,-123.443737,44.839885",
     "geom:latitude":44.839885,
     "geom:longitude":-123.443737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6510 Teal Creek Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370446569,
-    "wof:lastmodified":1449032189,
+    "wof:lastmodified":1466771980,
     "wof:name":"Camp Kilowan",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-123.443737,44.839885,-123.443737,44.839885],
+  "bbox": [
+    -123.443737,
+    44.839885,
+    -123.443737,
+    44.839885
+],
   "geometry": {"coordinates":[-123.443737,44.839885],"type":"Point"}
 }

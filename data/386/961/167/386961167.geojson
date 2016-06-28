@@ -2,13 +2,14 @@
   "id": 386961167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.793731,44.797991,-122.793731,44.797991",
     "geom:latitude":44.797991,
     "geom:longitude":-122.793731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E High St",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386961167,
-    "wof:lastmodified":1449028964,
+    "wof:lastmodified":1466767322,
     "wof:name":"Wanda Schneider",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.793731,44.797991,-122.793731,44.797991],
-  "geometry": {"coordinates":[-122.793731,44.797991],"type":"Point"}
+  "bbox": [
+    -122.793731,
+    44.797991,
+    -122.793731,
+    44.797991
+],
+  "geometry": {"coordinates":[-122.79373099999999,44.797991],"type":"Point"}
 }

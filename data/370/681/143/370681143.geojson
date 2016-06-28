@@ -2,13 +2,14 @@
   "id": 370681143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.824089,45.489427,-122.824089,45.489427",
     "geom:latitude":45.489427,
     "geom:longitude":-122.824089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14225 SW Tualatin Valley Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370681143,
-    "wof:lastmodified":1449031158,
+    "wof:lastmodified":1466773451,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "leasing"
     ]
 },
-  "bbox": [-122.824089,45.489427,-122.824089,45.489427],
+  "bbox": [
+    -122.824089,
+    45.489427,
+    -122.824089,
+    45.489427
+],
   "geometry": {"coordinates":[-122.824089,45.489427],"type":"Point"}
 }

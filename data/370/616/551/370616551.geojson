@@ -2,13 +2,14 @@
   "id": 370616551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.364626,44.539975,-123.364626,44.539975",
     "geom:latitude":44.539975,
     "geom:longitude":-123.364626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Main St",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370616551,
-    "wof:lastmodified":1449031580,
+    "wof:lastmodified":1466773011,
     "wof:name":"Grandmother's House",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.364626,44.539975,-123.364626,44.539975],
+  "bbox": [
+    -123.364626,
+    44.539975,
+    -123.364626,
+    44.539975
+],
   "geometry": {"coordinates":[-123.364626,44.539975],"type":"Point"}
 }

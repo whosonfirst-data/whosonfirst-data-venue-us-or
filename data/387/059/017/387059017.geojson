@@ -2,13 +2,14 @@
   "id": 387059017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.425734,45.321323,-122.425734,45.321323",
     "geom:latitude":45.321323,
     "geom:longitude":-122.425734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21375 S McKenzie Ln",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387059017,
-    "wof:lastmodified":1449057141,
+    "wof:lastmodified":1466768123,
     "wof:name":"Creekside Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-122.425734,45.321323,-122.425734,45.321323],
-  "geometry": {"coordinates":[-122.425734,45.321323],"type":"Point"}
+  "bbox": [
+    -122.425734,
+    45.321323,
+    -122.425734,
+    45.321323
+],
+  "geometry": {"coordinates":[-122.42573400000001,45.321323],"type":"Point"}
 }

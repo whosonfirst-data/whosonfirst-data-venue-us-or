@@ -2,13 +2,14 @@
   "id": 370820465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.440008,45.495659,-122.440008,45.495659",
     "geom:latitude":45.495659,
     "geom:longitude":-122.440008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 SW Eastman Pkwy",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370820465,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1466774094,
     "wof:name":"Inland Marine Fishery",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-122.440008,45.495659,-122.440008,45.495659],
-  "geometry": {"coordinates":[-122.440008,45.495659],"type":"Point"}
+  "bbox": [
+    -122.440008,
+    45.495659,
+    -122.440008,
+    45.495659
+],
+  "geometry": {"coordinates":[-122.44000800000001,45.495659],"type":"Point"}
 }

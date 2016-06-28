@@ -2,13 +2,14 @@
   "id": 387564801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.870083,45.185514,-122.870083,45.185514",
     "geom:latitude":45.185514,
     "geom:longitude":-122.870083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18335 Butteville Rd NE",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387564801,
-    "wof:lastmodified":1449059694,
+    "wof:lastmodified":1466773720,
     "wof:name":"Broadacres Nursery",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tree"
     ]
 },
-  "bbox": [-122.870083,45.185514,-122.870083,45.185514],
-  "geometry": {"coordinates":[-122.870083,45.185514],"type":"Point"}
+  "bbox": [
+    -122.870083,
+    45.185514,
+    -122.870083,
+    45.185514
+],
+  "geometry": {"coordinates":[-122.87008299999999,45.185514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370771655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.64915,45.476651,-122.64915,45.476651",
     "geom:latitude":45.476651,
     "geom:longitude":-122.64915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6327 SE Milwaukie Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370771655,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1466773928,
     "wof:name":"Sellwood Moreland Clinic",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.64915,45.476651,-122.64915,45.476651],
-  "geometry": {"coordinates":[-122.64915,45.476651],"type":"Point"}
+  "bbox": [
+    -122.64915,
+    45.476651,
+    -122.64915,
+    45.476651
+],
+  "geometry": {"coordinates":[-122.64915000000001,45.476651],"type":"Point"}
 }

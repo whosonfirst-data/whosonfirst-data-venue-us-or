@@ -2,13 +2,14 @@
   "id": 404153481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.065728,44.030468,-123.065728,44.030468",
     "geom:latitude":44.030468,
     "geom:longitude":-123.065728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 E 27th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404153481,
-    "wof:lastmodified":1449039956,
+    "wof:lastmodified":1466767297,
     "wof:name":"Mc Nutt Enterprises",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-123.065728,44.030468,-123.065728,44.030468],
-  "geometry": {"coordinates":[-123.065728,44.030468],"type":"Point"}
+  "bbox": [
+    -123.065728,
+    44.030468,
+    -123.065728,
+    44.030468
+],
+  "geometry": {"coordinates":[-123.06572799999999,44.030468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403900567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.699641,45.53342,-122.699641,45.53342",
     "geom:latitude":45.53342,
     "geom:longitude":-122.699641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2379 NW Quimby St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900567,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466767372,
     "wof:name":"Continental Servics Group",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.699641,45.53342,-122.699641,45.53342],
+  "bbox": [
+    -122.699641,
+    45.53342,
+    -122.699641,
+    45.53342
+],
   "geometry": {"coordinates":[-122.699641,45.53342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354298735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.166884,45.59465,-121.166884,45.59465",
     "geom:latitude":45.59465,
     "geom:longitude":-121.166884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Dry Hollow Rd",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354298735,
-    "wof:lastmodified":1449066369,
+    "wof:lastmodified":1466769484,
     "wof:name":"Presbyterian Church Gateway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-121.166884,45.59465,-121.166884,45.59465],
+  "bbox": [
+    -121.166884,
+    45.59465,
+    -121.166884,
+    45.59465
+],
   "geometry": {"coordinates":[-121.166884,45.59465],"type":"Point"}
 }

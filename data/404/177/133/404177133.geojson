@@ -2,13 +2,14 @@
   "id": 404177133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.044136,44.928553,-123.044136,44.928553",
     "geom:latitude":44.928553,
     "geom:longitude":-123.044136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404177133,
-    "wof:lastmodified":1449040328,
+    "wof:lastmodified":1466767714,
     "wof:name":"R Garrison Cort MD",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.044136,44.928553,-123.044136,44.928553],
-  "geometry": {"coordinates":[-123.044136,44.928553],"type":"Point"}
+  "bbox": [
+    -123.044136,
+    44.928553,
+    -123.044136,
+    44.928553
+],
+  "geometry": {"coordinates":[-123.04413599999999,44.928553],"type":"Point"}
 }

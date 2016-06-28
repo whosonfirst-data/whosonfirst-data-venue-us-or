@@ -2,13 +2,14 @@
   "id": 371170169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.764238,45.38425,-122.764238,45.38425",
     "geom:latitude":45.38425,
     "geom:longitude":-122.764238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18765 SW Boones Ferry Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371170169,
-    "wof:lastmodified":1449049119,
+    "wof:lastmodified":1466770073,
     "wof:name":"Lending Solutions",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-122.764238,45.38425,-122.764238,45.38425],
-  "geometry": {"coordinates":[-122.764238,45.38425],"type":"Point"}
+  "bbox": [
+    -122.764238,
+    45.38425,
+    -122.764238,
+    45.38425
+],
+  "geometry": {"coordinates":[-122.76423800000001,45.38425],"type":"Point"}
 }

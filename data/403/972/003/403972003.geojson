@@ -2,13 +2,14 @@
   "id": 403972003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.206537,44.540486,-123.206537,44.540486",
     "geom:latitude":44.540486,
     "geom:longitude":-123.206537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33052 SE Peoria Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403972003,
-    "wof:lastmodified":1449055313,
+    "wof:lastmodified":1466768648,
     "wof:name":"Hughey Homebuilding Inc",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-123.206537,44.540486,-123.206537,44.540486],
+  "bbox": [
+    -123.206537,
+    44.540486,
+    -123.206537,
+    44.540486
+],
   "geometry": {"coordinates":[-123.206537,44.540486],"type":"Point"}
 }

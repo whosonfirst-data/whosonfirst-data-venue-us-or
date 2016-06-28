@@ -2,13 +2,14 @@
   "id": 404218325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.163539,44.151993,-123.163539,44.151993",
     "geom:latitude":44.151993,
     "geom:longitude":-123.163539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30344 Victory Dr",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404218325,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1466768428,
     "wof:name":"Victory Gardens",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-123.163539,44.151993,-123.163539,44.151993],
+  "bbox": [
+    -123.163539,
+    44.151993,
+    -123.163539,
+    44.151993
+],
   "geometry": {"coordinates":[-123.163539,44.151993],"type":"Point"}
 }

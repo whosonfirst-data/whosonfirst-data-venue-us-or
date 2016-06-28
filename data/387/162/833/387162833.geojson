@@ -2,13 +2,14 @@
   "id": 387162833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.570503,45.478729,-122.570503,45.478729",
     "geom:latitude":45.478729,
     "geom:longitude":-122.570503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6212 SE 90th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387162833,
-    "wof:lastmodified":1449059368,
+    "wof:lastmodified":1466770026,
     "wof:name":"Ricks' Apartment Painting",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.570503,45.478729,-122.570503,45.478729],
+  "bbox": [
+    -122.570503,
+    45.478729,
+    -122.570503,
+    45.478729
+],
   "geometry": {"coordinates":[-122.570503,45.478729],"type":"Point"}
 }

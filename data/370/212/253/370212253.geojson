@@ -2,13 +2,14 @@
   "id": 370212253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.23729,44.849002,-123.23729,44.849002",
     "geom:latitude":44.849002,
     "geom:longitude":-123.23729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Monmouth Ave N",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370212253,
-    "wof:lastmodified":1449031264,
+    "wof:lastmodified":1466768247,
     "wof:name":"Courtyard Kitchen",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.23729,44.849002,-123.23729,44.849002],
+  "bbox": [
+    -123.23729,
+    44.849002,
+    -123.23729,
+    44.849002
+],
   "geometry": {"coordinates":[-123.23729,44.849002],"type":"Point"}
 }

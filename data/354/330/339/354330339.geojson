@@ -2,13 +2,14 @@
   "id": 354330339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690283,45.517506,-122.690283,45.517506",
     "geom:latitude":45.517506,
     "geom:longitude":-122.690283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 SW Jefferson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354330339,
-    "wof:lastmodified":1449066778,
+    "wof:lastmodified":1466769894,
     "wof:name":"Fog Cutter Capital Group Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.690283,45.517506,-122.690283,45.517506],
-  "geometry": {"coordinates":[-122.690283,45.517506],"type":"Point"}
+  "bbox": [
+    -122.690283,
+    45.517506,
+    -122.690283,
+    45.517506
+],
+  "geometry": {"coordinates":[-122.69028299999999,45.517506],"type":"Point"}
 }

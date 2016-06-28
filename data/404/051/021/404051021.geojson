@@ -2,13 +2,14 @@
   "id": 404051021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.20641,46.105448,-123.20641,46.105448",
     "geom:latitude":46.105448,
     "geom:longitude":-123.20641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Bel Air Dr",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404051021,
-    "wof:lastmodified":1449039852,
+    "wof:lastmodified":1466771466,
     "wof:name":"Armando Satellite & Cellular",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.20641,46.105448,-123.20641,46.105448],
-  "geometry": {"coordinates":[-123.20641,46.105448],"type":"Point"}
+  "bbox": [
+    -123.20641,
+    46.105448,
+    -123.20641,
+    46.105448
+],
+  "geometry": {"coordinates":[-123.20641000000001,46.105448],"type":"Point"}
 }

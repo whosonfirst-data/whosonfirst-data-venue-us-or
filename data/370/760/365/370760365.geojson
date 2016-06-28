@@ -2,13 +2,14 @@
   "id": 370760365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.503302,42.164622,-123.503302,42.164622",
     "geom:latitude":42.164622,
     "geom:longitude":-123.503302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7330 Caves Hwy",
     "sg:city":"Cave Junction",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370760365,
-    "wof:lastmodified":1449032343,
+    "wof:lastmodified":1466773858,
     "wof:name":"Antique Alley Custom Rod Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "customizing"
     ]
 },
-  "bbox": [-123.503302,42.164622,-123.503302,42.164622],
-  "geometry": {"coordinates":[-123.503302,42.164622],"type":"Point"}
+  "bbox": [
+    -123.503302,
+    42.164622,
+    -123.503302,
+    42.164622
+],
+  "geometry": {"coordinates":[-123.50330200000001,42.164622],"type":"Point"}
 }

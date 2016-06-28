@@ -2,13 +2,14 @@
   "id": 387952611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.781546,45.013795,-122.781546,45.013795",
     "geom:latitude":45.013795,
     "geom:longitude":-122.781546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Bryan Ct",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387952611,
-    "wof:lastmodified":1449058851,
+    "wof:lastmodified":1466775464,
     "wof:name":"Magic Carpet Cleaning & More",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-122.781546,45.013795,-122.781546,45.013795],
-  "geometry": {"coordinates":[-122.781546,45.013795],"type":"Point"}
+  "bbox": [
+    -122.781546,
+    45.013795,
+    -122.781546,
+    45.013795
+],
+  "geometry": {"coordinates":[-122.78154600000001,45.013795],"type":"Point"}
 }

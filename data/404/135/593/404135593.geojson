@@ -2,13 +2,14 @@
   "id": 404135593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.409325,45.50492,-122.409325,45.50492",
     "geom:latitude":45.50492,
     "geom:longitude":-122.409325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 NE Division St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":404135593,
-    "wof:lastmodified":1449039494,
+    "wof:lastmodified":1466771299,
     "wof:name":"Gresham Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "public"
     ]
 },
-  "bbox": [-122.409325,45.50492,-122.409325,45.50492],
+  "bbox": [
+    -122.409325,
+    45.50492,
+    -122.409325,
+    45.50492
+],
   "geometry": {"coordinates":[-122.409325,45.50492],"type":"Point"}
 }

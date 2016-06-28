@@ -2,13 +2,14 @@
   "id": 370295689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.122717,44.052325,-123.122717,44.052325",
     "geom:latitude":44.052325,
     "geom:longitude":-123.122717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 W 7th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370295689,
-    "wof:lastmodified":1449030462,
+    "wof:lastmodified":1466769744,
     "wof:name":"Olsen's Auto Glass",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-123.122717,44.052325,-123.122717,44.052325],
-  "geometry": {"coordinates":[-123.122717,44.052325],"type":"Point"}
+  "bbox": [
+    -123.122717,
+    44.052325,
+    -123.122717,
+    44.052325
+],
+  "geometry": {"coordinates":[-123.12271699999999,44.052325],"type":"Point"}
 }

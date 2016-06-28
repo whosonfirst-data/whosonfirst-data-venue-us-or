@@ -2,13 +2,14 @@
   "id": 370884009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.780272,45.475207,-122.780272,45.475207",
     "geom:latitude":45.475207,
     "geom:longitude":-122.780272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10200 SW Allen Blvd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370884009,
-    "wof:lastmodified":1449031828,
+    "wof:lastmodified":1466774666,
     "wof:name":"NTC America",
     "wof:parent_id":85857585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "saw"
     ]
 },
-  "bbox": [-122.780272,45.475207,-122.780272,45.475207],
+  "bbox": [
+    -122.780272,
+    45.475207,
+    -122.780272,
+    45.475207
+],
   "geometry": {"coordinates":[-122.780272,45.475207],"type":"Point"}
 }

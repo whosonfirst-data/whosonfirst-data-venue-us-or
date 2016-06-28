@@ -2,13 +2,14 @@
   "id": 403764919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.901832,45.517773,-122.901832,45.517773",
     "geom:latitude":45.517773,
     "geom:longitude":-122.901832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7279 NE Shaleen St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403764919,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1466769097,
     "wof:name":"1st American Mortgage Bankers",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-122.901832,45.517773,-122.901832,45.517773],
+  "bbox": [
+    -122.901832,
+    45.517773,
+    -122.901832,
+    45.517773
+],
   "geometry": {"coordinates":[-122.901832,45.517773],"type":"Point"}
 }

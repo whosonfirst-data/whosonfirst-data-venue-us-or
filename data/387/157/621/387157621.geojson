@@ -2,13 +2,14 @@
   "id": 387157621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.848943,45.530972,-122.848943,45.530972",
     "geom:latitude":45.530972,
     "geom:longitude":-122.848943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 NW 167th Pl",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387157621,
-    "wof:lastmodified":1449059389,
+    "wof:lastmodified":1466769911,
     "wof:name":"Trivium Systems Inc",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-122.848943,45.530972,-122.848943,45.530972],
-  "geometry": {"coordinates":[-122.848943,45.530972],"type":"Point"}
+  "bbox": [
+    -122.848943,
+    45.530972,
+    -122.848943,
+    45.530972
+],
+  "geometry": {"coordinates":[-122.84894300000001,45.530972],"type":"Point"}
 }

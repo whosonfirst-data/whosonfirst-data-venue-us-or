@@ -2,13 +2,14 @@
   "id": 403979189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.181169,45.601982,-121.181169,45.601982",
     "geom:latitude":45.601982,
     "geom:longitude":-121.181169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Washington St",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403979189,
-    "wof:lastmodified":1449055552,
+    "wof:lastmodified":1466768780,
     "wof:name":"Picture Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-121.181169,45.601982,-121.181169,45.601982],
+  "bbox": [
+    -121.181169,
+    45.601982,
+    -121.181169,
+    45.601982
+],
   "geometry": {"coordinates":[-121.181169,45.601982],"type":"Point"}
 }

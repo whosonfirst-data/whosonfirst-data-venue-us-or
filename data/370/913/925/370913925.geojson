@@ -2,13 +2,14 @@
   "id": 370913925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.965454,45.300376,-122.965454,45.300376",
     "geom:latitude":45.300376,
     "geom:longitude":-122.965454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Portland Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370913925,
-    "wof:lastmodified":1449030388,
+    "wof:lastmodified":1466774646,
     "wof:name":"Wilco Farmers",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-122.965454,45.300376,-122.965454,45.300376],
-  "geometry": {"coordinates":[-122.965454,45.300376],"type":"Point"}
+  "bbox": [
+    -122.965454,
+    45.300376,
+    -122.965454,
+    45.300376
+],
+  "geometry": {"coordinates":[-122.96545399999999,45.300376],"type":"Point"}
 }

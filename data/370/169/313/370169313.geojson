@@ -2,13 +2,14 @@
   "id": 370169313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.422311,44.158966,-123.422311,44.158966",
     "geom:latitude":44.158966,
     "geom:longitude":-123.422311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23328 Hall Rd",
     "sg:city":"Cheshire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370169313,
-    "wof:lastmodified":1449031175,
+    "wof:lastmodified":1466767498,
     "wof:name":"Mike's Mustangs & Classic Cars",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-123.422311,44.158966,-123.422311,44.158966],
-  "geometry": {"coordinates":[-123.422311,44.158966],"type":"Point"}
+  "bbox": [
+    -123.422311,
+    44.158966,
+    -123.422311,
+    44.158966
+],
+  "geometry": {"coordinates":[-123.42231099999999,44.158966],"type":"Point"}
 }

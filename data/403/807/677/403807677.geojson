@@ -2,13 +2,14 @@
   "id": 403807677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.796079,45.426903,-123.796079,45.426903",
     "geom:latitude":45.426903,
     "geom:longitude":-123.796079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 Long Prairie Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403807677,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1466769774,
     "wof:name":"Robert S Werner Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.796079,45.426903,-123.796079,45.426903],
-  "geometry": {"coordinates":[-123.796079,45.426903],"type":"Point"}
+  "bbox": [
+    -123.796079,
+    45.426903,
+    -123.796079,
+    45.426903
+],
+  "geometry": {"coordinates":[-123.79607900000001,45.426903],"type":"Point"}
 }

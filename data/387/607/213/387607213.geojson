@@ -2,13 +2,14 @@
   "id": 387607213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.354757,44.448944,-123.354757,44.448944",
     "geom:latitude":44.448944,
     "geom:longitude":-123.354757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25821 Starr Creek Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387607213,
-    "wof:lastmodified":1449056608,
+    "wof:lastmodified":1466773881,
     "wof:name":"Currier Place Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-123.354757,44.448944,-123.354757,44.448944],
-  "geometry": {"coordinates":[-123.354757,44.448944],"type":"Point"}
+  "bbox": [
+    -123.354757,
+    44.448944,
+    -123.354757,
+    44.448944
+],
+  "geometry": {"coordinates":[-123.35475700000001,44.448944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370331177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.359014,43.213081,-123.359014,43.213081",
     "geom:latitude":43.213081,
     "geom:longitude":-123.359014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 W Umpqua St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370331177,
-    "wof:lastmodified":1449031144,
+    "wof:lastmodified":1466770443,
     "wof:name":"KPIC",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "co"
     ]
 },
-  "bbox": [-123.359014,43.213081,-123.359014,43.213081],
+  "bbox": [
+    -123.359014,
+    43.213081,
+    -123.359014,
+    43.213081
+],
   "geometry": {"coordinates":[-123.359014,43.213081],"type":"Point"}
 }

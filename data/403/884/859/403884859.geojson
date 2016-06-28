@@ -2,13 +2,14 @@
   "id": 403884859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.110049,43.970842,-124.110049,43.970842",
     "geom:latitude":43.970842,
     "geom:longitude":-124.110049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Juniper St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403884859,
-    "wof:lastmodified":1449055708,
+    "wof:lastmodified":1466771419,
     "wof:name":"Register Guard",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-124.110049,43.970842,-124.110049,43.970842],
+  "bbox": [
+    -124.110049,
+    43.970842,
+    -124.110049,
+    43.970842
+],
   "geometry": {"coordinates":[-124.110049,43.970842],"type":"Point"}
 }

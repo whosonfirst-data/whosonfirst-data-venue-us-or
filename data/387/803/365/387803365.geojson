@@ -2,13 +2,14 @@
   "id": 387803365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.195843,44.239453,-121.195843,44.239453",
     "geom:latitude":44.239453,
     "geom:longitude":-121.195843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4098 S Hwy 97",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387803365,
-    "wof:lastmodified":1449059961,
+    "wof:lastmodified":1466775083,
     "wof:name":"Hershey Cattle Co",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-121.195843,44.239453,-121.195843,44.239453],
+  "bbox": [
+    -121.195843,
+    44.239453,
+    -121.195843,
+    44.239453
+],
   "geometry": {"coordinates":[-121.195843,44.239453],"type":"Point"}
 }

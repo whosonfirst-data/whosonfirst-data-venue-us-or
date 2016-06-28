@@ -2,13 +2,14 @@
   "id": 370500197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.089602,44.051872,-123.089602,44.051872",
     "geom:latitude":44.051872,
     "geom:longitude":-123.089602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Pearl St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370500197,
-    "wof:lastmodified":1449029943,
+    "wof:lastmodified":1466772321,
     "wof:name":"City Departments",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.089602,44.051872,-123.089602,44.051872],
+  "bbox": [
+    -123.089602,
+    44.051872,
+    -123.089602,
+    44.051872
+],
   "geometry": {"coordinates":[-123.089602,44.051872],"type":"Point"}
 }

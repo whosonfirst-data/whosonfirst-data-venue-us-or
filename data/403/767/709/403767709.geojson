@@ -2,13 +2,14 @@
   "id": 403767709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.346937,44.725122,-123.346937,44.725122",
     "geom:latitude":44.725122,
     "geom:longitude":-123.346937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15305 Dunn Forest Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403767709,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1466769149,
     "wof:name":"Airlie Winery",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.346937,44.725122,-123.346937,44.725122],
+  "bbox": [
+    -123.346937,
+    44.725122,
+    -123.346937,
+    44.725122
+],
   "geometry": {"coordinates":[-123.346937,44.725122],"type":"Point"}
 }

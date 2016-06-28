@@ -2,13 +2,14 @@
   "id": 404001093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.312064,44.545977,-123.312064,44.545977",
     "geom:latitude":44.545977,
     "geom:longitude":-123.312064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 SW 53rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":404001093,
-    "wof:lastmodified":1449039327,
+    "wof:lastmodified":1466768288,
     "wof:name":"Russells Green Thumb Plant Svc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-123.312064,44.545977,-123.312064,44.545977],
-  "geometry": {"coordinates":[-123.312064,44.545977],"type":"Point"}
+  "bbox": [
+    -123.312064,
+    44.545977,
+    -123.312064,
+    44.545977
+],
+  "geometry": {"coordinates":[-123.31206400000001,44.545977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370299901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.660687,45.514593,-122.660687,45.514593",
     "geom:latitude":45.514593,
     "geom:longitude":-122.660687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 SE Grand Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370299901,
-    "wof:lastmodified":1449029957,
+    "wof:lastmodified":1466769814,
     "wof:name":"Red Robin",
     "wof:parent_id":85893163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.660687,45.514593,-122.660687,45.514593],
+  "bbox": [
+    -122.660687,
+    45.514593,
+    -122.660687,
+    45.514593
+],
   "geometry": {"coordinates":[-122.660687,45.514593],"type":"Point"}
 }

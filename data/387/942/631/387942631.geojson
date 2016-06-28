@@ -2,13 +2,14 @@
   "id": 387942631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.561043,45.518253,-122.561043,45.518253",
     "geom:latitude":45.518253,
     "geom:longitude":-122.561043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9904 SE Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387942631,
-    "wof:lastmodified":1449057839,
+    "wof:lastmodified":1466775434,
     "wof:name":"DMV Field Office",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-122.561043,45.518253,-122.561043,45.518253],
+  "bbox": [
+    -122.561043,
+    45.518253,
+    -122.561043,
+    45.518253
+],
   "geometry": {"coordinates":[-122.561043,45.518253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403902265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721868,45.383485,-122.721868,45.383485",
     "geom:latitude":45.383485,
     "geom:longitude":-122.721868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Dogwood Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403902265,
-    "wof:lastmodified":1449055600,
+    "wof:lastmodified":1466767404,
     "wof:name":"Dental Hygiene Services",
     "wof:parent_id":85846081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-122.721868,45.383485,-122.721868,45.383485],
+  "bbox": [
+    -122.721868,
+    45.383485,
+    -122.721868,
+    45.383485
+],
   "geometry": {"coordinates":[-122.721868,45.383485],"type":"Point"}
 }

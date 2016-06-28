@@ -2,13 +2,14 @@
   "id": 387147417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675018,45.519125,-122.675018,45.519125",
     "geom:latitude":45.519125,
     "geom:longitude":-122.675018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387147417,
-    "wof:lastmodified":1449059501,
+    "wof:lastmodified":1466769714,
     "wof:name":"Tel-Aviv Diamond & Jewelry Co",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-122.675018,45.519125,-122.675018,45.519125],
-  "geometry": {"coordinates":[-122.675018,45.519125],"type":"Point"}
+  "bbox": [
+    -122.675018,
+    45.519125,
+    -122.675018,
+    45.519125
+],
+  "geometry": {"coordinates":[-122.67501799999999,45.519125],"type":"Point"}
 }

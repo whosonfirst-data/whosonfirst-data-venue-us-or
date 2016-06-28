@@ -2,13 +2,14 @@
   "id": 387003883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.952991,44.844807,-122.952991,44.844807",
     "geom:latitude":44.844807,
     "geom:longitude":-122.952991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7605 3rd St SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387003883,
-    "wof:lastmodified":1449059621,
+    "wof:lastmodified":1466767191,
     "wof:name":"Turner Fire Dept",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-122.952991,44.844807,-122.952991,44.844807],
+  "bbox": [
+    -122.952991,
+    44.844807,
+    -122.952991,
+    44.844807
+],
   "geometry": {"coordinates":[-122.952991,44.844807],"type":"Point"}
 }

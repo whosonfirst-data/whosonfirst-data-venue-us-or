@@ -2,13 +2,14 @@
   "id": 370847129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.011451,44.959561,-124.011451,44.959561",
     "geom:latitude":44.959561,
     "geom:longitude":-124.011451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 SE East Devils Lake Rd",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370847129,
-    "wof:lastmodified":1449030320,
+    "wof:lastmodified":1466774394,
     "wof:name":"Samsonite",
     "wof:parent_id":85868147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.011451,44.959561,-124.011451,44.959561],
-  "geometry": {"coordinates":[-124.011451,44.959561],"type":"Point"}
+  "bbox": [
+    -124.011451,
+    44.959561,
+    -124.011451,
+    44.959561
+],
+  "geometry": {"coordinates":[-124.01145099999999,44.959561],"type":"Point"}
 }

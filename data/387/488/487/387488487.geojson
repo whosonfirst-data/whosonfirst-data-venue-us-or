@@ -2,13 +2,14 @@
   "id": 387488487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109972,44.544101,-123.109972,44.544101",
     "geom:latitude":44.544101,
     "geom:longitude":-123.109972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33045 Hwy 99E",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387488487,
-    "wof:lastmodified":1449059823,
+    "wof:lastmodified":1466773159,
     "wof:name":"Townsend Seed Testing",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.109972,44.544101,-123.109972,44.544101],
+  "bbox": [
+    -123.109972,
+    44.544101,
+    -123.109972,
+    44.544101
+],
   "geometry": {"coordinates":[-123.109972,44.544101],"type":"Point"}
 }

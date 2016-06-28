@@ -2,13 +2,14 @@
   "id": 387587379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.951749,45.303516,-122.951749,45.303516",
     "geom:latitude":45.303516,
     "geom:longitude":-122.951749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 Hayes St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387587379,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1466773745,
     "wof:name":"Neves Inc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "measurement"
     ]
 },
-  "bbox": [-122.951749,45.303516,-122.951749,45.303516],
-  "geometry": {"coordinates":[-122.951749,45.303516],"type":"Point"}
+  "bbox": [
+    -122.951749,
+    45.303516,
+    -122.951749,
+    45.303516
+],
+  "geometry": {"coordinates":[-122.95174900000001,45.303516],"type":"Point"}
 }

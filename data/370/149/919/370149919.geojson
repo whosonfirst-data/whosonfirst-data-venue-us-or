@@ -2,13 +2,14 @@
   "id": 370149919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.010395,44.913762,-123.010395,44.913762",
     "geom:latitude":44.913762,
     "geom:longitude":-123.010395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 25th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370149919,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1466767171,
     "wof:name":"Will Vision & Laser Center",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "vision"
     ]
 },
-  "bbox": [-123.010395,44.913762,-123.010395,44.913762],
+  "bbox": [
+    -123.010395,
+    44.913762,
+    -123.010395,
+    44.913762
+],
   "geometry": {"coordinates":[-123.010395,44.913762],"type":"Point"}
 }

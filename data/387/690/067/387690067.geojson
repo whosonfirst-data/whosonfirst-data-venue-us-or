@@ -2,13 +2,14 @@
   "id": 387690067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.154363,44.056992,-123.154363,44.056992",
     "geom:latitude":44.056992,
     "geom:longitude":-123.154363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Wallis St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387690067,
-    "wof:lastmodified":1449058120,
+    "wof:lastmodified":1466774544,
     "wof:name":"Voice Stream Wireless",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-123.154363,44.056992,-123.154363,44.056992],
+  "bbox": [
+    -123.154363,
+    44.056992,
+    -123.154363,
+    44.056992
+],
   "geometry": {"coordinates":[-123.154363,44.056992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387159045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.562891,45.522546,-122.562891,45.522546",
     "geom:latitude":45.522546,
     "geom:longitude":-122.562891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9836 E Burnside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387159045,
-    "wof:lastmodified":1449056569,
+    "wof:lastmodified":1466769941,
     "wof:name":"Volt Services Group",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.562891,45.522546,-122.562891,45.522546],
-  "geometry": {"coordinates":[-122.562891,45.522546],"type":"Point"}
+  "bbox": [
+    -122.562891,
+    45.522546,
+    -122.562891,
+    45.522546
+],
+  "geometry": {"coordinates":[-122.56289099999999,45.522546],"type":"Point"}
 }

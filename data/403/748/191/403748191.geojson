@@ -2,13 +2,14 @@
   "id": 403748191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581544,45.519741,-122.581544,45.519741",
     "geom:latitude":45.519741,
     "geom:longitude":-122.581544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 SE 80th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403748191,
-    "wof:lastmodified":1449055621,
+    "wof:lastmodified":1466768826,
     "wof:name":"Economy Prepress Imagesetting",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.581544,45.519741,-122.581544,45.519741],
-  "geometry": {"coordinates":[-122.581544,45.519741],"type":"Point"}
+  "bbox": [
+    -122.581544,
+    45.519741,
+    -122.581544,
+    45.519741
+],
+  "geometry": {"coordinates":[-122.58154399999999,45.519741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387331509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.016259,44.965173,-123.016259,44.965173",
     "geom:latitude":44.965173,
     "geom:longitude":-123.016259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 McDonald St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387331509,
-    "wof:lastmodified":1449058416,
+    "wof:lastmodified":1466771987,
     "wof:name":"Dealer Transport Service Inc",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-123.016259,44.965173,-123.016259,44.965173],
-  "geometry": {"coordinates":[-123.016259,44.965173],"type":"Point"}
+  "bbox": [
+    -123.016259,
+    44.965173,
+    -123.016259,
+    44.965173
+],
+  "geometry": {"coordinates":[-123.01625900000001,44.965173],"type":"Point"}
 }

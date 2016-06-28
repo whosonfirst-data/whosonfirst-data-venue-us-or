@@ -2,13 +2,14 @@
   "id": 403888943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.022401,44.963434,-123.022401,44.963434",
     "geom:latitude":44.963434,
     "geom:longitude":-123.022401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 Laurel Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403888943,
-    "wof:lastmodified":1449055472,
+    "wof:lastmodified":1466767177,
     "wof:name":"Portland & Western Railroad",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.022401,44.963434,-123.022401,44.963434],
+  "bbox": [
+    -123.022401,
+    44.963434,
+    -123.022401,
+    44.963434
+],
   "geometry": {"coordinates":[-123.022401,44.963434],"type":"Point"}
 }

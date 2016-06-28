@@ -2,13 +2,14 @@
   "id": 387635487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.813418,45.527127,-122.813418,45.527127",
     "geom:latitude":45.527127,
     "geom:longitude":-122.813418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 NW Murray Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387635487,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1466774263,
     "wof:name":"Miller Paint & Wallpaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-122.813418,45.527127,-122.813418,45.527127],
+  "bbox": [
+    -122.813418,
+    45.527127,
+    -122.813418,
+    45.527127
+],
   "geometry": {"coordinates":[-122.813418,45.527127],"type":"Point"}
 }

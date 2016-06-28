@@ -2,13 +2,14 @@
   "id": 403846085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.284168,43.998884,-121.284168,43.998884",
     "geom:latitude":43.998884,
     "geom:longitude":-121.284168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60300 Tekampe Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403846085,
-    "wof:lastmodified":1449055671,
+    "wof:lastmodified":1466770699,
     "wof:name":"B Bar B Llama Ranch",
     "wof:parent_id":85876207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "llama"
     ]
 },
-  "bbox": [-121.284168,43.998884,-121.284168,43.998884],
-  "geometry": {"coordinates":[-121.284168,43.998884],"type":"Point"}
+  "bbox": [
+    -121.284168,
+    43.998884,
+    -121.284168,
+    43.998884
+],
+  "geometry": {"coordinates":[-121.28416799999999,43.998884],"type":"Point"}
 }

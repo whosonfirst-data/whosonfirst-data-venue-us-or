@@ -2,13 +2,14 @@
   "id": 404122749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.694466,45.525555,-122.694466,45.525555",
     "geom:latitude":45.525555,
     "geom:longitude":-122.694466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 NW 21st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404122749,
-    "wof:lastmodified":1449039813,
+    "wof:lastmodified":1466771036,
     "wof:name":"INTEL Mattel Smart Toy Lab",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.694466,45.525555,-122.694466,45.525555],
-  "geometry": {"coordinates":[-122.694466,45.525555],"type":"Point"}
+  "bbox": [
+    -122.694466,
+    45.525555,
+    -122.694466,
+    45.525555
+],
+  "geometry": {"coordinates":[-122.69446600000001,45.525555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403992655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.08166,44.004989,-123.08166,44.004989",
     "geom:latitude":44.004989,
     "geom:longitude":-123.08166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Fox Hollow Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403992655,
-    "wof:lastmodified":1449055253,
+    "wof:lastmodified":1466769013,
     "wof:name":"Coffee Wholesalers",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-123.08166,44.004989,-123.08166,44.004989],
+  "bbox": [
+    -123.08166,
+    44.004989,
+    -123.08166,
+    44.004989
+],
   "geometry": {"coordinates":[-123.08166,44.004989],"type":"Point"}
 }

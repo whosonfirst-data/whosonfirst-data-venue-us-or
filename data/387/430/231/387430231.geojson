@@ -2,13 +2,14 @@
   "id": 387430231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.321987,44.055332,-121.321987,44.055332",
     "geom:latitude":44.055332,
     "geom:longitude":-121.321987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 NW Congress St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387430231,
-    "wof:lastmodified":1449058534,
+    "wof:lastmodified":1466772770,
     "wof:name":"Iron Horse",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-121.321987,44.055332,-121.321987,44.055332],
-  "geometry": {"coordinates":[-121.321987,44.055332],"type":"Point"}
+  "bbox": [
+    -121.321987,
+    44.055332,
+    -121.321987,
+    44.055332
+],
+  "geometry": {"coordinates":[-121.32198699999999,44.055332],"type":"Point"}
 }

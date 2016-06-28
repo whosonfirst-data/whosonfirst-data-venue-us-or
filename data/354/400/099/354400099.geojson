@@ -2,13 +2,14 @@
   "id": 354400099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092937,44.951556,-123.092937,44.951556",
     "geom:latitude":44.951556,
     "geom:longitude":-123.092937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Glen Creek Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354400099,
-    "wof:lastmodified":1449066095,
+    "wof:lastmodified":1466771302,
     "wof:name":"Sents and Such",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.092937,44.951556,-123.092937,44.951556],
-  "geometry": {"coordinates":[-123.092937,44.951556],"type":"Point"}
+  "bbox": [
+    -123.092937,
+    44.951556,
+    -123.092937,
+    44.951556
+],
+  "geometry": {"coordinates":[-123.09293700000001,44.951556],"type":"Point"}
 }

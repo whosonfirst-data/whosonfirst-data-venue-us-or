@@ -2,13 +2,14 @@
   "id": 387813865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.029088,44.972802,-123.029088,44.972802",
     "geom:latitude":44.972802,
     "geom:longitude":-123.029088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 River Rd N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387813865,
-    "wof:lastmodified":1449057084,
+    "wof:lastmodified":1466775134,
     "wof:name":"T-Zone",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.029088,44.972802,-123.029088,44.972802],
+  "bbox": [
+    -123.029088,
+    44.972802,
+    -123.029088,
+    44.972802
+],
   "geometry": {"coordinates":[-123.029088,44.972802],"type":"Point"}
 }

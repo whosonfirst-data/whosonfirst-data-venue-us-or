@@ -2,13 +2,14 @@
   "id": 370673023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.455694,45.533563,-122.455694,45.533563",
     "geom:latitude":45.533563,
     "geom:longitude":-122.455694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20121 NE Halsey St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370673023,
-    "wof:lastmodified":1449030397,
+    "wof:lastmodified":1466773296,
     "wof:name":"David E & Jill M Madill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.455694,45.533563,-122.455694,45.533563],
-  "geometry": {"coordinates":[-122.455694,45.533563],"type":"Point"}
+  "bbox": [
+    -122.455694,
+    45.533563,
+    -122.455694,
+    45.533563
+],
+  "geometry": {"coordinates":[-122.45569399999999,45.533563],"type":"Point"}
 }

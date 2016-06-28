@@ -2,13 +2,14 @@
   "id": 403912453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.492035,45.524164,-122.492035,45.524164",
     "geom:latitude":45.524164,
     "geom:longitude":-122.492035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 NE 166th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403912453,
-    "wof:lastmodified":1449055293,
+    "wof:lastmodified":1466767579,
     "wof:name":"Carl Gruenberg",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.492035,45.524164,-122.492035,45.524164],
+  "bbox": [
+    -122.492035,
+    45.524164,
+    -122.492035,
+    45.524164
+],
   "geometry": {"coordinates":[-122.492035,45.524164],"type":"Point"}
 }

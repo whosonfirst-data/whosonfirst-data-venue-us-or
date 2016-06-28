@@ -2,13 +2,14 @@
   "id": 387021607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.529466,45.703235,-121.529466,45.703235",
     "geom:latitude":45.703235,
     "geom:longitude":-121.529466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 Meyer Pkwy",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387021607,
-    "wof:lastmodified":1449058505,
+    "wof:lastmodified":1466767488,
     "wof:name":"Hood River Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-121.529466,45.703235,-121.529466,45.703235],
+  "bbox": [
+    -121.529466,
+    45.703235,
+    -121.529466,
+    45.703235
+],
   "geometry": {"coordinates":[-121.529466,45.703235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387426203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.847327,45.513781,-122.847327,45.513781",
     "geom:latitude":45.513781,
     "geom:longitude":-122.847327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16508 SW Waterleaf St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387426203,
-    "wof:lastmodified":1449056911,
+    "wof:lastmodified":1466772740,
     "wof:name":"Annie Woo",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-122.847327,45.513781,-122.847327,45.513781],
-  "geometry": {"coordinates":[-122.847327,45.513781],"type":"Point"}
+  "bbox": [
+    -122.847327,
+    45.513781,
+    -122.847327,
+    45.513781
+],
+  "geometry": {"coordinates":[-122.84732700000001,45.513781],"type":"Point"}
 }

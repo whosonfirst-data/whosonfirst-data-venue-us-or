@@ -2,13 +2,14 @@
   "id": 387678831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.794903,45.515483,-122.794903,45.515483",
     "geom:latitude":45.515483,
     "geom:longitude":-122.794903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11640 SW Corby Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387678831,
-    "wof:lastmodified":1449057939,
+    "wof:lastmodified":1466774379,
     "wof:name":"Speechstudio Suite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-122.794903,45.515483,-122.794903,45.515483],
-  "geometry": {"coordinates":[-122.794903,45.515483],"type":"Point"}
+  "bbox": [
+    -122.794903,
+    45.515483,
+    -122.794903,
+    45.515483
+],
+  "geometry": {"coordinates":[-122.79490300000001,45.515483],"type":"Point"}
 }

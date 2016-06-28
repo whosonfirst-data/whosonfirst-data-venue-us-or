@@ -2,13 +2,14 @@
   "id": 370617145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.090365,43.99455,-123.090365,43.99455",
     "geom:latitude":43.99455,
     "geom:longitude":-123.090365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Foxtail Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370617145,
-    "wof:lastmodified":1449029181,
+    "wof:lastmodified":1466773020,
     "wof:name":"Forest Village",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.090365,43.99455,-123.090365,43.99455],
-  "geometry": {"coordinates":[-123.090365,43.99455],"type":"Point"}
+  "bbox": [
+    -123.090365,
+    43.99455,
+    -123.090365,
+    43.99455
+],
+  "geometry": {"coordinates":[-123.09036500000001,43.99455],"type":"Point"}
 }

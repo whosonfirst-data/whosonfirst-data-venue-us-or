@@ -2,13 +2,14 @@
   "id": 370413433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.24417,45.339555,-122.24417,45.339555",
     "geom:latitude":45.339555,
     "geom:longitude":-122.24417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40843 SE Wildcat Mountain Dr",
     "sg:city":"Eagle Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370413433,
-    "wof:lastmodified":1449029624,
+    "wof:lastmodified":1466771599,
     "wof:name":"Eagle Creek Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-122.24417,45.339555,-122.24417,45.339555],
+  "bbox": [
+    -122.24417,
+    45.339555,
+    -122.24417,
+    45.339555
+],
   "geometry": {"coordinates":[-122.24417,45.339555],"type":"Point"}
 }

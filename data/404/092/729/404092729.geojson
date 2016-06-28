@@ -2,13 +2,14 @@
   "id": 404092729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.063567,45.520166,-123.063567,45.520166",
     "geom:latitude":45.520166,
     "geom:longitude":-123.063567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 W Baseline St",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404092729,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1466770366,
     "wof:name":"HPS Construction Inc",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.063567,45.520166,-123.063567,45.520166],
-  "geometry": {"coordinates":[-123.063567,45.520166],"type":"Point"}
+  "bbox": [
+    -123.063567,
+    45.520166,
+    -123.063567,
+    45.520166
+],
+  "geometry": {"coordinates":[-123.06356700000001,45.520166],"type":"Point"}
 }

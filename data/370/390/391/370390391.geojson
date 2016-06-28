@@ -2,13 +2,14 @@
   "id": 370390391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.205116,44.624819,-123.205116,44.624819",
     "geom:latitude":44.624819,
     "geom:longitude":-123.205116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5755 US Hwy 20",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370390391,
-    "wof:lastmodified":1449032511,
+    "wof:lastmodified":1466771463,
     "wof:name":"Greg L Ropp",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.205116,44.624819,-123.205116,44.624819],
+  "bbox": [
+    -123.205116,
+    44.624819,
+    -123.205116,
+    44.624819
+],
   "geometry": {"coordinates":[-123.205116,44.624819],"type":"Point"}
 }

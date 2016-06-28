@@ -2,13 +2,14 @@
   "id": 403864829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.085478,44.055367,-123.085478,44.055367",
     "geom:latitude":44.055367,
     "geom:longitude":-123.085478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E 4th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403864829,
-    "wof:lastmodified":1449055985,
+    "wof:lastmodified":1466771061,
     "wof:name":"Eugene Water & Electric Board",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-123.085478,44.055367,-123.085478,44.055367],
-  "geometry": {"coordinates":[-123.085478,44.055367],"type":"Point"}
+  "bbox": [
+    -123.085478,
+    44.055367,
+    -123.085478,
+    44.055367
+],
+  "geometry": {"coordinates":[-123.08547799999999,44.055367],"type":"Point"}
 }

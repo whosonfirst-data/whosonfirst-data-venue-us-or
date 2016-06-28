@@ -2,13 +2,14 @@
   "id": 371006641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.794098,45.456683,-123.794098,45.456683",
     "geom:latitude":45.456683,
     "geom:longitude":-123.794098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Circle Ct",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371006641,
-    "wof:lastmodified":1449049881,
+    "wof:lastmodified":1466767245,
     "wof:name":"Corley & Butterfield Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.794098,45.456683,-123.794098,45.456683],
-  "geometry": {"coordinates":[-123.794098,45.456683],"type":"Point"}
+  "bbox": [
+    -123.794098,
+    45.456683,
+    -123.794098,
+    45.456683
+],
+  "geometry": {"coordinates":[-123.79409800000001,45.456683],"type":"Point"}
 }

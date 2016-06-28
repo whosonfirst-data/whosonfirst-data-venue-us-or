@@ -2,13 +2,14 @@
   "id": 370806441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661938,45.505316,-122.661938,45.505316",
     "geom:latitude":45.505316,
     "geom:longitude":-122.661938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2443 SE 4th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370806441,
-    "wof:lastmodified":1449029056,
+    "wof:lastmodified":1466774118,
     "wof:name":"Oregon Wood Specialties",
     "wof:parent_id":85868957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-122.661938,45.505316,-122.661938,45.505316],
-  "geometry": {"coordinates":[-122.661938,45.505316],"type":"Point"}
+  "bbox": [
+    -122.661938,
+    45.505316,
+    -122.661938,
+    45.505316
+],
+  "geometry": {"coordinates":[-122.66193800000001,45.505316],"type":"Point"}
 }

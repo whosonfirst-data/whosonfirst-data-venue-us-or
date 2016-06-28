@@ -2,13 +2,14 @@
   "id": 386955395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.60863,45.356989,-122.60863,45.356989",
     "geom:latitude":45.356989,
     "geom:longitude":-122.60863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 6th St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386955395,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1466767300,
     "wof:name":"Wholistic Health Clinic",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.60863,45.356989,-122.60863,45.356989],
-  "geometry": {"coordinates":[-122.60863,45.356989],"type":"Point"}
+  "bbox": [
+    -122.60863,
+    45.356989,
+    -122.60863,
+    45.356989
+],
+  "geometry": {"coordinates":[-122.60863000000001,45.356989],"type":"Point"}
 }

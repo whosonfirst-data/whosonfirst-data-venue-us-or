@@ -2,13 +2,14 @@
   "id": 404130875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.132025,44.079014,-123.132025,44.079014",
     "geom:latitude":44.079014,
     "geom:longitude":-123.132025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 W Hilliard Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404130875,
-    "wof:lastmodified":1449039428,
+    "wof:lastmodified":1466771198,
     "wof:name":"Sacred Heart Hospital",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.132025,44.079014,-123.132025,44.079014],
+  "bbox": [
+    -123.132025,
+    44.079014,
+    -123.132025,
+    44.079014
+],
   "geometry": {"coordinates":[-123.132025,44.079014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387858651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.499001,45.518435,-122.499001,45.518435",
     "geom:latitude":45.518435,
     "geom:longitude":-122.499001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 SE 160th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387858651,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1466775185,
     "wof:name":"Dennis A Johnson DDS",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.499001,45.518435,-122.499001,45.518435],
-  "geometry": {"coordinates":[-122.499001,45.518435],"type":"Point"}
+  "bbox": [
+    -122.499001,
+    45.518435,
+    -122.499001,
+    45.518435
+],
+  "geometry": {"coordinates":[-122.49900100000001,45.518435],"type":"Point"}
 }

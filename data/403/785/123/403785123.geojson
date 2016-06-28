@@ -2,13 +2,14 @@
   "id": 403785123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.165824,44.047955,-123.165824,44.047955",
     "geom:latitude":44.047955,
     "geom:longitude":-123.165824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403785123,
-    "wof:lastmodified":1449055746,
+    "wof:lastmodified":1466769400,
     "wof:name":"An Equine Addiction",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "harness"
     ]
 },
-  "bbox": [-123.165824,44.047955,-123.165824,44.047955],
+  "bbox": [
+    -123.165824,
+    44.047955,
+    -123.165824,
+    44.047955
+],
   "geometry": {"coordinates":[-123.165824,44.047955],"type":"Point"}
 }

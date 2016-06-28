@@ -2,13 +2,14 @@
   "id": 354312871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.013313,44.965357,-123.013313,44.965357",
     "geom:latitude":44.965357,
     "geom:longitude":-123.013313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Industrial Way NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354312871,
-    "wof:lastmodified":1449066783,
+    "wof:lastmodified":1466769677,
     "wof:name":"Fedex Freight West Inc",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.013313,44.965357,-123.013313,44.965357],
+  "bbox": [
+    -123.013313,
+    44.965357,
+    -123.013313,
+    44.965357
+],
   "geometry": {"coordinates":[-123.013313,44.965357],"type":"Point"}
 }

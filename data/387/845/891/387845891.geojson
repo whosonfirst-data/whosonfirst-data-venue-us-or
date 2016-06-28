@@ -2,13 +2,14 @@
   "id": 387845891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.042346,44.074205,-123.042346,44.074205",
     "geom:latitude":44.074205,
     "geom:longitude":-123.042346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Gateway St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387845891,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1466775257,
     "wof:name":"Aroma Cafe Coffee Co",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-123.042346,44.074205,-123.042346,44.074205],
-  "geometry": {"coordinates":[-123.042346,44.074205],"type":"Point"}
+  "bbox": [
+    -123.042346,
+    44.074205,
+    -123.042346,
+    44.074205
+],
+  "geometry": {"coordinates":[-123.04234599999999,44.074205],"type":"Point"}
 }

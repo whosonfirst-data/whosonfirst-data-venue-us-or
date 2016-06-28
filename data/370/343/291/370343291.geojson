@@ -2,13 +2,14 @@
   "id": 370343291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11984,43.302643,-123.11984,43.302643",
     "geom:latitude":43.302643,
     "geom:longitude":-123.11984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17537 N Umpqua Hwy",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370343291,
-    "wof:lastmodified":1449031493,
+    "wof:lastmodified":1466770664,
     "wof:name":"Umpqua Feather Merchants",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fishing"
     ]
 },
-  "bbox": [-123.11984,43.302643,-123.11984,43.302643],
+  "bbox": [
+    -123.11984,
+    43.302643,
+    -123.11984,
+    43.302643
+],
   "geometry": {"coordinates":[-123.11984,43.302643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403971213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.129494,44.051684,-123.129494,44.051684",
     "geom:latitude":44.051684,
     "geom:longitude":-123.129494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2344 W 7th Pl",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403971213,
-    "wof:lastmodified":1449055318,
+    "wof:lastmodified":1466768636,
     "wof:name":"Crosscut Hardwoods",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.129494,44.051684,-123.129494,44.051684],
-  "geometry": {"coordinates":[-123.129494,44.051684],"type":"Point"}
+  "bbox": [
+    -123.129494,
+    44.051684,
+    -123.129494,
+    44.051684
+],
+  "geometry": {"coordinates":[-123.12949399999999,44.051684],"type":"Point"}
 }

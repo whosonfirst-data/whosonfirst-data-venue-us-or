@@ -2,13 +2,14 @@
   "id": 387537015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.019409,44.935111,-123.019409,44.935111",
     "geom:latitude":44.935111,
     "geom:longitude":-123.019409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 State St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387537015,
-    "wof:lastmodified":1449057034,
+    "wof:lastmodified":1466773628,
     "wof:name":"Arc Of Oregon",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-123.019409,44.935111,-123.019409,44.935111],
+  "bbox": [
+    -123.019409,
+    44.935111,
+    -123.019409,
+    44.935111
+],
   "geometry": {"coordinates":[-123.019409,44.935111],"type":"Point"}
 }

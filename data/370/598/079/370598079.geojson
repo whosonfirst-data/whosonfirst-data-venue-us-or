@@ -2,13 +2,14 @@
   "id": 370598079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.586864,45.504227,-122.586864,45.504227",
     "geom:latitude":45.504227,
     "geom:longitude":-122.586864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 SE 74th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370598079,
-    "wof:lastmodified":1449029257,
+    "wof:lastmodified":1466773012,
     "wof:name":"William Elaine Corp",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.586864,45.504227,-122.586864,45.504227],
-  "geometry": {"coordinates":[-122.586864,45.504227],"type":"Point"}
+  "bbox": [
+    -122.586864,
+    45.504227,
+    -122.586864,
+    45.504227
+],
+  "geometry": {"coordinates":[-122.58686400000001,45.504227],"type":"Point"}
 }

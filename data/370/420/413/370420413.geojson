@@ -2,13 +2,14 @@
   "id": 370420413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772269,45.521578,-122.772269,45.521578",
     "geom:latitude":45.521578,
     "geom:longitude":-122.772269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9430 NW Leahy Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370420413,
-    "wof:lastmodified":1449030713,
+    "wof:lastmodified":1466771665,
     "wof:name":"Micro Z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.772269,45.521578,-122.772269,45.521578],
-  "geometry": {"coordinates":[-122.772269,45.521578],"type":"Point"}
+  "bbox": [
+    -122.772269,
+    45.521578,
+    -122.772269,
+    45.521578
+],
+  "geometry": {"coordinates":[-122.77226899999999,45.521578],"type":"Point"}
 }

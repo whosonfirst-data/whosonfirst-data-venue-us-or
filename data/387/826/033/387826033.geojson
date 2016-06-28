@@ -2,13 +2,14 @@
   "id": 387826033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.402614,44.537405,-123.402614,44.537405",
     "geom:latitude":44.537405,
     "geom:longitude":-123.402614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24399 Old Peak Rd",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387826033,
-    "wof:lastmodified":1449058872,
+    "wof:lastmodified":1466775221,
     "wof:name":"Shelter Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-123.402614,44.537405,-123.402614,44.537405],
+  "bbox": [
+    -123.402614,
+    44.537405,
+    -123.402614,
+    44.537405
+],
   "geometry": {"coordinates":[-123.402614,44.537405],"type":"Point"}
 }

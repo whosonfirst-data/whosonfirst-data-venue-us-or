@@ -2,13 +2,14 @@
   "id": 370571217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151187,44.067679,-123.151187,44.067679",
     "geom:latitude":44.067679,
     "geom:longitude":-123.151187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Alva Park Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370571217,
-    "wof:lastmodified":1449031389,
+    "wof:lastmodified":1466772845,
     "wof:name":"Alva Park Trucking",
     "wof:parent_id":85877261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.151187,44.067679,-123.151187,44.067679],
-  "geometry": {"coordinates":[-123.151187,44.067679],"type":"Point"}
+  "bbox": [
+    -123.151187,
+    44.067679,
+    -123.151187,
+    44.067679
+],
+  "geometry": {"coordinates":[-123.15118699999999,44.067679],"type":"Point"}
 }

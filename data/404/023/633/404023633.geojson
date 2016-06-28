@@ -2,13 +2,14 @@
   "id": 404023633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.629416,45.267871,-122.629416,45.267871",
     "geom:latitude":45.267871,
     "geom:longitude":-122.629416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23486 S Central Point Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404023633,
-    "wof:lastmodified":1449040218,
+    "wof:lastmodified":1466768868,
     "wof:name":"Big Iron Gunworks",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.629416,45.267871,-122.629416,45.267871],
-  "geometry": {"coordinates":[-122.629416,45.267871],"type":"Point"}
+  "bbox": [
+    -122.629416,
+    45.267871,
+    -122.629416,
+    45.267871
+],
+  "geometry": {"coordinates":[-122.62941600000001,45.267871],"type":"Point"}
 }

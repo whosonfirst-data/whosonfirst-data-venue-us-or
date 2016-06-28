@@ -2,13 +2,14 @@
   "id": 370181897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.71277,45.451967,-122.71277,45.451967",
     "geom:latitude":45.451967,
     "geom:longitude":-122.71277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 SW Huber St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370181897,
-    "wof:lastmodified":1449031166,
+    "wof:lastmodified":1466767712,
     "wof:name":"Sanitary Necessary Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.71277,45.451967,-122.71277,45.451967],
-  "geometry": {"coordinates":[-122.71277,45.451967],"type":"Point"}
+  "bbox": [
+    -122.71277,
+    45.451967,
+    -122.71277,
+    45.451967
+],
+  "geometry": {"coordinates":[-122.71277000000001,45.451967],"type":"Point"}
 }

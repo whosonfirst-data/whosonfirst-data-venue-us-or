@@ -2,13 +2,14 @@
   "id": 404064403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.991251,44.993475,-122.991251,44.993475",
     "geom:latitude":44.993475,
     "geom:longitude":-122.991251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Blossom Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404064403,
-    "wof:lastmodified":1449039449,
+    "wof:lastmodified":1466769607,
     "wof:name":"Stark Trucking Inc",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-122.991251,44.993475,-122.991251,44.993475],
-  "geometry": {"coordinates":[-122.991251,44.993475],"type":"Point"}
+  "bbox": [
+    -122.991251,
+    44.993475,
+    -122.991251,
+    44.993475
+],
+  "geometry": {"coordinates":[-122.99125100000001,44.993475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354285223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.051746,44.040769,-123.051746,44.040769",
     "geom:latitude":44.040769,
     "geom:longitude":-123.051746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 Riverview St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354285223,
-    "wof:lastmodified":1449065986,
+    "wof:lastmodified":1466769272,
     "wof:name":"Positive Entropy Limited",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-123.051746,44.040769,-123.051746,44.040769],
-  "geometry": {"coordinates":[-123.051746,44.040769],"type":"Point"}
+  "bbox": [
+    -123.051746,
+    44.040769,
+    -123.051746,
+    44.040769
+],
+  "geometry": {"coordinates":[-123.05174599999999,44.040769],"type":"Point"}
 }

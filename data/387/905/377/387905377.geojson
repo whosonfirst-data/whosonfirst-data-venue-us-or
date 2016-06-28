@@ -2,13 +2,14 @@
   "id": 387905377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.954001,44.101394,-122.954001,44.101394",
     "geom:latitude":44.101394,
     "geom:longitude":-122.954001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89775 Hill Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387905377,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1466775407,
     "wof:name":"Backstrom's Quality Medical",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-122.954001,44.101394,-122.954001,44.101394],
-  "geometry": {"coordinates":[-122.954001,44.101394],"type":"Point"}
+  "bbox": [
+    -122.954001,
+    44.101394,
+    -122.954001,
+    44.101394
+],
+  "geometry": {"coordinates":[-122.95400100000001,44.101394],"type":"Point"}
 }

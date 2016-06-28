@@ -2,13 +2,14 @@
   "id": 403751417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.922689,45.502814,-122.922689,45.502814",
     "geom:latitude":45.502814,
     "geom:longitude":-122.922689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 SW 239th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403751417,
-    "wof:lastmodified":1449054700,
+    "wof:lastmodified":1466768871,
     "wof:name":"Rscm",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-122.922689,45.502814,-122.922689,45.502814],
-  "geometry": {"coordinates":[-122.922689,45.502814],"type":"Point"}
+  "bbox": [
+    -122.922689,
+    45.502814,
+    -122.922689,
+    45.502814
+],
+  "geometry": {"coordinates":[-122.92268900000001,45.502814],"type":"Point"}
 }

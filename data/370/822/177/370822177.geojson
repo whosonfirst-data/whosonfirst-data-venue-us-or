@@ -2,13 +2,14 @@
   "id": 370822177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.005011,44.81491,-123.005011,44.81491",
     "geom:latitude":44.81491,
     "geom:longitude":-123.005011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2743 Ridgeway Dr SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370822177,
-    "wof:lastmodified":1449032369,
+    "wof:lastmodified":1466774244,
     "wof:name":"Grooming Wizard",
     "wof:parent_id":85880581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.005011,44.81491,-123.005011,44.81491],
+  "bbox": [
+    -123.005011,
+    44.81491,
+    -123.005011,
+    44.81491
+],
   "geometry": {"coordinates":[-123.005011,44.81491],"type":"Point"}
 }

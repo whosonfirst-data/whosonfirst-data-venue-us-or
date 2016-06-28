@@ -2,13 +2,14 @@
   "id": 403816211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.260461,44.563048,-123.260461,44.563048",
     "geom:latitude":44.563048,
     "geom:longitude":-123.260461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 SW 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403816211,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1466769958,
     "wof:name":"Francesco's",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cream"
     ]
 },
-  "bbox": [-123.260461,44.563048,-123.260461,44.563048],
-  "geometry": {"coordinates":[-123.260461,44.563048],"type":"Point"}
+  "bbox": [
+    -123.260461,
+    44.563048,
+    -123.260461,
+    44.563048
+],
+  "geometry": {"coordinates":[-123.26046100000001,44.563048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370518907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.004376,44.987866,-124.004376,44.987866",
     "geom:latitude":44.987866,
     "geom:longitude":-124.004376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2438 NE Holmes Rd",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370518907,
-    "wof:lastmodified":1449030984,
+    "wof:lastmodified":1466772350,
     "wof:name":"Pinehurst Apartments",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-124.004376,44.987866,-124.004376,44.987866],
-  "geometry": {"coordinates":[-124.004376,44.987866],"type":"Point"}
+  "bbox": [
+    -124.004376,
+    44.987866,
+    -124.004376,
+    44.987866
+],
+  "geometry": {"coordinates":[-124.00437599999999,44.987866],"type":"Point"}
 }

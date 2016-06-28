@@ -2,13 +2,14 @@
   "id": 404031821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.006238,45.453006,-123.006238,45.453006",
     "geom:latitude":45.453006,
     "geom:longitude":-123.006238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9219 SW Line Dr",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404031821,
-    "wof:lastmodified":1449039480,
+    "wof:lastmodified":1466769006,
     "wof:name":"Warmoth Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "relations"
     ]
 },
-  "bbox": [-123.006238,45.453006,-123.006238,45.453006],
+  "bbox": [
+    -123.006238,
+    45.453006,
+    -123.006238,
+    45.453006
+],
   "geometry": {"coordinates":[-123.006238,45.453006],"type":"Point"}
 }

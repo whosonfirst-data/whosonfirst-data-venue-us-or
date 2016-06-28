@@ -2,13 +2,14 @@
   "id": 370368291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.568807,45.404842,-122.568807,45.404842",
     "geom:latitude":45.404842,
     "geom:longitude":-122.568807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16188 SE 82nd Dr",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370368291,
-    "wof:lastmodified":1449029866,
+    "wof:lastmodified":1466771177,
     "wof:name":"Rustys Resale Store",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.568807,45.404842,-122.568807,45.404842],
-  "geometry": {"coordinates":[-122.568807,45.404842],"type":"Point"}
+  "bbox": [
+    -122.568807,
+    45.404842,
+    -122.568807,
+    45.404842
+],
+  "geometry": {"coordinates":[-122.56880700000001,45.404842],"type":"Point"}
 }

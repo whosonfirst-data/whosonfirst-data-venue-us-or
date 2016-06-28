@@ -2,13 +2,14 @@
   "id": 403955047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.980174,45.305105,-122.980174,45.305105",
     "geom:latitude":45.305105,
     "geom:longitude":-122.980174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 N Grant St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403955047,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1466768348,
     "wof:name":"RC Painting Inc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.980174,45.305105,-122.980174,45.305105],
-  "geometry": {"coordinates":[-122.980174,45.305105],"type":"Point"}
+  "bbox": [
+    -122.980174,
+    45.305105,
+    -122.980174,
+    45.305105
+],
+  "geometry": {"coordinates":[-122.98017400000001,45.305105],"type":"Point"}
 }

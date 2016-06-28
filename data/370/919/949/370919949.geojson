@@ -2,13 +2,14 @@
   "id": 370919949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.805329,45.483363,-122.805329,45.483363",
     "geom:latitude":45.483363,
     "geom:longitude":-122.805329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12470 SW 5th St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370919949,
-    "wof:lastmodified":1449031656,
+    "wof:lastmodified":1466774787,
     "wof:name":"Book Corner",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.805329,45.483363,-122.805329,45.483363],
+  "bbox": [
+    -122.805329,
+    45.483363,
+    -122.805329,
+    45.483363
+],
   "geometry": {"coordinates":[-122.805329,45.483363],"type":"Point"}
 }

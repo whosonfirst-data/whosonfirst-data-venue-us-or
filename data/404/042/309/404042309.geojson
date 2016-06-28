@@ -2,13 +2,14 @@
   "id": 404042309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.81668,46.189571,-123.81668,46.189571",
     "geom:latitude":46.189571,
     "geom:longitude":-123.81668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2275 Commercial St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404042309,
-    "wof:lastmodified":1449040009,
+    "wof:lastmodified":1466769219,
     "wof:name":"N A P A Auto Parts",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-123.81668,46.189571,-123.81668,46.189571],
-  "geometry": {"coordinates":[-123.81668,46.189571],"type":"Point"}
+  "bbox": [
+    -123.81668,
+    46.189571,
+    -123.81668,
+    46.189571
+],
+  "geometry": {"coordinates":[-123.81668000000001,46.189571],"type":"Point"}
 }

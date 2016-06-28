@@ -2,13 +2,14 @@
   "id": 404090395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.307358,44.042565,-121.307358,44.042565",
     "geom:latitude":44.042565,
     "geom:longitude":-121.307358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 SW Roosevelt Ave",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404090395,
-    "wof:lastmodified":1449040043,
+    "wof:lastmodified":1466770300,
     "wof:name":"Cherry Creek Woodworking",
     "wof:parent_id":85876211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-121.307358,44.042565,-121.307358,44.042565],
-  "geometry": {"coordinates":[-121.307358,44.042565],"type":"Point"}
+  "bbox": [
+    -121.307358,
+    44.042565,
+    -121.307358,
+    44.042565
+],
+  "geometry": {"coordinates":[-121.30735799999999,44.042565],"type":"Point"}
 }

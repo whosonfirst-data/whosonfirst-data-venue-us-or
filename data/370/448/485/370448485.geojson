@@ -2,13 +2,14 @@
   "id": 370448485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.6051,45.487175,-122.6051,45.487175",
     "geom:latitude":45.487175,
     "geom:longitude":-122.6051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 SE Liebe St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370448485,
-    "wof:lastmodified":1449032309,
+    "wof:lastmodified":1466771855,
     "wof:name":"River City Maintenance & Dev",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.6051,45.487175,-122.6051,45.487175],
-  "geometry": {"coordinates":[-122.6051,45.487175],"type":"Point"}
+  "bbox": [
+    -122.6051,
+    45.487175,
+    -122.6051,
+    45.487175
+],
+  "geometry": {"coordinates":[-122.60509999999999,45.487175],"type":"Point"}
 }

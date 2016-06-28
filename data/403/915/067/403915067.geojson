@@ -2,13 +2,14 @@
   "id": 403915067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.285397,44.025567,-121.285397,44.025567",
     "geom:latitude":44.025567,
     "geom:longitude":-121.285397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61307 Robin Hood Ln",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403915067,
-    "wof:lastmodified":1449055939,
+    "wof:lastmodified":1466767627,
     "wof:name":"Sam Houston Appraisers",
     "wof:parent_id":85876207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-121.285397,44.025567,-121.285397,44.025567],
+  "bbox": [
+    -121.285397,
+    44.025567,
+    -121.285397,
+    44.025567
+],
   "geometry": {"coordinates":[-121.285397,44.025567],"type":"Point"}
 }

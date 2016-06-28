@@ -2,13 +2,14 @@
   "id": 404029121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.824447,45.414158,-123.824447,45.414158",
     "geom:latitude":45.414158,
     "geom:longitude":-123.824447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 Hwy 101 S",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404029121,
-    "wof:lastmodified":1449039545,
+    "wof:lastmodified":1466768960,
     "wof:name":"Cris Rocha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.824447,45.414158,-123.824447,45.414158],
-  "geometry": {"coordinates":[-123.824447,45.414158],"type":"Point"}
+  "bbox": [
+    -123.824447,
+    45.414158,
+    -123.824447,
+    45.414158
+],
+  "geometry": {"coordinates":[-123.82444700000001,45.414158],"type":"Point"}
 }

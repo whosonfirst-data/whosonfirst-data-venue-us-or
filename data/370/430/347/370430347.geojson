@@ -2,13 +2,14 @@
   "id": 370430347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.00008,45.52538,-123.00008,45.52538",
     "geom:latitude":45.52538,
     "geom:longitude":-123.00008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 NW Jackson St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370430347,
-    "wof:lastmodified":1449031231,
+    "wof:lastmodified":1466771840,
     "wof:name":"Bjorn's Tree Svc",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-123.00008,45.52538,-123.00008,45.52538],
+  "bbox": [
+    -123.00008,
+    45.52538,
+    -123.00008,
+    45.52538
+],
   "geometry": {"coordinates":[-123.00008,45.52538],"type":"Point"}
 }

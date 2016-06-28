@@ -2,13 +2,14 @@
   "id": 404205143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633497,45.335584,-122.633497,45.335584",
     "geom:latitude":45.335584,
     "geom:longitude":-122.633497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18715 Madrona Dr",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404205143,
-    "wof:lastmodified":1449039833,
+    "wof:lastmodified":1466768198,
     "wof:name":"McBride & Assoc",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-122.633497,45.335584,-122.633497,45.335584],
-  "geometry": {"coordinates":[-122.633497,45.335584],"type":"Point"}
+  "bbox": [
+    -122.633497,
+    45.335584,
+    -122.633497,
+    45.335584
+],
+  "geometry": {"coordinates":[-122.63349700000001,45.335584],"type":"Point"}
 }

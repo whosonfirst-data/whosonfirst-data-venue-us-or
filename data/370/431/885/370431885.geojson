@@ -2,13 +2,14 @@
   "id": 370431885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018266,44.056949,-123.018266,44.056949",
     "geom:latitude":44.056949,
     "geom:longitude":-123.018266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 6th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370431885,
-    "wof:lastmodified":1449029551,
+    "wof:lastmodified":1466771849,
     "wof:name":"Ground To Gable Inspection",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-123.018266,44.056949,-123.018266,44.056949],
+  "bbox": [
+    -123.018266,
+    44.056949,
+    -123.018266,
+    44.056949
+],
   "geometry": {"coordinates":[-123.018266,44.056949],"type":"Point"}
 }

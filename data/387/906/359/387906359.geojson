@@ -2,13 +2,14 @@
   "id": 387906359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.548504,45.532557,-122.548504,45.532557",
     "geom:latitude":45.532557,
     "geom:longitude":-122.548504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 NE 111th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387906359,
-    "wof:lastmodified":1449057549,
+    "wof:lastmodified":1466775237,
     "wof:name":"Rose City Temporary Service",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.548504,45.532557,-122.548504,45.532557],
-  "geometry": {"coordinates":[-122.548504,45.532557],"type":"Point"}
+  "bbox": [
+    -122.548504,
+    45.532557,
+    -122.548504,
+    45.532557
+],
+  "geometry": {"coordinates":[-122.54850399999999,45.532557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403805777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.175948,44.216507,-123.175948,44.216507",
     "geom:latitude":44.216507,
     "geom:longitude":-123.175948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94050 Lovelake Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403805777,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1466769749,
     "wof:name":"Rl Keyshop",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.175948,44.216507,-123.175948,44.216507],
-  "geometry": {"coordinates":[-123.175948,44.216507],"type":"Point"}
+  "bbox": [
+    -123.175948,
+    44.216507,
+    -123.175948,
+    44.216507
+],
+  "geometry": {"coordinates":[-123.17594800000001,44.216507],"type":"Point"}
 }

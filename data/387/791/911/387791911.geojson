@@ -2,13 +2,14 @@
   "id": 387791911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.215122,44.61222,-123.215122,44.61222",
     "geom:latitude":44.61222,
     "geom:longitude":-123.215122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5470 US Hwy 20",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387791911,
-    "wof:lastmodified":1449059027,
+    "wof:lastmodified":1466774967,
     "wof:name":"Ham/Mock & Assoc Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.215122,44.61222,-123.215122,44.61222],
-  "geometry": {"coordinates":[-123.215122,44.61222],"type":"Point"}
+  "bbox": [
+    -123.215122,
+    44.61222,
+    -123.215122,
+    44.61222
+],
+  "geometry": {"coordinates":[-123.21512199999999,44.61222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370670021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.090157,44.609747,-123.090157,44.609747",
     "geom:latitude":44.609747,
     "geom:longitude":-123.090157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3460 Hill St SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370670021,
-    "wof:lastmodified":1449029597,
+    "wof:lastmodified":1466773536,
     "wof:name":"Jamata Happy Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.090157,44.609747,-123.090157,44.609747],
+  "bbox": [
+    -123.090157,
+    44.609747,
+    -123.090157,
+    44.609747
+],
   "geometry": {"coordinates":[-123.090157,44.609747],"type":"Point"}
 }

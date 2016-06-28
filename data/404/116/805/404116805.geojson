@@ -2,13 +2,14 @@
   "id": 404116805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721838,45.618112,-122.721838,45.618112",
     "geom:latitude":45.618112,
     "geom:longitude":-122.721838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6095 N Marine Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404116805,
-    "wof:lastmodified":1449039185,
+    "wof:lastmodified":1466770919,
     "wof:name":"Marine Terminals Corp",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.721838,45.618112,-122.721838,45.618112],
-  "geometry": {"coordinates":[-122.721838,45.618112],"type":"Point"}
+  "bbox": [
+    -122.721838,
+    45.618112,
+    -122.721838,
+    45.618112
+],
+  "geometry": {"coordinates":[-122.72183800000001,45.618112],"type":"Point"}
 }

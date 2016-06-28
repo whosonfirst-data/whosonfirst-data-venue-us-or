@@ -2,13 +2,14 @@
   "id": 387089803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.193953,44.699366,-123.193953,44.699366",
     "geom:latitude":44.699366,
     "geom:longitude":-123.193953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29969 Camp Adair Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387089803,
-    "wof:lastmodified":1449056874,
+    "wof:lastmodified":1466768636,
     "wof:name":"Processing & Recovery Center",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compost"
     ]
 },
-  "bbox": [-123.193953,44.699366,-123.193953,44.699366],
-  "geometry": {"coordinates":[-123.193953,44.699366],"type":"Point"}
+  "bbox": [
+    -123.193953,
+    44.699366,
+    -123.193953,
+    44.699366
+],
+  "geometry": {"coordinates":[-123.19395299999999,44.699366],"type":"Point"}
 }

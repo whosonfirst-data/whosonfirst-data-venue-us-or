@@ -2,13 +2,14 @@
   "id": 403762021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.930991,44.870655,-122.930991,44.870655",
     "geom:latitude":44.870655,
     "geom:longitude":-122.930991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6707 Lipscomb St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403762021,
-    "wof:lastmodified":1449055556,
+    "wof:lastmodified":1466769047,
     "wof:name":"Leedle's Collectables",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-122.930991,44.870655,-122.930991,44.870655],
-  "geometry": {"coordinates":[-122.930991,44.870655],"type":"Point"}
+  "bbox": [
+    -122.930991,
+    44.870655,
+    -122.930991,
+    44.870655
+],
+  "geometry": {"coordinates":[-122.93099100000001,44.870655],"type":"Point"}
 }

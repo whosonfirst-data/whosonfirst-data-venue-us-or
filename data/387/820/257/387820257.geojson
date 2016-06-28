@@ -2,13 +2,14 @@
   "id": 387820257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.684413,45.505388,-122.684413,45.505388",
     "geom:latitude":45.505388,
     "geom:longitude":-122.684413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 SW 6th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387820257,
-    "wof:lastmodified":1449058072,
+    "wof:lastmodified":1466774999,
     "wof:name":"Terwilliger Terrace Assisted L",
     "wof:parent_id":85832591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.684413,45.505388,-122.684413,45.505388],
-  "geometry": {"coordinates":[-122.684413,45.505388],"type":"Point"}
+  "bbox": [
+    -122.684413,
+    45.505388,
+    -122.684413,
+    45.505388
+],
+  "geometry": {"coordinates":[-122.68441300000001,45.505388],"type":"Point"}
 }

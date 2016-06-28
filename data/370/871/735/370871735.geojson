@@ -2,13 +2,14 @@
   "id": 370871735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.395866,45.938084,-118.395866,45.938084",
     "geom:latitude":45.938084,
     "geom:longitude":-118.395866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Main St",
     "sg:city":"Milton Freewater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370871735,
-    "wof:lastmodified":1449030209,
+    "wof:lastmodified":1466774501,
     "wof:name":"Umatilla County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-118.395866,45.938084,-118.395866,45.938084],
+  "bbox": [
+    -118.395866,
+    45.938084,
+    -118.395866,
+    45.938084
+],
   "geometry": {"coordinates":[-118.395866,45.938084],"type":"Point"}
 }

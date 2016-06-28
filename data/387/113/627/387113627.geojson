@@ -2,13 +2,14 @@
   "id": 387113627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.465489,45.522232,-122.465489,45.522232",
     "geom:latitude":45.522232,
     "geom:longitude":-122.465489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 SE 192nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387113627,
-    "wof:lastmodified":1449059603,
+    "wof:lastmodified":1466769045,
     "wof:name":"Smitherman Apts",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.465489,45.522232,-122.465489,45.522232],
-  "geometry": {"coordinates":[-122.465489,45.522232],"type":"Point"}
+  "bbox": [
+    -122.465489,
+    45.522232,
+    -122.465489,
+    45.522232
+],
+  "geometry": {"coordinates":[-122.46548900000001,45.522232],"type":"Point"}
 }

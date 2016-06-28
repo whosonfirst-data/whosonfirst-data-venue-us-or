@@ -2,13 +2,14 @@
   "id": 370486065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.710316,45.58663,-122.710316,45.58663",
     "geom:latitude":45.58663,
     "geom:longitude":-122.710316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9009 N Foss Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370486065,
-    "wof:lastmodified":1449030957,
+    "wof:lastmodified":1466772257,
     "wof:name":"Two Rivers",
     "wof:parent_id":85841161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "elderly"
     ]
 },
-  "bbox": [-122.710316,45.58663,-122.710316,45.58663],
-  "geometry": {"coordinates":[-122.710316,45.58663],"type":"Point"}
+  "bbox": [
+    -122.710316,
+    45.58663,
+    -122.710316,
+    45.58663
+],
+  "geometry": {"coordinates":[-122.71031600000001,45.58663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387454197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.435381,45.508124,-122.435381,45.508124",
     "geom:latitude":45.508124,
     "geom:longitude":-122.435381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 NW Eastman Pkwy",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387454197,
-    "wof:lastmodified":1449059557,
+    "wof:lastmodified":1466772845,
     "wof:name":"Gresham-Barlow School Dist 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.435381,45.508124,-122.435381,45.508124],
-  "geometry": {"coordinates":[-122.435381,45.508124],"type":"Point"}
+  "bbox": [
+    -122.435381,
+    45.508124,
+    -122.435381,
+    45.508124
+],
+  "geometry": {"coordinates":[-122.43538100000001,45.508124],"type":"Point"}
 }

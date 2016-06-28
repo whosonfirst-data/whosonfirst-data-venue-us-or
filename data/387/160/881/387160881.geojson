@@ -2,13 +2,14 @@
   "id": 387160881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.31151,44.55093,-123.31151,44.55093",
     "geom:latitude":44.55093,
     "geom:longitude":-123.31151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5262 SW Philomath Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387160881,
-    "wof:lastmodified":1449059323,
+    "wof:lastmodified":1466769985,
     "wof:name":"Sunsations Tanning",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-123.31151,44.55093,-123.31151,44.55093],
+  "bbox": [
+    -123.31151,
+    44.55093,
+    -123.31151,
+    44.55093
+],
   "geometry": {"coordinates":[-123.31151,44.55093],"type":"Point"}
 }

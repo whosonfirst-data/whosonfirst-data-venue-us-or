@@ -2,13 +2,14 @@
   "id": 387919109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.119339,45.53675,-123.119339,45.53675",
     "geom:latitude":45.53675,
     "geom:longitude":-123.119339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Hartford Dr",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387919109,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466775359,
     "wof:name":"Valley Renovations",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.119339,45.53675,-123.119339,45.53675],
+  "bbox": [
+    -123.119339,
+    45.53675,
+    -123.119339,
+    45.53675
+],
   "geometry": {"coordinates":[-123.119339,45.53675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370999201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.19066,45.200392,-123.19066,45.200392",
     "geom:latitude":45.200392,
     "geom:longitude":-123.19066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 SE Villard St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370999201,
-    "wof:lastmodified":1449032054,
+    "wof:lastmodified":1466775008,
     "wof:name":"Allen Construction",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.19066,45.200392,-123.19066,45.200392],
-  "geometry": {"coordinates":[-123.19066,45.200392],"type":"Point"}
+  "bbox": [
+    -123.19066,
+    45.200392,
+    -123.19066,
+    45.200392
+],
+  "geometry": {"coordinates":[-123.19065999999999,45.200392],"type":"Point"}
 }

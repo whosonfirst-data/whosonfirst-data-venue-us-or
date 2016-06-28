@@ -2,13 +2,14 @@
   "id": 371140583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.679572,45.40585,-122.679572,45.40585",
     "geom:latitude":45.40585,
     "geom:longitude":-122.679572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1752 Fern Pl",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371140583,
-    "wof:lastmodified":1449049171,
+    "wof:lastmodified":1466769527,
     "wof:name":"Edward Jones 19529",
     "wof:parent_id":85878599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-122.679572,45.40585,-122.679572,45.40585],
-  "geometry": {"coordinates":[-122.679572,45.40585],"type":"Point"}
+  "bbox": [
+    -122.679572,
+    45.40585,
+    -122.679572,
+    45.40585
+],
+  "geometry": {"coordinates":[-122.67957199999999,45.40585],"type":"Point"}
 }

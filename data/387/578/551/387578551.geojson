@@ -2,13 +2,14 @@
   "id": 387578551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.737913,45.027076,-122.737913,45.027076",
     "geom:latitude":45.027076,
     "geom:longitude":-122.737913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7020 Cascade Hwy NE",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387578551,
-    "wof:lastmodified":1449057059,
+    "wof:lastmodified":1466773683,
     "wof:name":"Steven Sherwood",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.737913,45.027076,-122.737913,45.027076],
-  "geometry": {"coordinates":[-122.737913,45.027076],"type":"Point"}
+  "bbox": [
+    -122.737913,
+    45.027076,
+    -122.737913,
+    45.027076
+],
+  "geometry": {"coordinates":[-122.73791300000001,45.027076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370795975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.05771,44.073349,-123.05771,44.073349",
     "geom:latitude":44.073349,
     "geom:longitude":-123.05771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 Western Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370795975,
-    "wof:lastmodified":1449031080,
+    "wof:lastmodified":1466774179,
     "wof:name":"Cat's Corner & More",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.05771,44.073349,-123.05771,44.073349],
+  "bbox": [
+    -123.05771,
+    44.073349,
+    -123.05771,
+    44.073349
+],
   "geometry": {"coordinates":[-123.05771,44.073349],"type":"Point"}
 }

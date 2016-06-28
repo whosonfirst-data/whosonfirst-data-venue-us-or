@@ -2,13 +2,14 @@
   "id": 370166311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772214,45.454367,-122.772214,45.454367",
     "geom:latitude":45.454367,
     "geom:longitude":-122.772214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9115 SW Oleson Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370166311,
-    "wof:lastmodified":1449030957,
+    "wof:lastmodified":1466767446,
     "wof:name":"Aptus Financial",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-122.772214,45.454367,-122.772214,45.454367],
-  "geometry": {"coordinates":[-122.772214,45.454367],"type":"Point"}
+  "bbox": [
+    -122.772214,
+    45.454367,
+    -122.772214,
+    45.454367
+],
+  "geometry": {"coordinates":[-122.77221400000001,45.454367],"type":"Point"}
 }

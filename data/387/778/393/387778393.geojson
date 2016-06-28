@@ -2,13 +2,14 @@
   "id": 387778393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.672045,45.520479,-122.672045,45.520479",
     "geom:latitude":45.520479,
     "geom:longitude":-122.672045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 SW 1st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387778393,
-    "wof:lastmodified":1449056192,
+    "wof:lastmodified":1466774825,
     "wof:name":"FBR Group",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-122.672045,45.520479,-122.672045,45.520479],
+  "bbox": [
+    -122.672045,
+    45.520479,
+    -122.672045,
+    45.520479
+],
   "geometry": {"coordinates":[-122.672045,45.520479],"type":"Point"}
 }

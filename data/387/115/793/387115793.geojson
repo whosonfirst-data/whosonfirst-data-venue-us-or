@@ -2,13 +2,14 @@
   "id": 387115793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.605241,45.359474,-122.605241,45.359474",
     "geom:latitude":45.359474,
     "geom:longitude":-122.605241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 10th St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387115793,
-    "wof:lastmodified":1449056084,
+    "wof:lastmodified":1466769085,
     "wof:name":"Oregon City Hair Salon",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.605241,45.359474,-122.605241,45.359474],
-  "geometry": {"coordinates":[-122.605241,45.359474],"type":"Point"}
+  "bbox": [
+    -122.605241,
+    45.359474,
+    -122.605241,
+    45.359474
+],
+  "geometry": {"coordinates":[-122.60524100000001,45.359474],"type":"Point"}
 }

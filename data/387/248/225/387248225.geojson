@@ -2,13 +2,14 @@
   "id": 387248225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.212654,45.225679,-123.212654,45.225679",
     "geom:latitude":45.225679,
     "geom:longitude":-123.212654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 NW Greenbriar Pl",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387248225,
-    "wof:lastmodified":1449058199,
+    "wof:lastmodified":1466771628,
     "wof:name":"D P Sales",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-123.212654,45.225679,-123.212654,45.225679],
+  "bbox": [
+    -123.212654,
+    45.225679,
+    -123.212654,
+    45.225679
+],
   "geometry": {"coordinates":[-123.212654,45.225679],"type":"Point"}
 }

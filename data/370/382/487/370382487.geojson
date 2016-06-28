@@ -2,13 +2,14 @@
   "id": 370382487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.799866,45.477806,-122.799866,45.477806",
     "geom:latitude":45.477806,
     "geom:longitude":-122.799866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11670 SW 13th St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370382487,
-    "wof:lastmodified":1449030002,
+    "wof:lastmodified":1466771432,
     "wof:name":"Cwa Testing Intl",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.799866,45.477806,-122.799866,45.477806],
-  "geometry": {"coordinates":[-122.799866,45.477806],"type":"Point"}
+  "bbox": [
+    -122.799866,
+    45.477806,
+    -122.799866,
+    45.477806
+],
+  "geometry": {"coordinates":[-122.79986599999999,45.477806],"type":"Point"}
 }

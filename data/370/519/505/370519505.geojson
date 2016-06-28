@@ -2,13 +2,14 @@
   "id": 370519505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.149496,45.589161,-123.149496,45.589161",
     "geom:latitude":45.589161,
     "geom:longitude":-123.149496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8711 NW Kansas City Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370519505,
-    "wof:lastmodified":1449032238,
+    "wof:lastmodified":1466772358,
     "wof:name":"Kansas City Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.149496,45.589161,-123.149496,45.589161],
+  "bbox": [
+    -123.149496,
+    45.589161,
+    -123.149496,
+    45.589161
+],
   "geometry": {"coordinates":[-123.149496,45.589161],"type":"Point"}
 }

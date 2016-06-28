@@ -2,13 +2,14 @@
   "id": 370880967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.795156,45.011097,-122.795156,45.011097",
     "geom:latitude":45.011097,
     "geom:longitude":-122.795156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Pine St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370880967,
-    "wof:lastmodified":1449032507,
+    "wof:lastmodified":1466774549,
     "wof:name":"St Paul's Church",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.795156,45.011097,-122.795156,45.011097],
-  "geometry": {"coordinates":[-122.795156,45.011097],"type":"Point"}
+  "bbox": [
+    -122.795156,
+    45.011097,
+    -122.795156,
+    45.011097
+],
+  "geometry": {"coordinates":[-122.79515600000001,45.011097],"type":"Point"}
 }

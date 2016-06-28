@@ -2,13 +2,14 @@
   "id": 387599051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.315644,44.559681,-123.315644,44.559681",
     "geom:latitude":44.559681,
     "geom:longitude":-123.315644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 SW Donovan Pl",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387599051,
-    "wof:lastmodified":1449057872,
+    "wof:lastmodified":1466773819,
     "wof:name":"Donovan Guest House",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-123.315644,44.559681,-123.315644,44.559681],
-  "geometry": {"coordinates":[-123.315644,44.559681],"type":"Point"}
+  "bbox": [
+    -123.315644,
+    44.559681,
+    -123.315644,
+    44.559681
+],
+  "geometry": {"coordinates":[-123.31564400000001,44.559681],"type":"Point"}
 }

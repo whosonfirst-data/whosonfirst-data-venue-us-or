@@ -2,13 +2,14 @@
   "id": 387925729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.120068,44.023986,-123.120068,44.023986",
     "geom:latitude":44.023986,
     "geom:longitude":-123.120068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 McKendrick St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387925729,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466775455,
     "wof:name":"Oregon Clinical Res Trials",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.120068,44.023986,-123.120068,44.023986],
+  "bbox": [
+    -123.120068,
+    44.023986,
+    -123.120068,
+    44.023986
+],
   "geometry": {"coordinates":[-123.120068,44.023986],"type":"Point"}
 }

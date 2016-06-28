@@ -2,13 +2,14 @@
   "id": 354343327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.48606,45.492561,-122.48606,45.492561",
     "geom:latitude":45.492561,
     "geom:longitude":-122.48606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17102 SE Powell Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354343327,
-    "wof:lastmodified":1449067165,
+    "wof:lastmodified":1466770201,
     "wof:name":"PACS",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-122.48606,45.492561,-122.48606,45.492561],
-  "geometry": {"coordinates":[-122.48606,45.492561],"type":"Point"}
+  "bbox": [
+    -122.48606,
+    45.492561,
+    -122.48606,
+    45.492561
+],
+  "geometry": {"coordinates":[-122.48605999999999,45.492561],"type":"Point"}
 }

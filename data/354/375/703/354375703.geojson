@@ -2,13 +2,14 @@
   "id": 354375703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.704957,45.536776,-122.704957,45.536776",
     "geom:latitude":45.536776,
     "geom:longitude":-122.704957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 NW 26th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354375703,
-    "wof:lastmodified":1449066001,
+    "wof:lastmodified":1466770869,
     "wof:name":"Steel Pond",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.704957,45.536776,-122.704957,45.536776],
-  "geometry": {"coordinates":[-122.704957,45.536776],"type":"Point"}
+  "bbox": [
+    -122.704957,
+    45.536776,
+    -122.704957,
+    45.536776
+],
+  "geometry": {"coordinates":[-122.70495699999999,45.536776],"type":"Point"}
 }

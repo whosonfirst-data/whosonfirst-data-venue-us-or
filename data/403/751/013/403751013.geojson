@@ -2,13 +2,14 @@
   "id": 403751013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.998022,44.974205,-123.998022,44.974205",
     "geom:latitude":44.974205,
     "geom:longitude":-123.998022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 NE Lake Dr",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403751013,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1466771456,
     "wof:name":"Adolfo II",
     "wof:parent_id":85868149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.998022,44.974205,-123.998022,44.974205],
-  "geometry": {"coordinates":[-123.998022,44.974205],"type":"Point"}
+  "bbox": [
+    -123.998022,
+    44.974205,
+    -123.998022,
+    44.974205
+],
+  "geometry": {"coordinates":[-123.99802200000001,44.974205],"type":"Point"}
 }

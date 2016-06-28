@@ -2,13 +2,14 @@
   "id": 354359647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.553593,45.553502,-122.553593,45.553502",
     "geom:latitude":45.553502,
     "geom:longitude":-122.553593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10734 NE Skidmore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354359647,
-    "wof:lastmodified":1449065905,
+    "wof:lastmodified":1466770538,
     "wof:name":"Syner-Giea",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-122.553593,45.553502,-122.553593,45.553502],
-  "geometry": {"coordinates":[-122.553593,45.553502],"type":"Point"}
+  "bbox": [
+    -122.553593,
+    45.553502,
+    -122.553593,
+    45.553502
+],
+  "geometry": {"coordinates":[-122.55359300000001,45.553502],"type":"Point"}
 }

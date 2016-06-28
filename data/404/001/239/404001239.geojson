@@ -2,13 +2,14 @@
   "id": 404001239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.240018,45.255486,-122.240018,45.255486",
     "geom:latitude":45.255486,
     "geom:longitude":-122.240018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41440 SE Squaw Mountain Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404001239,
-    "wof:lastmodified":1449039325,
+    "wof:lastmodified":1466768291,
     "wof:name":"Squaw Mountain Land & Cattle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.240018,45.255486,-122.240018,45.255486],
-  "geometry": {"coordinates":[-122.240018,45.255486],"type":"Point"}
+  "bbox": [
+    -122.240018,
+    45.255486,
+    -122.240018,
+    45.255486
+],
+  "geometry": {"coordinates":[-122.24001800000001,45.255486],"type":"Point"}
 }

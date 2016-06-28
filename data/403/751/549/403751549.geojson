@@ -2,13 +2,14 @@
   "id": 403751549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661133,45.223253,-122.661133,45.223253",
     "geom:latitude":45.223253,
     "geom:longitude":-122.661133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26200 S Harms Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403751549,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1466768873,
     "wof:name":"Harms Veterinary Clinic",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-122.661133,45.223253,-122.661133,45.223253],
-  "geometry": {"coordinates":[-122.661133,45.223253],"type":"Point"}
+  "bbox": [
+    -122.661133,
+    45.223253,
+    -122.661133,
+    45.223253
+],
+  "geometry": {"coordinates":[-122.66113300000001,45.223253],"type":"Point"}
 }

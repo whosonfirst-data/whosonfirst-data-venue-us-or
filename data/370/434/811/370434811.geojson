@@ -2,13 +2,14 @@
   "id": 370434811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.782373,45.455424,-122.782373,45.455424",
     "geom:latitude":45.455424,
     "geom:longitude":-122.782373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9020 SW Washington Square Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370434811,
-    "wof:lastmodified":1449029828,
+    "wof:lastmodified":1466771871,
     "wof:name":"Hank Lageman & Assoc Inc",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.782373,45.455424,-122.782373,45.455424],
-  "geometry": {"coordinates":[-122.782373,45.455424],"type":"Point"}
+  "bbox": [
+    -122.782373,
+    45.455424,
+    -122.782373,
+    45.455424
+],
+  "geometry": {"coordinates":[-122.78237300000001,45.455424],"type":"Point"}
 }

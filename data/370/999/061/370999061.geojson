@@ -2,13 +2,14 @@
   "id": 370999061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.119599,44.047825,-123.119599,44.047825",
     "geom:latitude":44.047825,
     "geom:longitude":-123.119599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370999061,
-    "wof:lastmodified":1449032054,
+    "wof:lastmodified":1466775005,
     "wof:name":"Speedy Glass",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-123.119599,44.047825,-123.119599,44.047825],
-  "geometry": {"coordinates":[-123.119599,44.047825],"type":"Point"}
+  "bbox": [
+    -123.119599,
+    44.047825,
+    -123.119599,
+    44.047825
+],
+  "geometry": {"coordinates":[-123.11959899999999,44.047825],"type":"Point"}
 }

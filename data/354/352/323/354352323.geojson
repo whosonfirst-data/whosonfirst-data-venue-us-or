@@ -2,13 +2,14 @@
   "id": 354352323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.681187,45.527181,-122.681187,45.527181",
     "geom:latitude":45.527181,
     "geom:longitude":-122.681187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 NW Hoyt St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354352323,
-    "wof:lastmodified":1449066979,
+    "wof:lastmodified":1466770380,
     "wof:name":"Fieldtrip",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-122.681187,45.527181,-122.681187,45.527181],
-  "geometry": {"coordinates":[-122.681187,45.527181],"type":"Point"}
+  "bbox": [
+    -122.681187,
+    45.527181,
+    -122.681187,
+    45.527181
+],
+  "geometry": {"coordinates":[-122.68118699999999,45.527181],"type":"Point"}
 }

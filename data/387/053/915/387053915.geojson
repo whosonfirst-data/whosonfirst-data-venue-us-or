@@ -2,13 +2,14 @@
   "id": 387053915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.570873,45.371506,-122.570873,45.371506",
     "geom:latitude":45.371506,
     "geom:longitude":-122.570873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Longview Way",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387053915,
-    "wof:lastmodified":1449056819,
+    "wof:lastmodified":1466768041,
     "wof:name":"Oregon City Barber",
     "wof:parent_id":85811111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.570873,45.371506,-122.570873,45.371506],
-  "geometry": {"coordinates":[-122.570873,45.371506],"type":"Point"}
+  "bbox": [
+    -122.570873,
+    45.371506,
+    -122.570873,
+    45.371506
+],
+  "geometry": {"coordinates":[-122.57087300000001,45.371506],"type":"Point"}
 }

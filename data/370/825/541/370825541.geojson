@@ -2,13 +2,14 @@
   "id": 370825541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.324695,44.936575,-123.324695,44.936575",
     "geom:latitude":44.936575,
     "geom:longitude":-123.324695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 NW Ashley St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370825541,
-    "wof:lastmodified":1449029197,
+    "wof:lastmodified":1466774269,
     "wof:name":"Mahoney Robert & Assoc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.324695,44.936575,-123.324695,44.936575],
-  "geometry": {"coordinates":[-123.324695,44.936575],"type":"Point"}
+  "bbox": [
+    -123.324695,
+    44.936575,
+    -123.324695,
+    44.936575
+],
+  "geometry": {"coordinates":[-123.32469500000001,44.936575],"type":"Point"}
 }

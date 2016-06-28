@@ -2,13 +2,14 @@
   "id": 404111679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.827367,45.360556,-122.827367,45.360556",
     "geom:latitude":45.360556,
     "geom:longitude":-122.827367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 SE G and T Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404111679,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466770820,
     "wof:name":"Cuisine Du Jour",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.827367,45.360556,-122.827367,45.360556],
+  "bbox": [
+    -122.827367,
+    45.360556,
+    -122.827367,
+    45.360556
+],
   "geometry": {"coordinates":[-122.827367,45.360556],"type":"Point"}
 }

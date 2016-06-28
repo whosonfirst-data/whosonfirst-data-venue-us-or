@@ -2,13 +2,14 @@
   "id": 370257257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.527481,45.710647,-121.527481,45.710647",
     "geom:latitude":45.710647,
     "geom:longitude":-121.527481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Lincoln St",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370257257,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1466769021,
     "wof:name":"Strategy Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.527481,45.710647,-121.527481,45.710647],
-  "geometry": {"coordinates":[-121.527481,45.710647],"type":"Point"}
+  "bbox": [
+    -121.527481,
+    45.710647,
+    -121.527481,
+    45.710647
+],
+  "geometry": {"coordinates":[-121.52748099999999,45.710647],"type":"Point"}
 }

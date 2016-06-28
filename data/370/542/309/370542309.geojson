@@ -2,13 +2,14 @@
   "id": 370542309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.075662,44.618529,-123.075662,44.618529",
     "geom:latitude":44.618529,
     "geom:longitude":-123.075662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Ermine Ct SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370542309,
-    "wof:lastmodified":1449031730,
+    "wof:lastmodified":1466772490,
     "wof:name":"Limo-Scene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-123.075662,44.618529,-123.075662,44.618529],
-  "geometry": {"coordinates":[-123.075662,44.618529],"type":"Point"}
+  "bbox": [
+    -123.075662,
+    44.618529,
+    -123.075662,
+    44.618529
+],
+  "geometry": {"coordinates":[-123.07566199999999,44.618529],"type":"Point"}
 }

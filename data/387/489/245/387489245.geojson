@@ -2,13 +2,14 @@
   "id": 387489245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.128945,44.937969,-123.128945,44.937969",
     "geom:latitude":44.937969,
     "geom:longitude":-123.128945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 50th Ave NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387489245,
-    "wof:lastmodified":1449058194,
+    "wof:lastmodified":1466773089,
     "wof:name":"Willamette Plumbing & Mech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.128945,44.937969,-123.128945,44.937969],
+  "bbox": [
+    -123.128945,
+    44.937969,
+    -123.128945,
+    44.937969
+],
   "geometry": {"coordinates":[-123.128945,44.937969],"type":"Point"}
 }

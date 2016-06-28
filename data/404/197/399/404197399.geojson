@@ -2,13 +2,14 @@
   "id": 404197399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.264975,44.561925,-123.264975,44.561925",
     "geom:latitude":44.561925,
     "geom:longitude":-123.264975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 SW Adams Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404197399,
-    "wof:lastmodified":1449040171,
+    "wof:lastmodified":1466768060,
     "wof:name":"Oregon Camera",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camera"
     ]
 },
-  "bbox": [-123.264975,44.561925,-123.264975,44.561925],
-  "geometry": {"coordinates":[-123.264975,44.561925],"type":"Point"}
+  "bbox": [
+    -123.264975,
+    44.561925,
+    -123.264975,
+    44.561925
+],
+  "geometry": {"coordinates":[-123.26497500000001,44.561925],"type":"Point"}
 }

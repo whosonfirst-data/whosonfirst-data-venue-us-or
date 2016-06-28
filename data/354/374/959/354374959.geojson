@@ -2,13 +2,14 @@
   "id": 354374959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.711956,45.461833,-122.711956,45.461833",
     "geom:latitude":45.461833,
     "geom:longitude":-122.711956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 SW Dolph Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354374959,
-    "wof:lastmodified":1449066660,
+    "wof:lastmodified":1466770857,
     "wof:name":"Boston House Apartments",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.711956,45.461833,-122.711956,45.461833],
+  "bbox": [
+    -122.711956,
+    45.461833,
+    -122.711956,
+    45.461833
+],
   "geometry": {"coordinates":[-122.711956,45.461833],"type":"Point"}
 }

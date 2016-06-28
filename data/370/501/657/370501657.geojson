@@ -2,13 +2,14 @@
   "id": 370501657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.963349,44.050797,-122.963349,44.050797",
     "geom:latitude":44.050797,
     "geom:longitude":-122.963349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N 42nd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370501657,
-    "wof:lastmodified":1449032501,
+    "wof:lastmodified":1466772190,
     "wof:name":"42nd St Center Chevron",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-122.963349,44.050797,-122.963349,44.050797],
-  "geometry": {"coordinates":[-122.963349,44.050797],"type":"Point"}
+  "bbox": [
+    -122.963349,
+    44.050797,
+    -122.963349,
+    44.050797
+],
+  "geometry": {"coordinates":[-122.96334899999999,44.050797],"type":"Point"}
 }

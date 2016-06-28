@@ -2,13 +2,14 @@
   "id": 403763577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.777909,45.303909,-122.777909,45.303909",
     "geom:latitude":45.303909,
     "geom:longitude":-122.777909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29900 SW Kinsman Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403763577,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1466769073,
     "wof:name":"Calendars Plus",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.777909,45.303909,-122.777909,45.303909],
-  "geometry": {"coordinates":[-122.777909,45.303909],"type":"Point"}
+  "bbox": [
+    -122.777909,
+    45.303909,
+    -122.777909,
+    45.303909
+],
+  "geometry": {"coordinates":[-122.77790899999999,45.303909],"type":"Point"}
 }

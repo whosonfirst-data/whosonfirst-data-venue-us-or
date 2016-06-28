@@ -2,13 +2,14 @@
   "id": 387340615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.036595,44.891033,-123.036595,44.891033",
     "geom:latitude":44.891033,
     "geom:longitude":-123.036595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Idylwood Dr SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387340615,
-    "wof:lastmodified":1449059042,
+    "wof:lastmodified":1466772159,
     "wof:name":"Coldwell Banker New Homes Pl",
     "wof:parent_id":85880573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "commercial"
     ]
 },
-  "bbox": [-123.036595,44.891033,-123.036595,44.891033],
-  "geometry": {"coordinates":[-123.036595,44.891033],"type":"Point"}
+  "bbox": [
+    -123.036595,
+    44.891033,
+    -123.036595,
+    44.891033
+],
+  "geometry": {"coordinates":[-123.03659500000001,44.891033],"type":"Point"}
 }

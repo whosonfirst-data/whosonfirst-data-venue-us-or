@@ -2,13 +2,14 @@
   "id": 403876799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.766363,45.380047,-122.766363,45.380047",
     "geom:latitude":45.380047,
     "geom:longitude":-122.766363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19398 SW Mohave Ct",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403876799,
-    "wof:lastmodified":1449054907,
+    "wof:lastmodified":1466771287,
     "wof:name":"Tualatin Oregonian Agency",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-122.766363,45.380047,-122.766363,45.380047],
+  "bbox": [
+    -122.766363,
+    45.380047,
+    -122.766363,
+    45.380047
+],
   "geometry": {"coordinates":[-122.766363,45.380047],"type":"Point"}
 }

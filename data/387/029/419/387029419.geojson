@@ -2,13 +2,14 @@
   "id": 387029419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.754291,45.535585,-122.754291,45.535585",
     "geom:latitude":45.535585,
     "geom:longitude":-122.754291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 NW Ramsey Crest Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387029419,
-    "wof:lastmodified":1449057715,
+    "wof:lastmodified":1466767614,
     "wof:name":"Oregon Technical Svc Ctr Inc",
     "wof:parent_id":85804571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.754291,45.535585,-122.754291,45.535585],
-  "geometry": {"coordinates":[-122.754291,45.535585],"type":"Point"}
+  "bbox": [
+    -122.754291,
+    45.535585,
+    -122.754291,
+    45.535585
+],
+  "geometry": {"coordinates":[-122.75429099999999,45.535585],"type":"Point"}
 }

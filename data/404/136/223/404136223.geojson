@@ -2,13 +2,14 @@
   "id": 404136223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.589328,45.482214,-122.589328,45.482214",
     "geom:latitude":45.482214,
     "geom:longitude":-122.589328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 SE 72nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404136223,
-    "wof:lastmodified":1449040312,
+    "wof:lastmodified":1466771309,
     "wof:name":"Country Tile Inc",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.589328,45.482214,-122.589328,45.482214],
-  "geometry": {"coordinates":[-122.589328,45.482214],"type":"Point"}
+  "bbox": [
+    -122.589328,
+    45.482214,
+    -122.589328,
+    45.482214
+],
+  "geometry": {"coordinates":[-122.58932799999999,45.482214],"type":"Point"}
 }

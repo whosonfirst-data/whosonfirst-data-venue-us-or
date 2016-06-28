@@ -2,13 +2,14 @@
   "id": 403783755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.873061,45.213325,-117.873061,45.213325",
     "geom:latitude":45.213325,
     "geom:longitude":-117.873061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"796 W Delta St",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403783755,
-    "wof:lastmodified":1449054663,
+    "wof:lastmodified":1466769386,
     "wof:name":"Steve Huntington Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-117.873061,45.213325,-117.873061,45.213325],
-  "geometry": {"coordinates":[-117.873061,45.213325],"type":"Point"}
+  "bbox": [
+    -117.873061,
+    45.213325,
+    -117.873061,
+    45.213325
+],
+  "geometry": {"coordinates":[-117.87306100000001,45.213325],"type":"Point"}
 }

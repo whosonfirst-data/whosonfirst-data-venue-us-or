@@ -2,13 +2,14 @@
   "id": 370501831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.960226,44.964379,-122.960226,44.964379",
     "geom:latitude":44.964379,
     "geom:longitude":-122.960226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4946 Indiana Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370501831,
-    "wof:lastmodified":1449032503,
+    "wof:lastmodified":1466772193,
     "wof:name":"Porras Limousine Service",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-122.960226,44.964379,-122.960226,44.964379],
-  "geometry": {"coordinates":[-122.960226,44.964379],"type":"Point"}
+  "bbox": [
+    -122.960226,
+    44.964379,
+    -122.960226,
+    44.964379
+],
+  "geometry": {"coordinates":[-122.96022600000001,44.964379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386930589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.266305,44.560741,-123.266305,44.560741",
     "geom:latitude":44.560741,
     "geom:longitude":-123.266305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 SW 6th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386930589,
-    "wof:lastmodified":1449028716,
+    "wof:lastmodified":1466767152,
     "wof:name":"Power Tool Svc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-123.266305,44.560741,-123.266305,44.560741],
+  "bbox": [
+    -123.266305,
+    44.560741,
+    -123.266305,
+    44.560741
+],
   "geometry": {"coordinates":[-123.266305,44.560741],"type":"Point"}
 }

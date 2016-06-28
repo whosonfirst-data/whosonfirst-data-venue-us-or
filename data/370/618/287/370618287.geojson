@@ -2,13 +2,14 @@
   "id": 370618287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.538266,45.476449,-122.538266,45.476449",
     "geom:latitude":45.476449,
     "geom:longitude":-122.538266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12130 SE Foster Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370618287,
-    "wof:lastmodified":1449031192,
+    "wof:lastmodified":1466773129,
     "wof:name":"United Foster Care",
     "wof:parent_id":85821523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "foster"
     ]
 },
-  "bbox": [-122.538266,45.476449,-122.538266,45.476449],
-  "geometry": {"coordinates":[-122.538266,45.476449],"type":"Point"}
+  "bbox": [
+    -122.538266,
+    45.476449,
+    -122.538266,
+    45.476449
+],
+  "geometry": {"coordinates":[-122.53826599999999,45.476449],"type":"Point"}
 }

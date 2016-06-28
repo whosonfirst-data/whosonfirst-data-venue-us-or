@@ -2,13 +2,14 @@
   "id": 387657025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537725,45.559311,-122.537725,45.559311",
     "geom:latitude":45.559311,
     "geom:longitude":-122.537725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4916 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387657025,
-    "wof:lastmodified":1449056540,
+    "wof:lastmodified":1466774258,
     "wof:name":"Porter-Cable Delta Svc Ctr",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-122.537725,45.559311,-122.537725,45.559311],
-  "geometry": {"coordinates":[-122.537725,45.559311],"type":"Point"}
+  "bbox": [
+    -122.537725,
+    45.559311,
+    -122.537725,
+    45.559311
+],
+  "geometry": {"coordinates":[-122.53772499999999,45.559311],"type":"Point"}
 }

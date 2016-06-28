@@ -2,13 +2,14 @@
   "id": 370696161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.205447,45.199929,-123.205447,45.199929",
     "geom:latitude":45.199929,
     "geom:longitude":-123.205447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 SW Brockwood Ave",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370696161,
-    "wof:lastmodified":1449029336,
+    "wof:lastmodified":1466773661,
     "wof:name":"Christina Jirovsky",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.205447,45.199929,-123.205447,45.199929],
-  "geometry": {"coordinates":[-123.205447,45.199929],"type":"Point"}
+  "bbox": [
+    -123.205447,
+    45.199929,
+    -123.205447,
+    45.199929
+],
+  "geometry": {"coordinates":[-123.20544700000001,45.199929],"type":"Point"}
 }

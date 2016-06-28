@@ -2,13 +2,14 @@
   "id": 387277267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.737468,45.507857,-122.737468,45.507857",
     "geom:latitude":45.507857,
     "geom:longitude":-122.737468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 SW Scholls Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387277267,
-    "wof:lastmodified":1449056542,
+    "wof:lastmodified":1466771764,
     "wof:name":"Oregon Transportation Dept",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-122.737468,45.507857,-122.737468,45.507857],
-  "geometry": {"coordinates":[-122.737468,45.507857],"type":"Point"}
+  "bbox": [
+    -122.737468,
+    45.507857,
+    -122.737468,
+    45.507857
+],
+  "geometry": {"coordinates":[-122.73746800000001,45.507857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404210379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109299,44.041228,-123.109299,44.041228",
     "geom:latitude":44.041228,
     "geom:longitude":-123.109299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 W 17th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404210379,
-    "wof:lastmodified":1449039420,
+    "wof:lastmodified":1466768290,
     "wof:name":"Mark Anspach",
     "wof:parent_id":85877247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-123.109299,44.041228,-123.109299,44.041228],
-  "geometry": {"coordinates":[-123.109299,44.041228],"type":"Point"}
+  "bbox": [
+    -123.109299,
+    44.041228,
+    -123.109299,
+    44.041228
+],
+  "geometry": {"coordinates":[-123.10929899999999,44.041228],"type":"Point"}
 }

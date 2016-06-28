@@ -2,13 +2,14 @@
   "id": 370420907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.983708,45.107439,-123.983708,45.107439",
     "geom:latitude":45.107439,
     "geom:longitude":-123.983708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48060 Breakers Blvd",
     "sg:city":"Neskowin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370420907,
-    "wof:lastmodified":1449030714,
+    "wof:lastmodified":1466771780,
     "wof:name":"Breakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-123.983708,45.107439,-123.983708,45.107439],
-  "geometry": {"coordinates":[-123.983708,45.107439],"type":"Point"}
+  "bbox": [
+    -123.983708,
+    45.107439,
+    -123.983708,
+    45.107439
+],
+  "geometry": {"coordinates":[-123.98370799999999,45.107439],"type":"Point"}
 }

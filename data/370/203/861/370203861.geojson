@@ -2,13 +2,14 @@
   "id": 370203861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.000413,43.770082,-124.000413,43.770082",
     "geom:latitude":43.770082,
     "geom:longitude":-124.000413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8128 Lower Smith River Rd",
     "sg:city":"Reedsport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370203861,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466768101,
     "wof:name":"Moel Creek Farm",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-124.000413,43.770082,-124.000413,43.770082],
-  "geometry": {"coordinates":[-124.000413,43.770082],"type":"Point"}
+  "bbox": [
+    -124.000413,
+    43.770082,
+    -124.000413,
+    43.770082
+],
+  "geometry": {"coordinates":[-124.00041299999999,43.770082],"type":"Point"}
 }

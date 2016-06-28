@@ -2,13 +2,14 @@
   "id": 370548293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.205197,44.851123,-123.205197,44.851123",
     "geom:latitude":44.851123,
     "geom:longitude":-123.205197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Monmouth St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370548293,
-    "wof:lastmodified":1449031422,
+    "wof:lastmodified":1466772557,
     "wof:name":"Los Dos Amigos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.205197,44.851123,-123.205197,44.851123],
+  "bbox": [
+    -123.205197,
+    44.851123,
+    -123.205197,
+    44.851123
+],
   "geometry": {"coordinates":[-123.205197,44.851123],"type":"Point"}
 }

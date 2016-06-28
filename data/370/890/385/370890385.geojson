@@ -2,13 +2,14 @@
   "id": 370890385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.357546,44.068896,-123.357546,44.068896",
     "geom:latitude":44.068896,
     "geom:longitude":-123.357546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24918 Warthen Rd",
     "sg:city":"Elmira",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370890385,
-    "wof:lastmodified":1449029837,
+    "wof:lastmodified":1466774501,
     "wof:name":"Elmira Church Of Christ",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.357546,44.068896,-123.357546,44.068896],
+  "bbox": [
+    -123.357546,
+    44.068896,
+    -123.357546,
+    44.068896
+],
   "geometry": {"coordinates":[-123.357546,44.068896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354284637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.831024,46.173198,-123.831024,46.173198",
     "geom:latitude":46.173198,
     "geom:longitude":-123.831024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Olney Ave",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354284637,
-    "wof:lastmodified":1449067001,
+    "wof:lastmodified":1466769262,
     "wof:name":"Roads Department",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-123.831024,46.173198,-123.831024,46.173198],
+  "bbox": [
+    -123.831024,
+    46.173198,
+    -123.831024,
+    46.173198
+],
   "geometry": {"coordinates":[-123.831024,46.173198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370385363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.83213,45.848939,-122.83213,45.848939",
     "geom:latitude":45.848939,
     "geom:longitude":-122.83213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2370 Gable Rd",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370385363,
-    "wof:lastmodified":1449031089,
+    "wof:lastmodified":1466771531,
     "wof:name":"CHD Public Health Authority",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-122.83213,45.848939,-122.83213,45.848939],
-  "geometry": {"coordinates":[-122.83213,45.848939],"type":"Point"}
+  "bbox": [
+    -122.83213,
+    45.848939,
+    -122.83213,
+    45.848939
+],
+  "geometry": {"coordinates":[-122.83213000000001,45.848939],"type":"Point"}
 }

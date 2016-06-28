@@ -2,13 +2,14 @@
   "id": 387645207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.908543,46.092449,-123.908543,46.092449",
     "geom:latitude":46.092449,
     "geom:longitude":-123.908543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33663 Cullaby Lake Ln",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387645207,
-    "wof:lastmodified":1449056493,
+    "wof:lastmodified":1466774074,
     "wof:name":"North Coast Nursery",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-123.908543,46.092449,-123.908543,46.092449],
-  "geometry": {"coordinates":[-123.908543,46.092449],"type":"Point"}
+  "bbox": [
+    -123.908543,
+    46.092449,
+    -123.908543,
+    46.092449
+],
+  "geometry": {"coordinates":[-123.90854299999999,46.092449],"type":"Point"}
 }

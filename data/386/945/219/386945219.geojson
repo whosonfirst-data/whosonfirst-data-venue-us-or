@@ -2,13 +2,14 @@
   "id": 386945219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.075494,44.091532,-123.075494,44.091532",
     "geom:latitude":44.091532,
     "geom:longitude":-123.075494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2671 Gay St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386945219,
-    "wof:lastmodified":1449028659,
+    "wof:lastmodified":1466767235,
     "wof:name":"Mikes Metals",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-123.075494,44.091532,-123.075494,44.091532],
-  "geometry": {"coordinates":[-123.075494,44.091532],"type":"Point"}
+  "bbox": [
+    -123.075494,
+    44.091532,
+    -123.075494,
+    44.091532
+],
+  "geometry": {"coordinates":[-123.07549400000001,44.091532],"type":"Point"}
 }

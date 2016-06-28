@@ -2,13 +2,14 @@
   "id": 370320211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.168345,44.122177,-123.168345,44.122177",
     "geom:latitude":44.122177,
     "geom:longitude":-123.168345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90751 Prairie Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370320211,
-    "wof:lastmodified":1449029951,
+    "wof:lastmodified":1466770223,
     "wof:name":"Eugene Rodeo Grounds",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.168345,44.122177,-123.168345,44.122177],
+  "bbox": [
+    -123.168345,
+    44.122177,
+    -123.168345,
+    44.122177
+],
   "geometry": {"coordinates":[-123.168345,44.122177],"type":"Point"}
 }

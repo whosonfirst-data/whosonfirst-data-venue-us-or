@@ -2,13 +2,14 @@
   "id": 370362047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.754888,45.606128,-122.754888,45.606128",
     "geom:latitude":45.606128,
     "geom:longitude":-122.754888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9501 N Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370362047,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466771051,
     "wof:name":"G D Auto Wrecking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-122.754888,45.606128,-122.754888,45.606128],
-  "geometry": {"coordinates":[-122.754888,45.606128],"type":"Point"}
+  "bbox": [
+    -122.754888,
+    45.606128,
+    -122.754888,
+    45.606128
+],
+  "geometry": {"coordinates":[-122.75488799999999,45.606128],"type":"Point"}
 }

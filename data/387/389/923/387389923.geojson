@@ -2,13 +2,14 @@
   "id": 387389923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97961,45.596348,-122.97961,45.596348",
     "geom:latitude":45.596348,
     "geom:longitude":-122.97961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29345 NW West Union Rd",
     "sg:city":"North Plains",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387389923,
-    "wof:lastmodified":1449059139,
+    "wof:lastmodified":1466772419,
     "wof:name":"Taurus Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-122.97961,45.596348,-122.97961,45.596348],
-  "geometry": {"coordinates":[-122.97961,45.596348],"type":"Point"}
+  "bbox": [
+    -122.97961,
+    45.596348,
+    -122.97961,
+    45.596348
+],
+  "geometry": {"coordinates":[-122.97960999999999,45.596348],"type":"Point"}
 }

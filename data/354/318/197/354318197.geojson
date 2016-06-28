@@ -2,13 +2,14 @@
   "id": 354318197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.312588,44.918256,-123.312588,44.918256",
     "geom:latitude":44.918256,
     "geom:longitude":-123.312588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 SE Lyle St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354318197,
-    "wof:lastmodified":1449066291,
+    "wof:lastmodified":1466769745,
     "wof:name":"Mighty Clean Dry Cleaning Svc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-123.312588,44.918256,-123.312588,44.918256],
-  "geometry": {"coordinates":[-123.312588,44.918256],"type":"Point"}
+  "bbox": [
+    -123.312588,
+    44.918256,
+    -123.312588,
+    44.918256
+],
+  "geometry": {"coordinates":[-123.31258800000001,44.918256],"type":"Point"}
 }

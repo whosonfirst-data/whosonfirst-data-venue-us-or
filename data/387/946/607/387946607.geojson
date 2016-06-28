@@ -2,13 +2,14 @@
   "id": 387946607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.693686,45.604627,-122.693686,45.604627",
     "geom:latitude":45.604627,
     "geom:longitude":-122.693686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11645 N Force Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946607,
-    "wof:lastmodified":1449059459,
+    "wof:lastmodified":1466775566,
     "wof:name":"Peninsula Terminal Co",
     "wof:parent_id":85871507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "terminal"
     ]
 },
-  "bbox": [-122.693686,45.604627,-122.693686,45.604627],
+  "bbox": [
+    -122.693686,
+    45.604627,
+    -122.693686,
+    45.604627
+],
   "geometry": {"coordinates":[-122.693686,45.604627],"type":"Point"}
 }

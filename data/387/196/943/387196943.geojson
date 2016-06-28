@@ -2,13 +2,14 @@
   "id": 387196943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.238569,44.462243,-123.238569,44.462243",
     "geom:latitude":44.462243,
     "geom:longitude":-123.238569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30319 Smith Loop",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387196943,
-    "wof:lastmodified":1449056964,
+    "wof:lastmodified":1466770720,
     "wof:name":"Matthew Fields Construction",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-123.238569,44.462243,-123.238569,44.462243],
+  "bbox": [
+    -123.238569,
+    44.462243,
+    -123.238569,
+    44.462243
+],
   "geometry": {"coordinates":[-123.238569,44.462243],"type":"Point"}
 }

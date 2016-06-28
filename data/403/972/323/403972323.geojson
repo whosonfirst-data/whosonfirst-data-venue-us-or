@@ -2,13 +2,14 @@
   "id": 403972323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.348618,44.078984,-121.348618,44.078984",
     "geom:latitude":44.078984,
     "geom:longitude":-121.348618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 NW Underhill Pl",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403972323,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466768654,
     "wof:name":"Nimble Development Inc",
     "wof:parent_id":85876215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "provider"
     ]
 },
-  "bbox": [-121.348618,44.078984,-121.348618,44.078984],
+  "bbox": [
+    -121.348618,
+    44.078984,
+    -121.348618,
+    44.078984
+],
   "geometry": {"coordinates":[-121.348618,44.078984],"type":"Point"}
 }

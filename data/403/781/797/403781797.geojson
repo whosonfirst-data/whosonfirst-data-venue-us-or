@@ -2,13 +2,14 @@
   "id": 403781797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.762191,45.382699,-122.762191,45.382699",
     "geom:latitude":45.382699,
     "geom:longitude":-122.762191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8345 SW Nyberg Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781797,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1466769357,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-122.762191,45.382699,-122.762191,45.382699],
+  "bbox": [
+    -122.762191,
+    45.382699,
+    -122.762191,
+    45.382699
+],
   "geometry": {"coordinates":[-122.762191,45.382699],"type":"Point"}
 }

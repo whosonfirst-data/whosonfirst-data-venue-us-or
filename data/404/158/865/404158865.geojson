@@ -2,13 +2,14 @@
   "id": 404158865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.282572,44.39993,-123.282572,44.39993",
     "geom:latitude":44.39993,
     "geom:longitude":-123.282572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27939 State Hwy 99",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404158865,
-    "wof:lastmodified":1449039933,
+    "wof:lastmodified":1466767393,
     "wof:name":"Hazelnut Hill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-123.282572,44.39993,-123.282572,44.39993],
+  "bbox": [
+    -123.282572,
+    44.39993,
+    -123.282572,
+    44.39993
+],
   "geometry": {"coordinates":[-123.282572,44.39993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387809635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092746,45.096689,-123.092746,45.096689",
     "geom:latitude":45.096689,
     "geom:longitude":-123.092746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22500 Hopewell Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387809635,
-    "wof:lastmodified":1449059240,
+    "wof:lastmodified":1466774926,
     "wof:name":"La Tienda De Hopewell",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.092746,45.096689,-123.092746,45.096689],
-  "geometry": {"coordinates":[-123.092746,45.096689],"type":"Point"}
+  "bbox": [
+    -123.092746,
+    45.096689,
+    -123.092746,
+    45.096689
+],
+  "geometry": {"coordinates":[-123.09274600000001,45.096689],"type":"Point"}
 }

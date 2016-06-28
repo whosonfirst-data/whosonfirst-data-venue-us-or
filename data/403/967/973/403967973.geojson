@@ -2,13 +2,14 @@
   "id": 403967973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.794413,45.424987,-122.794413,45.424987",
     "geom:latitude":45.424987,
     "geom:longitude":-122.794413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11480 SW Sonne Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403967973,
-    "wof:lastmodified":1449055867,
+    "wof:lastmodified":1466768580,
     "wof:name":"Larry Frank",
     "wof:parent_id":85868987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.794413,45.424987,-122.794413,45.424987],
-  "geometry": {"coordinates":[-122.794413,45.424987],"type":"Point"}
+  "bbox": [
+    -122.794413,
+    45.424987,
+    -122.794413,
+    45.424987
+],
+  "geometry": {"coordinates":[-122.79441300000001,45.424987],"type":"Point"}
 }

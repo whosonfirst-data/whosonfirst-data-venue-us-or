@@ -2,13 +2,14 @@
   "id": 354406963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.623012,45.516079,-122.623012,45.516079",
     "geom:latitude":45.516079,
     "geom:longitude":-122.623012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 SE 39th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354406963,
-    "wof:lastmodified":1449066846,
+    "wof:lastmodified":1466771422,
     "wof:name":"Walgreens",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-122.623012,45.516079,-122.623012,45.516079],
+  "bbox": [
+    -122.623012,
+    45.516079,
+    -122.623012,
+    45.516079
+],
   "geometry": {"coordinates":[-122.623012,45.516079],"type":"Point"}
 }

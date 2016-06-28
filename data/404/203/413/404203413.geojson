@@ -2,13 +2,14 @@
   "id": 404203413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113836,44.630719,-123.113836,44.630719",
     "geom:latitude":44.630719,
     "geom:longitude":-123.113836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 8th Ave SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404203413,
-    "wof:lastmodified":1449039548,
+    "wof:lastmodified":1466768173,
     "wof:name":"C Robert Hall MD",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-123.113836,44.630719,-123.113836,44.630719],
-  "geometry": {"coordinates":[-123.113836,44.630719],"type":"Point"}
+  "bbox": [
+    -123.113836,
+    44.630719,
+    -123.113836,
+    44.630719
+],
+  "geometry": {"coordinates":[-123.11383600000001,44.630719],"type":"Point"}
 }

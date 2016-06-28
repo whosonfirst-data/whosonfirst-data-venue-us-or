@@ -2,13 +2,14 @@
   "id": 354241823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.640369,45.529945,-122.640369,45.529945",
     "geom:latitude":45.529945,
     "geom:longitude":-122.640369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 NE Holladay St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354241823,
-    "wof:lastmodified":1449067645,
+    "wof:lastmodified":1466768468,
     "wof:name":"Western Sunroof",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sunroof"
     ]
 },
-  "bbox": [-122.640369,45.529945,-122.640369,45.529945],
-  "geometry": {"coordinates":[-122.640369,45.529945],"type":"Point"}
+  "bbox": [
+    -122.640369,
+    45.529945,
+    -122.640369,
+    45.529945
+],
+  "geometry": {"coordinates":[-122.64036900000001,45.529945],"type":"Point"}
 }

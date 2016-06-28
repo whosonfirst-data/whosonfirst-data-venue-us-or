@@ -2,13 +2,14 @@
   "id": 403912123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.837313,46.183415,-123.837313,46.183415",
     "geom:latitude":46.183415,
     "geom:longitude":-123.837313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"581 Kensington Ave",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403912123,
-    "wof:lastmodified":1449055292,
+    "wof:lastmodified":1466767571,
     "wof:name":"Current Construction",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.837313,46.183415,-123.837313,46.183415],
-  "geometry": {"coordinates":[-123.837313,46.183415],"type":"Point"}
+  "bbox": [
+    -123.837313,
+    46.183415,
+    -123.837313,
+    46.183415
+],
+  "geometry": {"coordinates":[-123.83731299999999,46.183415],"type":"Point"}
 }

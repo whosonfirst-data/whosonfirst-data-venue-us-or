@@ -2,13 +2,14 @@
   "id": 387585957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675212,45.611367,-122.675212,45.611367",
     "geom:latitude":45.611367,
     "geom:longitude":-122.675212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Hayden Island Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387585957,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1466773845,
     "wof:name":"Davis Group",
     "wof:parent_id":85807427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-122.675212,45.611367,-122.675212,45.611367],
+  "bbox": [
+    -122.675212,
+    45.611367,
+    -122.675212,
+    45.611367
+],
   "geometry": {"coordinates":[-122.675212,45.611367],"type":"Point"}
 }

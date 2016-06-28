@@ -2,13 +2,14 @@
   "id": 370826143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.785363,45.384624,-122.785363,45.384624",
     "geom:latitude":45.384624,
     "geom:longitude":-122.785363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10699 SW Herman Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370826143,
-    "wof:lastmodified":1449031551,
+    "wof:lastmodified":1466774265,
     "wof:name":"Tualatin City Operations",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-122.785363,45.384624,-122.785363,45.384624],
+  "bbox": [
+    -122.785363,
+    45.384624,
+    -122.785363,
+    45.384624
+],
   "geometry": {"coordinates":[-122.785363,45.384624],"type":"Point"}
 }

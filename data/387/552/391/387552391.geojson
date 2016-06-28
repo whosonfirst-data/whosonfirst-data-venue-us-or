@@ -2,13 +2,14 @@
   "id": 387552391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.013033,44.04975,-123.013033,44.04975",
     "geom:latitude":44.04975,
     "geom:longitude":-123.013033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 D St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387552391,
-    "wof:lastmodified":1449057697,
+    "wof:lastmodified":1466773520,
     "wof:name":"Travel Link Corp",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-123.013033,44.04975,-123.013033,44.04975],
-  "geometry": {"coordinates":[-123.013033,44.04975],"type":"Point"}
+  "bbox": [
+    -123.013033,
+    44.04975,
+    -123.013033,
+    44.04975
+],
+  "geometry": {"coordinates":[-123.01303299999999,44.04975],"type":"Point"}
 }

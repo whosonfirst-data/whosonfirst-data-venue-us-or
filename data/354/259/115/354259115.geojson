@@ -2,13 +2,14 @@
   "id": 354259115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675298,45.539283,-122.675298,45.539283",
     "geom:latitude":45.539283,
     "geom:longitude":-122.675298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2267 N Interstate Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354259115,
-    "wof:lastmodified":1449066318,
+    "wof:lastmodified":1466768791,
     "wof:name":"Oregon Community Warehouse",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "association"
     ]
 },
-  "bbox": [-122.675298,45.539283,-122.675298,45.539283],
+  "bbox": [
+    -122.675298,
+    45.539283,
+    -122.675298,
+    45.539283
+],
   "geometry": {"coordinates":[-122.675298,45.539283],"type":"Point"}
 }

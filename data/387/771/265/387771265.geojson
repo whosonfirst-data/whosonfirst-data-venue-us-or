@@ -2,13 +2,14 @@
   "id": 387771265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.279328,45.805814,-123.279328,45.805814",
     "geom:latitude":45.805814,
     "geom:longitude":-123.279328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55670 Timber Rd",
     "sg:city":"Vernonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387771265,
-    "wof:lastmodified":1449058177,
+    "wof:lastmodified":1466774877,
     "wof:name":"Titus & Son's Inc",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.279328,45.805814,-123.279328,45.805814],
-  "geometry": {"coordinates":[-123.279328,45.805814],"type":"Point"}
+  "bbox": [
+    -123.279328,
+    45.805814,
+    -123.279328,
+    45.805814
+],
+  "geometry": {"coordinates":[-123.27932800000001,45.805814],"type":"Point"}
 }

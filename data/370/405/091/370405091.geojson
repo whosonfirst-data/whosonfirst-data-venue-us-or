@@ -2,13 +2,14 @@
   "id": 370405091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601194,45.526564,-122.601194,45.526564",
     "geom:latitude":45.526564,
     "geom:longitude":-122.601194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6035 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370405091,
-    "wof:lastmodified":1449032195,
+    "wof:lastmodified":1466771547,
     "wof:name":"Led Dow Construction",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.601194,45.526564,-122.601194,45.526564],
-  "geometry": {"coordinates":[-122.601194,45.526564],"type":"Point"}
+  "bbox": [
+    -122.601194,
+    45.526564,
+    -122.601194,
+    45.526564
+],
+  "geometry": {"coordinates":[-122.60119400000001,45.526564],"type":"Point"}
 }

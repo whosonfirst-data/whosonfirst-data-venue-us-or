@@ -2,13 +2,14 @@
   "id": 370701413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.745004,45.516337,-122.745004,45.516337",
     "geom:latitude":45.516337,
     "geom:longitude":-122.745004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 W Burnside Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370701413,
-    "wof:lastmodified":1449031772,
+    "wof:lastmodified":1466773696,
     "wof:name":"Equity & Financial Solutions",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-122.745004,45.516337,-122.745004,45.516337],
-  "geometry": {"coordinates":[-122.745004,45.516337],"type":"Point"}
+  "bbox": [
+    -122.745004,
+    45.516337,
+    -122.745004,
+    45.516337
+],
+  "geometry": {"coordinates":[-122.74500399999999,45.516337],"type":"Point"}
 }

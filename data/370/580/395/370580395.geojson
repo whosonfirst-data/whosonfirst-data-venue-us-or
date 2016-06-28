@@ -2,13 +2,14 @@
   "id": 370580395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.673881,45.480676,-122.673881,45.480676",
     "geom:latitude":45.480676,
     "geom:longitude":-122.673881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5911 SW Virginia Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370580395,
-    "wof:lastmodified":1449031359,
+    "wof:lastmodified":1466772787,
     "wof:name":"Scolin Co",
     "wof:parent_id":85893175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-122.673881,45.480676,-122.673881,45.480676],
-  "geometry": {"coordinates":[-122.673881,45.480676],"type":"Point"}
+  "bbox": [
+    -122.673881,
+    45.480676,
+    -122.673881,
+    45.480676
+],
+  "geometry": {"coordinates":[-122.67388099999999,45.480676],"type":"Point"}
 }

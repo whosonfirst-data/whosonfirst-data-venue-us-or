@@ -2,13 +2,14 @@
   "id": 403895275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.750408,45.485429,-122.750408,45.485429",
     "geom:latitude":45.485429,
     "geom:longitude":-122.750408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 SW Scholls Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403895275,
-    "wof:lastmodified":1449055197,
+    "wof:lastmodified":1466767286,
     "wof:name":"Tan Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-122.750408,45.485429,-122.750408,45.485429],
-  "geometry": {"coordinates":[-122.750408,45.485429],"type":"Point"}
+  "bbox": [
+    -122.750408,
+    45.485429,
+    -122.750408,
+    45.485429
+],
+  "geometry": {"coordinates":[-122.75040799999999,45.485429],"type":"Point"}
 }

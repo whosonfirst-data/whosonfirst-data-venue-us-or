@@ -2,13 +2,14 @@
   "id": 404142793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.105826,43.970827,-124.105826,43.970827",
     "geom:latitude":43.970827,
     "geom:longitude":-124.105826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 US Hwy 101",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404142793,
-    "wof:lastmodified":1449040047,
+    "wof:lastmodified":1466771418,
     "wof:name":"Ralston's Fencing & Decks",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-124.105826,43.970827,-124.105826,43.970827],
-  "geometry": {"coordinates":[-124.105826,43.970827],"type":"Point"}
+  "bbox": [
+    -124.105826,
+    43.970827,
+    -124.105826,
+    43.970827
+],
+  "geometry": {"coordinates":[-124.10582599999999,43.970827],"type":"Point"}
 }

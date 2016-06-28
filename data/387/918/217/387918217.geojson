@@ -2,13 +2,14 @@
   "id": 387918217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.12367,44.274369,-123.12367,44.274369",
     "geom:latitude":44.274369,
     "geom:longitude":-123.12367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23688 Powerline Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387918217,
-    "wof:lastmodified":1449058702,
+    "wof:lastmodified":1466775343,
     "wof:name":"Harrisburg Mennonite Church",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.12367,44.274369,-123.12367,44.274369],
+  "bbox": [
+    -123.12367,
+    44.274369,
+    -123.12367,
+    44.274369
+],
   "geometry": {"coordinates":[-123.12367,44.274369],"type":"Point"}
 }

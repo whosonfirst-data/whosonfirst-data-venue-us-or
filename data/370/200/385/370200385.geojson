@@ -2,13 +2,14 @@
   "id": 370200385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.733828,45.38104,-122.733828,45.38104",
     "geom:latitude":45.38104,
     "geom:longitude":-122.733828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19198 SW 55th Ct",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370200385,
-    "wof:lastmodified":1449030438,
+    "wof:lastmodified":1466768041,
     "wof:name":"Thomas W Wiser",
     "wof:parent_id":85846081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.733828,45.38104,-122.733828,45.38104],
+  "bbox": [
+    -122.733828,
+    45.38104,
+    -122.733828,
+    45.38104
+],
   "geometry": {"coordinates":[-122.733828,45.38104],"type":"Point"}
 }

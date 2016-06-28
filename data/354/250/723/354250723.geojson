@@ -2,13 +2,14 @@
   "id": 354250723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.638314,45.550398,-122.638314,45.550398",
     "geom:latitude":45.550398,
     "geom:longitude":-122.638314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 NE Alameda St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354250723,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1466768664,
     "wof:name":"Ignis System Corporation",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.638314,45.550398,-122.638314,45.550398],
-  "geometry": {"coordinates":[-122.638314,45.550398],"type":"Point"}
+  "bbox": [
+    -122.638314,
+    45.550398,
+    -122.638314,
+    45.550398
+],
+  "geometry": {"coordinates":[-122.63831399999999,45.550398],"type":"Point"}
 }

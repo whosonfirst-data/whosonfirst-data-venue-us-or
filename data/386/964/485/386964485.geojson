@@ -2,13 +2,14 @@
   "id": 386964485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.850777,45.352353,-122.850777,45.352353",
     "geom:latitude":45.352353,
     "geom:longitude":-122.850777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16834 Stellar Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386964485,
-    "wof:lastmodified":1449028875,
+    "wof:lastmodified":1466767344,
     "wof:name":"Barnes Serenity Inc",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-122.850777,45.352353,-122.850777,45.352353],
-  "geometry": {"coordinates":[-122.850777,45.352353],"type":"Point"}
+  "bbox": [
+    -122.850777,
+    45.352353,
+    -122.850777,
+    45.352353
+],
+  "geometry": {"coordinates":[-122.85077699999999,45.352353],"type":"Point"}
 }

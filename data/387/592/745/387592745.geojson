@@ -2,13 +2,14 @@
   "id": 387592745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.305816,44.068024,-121.305816,44.068024",
     "geom:latitude":44.068024,
     "geom:longitude":-121.305816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 NE Division St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387592745,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1466773891,
     "wof:name":"Division Auto Sales",
     "wof:parent_id":85876213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-121.305816,44.068024,-121.305816,44.068024],
-  "geometry": {"coordinates":[-121.305816,44.068024],"type":"Point"}
+  "bbox": [
+    -121.305816,
+    44.068024,
+    -121.305816,
+    44.068024
+],
+  "geometry": {"coordinates":[-121.30581599999999,44.068024],"type":"Point"}
 }

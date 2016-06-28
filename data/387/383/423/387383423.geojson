@@ -2,13 +2,14 @@
   "id": 387383423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.970521,44.973683,-122.970521,44.973683",
     "geom:latitude":44.973683,
     "geom:longitude":-122.970521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4657 Bolliger Ct NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387383423,
-    "wof:lastmodified":1449057716,
+    "wof:lastmodified":1466772495,
     "wof:name":"Karen Warberg Paperhanging",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.970521,44.973683,-122.970521,44.973683],
-  "geometry": {"coordinates":[-122.970521,44.973683],"type":"Point"}
+  "bbox": [
+    -122.970521,
+    44.973683,
+    -122.970521,
+    44.973683
+],
+  "geometry": {"coordinates":[-122.97052100000001,44.973683],"type":"Point"}
 }

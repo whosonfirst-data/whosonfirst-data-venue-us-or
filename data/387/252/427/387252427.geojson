@@ -2,13 +2,14 @@
   "id": 387252427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601678,45.422341,-122.601678,45.422341",
     "geom:latitude":45.422341,
     "geom:longitude":-122.601678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6040 SE Eastbrook Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387252427,
-    "wof:lastmodified":1449056605,
+    "wof:lastmodified":1466771643,
     "wof:name":"Toliru Properties",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-122.601678,45.422341,-122.601678,45.422341],
-  "geometry": {"coordinates":[-122.601678,45.422341],"type":"Point"}
+  "bbox": [
+    -122.601678,
+    45.422341,
+    -122.601678,
+    45.422341
+],
+  "geometry": {"coordinates":[-122.60167800000001,45.422341],"type":"Point"}
 }

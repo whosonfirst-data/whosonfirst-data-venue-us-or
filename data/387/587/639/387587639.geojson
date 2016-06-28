@@ -2,13 +2,14 @@
   "id": 387587639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801144,45.86341,-122.801144,45.86341",
     "geom:latitude":45.86341,
     "geom:longitude":-122.801144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Saint Helens St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387587639,
-    "wof:lastmodified":1449057403,
+    "wof:lastmodified":1466773857,
     "wof:name":"Shoestring Community Players",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.801144,45.86341,-122.801144,45.86341],
-  "geometry": {"coordinates":[-122.801144,45.86341],"type":"Point"}
+  "bbox": [
+    -122.801144,
+    45.86341,
+    -122.801144,
+    45.86341
+],
+  "geometry": {"coordinates":[-122.80114399999999,45.86341],"type":"Point"}
 }

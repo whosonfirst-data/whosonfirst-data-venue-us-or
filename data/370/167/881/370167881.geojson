@@ -2,13 +2,14 @@
   "id": 370167881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.767507,45.497911,-122.767507,45.497911",
     "geom:latitude":45.497911,
     "geom:longitude":-122.767507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8835 SW Canyon Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370167881,
-    "wof:lastmodified":1449030840,
+    "wof:lastmodified":1466767473,
     "wof:name":"Brock's Design",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-122.767507,45.497911,-122.767507,45.497911],
-  "geometry": {"coordinates":[-122.767507,45.497911],"type":"Point"}
+  "bbox": [
+    -122.767507,
+    45.497911,
+    -122.767507,
+    45.497911
+],
+  "geometry": {"coordinates":[-122.76750699999999,45.497911],"type":"Point"}
 }

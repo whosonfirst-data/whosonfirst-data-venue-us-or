@@ -2,13 +2,14 @@
   "id": 370789107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801433,45.865295,-122.801433,45.865295",
     "geom:latitude":45.865295,
     "geom:longitude":-122.801433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S 3rd St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370789107,
-    "wof:lastmodified":1449030621,
+    "wof:lastmodified":1466773928,
     "wof:name":"Columbia Community Mental Hlth",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.801433,45.865295,-122.801433,45.865295],
+  "bbox": [
+    -122.801433,
+    45.865295,
+    -122.801433,
+    45.865295
+],
   "geometry": {"coordinates":[-122.801433,45.865295],"type":"Point"}
 }

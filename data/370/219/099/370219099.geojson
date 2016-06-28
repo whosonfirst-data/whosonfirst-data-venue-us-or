@@ -2,13 +2,14 @@
   "id": 370219099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.60076,45.568746,-122.60076,45.568746",
     "geom:latitude":45.568746,
     "geom:longitude":-122.60076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5807 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370219099,
-    "wof:lastmodified":1449032330,
+    "wof:lastmodified":1466768358,
     "wof:name":"Haldex",
     "wof:parent_id":85893167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cap"
     ]
 },
-  "bbox": [-122.60076,45.568746,-122.60076,45.568746],
-  "geometry": {"coordinates":[-122.60076,45.568746],"type":"Point"}
+  "bbox": [
+    -122.60076,
+    45.568746,
+    -122.60076,
+    45.568746
+],
+  "geometry": {"coordinates":[-122.60075999999999,45.568746],"type":"Point"}
 }

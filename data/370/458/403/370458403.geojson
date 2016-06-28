@@ -2,13 +2,14 @@
   "id": 370458403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.91751,45.011195,-123.91751,45.011195",
     "geom:latitude":45.011195,
     "geom:longitude":-123.91751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 N Corkhill Ln",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370458403,
-    "wof:lastmodified":1449031501,
+    "wof:lastmodified":1466771907,
     "wof:name":"Golden Bear Video",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-123.91751,45.011195,-123.91751,45.011195],
-  "geometry": {"coordinates":[-123.91751,45.011195],"type":"Point"}
+  "bbox": [
+    -123.91751,
+    45.011195,
+    -123.91751,
+    45.011195
+],
+  "geometry": {"coordinates":[-123.91750999999999,45.011195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370770195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.305816,42.445892,-123.305816,42.445892",
     "geom:latitude":42.445892,
     "geom:longitude":-123.305816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 NE Heritage Dr",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370770195,
-    "wof:lastmodified":1449032543,
+    "wof:lastmodified":1466773807,
     "wof:name":"Michael Toch Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.305816,42.445892,-123.305816,42.445892],
-  "geometry": {"coordinates":[-123.305816,42.445892],"type":"Point"}
+  "bbox": [
+    -123.305816,
+    42.445892,
+    -123.305816,
+    42.445892
+],
+  "geometry": {"coordinates":[-123.30581599999999,42.445892],"type":"Point"}
 }

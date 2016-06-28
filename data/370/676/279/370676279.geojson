@@ -2,13 +2,14 @@
   "id": 370676279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092757,44.038961,-123.092757,44.038961",
     "geom:latitude":44.038961,
     "geom:longitude":-123.092757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370676279,
-    "wof:lastmodified":1449031244,
+    "wof:lastmodified":1466773429,
     "wof:name":"Sattva Gallery",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.092757,44.038961,-123.092757,44.038961],
-  "geometry": {"coordinates":[-123.092757,44.038961],"type":"Point"}
+  "bbox": [
+    -123.092757,
+    44.038961,
+    -123.092757,
+    44.038961
+],
+  "geometry": {"coordinates":[-123.09275700000001,44.038961],"type":"Point"}
 }

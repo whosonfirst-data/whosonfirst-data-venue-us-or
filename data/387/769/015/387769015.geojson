@@ -2,13 +2,14 @@
   "id": 387769015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.193007,45.210661,-123.193007,45.210661",
     "geom:latitude":45.210661,
     "geom:longitude":-123.193007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 NE 4th St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387769015,
-    "wof:lastmodified":1449057363,
+    "wof:lastmodified":1466774863,
     "wof:name":"Nate Pendleton Signs",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.193007,45.210661,-123.193007,45.210661],
-  "geometry": {"coordinates":[-123.193007,45.210661],"type":"Point"}
+  "bbox": [
+    -123.193007,
+    45.210661,
+    -123.193007,
+    45.210661
+],
+  "geometry": {"coordinates":[-123.19300699999999,45.210661],"type":"Point"}
 }

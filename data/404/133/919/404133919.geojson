@@ -2,13 +2,14 @@
   "id": 404133919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.178108,44.057431,-123.178108,44.057431",
     "geom:latitude":44.057431,
     "geom:longitude":-123.178108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 S Danebo Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404133919,
-    "wof:lastmodified":1449040097,
+    "wof:lastmodified":1466771255,
     "wof:name":"Homestead Improvements",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-123.178108,44.057431,-123.178108,44.057431],
-  "geometry": {"coordinates":[-123.178108,44.057431],"type":"Point"}
+  "bbox": [
+    -123.178108,
+    44.057431,
+    -123.178108,
+    44.057431
+],
+  "geometry": {"coordinates":[-123.17810799999999,44.057431],"type":"Point"}
 }

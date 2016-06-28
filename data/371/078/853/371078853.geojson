@@ -2,13 +2,14 @@
   "id": 371078853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.047367,44.913495,-123.047367,44.913495",
     "geom:latitude":44.913495,
     "geom:longitude":-123.047367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Alice Ave S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371078853,
-    "wof:lastmodified":1449049965,
+    "wof:lastmodified":1466768445,
     "wof:name":"Station 4",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-123.047367,44.913495,-123.047367,44.913495],
-  "geometry": {"coordinates":[-123.047367,44.913495],"type":"Point"}
+  "bbox": [
+    -123.047367,
+    44.913495,
+    -123.047367,
+    44.913495
+],
+  "geometry": {"coordinates":[-123.04736699999999,44.913495],"type":"Point"}
 }

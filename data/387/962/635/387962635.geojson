@@ -2,13 +2,14 @@
   "id": 387962635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.128456,44.339551,-121.128456,44.339551",
     "geom:latitude":44.339551,
     "geom:longitude":-121.128456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6915 NE 33rd St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387962635,
-    "wof:lastmodified":1449058340,
+    "wof:lastmodified":1466775489,
     "wof:name":"AAA Hog Farm",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-121.128456,44.339551,-121.128456,44.339551],
+  "bbox": [
+    -121.128456,
+    44.339551,
+    -121.128456,
+    44.339551
+],
   "geometry": {"coordinates":[-121.128456,44.339551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370641779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.642987,45.467503,-122.642987,45.467503",
     "geom:latitude":45.467503,
     "geom:longitude":-122.642987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7884 SE 21st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370641779,
-    "wof:lastmodified":1449031667,
+    "wof:lastmodified":1466773243,
     "wof:name":"Cygnet Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.642987,45.467503,-122.642987,45.467503],
-  "geometry": {"coordinates":[-122.642987,45.467503],"type":"Point"}
+  "bbox": [
+    -122.642987,
+    45.467503,
+    -122.642987,
+    45.467503
+],
+  "geometry": {"coordinates":[-122.64298700000001,45.467503],"type":"Point"}
 }

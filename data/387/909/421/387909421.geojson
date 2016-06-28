@@ -2,13 +2,14 @@
   "id": 387909421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.548138,45.495019,-122.548138,45.495019",
     "geom:latitude":45.495019,
     "geom:longitude":-122.548138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11131 SE Bush St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387909421,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466775305,
     "wof:name":"Bush Street Apartments",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.548138,45.495019,-122.548138,45.495019],
-  "geometry": {"coordinates":[-122.548138,45.495019],"type":"Point"}
+  "bbox": [
+    -122.548138,
+    45.495019,
+    -122.548138,
+    45.495019
+],
+  "geometry": {"coordinates":[-122.54813799999999,45.495019],"type":"Point"}
 }

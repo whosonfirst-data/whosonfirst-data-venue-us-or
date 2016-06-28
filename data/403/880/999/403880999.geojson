@@ -2,13 +2,14 @@
   "id": 403880999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.076308,44.981386,-123.076308,44.981386",
     "geom:latitude":44.981386,
     "geom:longitude":-123.076308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3233 Sandalwood Ln NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403880999,
-    "wof:lastmodified":1449055975,
+    "wof:lastmodified":1466771358,
     "wof:name":"Pilgrim House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-123.076308,44.981386,-123.076308,44.981386],
+  "bbox": [
+    -123.076308,
+    44.981386,
+    -123.076308,
+    44.981386
+],
   "geometry": {"coordinates":[-123.076308,44.981386],"type":"Point"}
 }

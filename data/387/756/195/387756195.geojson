@@ -2,13 +2,14 @@
   "id": 387756195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.663919,45.51375,-122.663919,45.51375",
     "geom:latitude":45.51375,
     "geom:longitude":-122.663919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387756195,
-    "wof:lastmodified":1449058387,
+    "wof:lastmodified":1466774802,
     "wof:name":"Mac Force",
     "wof:parent_id":85893163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-122.663919,45.51375,-122.663919,45.51375],
-  "geometry": {"coordinates":[-122.663919,45.51375],"type":"Point"}
+  "bbox": [
+    -122.663919,
+    45.51375,
+    -122.663919,
+    45.51375
+],
+  "geometry": {"coordinates":[-122.66391900000001,45.51375],"type":"Point"}
 }

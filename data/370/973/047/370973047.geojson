@@ -2,13 +2,14 @@
   "id": 370973047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.510829,45.708203,-121.510829,45.708203",
     "geom:latitude":45.708203,
     "geom:longitude":-121.510829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 State St",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370973047,
-    "wof:lastmodified":1449031108,
+    "wof:lastmodified":1466775022,
     "wof:name":"Geometrix LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.510829,45.708203,-121.510829,45.708203],
+  "bbox": [
+    -121.510829,
+    45.708203,
+    -121.510829,
+    45.708203
+],
   "geometry": {"coordinates":[-121.510829,45.708203],"type":"Point"}
 }

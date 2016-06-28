@@ -2,13 +2,14 @@
   "id": 403720437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.533543,45.492117,-122.533543,45.492117",
     "geom:latitude":45.492117,
     "geom:longitude":-122.533543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12657 SE Boise St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403720437,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1466768210,
     "wof:name":"Cameron Guest Home",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.533543,45.492117,-122.533543,45.492117],
-  "geometry": {"coordinates":[-122.533543,45.492117],"type":"Point"}
+  "bbox": [
+    -122.533543,
+    45.492117,
+    -122.533543,
+    45.492117
+],
+  "geometry": {"coordinates":[-122.53354299999999,45.492117],"type":"Point"}
 }

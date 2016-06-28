@@ -2,13 +2,14 @@
   "id": 354278773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.099343,45.519702,-123.099343,45.519702",
     "geom:latitude":45.519702,
     "geom:longitude":-123.099343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Pacific Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354278773,
-    "wof:lastmodified":1449066879,
+    "wof:lastmodified":1466769172,
     "wof:name":"Joseph Post Law Office",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.099343,45.519702,-123.099343,45.519702],
+  "bbox": [
+    -123.099343,
+    45.519702,
+    -123.099343,
+    45.519702
+],
   "geometry": {"coordinates":[-123.099343,45.519702],"type":"Point"}
 }

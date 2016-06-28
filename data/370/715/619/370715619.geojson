@@ -2,13 +2,14 @@
   "id": 370715619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.825392,46.185095,-123.825392,46.185095",
     "geom:latitude":46.185095,
     "geom:longitude":-123.825392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Irving Ave",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715619,
-    "wof:lastmodified":1449031799,
+    "wof:lastmodified":1466773529,
     "wof:name":"Keims Forestry Services",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-123.825392,46.185095,-123.825392,46.185095],
-  "geometry": {"coordinates":[-123.825392,46.185095],"type":"Point"}
+  "bbox": [
+    -123.825392,
+    46.185095,
+    -123.825392,
+    46.185095
+],
+  "geometry": {"coordinates":[-123.82539199999999,46.185095],"type":"Point"}
 }

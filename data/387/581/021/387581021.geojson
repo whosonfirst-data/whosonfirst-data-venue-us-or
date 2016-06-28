@@ -2,13 +2,14 @@
   "id": 387581021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.683022,45.266304,-122.683022,45.266304",
     "geom:latitude":45.266304,
     "geom:longitude":-122.683022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 NE 4th Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387581021,
-    "wof:lastmodified":1449056904,
+    "wof:lastmodified":1466773821,
     "wof:name":"Machined Components",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.683022,45.266304,-122.683022,45.266304],
-  "geometry": {"coordinates":[-122.683022,45.266304],"type":"Point"}
+  "bbox": [
+    -122.683022,
+    45.266304,
+    -122.683022,
+    45.266304
+],
+  "geometry": {"coordinates":[-122.68302199999999,45.266304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370812117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.422917,43.239094,-123.422917,43.239094",
     "geom:latitude":43.239094,
     "geom:longitude":-123.422917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Laurel Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370812117,
-    "wof:lastmodified":1449029158,
+    "wof:lastmodified":1466774141,
     "wof:name":"Roseburg Excavation",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.422917,43.239094,-123.422917,43.239094],
+  "bbox": [
+    -123.422917,
+    43.239094,
+    -123.422917,
+    43.239094
+],
   "geometry": {"coordinates":[-123.422917,43.239094],"type":"Point"}
 }

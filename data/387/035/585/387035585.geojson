@@ -2,13 +2,14 @@
   "id": 387035585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.676117,45.407318,-122.676117,45.407318",
     "geom:latitude":45.407318,
     "geom:longitude":-122.676117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 McVey Ave",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387035585,
-    "wof:lastmodified":1449059188,
+    "wof:lastmodified":1466767727,
     "wof:name":"Book Props",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-122.676117,45.407318,-122.676117,45.407318],
+  "bbox": [
+    -122.676117,
+    45.407318,
+    -122.676117,
+    45.407318
+],
   "geometry": {"coordinates":[-122.676117,45.407318],"type":"Point"}
 }

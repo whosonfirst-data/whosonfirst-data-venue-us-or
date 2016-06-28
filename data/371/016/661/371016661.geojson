@@ -2,13 +2,14 @@
   "id": 371016661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014417,45.273902,-123.014417,45.273902",
     "geom:latitude":45.273902,
     "geom:longitude":-123.014417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1178 N Hwy 99W",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371016661,
-    "wof:lastmodified":1449049224,
+    "wof:lastmodified":1466767422,
     "wof:name":"O K David Market",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.014417,45.273902,-123.014417,45.273902],
-  "geometry": {"coordinates":[-123.014417,45.273902],"type":"Point"}
+  "bbox": [
+    -123.014417,
+    45.273902,
+    -123.014417,
+    45.273902
+],
+  "geometry": {"coordinates":[-123.01441699999999,45.273902],"type":"Point"}
 }

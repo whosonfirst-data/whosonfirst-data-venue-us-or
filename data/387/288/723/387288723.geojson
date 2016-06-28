@@ -2,13 +2,14 @@
   "id": 387288723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.841586,45.840949,-122.841586,45.840949",
     "geom:latitude":45.840949,
     "geom:longitude":-122.841586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58535 S Division Rd",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387288723,
-    "wof:lastmodified":1449056509,
+    "wof:lastmodified":1466771832,
     "wof:name":"Union Ave Glass Co",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.841586,45.840949,-122.841586,45.840949],
-  "geometry": {"coordinates":[-122.841586,45.840949],"type":"Point"}
+  "bbox": [
+    -122.841586,
+    45.840949,
+    -122.841586,
+    45.840949
+],
+  "geometry": {"coordinates":[-122.84158600000001,45.840949],"type":"Point"}
 }

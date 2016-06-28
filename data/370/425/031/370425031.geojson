@@ -2,13 +2,14 @@
   "id": 370425031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.743687,45.404897,-122.743687,45.404897",
     "geom:latitude":45.404897,
     "geom:longitude":-122.743687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6450 Queens Park Rd",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370425031,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1466771694,
     "wof:name":"Copernicus Software LLC",
     "wof:parent_id":85827361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-122.743687,45.404897,-122.743687,45.404897],
-  "geometry": {"coordinates":[-122.743687,45.404897],"type":"Point"}
+  "bbox": [
+    -122.743687,
+    45.404897,
+    -122.743687,
+    45.404897
+],
+  "geometry": {"coordinates":[-122.74368699999999,45.404897],"type":"Point"}
 }

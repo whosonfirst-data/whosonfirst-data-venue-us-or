@@ -2,13 +2,14 @@
   "id": 387370981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.606828,45.476459,-122.606828,45.476459",
     "geom:latitude":45.476459,
     "geom:longitude":-122.606828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 SE Henry St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387370981,
-    "wof:lastmodified":1449058189,
+    "wof:lastmodified":1466772293,
     "wof:name":"Russ Wicks",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.606828,45.476459,-122.606828,45.476459],
-  "geometry": {"coordinates":[-122.606828,45.476459],"type":"Point"}
+  "bbox": [
+    -122.606828,
+    45.476459,
+    -122.606828,
+    45.476459
+],
+  "geometry": {"coordinates":[-122.60682799999999,45.476459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370345827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.692955,45.468248,-122.692955,45.468248",
     "geom:latitude":45.468248,
     "geom:longitude":-122.692955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 SW Troy St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370345827,
-    "wof:lastmodified":1449032204,
+    "wof:lastmodified":1466770716,
     "wof:name":"Christopher Bishop",
     "wof:parent_id":85809397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-122.692955,45.468248,-122.692955,45.468248],
+  "bbox": [
+    -122.692955,
+    45.468248,
+    -122.692955,
+    45.468248
+],
   "geometry": {"coordinates":[-122.692955,45.468248],"type":"Point"}
 }

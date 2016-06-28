@@ -2,13 +2,14 @@
   "id": 403842101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.973447,45.312194,-122.973447,45.312194",
     "geom:latitude":45.312194,
     "geom:longitude":-122.973447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 N College St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403842101,
-    "wof:lastmodified":1449054735,
+    "wof:lastmodified":1466770636,
     "wof:name":"Open Bible Learning & Care Ctr",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-122.973447,45.312194,-122.973447,45.312194],
-  "geometry": {"coordinates":[-122.973447,45.312194],"type":"Point"}
+  "bbox": [
+    -122.973447,
+    45.312194,
+    -122.973447,
+    45.312194
+],
+  "geometry": {"coordinates":[-122.97344699999999,45.312194],"type":"Point"}
 }

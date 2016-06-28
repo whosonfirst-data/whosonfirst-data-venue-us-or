@@ -2,13 +2,14 @@
   "id": 387387317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.036729,44.913115,-123.036729,44.913115",
     "geom:latitude":44.913115,
     "geom:longitude":-123.036729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Fairview Ave SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387387317,
-    "wof:lastmodified":1449059410,
+    "wof:lastmodified":1466772501,
     "wof:name":"Clark Creek Village",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.036729,44.913115,-123.036729,44.913115],
-  "geometry": {"coordinates":[-123.036729,44.913115],"type":"Point"}
+  "bbox": [
+    -123.036729,
+    44.913115,
+    -123.036729,
+    44.913115
+],
+  "geometry": {"coordinates":[-123.03672899999999,44.913115],"type":"Point"}
 }

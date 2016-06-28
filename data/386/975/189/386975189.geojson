@@ -2,13 +2,14 @@
   "id": 386975189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.501592,45.526512,-122.501592,45.526512",
     "geom:latitude":45.526512,
     "geom:longitude":-122.501592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15611 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386975189,
-    "wof:lastmodified":1449028914,
+    "wof:lastmodified":1466767384,
     "wof:name":"Litter Control Svc",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sweeper"
     ]
 },
-  "bbox": [-122.501592,45.526512,-122.501592,45.526512],
+  "bbox": [
+    -122.501592,
+    45.526512,
+    -122.501592,
+    45.526512
+],
   "geometry": {"coordinates":[-122.501592,45.526512],"type":"Point"}
 }

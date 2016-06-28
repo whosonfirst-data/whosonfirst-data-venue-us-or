@@ -2,13 +2,14 @@
   "id": 387002253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.473459,45.505861,-122.473459,45.505861",
     "geom:latitude":45.505861,
     "geom:longitude":-122.473459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 SE 184th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387002253,
-    "wof:lastmodified":1449059234,
+    "wof:lastmodified":1466767164,
     "wof:name":"Allstate",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.473459,45.505861,-122.473459,45.505861],
-  "geometry": {"coordinates":[-122.473459,45.505861],"type":"Point"}
+  "bbox": [
+    -122.473459,
+    45.505861,
+    -122.473459,
+    45.505861
+],
+  "geometry": {"coordinates":[-122.47345900000001,45.505861],"type":"Point"}
 }

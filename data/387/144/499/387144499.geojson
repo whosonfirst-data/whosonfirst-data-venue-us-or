@@ -2,13 +2,14 @@
   "id": 387144499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.154808,44.072009,-123.154808,44.072009",
     "geom:latitude":44.072009,
     "geom:longitude":-123.154808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Archie St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387144499,
-    "wof:lastmodified":1449058894,
+    "wof:lastmodified":1466769655,
     "wof:name":"Musicbox",
     "wof:parent_id":85877261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.154808,44.072009,-123.154808,44.072009],
+  "bbox": [
+    -123.154808,
+    44.072009,
+    -123.154808,
+    44.072009
+],
   "geometry": {"coordinates":[-123.154808,44.072009],"type":"Point"}
 }

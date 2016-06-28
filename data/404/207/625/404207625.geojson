@@ -2,13 +2,14 @@
   "id": 404207625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.702508,45.570004,-122.702508,45.570004",
     "geom:latitude":45.570004,
     "geom:longitude":-122.702508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 N Cutter Cir",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404207625,
-    "wof:lastmodified":1449039968,
+    "wof:lastmodified":1466768240,
     "wof:name":"Portland Motor Pool",
     "wof:parent_id":85846677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-122.702508,45.570004,-122.702508,45.570004],
-  "geometry": {"coordinates":[-122.702508,45.570004],"type":"Point"}
+  "bbox": [
+    -122.702508,
+    45.570004,
+    -122.702508,
+    45.570004
+],
+  "geometry": {"coordinates":[-122.70250799999999,45.570004],"type":"Point"}
 }

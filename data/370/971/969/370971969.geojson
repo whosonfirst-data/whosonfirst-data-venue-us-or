@@ -2,13 +2,14 @@
   "id": 370971969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.418527,44.161192,-123.418527,44.161192",
     "geom:latitude":44.161192,
     "geom:longitude":-123.418527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23492 Hall Rd",
     "sg:city":"Cheshire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370971969,
-    "wof:lastmodified":1449030793,
+    "wof:lastmodified":1466775032,
     "wof:name":"Wildwood Trucking",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.418527,44.161192,-123.418527,44.161192],
+  "bbox": [
+    -123.418527,
+    44.161192,
+    -123.418527,
+    44.161192
+],
   "geometry": {"coordinates":[-123.418527,44.161192],"type":"Point"}
 }

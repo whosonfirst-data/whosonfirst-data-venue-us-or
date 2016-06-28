@@ -2,13 +2,14 @@
   "id": 370399843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.83634,45.353257,-122.83634,45.353257",
     "geom:latitude":45.353257,
     "geom:longitude":-122.83634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 S Pine St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370399843,
-    "wof:lastmodified":1449029686,
+    "wof:lastmodified":1466771645,
     "wof:name":"Bechtold Corp",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.83634,45.353257,-122.83634,45.353257],
-  "geometry": {"coordinates":[-122.83634,45.353257],"type":"Point"}
+  "bbox": [
+    -122.83634,
+    45.353257,
+    -122.83634,
+    45.353257
+],
+  "geometry": {"coordinates":[-122.83634000000001,45.353257],"type":"Point"}
 }

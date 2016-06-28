@@ -2,13 +2,14 @@
   "id": 387173215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.674974,45.567748,-122.674974,45.567748",
     "geom:latitude":45.567748,
     "geom:longitude":-122.674974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6103 N Albina Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387173215,
-    "wof:lastmodified":1449056835,
+    "wof:lastmodified":1466770236,
     "wof:name":"House of Change",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-122.674974,45.567748,-122.674974,45.567748],
-  "geometry": {"coordinates":[-122.674974,45.567748],"type":"Point"}
+  "bbox": [
+    -122.674974,
+    45.567748,
+    -122.674974,
+    45.567748
+],
+  "geometry": {"coordinates":[-122.67497400000001,45.567748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370271945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.318649,44.920491,-123.318649,44.920491",
     "geom:latitude":44.920491,
     "geom:longitude":-123.318649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 SW Court St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370271945,
-    "wof:lastmodified":1449030854,
+    "wof:lastmodified":1466769297,
     "wof:name":"Vintage Vine Inc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.318649,44.920491,-123.318649,44.920491],
-  "geometry": {"coordinates":[-123.318649,44.920491],"type":"Point"}
+  "bbox": [
+    -123.318649,
+    44.920491,
+    -123.318649,
+    44.920491
+],
+  "geometry": {"coordinates":[-123.31864899999999,44.920491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370979191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.485162,45.014337,-123.485162,45.014337",
     "geom:latitude":45.014337,
     "geom:longitude":-123.485162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21600 Finn Rd",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370979191,
-    "wof:lastmodified":1449031474,
+    "wof:lastmodified":1466775043,
     "wof:name":"Henderson Wf Company",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.485162,45.014337,-123.485162,45.014337],
+  "bbox": [
+    -123.485162,
+    45.014337,
+    -123.485162,
+    45.014337
+],
   "geometry": {"coordinates":[-123.485162,45.014337],"type":"Point"}
 }

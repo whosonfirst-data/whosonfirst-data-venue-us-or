@@ -2,13 +2,14 @@
   "id": 370563735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.316877,44.061497,-123.316877,44.061497",
     "geom:latitude":44.061497,
     "geom:longitude":-123.316877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26006 Vista Dr",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370563735,
-    "wof:lastmodified":1449029122,
+    "wof:lastmodified":1466772795,
     "wof:name":"Blue Diamond Construction",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.316877,44.061497,-123.316877,44.061497],
-  "geometry": {"coordinates":[-123.316877,44.061497],"type":"Point"}
+  "bbox": [
+    -123.316877,
+    44.061497,
+    -123.316877,
+    44.061497
+],
+  "geometry": {"coordinates":[-123.31687700000001,44.061497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387845761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.677935,45.513459,-122.677935,45.513459",
     "geom:latitude":45.513459,
     "geom:longitude":-122.677935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 SW Columbia St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387845761,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1466775148,
     "wof:name":"Merrill Corporation",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-122.677935,45.513459,-122.677935,45.513459],
-  "geometry": {"coordinates":[-122.677935,45.513459],"type":"Point"}
+  "bbox": [
+    -122.677935,
+    45.513459,
+    -122.677935,
+    45.513459
+],
+  "geometry": {"coordinates":[-122.67793500000001,45.513459],"type":"Point"}
 }

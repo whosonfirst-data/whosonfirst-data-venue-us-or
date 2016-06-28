@@ -2,13 +2,14 @@
   "id": 370408575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.304313,42.429608,-123.304313,42.429608",
     "geom:latitude":42.429608,
     "geom:longitude":-123.304313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 SE N St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370408575,
-    "wof:lastmodified":1449029508,
+    "wof:lastmodified":1466771716,
     "wof:name":"Russco Guns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gunsmith"
     ]
 },
-  "bbox": [-123.304313,42.429608,-123.304313,42.429608],
-  "geometry": {"coordinates":[-123.304313,42.429608],"type":"Point"}
+  "bbox": [
+    -123.304313,
+    42.429608,
+    -123.304313,
+    42.429608
+],
+  "geometry": {"coordinates":[-123.30431299999999,42.429608],"type":"Point"}
 }

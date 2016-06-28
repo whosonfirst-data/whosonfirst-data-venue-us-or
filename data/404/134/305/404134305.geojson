@@ -2,13 +2,14 @@
   "id": 404134305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.002972,44.713211,-123.002972,44.713211",
     "geom:latitude":44.713211,
     "geom:longitude":-123.002972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 S Sunrise Dr",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404134305,
-    "wof:lastmodified":1449040271,
+    "wof:lastmodified":1466771270,
     "wof:name":"Tc Data Systems",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-123.002972,44.713211,-123.002972,44.713211],
+  "bbox": [
+    -123.002972,
+    44.713211,
+    -123.002972,
+    44.713211
+],
   "geometry": {"coordinates":[-123.002972,44.713211],"type":"Point"}
 }

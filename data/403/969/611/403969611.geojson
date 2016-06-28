@@ -2,13 +2,14 @@
   "id": 403969611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.781495,45.492786,-122.781495,45.492786",
     "geom:latitude":45.492786,
     "geom:longitude":-122.781495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 SW 102nd Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403969611,
-    "wof:lastmodified":1449054969,
+    "wof:lastmodified":1466768607,
     "wof:name":"Gardenbrook Apartments",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.781495,45.492786,-122.781495,45.492786],
-  "geometry": {"coordinates":[-122.781495,45.492786],"type":"Point"}
+  "bbox": [
+    -122.781495,
+    45.492786,
+    -122.781495,
+    45.492786
+],
+  "geometry": {"coordinates":[-122.78149500000001,45.492786],"type":"Point"}
 }

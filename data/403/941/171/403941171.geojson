@@ -2,13 +2,14 @@
   "id": 403941171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.798453,45.680378,-118.798453,45.680378",
     "geom:latitude":45.680378,
     "geom:longitude":-118.798453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 NW 11th St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403941171,
-    "wof:lastmodified":1449055441,
+    "wof:lastmodified":1466768105,
     "wof:name":"Richard Nauman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-118.798453,45.680378,-118.798453,45.680378],
-  "geometry": {"coordinates":[-118.798453,45.680378],"type":"Point"}
+  "bbox": [
+    -118.798453,
+    45.680378,
+    -118.798453,
+    45.680378
+],
+  "geometry": {"coordinates":[-118.79845299999999,45.680378],"type":"Point"}
 }

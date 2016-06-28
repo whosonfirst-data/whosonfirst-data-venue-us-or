@@ -2,13 +2,14 @@
   "id": 370934611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.93515,45.500993,-122.93515,45.500993",
     "geom:latitude":45.500993,
     "geom:longitude":-122.93515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4693 SE Tualatin Valley Hwy",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370934611,
-    "wof:lastmodified":1449029243,
+    "wof:lastmodified":1466774756,
     "wof:name":"Buzz Espresso",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.93515,45.500993,-122.93515,45.500993],
-  "geometry": {"coordinates":[-122.93515,45.500993],"type":"Point"}
+  "bbox": [
+    -122.93515,
+    45.500993,
+    -122.93515,
+    45.500993
+],
+  "geometry": {"coordinates":[-122.93514999999999,45.500993],"type":"Point"}
 }

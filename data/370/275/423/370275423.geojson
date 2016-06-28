@@ -2,13 +2,14 @@
   "id": 370275423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.782719,45.004527,-122.782719,45.004527",
     "geom:latitude":45.004527,
     "geom:longitude":-122.782719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Water St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370275423,
-    "wof:lastmodified":1449030184,
+    "wof:lastmodified":1466769367,
     "wof:name":"Community Outreach Clinic",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.782719,45.004527,-122.782719,45.004527],
+  "bbox": [
+    -122.782719,
+    45.004527,
+    -122.782719,
+    45.004527
+],
   "geometry": {"coordinates":[-122.782719,45.004527],"type":"Point"}
 }

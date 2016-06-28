@@ -2,13 +2,14 @@
   "id": 387220665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.790338,45.295018,-122.790338,45.295018",
     "geom:latitude":45.295018,
     "geom:longitude":-122.790338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31525 SW Orchard Dr",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387220665,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1466771220,
     "wof:name":"Turnpoint Solutions LLC",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.790338,45.295018,-122.790338,45.295018],
-  "geometry": {"coordinates":[-122.790338,45.295018],"type":"Point"}
+  "bbox": [
+    -122.790338,
+    45.295018,
+    -122.790338,
+    45.295018
+],
+  "geometry": {"coordinates":[-122.79033800000001,45.295018],"type":"Point"}
 }

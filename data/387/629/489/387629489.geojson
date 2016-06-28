@@ -2,13 +2,14 @@
   "id": 387629489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.295101,43.432017,-123.295101,43.432017",
     "geom:latitude":43.432017,
     "geom:longitude":-123.295101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1682 Old Town Loop Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387629489,
-    "wof:lastmodified":1449059018,
+    "wof:lastmodified":1466774091,
     "wof:name":"Villa Beauty Shop",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.295101,43.432017,-123.295101,43.432017],
+  "bbox": [
+    -123.295101,
+    43.432017,
+    -123.295101,
+    43.432017
+],
   "geometry": {"coordinates":[-123.295101,43.432017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386969093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.603683,45.434059,-122.603683,45.434059",
     "geom:latitude":45.434059,
     "geom:longitude":-122.603683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12045 SE Stanley Ave",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386969093,
-    "wof:lastmodified":1449028683,
+    "wof:lastmodified":1466767356,
     "wof:name":"Milwaukie Convalescent Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-122.603683,45.434059,-122.603683,45.434059],
+  "bbox": [
+    -122.603683,
+    45.434059,
+    -122.603683,
+    45.434059
+],
   "geometry": {"coordinates":[-122.603683,45.434059],"type":"Point"}
 }

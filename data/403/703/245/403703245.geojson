@@ -2,13 +2,14 @@
   "id": 403703245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.002906,45.284124,-123.002906,45.284124",
     "geom:latitude":45.284124,
     "geom:longitude":-123.002906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23032 NE Hagey Rd",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403703245,
-    "wof:lastmodified":1449055049,
+    "wof:lastmodified":1466767847,
     "wof:name":"Gerry Crosland Trucking",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.002906,45.284124,-123.002906,45.284124],
+  "bbox": [
+    -123.002906,
+    45.284124,
+    -123.002906,
+    45.284124
+],
   "geometry": {"coordinates":[-123.002906,45.284124],"type":"Point"}
 }

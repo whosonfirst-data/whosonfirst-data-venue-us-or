@@ -2,13 +2,14 @@
   "id": 387214063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014604,45.030784,-123.014604,45.030784",
     "geom:latitude":45.030784,
     "geom:longitude":-123.014604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 St Charles St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387214063,
-    "wof:lastmodified":1449059796,
+    "wof:lastmodified":1466771086,
     "wof:name":"Anglers Edge",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.014604,45.030784,-123.014604,45.030784],
-  "geometry": {"coordinates":[-123.014604,45.030784],"type":"Point"}
+  "bbox": [
+    -123.014604,
+    45.030784,
+    -123.014604,
+    45.030784
+],
+  "geometry": {"coordinates":[-123.01460400000001,45.030784],"type":"Point"}
 }

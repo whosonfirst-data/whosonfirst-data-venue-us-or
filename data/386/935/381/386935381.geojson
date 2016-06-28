@@ -2,13 +2,14 @@
   "id": 386935381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.213326,44.05312,-123.213326,44.05312",
     "geom:latitude":44.05312,
     "geom:longitude":-123.213326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28614 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386935381,
-    "wof:lastmodified":1449028894,
+    "wof:lastmodified":1466767181,
     "wof:name":"2002 Restorations",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-123.213326,44.05312,-123.213326,44.05312],
+  "bbox": [
+    -123.213326,
+    44.05312,
+    -123.213326,
+    44.05312
+],
   "geometry": {"coordinates":[-123.213326,44.05312],"type":"Point"}
 }

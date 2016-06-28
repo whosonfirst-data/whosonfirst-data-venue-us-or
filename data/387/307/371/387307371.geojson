@@ -2,13 +2,14 @@
   "id": 387307371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014396,45.273936,-123.014396,45.273936",
     "geom:latitude":45.273936,
     "geom:longitude":-123.014396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1174 N Hwy 99W",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387307371,
-    "wof:lastmodified":1449057087,
+    "wof:lastmodified":1466771823,
     "wof:name":"Wine Etc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-123.014396,45.273936,-123.014396,45.273936],
+  "bbox": [
+    -123.014396,
+    45.273936,
+    -123.014396,
+    45.273936
+],
   "geometry": {"coordinates":[-123.014396,45.273936],"type":"Point"}
 }

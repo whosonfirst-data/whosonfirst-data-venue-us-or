@@ -2,13 +2,14 @@
   "id": 404100301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.765824,45.29578,-122.765824,45.29578",
     "geom:latitude":45.29578,
     "geom:longitude":-122.765824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8645 SW Wilson St",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404100301,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1466770540,
     "wof:name":"Color Glo West Inc",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.765824,45.29578,-122.765824,45.29578],
-  "geometry": {"coordinates":[-122.765824,45.29578],"type":"Point"}
+  "bbox": [
+    -122.765824,
+    45.29578,
+    -122.765824,
+    45.29578
+],
+  "geometry": {"coordinates":[-122.76582399999999,45.29578],"type":"Point"}
 }

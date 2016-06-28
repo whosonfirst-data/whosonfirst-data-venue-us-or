@@ -2,13 +2,14 @@
   "id": 387052703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.25911,43.391795,-124.25911,43.391795",
     "geom:latitude":43.391795,
     "geom:longitude":-124.25911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Newmark Ave",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387052703,
-    "wof:lastmodified":1449057828,
+    "wof:lastmodified":1466768022,
     "wof:name":"Newmark Manor",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-124.25911,43.391795,-124.25911,43.391795],
-  "geometry": {"coordinates":[-124.25911,43.391795],"type":"Point"}
+  "bbox": [
+    -124.25911,
+    43.391795,
+    -124.25911,
+    43.391795
+],
+  "geometry": {"coordinates":[-124.25911000000001,43.391795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403887481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.938783,44.621278,-123.938783,44.621278",
     "geom:latitude":44.621278,
     "geom:longitude":-123.938783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 NW 1st St",
     "sg:city":"Toledo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403887481,
-    "wof:lastmodified":1449055693,
+    "wof:lastmodified":1466767152,
     "wof:name":"Toledo Community Ctr",
     "wof:parent_id":85868143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-123.938783,44.621278,-123.938783,44.621278],
+  "bbox": [
+    -123.938783,
+    44.621278,
+    -123.938783,
+    44.621278
+],
   "geometry": {"coordinates":[-123.938783,44.621278],"type":"Point"}
 }

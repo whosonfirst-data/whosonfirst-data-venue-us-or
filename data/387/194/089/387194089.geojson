@@ -2,13 +2,14 @@
   "id": 387194089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.277622,44.582804,-123.277622,44.582804",
     "geom:latitude":44.582804,
     "geom:longitude":-123.277622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 NW 23rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387194089,
-    "wof:lastmodified":1449059372,
+    "wof:lastmodified":1466770662,
     "wof:name":"Veterans of Foreign Wars",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.277622,44.582804,-123.277622,44.582804],
-  "geometry": {"coordinates":[-123.277622,44.582804],"type":"Point"}
+  "bbox": [
+    -123.277622,
+    44.582804,
+    -123.277622,
+    44.582804
+],
+  "geometry": {"coordinates":[-123.27762199999999,44.582804],"type":"Point"}
 }

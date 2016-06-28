@@ -2,13 +2,14 @@
   "id": 403734893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.060378,44.043354,-123.060378,44.043354",
     "geom:latitude":44.043354,
     "geom:longitude":-123.060378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 E 15th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403734893,
-    "wof:lastmodified":1449055804,
+    "wof:lastmodified":1466768573,
     "wof:name":"District 5",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-123.060378,44.043354,-123.060378,44.043354],
+  "bbox": [
+    -123.060378,
+    44.043354,
+    -123.060378,
+    44.043354
+],
   "geometry": {"coordinates":[-123.060378,44.043354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387891287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01591,44.92679,-123.01591,44.92679",
     "geom:latitude":44.92679,
     "geom:longitude":-123.01591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Ford St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387891287,
-    "wof:lastmodified":1449058396,
+    "wof:lastmodified":1466775144,
     "wof:name":"Associated Press",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "syndicate"
     ]
 },
-  "bbox": [-123.01591,44.92679,-123.01591,44.92679],
-  "geometry": {"coordinates":[-123.01591,44.92679],"type":"Point"}
+  "bbox": [
+    -123.01591,
+    44.92679,
+    -123.01591,
+    44.92679
+],
+  "geometry": {"coordinates":[-123.01591000000001,44.92679],"type":"Point"}
 }

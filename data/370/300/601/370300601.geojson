@@ -2,13 +2,14 @@
   "id": 370300601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.256552,44.065416,-121.256552,44.065416",
     "geom:latitude":44.065416,
     "geom:longitude":-121.256552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 NE Providence Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370300601,
-    "wof:lastmodified":1449030975,
+    "wof:lastmodified":1466769826,
     "wof:name":"Central Oregon Images",
     "wof:parent_id":85876203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-121.256552,44.065416,-121.256552,44.065416],
+  "bbox": [
+    -121.256552,
+    44.065416,
+    -121.256552,
+    44.065416
+],
   "geometry": {"coordinates":[-121.256552,44.065416],"type":"Point"}
 }

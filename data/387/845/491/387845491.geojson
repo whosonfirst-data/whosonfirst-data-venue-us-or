@@ -2,13 +2,14 @@
   "id": 387845491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.558776,45.316368,-122.558776,45.316368",
     "geom:latitude":45.316368,
     "geom:longitude":-122.558776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20039 S Torrey Pines Dr",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387845491,
-    "wof:lastmodified":1449056724,
+    "wof:lastmodified":1466775143,
     "wof:name":"Mercantile Warehouse",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-122.558776,45.316368,-122.558776,45.316368],
-  "geometry": {"coordinates":[-122.558776,45.316368],"type":"Point"}
+  "bbox": [
+    -122.558776,
+    45.316368,
+    -122.558776,
+    45.316368
+],
+  "geometry": {"coordinates":[-122.55877599999999,45.316368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387418099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.613736,45.39258,-122.613736,45.39258",
     "geom:latitude":45.39258,
     "geom:longitude":-122.613736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17843 SE McLoughlin Blvd",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387418099,
-    "wof:lastmodified":1449059088,
+    "wof:lastmodified":1466772701,
     "wof:name":"Auction Your Things",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-122.613736,45.39258,-122.613736,45.39258],
+  "bbox": [
+    -122.613736,
+    45.39258,
+    -122.613736,
+    45.39258
+],
   "geometry": {"coordinates":[-122.613736,45.39258],"type":"Point"}
 }

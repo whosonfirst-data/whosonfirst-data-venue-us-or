@@ -2,13 +2,14 @@
   "id": 387578309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.280954,44.161309,-121.280954,44.161309",
     "geom:latitude":44.161309,
     "geom:longitude":-121.280954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65051 92nd St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387578309,
-    "wof:lastmodified":1449057061,
+    "wof:lastmodified":1466773679,
     "wof:name":"Central Oregon Mobile Mix",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-121.280954,44.161309,-121.280954,44.161309],
-  "geometry": {"coordinates":[-121.280954,44.161309],"type":"Point"}
+  "bbox": [
+    -121.280954,
+    44.161309,
+    -121.280954,
+    44.161309
+],
+  "geometry": {"coordinates":[-121.28095399999999,44.161309],"type":"Point"}
 }

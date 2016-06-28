@@ -2,13 +2,14 @@
   "id": 370883739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.317444,44.328125,-121.317444,44.328125",
     "geom:latitude":44.328125,
     "geom:longitude":-121.317444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70397 Buckhorn Rd",
     "sg:city":"Terrebonne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370883739,
-    "wof:lastmodified":1449031683,
+    "wof:lastmodified":1466774564,
     "wof:name":"Crescent Moon Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cattle"
     ]
 },
-  "bbox": [-121.317444,44.328125,-121.317444,44.328125],
-  "geometry": {"coordinates":[-121.317444,44.328125],"type":"Point"}
+  "bbox": [
+    -121.317444,
+    44.328125,
+    -121.317444,
+    44.328125
+],
+  "geometry": {"coordinates":[-121.31744399999999,44.328125],"type":"Point"}
 }

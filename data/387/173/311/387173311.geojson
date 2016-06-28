@@ -2,13 +2,14 @@
   "id": 387173311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690082,45.499809,-122.690082,45.499809",
     "geom:latitude":45.499809,
     "geom:longitude":-122.690082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 SW 10th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387173311,
-    "wof:lastmodified":1449056831,
+    "wof:lastmodified":1466770239,
     "wof:name":"West Terrace Apts",
     "wof:parent_id":85832591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.690082,45.499809,-122.690082,45.499809],
+  "bbox": [
+    -122.690082,
+    45.499809,
+    -122.690082,
+    45.499809
+],
   "geometry": {"coordinates":[-122.690082,45.499809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403826497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.710264,45.490692,-122.710264,45.490692",
     "geom:latitude":45.490692,
     "geom:longitude":-122.710264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4408 SW Dosch Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403826497,
-    "wof:lastmodified":1449055579,
+    "wof:lastmodified":1466770260,
     "wof:name":"Hilton",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-122.710264,45.490692,-122.710264,45.490692],
+  "bbox": [
+    -122.710264,
+    45.490692,
+    -122.710264,
+    45.490692
+],
   "geometry": {"coordinates":[-122.710264,45.490692],"type":"Point"}
 }

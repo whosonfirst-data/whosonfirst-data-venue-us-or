@@ -2,13 +2,14 @@
   "id": 370961701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045212,44.914175,-123.045212,44.914175",
     "geom:latitude":44.914175,
     "geom:longitude":-123.045212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370961701,
-    "wof:lastmodified":1449032403,
+    "wof:lastmodified":1466775076,
     "wof:name":"Treasure Island Books",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.045212,44.914175,-123.045212,44.914175],
-  "geometry": {"coordinates":[-123.045212,44.914175],"type":"Point"}
+  "bbox": [
+    -123.045212,
+    44.914175,
+    -123.045212,
+    44.914175
+],
+  "geometry": {"coordinates":[-123.04521200000001,44.914175],"type":"Point"}
 }

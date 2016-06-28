@@ -2,13 +2,14 @@
   "id": 387610181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.185928,44.860585,-123.185928,44.860585",
     "geom:latitude":44.860585,
     "geom:longitude":-123.185928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Polk St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387610181,
-    "wof:lastmodified":1449059859,
+    "wof:lastmodified":1466773993,
     "wof:name":"Lee Garden Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.185928,44.860585,-123.185928,44.860585],
+  "bbox": [
+    -123.185928,
+    44.860585,
+    -123.185928,
+    44.860585
+],
   "geometry": {"coordinates":[-123.185928,44.860585],"type":"Point"}
 }

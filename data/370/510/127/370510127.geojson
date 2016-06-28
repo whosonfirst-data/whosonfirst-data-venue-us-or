@@ -2,13 +2,14 @@
   "id": 370510127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.455485,45.166967,-122.455485,45.166967",
     "geom:latitude":45.166967,
     "geom:longitude":-122.455485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30356 S Oswalt Rd",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370510127,
-    "wof:lastmodified":1449031118,
+    "wof:lastmodified":1466772250,
     "wof:name":"Stan Torvend",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-122.455485,45.166967,-122.455485,45.166967],
+  "bbox": [
+    -122.455485,
+    45.166967,
+    -122.455485,
+    45.166967
+],
   "geometry": {"coordinates":[-122.455485,45.166967],"type":"Point"}
 }

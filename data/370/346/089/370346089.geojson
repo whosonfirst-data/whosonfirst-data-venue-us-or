@@ -2,13 +2,14 @@
   "id": 370346089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.078572,45.228189,-123.078572,45.228189",
     "geom:latitude":45.228189,
     "geom:longitude":-123.078572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15450 SE Kreder Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370346089,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1466770722,
     "wof:name":"Marshall Ames",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.078572,45.228189,-123.078572,45.228189],
-  "geometry": {"coordinates":[-123.078572,45.228189],"type":"Point"}
+  "bbox": [
+    -123.078572,
+    45.228189,
+    -123.078572,
+    45.228189
+],
+  "geometry": {"coordinates":[-123.07857199999999,45.228189],"type":"Point"}
 }

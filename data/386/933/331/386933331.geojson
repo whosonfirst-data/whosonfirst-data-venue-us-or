@@ -2,13 +2,14 @@
   "id": 386933331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.570213,45.376205,-122.570213,45.376205",
     "geom:latitude":45.376205,
     "geom:longitude":-122.570213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14415 S Ames St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386933331,
-    "wof:lastmodified":1449028682,
+    "wof:lastmodified":1466767166,
     "wof:name":"Edgemaster Sharpening Service",
     "wof:parent_id":85811111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sharpening"
     ]
 },
-  "bbox": [-122.570213,45.376205,-122.570213,45.376205],
+  "bbox": [
+    -122.570213,
+    45.376205,
+    -122.570213,
+    45.376205
+],
   "geometry": {"coordinates":[-122.570213,45.376205],"type":"Point"}
 }

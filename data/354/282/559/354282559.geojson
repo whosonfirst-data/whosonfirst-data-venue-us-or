@@ -2,13 +2,14 @@
   "id": 354282559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.681,45.522904,-122.681,45.522904",
     "geom:latitude":45.522904,
     "geom:longitude":-122.681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 W Burnside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354282559,
-    "wof:lastmodified":1449067019,
+    "wof:lastmodified":1466769231,
     "wof:name":"Watch This",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-122.681,45.522904,-122.681,45.522904],
+  "bbox": [
+    -122.681,
+    45.522904,
+    -122.681,
+    45.522904
+],
   "geometry": {"coordinates":[-122.681,45.522904],"type":"Point"}
 }

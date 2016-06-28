@@ -2,13 +2,14 @@
   "id": 387477139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.700555,45.529115,-122.700555,45.529115",
     "geom:latitude":45.529115,
     "geom:longitude":-122.700555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 NW Kearney St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387477139,
-    "wof:lastmodified":1449056752,
+    "wof:lastmodified":1466773197,
     "wof:name":"Meridian Communications",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-122.700555,45.529115,-122.700555,45.529115],
-  "geometry": {"coordinates":[-122.700555,45.529115],"type":"Point"}
+  "bbox": [
+    -122.700555,
+    45.529115,
+    -122.700555,
+    45.529115
+],
+  "geometry": {"coordinates":[-122.70055499999999,45.529115],"type":"Point"}
 }

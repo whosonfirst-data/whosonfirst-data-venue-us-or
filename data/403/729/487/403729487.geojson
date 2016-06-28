@@ -2,13 +2,14 @@
   "id": 403729487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.117883,44.03029,-123.117883,44.03029",
     "geom:latitude":44.03029,
     "geom:longitude":-123.117883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Chambers St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403729487,
-    "wof:lastmodified":1449055316,
+    "wof:lastmodified":1466768463,
     "wof:name":"Humor Highway",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.117883,44.03029,-123.117883,44.03029],
-  "geometry": {"coordinates":[-123.117883,44.03029],"type":"Point"}
+  "bbox": [
+    -123.117883,
+    44.03029,
+    -123.117883,
+    44.03029
+],
+  "geometry": {"coordinates":[-123.11788300000001,44.03029],"type":"Point"}
 }

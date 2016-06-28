@@ -2,13 +2,14 @@
   "id": 370206969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.553769,45.545679,-122.553769,45.545679",
     "geom:latitude":45.545679,
     "geom:longitude":-122.553769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 NE Fargo St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370206969,
-    "wof:lastmodified":1449031376,
+    "wof:lastmodified":1466768153,
     "wof:name":"Church Of Christians Of Event",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.553769,45.545679,-122.553769,45.545679],
+  "bbox": [
+    -122.553769,
+    45.545679,
+    -122.553769,
+    45.545679
+],
   "geometry": {"coordinates":[-122.553769,45.545679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387834333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.823332,45.402818,-122.823332,45.402818",
     "geom:latitude":45.402818,
     "geom:longitude":-122.823332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14435 SW Beef Bend Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387834333,
-    "wof:lastmodified":1449056459,
+    "wof:lastmodified":1466775036,
     "wof:name":"Waiora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.823332,45.402818,-122.823332,45.402818],
-  "geometry": {"coordinates":[-122.823332,45.402818],"type":"Point"}
+  "bbox": [
+    -122.823332,
+    45.402818,
+    -122.823332,
+    45.402818
+],
+  "geometry": {"coordinates":[-122.82333199999999,45.402818],"type":"Point"}
 }

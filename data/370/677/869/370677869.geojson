@@ -2,13 +2,14 @@
   "id": 370677869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.572339,45.539923,-122.572339,45.539923",
     "geom:latitude":45.539923,
     "geom:longitude":-122.572339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 NE 88th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370677869,
-    "wof:lastmodified":1449030308,
+    "wof:lastmodified":1466773329,
     "wof:name":"Uplife",
     "wof:parent_id":85868989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.572339,45.539923,-122.572339,45.539923],
+  "bbox": [
+    -122.572339,
+    45.539923,
+    -122.572339,
+    45.539923
+],
   "geometry": {"coordinates":[-122.572339,45.539923],"type":"Point"}
 }

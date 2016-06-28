@@ -2,13 +2,14 @@
   "id": 370703305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.65748,45.531572,-122.65748,45.531572",
     "geom:latitude":45.531572,
     "geom:longitude":-122.65748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 NE Multnomah St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370703305,
-    "wof:lastmodified":1449030126,
+    "wof:lastmodified":1466773703,
     "wof:name":"Dun & Bradstreet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-122.65748,45.531572,-122.65748,45.531572],
-  "geometry": {"coordinates":[-122.65748,45.531572],"type":"Point"}
+  "bbox": [
+    -122.65748,
+    45.531572,
+    -122.65748,
+    45.531572
+],
+  "geometry": {"coordinates":[-122.65748000000001,45.531572],"type":"Point"}
 }

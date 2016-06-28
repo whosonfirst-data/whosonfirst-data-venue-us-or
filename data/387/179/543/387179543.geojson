@@ -2,13 +2,14 @@
   "id": 387179543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.512472,45.450286,-122.512472,45.450286",
     "geom:latitude":45.450286,
     "geom:longitude":-122.512472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 SE 147th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387179543,
-    "wof:lastmodified":1449059523,
+    "wof:lastmodified":1466770363,
     "wof:name":"European Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.512472,45.450286,-122.512472,45.450286],
+  "bbox": [
+    -122.512472,
+    45.450286,
+    -122.512472,
+    45.450286
+],
   "geometry": {"coordinates":[-122.512472,45.450286],"type":"Point"}
 }

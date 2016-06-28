@@ -2,13 +2,14 @@
   "id": 387041125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101929,44.039038,-123.101929,44.039038",
     "geom:latitude":44.039038,
     "geom:longitude":-123.101929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W 19th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387041125,
-    "wof:lastmodified":1449057476,
+    "wof:lastmodified":1466767817,
     "wof:name":"Jake's Place",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.101929,44.039038,-123.101929,44.039038],
+  "bbox": [
+    -123.101929,
+    44.039038,
+    -123.101929,
+    44.039038
+],
   "geometry": {"coordinates":[-123.101929,44.039038],"type":"Point"}
 }

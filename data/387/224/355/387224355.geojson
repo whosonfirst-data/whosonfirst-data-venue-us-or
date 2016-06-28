@@ -2,13 +2,14 @@
   "id": 387224355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.087601,45.55215,-123.087601,45.55215",
     "geom:latitude":45.55215,
     "geom:longitude":-123.087601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 NW Heesacker Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387224355,
-    "wof:lastmodified":1449058890,
+    "wof:lastmodified":1466771290,
     "wof:name":"Hee Does It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.087601,45.55215,-123.087601,45.55215],
-  "geometry": {"coordinates":[-123.087601,45.55215],"type":"Point"}
+  "bbox": [
+    -123.087601,
+    45.55215,
+    -123.087601,
+    45.55215
+],
+  "geometry": {"coordinates":[-123.08760100000001,45.55215],"type":"Point"}
 }

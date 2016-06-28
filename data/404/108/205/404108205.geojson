@@ -2,13 +2,14 @@
   "id": 404108205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.069352,44.15574,-123.069352,44.15574",
     "geom:latitude":44.15574,
     "geom:longitude":-123.069352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33590 Paiute Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404108205,
-    "wof:lastmodified":1449039109,
+    "wof:lastmodified":1466770754,
     "wof:name":"Howards Boat & Spa Repair",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.069352,44.15574,-123.069352,44.15574],
-  "geometry": {"coordinates":[-123.069352,44.15574],"type":"Point"}
+  "bbox": [
+    -123.069352,
+    44.15574,
+    -123.069352,
+    44.15574
+],
+  "geometry": {"coordinates":[-123.06935199999999,44.15574],"type":"Point"}
 }

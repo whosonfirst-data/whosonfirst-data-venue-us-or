@@ -2,13 +2,14 @@
   "id": 387223959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.035868,44.94925,-123.035868,44.94925",
     "geom:latitude":44.94925,
     "geom:longitude":-123.035868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Commercial St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387223959,
-    "wof:lastmodified":1449056376,
+    "wof:lastmodified":1466771285,
     "wof:name":"Hayden Saab Svc",
     "wof:parent_id":85880575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-123.035868,44.94925,-123.035868,44.94925],
-  "geometry": {"coordinates":[-123.035868,44.94925],"type":"Point"}
+  "bbox": [
+    -123.035868,
+    44.94925,
+    -123.035868,
+    44.94925
+],
+  "geometry": {"coordinates":[-123.03586799999999,44.94925],"type":"Point"}
 }

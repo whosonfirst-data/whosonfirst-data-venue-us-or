@@ -2,13 +2,14 @@
   "id": 387182463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.710349,45.531513,-122.710349,45.531513",
     "geom:latitude":45.531513,
     "geom:longitude":-122.710349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2846 NW Fairfax Ter",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387182463,
-    "wof:lastmodified":1449058517,
+    "wof:lastmodified":1466770422,
     "wof:name":"Thompson Design Associates",
     "wof:parent_id":85857791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-122.710349,45.531513,-122.710349,45.531513],
-  "geometry": {"coordinates":[-122.710349,45.531513],"type":"Point"}
+  "bbox": [
+    -122.710349,
+    45.531513,
+    -122.710349,
+    45.531513
+],
+  "geometry": {"coordinates":[-122.71034899999999,45.531513],"type":"Point"}
 }

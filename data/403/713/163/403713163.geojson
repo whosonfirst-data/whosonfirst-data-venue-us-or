@@ -2,13 +2,14 @@
   "id": 403713163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.042269,44.043051,-123.042269,44.043051",
     "geom:latitude":44.043051,
     "geom:longitude":-123.042269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Glenwood Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403713163,
-    "wof:lastmodified":1449055846,
+    "wof:lastmodified":1466768018,
     "wof:name":"Sanipac",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "collection"
     ]
 },
-  "bbox": [-123.042269,44.043051,-123.042269,44.043051],
+  "bbox": [
+    -123.042269,
+    44.043051,
+    -123.042269,
+    44.043051
+],
   "geometry": {"coordinates":[-123.042269,44.043051],"type":"Point"}
 }

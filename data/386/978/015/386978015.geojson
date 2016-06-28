@@ -2,13 +2,14 @@
   "id": 386978015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.982611,44.965969,-122.982611,44.965969",
     "geom:latitude":44.965969,
     "geom:longitude":-122.982611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Devonshire Ct NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386978015,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1466771430,
     "wof:name":"Devonshire Court Apartments",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.982611,44.965969,-122.982611,44.965969],
-  "geometry": {"coordinates":[-122.982611,44.965969],"type":"Point"}
+  "bbox": [
+    -122.982611,
+    44.965969,
+    -122.982611,
+    44.965969
+],
+  "geometry": {"coordinates":[-122.98261100000001,44.965969],"type":"Point"}
 }

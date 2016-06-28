@@ -2,13 +2,14 @@
   "id": 354244921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.550081,45.55712,-122.550081,45.55712",
     "geom:latitude":45.55712,
     "geom:longitude":-122.550081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10960 NE Wygant St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354244921,
-    "wof:lastmodified":1449066591,
+    "wof:lastmodified":1466768538,
     "wof:name":"Princeton Property",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.550081,45.55712,-122.550081,45.55712],
-  "geometry": {"coordinates":[-122.550081,45.55712],"type":"Point"}
+  "bbox": [
+    -122.550081,
+    45.55712,
+    -122.550081,
+    45.55712
+],
+  "geometry": {"coordinates":[-122.55008100000001,45.55712],"type":"Point"}
 }

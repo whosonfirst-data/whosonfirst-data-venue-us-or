@@ -2,13 +2,14 @@
   "id": 387257291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.846989,45.149673,-122.846989,45.149673",
     "geom:latitude":45.149673,
     "geom:longitude":-122.846989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 Commerce Way",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387257291,
-    "wof:lastmodified":1449057217,
+    "wof:lastmodified":1466771773,
     "wof:name":"Woodburn Park Maintenance",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-122.846989,45.149673,-122.846989,45.149673],
-  "geometry": {"coordinates":[-122.846989,45.149673],"type":"Point"}
+  "bbox": [
+    -122.846989,
+    45.149673,
+    -122.846989,
+    45.149673
+],
+  "geometry": {"coordinates":[-122.84698899999999,45.149673],"type":"Point"}
 }

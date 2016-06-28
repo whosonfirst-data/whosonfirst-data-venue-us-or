@@ -2,13 +2,14 @@
   "id": 387649385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.484518,42.396548,-123.484518,42.396548",
     "geom:latitude":42.396548,
     "geom:longitude":-123.484518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Ingalls Ln",
     "sg:city":"Wilderville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387649385,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466774219,
     "wof:name":"Wildwood Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-123.484518,42.396548,-123.484518,42.396548],
-  "geometry": {"coordinates":[-123.484518,42.396548],"type":"Point"}
+  "bbox": [
+    -123.484518,
+    42.396548,
+    -123.484518,
+    42.396548
+],
+  "geometry": {"coordinates":[-123.48451799999999,42.396548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403985347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.396341,45.096839,-123.396341,45.096839",
     "geom:latitude":45.096839,
     "geom:longitude":-123.396341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 SW Mill St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403985347,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1466768881,
     "wof:name":"Yamhill County Corrections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-123.396341,45.096839,-123.396341,45.096839],
-  "geometry": {"coordinates":[-123.396341,45.096839],"type":"Point"}
+  "bbox": [
+    -123.396341,
+    45.096839,
+    -123.396341,
+    45.096839
+],
+  "geometry": {"coordinates":[-123.39634100000001,45.096839],"type":"Point"}
 }

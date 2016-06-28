@@ -2,13 +2,14 @@
   "id": 387749451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.40609,43.101336,-124.40609,43.101336",
     "geom:latitude":43.101336,
     "geom:longitude":-124.40609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55230 Rosa Rd",
     "sg:city":"Bandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387749451,
-    "wof:lastmodified":1449057179,
+    "wof:lastmodified":1466774689,
     "wof:name":"Bandon Fabrication",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-124.40609,43.101336,-124.40609,43.101336],
-  "geometry": {"coordinates":[-124.40609,43.101336],"type":"Point"}
+  "bbox": [
+    -124.40609,
+    43.101336,
+    -124.40609,
+    43.101336
+],
+  "geometry": {"coordinates":[-124.40609000000001,43.101336],"type":"Point"}
 }

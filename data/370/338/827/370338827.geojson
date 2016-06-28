@@ -2,13 +2,14 @@
   "id": 370338827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.330531,44.071812,-121.330531,44.071812",
     "geom:latitude":44.071812,
     "geom:longitude":-121.330531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 NW City View Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370338827,
-    "wof:lastmodified":1449030270,
+    "wof:lastmodified":1466770572,
     "wof:name":"Central Oregon Symphony",
     "wof:parent_id":85876215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "orchestra"
     ]
 },
-  "bbox": [-121.330531,44.071812,-121.330531,44.071812],
-  "geometry": {"coordinates":[-121.330531,44.071812],"type":"Point"}
+  "bbox": [
+    -121.330531,
+    44.071812,
+    -121.330531,
+    44.071812
+],
+  "geometry": {"coordinates":[-121.33053099999999,44.071812],"type":"Point"}
 }

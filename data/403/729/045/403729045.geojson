@@ -2,13 +2,14 @@
   "id": 403729045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.009287,44.058811,-123.009287,44.058811",
     "geom:latitude":44.058811,
     "geom:longitude":-123.009287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 N St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403729045,
-    "wof:lastmodified":1449055315,
+    "wof:lastmodified":1466768455,
     "wof:name":"Wells Built Homes",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.009287,44.058811,-123.009287,44.058811],
+  "bbox": [
+    -123.009287,
+    44.058811,
+    -123.009287,
+    44.058811
+],
   "geometry": {"coordinates":[-123.009287,44.058811],"type":"Point"}
 }

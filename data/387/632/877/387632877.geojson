@@ -2,13 +2,14 @@
   "id": 387632877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.588455,43.648816,-123.588455,43.648816",
     "geom:latitude":43.648816,
     "geom:longitude":-123.588455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 Binder Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387632877,
-    "wof:lastmodified":1449058538,
+    "wof:lastmodified":1466774023,
     "wof:name":"John Dickenson Co",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.588455,43.648816,-123.588455,43.648816],
+  "bbox": [
+    -123.588455,
+    43.648816,
+    -123.588455,
+    43.648816
+],
   "geometry": {"coordinates":[-123.588455,43.648816],"type":"Point"}
 }

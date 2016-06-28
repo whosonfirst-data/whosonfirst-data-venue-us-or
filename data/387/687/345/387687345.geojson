@@ -2,13 +2,14 @@
   "id": 387687345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.889877,45.496237,-122.889877,45.496237",
     "geom:latitude":45.496237,
     "geom:longitude":-122.889877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20745 SW Tualatin Valley Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387687345,
-    "wof:lastmodified":1449057168,
+    "wof:lastmodified":1466774404,
     "wof:name":"Tune-A-Car",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.889877,45.496237,-122.889877,45.496237],
+  "bbox": [
+    -122.889877,
+    45.496237,
+    -122.889877,
+    45.496237
+],
   "geometry": {"coordinates":[-122.889877,45.496237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387548727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030724,44.057138,-123.030724,44.057138",
     "geom:latitude":44.057138,
     "geom:longitude":-123.030724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Centennial Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387548727,
-    "wof:lastmodified":1449058741,
+    "wof:lastmodified":1466773593,
     "wof:name":"Rarick General Contractor",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.030724,44.057138,-123.030724,44.057138],
-  "geometry": {"coordinates":[-123.030724,44.057138],"type":"Point"}
+  "bbox": [
+    -123.030724,
+    44.057138,
+    -123.030724,
+    44.057138
+],
+  "geometry": {"coordinates":[-123.03072400000001,44.057138],"type":"Point"}
 }

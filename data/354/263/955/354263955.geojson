@@ -2,13 +2,14 @@
   "id": 354263955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.946722,45.531263,-122.946722,45.531263",
     "geom:latitude":45.531263,
     "geom:longitude":-122.946722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"873 NE 34th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354263955,
-    "wof:lastmodified":1449067630,
+    "wof:lastmodified":1466768875,
     "wof:name":"Washington County Fair Grounds",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-122.946722,45.531263,-122.946722,45.531263],
-  "geometry": {"coordinates":[-122.946722,45.531263],"type":"Point"}
+  "bbox": [
+    -122.946722,
+    45.531263,
+    -122.946722,
+    45.531263
+],
+  "geometry": {"coordinates":[-122.94672199999999,45.531263],"type":"Point"}
 }

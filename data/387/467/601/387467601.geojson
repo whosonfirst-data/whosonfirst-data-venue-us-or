@@ -2,13 +2,14 @@
   "id": 387467601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113358,44.597246,-123.113358,44.597246",
     "geom:latitude":44.597246,
     "geom:longitude":-123.113358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5236 Pacific Blvd SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387467601,
-    "wof:lastmodified":1449059098,
+    "wof:lastmodified":1466773052,
     "wof:name":"P N I",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.113358,44.597246,-123.113358,44.597246],
-  "geometry": {"coordinates":[-123.113358,44.597246],"type":"Point"}
+  "bbox": [
+    -123.113358,
+    44.597246,
+    -123.113358,
+    44.597246
+],
+  "geometry": {"coordinates":[-123.11335800000001,44.597246],"type":"Point"}
 }

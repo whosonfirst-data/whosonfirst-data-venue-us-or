@@ -2,13 +2,14 @@
   "id": 387326643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.179642,45.228444,-123.179642,45.228444",
     "geom:latitude":45.228444,
     "geom:longitude":-123.179642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2731 NE Melody Way",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387326643,
-    "wof:lastmodified":1449057726,
+    "wof:lastmodified":1466771949,
     "wof:name":"Scotts Trucking",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.179642,45.228444,-123.179642,45.228444],
+  "bbox": [
+    -123.179642,
+    45.228444,
+    -123.179642,
+    45.228444
+],
   "geometry": {"coordinates":[-123.179642,45.228444],"type":"Point"}
 }

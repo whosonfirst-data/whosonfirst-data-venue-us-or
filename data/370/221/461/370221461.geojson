@@ -2,13 +2,14 @@
   "id": 370221461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.366312,43.213586,-123.366312,43.213586",
     "geom:latitude":43.213586,
     "geom:longitude":-123.366312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Harvard Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370221461,
-    "wof:lastmodified":1449030581,
+    "wof:lastmodified":1466768396,
     "wof:name":"Log Cabin Grocery & Deli",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-123.366312,43.213586,-123.366312,43.213586],
-  "geometry": {"coordinates":[-123.366312,43.213586],"type":"Point"}
+  "bbox": [
+    -123.366312,
+    43.213586,
+    -123.366312,
+    43.213586
+],
+  "geometry": {"coordinates":[-123.36631199999999,43.213586],"type":"Point"}
 }

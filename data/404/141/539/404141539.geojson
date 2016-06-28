@@ -2,13 +2,14 @@
   "id": 404141539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.291649,44.065555,-121.291649,44.065555",
     "geom:latitude":44.065555,
     "geom:longitude":-121.291649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 NE 10th St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404141539,
-    "wof:lastmodified":1449039444,
+    "wof:lastmodified":1466771396,
     "wof:name":"Bend Guest Home",
     "wof:parent_id":85876213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lodging"
     ]
 },
-  "bbox": [-121.291649,44.065555,-121.291649,44.065555],
-  "geometry": {"coordinates":[-121.291649,44.065555],"type":"Point"}
+  "bbox": [
+    -121.291649,
+    44.065555,
+    -121.291649,
+    44.065555
+],
+  "geometry": {"coordinates":[-121.29164900000001,44.065555],"type":"Point"}
 }

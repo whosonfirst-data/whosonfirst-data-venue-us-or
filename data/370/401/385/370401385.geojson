@@ -2,13 +2,14 @@
   "id": 370401385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.253073,44.591875,-123.253073,44.591875",
     "geom:latitude":44.591875,
     "geom:longitude":-123.253073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370401385,
-    "wof:lastmodified":1449031967,
+    "wof:lastmodified":1466771777,
     "wof:name":"Pneu Med Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-123.253073,44.591875,-123.253073,44.591875],
+  "bbox": [
+    -123.253073,
+    44.591875,
+    -123.253073,
+    44.591875
+],
   "geometry": {"coordinates":[-123.253073,44.591875],"type":"Point"}
 }

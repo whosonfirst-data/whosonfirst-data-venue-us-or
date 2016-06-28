@@ -2,13 +2,14 @@
   "id": 370999213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10226,44.031496,-123.10226,44.031496",
     "geom:latitude":44.031496,
     "geom:longitude":-123.10226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 W 25th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370999213,
-    "wof:lastmodified":1449032051,
+    "wof:lastmodified":1466775083,
     "wof:name":"Underdog Productions",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-123.10226,44.031496,-123.10226,44.031496],
+  "bbox": [
+    -123.10226,
+    44.031496,
+    -123.10226,
+    44.031496
+],
   "geometry": {"coordinates":[-123.10226,44.031496],"type":"Point"}
 }

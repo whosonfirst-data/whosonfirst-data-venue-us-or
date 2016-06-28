@@ -2,13 +2,14 @@
   "id": 370536681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.568014,45.145475,-122.568014,45.145475",
     "geom:latitude":45.145475,
     "geom:longitude":-122.568014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 E Main St",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370536681,
-    "wof:lastmodified":1449031097,
+    "wof:lastmodified":1466772580,
     "wof:name":"Pheasant Pointe Retirement",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "intermediate"
     ]
 },
-  "bbox": [-122.568014,45.145475,-122.568014,45.145475],
-  "geometry": {"coordinates":[-122.568014,45.145475],"type":"Point"}
+  "bbox": [
+    -122.568014,
+    45.145475,
+    -122.568014,
+    45.145475
+],
+  "geometry": {"coordinates":[-122.56801400000001,45.145475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370306781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.671287,45.468998,-122.671287,45.468998",
     "geom:latitude":45.468998,
     "geom:longitude":-122.671287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7720 SW Macadam Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370306781,
-    "wof:lastmodified":1449032313,
+    "wof:lastmodified":1466769941,
     "wof:name":"Galbreath & Associates",
     "wof:parent_id":85885301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-122.671287,45.468998,-122.671287,45.468998],
-  "geometry": {"coordinates":[-122.671287,45.468998],"type":"Point"}
+  "bbox": [
+    -122.671287,
+    45.468998,
+    -122.671287,
+    45.468998
+],
+  "geometry": {"coordinates":[-122.67128700000001,45.468998],"type":"Point"}
 }

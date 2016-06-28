@@ -2,13 +2,14 @@
   "id": 370693335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.535586,45.543604,-122.535586,45.543604",
     "geom:latitude":45.543604,
     "geom:longitude":-122.535586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12633 NE Morris St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370693335,
-    "wof:lastmodified":1449029276,
+    "wof:lastmodified":1466773544,
     "wof:name":"Northwest House Cleaning",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.535586,45.543604,-122.535586,45.543604],
+  "bbox": [
+    -122.535586,
+    45.543604,
+    -122.535586,
+    45.543604
+],
   "geometry": {"coordinates":[-122.535586,45.543604],"type":"Point"}
 }

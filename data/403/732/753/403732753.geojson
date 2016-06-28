@@ -2,13 +2,14 @@
   "id": 403732753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.621944,45.512118,-122.621944,45.512118",
     "geom:latitude":45.512118,
     "geom:longitude":-122.621944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 SE Hawthorne Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403732753,
-    "wof:lastmodified":1449056015,
+    "wof:lastmodified":1466768525,
     "wof:name":"Oregon Community Protection",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.621944,45.512118,-122.621944,45.512118],
+  "bbox": [
+    -122.621944,
+    45.512118,
+    -122.621944,
+    45.512118
+],
   "geometry": {"coordinates":[-122.621944,45.512118],"type":"Point"}
 }

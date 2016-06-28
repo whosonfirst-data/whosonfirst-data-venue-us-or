@@ -2,13 +2,14 @@
   "id": 387720793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.579895,45.465016,-122.579895,45.465016",
     "geom:latitude":45.465016,
     "geom:longitude":-122.579895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 SE Crystal Springs Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387720793,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1466774730,
     "wof:name":"US Post Office",
     "wof:parent_id":85827985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.579895,45.465016,-122.579895,45.465016],
-  "geometry": {"coordinates":[-122.579895,45.465016],"type":"Point"}
+  "bbox": [
+    -122.579895,
+    45.465016,
+    -122.579895,
+    45.465016
+],
+  "geometry": {"coordinates":[-122.57989499999999,45.465016],"type":"Point"}
 }

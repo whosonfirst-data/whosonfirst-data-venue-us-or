@@ -2,13 +2,14 @@
   "id": 387870915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.682141,45.525618,-122.682141,45.525618",
     "geom:latitude":45.525618,
     "geom:longitude":-122.682141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 NW 11th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387870915,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1466775289,
     "wof:name":"Marquam Group",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "software"
     ]
 },
-  "bbox": [-122.682141,45.525618,-122.682141,45.525618],
+  "bbox": [
+    -122.682141,
+    45.525618,
+    -122.682141,
+    45.525618
+],
   "geometry": {"coordinates":[-122.682141,45.525618],"type":"Point"}
 }

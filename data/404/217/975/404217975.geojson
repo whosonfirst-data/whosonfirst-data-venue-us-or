@@ -2,13 +2,14 @@
   "id": 404217975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.727792,45.43049,-122.727792,45.43049",
     "geom:latitude":45.43049,
     "geom:longitude":-122.727792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 Galen St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404217975,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466768421,
     "wof:name":"Place To Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.727792,45.43049,-122.727792,45.43049],
-  "geometry": {"coordinates":[-122.727792,45.43049],"type":"Point"}
+  "bbox": [
+    -122.727792,
+    45.43049,
+    -122.727792,
+    45.43049
+],
+  "geometry": {"coordinates":[-122.72779199999999,45.43049],"type":"Point"}
 }

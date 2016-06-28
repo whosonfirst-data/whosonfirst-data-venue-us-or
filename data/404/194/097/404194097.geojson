@@ -2,13 +2,14 @@
   "id": 404194097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109922,44.380909,-123.109922,44.380909",
     "geom:latitude":44.380909,
     "geom:longitude":-123.109922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 W 2nd St",
     "sg:city":"Halsey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404194097,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1466768004,
     "wof:name":"Lyn Seed Testing",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.109922,44.380909,-123.109922,44.380909],
+  "bbox": [
+    -123.109922,
+    44.380909,
+    -123.109922,
+    44.380909
+],
   "geometry": {"coordinates":[-123.109922,44.380909],"type":"Point"}
 }

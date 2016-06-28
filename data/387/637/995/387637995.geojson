@@ -2,13 +2,14 @@
   "id": 387637995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.104813,45.519714,-123.104813,45.519714",
     "geom:latitude":45.519714,
     "geom:longitude":-123.104813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Pacific Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387637995,
-    "wof:lastmodified":1449056115,
+    "wof:lastmodified":1466774150,
     "wof:name":"Cornerstone Pub & Grill",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.104813,45.519714,-123.104813,45.519714],
-  "geometry": {"coordinates":[-123.104813,45.519714],"type":"Point"}
+  "bbox": [
+    -123.104813,
+    45.519714,
+    -123.104813,
+    45.519714
+],
+  "geometry": {"coordinates":[-123.10481299999999,45.519714],"type":"Point"}
 }

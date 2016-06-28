@@ -2,13 +2,14 @@
   "id": 387610387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.845253,45.484887,-123.845253,45.484887",
     "geom:latitude":45.484887,
     "geom:longitude":-123.845253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Hwy 101 N",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387610387,
-    "wof:lastmodified":1449059860,
+    "wof:lastmodified":1466774100,
     "wof:name":"Tillamook Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "commerce"
     ]
 },
-  "bbox": [-123.845253,45.484887,-123.845253,45.484887],
+  "bbox": [
+    -123.845253,
+    45.484887,
+    -123.845253,
+    45.484887
+],
   "geometry": {"coordinates":[-123.845253,45.484887],"type":"Point"}
 }

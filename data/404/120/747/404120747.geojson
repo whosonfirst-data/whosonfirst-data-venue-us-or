@@ -2,13 +2,14 @@
   "id": 404120747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032615,44.918981,-123.032615,44.918981",
     "geom:latitude":44.918981,
     "geom:longitude":-123.032615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Berry St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404120747,
-    "wof:lastmodified":1449040146,
+    "wof:lastmodified":1466771000,
     "wof:name":"Pat Oliver",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.032615,44.918981,-123.032615,44.918981],
-  "geometry": {"coordinates":[-123.032615,44.918981],"type":"Point"}
+  "bbox": [
+    -123.032615,
+    44.918981,
+    -123.032615,
+    44.918981
+],
+  "geometry": {"coordinates":[-123.03261500000001,44.918981],"type":"Point"}
 }

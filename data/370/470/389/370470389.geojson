@@ -2,13 +2,14 @@
   "id": 370470389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.412805,45.108338,-123.412805,45.108338",
     "geom:latitude":45.108338,
     "geom:longitude":-123.412805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1066 NW Richard St",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370470389,
-    "wof:lastmodified":1449029913,
+    "wof:lastmodified":1466772020,
     "wof:name":"Purvis Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wood"
     ]
 },
-  "bbox": [-123.412805,45.108338,-123.412805,45.108338],
-  "geometry": {"coordinates":[-123.412805,45.108338],"type":"Point"}
+  "bbox": [
+    -123.412805,
+    45.108338,
+    -123.412805,
+    45.108338
+],
+  "geometry": {"coordinates":[-123.41280500000001,45.108338],"type":"Point"}
 }

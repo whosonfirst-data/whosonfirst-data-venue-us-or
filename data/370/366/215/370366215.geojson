@@ -2,13 +2,14 @@
   "id": 370366215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.157306,45.217925,-123.157306,45.217925",
     "geom:latitude":45.217925,
     "geom:longitude":-123.157306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 NE Walnut Ave",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370366215,
-    "wof:lastmodified":1449031566,
+    "wof:lastmodified":1466771133,
     "wof:name":"Riverside Construction",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.157306,45.217925,-123.157306,45.217925],
-  "geometry": {"coordinates":[-123.157306,45.217925],"type":"Point"}
+  "bbox": [
+    -123.157306,
+    45.217925,
+    -123.157306,
+    45.217925
+],
+  "geometry": {"coordinates":[-123.15730600000001,45.217925],"type":"Point"}
 }

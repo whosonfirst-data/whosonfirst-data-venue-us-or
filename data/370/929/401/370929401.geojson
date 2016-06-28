@@ -2,13 +2,14 @@
   "id": 370929401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.367865,44.549272,-123.367865,44.549272",
     "geom:latitude":44.549272,
     "geom:longitude":-123.367865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Houser Ln",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370929401,
-    "wof:lastmodified":1449030384,
+    "wof:lastmodified":1466774834,
     "wof:name":"Steve A Rust",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.367865,44.549272,-123.367865,44.549272],
-  "geometry": {"coordinates":[-123.367865,44.549272],"type":"Point"}
+  "bbox": [
+    -123.367865,
+    44.549272,
+    -123.367865,
+    44.549272
+],
+  "geometry": {"coordinates":[-123.36786499999999,44.549272],"type":"Point"}
 }

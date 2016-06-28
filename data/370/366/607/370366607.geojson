@@ -2,13 +2,14 @@
   "id": 370366607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.814907,45.485259,-122.814907,45.485259",
     "geom:latitude":45.485259,
     "geom:longitude":-122.814907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 SW Fairmount Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370366607,
-    "wof:lastmodified":1449031562,
+    "wof:lastmodified":1466771139,
     "wof:name":"Antix Technology Inc",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.814907,45.485259,-122.814907,45.485259],
-  "geometry": {"coordinates":[-122.814907,45.485259],"type":"Point"}
+  "bbox": [
+    -122.814907,
+    45.485259,
+    -122.814907,
+    45.485259
+],
+  "geometry": {"coordinates":[-122.81490700000001,45.485259],"type":"Point"}
 }

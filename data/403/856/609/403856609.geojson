@@ -2,13 +2,14 @@
   "id": 403856609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.629658,45.448086,-122.629658,45.448086",
     "geom:latitude":45.448086,
     "geom:longitude":-122.629658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10330 SE 32nd Ave",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403856609,
-    "wof:lastmodified":1449055019,
+    "wof:lastmodified":1466770903,
     "wof:name":"Providence Milwaukie Physical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-122.629658,45.448086,-122.629658,45.448086],
-  "geometry": {"coordinates":[-122.629658,45.448086],"type":"Point"}
+  "bbox": [
+    -122.629658,
+    45.448086,
+    -122.629658,
+    45.448086
+],
+  "geometry": {"coordinates":[-122.62965800000001,45.448086],"type":"Point"}
 }

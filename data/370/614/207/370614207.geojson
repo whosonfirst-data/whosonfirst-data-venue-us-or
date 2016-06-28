@@ -2,13 +2,14 @@
   "id": 370614207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.684294,45.524823,-122.684294,45.524823",
     "geom:latitude":45.524823,
     "geom:longitude":-122.684294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 NW 13th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370614207,
-    "wof:lastmodified":1449032575,
+    "wof:lastmodified":1466773105,
     "wof:name":"Lango Hansen Landscape Archs",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-122.684294,45.524823,-122.684294,45.524823],
-  "geometry": {"coordinates":[-122.684294,45.524823],"type":"Point"}
+  "bbox": [
+    -122.684294,
+    45.524823,
+    -122.684294,
+    45.524823
+],
+  "geometry": {"coordinates":[-122.68429399999999,45.524823],"type":"Point"}
 }

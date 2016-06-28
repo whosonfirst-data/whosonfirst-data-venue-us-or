@@ -2,13 +2,14 @@
   "id": 403804403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.607617,45.519979,-122.607617,45.519979",
     "geom:latitude":45.519979,
     "geom:longitude":-122.607617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 SE 55th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403804403,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1466769712,
     "wof:name":"Hannen Construction",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.607617,45.519979,-122.607617,45.519979],
+  "bbox": [
+    -122.607617,
+    45.519979,
+    -122.607617,
+    45.519979
+],
   "geometry": {"coordinates":[-122.607617,45.519979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387539057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.574919,45.521097,-122.574919,45.521097",
     "geom:latitude":45.521097,
     "geom:longitude":-122.574919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 SE 86th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387539057,
-    "wof:lastmodified":1449059996,
+    "wof:lastmodified":1466773546,
     "wof:name":"Pulse Recordings & Media",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-122.574919,45.521097,-122.574919,45.521097],
-  "geometry": {"coordinates":[-122.574919,45.521097],"type":"Point"}
+  "bbox": [
+    -122.574919,
+    45.521097,
+    -122.574919,
+    45.521097
+],
+  "geometry": {"coordinates":[-122.57491899999999,45.521097],"type":"Point"}
 }

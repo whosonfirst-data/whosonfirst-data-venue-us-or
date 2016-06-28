@@ -2,13 +2,14 @@
   "id": 370732615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.25937,44.599739,-123.25937,44.599739",
     "geom:latitude":44.599739,
     "geom:longitude":-123.25937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 NW Fox Pl",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370732615,
-    "wof:lastmodified":1449032604,
+    "wof:lastmodified":1466773700,
     "wof:name":"George Bailey",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.25937,44.599739,-123.25937,44.599739],
+  "bbox": [
+    -123.25937,
+    44.599739,
+    -123.25937,
+    44.599739
+],
   "geometry": {"coordinates":[-123.25937,44.599739],"type":"Point"}
 }

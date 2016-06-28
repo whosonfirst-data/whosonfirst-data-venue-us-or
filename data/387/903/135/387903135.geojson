@@ -2,13 +2,14 @@
   "id": 387903135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.260174,44.570579,-123.260174,44.570579",
     "geom:latitude":44.570579,
     "geom:longitude":-123.260174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 NW 5th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387903135,
-    "wof:lastmodified":1449056338,
+    "wof:lastmodified":1466775293,
     "wof:name":"Corvalla",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.260174,44.570579,-123.260174,44.570579],
-  "geometry": {"coordinates":[-123.260174,44.570579],"type":"Point"}
+  "bbox": [
+    -123.260174,
+    44.570579,
+    -123.260174,
+    44.570579
+],
+  "geometry": {"coordinates":[-123.26017400000001,44.570579],"type":"Point"}
 }

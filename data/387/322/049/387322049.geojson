@@ -2,13 +2,14 @@
   "id": 387322049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.923561,45.98813,-123.923561,45.98813",
     "geom:latitude":45.98813,
     "geom:longitude":-123.923561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Holladay Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387322049,
-    "wof:lastmodified":1449056073,
+    "wof:lastmodified":1466772059,
     "wof:name":"Shilo Inn Seaside East",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.923561,45.98813,-123.923561,45.98813],
-  "geometry": {"coordinates":[-123.923561,45.98813],"type":"Point"}
+  "bbox": [
+    -123.923561,
+    45.98813,
+    -123.923561,
+    45.98813
+],
+  "geometry": {"coordinates":[-123.92356100000001,45.98813],"type":"Point"}
 }

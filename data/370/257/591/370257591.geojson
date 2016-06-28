@@ -2,13 +2,14 @@
   "id": 370257591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.655565,45.522261,-122.655565,45.522261",
     "geom:latitude":45.522261,
     "geom:longitude":-122.655565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 SE 10th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370257591,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1466769027,
     "wof:name":"Cascade Embroidery Inc",
     "wof:parent_id":85893203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-122.655565,45.522261,-122.655565,45.522261],
+  "bbox": [
+    -122.655565,
+    45.522261,
+    -122.655565,
+    45.522261
+],
   "geometry": {"coordinates":[-122.655565,45.522261],"type":"Point"}
 }

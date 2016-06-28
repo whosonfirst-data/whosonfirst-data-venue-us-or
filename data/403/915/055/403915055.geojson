@@ -2,13 +2,14 @@
   "id": 403915055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.078105,43.999223,-123.078105,43.999223",
     "geom:latitude":43.999223,
     "geom:longitude":-123.078105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 W Hillside Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403915055,
-    "wof:lastmodified":1449055940,
+    "wof:lastmodified":1466767627,
     "wof:name":"Hillside House",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-123.078105,43.999223,-123.078105,43.999223],
-  "geometry": {"coordinates":[-123.078105,43.999223],"type":"Point"}
+  "bbox": [
+    -123.078105,
+    43.999223,
+    -123.078105,
+    43.999223
+],
+  "geometry": {"coordinates":[-123.07810499999999,43.999223],"type":"Point"}
 }

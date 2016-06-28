@@ -2,13 +2,14 @@
   "id": 370580287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.029352,44.923054,-123.029352,44.923054",
     "geom:latitude":44.923054,
     "geom:longitude":-123.029352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 13th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370580287,
-    "wof:lastmodified":1449031357,
+    "wof:lastmodified":1466772900,
     "wof:name":"Nelson Rental Properties",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.029352,44.923054,-123.029352,44.923054],
+  "bbox": [
+    -123.029352,
+    44.923054,
+    -123.029352,
+    44.923054
+],
   "geometry": {"coordinates":[-123.029352,44.923054],"type":"Point"}
 }

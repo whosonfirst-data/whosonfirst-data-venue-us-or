@@ -2,13 +2,14 @@
   "id": 370409923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.415103,45.510007,-122.415103,45.510007",
     "geom:latitude":45.510007,
     "geom:longitude":-122.415103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 NE 18th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370409923,
-    "wof:lastmodified":1449030476,
+    "wof:lastmodified":1466771721,
     "wof:name":"Farmington Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-122.415103,45.510007,-122.415103,45.510007],
+  "bbox": [
+    -122.415103,
+    45.510007,
+    -122.415103,
+    45.510007
+],
   "geometry": {"coordinates":[-122.415103,45.510007],"type":"Point"}
 }

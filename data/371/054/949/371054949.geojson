@@ -2,13 +2,14 @@
   "id": 371054949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.230665,45.212092,-123.230665,45.212092",
     "geom:latitude":45.212092,
     "geom:longitude":-123.230665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 NW Horizon Dr",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371054949,
-    "wof:lastmodified":1449049497,
+    "wof:lastmodified":1466768065,
     "wof:name":"Kevin Johnson",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.230665,45.212092,-123.230665,45.212092],
+  "bbox": [
+    -123.230665,
+    45.212092,
+    -123.230665,
+    45.212092
+],
   "geometry": {"coordinates":[-123.230665,45.212092],"type":"Point"}
 }

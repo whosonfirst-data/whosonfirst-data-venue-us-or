@@ -2,13 +2,14 @@
   "id": 403777801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.284129,45.142813,-123.284129,45.142813",
     "geom:latitude":45.142813,
     "geom:longitude":-123.284129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16460 SW Oldsville Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403777801,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1466769293,
     "wof:name":"Ramsby Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tract"
     ]
 },
-  "bbox": [-123.284129,45.142813,-123.284129,45.142813],
-  "geometry": {"coordinates":[-123.284129,45.142813],"type":"Point"}
+  "bbox": [
+    -123.284129,
+    45.142813,
+    -123.284129,
+    45.142813
+],
+  "geometry": {"coordinates":[-123.28412899999999,45.142813],"type":"Point"}
 }

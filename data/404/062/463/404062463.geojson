@@ -2,13 +2,14 @@
   "id": 404062463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.048497,45.331342,-118.048497,45.331342",
     "geom:latitude":45.331342,
     "geom:longitude":-118.048497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10906 S D St",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404062463,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1466769534,
     "wof:name":"Northwest Pump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-118.048497,45.331342,-118.048497,45.331342],
+  "bbox": [
+    -118.048497,
+    45.331342,
+    -118.048497,
+    45.331342
+],
   "geometry": {"coordinates":[-118.048497,45.331342],"type":"Point"}
 }

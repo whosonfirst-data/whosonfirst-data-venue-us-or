@@ -2,13 +2,14 @@
   "id": 387320939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.238534,42.03255,-124.238534,42.03255",
     "geom:latitude":42.03255,
     "geom:longitude":-124.238534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15546 US Hwy 101",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387320939,
-    "wof:lastmodified":1449057066,
+    "wof:lastmodified":1466772061,
     "wof:name":"John's Fresh Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-124.238534,42.03255,-124.238534,42.03255],
+  "bbox": [
+    -124.238534,
+    42.03255,
+    -124.238534,
+    42.03255
+],
   "geometry": {"coordinates":[-124.238534,42.03255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370288279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.814056,45.859392,-122.814056,45.859392",
     "geom:latitude":45.859392,
     "geom:longitude":-122.814056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Columbia Blvd",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370288279,
-    "wof:lastmodified":1449029443,
+    "wof:lastmodified":1466769610,
     "wof:name":"Pufferbelly Toys LLC",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.814056,45.859392,-122.814056,45.859392],
-  "geometry": {"coordinates":[-122.814056,45.859392],"type":"Point"}
+  "bbox": [
+    -122.814056,
+    45.859392,
+    -122.814056,
+    45.859392
+],
+  "geometry": {"coordinates":[-122.81405599999999,45.859392],"type":"Point"}
 }

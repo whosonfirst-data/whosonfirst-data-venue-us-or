@@ -2,13 +2,14 @@
   "id": 370272549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.695648,45.566762,-122.695648,45.566762",
     "geom:latitude":45.566762,
     "geom:longitude":-122.695648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6235 N Greeley Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370272549,
-    "wof:lastmodified":1449032229,
+    "wof:lastmodified":1466771465,
     "wof:name":"Architectural Recovery",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-122.695648,45.566762,-122.695648,45.566762],
-  "geometry": {"coordinates":[-122.695648,45.566762],"type":"Point"}
+  "bbox": [
+    -122.695648,
+    45.566762,
+    -122.695648,
+    45.566762
+],
+  "geometry": {"coordinates":[-122.69564800000001,45.566762],"type":"Point"}
 }

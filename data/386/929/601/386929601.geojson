@@ -2,13 +2,14 @@
   "id": 386929601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.870443,45.017559,-123.870443,45.017559",
     "geom:latitude":45.017559,
     "geom:longitude":-123.870443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4179 Salmon River Hwy",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386929601,
-    "wof:lastmodified":1449028746,
+    "wof:lastmodified":1466767150,
     "wof:name":"Bill Rannow Log Hauling",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.870443,45.017559,-123.870443,45.017559],
-  "geometry": {"coordinates":[-123.870443,45.017559],"type":"Point"}
+  "bbox": [
+    -123.870443,
+    45.017559,
+    -123.870443,
+    45.017559
+],
+  "geometry": {"coordinates":[-123.87044299999999,45.017559],"type":"Point"}
 }

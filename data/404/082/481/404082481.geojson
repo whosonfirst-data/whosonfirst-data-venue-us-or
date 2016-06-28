@@ -2,13 +2,14 @@
   "id": 404082481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.660553,45.536279,-122.660553,45.536279",
     "geom:latitude":45.536279,
     "geom:longitude":-122.660553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 NE Grand Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404082481,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1466769973,
     "wof:name":"Peters & Co",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-122.660553,45.536279,-122.660553,45.536279],
-  "geometry": {"coordinates":[-122.660553,45.536279],"type":"Point"}
+  "bbox": [
+    -122.660553,
+    45.536279,
+    -122.660553,
+    45.536279
+],
+  "geometry": {"coordinates":[-122.66055299999999,45.536279],"type":"Point"}
 }

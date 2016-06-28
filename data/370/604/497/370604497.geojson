@@ -2,13 +2,14 @@
   "id": 370604497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.579828,45.482976,-122.579828,45.482976",
     "geom:latitude":45.482976,
     "geom:longitude":-122.579828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8030 SE Harold St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370604497,
-    "wof:lastmodified":1449032084,
+    "wof:lastmodified":1466773067,
     "wof:name":"General Liquidators",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-122.579828,45.482976,-122.579828,45.482976],
-  "geometry": {"coordinates":[-122.579828,45.482976],"type":"Point"}
+  "bbox": [
+    -122.579828,
+    45.482976,
+    -122.579828,
+    45.482976
+],
+  "geometry": {"coordinates":[-122.57982800000001,45.482976],"type":"Point"}
 }

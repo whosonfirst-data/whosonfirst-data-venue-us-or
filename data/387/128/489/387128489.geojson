@@ -2,13 +2,14 @@
   "id": 387128489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.657064,45.400196,-122.657064,45.400196",
     "geom:latitude":45.400196,
     "geom:longitude":-122.657064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17421 Brookhurst Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387128489,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1466769339,
     "wof:name":"Yarbrough Services Inc",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-122.657064,45.400196,-122.657064,45.400196],
-  "geometry": {"coordinates":[-122.657064,45.400196],"type":"Point"}
+  "bbox": [
+    -122.657064,
+    45.400196,
+    -122.657064,
+    45.400196
+],
+  "geometry": {"coordinates":[-122.65706400000001,45.400196],"type":"Point"}
 }

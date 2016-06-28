@@ -2,13 +2,14 @@
   "id": 387364377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.60912,45.527129,-122.60912,45.527129",
     "geom:latitude":45.527129,
     "geom:longitude":-122.60912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5228 NE Hoyt St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387364377,
-    "wof:lastmodified":1449058245,
+    "wof:lastmodified":1466772366,
     "wof:name":"Providence Mental Health Svc",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.60912,45.527129,-122.60912,45.527129],
+  "bbox": [
+    -122.60912,
+    45.527129,
+    -122.60912,
+    45.527129
+],
   "geometry": {"coordinates":[-122.60912,45.527129],"type":"Point"}
 }

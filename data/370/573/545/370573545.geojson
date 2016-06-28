@@ -2,13 +2,14 @@
   "id": 370573545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.735254,45.501027,-122.735254,45.501027",
     "geom:latitude":45.501027,
     "geom:longitude":-122.735254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 SW 55th Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370573545,
-    "wof:lastmodified":1449031590,
+    "wof:lastmodified":1466772863,
     "wof:name":"A & R Cleaning",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.735254,45.501027,-122.735254,45.501027],
+  "bbox": [
+    -122.735254,
+    45.501027,
+    -122.735254,
+    45.501027
+],
   "geometry": {"coordinates":[-122.735254,45.501027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403823931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.784799,46.194898,-123.784799,46.194898",
     "geom:latitude":46.194898,
     "geom:longitude":-123.784799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4759 Cedar St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403823931,
-    "wof:lastmodified":1449055944,
+    "wof:lastmodified":1466770195,
     "wof:name":"Wee House Publishing",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-123.784799,46.194898,-123.784799,46.194898],
-  "geometry": {"coordinates":[-123.784799,46.194898],"type":"Point"}
+  "bbox": [
+    -123.784799,
+    46.194898,
+    -123.784799,
+    46.194898
+],
+  "geometry": {"coordinates":[-123.78479900000001,46.194898],"type":"Point"}
 }

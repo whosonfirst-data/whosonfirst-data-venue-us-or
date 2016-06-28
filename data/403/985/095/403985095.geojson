@@ -2,13 +2,14 @@
   "id": 403985095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.904179,45.481927,-123.904179,45.481927",
     "geom:latitude":45.481927,
     "geom:longitude":-123.904179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Bayocean Rd NW",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403985095,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466768876,
     "wof:name":"Eric Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.904179,45.481927,-123.904179,45.481927],
+  "bbox": [
+    -123.904179,
+    45.481927,
+    -123.904179,
+    45.481927
+],
   "geometry": {"coordinates":[-123.904179,45.481927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354278683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.273279,44.587142,-123.273279,44.587142",
     "geom:latitude":44.587142,
     "geom:longitude":-123.273279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 NW Circle Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354278683,
-    "wof:lastmodified":1449066882,
+    "wof:lastmodified":1466769169,
     "wof:name":"United States Goverment",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-123.273279,44.587142,-123.273279,44.587142],
+  "bbox": [
+    -123.273279,
+    44.587142,
+    -123.273279,
+    44.587142
+],
   "geometry": {"coordinates":[-123.273279,44.587142],"type":"Point"}
 }

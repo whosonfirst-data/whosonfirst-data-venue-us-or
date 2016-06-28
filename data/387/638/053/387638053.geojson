@@ -2,13 +2,14 @@
   "id": 387638053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.90788,44.048296,-122.90788,44.048296",
     "geom:latitude":44.048296,
     "geom:longitude":-122.90788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 67th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387638053,
-    "wof:lastmodified":1449056322,
+    "wof:lastmodified":1466774281,
     "wof:name":"Barb's Pet Palace",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-122.90788,44.048296,-122.90788,44.048296],
-  "geometry": {"coordinates":[-122.90788,44.048296],"type":"Point"}
+  "bbox": [
+    -122.90788,
+    44.048296,
+    -122.90788,
+    44.048296
+],
+  "geometry": {"coordinates":[-122.90788000000001,44.048296],"type":"Point"}
 }

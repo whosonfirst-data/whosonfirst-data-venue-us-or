@@ -2,13 +2,14 @@
   "id": 370761619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.965297,44.921352,-122.965297,44.921352",
     "geom:latitude":44.921352,
     "geom:longitude":-122.965297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4767 Burlwood Loop SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370761619,
-    "wof:lastmodified":1449031677,
+    "wof:lastmodified":1466773869,
     "wof:name":"Barton Wood Enterprises",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.965297,44.921352,-122.965297,44.921352],
-  "geometry": {"coordinates":[-122.965297,44.921352],"type":"Point"}
+  "bbox": [
+    -122.965297,
+    44.921352,
+    -122.965297,
+    44.921352
+],
+  "geometry": {"coordinates":[-122.96529700000001,44.921352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403805495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.902026,45.53725,-122.902026,45.53725",
     "geom:latitude":45.53725,
     "geom:longitude":-122.902026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7280 NW Butler St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403805495,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1466769742,
     "wof:name":"G I Joes Sports & Auto Stores",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.902026,45.53725,-122.902026,45.53725],
-  "geometry": {"coordinates":[-122.902026,45.53725],"type":"Point"}
+  "bbox": [
+    -122.902026,
+    45.53725,
+    -122.902026,
+    45.53725
+],
+  "geometry": {"coordinates":[-122.90202600000001,45.53725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.645738,45.498596,-122.645738,45.498596",
     "geom:latitude":45.498596,
     "geom:longitude":-122.645738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3383 SE 20th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387439777,
-    "wof:lastmodified":1449057149,
+    "wof:lastmodified":1466772855,
     "wof:name":"Torgersen Designs Inc",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-122.645738,45.498596,-122.645738,45.498596],
-  "geometry": {"coordinates":[-122.645738,45.498596],"type":"Point"}
+  "bbox": [
+    -122.645738,
+    45.498596,
+    -122.645738,
+    45.498596
+],
+  "geometry": {"coordinates":[-122.64573799999999,45.498596],"type":"Point"}
 }

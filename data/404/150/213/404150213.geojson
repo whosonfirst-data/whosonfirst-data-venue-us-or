@@ -2,13 +2,14 @@
   "id": 404150213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.346278,42.408698,-123.346278,42.408698",
     "geom:latitude":42.408698,
     "geom:longitude":-123.346278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2476 Williams Hwy",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404150213,
-    "wof:lastmodified":1449039102,
+    "wof:lastmodified":1466767250,
     "wof:name":"Computer-Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.346278,42.408698,-123.346278,42.408698],
+  "bbox": [
+    -123.346278,
+    42.408698,
+    -123.346278,
+    42.408698
+],
   "geometry": {"coordinates":[-123.346278,42.408698],"type":"Point"}
 }

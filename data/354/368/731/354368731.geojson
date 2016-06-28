@@ -2,13 +2,14 @@
   "id": 354368731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101341,44.037835,-123.101341,44.037835",
     "geom:latitude":44.037835,
     "geom:longitude":-123.101341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Jefferson St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354368731,
-    "wof:lastmodified":1449066327,
+    "wof:lastmodified":1466770741,
     "wof:name":"Two Rivers Health Ctr",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.101341,44.037835,-123.101341,44.037835],
-  "geometry": {"coordinates":[-123.101341,44.037835],"type":"Point"}
+  "bbox": [
+    -123.101341,
+    44.037835,
+    -123.101341,
+    44.037835
+],
+  "geometry": {"coordinates":[-123.10134100000001,44.037835],"type":"Point"}
 }

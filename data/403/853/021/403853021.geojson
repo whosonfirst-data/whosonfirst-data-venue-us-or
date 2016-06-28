@@ -2,13 +2,14 @@
   "id": 403853021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.519278,45.541433,-122.519278,45.541433",
     "geom:latitude":45.541433,
     "geom:longitude":-122.519278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 NE 139th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403853021,
-    "wof:lastmodified":1449055168,
+    "wof:lastmodified":1466770834,
     "wof:name":"Koch Painting",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.519278,45.541433,-122.519278,45.541433],
+  "bbox": [
+    -122.519278,
+    45.541433,
+    -122.519278,
+    45.541433
+],
   "geometry": {"coordinates":[-122.519278,45.541433],"type":"Point"}
 }

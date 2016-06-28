@@ -2,13 +2,14 @@
   "id": 403831829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.404978,44.510525,-123.404978,44.510525",
     "geom:latitude":44.510525,
     "geom:longitude":-123.404978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32158 Gerding Ln",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403831829,
-    "wof:lastmodified":1449055426,
+    "wof:lastmodified":1466770389,
     "wof:name":"Jerry Gerding Logging",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.404978,44.510525,-123.404978,44.510525],
+  "bbox": [
+    -123.404978,
+    44.510525,
+    -123.404978,
+    44.510525
+],
   "geometry": {"coordinates":[-123.404978,44.510525],"type":"Point"}
 }

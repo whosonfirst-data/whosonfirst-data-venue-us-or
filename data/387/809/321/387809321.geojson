@@ -2,13 +2,14 @@
   "id": 387809321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.348346,44.897897,-123.348346,44.897897",
     "geom:latitude":44.897897,
     "geom:longitude":-123.348346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2557 Liberty Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387809321,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1466775030,
     "wof:name":"J K Enterprises",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-123.348346,44.897897,-123.348346,44.897897],
-  "geometry": {"coordinates":[-123.348346,44.897897],"type":"Point"}
+  "bbox": [
+    -123.348346,
+    44.897897,
+    -123.348346,
+    44.897897
+],
+  "geometry": {"coordinates":[-123.34834600000001,44.897897],"type":"Point"}
 }

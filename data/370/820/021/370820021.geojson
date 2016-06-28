@@ -2,13 +2,14 @@
   "id": 370820021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192899,45.223817,-123.192899,45.223817",
     "geom:latitude":45.223817,
     "geom:longitude":-123.192899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 NE Hwy 99W",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370820021,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1466774198,
     "wof:name":"OMMF",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-123.192899,45.223817,-123.192899,45.223817],
+  "bbox": [
+    -123.192899,
+    45.223817,
+    -123.192899,
+    45.223817
+],
   "geometry": {"coordinates":[-123.192899,45.223817],"type":"Point"}
 }

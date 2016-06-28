@@ -2,13 +2,14 @@
   "id": 387523725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.149724,44.740811,-122.149724,44.740811",
     "geom:latitude":44.740811,
     "geom:longitude":-122.149724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Breitenbush Rd",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387523725,
-    "wof:lastmodified":1449058299,
+    "wof:lastmodified":1466773407,
     "wof:name":"Rivers Run",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-122.149724,44.740811,-122.149724,44.740811],
-  "geometry": {"coordinates":[-122.149724,44.740811],"type":"Point"}
+  "bbox": [
+    -122.149724,
+    44.740811,
+    -122.149724,
+    44.740811
+],
+  "geometry": {"coordinates":[-122.14972400000001,44.740811],"type":"Point"}
 }

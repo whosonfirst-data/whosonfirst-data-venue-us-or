@@ -2,13 +2,14 @@
   "id": 387541781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.201164,44.265228,-121.201164,44.265228",
     "geom:latitude":44.265228,
     "geom:longitude":-121.201164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 SW 28th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387541781,
-    "wof:lastmodified":1449056528,
+    "wof:lastmodified":1466773562,
     "wof:name":"Car Guy",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-121.201164,44.265228,-121.201164,44.265228],
-  "geometry": {"coordinates":[-121.201164,44.265228],"type":"Point"}
+  "bbox": [
+    -121.201164,
+    44.265228,
+    -121.201164,
+    44.265228
+],
+  "geometry": {"coordinates":[-121.20116400000001,44.265228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370345459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.452706,45.3763,-122.452706,45.3763",
     "geom:latitude":45.3763,
     "geom:longitude":-122.452706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20125 S Ford Ct",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370345459,
-    "wof:lastmodified":1449032207,
+    "wof:lastmodified":1466770707,
     "wof:name":"CJ Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transportation"
     ]
 },
-  "bbox": [-122.452706,45.3763,-122.452706,45.3763],
-  "geometry": {"coordinates":[-122.452706,45.3763],"type":"Point"}
+  "bbox": [
+    -122.452706,
+    45.3763,
+    -122.452706,
+    45.3763
+],
+  "geometry": {"coordinates":[-122.45270600000001,45.3763],"type":"Point"}
 }

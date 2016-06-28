@@ -2,13 +2,14 @@
   "id": 387562125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.592283,45.516228,-122.592283,45.516228",
     "geom:latitude":45.516228,
     "geom:longitude":-122.592283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 SE 69th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387562125,
-    "wof:lastmodified":1449058126,
+    "wof:lastmodified":1466773709,
     "wof:name":"Allen & None Designs",
     "wof:parent_id":85871481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-122.592283,45.516228,-122.592283,45.516228],
-  "geometry": {"coordinates":[-122.592283,45.516228],"type":"Point"}
+  "bbox": [
+    -122.592283,
+    45.516228,
+    -122.592283,
+    45.516228
+],
+  "geometry": {"coordinates":[-122.59228299999999,45.516228],"type":"Point"}
 }

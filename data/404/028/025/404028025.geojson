@@ -2,13 +2,14 @@
   "id": 404028025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.96335,44.050346,-122.96335,44.050346",
     "geom:latitude":44.050346,
     "geom:longitude":-122.96335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 42nd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404028025,
-    "wof:lastmodified":1449039788,
+    "wof:lastmodified":1466768938,
     "wof:name":"42nd Street Ctr Mini Storage",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-122.96335,44.050346,-122.96335,44.050346],
-  "geometry": {"coordinates":[-122.96335,44.050346],"type":"Point"}
+  "bbox": [
+    -122.96335,
+    44.050346,
+    -122.96335,
+    44.050346
+],
+  "geometry": {"coordinates":[-122.96335000000001,44.050346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387649979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.363116,44.540099,-123.363116,44.540099",
     "geom:latitude":44.540099,
     "geom:longitude":-123.363116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 Main St",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387649979,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466774228,
     "wof:name":"Edward Jones 22392",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-123.363116,44.540099,-123.363116,44.540099],
-  "geometry": {"coordinates":[-123.363116,44.540099],"type":"Point"}
+  "bbox": [
+    -123.363116,
+    44.540099,
+    -123.363116,
+    44.540099
+],
+  "geometry": {"coordinates":[-123.36311600000001,44.540099],"type":"Point"}
 }

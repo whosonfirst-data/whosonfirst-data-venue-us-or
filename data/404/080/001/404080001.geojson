@@ -2,13 +2,14 @@
   "id": 404080001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.053638,44.65046,-124.053638,44.65046",
     "geom:latitude":44.65046,
     "geom:longitude":-124.053638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 N Coast Hwy",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404080001,
-    "wof:lastmodified":1449040299,
+    "wof:lastmodified":1466771477,
     "wof:name":"TLC Federal Credit Union",
     "wof:parent_id":85868143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.053638,44.65046,-124.053638,44.65046],
-  "geometry": {"coordinates":[-124.053638,44.65046],"type":"Point"}
+  "bbox": [
+    -124.053638,
+    44.65046,
+    -124.053638,
+    44.65046
+],
+  "geometry": {"coordinates":[-124.05363800000001,44.65046],"type":"Point"}
 }

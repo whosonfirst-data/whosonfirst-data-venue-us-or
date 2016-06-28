@@ -2,13 +2,14 @@
   "id": 387818609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.614328,45.570608,-122.614328,45.570608",
     "geom:latitude":45.570608,
     "geom:longitude":-122.614328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4334 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387818609,
-    "wof:lastmodified":1449057948,
+    "wof:lastmodified":1466775160,
     "wof:name":"Betts Spring Co",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spring"
     ]
 },
-  "bbox": [-122.614328,45.570608,-122.614328,45.570608],
+  "bbox": [
+    -122.614328,
+    45.570608,
+    -122.614328,
+    45.570608
+],
   "geometry": {"coordinates":[-122.614328,45.570608],"type":"Point"}
 }

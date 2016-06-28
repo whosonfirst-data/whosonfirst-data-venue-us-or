@@ -2,13 +2,14 @@
   "id": 370307395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.632413,45.514534,-122.632413,45.514534",
     "geom:latitude":45.514534,
     "geom:longitude":-122.632413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 SE 32nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370307395,
-    "wof:lastmodified":1449029972,
+    "wof:lastmodified":1466769953,
     "wof:name":"Sequoia Software Inc",
     "wof:parent_id":85893157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.632413,45.514534,-122.632413,45.514534],
+  "bbox": [
+    -122.632413,
+    45.514534,
+    -122.632413,
+    45.514534
+],
   "geometry": {"coordinates":[-122.632413,45.514534],"type":"Point"}
 }

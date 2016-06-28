@@ -2,13 +2,14 @@
   "id": 403867651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.066837,44.064649,-123.066837,44.064649",
     "geom:latitude":44.064649,
     "geom:longitude":-123.066837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 Sorrel Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403867651,
-    "wof:lastmodified":1449055211,
+    "wof:lastmodified":1466771112,
     "wof:name":"Wm McGinnis Navigation",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.066837,44.064649,-123.066837,44.064649],
-  "geometry": {"coordinates":[-123.066837,44.064649],"type":"Point"}
+  "bbox": [
+    -123.066837,
+    44.064649,
+    -123.066837,
+    44.064649
+],
+  "geometry": {"coordinates":[-123.06683700000001,44.064649],"type":"Point"}
 }

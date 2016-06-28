@@ -2,13 +2,14 @@
   "id": 403869647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.705515,45.272509,-122.705515,45.272509",
     "geom:latitude":45.272509,
     "geom:longitude":-122.705515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 NW 13th Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403869647,
-    "wof:lastmodified":1449055856,
+    "wof:lastmodified":1466771156,
     "wof:name":"A Vision For You",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-122.705515,45.272509,-122.705515,45.272509],
-  "geometry": {"coordinates":[-122.705515,45.272509],"type":"Point"}
+  "bbox": [
+    -122.705515,
+    45.272509,
+    -122.705515,
+    45.272509
+],
+  "geometry": {"coordinates":[-122.70551500000001,45.272509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371156995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.786651,45.017065,-122.786651,45.017065",
     "geom:latitude":45.017065,
     "geom:longitude":-122.786651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N 1st St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371156995,
-    "wof:lastmodified":1449049247,
+    "wof:lastmodified":1466769813,
     "wof:name":"Scott's Mechanical",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pump"
     ]
 },
-  "bbox": [-122.786651,45.017065,-122.786651,45.017065],
-  "geometry": {"coordinates":[-122.786651,45.017065],"type":"Point"}
+  "bbox": [
+    -122.786651,
+    45.017065,
+    -122.786651,
+    45.017065
+],
+  "geometry": {"coordinates":[-122.78665100000001,45.017065],"type":"Point"}
 }

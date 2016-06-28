@@ -2,13 +2,14 @@
   "id": 387389915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.609052,45.492651,-122.609052,45.492651",
     "geom:latitude":45.492651,
     "geom:longitude":-122.609052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 SE Boise St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387389915,
-    "wof:lastmodified":1449059138,
+    "wof:lastmodified":1466772527,
     "wof:name":"Smith Real Estate",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-122.609052,45.492651,-122.609052,45.492651],
-  "geometry": {"coordinates":[-122.609052,45.492651],"type":"Point"}
+  "bbox": [
+    -122.609052,
+    45.492651,
+    -122.609052,
+    45.492651
+],
+  "geometry": {"coordinates":[-122.60905200000001,45.492651],"type":"Point"}
 }

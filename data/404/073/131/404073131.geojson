@@ -2,13 +2,14 @@
   "id": 404073131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.957088,45.533255,-122.957088,45.533255",
     "geom:latitude":45.533255,
     "geom:longitude":-122.957088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1449 NE 25th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404073131,
-    "wof:lastmodified":1449039174,
+    "wof:lastmodified":1466769792,
     "wof:name":"West Coast Gutter Svc",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gutter"
     ]
 },
-  "bbox": [-122.957088,45.533255,-122.957088,45.533255],
+  "bbox": [
+    -122.957088,
+    45.533255,
+    -122.957088,
+    45.533255
+],
   "geometry": {"coordinates":[-122.957088,45.533255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387395993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.573906,45.516066,-122.573906,45.516066",
     "geom:latitude":45.516066,
     "geom:longitude":-122.573906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8724 SE Yamhill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387395993,
-    "wof:lastmodified":1449059366,
+    "wof:lastmodified":1466772468,
     "wof:name":"Ochsner Electric Inc",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.573906,45.516066,-122.573906,45.516066],
-  "geometry": {"coordinates":[-122.573906,45.516066],"type":"Point"}
+  "bbox": [
+    -122.573906,
+    45.516066,
+    -122.573906,
+    45.516066
+],
+  "geometry": {"coordinates":[-122.57390599999999,45.516066],"type":"Point"}
 }

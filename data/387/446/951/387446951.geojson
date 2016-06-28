@@ -2,13 +2,14 @@
   "id": 387446951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.344624,43.206598,-123.344624,43.206598",
     "geom:latitude":43.206598,
     "geom:longitude":-123.344624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 SE Lane Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387446951,
-    "wof:lastmodified":1449059590,
+    "wof:lastmodified":1466772760,
     "wof:name":"Pioneer Property Management",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-123.344624,43.206598,-123.344624,43.206598],
+  "bbox": [
+    -123.344624,
+    43.206598,
+    -123.344624,
+    43.206598
+],
   "geometry": {"coordinates":[-123.344624,43.206598],"type":"Point"}
 }

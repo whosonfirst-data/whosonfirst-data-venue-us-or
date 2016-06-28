@@ -2,13 +2,14 @@
   "id": 370820355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.210526,44.275626,-123.210526,44.275626",
     "geom:latitude":44.275626,
     "geom:longitude":-123.210526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96281 Howard Ln",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370820355,
-    "wof:lastmodified":1449030830,
+    "wof:lastmodified":1466774093,
     "wof:name":"Heavens Half Acre",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.210526,44.275626,-123.210526,44.275626],
+  "bbox": [
+    -123.210526,
+    44.275626,
+    -123.210526,
+    44.275626
+],
   "geometry": {"coordinates":[-123.210526,44.275626],"type":"Point"}
 }

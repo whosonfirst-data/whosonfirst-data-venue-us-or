@@ -2,13 +2,14 @@
   "id": 370865623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.34538,43.208081,-123.34538,43.208081",
     "geom:latitude":43.208081,
     "geom:longitude":-123.34538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 SE Cass Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370865623,
-    "wof:lastmodified":1449031650,
+    "wof:lastmodified":1466774485,
     "wof:name":"C & M Tavern",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-123.34538,43.208081,-123.34538,43.208081],
-  "geometry": {"coordinates":[-123.34538,43.208081],"type":"Point"}
+  "bbox": [
+    -123.34538,
+    43.208081,
+    -123.34538,
+    43.208081
+],
+  "geometry": {"coordinates":[-123.34538000000001,43.208081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370256843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.318093,44.917357,-123.318093,44.917357",
     "geom:latitude":44.917357,
     "geom:longitude":-123.318093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 SW Ash St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370256843,
-    "wof:lastmodified":1449031671,
+    "wof:lastmodified":1466769013,
     "wof:name":"Dallas School District 2",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "administrative"
     ]
 },
-  "bbox": [-123.318093,44.917357,-123.318093,44.917357],
+  "bbox": [
+    -123.318093,
+    44.917357,
+    -123.318093,
+    44.917357
+],
   "geometry": {"coordinates":[-123.318093,44.917357],"type":"Point"}
 }

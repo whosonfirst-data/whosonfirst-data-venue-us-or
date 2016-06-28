@@ -2,13 +2,14 @@
   "id": 386985373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.251355,44.56333,-123.251355,44.56333",
     "geom:latitude":44.56333,
     "geom:longitude":-123.251355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33900 SE Roche Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386985373,
-    "wof:lastmodified":1449028776,
+    "wof:lastmodified":1466767430,
     "wof:name":"Flomatcher Inc",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instr"
     ]
 },
-  "bbox": [-123.251355,44.56333,-123.251355,44.56333],
+  "bbox": [
+    -123.251355,
+    44.56333,
+    -123.251355,
+    44.56333
+],
   "geometry": {"coordinates":[-123.251355,44.56333],"type":"Point"}
 }

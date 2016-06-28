@@ -2,13 +2,14 @@
   "id": 386958237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.025756,44.995049,-123.025756,44.995049",
     "geom:latitude":44.995049,
     "geom:longitude":-123.025756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 5th Pl NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386958237,
-    "wof:lastmodified":1449028876,
+    "wof:lastmodified":1466767314,
     "wof:name":"Keizer Apartments",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.025756,44.995049,-123.025756,44.995049],
+  "bbox": [
+    -123.025756,
+    44.995049,
+    -123.025756,
+    44.995049
+],
   "geometry": {"coordinates":[-123.025756,44.995049],"type":"Point"}
 }

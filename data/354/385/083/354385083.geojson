@@ -2,13 +2,14 @@
   "id": 354385083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.04148,44.938369,-123.04148,44.938369",
     "geom:latitude":44.938369,
     "geom:longitude":-123.04148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354385083,
-    "wof:lastmodified":1449066959,
+    "wof:lastmodified":1466771498,
     "wof:name":"Salem Conference Center",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "facility"
     ]
 },
-  "bbox": [-123.04148,44.938369,-123.04148,44.938369],
-  "geometry": {"coordinates":[-123.04148,44.938369],"type":"Point"}
+  "bbox": [
+    -123.04148,
+    44.938369,
+    -123.04148,
+    44.938369
+],
+  "geometry": {"coordinates":[-123.04148000000001,44.938369],"type":"Point"}
 }

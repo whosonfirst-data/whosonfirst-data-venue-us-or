@@ -2,13 +2,14 @@
   "id": 370208523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.790399,45.344553,-122.790399,45.344553",
     "geom:latitude":45.344553,
     "geom:longitude":-122.790399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10685 SW Clay St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370208523,
-    "wof:lastmodified":1449029482,
+    "wof:lastmodified":1466768178,
     "wof:name":"Bull Mountain Properties",
     "wof:parent_id":85852343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.790399,45.344553,-122.790399,45.344553],
-  "geometry": {"coordinates":[-122.790399,45.344553],"type":"Point"}
+  "bbox": [
+    -122.790399,
+    45.344553,
+    -122.790399,
+    45.344553
+],
+  "geometry": {"coordinates":[-122.79039899999999,45.344553],"type":"Point"}
 }

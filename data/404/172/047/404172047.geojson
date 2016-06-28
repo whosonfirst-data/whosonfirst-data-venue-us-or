@@ -2,13 +2,14 @@
   "id": 404172047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.950369,45.315108,-122.950369,45.315108",
     "geom:latitude":45.315108,
     "geom:longitude":-122.950369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3195 Crestview Dr",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404172047,
-    "wof:lastmodified":1449039521,
+    "wof:lastmodified":1466767624,
     "wof:name":"Boyes Janitorial",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.950369,45.315108,-122.950369,45.315108],
-  "geometry": {"coordinates":[-122.950369,45.315108],"type":"Point"}
+  "bbox": [
+    -122.950369,
+    45.315108,
+    -122.950369,
+    45.315108
+],
+  "geometry": {"coordinates":[-122.95036899999999,45.315108],"type":"Point"}
 }

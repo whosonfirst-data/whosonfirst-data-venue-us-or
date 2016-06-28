@@ -2,13 +2,14 @@
   "id": 370508385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.100693,45.312601,-118.100693,45.312601",
     "geom:latitude":45.312601,
     "geom:longitude":-118.100693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 A Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370508385,
-    "wof:lastmodified":1449030969,
+    "wof:lastmodified":1466772231,
     "wof:name":"Blue Mountain Pathology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-118.100693,45.312601,-118.100693,45.312601],
-  "geometry": {"coordinates":[-118.100693,45.312601],"type":"Point"}
+  "bbox": [
+    -118.100693,
+    45.312601,
+    -118.100693,
+    45.312601
+],
+  "geometry": {"coordinates":[-118.10069300000001,45.312601],"type":"Point"}
 }

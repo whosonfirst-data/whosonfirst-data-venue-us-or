@@ -2,13 +2,14 @@
   "id": 403846807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.326027,44.9144,-123.326027,44.9144",
     "geom:latitude":44.9144,
     "geom:longitude":-123.326027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1493 SW Brown St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403846807,
-    "wof:lastmodified":1449055671,
+    "wof:lastmodified":1466770711,
     "wof:name":"Phil Maddux Trucking",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.326027,44.9144,-123.326027,44.9144],
+  "bbox": [
+    -123.326027,
+    44.9144,
+    -123.326027,
+    44.9144
+],
   "geometry": {"coordinates":[-123.326027,44.9144],"type":"Point"}
 }

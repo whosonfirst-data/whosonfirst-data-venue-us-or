@@ -2,13 +2,14 @@
   "id": 387867257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.512081,45.424779,-122.512081,45.424779",
     "geom:latitude":45.424779,
     "geom:longitude":-122.512081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14674 SE Sunnyside Rd",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387867257,
-    "wof:lastmodified":1449057750,
+    "wof:lastmodified":1466775197,
     "wof:name":"TPC Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.512081,45.424779,-122.512081,45.424779],
-  "geometry": {"coordinates":[-122.512081,45.424779],"type":"Point"}
+  "bbox": [
+    -122.512081,
+    45.424779,
+    -122.512081,
+    45.424779
+],
+  "geometry": {"coordinates":[-122.51208099999999,45.424779],"type":"Point"}
 }

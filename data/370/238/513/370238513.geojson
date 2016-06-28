@@ -2,13 +2,14 @@
   "id": 370238513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.767756,45.386535,-122.767756,45.386535",
     "geom:latitude":45.386535,
     "geom:longitude":-122.767756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8975 SW Sweek Dr",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370238513,
-    "wof:lastmodified":1449030351,
+    "wof:lastmodified":1466768681,
     "wof:name":"Morris Technical Solutions",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-122.767756,45.386535,-122.767756,45.386535],
-  "geometry": {"coordinates":[-122.767756,45.386535],"type":"Point"}
+  "bbox": [
+    -122.767756,
+    45.386535,
+    -122.767756,
+    45.386535
+],
+  "geometry": {"coordinates":[-122.76775600000001,45.386535],"type":"Point"}
 }

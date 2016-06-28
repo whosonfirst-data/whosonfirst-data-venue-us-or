@@ -2,13 +2,14 @@
   "id": 403941047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.108229,44.054426,-123.108229,44.054426",
     "geom:latitude":44.054426,
     "geom:longitude":-123.108229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1093 W 5th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403941047,
-    "wof:lastmodified":1449055438,
+    "wof:lastmodified":1466768101,
     "wof:name":"Mr Clean",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-123.108229,44.054426,-123.108229,44.054426],
-  "geometry": {"coordinates":[-123.108229,44.054426],"type":"Point"}
+  "bbox": [
+    -123.108229,
+    44.054426,
+    -123.108229,
+    44.054426
+],
+  "geometry": {"coordinates":[-123.10822899999999,44.054426],"type":"Point"}
 }

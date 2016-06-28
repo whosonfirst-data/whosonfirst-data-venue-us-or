@@ -2,13 +2,14 @@
   "id": 370898031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101317,44.012352,-123.101317,44.012352",
     "geom:latitude":44.012352,
     "geom:longitude":-123.101317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3857 Monroe St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370898031,
-    "wof:lastmodified":1449028998,
+    "wof:lastmodified":1466774654,
     "wof:name":"Glitzy Girls 2",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.101317,44.012352,-123.101317,44.012352],
-  "geometry": {"coordinates":[-123.101317,44.012352],"type":"Point"}
+  "bbox": [
+    -123.101317,
+    44.012352,
+    -123.101317,
+    44.012352
+],
+  "geometry": {"coordinates":[-123.10131699999999,44.012352],"type":"Point"}
 }

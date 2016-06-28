@@ -2,13 +2,14 @@
   "id": 387965471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.259941,44.564089,-123.259941,44.564089",
     "geom:latitude":44.564089,
     "geom:longitude":-123.259941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 SW 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387965471,
-    "wof:lastmodified":1449058768,
+    "wof:lastmodified":1466775616,
     "wof:name":"Community Alliance",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.259941,44.564089,-123.259941,44.564089],
+  "bbox": [
+    -123.259941,
+    44.564089,
+    -123.259941,
+    44.564089
+],
   "geometry": {"coordinates":[-123.259941,44.564089],"type":"Point"}
 }

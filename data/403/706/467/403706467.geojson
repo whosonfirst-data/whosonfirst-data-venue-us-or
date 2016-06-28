@@ -2,13 +2,14 @@
   "id": 403706467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.900675,42.5347,-122.900675,42.5347",
     "geom:latitude":42.5347,
     "geom:longitude":-122.900675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5077 Beagle Rd",
     "sg:city":"White City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403706467,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466767894,
     "wof:name":"Radar Trucking",
     "wof:parent_id":85868985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.900675,42.5347,-122.900675,42.5347],
-  "geometry": {"coordinates":[-122.900675,42.5347],"type":"Point"}
+  "bbox": [
+    -122.900675,
+    42.5347,
+    -122.900675,
+    42.5347
+],
+  "geometry": {"coordinates":[-122.90067500000001,42.5347],"type":"Point"}
 }

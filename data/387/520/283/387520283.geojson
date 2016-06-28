@@ -2,13 +2,14 @@
   "id": 387520283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.082253,45.589361,-123.082253,45.589361",
     "geom:latitude":45.589361,
     "geom:longitude":-123.082253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9456 NW Roy Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387520283,
-    "wof:lastmodified":1449057353,
+    "wof:lastmodified":1466773378,
     "wof:name":"Duyck & Vandehey Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.082253,45.589361,-123.082253,45.589361],
-  "geometry": {"coordinates":[-123.082253,45.589361],"type":"Point"}
+  "bbox": [
+    -123.082253,
+    45.589361,
+    -123.082253,
+    45.589361
+],
+  "geometry": {"coordinates":[-123.08225299999999,45.589361],"type":"Point"}
 }

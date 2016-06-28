@@ -2,13 +2,14 @@
   "id": 371154853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.110121,44.544396,-123.110121,44.544396",
     "geom:latitude":44.544396,
     "geom:longitude":-123.110121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33030 Hwy 99E",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371154853,
-    "wof:lastmodified":1449050156,
+    "wof:lastmodified":1466769779,
     "wof:name":"J & H Automotive Inc",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-123.110121,44.544396,-123.110121,44.544396],
-  "geometry": {"coordinates":[-123.110121,44.544396],"type":"Point"}
+  "bbox": [
+    -123.110121,
+    44.544396,
+    -123.110121,
+    44.544396
+],
+  "geometry": {"coordinates":[-123.11012100000001,44.544396],"type":"Point"}
 }

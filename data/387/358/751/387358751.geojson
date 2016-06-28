@@ -2,13 +2,14 @@
   "id": 387358751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.554432,45.518946,-122.554432,45.518946",
     "geom:latitude":45.518946,
     "geom:longitude":-122.554432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10540 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387358751,
-    "wof:lastmodified":1449057705,
+    "wof:lastmodified":1466772174,
     "wof:name":"Western American Installment",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.554432,45.518946,-122.554432,45.518946],
-  "geometry": {"coordinates":[-122.554432,45.518946],"type":"Point"}
+  "bbox": [
+    -122.554432,
+    45.518946,
+    -122.554432,
+    45.518946
+],
+  "geometry": {"coordinates":[-122.55443200000001,45.518946],"type":"Point"}
 }

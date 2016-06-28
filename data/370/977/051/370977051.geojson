@@ -2,13 +2,14 @@
   "id": 370977051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.377766,43.226484,-123.377766,43.226484",
     "geom:latitude":43.226484,
     "geom:longitude":-123.377766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1567 NW Rachel Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370977051,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1466774925,
     "wof:name":"Anc Services",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-123.377766,43.226484,-123.377766,43.226484],
-  "geometry": {"coordinates":[-123.377766,43.226484],"type":"Point"}
+  "bbox": [
+    -123.377766,
+    43.226484,
+    -123.377766,
+    43.226484
+],
+  "geometry": {"coordinates":[-123.37776599999999,43.226484],"type":"Point"}
 }

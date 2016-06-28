@@ -2,13 +2,14 @@
   "id": 370548565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.23425,44.848443,-123.23425,44.848443",
     "geom:latitude":44.848443,
     "geom:longitude":-123.23425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Knox St S",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370548565,
-    "wof:lastmodified":1449031424,
+    "wof:lastmodified":1466772562,
     "wof:name":"Freedom Transmission",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-123.23425,44.848443,-123.23425,44.848443],
+  "bbox": [
+    -123.23425,
+    44.848443,
+    -123.23425,
+    44.848443
+],
   "geometry": {"coordinates":[-123.23425,44.848443],"type":"Point"}
 }

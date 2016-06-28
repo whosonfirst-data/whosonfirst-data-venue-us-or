@@ -2,13 +2,14 @@
   "id": 370696747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675508,45.523718,-122.675508,45.523718",
     "geom:latitude":45.523718,
     "geom:longitude":-122.675508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 NW 5th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370696747,
-    "wof:lastmodified":1449029337,
+    "wof:lastmodified":1466773665,
     "wof:name":"Alpha Plasma Center 416",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.675508,45.523718,-122.675508,45.523718],
-  "geometry": {"coordinates":[-122.675508,45.523718],"type":"Point"}
+  "bbox": [
+    -122.675508,
+    45.523718,
+    -122.675508,
+    45.523718
+],
+  "geometry": {"coordinates":[-122.67550799999999,45.523718],"type":"Point"}
 }

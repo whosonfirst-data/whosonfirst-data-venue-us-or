@@ -2,13 +2,14 @@
   "id": 370593107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.94146,45.503812,-122.94146,45.503812",
     "geom:latitude":45.503812,
     "geom:longitude":-122.94146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 SE 44th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370593107,
-    "wof:lastmodified":1449031320,
+    "wof:lastmodified":1466772874,
     "wof:name":"Park Creek Village",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.94146,45.503812,-122.94146,45.503812],
-  "geometry": {"coordinates":[-122.94146,45.503812],"type":"Point"}
+  "bbox": [
+    -122.94146,
+    45.503812,
+    -122.94146,
+    45.503812
+],
+  "geometry": {"coordinates":[-122.94146000000001,45.503812],"type":"Point"}
 }

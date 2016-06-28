@@ -2,13 +2,14 @@
   "id": 403714949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.542628,45.561148,-122.542628,45.561148",
     "geom:latitude":45.561148,
     "geom:longitude":-122.542628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11914 NE Sumner St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403714949,
-    "wof:lastmodified":1449055286,
+    "wof:lastmodified":1466768059,
     "wof:name":"Mmk Satellite",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.542628,45.561148,-122.542628,45.561148],
-  "geometry": {"coordinates":[-122.542628,45.561148],"type":"Point"}
+  "bbox": [
+    -122.542628,
+    45.561148,
+    -122.542628,
+    45.561148
+],
+  "geometry": {"coordinates":[-122.54262799999999,45.561148],"type":"Point"}
 }

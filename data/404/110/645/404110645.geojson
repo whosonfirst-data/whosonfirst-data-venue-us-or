@@ -2,13 +2,14 @@
   "id": 404110645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.331821,45.294399,-122.331821,45.294399",
     "geom:latitude":45.294399,
     "geom:longitude":-122.331821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 NE 6th Ave",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404110645,
-    "wof:lastmodified":1449039405,
+    "wof:lastmodified":1466770802,
     "wof:name":"Estacada High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.331821,45.294399,-122.331821,45.294399],
-  "geometry": {"coordinates":[-122.331821,45.294399],"type":"Point"}
+  "bbox": [
+    -122.331821,
+    45.294399,
+    -122.331821,
+    45.294399
+],
+  "geometry": {"coordinates":[-122.33182100000001,45.294399],"type":"Point"}
 }

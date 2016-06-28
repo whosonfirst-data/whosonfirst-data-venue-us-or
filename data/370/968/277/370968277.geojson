@@ -2,13 +2,14 @@
   "id": 370968277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.071996,44.886723,-123.071996,44.886723",
     "geom:latitude":44.886723,
     "geom:longitude":-123.071996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 20th Ave S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370968277,
-    "wof:lastmodified":1449029296,
+    "wof:lastmodified":1466775006,
     "wof:name":"Appraisal Network Inc",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-123.071996,44.886723,-123.071996,44.886723],
+  "bbox": [
+    -123.071996,
+    44.886723,
+    -123.071996,
+    44.886723
+],
   "geometry": {"coordinates":[-123.071996,44.886723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370290169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661467,45.55681,-122.661467,45.55681",
     "geom:latitude":45.55681,
     "geom:longitude":-122.661467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370290169,
-    "wof:lastmodified":1449030541,
+    "wof:lastmodified":1466769641,
     "wof:name":"Bus Stop Cafe",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "espresso"
     ]
 },
-  "bbox": [-122.661467,45.55681,-122.661467,45.55681],
+  "bbox": [
+    -122.661467,
+    45.55681,
+    -122.661467,
+    45.55681
+],
   "geometry": {"coordinates":[-122.661467,45.55681],"type":"Point"}
 }

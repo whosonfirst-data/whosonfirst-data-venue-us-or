@@ -2,13 +2,14 @@
   "id": 404128049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.939214,44.005499,-122.939214,44.005499",
     "geom:latitude":44.005499,
     "geom:longitude":-122.939214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86195 Dery Rd",
     "sg:city":"Pleasant Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404128049,
-    "wof:lastmodified":1449039497,
+    "wof:lastmodified":1466771152,
     "wof:name":"Chambers Cattle Co",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-122.939214,44.005499,-122.939214,44.005499],
-  "geometry": {"coordinates":[-122.939214,44.005499],"type":"Point"}
+  "bbox": [
+    -122.939214,
+    44.005499,
+    -122.939214,
+    44.005499
+],
+  "geometry": {"coordinates":[-122.93921400000001,44.005499],"type":"Point"}
 }

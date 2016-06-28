@@ -2,13 +2,14 @@
   "id": 387330403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584403,45.488926,-122.584403,45.488926",
     "geom:latitude":45.488926,
     "geom:longitude":-122.584403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4630 SE 77th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387330403,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1466771972,
     "wof:name":"Easygoing Graphics",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-122.584403,45.488926,-122.584403,45.488926],
-  "geometry": {"coordinates":[-122.584403,45.488926],"type":"Point"}
+  "bbox": [
+    -122.584403,
+    45.488926,
+    -122.584403,
+    45.488926
+],
+  "geometry": {"coordinates":[-122.58440299999999,45.488926],"type":"Point"}
 }

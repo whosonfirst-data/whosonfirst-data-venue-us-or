@@ -2,13 +2,14 @@
   "id": 370642879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109317,44.061316,-123.109317,44.061316",
     "geom:latitude":44.061316,
     "geom:longitude":-123.109317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 N Van Buren St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370642879,
-    "wof:lastmodified":1449029276,
+    "wof:lastmodified":1466773154,
     "wof:name":"Williams Forestry",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-123.109317,44.061316,-123.109317,44.061316],
+  "bbox": [
+    -123.109317,
+    44.061316,
+    -123.109317,
+    44.061316
+],
   "geometry": {"coordinates":[-123.109317,44.061316],"type":"Point"}
 }

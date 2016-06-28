@@ -2,13 +2,14 @@
   "id": 387426039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.711266,46.085502,-123.711266,46.085502",
     "geom:latitude":46.085502,
     "geom:longitude":-123.711266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88198 State Hwy 202",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387426039,
-    "wof:lastmodified":1449056913,
+    "wof:lastmodified":1466772880,
     "wof:name":"Rieck & Smith Paving Company",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.711266,46.085502,-123.711266,46.085502],
-  "geometry": {"coordinates":[-123.711266,46.085502],"type":"Point"}
+  "bbox": [
+    -123.711266,
+    46.085502,
+    -123.711266,
+    46.085502
+],
+  "geometry": {"coordinates":[-123.71126599999999,46.085502],"type":"Point"}
 }

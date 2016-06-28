@@ -2,13 +2,14 @@
   "id": 370916427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.421137,45.248091,-122.421137,45.248091",
     "geom:latitude":45.248091,
     "geom:longitude":-122.421137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21461 S Upper Highland Rd",
     "sg:city":"Beavercreek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370916427,
-    "wof:lastmodified":1449030922,
+    "wof:lastmodified":1466774764,
     "wof:name":"Highland Automotive",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-122.421137,45.248091,-122.421137,45.248091],
+  "bbox": [
+    -122.421137,
+    45.248091,
+    -122.421137,
+    45.248091
+],
   "geometry": {"coordinates":[-122.421137,45.248091],"type":"Point"}
 }

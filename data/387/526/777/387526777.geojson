@@ -2,13 +2,14 @@
   "id": 387526777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.134949,44.310065,-121.134949,44.310065",
     "geom:latitude":44.310065,
     "geom:longitude":-121.134949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2796 NE Walnut Dr",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387526777,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1466773437,
     "wof:name":"Marvin Newton Trucking",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-121.134949,44.310065,-121.134949,44.310065],
-  "geometry": {"coordinates":[-121.134949,44.310065],"type":"Point"}
+  "bbox": [
+    -121.134949,
+    44.310065,
+    -121.134949,
+    44.310065
+],
+  "geometry": {"coordinates":[-121.13494900000001,44.310065],"type":"Point"}
 }

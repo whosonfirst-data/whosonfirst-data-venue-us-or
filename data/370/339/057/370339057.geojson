@@ -2,13 +2,14 @@
   "id": 370339057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.697663,45.475964,-122.697663,45.475964",
     "geom:latitude":45.475964,
     "geom:longitude":-122.697663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 SW Vermont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370339057,
-    "wof:lastmodified":1449030608,
+    "wof:lastmodified":1466770577,
     "wof:name":"Chris Booren",
     "wof:parent_id":85867149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-122.697663,45.475964,-122.697663,45.475964],
-  "geometry": {"coordinates":[-122.697663,45.475964],"type":"Point"}
+  "bbox": [
+    -122.697663,
+    45.475964,
+    -122.697663,
+    45.475964
+],
+  "geometry": {"coordinates":[-122.69766300000001,45.475964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.007019,44.985229,-124.007019,44.985229",
     "geom:latitude":44.985229,
     "geom:longitude":-124.007019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 US Hwy 101",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387892709,
-    "wof:lastmodified":1449056663,
+    "wof:lastmodified":1466775262,
     "wof:name":"Central Coast Crane",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-124.007019,44.985229,-124.007019,44.985229],
+  "bbox": [
+    -124.007019,
+    44.985229,
+    -124.007019,
+    44.985229
+],
   "geometry": {"coordinates":[-124.007019,44.985229],"type":"Point"}
 }

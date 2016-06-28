@@ -2,13 +2,14 @@
   "id": 387278245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.054182,44.882922,-123.054182,44.882922",
     "geom:latitude":44.882922,
     "geom:longitude":-123.054182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Coloma Ct SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387278245,
-    "wof:lastmodified":1449058215,
+    "wof:lastmodified":1466771659,
     "wof:name":"Montgomery Construction",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.054182,44.882922,-123.054182,44.882922],
+  "bbox": [
+    -123.054182,
+    44.882922,
+    -123.054182,
+    44.882922
+],
   "geometry": {"coordinates":[-123.054182,44.882922],"type":"Point"}
 }

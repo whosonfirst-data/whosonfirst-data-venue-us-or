@@ -2,13 +2,14 @@
   "id": 370998233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032647,44.966934,-123.032647,44.966934",
     "geom:latitude":44.966934,
     "geom:longitude":-123.032647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2775 Commercial St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370998233,
-    "wof:lastmodified":1449030217,
+    "wof:lastmodified":1466775078,
     "wof:name":"Valley Mailing Svc",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-123.032647,44.966934,-123.032647,44.966934],
+  "bbox": [
+    -123.032647,
+    44.966934,
+    -123.032647,
+    44.966934
+],
   "geometry": {"coordinates":[-123.032647,44.966934],"type":"Point"}
 }

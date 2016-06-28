@@ -2,13 +2,14 @@
   "id": 387506675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.148603,44.047952,-123.148603,44.047952",
     "geom:latitude":44.047952,
     "geom:longitude":-123.148603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3780 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387506675,
-    "wof:lastmodified":1449056205,
+    "wof:lastmodified":1466773274,
     "wof:name":"Hamptom Inn-Eugene",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.148603,44.047952,-123.148603,44.047952],
-  "geometry": {"coordinates":[-123.148603,44.047952],"type":"Point"}
+  "bbox": [
+    -123.148603,
+    44.047952,
+    -123.148603,
+    44.047952
+],
+  "geometry": {"coordinates":[-123.14860299999999,44.047952],"type":"Point"}
 }

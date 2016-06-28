@@ -2,13 +2,14 @@
   "id": 387685515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.87004,45.545903,-122.87004,45.545903",
     "geom:latitude":45.545903,
     "geom:longitude":-122.87004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18925 NW Shadow Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387685515,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1466774305,
     "wof:name":"Lane Shadow",
     "wof:parent_id":85833835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.87004,45.545903,-122.87004,45.545903],
+  "bbox": [
+    -122.87004,
+    45.545903,
+    -122.87004,
+    45.545903
+],
   "geometry": {"coordinates":[-122.87004,45.545903],"type":"Point"}
 }

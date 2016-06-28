@@ -2,13 +2,14 @@
   "id": 370623377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111977,45.520837,-123.111977,45.520837",
     "geom:latitude":45.520837,
     "geom:longitude":-123.111977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Main St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370623377,
-    "wof:lastmodified":1449031460,
+    "wof:lastmodified":1466773075,
     "wof:name":"El Torero",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.111977,45.520837,-123.111977,45.520837],
+  "bbox": [
+    -123.111977,
+    45.520837,
+    -123.111977,
+    45.520837
+],
   "geometry": {"coordinates":[-123.111977,45.520837],"type":"Point"}
 }

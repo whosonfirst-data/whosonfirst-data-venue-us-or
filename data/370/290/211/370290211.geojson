@@ -2,13 +2,14 @@
   "id": 370290211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.250115,45.423057,-122.250115,45.423057",
     "geom:latitude":45.423057,
     "geom:longitude":-122.250115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13525 SE Lusted Rd",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370290211,
-    "wof:lastmodified":1449030541,
+    "wof:lastmodified":1466769642,
     "wof:name":"Labrador Retriever Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-122.250115,45.423057,-122.250115,45.423057],
-  "geometry": {"coordinates":[-122.250115,45.423057],"type":"Point"}
+  "bbox": [
+    -122.250115,
+    45.423057,
+    -122.250115,
+    45.423057
+],
+  "geometry": {"coordinates":[-122.25011499999999,45.423057],"type":"Point"}
 }

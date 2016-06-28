@@ -2,13 +2,14 @@
   "id": 370741323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721196,45.493841,-122.721196,45.493841",
     "geom:latitude":45.493841,
     "geom:longitude":-122.721196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 SW 43rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370741323,
-    "wof:lastmodified":1449029257,
+    "wof:lastmodified":1466773886,
     "wof:name":"Intel Corp",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-122.721196,45.493841,-122.721196,45.493841],
-  "geometry": {"coordinates":[-122.721196,45.493841],"type":"Point"}
+  "bbox": [
+    -122.721196,
+    45.493841,
+    -122.721196,
+    45.493841
+],
+  "geometry": {"coordinates":[-122.72119600000001,45.493841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370600501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.095466,45.329097,-118.095466,45.329097",
     "geom:latitude":45.329097,
     "geom:longitude":-118.095466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Adams Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370600501,
-    "wof:lastmodified":1449029401,
+    "wof:lastmodified":1466773043,
     "wof:name":"Earth'N'Book",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-118.095466,45.329097,-118.095466,45.329097],
+  "bbox": [
+    -118.095466,
+    45.329097,
+    -118.095466,
+    45.329097
+],
   "geometry": {"coordinates":[-118.095466,45.329097],"type":"Point"}
 }

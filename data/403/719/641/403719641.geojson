@@ -2,13 +2,14 @@
   "id": 403719641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.702621,45.543752,-122.702621,45.543752",
     "geom:latitude":45.543752,
     "geom:longitude":-122.702621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 NW Yeon Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":403719641,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1466768194,
     "wof:name":"Southwest Office Supply Inc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-122.702621,45.543752,-122.702621,45.543752],
-  "geometry": {"coordinates":[-122.702621,45.543752],"type":"Point"}
+  "bbox": [
+    -122.702621,
+    45.543752,
+    -122.702621,
+    45.543752
+],
+  "geometry": {"coordinates":[-122.70262099999999,45.543752],"type":"Point"}
 }

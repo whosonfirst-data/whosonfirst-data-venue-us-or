@@ -2,13 +2,14 @@
   "id": 370211561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265562,44.548832,-123.265562,44.548832",
     "geom:latitude":44.548832,
     "geom:longitude":-123.265562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 SW 3rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370211561,
-    "wof:lastmodified":1449029928,
+    "wof:lastmodified":1466768232,
     "wof:name":"Packaging Plus",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipping"
     ]
 },
-  "bbox": [-123.265562,44.548832,-123.265562,44.548832],
+  "bbox": [
+    -123.265562,
+    44.548832,
+    -123.265562,
+    44.548832
+],
   "geometry": {"coordinates":[-123.265562,44.548832],"type":"Point"}
 }

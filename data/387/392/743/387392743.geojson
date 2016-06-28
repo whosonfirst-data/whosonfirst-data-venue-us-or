@@ -2,13 +2,14 @@
   "id": 387392743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.315013,43.387061,-123.315013,43.387061",
     "geom:latitude":43.387061,
     "geom:longitude":-123.315013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 S Calapooia St",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387392743,
-    "wof:lastmodified":1449059159,
+    "wof:lastmodified":1466772568,
     "wof:name":"Rachel Ashton",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-123.315013,43.387061,-123.315013,43.387061],
-  "geometry": {"coordinates":[-123.315013,43.387061],"type":"Point"}
+  "bbox": [
+    -123.315013,
+    43.387061,
+    -123.315013,
+    43.387061
+],
+  "geometry": {"coordinates":[-123.31501299999999,43.387061],"type":"Point"}
 }

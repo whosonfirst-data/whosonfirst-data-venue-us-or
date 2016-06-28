@@ -2,13 +2,14 @@
   "id": 403801873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.154529,45.033017,-123.154529,45.033017",
     "geom:latitude":45.033017,
     "geom:longitude":-123.154529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6060 Bethel Heights Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":403801873,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1466769662,
     "wof:name":"Bethel Heights Vineyard Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-123.154529,45.033017,-123.154529,45.033017],
+  "bbox": [
+    -123.154529,
+    45.033017,
+    -123.154529,
+    45.033017
+],
   "geometry": {"coordinates":[-123.154529,45.033017],"type":"Point"}
 }

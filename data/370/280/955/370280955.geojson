@@ -2,13 +2,14 @@
   "id": 370280955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690221,45.158114,-122.690221,45.158114",
     "geom:latitude":45.158114,
     "geom:longitude":-122.690221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 S Sconce Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370280955,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1466769469,
     "wof:name":"Jerry's Automotive & Diesel",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.690221,45.158114,-122.690221,45.158114],
-  "geometry": {"coordinates":[-122.690221,45.158114],"type":"Point"}
+  "bbox": [
+    -122.690221,
+    45.158114,
+    -122.690221,
+    45.158114
+],
+  "geometry": {"coordinates":[-122.69022099999999,45.158114],"type":"Point"}
 }

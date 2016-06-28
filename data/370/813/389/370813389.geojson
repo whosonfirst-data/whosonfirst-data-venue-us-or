@@ -2,13 +2,14 @@
   "id": 370813389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.659639,45.531498,-122.659639,45.531498",
     "geom:latitude":45.531498,
     "geom:longitude":-122.659639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 NE Multnomah St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370813389,
-    "wof:lastmodified":1449029970,
+    "wof:lastmodified":1466774044,
     "wof:name":"Providence Eap",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.659639,45.531498,-122.659639,45.531498],
+  "bbox": [
+    -122.659639,
+    45.531498,
+    -122.659639,
+    45.531498
+],
   "geometry": {"coordinates":[-122.659639,45.531498],"type":"Point"}
 }

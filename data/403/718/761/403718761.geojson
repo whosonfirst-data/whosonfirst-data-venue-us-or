@@ -2,13 +2,14 @@
   "id": 403718761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.071382,44.07083,-123.071382,44.07083",
     "geom:latitude":44.07083,
     "geom:longitude":-123.071382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2691 Turnbull Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403718761,
-    "wof:lastmodified":1449054933,
+    "wof:lastmodified":1466768179,
     "wof:name":"Kids Camp",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-123.071382,44.07083,-123.071382,44.07083],
+  "bbox": [
+    -123.071382,
+    44.07083,
+    -123.071382,
+    44.07083
+],
   "geometry": {"coordinates":[-123.071382,44.07083],"type":"Point"}
 }

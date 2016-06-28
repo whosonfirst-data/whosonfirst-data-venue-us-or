@@ -2,13 +2,14 @@
   "id": 370567181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.071253,44.047476,-124.071253,44.047476",
     "geom:latitude":44.047476,
     "geom:longitude":-124.071253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88894 Rhododendron Ln",
     "sg:city":"Bandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370567181,
-    "wof:lastmodified":1449032498,
+    "wof:lastmodified":1466772682,
     "wof:name":"Garage Door Svc",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-124.071253,44.047476,-124.071253,44.047476],
+  "bbox": [
+    -124.071253,
+    44.047476,
+    -124.071253,
+    44.047476
+],
   "geometry": {"coordinates":[-124.071253,44.047476],"type":"Point"}
 }

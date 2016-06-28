@@ -2,13 +2,14 @@
   "id": 403817183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.063018,44.640431,-123.063018,44.640431",
     "geom:latitude":44.640431,
     "geom:longitude":-123.063018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Airport Rd SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403817183,
-    "wof:lastmodified":1449055700,
+    "wof:lastmodified":1466769990,
     "wof:name":"Custom Telephone Svc",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-123.063018,44.640431,-123.063018,44.640431],
+  "bbox": [
+    -123.063018,
+    44.640431,
+    -123.063018,
+    44.640431
+],
   "geometry": {"coordinates":[-123.063018,44.640431],"type":"Point"}
 }

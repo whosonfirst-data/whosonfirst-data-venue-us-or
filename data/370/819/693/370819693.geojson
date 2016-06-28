@@ -2,13 +2,14 @@
   "id": 370819693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.787647,45.383649,-122.787647,45.383649",
     "geom:latitude":45.383649,
     "geom:longitude":-122.787647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 SW Herman Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370819693,
-    "wof:lastmodified":1449029896,
+    "wof:lastmodified":1466774089,
     "wof:name":"Marshall Associated LLC",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.787647,45.383649,-122.787647,45.383649],
-  "geometry": {"coordinates":[-122.787647,45.383649],"type":"Point"}
+  "bbox": [
+    -122.787647,
+    45.383649,
+    -122.787647,
+    45.383649
+],
+  "geometry": {"coordinates":[-122.78764700000001,45.383649],"type":"Point"}
 }

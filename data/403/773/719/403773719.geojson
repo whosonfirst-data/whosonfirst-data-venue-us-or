@@ -2,13 +2,14 @@
   "id": 403773719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.807619,45.523314,-122.807619,45.523314",
     "geom:latitude":45.523314,
     "geom:longitude":-122.807619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12740 NW Barnes Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403773719,
-    "wof:lastmodified":1449054784,
+    "wof:lastmodified":1466769233,
     "wof:name":"Marvin Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.807619,45.523314,-122.807619,45.523314],
+  "bbox": [
+    -122.807619,
+    45.523314,
+    -122.807619,
+    45.523314
+],
   "geometry": {"coordinates":[-122.807619,45.523314],"type":"Point"}
 }

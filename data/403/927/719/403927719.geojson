@@ -2,13 +2,14 @@
   "id": 403927719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97007,45.519788,-122.97007,45.519788",
     "geom:latitude":45.519788,
     "geom:longitude":-122.97007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 SE 12th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403927719,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1466767857,
     "wof:name":"Woodland Park Properties",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.97007,45.519788,-122.97007,45.519788],
-  "geometry": {"coordinates":[-122.97007,45.519788],"type":"Point"}
+  "bbox": [
+    -122.97007,
+    45.519788,
+    -122.97007,
+    45.519788
+],
+  "geometry": {"coordinates":[-122.97007000000001,45.519788],"type":"Point"}
 }

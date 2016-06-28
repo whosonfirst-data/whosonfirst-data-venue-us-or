@@ -2,13 +2,14 @@
   "id": 387812867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109547,44.058284,-123.109547,44.058284",
     "geom:latitude":44.058284,
     "geom:longitude":-123.109547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Van Buren St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387812867,
-    "wof:lastmodified":1449056225,
+    "wof:lastmodified":1466775047,
     "wof:name":"Battery Pros The",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-123.109547,44.058284,-123.109547,44.058284],
-  "geometry": {"coordinates":[-123.109547,44.058284],"type":"Point"}
+  "bbox": [
+    -123.109547,
+    44.058284,
+    -123.109547,
+    44.058284
+],
+  "geometry": {"coordinates":[-123.10954700000001,44.058284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354290765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.199149,44.102627,-123.199149,44.102627",
     "geom:latitude":44.102627,
     "geom:longitude":-123.199149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29360 Clear Lake Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354290765,
-    "wof:lastmodified":1449066656,
+    "wof:lastmodified":1466769404,
     "wof:name":"Eugene Landscape & Irrigation",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-123.199149,44.102627,-123.199149,44.102627],
-  "geometry": {"coordinates":[-123.199149,44.102627],"type":"Point"}
+  "bbox": [
+    -123.199149,
+    44.102627,
+    -123.199149,
+    44.102627
+],
+  "geometry": {"coordinates":[-123.19914900000001,44.102627],"type":"Point"}
 }

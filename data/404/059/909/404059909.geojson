@@ -2,13 +2,14 @@
   "id": 404059909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.986233,44.960071,-122.986233,44.960071",
     "geom:latitude":44.960071,
     "geom:longitude":-122.986233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 Coral Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404059909,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1466769452,
     "wof:name":"Coral Heights Apartments",
     "wof:parent_id":85880579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.986233,44.960071,-122.986233,44.960071],
+  "bbox": [
+    -122.986233,
+    44.960071,
+    -122.986233,
+    44.960071
+],
   "geometry": {"coordinates":[-122.986233,44.960071],"type":"Point"}
 }

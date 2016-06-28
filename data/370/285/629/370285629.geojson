@@ -2,13 +2,14 @@
   "id": 370285629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.479899,43.858243,-121.479899,43.858243",
     "geom:latitude":43.858243,
     "geom:longitude":-121.479899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16919 Covina Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370285629,
-    "wof:lastmodified":1449029162,
+    "wof:lastmodified":1466769561,
     "wof:name":"Wild West Horseshoing",
     "wof:parent_id":85876197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horseshoeing"
     ]
 },
-  "bbox": [-121.479899,43.858243,-121.479899,43.858243],
+  "bbox": [
+    -121.479899,
+    43.858243,
+    -121.479899,
+    43.858243
+],
   "geometry": {"coordinates":[-121.479899,43.858243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387732399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844124,45.475756,-123.844124,45.475756",
     "geom:latitude":45.475756,
     "geom:longitude":-123.844124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Hwy 101 N",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387732399,
-    "wof:lastmodified":1449060033,
+    "wof:lastmodified":1466774692,
     "wof:name":"Coastal Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-123.844124,45.475756,-123.844124,45.475756],
-  "geometry": {"coordinates":[-123.844124,45.475756],"type":"Point"}
+  "bbox": [
+    -123.844124,
+    45.475756,
+    -123.844124,
+    45.475756
+],
+  "geometry": {"coordinates":[-123.84412399999999,45.475756],"type":"Point"}
 }

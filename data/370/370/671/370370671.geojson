@@ -2,13 +2,14 @@
   "id": 370370671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.951962,46.199883,-123.951962,46.199883",
     "geom:latitude":46.199883,
     "geom:longitude":-123.951962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Jetty St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370370671,
-    "wof:lastmodified":1449030914,
+    "wof:lastmodified":1466771222,
     "wof:name":"Coast Rehabilitation Svc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-123.951962,46.199883,-123.951962,46.199883],
-  "geometry": {"coordinates":[-123.951962,46.199883],"type":"Point"}
+  "bbox": [
+    -123.951962,
+    46.199883,
+    -123.951962,
+    46.199883
+],
+  "geometry": {"coordinates":[-123.95196199999999,46.199883],"type":"Point"}
 }

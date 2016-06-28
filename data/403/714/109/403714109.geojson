@@ -2,13 +2,14 @@
   "id": 403714109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.084611,43.558866,-119.084611,43.558866",
     "geom:latitude":43.558866,
     "geom:longitude":-119.084611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Hwy 20",
     "sg:city":"Hines",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403714109,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1466768044,
     "wof:name":"Hines Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-119.084611,43.558866,-119.084611,43.558866],
+  "bbox": [
+    -119.084611,
+    43.558866,
+    -119.084611,
+    43.558866
+],
   "geometry": {"coordinates":[-119.084611,43.558866],"type":"Point"}
 }

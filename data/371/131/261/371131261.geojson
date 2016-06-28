@@ -2,13 +2,14 @@
   "id": 371131261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.185167,44.85199,-123.185167,44.85199",
     "geom:latitude":44.85199,
     "geom:longitude":-123.185167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 C St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371131261,
-    "wof:lastmodified":1449049318,
+    "wof:lastmodified":1466769356,
     "wof:name":"C K Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-123.185167,44.85199,-123.185167,44.85199],
-  "geometry": {"coordinates":[-123.185167,44.85199],"type":"Point"}
+  "bbox": [
+    -123.185167,
+    44.85199,
+    -123.185167,
+    44.85199
+],
+  "geometry": {"coordinates":[-123.18516700000001,44.85199],"type":"Point"}
 }

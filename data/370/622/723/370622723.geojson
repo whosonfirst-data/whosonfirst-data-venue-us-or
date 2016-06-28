@@ -2,13 +2,14 @@
   "id": 370622723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01171,43.994004,-123.01171,43.994004",
     "geom:latitude":43.994004,
     "geom:longitude":-123.01171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85833 State Hwy 99 S",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370622723,
-    "wof:lastmodified":1449031857,
+    "wof:lastmodified":1466773157,
     "wof:name":"Om-Chi Herb Co",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-123.01171,43.994004,-123.01171,43.994004],
-  "geometry": {"coordinates":[-123.01171,43.994004],"type":"Point"}
+  "bbox": [
+    -123.01171,
+    43.994004,
+    -123.01171,
+    43.994004
+],
+  "geometry": {"coordinates":[-123.01170999999999,43.994004],"type":"Point"}
 }

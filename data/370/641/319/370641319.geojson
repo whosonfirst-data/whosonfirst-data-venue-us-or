@@ -2,13 +2,14 @@
   "id": 370641319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.830938,44.780848,-117.830938,44.780848",
     "geom:latitude":44.780848,
     "geom:longitude":-117.830938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 1st St",
     "sg:city":"Baker City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370641319,
-    "wof:lastmodified":1449031669,
+    "wof:lastmodified":1466773345,
     "wof:name":"First Street Fire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-117.830938,44.780848,-117.830938,44.780848],
+  "bbox": [
+    -117.830938,
+    44.780848,
+    -117.830938,
+    44.780848
+],
   "geometry": {"coordinates":[-117.830938,44.780848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403975551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.115405,44.048908,-123.115405,44.048908",
     "geom:latitude":44.048908,
     "geom:longitude":-123.115405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 W 10th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403975551,
-    "wof:lastmodified":1449055783,
+    "wof:lastmodified":1466768718,
     "wof:name":"Dragonfly Studio",
     "wof:parent_id":85877247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "art"
     ]
 },
-  "bbox": [-123.115405,44.048908,-123.115405,44.048908],
+  "bbox": [
+    -123.115405,
+    44.048908,
+    -123.115405,
+    44.048908
+],
   "geometry": {"coordinates":[-123.115405,44.048908],"type":"Point"}
 }

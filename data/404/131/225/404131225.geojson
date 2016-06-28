@@ -2,13 +2,14 @@
   "id": 404131225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.322983,44.144906,-123.322983,44.144906",
     "geom:latitude":44.144906,
     "geom:longitude":-123.322983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25991 Butler Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404131225,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466771204,
     "wof:name":"Craig Canaday Inc",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.322983,44.144906,-123.322983,44.144906],
-  "geometry": {"coordinates":[-123.322983,44.144906],"type":"Point"}
+  "bbox": [
+    -123.322983,
+    44.144906,
+    -123.322983,
+    44.144906
+],
+  "geometry": {"coordinates":[-123.32298299999999,44.144906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387104099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.062418,44.058343,-123.062418,44.058343",
     "geom:latitude":44.058343,
     "geom:longitude":-123.062418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Centennial Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387104099,
-    "wof:lastmodified":1449057671,
+    "wof:lastmodified":1466768873,
     "wof:name":"Lane Cty Youth Services",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-123.062418,44.058343,-123.062418,44.058343],
-  "geometry": {"coordinates":[-123.062418,44.058343],"type":"Point"}
+  "bbox": [
+    -123.062418,
+    44.058343,
+    -123.062418,
+    44.058343
+],
+  "geometry": {"coordinates":[-123.06241799999999,44.058343],"type":"Point"}
 }

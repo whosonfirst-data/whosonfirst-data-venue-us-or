@@ -2,13 +2,14 @@
   "id": 403869707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111038,44.084627,-123.111038,44.084627",
     "geom:latitude":44.084627,
     "geom:longitude":-123.111038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Goodpasture Island Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403869707,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1466771158,
     "wof:name":"East Cascade SEC Systems Co",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.111038,44.084627,-123.111038,44.084627],
-  "geometry": {"coordinates":[-123.111038,44.084627],"type":"Point"}
+  "bbox": [
+    -123.111038,
+    44.084627,
+    -123.111038,
+    44.084627
+],
+  "geometry": {"coordinates":[-123.11103799999999,44.084627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404057561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.804334,45.371628,-123.804334,45.371628",
     "geom:latitude":45.371628,
     "geom:longitude":-123.804334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11825 Hwy 101 S",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404057561,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1466769422,
     "wof:name":"Patrick Tone Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.804334,45.371628,-123.804334,45.371628],
+  "bbox": [
+    -123.804334,
+    45.371628,
+    -123.804334,
+    45.371628
+],
   "geometry": {"coordinates":[-123.804334,45.371628],"type":"Point"}
 }

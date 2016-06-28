@@ -2,13 +2,14 @@
   "id": 370319883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.832095,46.189651,-123.832095,46.189651",
     "geom:latitude":46.189651,
     "geom:longitude":-123.832095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 Marine Dr",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370319883,
-    "wof:lastmodified":1449030468,
+    "wof:lastmodified":1466770215,
     "wof:name":"Bikes & Beyond",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.832095,46.189651,-123.832095,46.189651],
+  "bbox": [
+    -123.832095,
+    46.189651,
+    -123.832095,
+    46.189651
+],
   "geometry": {"coordinates":[-123.832095,46.189651],"type":"Point"}
 }

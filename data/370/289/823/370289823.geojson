@@ -2,13 +2,14 @@
   "id": 370289823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.680343,45.518014,-122.680343,45.518014",
     "geom:latitude":45.518014,
     "geom:longitude":-122.680343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 SW Broadway",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370289823,
-    "wof:lastmodified":1449031905,
+    "wof:lastmodified":1466769637,
     "wof:name":"Mill Funding Group",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-122.680343,45.518014,-122.680343,45.518014],
-  "geometry": {"coordinates":[-122.680343,45.518014],"type":"Point"}
+  "bbox": [
+    -122.680343,
+    45.518014,
+    -122.680343,
+    45.518014
+],
+  "geometry": {"coordinates":[-122.68034299999999,45.518014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404000191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.688871,45.520295,-122.688871,45.520295",
     "geom:latitude":45.520295,
     "geom:longitude":-122.688871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 SW Taylor St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404000191,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1466768237,
     "wof:name":"Old Town History Project Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.688871,45.520295,-122.688871,45.520295],
-  "geometry": {"coordinates":[-122.688871,45.520295],"type":"Point"}
+  "bbox": [
+    -122.688871,
+    45.520295,
+    -122.688871,
+    45.520295
+],
+  "geometry": {"coordinates":[-122.68887100000001,45.520295],"type":"Point"}
 }

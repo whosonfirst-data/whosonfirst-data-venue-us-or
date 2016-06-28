@@ -2,13 +2,14 @@
   "id": 404040425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.103044,45.515048,-123.103044,45.515048",
     "geom:latitude":45.515048,
     "geom:longitude":-123.103044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Elm St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404040425,
-    "wof:lastmodified":1449040296,
+    "wof:lastmodified":1466769176,
     "wof:name":"Saint Vincent Depaul",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.103044,45.515048,-123.103044,45.515048],
+  "bbox": [
+    -123.103044,
+    45.515048,
+    -123.103044,
+    45.515048
+],
   "geometry": {"coordinates":[-123.103044,45.515048],"type":"Point"}
 }

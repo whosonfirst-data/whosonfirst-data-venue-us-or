@@ -2,13 +2,14 @@
   "id": 354311931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.278736,44.905098,-123.278736,44.905098",
     "geom:latitude":44.905098,
     "geom:longitude":-123.278736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12435 Clow Corner Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354311931,
-    "wof:lastmodified":1449066329,
+    "wof:lastmodified":1466769659,
     "wof:name":"J & M Cattle Depot",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-123.278736,44.905098,-123.278736,44.905098],
-  "geometry": {"coordinates":[-123.278736,44.905098],"type":"Point"}
+  "bbox": [
+    -123.278736,
+    44.905098,
+    -123.278736,
+    44.905098
+],
+  "geometry": {"coordinates":[-123.27873599999999,44.905098],"type":"Point"}
 }

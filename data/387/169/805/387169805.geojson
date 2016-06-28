@@ -2,13 +2,14 @@
   "id": 387169805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.753824,45.403134,-122.753824,45.403134",
     "geom:latitude":45.403134,
     "geom:longitude":-122.753824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15695 SW 74th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387169805,
-    "wof:lastmodified":1449058451,
+    "wof:lastmodified":1466770183,
     "wof:name":"Adcook Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-122.753824,45.403134,-122.753824,45.403134],
-  "geometry": {"coordinates":[-122.753824,45.403134],"type":"Point"}
+  "bbox": [
+    -122.753824,
+    45.403134,
+    -122.753824,
+    45.403134
+],
+  "geometry": {"coordinates":[-122.75382399999999,45.403134],"type":"Point"}
 }

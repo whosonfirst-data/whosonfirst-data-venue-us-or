@@ -2,13 +2,14 @@
   "id": 370997011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.523407,43.081482,-123.523407,43.081482",
     "geom:latitude":43.081482,
     "geom:longitude":-123.523407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2873 Olalla Rd",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370997011,
-    "wof:lastmodified":1449031872,
+    "wof:lastmodified":1466775168,
     "wof:name":"Dw Logging Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.523407,43.081482,-123.523407,43.081482],
-  "geometry": {"coordinates":[-123.523407,43.081482],"type":"Point"}
+  "bbox": [
+    -123.523407,
+    43.081482,
+    -123.523407,
+    43.081482
+],
+  "geometry": {"coordinates":[-123.52340700000001,43.081482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370459081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721095,45.543145,-122.721095,45.543145",
     "geom:latitude":45.543145,
     "geom:longitude":-122.721095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3074 NW Saint Helens Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370459081,
-    "wof:lastmodified":1449030464,
+    "wof:lastmodified":1466771917,
     "wof:name":"Security Packaging Co",
     "wof:parent_id":85857791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crating"
     ]
 },
-  "bbox": [-122.721095,45.543145,-122.721095,45.543145],
-  "geometry": {"coordinates":[-122.721095,45.543145],"type":"Point"}
+  "bbox": [
+    -122.721095,
+    45.543145,
+    -122.721095,
+    45.543145
+],
+  "geometry": {"coordinates":[-122.72109500000001,45.543145],"type":"Point"}
 }

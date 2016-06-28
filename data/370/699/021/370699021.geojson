@@ -2,13 +2,14 @@
   "id": 370699021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.076107,45.328193,-118.076107,45.328193",
     "geom:latitude":45.328193,
     "geom:longitude":-118.076107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 E Q Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370699021,
-    "wof:lastmodified":1449029561,
+    "wof:lastmodified":1466773447,
     "wof:name":"Spooner's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "music"
     ]
 },
-  "bbox": [-118.076107,45.328193,-118.076107,45.328193],
-  "geometry": {"coordinates":[-118.076107,45.328193],"type":"Point"}
+  "bbox": [
+    -118.076107,
+    45.328193,
+    -118.076107,
+    45.328193
+],
+  "geometry": {"coordinates":[-118.07610699999999,45.328193],"type":"Point"}
 }

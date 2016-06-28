@@ -2,13 +2,14 @@
   "id": 371135315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.466823,45.420564,-122.466823,45.420564",
     "geom:latitude":45.420564,
     "geom:longitude":-122.466823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19043 SE Sunnyside Rd",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371135315,
-    "wof:lastmodified":1449049422,
+    "wof:lastmodified":1466769429,
     "wof:name":"A 36 Structures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "erector"
     ]
 },
-  "bbox": [-122.466823,45.420564,-122.466823,45.420564],
-  "geometry": {"coordinates":[-122.466823,45.420564],"type":"Point"}
+  "bbox": [
+    -122.466823,
+    45.420564,
+    -122.466823,
+    45.420564
+],
+  "geometry": {"coordinates":[-122.46682300000001,45.420564],"type":"Point"}
 }

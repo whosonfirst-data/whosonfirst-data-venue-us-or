@@ -2,13 +2,14 @@
   "id": 370513231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537703,45.559394,-122.537703,45.559394",
     "geom:latitude":45.559394,
     "geom:longitude":-122.537703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4908 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370513231,
-    "wof:lastmodified":1449031319,
+    "wof:lastmodified":1466772421,
     "wof:name":"West Coast Vinyl",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-122.537703,45.559394,-122.537703,45.559394],
-  "geometry": {"coordinates":[-122.537703,45.559394],"type":"Point"}
+  "bbox": [
+    -122.537703,
+    45.559394,
+    -122.537703,
+    45.559394
+],
+  "geometry": {"coordinates":[-122.53770299999999,45.559394],"type":"Point"}
 }

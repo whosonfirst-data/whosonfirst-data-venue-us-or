@@ -2,13 +2,14 @@
   "id": 404041381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.824757,46.185111,-123.824757,46.185111",
     "geom:latitude":46.185111,
     "geom:longitude":-123.824757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1683 Irving Ave",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404041381,
-    "wof:lastmodified":1449039455,
+    "wof:lastmodified":1466769191,
     "wof:name":"Harn Construction",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.824757,46.185111,-123.824757,46.185111],
-  "geometry": {"coordinates":[-123.824757,46.185111],"type":"Point"}
+  "bbox": [
+    -123.824757,
+    46.185111,
+    -123.824757,
+    46.185111
+],
+  "geometry": {"coordinates":[-123.82475700000001,46.185111],"type":"Point"}
 }

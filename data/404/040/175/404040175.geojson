@@ -2,13 +2,14 @@
   "id": 404040175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.561129,43.607292,-123.561129,43.607292",
     "geom:latitude":43.607292,
     "geom:longitude":-123.561129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Day Dr",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404040175,
-    "wof:lastmodified":1449040296,
+    "wof:lastmodified":1466769173,
     "wof:name":"Jester Illustrations",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-123.561129,43.607292,-123.561129,43.607292],
-  "geometry": {"coordinates":[-123.561129,43.607292],"type":"Point"}
+  "bbox": [
+    -123.561129,
+    43.607292,
+    -123.561129,
+    43.607292
+],
+  "geometry": {"coordinates":[-123.56112899999999,43.607292],"type":"Point"}
 }

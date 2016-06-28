@@ -2,13 +2,14 @@
   "id": 387395157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.005919,44.997017,-123.005919,44.997017",
     "geom:latitude":44.997017,
     "geom:longitude":-123.005919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Keizer Rd NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387395157,
-    "wof:lastmodified":1449059368,
+    "wof:lastmodified":1466772580,
     "wof:name":"Cornerstone Christian School",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.005919,44.997017,-123.005919,44.997017],
-  "geometry": {"coordinates":[-123.005919,44.997017],"type":"Point"}
+  "bbox": [
+    -123.005919,
+    44.997017,
+    -123.005919,
+    44.997017
+],
+  "geometry": {"coordinates":[-123.00591900000001,44.997017],"type":"Point"}
 }

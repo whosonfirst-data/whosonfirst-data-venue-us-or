@@ -2,13 +2,14 @@
   "id": 370479931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.261425,44.562179,-123.261425,44.562179",
     "geom:latitude":44.562179,
     "geom:longitude":-123.261425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 SW Jefferson Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370479931,
-    "wof:lastmodified":1449031395,
+    "wof:lastmodified":1466772214,
     "wof:name":"Benchmark Architectural Svcs",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-123.261425,44.562179,-123.261425,44.562179],
+  "bbox": [
+    -123.261425,
+    44.562179,
+    -123.261425,
+    44.562179
+],
   "geometry": {"coordinates":[-123.261425,44.562179],"type":"Point"}
 }

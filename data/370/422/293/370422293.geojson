@@ -2,13 +2,14 @@
   "id": 370422293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192144,45.210024,-123.192144,45.210024",
     "geom:latitude":45.210024,
     "geom:longitude":-123.192144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 NE 3rd St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370422293,
-    "wof:lastmodified":1449029317,
+    "wof:lastmodified":1466771690,
     "wof:name":"A Prompt Computer Inc",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.192144,45.210024,-123.192144,45.210024],
+  "bbox": [
+    -123.192144,
+    45.210024,
+    -123.192144,
+    45.210024
+],
   "geometry": {"coordinates":[-123.192144,45.210024],"type":"Point"}
 }

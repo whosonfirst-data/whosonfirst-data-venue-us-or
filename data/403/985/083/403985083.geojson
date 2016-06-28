@@ -2,13 +2,14 @@
   "id": 403985083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.214567,44.312019,-121.214567,44.312019",
     "geom:latitude":44.312019,
     "geom:longitude":-121.214567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3989 NW Xavier Ave",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403985083,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1466768875,
     "wof:name":"Oregon Solar Screen",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solar"
     ]
 },
-  "bbox": [-121.214567,44.312019,-121.214567,44.312019],
+  "bbox": [
+    -121.214567,
+    44.312019,
+    -121.214567,
+    44.312019
+],
   "geometry": {"coordinates":[-121.214567,44.312019],"type":"Point"}
 }

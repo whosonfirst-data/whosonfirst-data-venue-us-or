@@ -2,13 +2,14 @@
   "id": 370367651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.815513,45.615329,-122.815513,45.615329",
     "geom:latitude":45.615329,
     "geom:longitude":-122.815513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13342 NW Newberry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370367651,
-    "wof:lastmodified":1449031073,
+    "wof:lastmodified":1466771163,
     "wof:name":"Brian Lightcap",
     "wof:parent_id":85830793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "environmental"
     ]
 },
-  "bbox": [-122.815513,45.615329,-122.815513,45.615329],
+  "bbox": [
+    -122.815513,
+    45.615329,
+    -122.815513,
+    45.615329
+],
   "geometry": {"coordinates":[-122.815513,45.615329],"type":"Point"}
 }

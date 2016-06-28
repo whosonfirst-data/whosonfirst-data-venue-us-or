@@ -2,13 +2,14 @@
   "id": 403810203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.27595,44.579532,-123.27595,44.579532",
     "geom:latitude":44.579532,
     "geom:longitude":-123.27595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 NW Kings Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403810203,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466769821,
     "wof:name":"Cinda M Flynn ND",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.27595,44.579532,-123.27595,44.579532],
-  "geometry": {"coordinates":[-123.27595,44.579532],"type":"Point"}
+  "bbox": [
+    -123.27595,
+    44.579532,
+    -123.27595,
+    44.579532
+],
+  "geometry": {"coordinates":[-123.27594999999999,44.579532],"type":"Point"}
 }

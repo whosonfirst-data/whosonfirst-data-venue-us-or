@@ -2,13 +2,14 @@
   "id": 370583029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.533014,45.511672,-122.533014,45.511672",
     "geom:latitude":45.511672,
     "geom:longitude":-122.533014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12535 SE Market St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370583029,
-    "wof:lastmodified":1449031768,
+    "wof:lastmodified":1466772821,
     "wof:name":"My Home Services",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.533014,45.511672,-122.533014,45.511672],
-  "geometry": {"coordinates":[-122.533014,45.511672],"type":"Point"}
+  "bbox": [
+    -122.533014,
+    45.511672,
+    -122.533014,
+    45.511672
+],
+  "geometry": {"coordinates":[-122.53301399999999,45.511672],"type":"Point"}
 }

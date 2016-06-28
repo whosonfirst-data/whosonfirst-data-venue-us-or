@@ -2,13 +2,14 @@
   "id": 387112583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045966,45.514404,-123.045966,45.514404",
     "geom:latitude":45.514404,
     "geom:longitude":-123.045966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 S 21st Ct",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387112583,
-    "wof:lastmodified":1449057854,
+    "wof:lastmodified":1466769025,
     "wof:name":"Hayden Consulting Group",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.045966,45.514404,-123.045966,45.514404],
-  "geometry": {"coordinates":[-123.045966,45.514404],"type":"Point"}
+  "bbox": [
+    -123.045966,
+    45.514404,
+    -123.045966,
+    45.514404
+],
+  "geometry": {"coordinates":[-123.04596600000001,45.514404],"type":"Point"}
 }

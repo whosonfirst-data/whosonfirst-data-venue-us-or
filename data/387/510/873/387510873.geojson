@@ -2,13 +2,14 @@
   "id": 387510873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.691145,45.2643,-122.691145,45.2643",
     "geom:latitude":45.2643,
     "geom:longitude":-122.691145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 NE 2nd Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387510873,
-    "wof:lastmodified":1449058393,
+    "wof:lastmodified":1466773211,
     "wof:name":"Parsons Canby Pharmacy",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.691145,45.2643,-122.691145,45.2643],
-  "geometry": {"coordinates":[-122.691145,45.2643],"type":"Point"}
+  "bbox": [
+    -122.691145,
+    45.2643,
+    -122.691145,
+    45.2643
+],
+  "geometry": {"coordinates":[-122.69114500000001,45.2643],"type":"Point"}
 }

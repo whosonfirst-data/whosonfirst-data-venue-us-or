@@ -2,13 +2,14 @@
   "id": 370518117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.723148,45.486271,-122.723148,45.486271",
     "geom:latitude":45.486271,
     "geom:longitude":-122.723148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5102 SW 45th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370518117,
-    "wof:lastmodified":1449030986,
+    "wof:lastmodified":1466772339,
     "wof:name":"Trauma & Grief Counseling Serv",
     "wof:parent_id":85821817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.723148,45.486271,-122.723148,45.486271],
-  "geometry": {"coordinates":[-122.723148,45.486271],"type":"Point"}
+  "bbox": [
+    -122.723148,
+    45.486271,
+    -122.723148,
+    45.486271
+],
+  "geometry": {"coordinates":[-122.72314799999999,45.486271],"type":"Point"}
 }

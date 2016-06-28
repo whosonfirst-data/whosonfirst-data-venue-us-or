@@ -2,13 +2,14 @@
   "id": 387006277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.133625,43.701099,-124.133625,43.701099",
     "geom:latitude":43.701099,
     "geom:longitude":-124.133625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Ranch Rd",
     "sg:city":"Reedsport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387006277,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1466767235,
     "wof:name":"Reedsport Activity Park Inc",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.133625,43.701099,-124.133625,43.701099],
-  "geometry": {"coordinates":[-124.133625,43.701099],"type":"Point"}
+  "bbox": [
+    -124.133625,
+    43.701099,
+    -124.133625,
+    43.701099
+],
+  "geometry": {"coordinates":[-124.13362499999999,43.701099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387550907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.596669,45.459443,-122.596669,45.459443",
     "geom:latitude":45.459443,
     "geom:longitude":-122.596669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6233 SE Fern Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387550907,
-    "wof:lastmodified":1449058171,
+    "wof:lastmodified":1466773505,
     "wof:name":"Septiclear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewer"
     ]
 },
-  "bbox": [-122.596669,45.459443,-122.596669,45.459443],
-  "geometry": {"coordinates":[-122.596669,45.459443],"type":"Point"}
+  "bbox": [
+    -122.596669,
+    45.459443,
+    -122.596669,
+    45.459443
+],
+  "geometry": {"coordinates":[-122.59666900000001,45.459443],"type":"Point"}
 }

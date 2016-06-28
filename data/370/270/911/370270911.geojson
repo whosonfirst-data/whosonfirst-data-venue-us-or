@@ -2,13 +2,14 @@
   "id": 370270911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.777182,45.446199,-122.777182,45.446199",
     "geom:latitude":45.446199,
     "geom:longitude":-122.777182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10246 SW Washington Square Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370270911,
-    "wof:lastmodified":1449029692,
+    "wof:lastmodified":1466769277,
     "wof:name":"Brava",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.777182,45.446199,-122.777182,45.446199],
+  "bbox": [
+    -122.777182,
+    45.446199,
+    -122.777182,
+    45.446199
+],
   "geometry": {"coordinates":[-122.777182,45.446199],"type":"Point"}
 }

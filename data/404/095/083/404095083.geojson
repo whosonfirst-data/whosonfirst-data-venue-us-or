@@ -2,13 +2,14 @@
   "id": 404095083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.884291,45.716524,-123.884291,45.716524",
     "geom:latitude":45.716524,
     "geom:longitude":-123.884291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 Tideland Rd",
     "sg:city":"Nehalem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404095083,
-    "wof:lastmodified":1449039699,
+    "wof:lastmodified":1466770411,
     "wof:name":"Nehalem Bay Wastewater Agency",
     "wof:parent_id":85857361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-123.884291,45.716524,-123.884291,45.716524],
+  "bbox": [
+    -123.884291,
+    45.716524,
+    -123.884291,
+    45.716524
+],
   "geometry": {"coordinates":[-123.884291,45.716524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370828279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.811129,46.190748,-123.811129,46.190748",
     "geom:latitude":46.190748,
     "geom:longitude":-123.811129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 30th St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370828279,
-    "wof:lastmodified":1449030797,
+    "wof:lastmodified":1466774280,
     "wof:name":"Police Department",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-123.811129,46.190748,-123.811129,46.190748],
-  "geometry": {"coordinates":[-123.811129,46.190748],"type":"Point"}
+  "bbox": [
+    -123.811129,
+    46.190748,
+    -123.811129,
+    46.190748
+],
+  "geometry": {"coordinates":[-123.81112899999999,46.190748],"type":"Point"}
 }

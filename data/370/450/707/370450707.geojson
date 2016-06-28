@@ -2,13 +2,14 @@
   "id": 370450707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.789613,45.190985,-122.789613,45.190985",
     "geom:latitude":45.190985,
     "geom:longitude":-122.789613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13255 Taylor Ln NE",
     "sg:city":"Hubbard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370450707,
-    "wof:lastmodified":1449031949,
+    "wof:lastmodified":1466771871,
     "wof:name":"Waggerby Mobile Svc",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.789613,45.190985,-122.789613,45.190985],
+  "bbox": [
+    -122.789613,
+    45.190985,
+    -122.789613,
+    45.190985
+],
   "geometry": {"coordinates":[-122.789613,45.190985],"type":"Point"}
 }

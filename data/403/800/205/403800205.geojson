@@ -2,13 +2,14 @@
   "id": 403800205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.089877,44.045443,-123.089877,44.045443",
     "geom:latitude":44.045443,
     "geom:longitude":-123.089877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 E 13th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403800205,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1466769626,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.089877,44.045443,-123.089877,44.045443],
+  "bbox": [
+    -123.089877,
+    44.045443,
+    -123.089877,
+    44.045443
+],
   "geometry": {"coordinates":[-123.089877,44.045443],"type":"Point"}
 }

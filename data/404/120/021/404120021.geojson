@@ -2,13 +2,14 @@
   "id": 404120021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.127997,44.101705,-123.127997,44.101705",
     "geom:latitude":44.101705,
     "geom:longitude":-123.127997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Green Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404120021,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1466771497,
     "wof:name":"Santa Clara Residential Inn",
     "wof:parent_id":85877255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.127997,44.101705,-123.127997,44.101705],
-  "geometry": {"coordinates":[-123.127997,44.101705],"type":"Point"}
+  "bbox": [
+    -123.127997,
+    44.101705,
+    -123.127997,
+    44.101705
+],
+  "geometry": {"coordinates":[-123.12799699999999,44.101705],"type":"Point"}
 }

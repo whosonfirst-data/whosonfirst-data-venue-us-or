@@ -2,13 +2,14 @@
   "id": 370545893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.121209,44.057625,-123.121209,44.057625",
     "geom:latitude":44.057625,
     "geom:longitude":-123.121209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 W 2nd Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370545893,
-    "wof:lastmodified":1449029911,
+    "wof:lastmodified":1466772793,
     "wof:name":"Tarleton Bull Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "structural"
     ]
 },
-  "bbox": [-123.121209,44.057625,-123.121209,44.057625],
-  "geometry": {"coordinates":[-123.121209,44.057625],"type":"Point"}
+  "bbox": [
+    -123.121209,
+    44.057625,
+    -123.121209,
+    44.057625
+],
+  "geometry": {"coordinates":[-123.12120899999999,44.057625],"type":"Point"}
 }

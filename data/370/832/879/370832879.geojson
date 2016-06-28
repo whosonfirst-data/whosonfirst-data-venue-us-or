@@ -2,13 +2,14 @@
   "id": 370832879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763849,45.406305,-122.763849,45.406305",
     "geom:latitude":45.406305,
     "geom:longitude":-122.763849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8376 SW Bonaventure Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370832879,
-    "wof:lastmodified":1449029074,
+    "wof:lastmodified":1466774307,
     "wof:name":"Heidis Montessori Prescl &DAy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.763849,45.406305,-122.763849,45.406305],
-  "geometry": {"coordinates":[-122.763849,45.406305],"type":"Point"}
+  "bbox": [
+    -122.763849,
+    45.406305,
+    -122.763849,
+    45.406305
+],
+  "geometry": {"coordinates":[-122.76384899999999,45.406305],"type":"Point"}
 }

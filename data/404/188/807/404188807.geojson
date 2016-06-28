@@ -2,13 +2,14 @@
   "id": 404188807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.0267,44.991901,-123.0267,44.991901",
     "geom:latitude":44.991901,
     "geom:longitude":-123.0267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4669 River Rd N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404188807,
-    "wof:lastmodified":1449039663,
+    "wof:lastmodified":1466767917,
     "wof:name":"A R C O",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-123.0267,44.991901,-123.0267,44.991901],
-  "geometry": {"coordinates":[-123.0267,44.991901],"type":"Point"}
+  "bbox": [
+    -123.0267,
+    44.991901,
+    -123.0267,
+    44.991901
+],
+  "geometry": {"coordinates":[-123.02670000000001,44.991901],"type":"Point"}
 }

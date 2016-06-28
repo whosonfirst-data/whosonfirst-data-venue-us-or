@@ -2,13 +2,14 @@
   "id": 387221269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.561799,45.493551,-122.561799,45.493551",
     "geom:latitude":45.493551,
     "geom:longitude":-122.561799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 SE 99th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387221269,
-    "wof:lastmodified":1449057783,
+    "wof:lastmodified":1466771231,
     "wof:name":"Laidlaw Transit Services Inc",
     "wof:parent_id":85893243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.561799,45.493551,-122.561799,45.493551],
-  "geometry": {"coordinates":[-122.561799,45.493551],"type":"Point"}
+  "bbox": [
+    -122.561799,
+    45.493551,
+    -122.561799,
+    45.493551
+],
+  "geometry": {"coordinates":[-122.56179899999999,45.493551],"type":"Point"}
 }

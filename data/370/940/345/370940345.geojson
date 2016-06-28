@@ -2,13 +2,14 @@
   "id": 370940345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.076777,44.004597,-123.076777,44.004597",
     "geom:latitude":44.004597,
     "geom:longitude":-123.076777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Larch St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370940345,
-    "wof:lastmodified":1449029922,
+    "wof:lastmodified":1466774880,
     "wof:name":"University Dorm",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-123.076777,44.004597,-123.076777,44.004597],
-  "geometry": {"coordinates":[-123.076777,44.004597],"type":"Point"}
+  "bbox": [
+    -123.076777,
+    44.004597,
+    -123.076777,
+    44.004597
+],
+  "geometry": {"coordinates":[-123.07677700000001,44.004597],"type":"Point"}
 }

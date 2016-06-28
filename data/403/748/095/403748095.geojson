@@ -2,13 +2,14 @@
   "id": 403748095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.012993,45.278696,-123.012993,45.278696",
     "geom:latitude":45.278696,
     "geom:longitude":-123.012993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 SW 7th St",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403748095,
-    "wof:lastmodified":1449055620,
+    "wof:lastmodified":1466768825,
     "wof:name":"Rose Park Senior Apartments",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.012993,45.278696,-123.012993,45.278696],
-  "geometry": {"coordinates":[-123.012993,45.278696],"type":"Point"}
+  "bbox": [
+    -123.012993,
+    45.278696,
+    -123.012993,
+    45.278696
+],
+  "geometry": {"coordinates":[-123.01299299999999,45.278696],"type":"Point"}
 }

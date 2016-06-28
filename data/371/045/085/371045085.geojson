@@ -2,13 +2,14 @@
   "id": 371045085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.98108,45.306035,-122.98108,45.306035",
     "geom:latitude":45.306035,
     "geom:longitude":-122.98108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Illinois St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371045085,
-    "wof:lastmodified":1449050006,
+    "wof:lastmodified":1466767889,
     "wof:name":"J D Rainwater Inc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.98108,45.306035,-122.98108,45.306035],
-  "geometry": {"coordinates":[-122.98108,45.306035],"type":"Point"}
+  "bbox": [
+    -122.98108,
+    45.306035,
+    -122.98108,
+    45.306035
+],
+  "geometry": {"coordinates":[-122.98108000000001,45.306035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403791763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.957574,45.5093,-122.957574,45.5093",
     "geom:latitude":45.5093,
     "geom:longitude":-122.957574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2476 SE Willow Dr",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403791763,
-    "wof:lastmodified":1449055661,
+    "wof:lastmodified":1466769505,
     "wof:name":"Unger Enterprises Inc",
     "wof:parent_id":85836887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.957574,45.5093,-122.957574,45.5093],
-  "geometry": {"coordinates":[-122.957574,45.5093],"type":"Point"}
+  "bbox": [
+    -122.957574,
+    45.5093,
+    -122.957574,
+    45.5093
+],
+  "geometry": {"coordinates":[-122.95757399999999,45.5093],"type":"Point"}
 }

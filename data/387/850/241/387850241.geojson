@@ -2,13 +2,14 @@
   "id": 387850241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.343691,43.20217,-123.343691,43.20217",
     "geom:latitude":43.20217,
     "geom:longitude":-123.343691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 SE Magnolia St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387850241,
-    "wof:lastmodified":1449058309,
+    "wof:lastmodified":1466775152,
     "wof:name":"Childers Rv Connection",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.343691,43.20217,-123.343691,43.20217],
-  "geometry": {"coordinates":[-123.343691,43.20217],"type":"Point"}
+  "bbox": [
+    -123.343691,
+    43.20217,
+    -123.343691,
+    43.20217
+],
+  "geometry": {"coordinates":[-123.34369100000001,43.20217],"type":"Point"}
 }

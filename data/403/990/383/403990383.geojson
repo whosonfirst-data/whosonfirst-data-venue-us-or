@@ -2,13 +2,14 @@
   "id": 403990383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.381554,44.15272,-121.381554,44.15272",
     "geom:latitude":44.15272,
     "geom:longitude":-121.381554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18775 Pinehurst Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403990383,
-    "wof:lastmodified":1449055509,
+    "wof:lastmodified":1466768971,
     "wof:name":"Ron Miller",
     "wof:parent_id":85876215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.381554,44.15272,-121.381554,44.15272],
-  "geometry": {"coordinates":[-121.381554,44.15272],"type":"Point"}
+  "bbox": [
+    -121.381554,
+    44.15272,
+    -121.381554,
+    44.15272
+],
+  "geometry": {"coordinates":[-121.38155399999999,44.15272],"type":"Point"}
 }

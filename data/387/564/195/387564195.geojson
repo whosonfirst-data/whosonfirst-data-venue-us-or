@@ -2,13 +2,14 @@
   "id": 387564195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.349117,45.33209,-122.349117,45.33209",
     "geom:latitude":45.33209,
     "geom:longitude":-122.349117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26595 State Hwy 224",
     "sg:city":"Eagle Creek",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387564195,
-    "wof:lastmodified":1449059694,
+    "wof:lastmodified":1466773711,
     "wof:name":"Stoneybrook Stable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.349117,45.33209,-122.349117,45.33209],
-  "geometry": {"coordinates":[-122.349117,45.33209],"type":"Point"}
+  "bbox": [
+    -122.349117,
+    45.33209,
+    -122.349117,
+    45.33209
+],
+  "geometry": {"coordinates":[-122.34911700000001,45.33209],"type":"Point"}
 }

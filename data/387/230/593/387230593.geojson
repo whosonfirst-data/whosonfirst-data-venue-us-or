@@ -2,13 +2,14 @@
   "id": 387230593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.870305,45.486597,-122.870305,45.486597",
     "geom:latitude":45.486597,
     "geom:longitude":-122.870305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18650 SW Kinnaman Rd",
     "sg:city":"Aloha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387230593,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1466771400,
     "wof:name":"Aloha Swim Ctr",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "swimming"
     ]
 },
-  "bbox": [-122.870305,45.486597,-122.870305,45.486597],
+  "bbox": [
+    -122.870305,
+    45.486597,
+    -122.870305,
+    45.486597
+],
   "geometry": {"coordinates":[-122.870305,45.486597],"type":"Point"}
 }

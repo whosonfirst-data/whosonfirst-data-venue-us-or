@@ -2,13 +2,14 @@
   "id": 403722221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.673388,45.521567,-122.673388,45.521567",
     "geom:latitude":45.521567,
     "geom:longitude":-122.673388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 SW Pine St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403722221,
-    "wof:lastmodified":1449055093,
+    "wof:lastmodified":1466768255,
     "wof:name":"Funnel Box Inc",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-122.673388,45.521567,-122.673388,45.521567],
+  "bbox": [
+    -122.673388,
+    45.521567,
+    -122.673388,
+    45.521567
+],
   "geometry": {"coordinates":[-122.673388,45.521567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370359935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.14499,44.127094,-123.14499,44.127094",
     "geom:latitude":44.127094,
     "geom:longitude":-123.14499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Carthage Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370359935,
-    "wof:lastmodified":1449029019,
+    "wof:lastmodified":1466771009,
     "wof:name":"Play It Again Cds & Video",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-123.14499,44.127094,-123.14499,44.127094],
-  "geometry": {"coordinates":[-123.14499,44.127094],"type":"Point"}
+  "bbox": [
+    -123.14499,
+    44.127094,
+    -123.14499,
+    44.127094
+],
+  "geometry": {"coordinates":[-123.14499000000001,44.127094],"type":"Point"}
 }

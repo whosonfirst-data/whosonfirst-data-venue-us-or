@@ -2,13 +2,14 @@
   "id": 387921085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018414,44.007301,-123.018414,44.007301",
     "geom:latitude":44.007301,
     "geom:longitude":-123.018414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86470 Franklin Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387921085,
-    "wof:lastmodified":1449058552,
+    "wof:lastmodified":1466775366,
     "wof:name":"J C I",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rock"
     ]
 },
-  "bbox": [-123.018414,44.007301,-123.018414,44.007301],
-  "geometry": {"coordinates":[-123.018414,44.007301],"type":"Point"}
+  "bbox": [
+    -123.018414,
+    44.007301,
+    -123.018414,
+    44.007301
+],
+  "geometry": {"coordinates":[-123.01841400000001,44.007301],"type":"Point"}
 }

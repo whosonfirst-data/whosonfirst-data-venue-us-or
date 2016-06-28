@@ -2,13 +2,14 @@
   "id": 387489209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.962741,46.200951,-123.962741,46.200951",
     "geom:latitude":46.200951,
     "geom:longitude":-123.962741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Russell Dr",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387489209,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1466773172,
     "wof:name":"N W Appraisal Network",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-123.962741,46.200951,-123.962741,46.200951],
-  "geometry": {"coordinates":[-123.962741,46.200951],"type":"Point"}
+  "bbox": [
+    -123.962741,
+    46.200951,
+    -123.962741,
+    46.200951
+],
+  "geometry": {"coordinates":[-123.96274099999999,46.200951],"type":"Point"}
 }

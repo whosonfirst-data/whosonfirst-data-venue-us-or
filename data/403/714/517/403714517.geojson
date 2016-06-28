@@ -2,13 +2,14 @@
   "id": 403714517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.626753,45.478542,-122.626753,45.478542",
     "geom:latitude":45.478542,
     "geom:longitude":-122.626753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 SE Martins St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403714517,
-    "wof:lastmodified":1449055285,
+    "wof:lastmodified":1466768052,
     "wof:name":"Am/PM Mini Market",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operates"
     ]
 },
-  "bbox": [-122.626753,45.478542,-122.626753,45.478542],
-  "geometry": {"coordinates":[-122.626753,45.478542],"type":"Point"}
+  "bbox": [
+    -122.626753,
+    45.478542,
+    -122.626753,
+    45.478542
+],
+  "geometry": {"coordinates":[-122.62675299999999,45.478542],"type":"Point"}
 }

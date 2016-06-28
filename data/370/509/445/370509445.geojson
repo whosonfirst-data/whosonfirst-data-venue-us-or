@@ -2,13 +2,14 @@
   "id": 370509445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.630186,45.501865,-122.630186,45.501865",
     "geom:latitude":45.501865,
     "geom:longitude":-122.630186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3394 SE Woodward St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370509445,
-    "wof:lastmodified":1449029207,
+    "wof:lastmodified":1466772241,
     "wof:name":"Form & Function",
     "wof:parent_id":85893169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.630186,45.501865,-122.630186,45.501865],
-  "geometry": {"coordinates":[-122.630186,45.501865],"type":"Point"}
+  "bbox": [
+    -122.630186,
+    45.501865,
+    -122.630186,
+    45.501865
+],
+  "geometry": {"coordinates":[-122.63018599999999,45.501865],"type":"Point"}
 }

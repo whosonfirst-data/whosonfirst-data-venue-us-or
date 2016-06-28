@@ -2,13 +2,14 @@
   "id": 404148905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.45013,45.507495,-122.45013,45.507495",
     "geom:latitude":45.507495,
     "geom:longitude":-122.45013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 NW Bella Vista Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404148905,
-    "wof:lastmodified":1449040126,
+    "wof:lastmodified":1466767229,
     "wof:name":"Magno Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.45013,45.507495,-122.45013,45.507495],
+  "bbox": [
+    -122.45013,
+    45.507495,
+    -122.45013,
+    45.507495
+],
   "geometry": {"coordinates":[-122.45013,45.507495],"type":"Point"}
 }

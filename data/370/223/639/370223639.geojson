@@ -2,13 +2,14 @@
   "id": 370223639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.703666,45.505482,-122.703666,45.505482",
     "geom:latitude":45.505482,
     "geom:longitude":-122.703666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 SW Georgian Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370223639,
-    "wof:lastmodified":1449029318,
+    "wof:lastmodified":1466768433,
     "wof:name":"Georgian Press Co",
     "wof:parent_id":85842887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-122.703666,45.505482,-122.703666,45.505482],
+  "bbox": [
+    -122.703666,
+    45.505482,
+    -122.703666,
+    45.505482
+],
   "geometry": {"coordinates":[-122.703666,45.505482],"type":"Point"}
 }

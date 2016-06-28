@@ -2,13 +2,14 @@
   "id": 403890011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.381706,45.094248,-123.381706,45.094248",
     "geom:latitude":45.094248,
     "geom:longitude":-123.381706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 SE Sheridan Rd",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403890011,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1466767195,
     "wof:name":"Liberty Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-123.381706,45.094248,-123.381706,45.094248],
-  "geometry": {"coordinates":[-123.381706,45.094248],"type":"Point"}
+  "bbox": [
+    -123.381706,
+    45.094248,
+    -123.381706,
+    45.094248
+],
+  "geometry": {"coordinates":[-123.38170599999999,45.094248],"type":"Point"}
 }

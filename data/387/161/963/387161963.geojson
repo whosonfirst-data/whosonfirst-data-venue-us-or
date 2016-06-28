@@ -2,13 +2,14 @@
   "id": 387161963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11512,44.090527,-123.11512,44.090527",
     "geom:latitude":44.090527,
     "geom:longitude":-123.11512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2788 Riverwalk Loop",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387161963,
-    "wof:lastmodified":1449057614,
+    "wof:lastmodified":1466770008,
     "wof:name":"Lone Star Steakhouse",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.11512,44.090527,-123.11512,44.090527],
+  "bbox": [
+    -123.11512,
+    44.090527,
+    -123.11512,
+    44.090527
+],
   "geometry": {"coordinates":[-123.11512,44.090527],"type":"Point"}
 }

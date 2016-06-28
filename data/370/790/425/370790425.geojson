@@ -2,13 +2,14 @@
   "id": 370790425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258929,44.5813,-123.258929,44.5813",
     "geom:latitude":44.5813,
     "geom:longitude":-123.258929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370790425,
-    "wof:lastmodified":1449031693,
+    "wof:lastmodified":1466773940,
     "wof:name":"Extreme Auto & Truck Acces",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-123.258929,44.5813,-123.258929,44.5813],
-  "geometry": {"coordinates":[-123.258929,44.5813],"type":"Point"}
+  "bbox": [
+    -123.258929,
+    44.5813,
+    -123.258929,
+    44.5813
+],
+  "geometry": {"coordinates":[-123.25892899999999,44.5813],"type":"Point"}
 }

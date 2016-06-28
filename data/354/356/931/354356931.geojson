@@ -2,13 +2,14 @@
   "id": 354356931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.329017,42.440847,-123.329017,42.440847",
     "geom:latitude":42.440847,
     "geom:longitude":-123.329017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 NW F St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354356931,
-    "wof:lastmodified":1449067341,
+    "wof:lastmodified":1466770478,
     "wof:name":"Josephine County Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-123.329017,42.440847,-123.329017,42.440847],
-  "geometry": {"coordinates":[-123.329017,42.440847],"type":"Point"}
+  "bbox": [
+    -123.329017,
+    42.440847,
+    -123.329017,
+    42.440847
+],
+  "geometry": {"coordinates":[-123.32901699999999,42.440847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370611519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.950645,44.045811,-122.950645,44.045811",
     "geom:latitude":44.045811,
     "geom:longitude":-122.950645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4684 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370611519,
-    "wof:lastmodified":1449031769,
+    "wof:lastmodified":1466773178,
     "wof:name":"Uncle Bens Auto Repari Inc",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-122.950645,44.045811,-122.950645,44.045811],
-  "geometry": {"coordinates":[-122.950645,44.045811],"type":"Point"}
+  "bbox": [
+    -122.950645,
+    44.045811,
+    -122.950645,
+    44.045811
+],
+  "geometry": {"coordinates":[-122.95064499999999,44.045811],"type":"Point"}
 }

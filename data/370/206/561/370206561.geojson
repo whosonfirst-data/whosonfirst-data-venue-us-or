@@ -2,13 +2,14 @@
   "id": 370206561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.406169,44.137088,-123.406169,44.137088",
     "geom:latitude":44.137088,
     "geom:longitude":-123.406169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23845 State Hwy 36",
     "sg:city":"Cheshire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370206561,
-    "wof:lastmodified":1449031376,
+    "wof:lastmodified":1466768145,
     "wof:name":"Crissmans Trees",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "christmas"
     ]
 },
-  "bbox": [-123.406169,44.137088,-123.406169,44.137088],
-  "geometry": {"coordinates":[-123.406169,44.137088],"type":"Point"}
+  "bbox": [
+    -123.406169,
+    44.137088,
+    -123.406169,
+    44.137088
+],
+  "geometry": {"coordinates":[-123.40616900000001,44.137088],"type":"Point"}
 }

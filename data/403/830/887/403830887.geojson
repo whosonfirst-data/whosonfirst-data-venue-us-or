@@ -2,13 +2,14 @@
   "id": 403830887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.922018,45.987398,-123.922018,45.987398",
     "geom:latitude":45.987398,
     "geom:longitude":-123.922018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Irvine Pl",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403830887,
-    "wof:lastmodified":1449054926,
+    "wof:lastmodified":1466770372,
     "wof:name":"Tradesman Construction",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.922018,45.987398,-123.922018,45.987398],
-  "geometry": {"coordinates":[-123.922018,45.987398],"type":"Point"}
+  "bbox": [
+    -123.922018,
+    45.987398,
+    -123.922018,
+    45.987398
+],
+  "geometry": {"coordinates":[-123.92201799999999,45.987398],"type":"Point"}
 }

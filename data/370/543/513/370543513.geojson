@@ -2,13 +2,14 @@
   "id": 370543513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.750633,45.322201,-122.750633,45.322201",
     "geom:latitude":45.322201,
     "geom:longitude":-122.750633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 SW Frog Pond Ln",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370543513,
-    "wof:lastmodified":1449029752,
+    "wof:lastmodified":1466772641,
     "wof:name":"Hayford Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-122.750633,45.322201,-122.750633,45.322201],
-  "geometry": {"coordinates":[-122.750633,45.322201],"type":"Point"}
+  "bbox": [
+    -122.750633,
+    45.322201,
+    -122.750633,
+    45.322201
+],
+  "geometry": {"coordinates":[-122.75063299999999,45.322201],"type":"Point"}
 }

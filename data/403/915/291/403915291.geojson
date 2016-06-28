@@ -2,13 +2,14 @@
   "id": 403915291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.861055,42.337904,-122.861055,42.337904",
     "geom:latitude":42.337904,
     "geom:longitude":-122.861055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Crater Lake Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403915291,
-    "wof:lastmodified":1449055939,
+    "wof:lastmodified":1466767631,
     "wof:name":"Rogue Travel",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-122.861055,42.337904,-122.861055,42.337904],
-  "geometry": {"coordinates":[-122.861055,42.337904],"type":"Point"}
+  "bbox": [
+    -122.861055,
+    42.337904,
+    -122.861055,
+    42.337904
+],
+  "geometry": {"coordinates":[-122.86105499999999,42.337904],"type":"Point"}
 }

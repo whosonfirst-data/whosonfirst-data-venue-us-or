@@ -2,13 +2,14 @@
   "id": 403983169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.476031,45.170859,-122.476031,45.170859",
     "geom:latitude":45.170859,
     "geom:longitude":-122.476031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29998 S Winslow Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403983169,
-    "wof:lastmodified":1449055854,
+    "wof:lastmodified":1466768847,
     "wof:name":"Marias Janitorial",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-122.476031,45.170859,-122.476031,45.170859],
-  "geometry": {"coordinates":[-122.476031,45.170859],"type":"Point"}
+  "bbox": [
+    -122.476031,
+    45.170859,
+    -122.476031,
+    45.170859
+],
+  "geometry": {"coordinates":[-122.47603100000001,45.170859],"type":"Point"}
 }

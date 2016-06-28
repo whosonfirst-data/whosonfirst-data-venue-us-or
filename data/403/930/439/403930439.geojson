@@ -2,13 +2,14 @@
   "id": 403930439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.098791,44.03428,-123.098791,44.03428",
     "geom:latitude":44.03428,
     "geom:longitude":-123.098791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W 23rd Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403930439,
-    "wof:lastmodified":1449055055,
+    "wof:lastmodified":1466767906,
     "wof:name":"Good Software Solutions",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-123.098791,44.03428,-123.098791,44.03428],
-  "geometry": {"coordinates":[-123.098791,44.03428],"type":"Point"}
+  "bbox": [
+    -123.098791,
+    44.03428,
+    -123.098791,
+    44.03428
+],
+  "geometry": {"coordinates":[-123.09879100000001,44.03428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387561845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.916608,45.713845,-123.916608,45.713845",
     "geom:latitude":45.713845,
     "geom:longitude":-123.916608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11105 Evergreen Way",
     "sg:city":"Nehalem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387561845,
-    "wof:lastmodified":1449058805,
+    "wof:lastmodified":1466773597,
     "wof:name":"Gorbec Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.916608,45.713845,-123.916608,45.713845],
+  "bbox": [
+    -123.916608,
+    45.713845,
+    -123.916608,
+    45.713845
+],
   "geometry": {"coordinates":[-123.916608,45.713845],"type":"Point"}
 }

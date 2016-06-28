@@ -2,13 +2,14 @@
   "id": 387101919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.811354,45.457144,-123.811354,45.457144",
     "geom:latitude":45.457144,
     "geom:longitude":-123.811354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 3rd St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387101919,
-    "wof:lastmodified":1449058111,
+    "wof:lastmodified":1466768839,
     "wof:name":"Pacific Coast Rock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.811354,45.457144,-123.811354,45.457144],
-  "geometry": {"coordinates":[-123.811354,45.457144],"type":"Point"}
+  "bbox": [
+    -123.811354,
+    45.457144,
+    -123.811354,
+    45.457144
+],
+  "geometry": {"coordinates":[-123.81135399999999,45.457144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370771341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.994292,44.968599,-122.994292,44.968599",
     "geom:latitude":44.968599,
     "geom:longitude":-122.994292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Fairhaven Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370771341,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1466773821,
     "wof:name":"Dale Manufacturing",
     "wof:parent_id":85880579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-122.994292,44.968599,-122.994292,44.968599],
+  "bbox": [
+    -122.994292,
+    44.968599,
+    -122.994292,
+    44.968599
+],
   "geometry": {"coordinates":[-122.994292,44.968599],"type":"Point"}
 }

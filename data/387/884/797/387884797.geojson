@@ -2,13 +2,14 @@
   "id": 387884797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.342959,43.210175,-123.342959,43.210175",
     "geom:latitude":43.210175,
     "geom:longitude":-123.342959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 SE Jackson St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387884797,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1466775242,
     "wof:name":"Prints Charming Engraving",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-123.342959,43.210175,-123.342959,43.210175],
-  "geometry": {"coordinates":[-123.342959,43.210175],"type":"Point"}
+  "bbox": [
+    -123.342959,
+    43.210175,
+    -123.342959,
+    43.210175
+],
+  "geometry": {"coordinates":[-123.34295899999999,43.210175],"type":"Point"}
 }

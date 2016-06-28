@@ -2,13 +2,14 @@
   "id": 371072085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.604171,45.355841,-122.604171,45.355841",
     "geom:latitude":45.355841,
     "geom:longitude":-122.604171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 John Adams St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371072085,
-    "wof:lastmodified":1449049595,
+    "wof:lastmodified":1466768336,
     "wof:name":"Carnegie Center",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-122.604171,45.355841,-122.604171,45.355841],
-  "geometry": {"coordinates":[-122.604171,45.355841],"type":"Point"}
+  "bbox": [
+    -122.604171,
+    45.355841,
+    -122.604171,
+    45.355841
+],
+  "geometry": {"coordinates":[-122.60417099999999,45.355841],"type":"Point"}
 }

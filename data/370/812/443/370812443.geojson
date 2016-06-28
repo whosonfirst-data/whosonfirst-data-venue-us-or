@@ -2,13 +2,14 @@
   "id": 370812443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.48874,45.499366,-122.48874,45.499366",
     "geom:latitude":45.499366,
     "geom:longitude":-122.48874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 SE 169th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370812443,
-    "wof:lastmodified":1449029159,
+    "wof:lastmodified":1466774145,
     "wof:name":"C & S Homework Construction",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.48874,45.499366,-122.48874,45.499366],
-  "geometry": {"coordinates":[-122.48874,45.499366],"type":"Point"}
+  "bbox": [
+    -122.48874,
+    45.499366,
+    -122.48874,
+    45.499366
+],
+  "geometry": {"coordinates":[-122.48874000000001,45.499366],"type":"Point"}
 }

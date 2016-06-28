@@ -2,13 +2,14 @@
   "id": 387932735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093377,44.019402,-123.093377,44.019402",
     "geom:latitude":44.019402,
     "geom:longitude":-123.093377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 W 34th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387932735,
-    "wof:lastmodified":1449057519,
+    "wof:lastmodified":1466775420,
     "wof:name":"Four Panel Press",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-123.093377,44.019402,-123.093377,44.019402],
+  "bbox": [
+    -123.093377,
+    44.019402,
+    -123.093377,
+    44.019402
+],
   "geometry": {"coordinates":[-123.093377,44.019402],"type":"Point"}
 }

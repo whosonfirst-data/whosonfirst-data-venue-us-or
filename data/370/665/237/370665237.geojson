@@ -2,13 +2,14 @@
   "id": 370665237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.331039,43.365814,-123.331039,43.365814",
     "geom:latitude":43.365814,
     "geom:longitude":-123.331039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Rathbun Rd",
     "sg:city":"Sutherlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370665237,
-    "wof:lastmodified":1449030131,
+    "wof:lastmodified":1466773271,
     "wof:name":"Jim Taylor Mechanic",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.331039,43.365814,-123.331039,43.365814],
+  "bbox": [
+    -123.331039,
+    43.365814,
+    -123.331039,
+    43.365814
+],
   "geometry": {"coordinates":[-123.331039,43.365814],"type":"Point"}
 }

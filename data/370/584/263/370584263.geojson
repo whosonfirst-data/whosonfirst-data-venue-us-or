@@ -2,13 +2,14 @@
   "id": 370584263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.559294,45.518261,-122.559294,45.518261",
     "geom:latitude":45.518261,
     "geom:longitude":-122.559294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10130 SE Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370584263,
-    "wof:lastmodified":1449029461,
+    "wof:lastmodified":1466772927,
     "wof:name":"Wazwan Express",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.559294,45.518261,-122.559294,45.518261],
-  "geometry": {"coordinates":[-122.559294,45.518261],"type":"Point"}
+  "bbox": [
+    -122.559294,
+    45.518261,
+    -122.559294,
+    45.518261
+],
+  "geometry": {"coordinates":[-122.55929399999999,45.518261],"type":"Point"}
 }

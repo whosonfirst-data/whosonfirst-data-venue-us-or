@@ -2,13 +2,14 @@
   "id": 370439599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.65672,45.512222,-122.65672,45.512222",
     "geom:latitude":45.512222,
     "geom:longitude":-122.65672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 SE Hawthorne Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370439599,
-    "wof:lastmodified":1449030038,
+    "wof:lastmodified":1466771892,
     "wof:name":"Silver Plume Imports Inc",
     "wof:parent_id":85816689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "furniture"
     ]
 },
-  "bbox": [-122.65672,45.512222,-122.65672,45.512222],
-  "geometry": {"coordinates":[-122.65672,45.512222],"type":"Point"}
+  "bbox": [
+    -122.65672,
+    45.512222,
+    -122.65672,
+    45.512222
+],
+  "geometry": {"coordinates":[-122.65672000000001,45.512222],"type":"Point"}
 }

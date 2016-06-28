@@ -2,13 +2,14 @@
   "id": 370258199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.021144,44.046115,-123.021144,44.046115",
     "geom:latitude":44.046115,
     "geom:longitude":-123.021144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370258199,
-    "wof:lastmodified":1449031788,
+    "wof:lastmodified":1466769039,
     "wof:name":"H & R Block",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-123.021144,44.046115,-123.021144,44.046115],
-  "geometry": {"coordinates":[-123.021144,44.046115],"type":"Point"}
+  "bbox": [
+    -123.021144,
+    44.046115,
+    -123.021144,
+    44.046115
+],
+  "geometry": {"coordinates":[-123.02114400000001,44.046115],"type":"Point"}
 }

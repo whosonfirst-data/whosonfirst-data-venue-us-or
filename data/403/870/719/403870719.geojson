@@ -2,13 +2,14 @@
   "id": 403870719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.566728,45.410527,-122.566728,45.410527",
     "geom:latitude":45.410527,
     "geom:longitude":-122.566728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9350 SE Clackamas Rd",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403870719,
-    "wof:lastmodified":1449054993,
+    "wof:lastmodified":1466771171,
     "wof:name":"Environmental Quality Dept",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-122.566728,45.410527,-122.566728,45.410527],
+  "bbox": [
+    -122.566728,
+    45.410527,
+    -122.566728,
+    45.410527
+],
   "geometry": {"coordinates":[-122.566728,45.410527],"type":"Point"}
 }

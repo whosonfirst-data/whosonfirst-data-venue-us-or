@@ -2,13 +2,14 @@
   "id": 403723113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.645503,45.548309,-122.645503,45.548309",
     "geom:latitude":45.548309,
     "geom:longitude":-122.645503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 NE Fremont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403723113,
-    "wof:lastmodified":1449055423,
+    "wof:lastmodified":1466768280,
     "wof:name":"Roy Properties LLC",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-122.645503,45.548309,-122.645503,45.548309],
-  "geometry": {"coordinates":[-122.645503,45.548309],"type":"Point"}
+  "bbox": [
+    -122.645503,
+    45.548309,
+    -122.645503,
+    45.548309
+],
+  "geometry": {"coordinates":[-122.64550300000001,45.548309],"type":"Point"}
 }

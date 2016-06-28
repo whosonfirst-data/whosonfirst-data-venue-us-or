@@ -2,13 +2,14 @@
   "id": 404146103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.854719,45.5345,-122.854719,45.5345",
     "geom:latitude":45.5345,
     "geom:longitude":-122.854719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 NW 173rd Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404146103,
-    "wof:lastmodified":1449039532,
+    "wof:lastmodified":1466767181,
     "wof:name":"Oregon Child Development Ctrs",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.854719,45.5345,-122.854719,45.5345],
+  "bbox": [
+    -122.854719,
+    45.5345,
+    -122.854719,
+    45.5345
+],
   "geometry": {"coordinates":[-122.854719,45.5345],"type":"Point"}
 }

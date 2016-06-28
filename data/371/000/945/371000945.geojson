@@ -2,13 +2,14 @@
   "id": 371000945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.937362,45.564796,-123.937362,45.564796",
     "geom:latitude":45.564796,
     "geom:longitude":-123.937362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14960 US Hwy 101 N",
     "sg:city":"Rockaway Beach",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371000945,
-    "wof:lastmodified":1449049196,
+    "wof:lastmodified":1466767143,
     "wof:name":"Lyster Bait & Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-123.937362,45.564796,-123.937362,45.564796],
-  "geometry": {"coordinates":[-123.937362,45.564796],"type":"Point"}
+  "bbox": [
+    -123.937362,
+    45.564796,
+    -123.937362,
+    45.564796
+],
+  "geometry": {"coordinates":[-123.93736199999999,45.564796],"type":"Point"}
 }

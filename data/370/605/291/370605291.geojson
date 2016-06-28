@@ -2,13 +2,14 @@
   "id": 370605291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.202256,44.419292,-123.202256,44.419292",
     "geom:latitude":44.419292,
     "geom:longitude":-123.202256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28625 Peoria Rd",
     "sg:city":"Halsey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370605291,
-    "wof:lastmodified":1449030741,
+    "wof:lastmodified":1466773065,
     "wof:name":"Bunce Equipment",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-123.202256,44.419292,-123.202256,44.419292],
-  "geometry": {"coordinates":[-123.202256,44.419292],"type":"Point"}
+  "bbox": [
+    -123.202256,
+    44.419292,
+    -123.202256,
+    44.419292
+],
+  "geometry": {"coordinates":[-123.20225600000001,44.419292],"type":"Point"}
 }

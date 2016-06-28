@@ -2,13 +2,14 @@
   "id": 370865595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.178247,44.048274,-123.178247,44.048274",
     "geom:latitude":44.048274,
     "geom:longitude":-123.178247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4747 W 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370865595,
-    "wof:lastmodified":1449031653,
+    "wof:lastmodified":1466774371,
     "wof:name":"Warehouse Antiques",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-123.178247,44.048274,-123.178247,44.048274],
+  "bbox": [
+    -123.178247,
+    44.048274,
+    -123.178247,
+    44.048274
+],
   "geometry": {"coordinates":[-123.178247,44.048274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387426973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.761319,45.454999,-122.761319,45.454999",
     "geom:latitude":45.454999,
     "geom:longitude":-122.761319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8111 SW Taylors Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387426973,
-    "wof:lastmodified":1449056913,
+    "wof:lastmodified":1466772748,
     "wof:name":"Murdocks Construction",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.761319,45.454999,-122.761319,45.454999],
+  "bbox": [
+    -122.761319,
+    45.454999,
+    -122.761319,
+    45.454999
+],
   "geometry": {"coordinates":[-122.761319,45.454999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403907749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.343354,45.242521,-122.343354,45.242521",
     "geom:latitude":45.242521,
     "geom:longitude":-122.343354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25435 S Holman Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403907749,
-    "wof:lastmodified":1449055862,
+    "wof:lastmodified":1466767496,
     "wof:name":"Bateson Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-122.343354,45.242521,-122.343354,45.242521],
-  "geometry": {"coordinates":[-122.343354,45.242521],"type":"Point"}
+  "bbox": [
+    -122.343354,
+    45.242521,
+    -122.343354,
+    45.242521
+],
+  "geometry": {"coordinates":[-122.34335400000001,45.242521],"type":"Point"}
 }

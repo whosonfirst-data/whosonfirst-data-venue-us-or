@@ -2,13 +2,14 @@
   "id": 403816651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.531465,43.67313,-121.531465,43.67313",
     "geom:latitude":43.67313,
     "geom:longitude":-121.531465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51586 Ash Rd",
     "sg:city":"La Pine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816651,
-    "wof:lastmodified":1449055413,
+    "wof:lastmodified":1466769972,
     "wof:name":"LA Pine Fence",
     "wof:parent_id":85876217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-121.531465,43.67313,-121.531465,43.67313],
+  "bbox": [
+    -121.531465,
+    43.67313,
+    -121.531465,
+    43.67313
+],
   "geometry": {"coordinates":[-121.531465,43.67313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403914723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.580539,45.567503,-122.580539,45.567503",
     "geom:latitude":45.567503,
     "geom:longitude":-122.580539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5929 NE 80th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403914723,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1466767619,
     "wof:name":"Universal Cycles",
     "wof:parent_id":85819307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-122.580539,45.567503,-122.580539,45.567503],
+  "bbox": [
+    -122.580539,
+    45.567503,
+    -122.580539,
+    45.567503
+],
   "geometry": {"coordinates":[-122.580539,45.567503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370900391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.573254,45.564568,-122.573254,45.564568",
     "geom:latitude":45.564568,
     "geom:longitude":-122.573254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5858 NE 87th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370900391,
-    "wof:lastmodified":1449030545,
+    "wof:lastmodified":1466774754,
     "wof:name":"International Yogurt Company",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "market"
     ]
 },
-  "bbox": [-122.573254,45.564568,-122.573254,45.564568],
-  "geometry": {"coordinates":[-122.573254,45.564568],"type":"Point"}
+  "bbox": [
+    -122.573254,
+    45.564568,
+    -122.573254,
+    45.564568
+],
+  "geometry": {"coordinates":[-122.57325400000001,45.564568],"type":"Point"}
 }

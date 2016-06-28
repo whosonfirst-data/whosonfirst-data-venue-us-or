@@ -2,13 +2,14 @@
   "id": 403759587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.620291,45.508974,-122.620291,45.508974",
     "geom:latitude":45.508974,
     "geom:longitude":-122.620291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1633 SE 41st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403759587,
-    "wof:lastmodified":1449055989,
+    "wof:lastmodified":1466769016,
     "wof:name":"D G Construction",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.620291,45.508974,-122.620291,45.508974],
-  "geometry": {"coordinates":[-122.620291,45.508974],"type":"Point"}
+  "bbox": [
+    -122.620291,
+    45.508974,
+    -122.620291,
+    45.508974
+],
+  "geometry": {"coordinates":[-122.62029099999999,45.508974],"type":"Point"}
 }

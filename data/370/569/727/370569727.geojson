@@ -2,13 +2,14 @@
   "id": 370569727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.009618,44.831885,-123.009618,44.831885",
     "geom:latitude":44.831885,
     "geom:longitude":-123.009618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8462 Enchanted Way SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370569727,
-    "wof:lastmodified":1449032332,
+    "wof:lastmodified":1466772928,
     "wof:name":"Enchanted Forest Inc",
     "wof:parent_id":85880581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-123.009618,44.831885,-123.009618,44.831885],
+  "bbox": [
+    -123.009618,
+    44.831885,
+    -123.009618,
+    44.831885
+],
   "geometry": {"coordinates":[-123.009618,44.831885],"type":"Point"}
 }

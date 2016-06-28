@@ -2,13 +2,14 @@
   "id": 387208385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265158,45.234846,-123.265158,45.234846",
     "geom:latitude":45.234846,
     "geom:longitude":-123.265158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13625 NW Orchard View Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387208385,
-    "wof:lastmodified":1449056553,
+    "wof:lastmodified":1466770958,
     "wof:name":"Armstrong Ceramics Inc",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.265158,45.234846,-123.265158,45.234846],
+  "bbox": [
+    -123.265158,
+    45.234846,
+    -123.265158,
+    45.234846
+],
   "geometry": {"coordinates":[-123.265158,45.234846],"type":"Point"}
 }

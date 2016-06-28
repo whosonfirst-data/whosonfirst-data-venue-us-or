@@ -2,13 +2,14 @@
   "id": 371017697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.009053,44.058098,-123.009053,44.058098",
     "geom:latitude":44.058098,
     "geom:longitude":-123.009053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 M St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371017697,
-    "wof:lastmodified":1449049603,
+    "wof:lastmodified":1466767439,
     "wof:name":"RB Concert & Construction",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.009053,44.058098,-123.009053,44.058098],
-  "geometry": {"coordinates":[-123.009053,44.058098],"type":"Point"}
+  "bbox": [
+    -123.009053,
+    44.058098,
+    -123.009053,
+    44.058098
+],
+  "geometry": {"coordinates":[-123.00905299999999,44.058098],"type":"Point"}
 }

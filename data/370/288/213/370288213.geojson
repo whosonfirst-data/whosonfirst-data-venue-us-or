@@ -2,13 +2,14 @@
   "id": 370288213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.32931,44.00815,-123.32931,44.00815",
     "geom:latitude":44.00815,
     "geom:longitude":-123.32931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25600 Mayola Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370288213,
-    "wof:lastmodified":1449029443,
+    "wof:lastmodified":1466769607,
     "wof:name":"Bob McKinney",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grape"
     ]
 },
-  "bbox": [-123.32931,44.00815,-123.32931,44.00815],
-  "geometry": {"coordinates":[-123.32931,44.00815],"type":"Point"}
+  "bbox": [
+    -123.32931,
+    44.00815,
+    -123.32931,
+    44.00815
+],
+  "geometry": {"coordinates":[-123.32931000000001,44.00815],"type":"Point"}
 }

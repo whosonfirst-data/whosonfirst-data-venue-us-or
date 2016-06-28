@@ -2,13 +2,14 @@
   "id": 403807665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.267202,44.583961,-123.267202,44.583961",
     "geom:latitude":44.583961,
     "geom:longitude":-123.267202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 NW 13th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403807665,
-    "wof:lastmodified":1449054981,
+    "wof:lastmodified":1466769773,
     "wof:name":"Mortgage Marketing Services",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-123.267202,44.583961,-123.267202,44.583961],
+  "bbox": [
+    -123.267202,
+    44.583961,
+    -123.267202,
+    44.583961
+],
   "geometry": {"coordinates":[-123.267202,44.583961],"type":"Point"}
 }

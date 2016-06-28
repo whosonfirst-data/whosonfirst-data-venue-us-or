@@ -2,13 +2,14 @@
   "id": 371021575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.681132,45.525743,-122.681132,45.525743",
     "geom:latitude":45.525743,
     "geom:longitude":-122.681132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 NW 10th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371021575,
-    "wof:lastmodified":1449049708,
+    "wof:lastmodified":1466767504,
     "wof:name":"Tim Covert PE",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.681132,45.525743,-122.681132,45.525743],
-  "geometry": {"coordinates":[-122.681132,45.525743],"type":"Point"}
+  "bbox": [
+    -122.681132,
+    45.525743,
+    -122.681132,
+    45.525743
+],
+  "geometry": {"coordinates":[-122.68113200000001,45.525743],"type":"Point"}
 }

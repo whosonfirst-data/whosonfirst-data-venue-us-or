@@ -2,13 +2,14 @@
   "id": 370670047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.648232,45.477407,-122.648232,45.477407",
     "geom:latitude":45.477407,
     "geom:longitude":-122.648232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 SE 17th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370670047,
-    "wof:lastmodified":1449029597,
+    "wof:lastmodified":1466773410,
     "wof:name":"Eric C Butler",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-122.648232,45.477407,-122.648232,45.477407],
-  "geometry": {"coordinates":[-122.648232,45.477407],"type":"Point"}
+  "bbox": [
+    -122.648232,
+    45.477407,
+    -122.648232,
+    45.477407
+],
+  "geometry": {"coordinates":[-122.64823199999999,45.477407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403829663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.394112,45.099583,-123.394112,45.099583",
     "geom:latitude":45.099583,
     "geom:longitude":-123.394112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Valley Hwy",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403829663,
-    "wof:lastmodified":1449055874,
+    "wof:lastmodified":1466770343,
     "wof:name":"Osu Information Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.394112,45.099583,-123.394112,45.099583],
-  "geometry": {"coordinates":[-123.394112,45.099583],"type":"Point"}
+  "bbox": [
+    -123.394112,
+    45.099583,
+    -123.394112,
+    45.099583
+],
+  "geometry": {"coordinates":[-123.39411200000001,45.099583],"type":"Point"}
 }

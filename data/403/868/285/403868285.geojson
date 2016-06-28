@@ -2,13 +2,14 @@
   "id": 403868285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.824643,45.49201,-122.824643,45.49201",
     "geom:latitude":45.49201,
     "geom:longitude":-122.824643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 SW 144th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403868285,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1466771117,
     "wof:name":"San Quintin Auto Repair",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.824643,45.49201,-122.824643,45.49201],
-  "geometry": {"coordinates":[-122.824643,45.49201],"type":"Point"}
+  "bbox": [
+    -122.824643,
+    45.49201,
+    -122.824643,
+    45.49201
+],
+  "geometry": {"coordinates":[-122.82464299999999,45.49201],"type":"Point"}
 }

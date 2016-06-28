@@ -2,13 +2,14 @@
   "id": 387799239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.205386,44.852092,-123.205386,44.852092",
     "geom:latitude":44.852092,
     "geom:longitude":-123.205386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 C St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387799239,
-    "wof:lastmodified":1449059937,
+    "wof:lastmodified":1466774997,
     "wof:name":"Electric Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.205386,44.852092,-123.205386,44.852092],
+  "bbox": [
+    -123.205386,
+    44.852092,
+    -123.205386,
+    44.852092
+],
   "geometry": {"coordinates":[-123.205386,44.852092],"type":"Point"}
 }

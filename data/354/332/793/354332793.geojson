@@ -2,13 +2,14 @@
   "id": 354332793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.818837,46.188569,-123.818837,46.188569",
     "geom:latitude":46.188569,
     "geom:longitude":-123.818837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Exchange St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354332793,
-    "wof:lastmodified":1449066896,
+    "wof:lastmodified":1466769941,
     "wof:name":"Pacific Northwest Renal Svc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dialysis"
     ]
 },
-  "bbox": [-123.818837,46.188569,-123.818837,46.188569],
+  "bbox": [
+    -123.818837,
+    46.188569,
+    -123.818837,
+    46.188569
+],
   "geometry": {"coordinates":[-123.818837,46.188569],"type":"Point"}
 }

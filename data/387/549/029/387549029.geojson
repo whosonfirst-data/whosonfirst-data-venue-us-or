@@ -2,13 +2,14 @@
   "id": 387549029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.658595,45.555418,-122.658595,45.555418",
     "geom:latitude":45.555418,
     "geom:longitude":-122.658595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 NE Prescott St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387549029,
-    "wof:lastmodified":1449057144,
+    "wof:lastmodified":1466773479,
     "wof:name":"David Morrison Books",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.658595,45.555418,-122.658595,45.555418],
-  "geometry": {"coordinates":[-122.658595,45.555418],"type":"Point"}
+  "bbox": [
+    -122.658595,
+    45.555418,
+    -122.658595,
+    45.555418
+],
+  "geometry": {"coordinates":[-122.65859500000001,45.555418],"type":"Point"}
 }

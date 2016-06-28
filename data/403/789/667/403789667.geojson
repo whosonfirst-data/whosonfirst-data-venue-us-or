@@ -2,13 +2,14 @@
   "id": 403789667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.600353,45.513346,-122.600353,45.513346",
     "geom:latitude":45.513346,
     "geom:longitude":-122.600353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6133 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403789667,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1466769482,
     "wof:name":"Gregory Raveaux",
     "wof:parent_id":85871481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.600353,45.513346,-122.600353,45.513346],
+  "bbox": [
+    -122.600353,
+    45.513346,
+    -122.600353,
+    45.513346
+],
   "geometry": {"coordinates":[-122.600353,45.513346],"type":"Point"}
 }

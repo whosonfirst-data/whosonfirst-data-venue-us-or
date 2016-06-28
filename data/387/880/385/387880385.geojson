@@ -2,13 +2,14 @@
   "id": 387880385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.492374,45.548936,-122.492374,45.548936",
     "geom:latitude":45.548936,
     "geom:longitude":-122.492374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16515 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387880385,
-    "wof:lastmodified":1449059956,
+    "wof:lastmodified":1466775231,
     "wof:name":"Vital Signs",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-122.492374,45.548936,-122.492374,45.548936],
+  "bbox": [
+    -122.492374,
+    45.548936,
+    -122.492374,
+    45.548936
+],
   "geometry": {"coordinates":[-122.492374,45.548936],"type":"Point"}
 }

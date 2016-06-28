@@ -2,13 +2,14 @@
   "id": 387218913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.815357,45.85902,-122.815357,45.85902",
     "geom:latitude":45.85902,
     "geom:longitude":-122.815357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 Columbia Blvd",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387218913,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1466771183,
     "wof:name":"Portland General Electric Co",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.815357,45.85902,-122.815357,45.85902],
-  "geometry": {"coordinates":[-122.815357,45.85902],"type":"Point"}
+  "bbox": [
+    -122.815357,
+    45.85902,
+    -122.815357,
+    45.85902
+],
+  "geometry": {"coordinates":[-122.81535700000001,45.85902],"type":"Point"}
 }

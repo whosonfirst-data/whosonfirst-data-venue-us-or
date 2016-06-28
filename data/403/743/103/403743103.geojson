@@ -2,13 +2,14 @@
   "id": 403743103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806509,45.618204,-122.806509,45.618204",
     "geom:latitude":45.618204,
     "geom:longitude":-122.806509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12800 NW Marina Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403743103,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1466768750,
     "wof:name":"Foster Road Motors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.806509,45.618204,-122.806509,45.618204],
-  "geometry": {"coordinates":[-122.806509,45.618204],"type":"Point"}
+  "bbox": [
+    -122.806509,
+    45.618204,
+    -122.806509,
+    45.618204
+],
+  "geometry": {"coordinates":[-122.80650900000001,45.618204],"type":"Point"}
 }

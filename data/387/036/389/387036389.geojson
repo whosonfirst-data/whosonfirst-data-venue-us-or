@@ -2,13 +2,14 @@
   "id": 387036389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.782328,45.006076,-122.782328,45.006076",
     "geom:latitude":45.006076,
     "geom:longitude":-122.782328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N 1st St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387036389,
-    "wof:lastmodified":1449056957,
+    "wof:lastmodified":1466767740,
     "wof:name":"Look",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.782328,45.006076,-122.782328,45.006076],
-  "geometry": {"coordinates":[-122.782328,45.006076],"type":"Point"}
+  "bbox": [
+    -122.782328,
+    45.006076,
+    -122.782328,
+    45.006076
+],
+  "geometry": {"coordinates":[-122.78232800000001,45.006076],"type":"Point"}
 }

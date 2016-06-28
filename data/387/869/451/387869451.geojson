@@ -2,13 +2,14 @@
   "id": 387869451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.645103,45.476433,-122.645103,45.476433",
     "geom:latitude":45.476433,
     "geom:longitude":-122.645103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6413 SE 20th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387869451,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1466775202,
     "wof:name":"Bleeding Edge Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.645103,45.476433,-122.645103,45.476433],
-  "geometry": {"coordinates":[-122.645103,45.476433],"type":"Point"}
+  "bbox": [
+    -122.645103,
+    45.476433,
+    -122.645103,
+    45.476433
+],
+  "geometry": {"coordinates":[-122.64510300000001,45.476433],"type":"Point"}
 }

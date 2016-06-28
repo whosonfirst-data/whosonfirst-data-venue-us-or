@@ -2,13 +2,14 @@
   "id": 403820069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763202,45.508299,-122.763202,45.508299",
     "geom:latitude":45.508299,
     "geom:longitude":-122.763202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8450 SW Brookridge St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403820069,
-    "wof:lastmodified":1449055335,
+    "wof:lastmodified":1466770095,
     "wof:name":"Bite ME Bait Co",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.763202,45.508299,-122.763202,45.508299],
-  "geometry": {"coordinates":[-122.763202,45.508299],"type":"Point"}
+  "bbox": [
+    -122.763202,
+    45.508299,
+    -122.763202,
+    45.508299
+],
+  "geometry": {"coordinates":[-122.76320200000001,45.508299],"type":"Point"}
 }

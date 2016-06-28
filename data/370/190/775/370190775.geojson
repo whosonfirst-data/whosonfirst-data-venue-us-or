@@ -2,13 +2,14 @@
   "id": 370190775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.649493,44.457893,-121.649493,44.457893",
     "geom:latitude":44.457893,
     "geom:longitude":-121.649493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25615 Cold Springs Resort Ln",
     "sg:city":"Camp Sherman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370190775,
-    "wof:lastmodified":1449032254,
+    "wof:lastmodified":1466767874,
     "wof:name":"Cold Springs Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-121.649493,44.457893,-121.649493,44.457893],
-  "geometry": {"coordinates":[-121.649493,44.457893],"type":"Point"}
+  "bbox": [
+    -121.649493,
+    44.457893,
+    -121.649493,
+    44.457893
+],
+  "geometry": {"coordinates":[-121.64949300000001,44.457893],"type":"Point"}
 }

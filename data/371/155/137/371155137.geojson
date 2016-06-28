@@ -2,13 +2,14 @@
   "id": 371155137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.655431,45.542811,-122.655431,45.542811",
     "geom:latitude":45.542811,
     "geom:longitude":-122.655431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 NE 10th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371155137,
-    "wof:lastmodified":1449049923,
+    "wof:lastmodified":1466769783,
     "wof:name":"Jonathan Mulcare",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-122.655431,45.542811,-122.655431,45.542811],
-  "geometry": {"coordinates":[-122.655431,45.542811],"type":"Point"}
+  "bbox": [
+    -122.655431,
+    45.542811,
+    -122.655431,
+    45.542811
+],
+  "geometry": {"coordinates":[-122.65543099999999,45.542811],"type":"Point"}
 }

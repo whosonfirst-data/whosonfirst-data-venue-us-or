@@ -2,13 +2,14 @@
   "id": 370307755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.27005,44.917478,-123.27005,44.917478",
     "geom:latitude":44.917478,
     "geom:longitude":-123.27005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11875 Orrs Corner Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370307755,
-    "wof:lastmodified":1449029972,
+    "wof:lastmodified":1466769964,
     "wof:name":"Dallas Golf Course",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-123.27005,44.917478,-123.27005,44.917478],
+  "bbox": [
+    -123.27005,
+    44.917478,
+    -123.27005,
+    44.917478
+],
   "geometry": {"coordinates":[-123.27005,44.917478],"type":"Point"}
 }

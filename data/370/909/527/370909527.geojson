@@ -2,13 +2,14 @@
   "id": 370909527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.257262,44.58866,-123.257262,44.58866",
     "geom:latitude":44.58866,
     "geom:longitude":-123.257262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 NW Circle Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370909527,
-    "wof:lastmodified":1449031645,
+    "wof:lastmodified":1466774728,
     "wof:name":"Richeys Supermarkets",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supermarket"
     ]
 },
-  "bbox": [-123.257262,44.58866,-123.257262,44.58866],
+  "bbox": [
+    -123.257262,
+    44.58866,
+    -123.257262,
+    44.58866
+],
   "geometry": {"coordinates":[-123.257262,44.58866],"type":"Point"}
 }

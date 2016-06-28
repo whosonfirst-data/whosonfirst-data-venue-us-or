@@ -2,13 +2,14 @@
   "id": 404201141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.355097,42.410222,-121.355097,42.410222",
     "geom:latitude":42.410222,
     "geom:longitude":-121.355097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35825 Sprague River Rd",
     "sg:city":"Sprague River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404201141,
-    "wof:lastmodified":1449040160,
+    "wof:lastmodified":1466768131,
     "wof:name":"John C Gallagher",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-121.355097,42.410222,-121.355097,42.410222],
+  "bbox": [
+    -121.355097,
+    42.410222,
+    -121.355097,
+    42.410222
+],
   "geometry": {"coordinates":[-121.355097,42.410222],"type":"Point"}
 }

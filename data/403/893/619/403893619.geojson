@@ -2,13 +2,14 @@
   "id": 403893619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.674461,43.032563,-123.674461,43.032563",
     "geom:latitude":43.032563,
     "geom:longitude":-123.674461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18493 State Hwy 42",
     "sg:city":"Camas Valley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403893619,
-    "wof:lastmodified":1449055711,
+    "wof:lastmodified":1466767258,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.674461,43.032563,-123.674461,43.032563],
-  "geometry": {"coordinates":[-123.674461,43.032563],"type":"Point"}
+  "bbox": [
+    -123.674461,
+    43.032563,
+    -123.674461,
+    43.032563
+],
+  "geometry": {"coordinates":[-123.67446099999999,43.032563],"type":"Point"}
 }

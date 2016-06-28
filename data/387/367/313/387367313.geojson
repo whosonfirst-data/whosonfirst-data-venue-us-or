@@ -2,13 +2,14 @@
   "id": 387367313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.557504,45.54902,-121.557504,45.54902",
     "geom:latitude":45.54902,
     "geom:longitude":-121.557504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6285 Miller Rd",
     "sg:city":"Mt Hood Parkdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387367313,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1466772405,
     "wof:name":"Parkdale Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-121.557504,45.54902,-121.557504,45.54902],
-  "geometry": {"coordinates":[-121.557504,45.54902],"type":"Point"}
+  "bbox": [
+    -121.557504,
+    45.54902,
+    -121.557504,
+    45.54902
+],
+  "geometry": {"coordinates":[-121.55750399999999,45.54902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370681319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.761508,45.446087,-122.761508,45.446087",
     "geom:latitude":45.446087,
     "geom:longitude":-122.761508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10255 SW 82nd Ave",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370681319,
-    "wof:lastmodified":1449031156,
+    "wof:lastmodified":1466773452,
     "wof:name":"Cordero School",
     "wof:parent_id":85822963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-122.761508,45.446087,-122.761508,45.446087],
-  "geometry": {"coordinates":[-122.761508,45.446087],"type":"Point"}
+  "bbox": [
+    -122.761508,
+    45.446087,
+    -122.761508,
+    45.446087
+],
+  "geometry": {"coordinates":[-122.76150800000001,45.446087],"type":"Point"}
 }

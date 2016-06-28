@@ -2,13 +2,14 @@
   "id": 403755641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.316854,43.213857,-123.316854,43.213857",
     "geom:latitude":43.213857,
     "geom:longitude":-123.316854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 NE Dorwin Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403755641,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1466768945,
     "wof:name":"Massage Matters",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.316854,43.213857,-123.316854,43.213857],
-  "geometry": {"coordinates":[-123.316854,43.213857],"type":"Point"}
+  "bbox": [
+    -123.316854,
+    43.213857,
+    -123.316854,
+    43.213857
+],
+  "geometry": {"coordinates":[-123.31685400000001,43.213857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354302645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.953043,44.845101,-122.953043,44.845101",
     "geom:latitude":44.845101,
     "geom:longitude":-122.953043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7645 3rd St SE",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302645,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1466769533,
     "wof:name":"Advantage Powder Coating",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coating"
     ]
 },
-  "bbox": [-122.953043,44.845101,-122.953043,44.845101],
-  "geometry": {"coordinates":[-122.953043,44.845101],"type":"Point"}
+  "bbox": [
+    -122.953043,
+    44.845101,
+    -122.953043,
+    44.845101
+],
+  "geometry": {"coordinates":[-122.95304299999999,44.845101],"type":"Point"}
 }

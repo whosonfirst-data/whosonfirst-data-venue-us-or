@@ -2,13 +2,14 @@
   "id": 403880515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.403207,45.546411,-122.403207,45.546411",
     "geom:latitude":45.546411,
     "geom:longitude":-122.403207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 NW Corporate Dr",
     "sg:city":"Troutdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403880515,
-    "wof:lastmodified":1449055973,
+    "wof:lastmodified":1466771349,
     "wof:name":"Pacific Sales & Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-122.403207,45.546411,-122.403207,45.546411],
-  "geometry": {"coordinates":[-122.403207,45.546411],"type":"Point"}
+  "bbox": [
+    -122.403207,
+    45.546411,
+    -122.403207,
+    45.546411
+],
+  "geometry": {"coordinates":[-122.40320699999999,45.546411],"type":"Point"}
 }

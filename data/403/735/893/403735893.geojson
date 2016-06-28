@@ -2,13 +2,14 @@
   "id": 403735893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.010788,44.922174,-123.010788,44.922174",
     "geom:latitude":44.922174,
     "geom:longitude":-123.010788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 25th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403735893,
-    "wof:lastmodified":1449055917,
+    "wof:lastmodified":1466768592,
     "wof:name":"Willamette Medical Equipment",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-123.010788,44.922174,-123.010788,44.922174],
-  "geometry": {"coordinates":[-123.010788,44.922174],"type":"Point"}
+  "bbox": [
+    -123.010788,
+    44.922174,
+    -123.010788,
+    44.922174
+],
+  "geometry": {"coordinates":[-123.01078800000001,44.922174],"type":"Point"}
 }

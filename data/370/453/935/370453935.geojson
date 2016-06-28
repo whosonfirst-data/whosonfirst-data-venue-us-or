@@ -2,13 +2,14 @@
   "id": 370453935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.080193,44.076533,-123.080193,44.076533",
     "geom:latitude":44.076533,
     "geom:longitude":-123.080193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 Roland Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370453935,
-    "wof:lastmodified":1449031638,
+    "wof:lastmodified":1466772029,
     "wof:name":"Philippine Trading Co",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-123.080193,44.076533,-123.080193,44.076533],
-  "geometry": {"coordinates":[-123.080193,44.076533],"type":"Point"}
+  "bbox": [
+    -123.080193,
+    44.076533,
+    -123.080193,
+    44.076533
+],
+  "geometry": {"coordinates":[-123.08019299999999,44.076533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387710953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.082126,44.045517,-123.082126,44.045517",
     "geom:latitude":44.045517,
     "geom:longitude":-123.082126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hilyard St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387710953,
-    "wof:lastmodified":1449056349,
+    "wof:lastmodified":1466774570,
     "wof:name":"Oregon Medical Laboratories",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.082126,44.045517,-123.082126,44.045517],
+  "bbox": [
+    -123.082126,
+    44.045517,
+    -123.082126,
+    44.045517
+],
   "geometry": {"coordinates":[-123.082126,44.045517],"type":"Point"}
 }

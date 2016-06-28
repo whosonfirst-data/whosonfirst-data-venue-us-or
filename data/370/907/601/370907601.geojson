@@ -2,13 +2,14 @@
   "id": 370907601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.204597,44.219078,-123.204597,44.219078",
     "geom:latitude":44.219078,
     "geom:longitude":-123.204597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W 6th Ave",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370907601,
-    "wof:lastmodified":1449032210,
+    "wof:lastmodified":1466774717,
     "wof:name":"Universal Video",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-123.204597,44.219078,-123.204597,44.219078],
-  "geometry": {"coordinates":[-123.204597,44.219078],"type":"Point"}
+  "bbox": [
+    -123.204597,
+    44.219078,
+    -123.204597,
+    44.219078
+],
+  "geometry": {"coordinates":[-123.20459700000001,44.219078],"type":"Point"}
 }

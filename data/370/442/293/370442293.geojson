@@ -2,13 +2,14 @@
   "id": 370442293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.061221,44.885339,-123.061221,44.885339",
     "geom:latitude":44.885339,
     "geom:longitude":-123.061221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 Liberty Rd S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370442293,
-    "wof:lastmodified":1449030574,
+    "wof:lastmodified":1466771928,
     "wof:name":"First Security",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "national"
     ]
 },
-  "bbox": [-123.061221,44.885339,-123.061221,44.885339],
+  "bbox": [
+    -123.061221,
+    44.885339,
+    -123.061221,
+    44.885339
+],
   "geometry": {"coordinates":[-123.061221,44.885339],"type":"Point"}
 }

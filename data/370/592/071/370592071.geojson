@@ -2,13 +2,14 @@
   "id": 370592071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.272414,44.579477,-123.272414,44.579477",
     "geom:latitude":44.579477,
     "geom:longitude":-123.272414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 NW Grant Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370592071,
-    "wof:lastmodified":1449031013,
+    "wof:lastmodified":1466772975,
     "wof:name":"I Cap Biz",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.272414,44.579477,-123.272414,44.579477],
+  "bbox": [
+    -123.272414,
+    44.579477,
+    -123.272414,
+    44.579477
+],
   "geometry": {"coordinates":[-123.272414,44.579477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370959133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.260348,44.473581,-123.260348,44.473581",
     "geom:latitude":44.473581,
     "geom:longitude":-123.260348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30631 Baker Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370959133,
-    "wof:lastmodified":1449032140,
+    "wof:lastmodified":1466774874,
     "wof:name":"Paul Swanson",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-123.260348,44.473581,-123.260348,44.473581],
-  "geometry": {"coordinates":[-123.260348,44.473581],"type":"Point"}
+  "bbox": [
+    -123.260348,
+    44.473581,
+    -123.260348,
+    44.473581
+],
+  "geometry": {"coordinates":[-123.26034799999999,44.473581],"type":"Point"}
 }

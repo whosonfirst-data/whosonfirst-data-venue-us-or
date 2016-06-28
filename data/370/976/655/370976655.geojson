@@ -2,13 +2,14 @@
   "id": 370976655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.199017,45.214168,-123.199017,45.214168",
     "geom:latitude":45.214168,
     "geom:longitude":-123.199017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 NW Hwy 99W",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370976655,
-    "wof:lastmodified":1449030485,
+    "wof:lastmodified":1466775036,
     "wof:name":"Lutheran Family Service",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-123.199017,45.214168,-123.199017,45.214168],
+  "bbox": [
+    -123.199017,
+    45.214168,
+    -123.199017,
+    45.214168
+],
   "geometry": {"coordinates":[-123.199017,45.214168],"type":"Point"}
 }

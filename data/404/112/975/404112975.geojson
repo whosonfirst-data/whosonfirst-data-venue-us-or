@@ -2,13 +2,14 @@
   "id": 404112975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628526,45.517801,-122.628526,45.517801",
     "geom:latitude":45.517801,
     "geom:longitude":-122.628526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 SE Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404112975,
-    "wof:lastmodified":1449039561,
+    "wof:lastmodified":1466770849,
     "wof:name":"A Touch Of Life",
     "wof:parent_id":85893157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-122.628526,45.517801,-122.628526,45.517801],
-  "geometry": {"coordinates":[-122.628526,45.517801],"type":"Point"}
+  "bbox": [
+    -122.628526,
+    45.517801,
+    -122.628526,
+    45.517801
+],
+  "geometry": {"coordinates":[-122.62852599999999,45.517801],"type":"Point"}
 }

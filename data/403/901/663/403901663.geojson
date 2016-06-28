@@ -2,13 +2,14 @@
   "id": 403901663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.177433,44.051495,-123.177433,44.051495",
     "geom:latitude":44.051495,
     "geom:longitude":-123.177433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4681 Isabelle St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403901663,
-    "wof:lastmodified":1449055187,
+    "wof:lastmodified":1466767392,
     "wof:name":"Red Barn Machine Inc",
     "wof:parent_id":85813477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.177433,44.051495,-123.177433,44.051495],
-  "geometry": {"coordinates":[-123.177433,44.051495],"type":"Point"}
+  "bbox": [
+    -123.177433,
+    44.051495,
+    -123.177433,
+    44.051495
+],
+  "geometry": {"coordinates":[-123.17743299999999,44.051495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370493553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.26107,44.561853,-123.26107,44.561853",
     "geom:latitude":44.561853,
     "geom:longitude":-123.26107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 SW 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370493553,
-    "wof:lastmodified":1449030171,
+    "wof:lastmodified":1466772419,
     "wof:name":"Bike N' Hike Ctr",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.26107,44.561853,-123.26107,44.561853],
+  "bbox": [
+    -123.26107,
+    44.561853,
+    -123.26107,
+    44.561853
+],
   "geometry": {"coordinates":[-123.26107,44.561853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386983879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.876338,45.757401,-122.876338,45.757401",
     "geom:latitude":45.757401,
     "geom:longitude":-122.876338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52482 SE 2nd St",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386983879,
-    "wof:lastmodified":1449028952,
+    "wof:lastmodified":1466767429,
     "wof:name":"Columbia Community Mental Hlth",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-122.876338,45.757401,-122.876338,45.757401],
+  "bbox": [
+    -122.876338,
+    45.757401,
+    -122.876338,
+    45.757401
+],
   "geometry": {"coordinates":[-122.876338,45.757401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404165819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.578984,45.521279,-122.578984,45.521279",
     "geom:latitude":45.521279,
     "geom:longitude":-122.578984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 SE 82nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404165819,
-    "wof:lastmodified":1449040328,
+    "wof:lastmodified":1466767512,
     "wof:name":"Ultimate Hair Design",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.578984,45.521279,-122.578984,45.521279],
-  "geometry": {"coordinates":[-122.578984,45.521279],"type":"Point"}
+  "bbox": [
+    -122.578984,
+    45.521279,
+    -122.578984,
+    45.521279
+],
+  "geometry": {"coordinates":[-122.57898400000001,45.521279],"type":"Point"}
 }

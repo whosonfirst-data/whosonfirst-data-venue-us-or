@@ -2,13 +2,14 @@
   "id": 386946149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.198844,45.609561,-121.198844,45.609561",
     "geom:latitude":45.609561,
     "geom:longitude":-121.198844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Terminal Ave",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386946149,
-    "wof:lastmodified":1449028929,
+    "wof:lastmodified":1466767237,
     "wof:name":"Espresso Lingo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-121.198844,45.609561,-121.198844,45.609561],
-  "geometry": {"coordinates":[-121.198844,45.609561],"type":"Point"}
+  "bbox": [
+    -121.198844,
+    45.609561,
+    -121.198844,
+    45.609561
+],
+  "geometry": {"coordinates":[-121.19884399999999,45.609561],"type":"Point"}
 }

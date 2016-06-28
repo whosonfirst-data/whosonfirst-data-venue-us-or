@@ -2,13 +2,14 @@
   "id": 386963373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.712325,45.614648,-122.712325,45.614648",
     "geom:latitude":45.614648,
     "geom:longitude":-122.712325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4047 N Suttle Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386963373,
-    "wof:lastmodified":1449028661,
+    "wof:lastmodified":1466767335,
     "wof:name":"Midwest Motor Express Inc",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.712325,45.614648,-122.712325,45.614648],
-  "geometry": {"coordinates":[-122.712325,45.614648],"type":"Point"}
+  "bbox": [
+    -122.712325,
+    45.614648,
+    -122.712325,
+    45.614648
+],
+  "geometry": {"coordinates":[-122.71232500000001,45.614648],"type":"Point"}
 }

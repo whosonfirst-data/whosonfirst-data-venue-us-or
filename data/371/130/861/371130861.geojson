@@ -2,13 +2,14 @@
   "id": 371130861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.960456,44.024795,-116.960456,44.024795",
     "geom:latitude":44.024795,
     "geom:longitude":-116.960456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 SE 1st St",
     "sg:city":"Ontario",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371130861,
-    "wof:lastmodified":1449049362,
+    "wof:lastmodified":1466769350,
     "wof:name":"Baker Packing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-116.960456,44.024795,-116.960456,44.024795],
-  "geometry": {"coordinates":[-116.960456,44.024795],"type":"Point"}
+  "bbox": [
+    -116.960456,
+    44.024795,
+    -116.960456,
+    44.024795
+],
+  "geometry": {"coordinates":[-116.96045599999999,44.024795],"type":"Point"}
 }

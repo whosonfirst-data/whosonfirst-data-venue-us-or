@@ -2,13 +2,14 @@
   "id": 371093825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.503081,43.358199,-123.503081,43.358199",
     "geom:latitude":43.358199,
     "geom:longitude":-123.503081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"784 Liles Ln",
     "sg:city":"Umpqua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371093825,
-    "wof:lastmodified":1449049060,
+    "wof:lastmodified":1466768693,
     "wof:name":"Densmore Ranch LLC",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-123.503081,43.358199,-123.503081,43.358199],
-  "geometry": {"coordinates":[-123.503081,43.358199],"type":"Point"}
+  "bbox": [
+    -123.503081,
+    43.358199,
+    -123.503081,
+    43.358199
+],
+  "geometry": {"coordinates":[-123.50308099999999,43.358199],"type":"Point"}
 }

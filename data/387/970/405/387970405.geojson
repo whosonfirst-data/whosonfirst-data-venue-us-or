@@ -2,13 +2,14 @@
   "id": 387970405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.383362,44.336698,-123.383362,44.336698",
     "geom:latitude":44.336698,
     "geom:longitude":-123.383362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25975 Foster Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387970405,
-    "wof:lastmodified":1449059858,
+    "wof:lastmodified":1466775499,
     "wof:name":"Custom Tax",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "material"
     ]
 },
-  "bbox": [-123.383362,44.336698,-123.383362,44.336698],
-  "geometry": {"coordinates":[-123.383362,44.336698],"type":"Point"}
+  "bbox": [
+    -123.383362,
+    44.336698,
+    -123.383362,
+    44.336698
+],
+  "geometry": {"coordinates":[-123.38336200000001,44.336698],"type":"Point"}
 }

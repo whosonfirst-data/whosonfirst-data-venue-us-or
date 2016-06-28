@@ -2,13 +2,14 @@
   "id": 370303249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.867768,45.367701,-122.867768,45.367701",
     "geom:latitude":45.367701,
     "geom:longitude":-122.867768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21880 SW Elwert Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370303249,
-    "wof:lastmodified":1449029095,
+    "wof:lastmodified":1466769870,
     "wof:name":"Country Clean",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.867768,45.367701,-122.867768,45.367701],
+  "bbox": [
+    -122.867768,
+    45.367701,
+    -122.867768,
+    45.367701
+],
   "geometry": {"coordinates":[-122.867768,45.367701],"type":"Point"}
 }

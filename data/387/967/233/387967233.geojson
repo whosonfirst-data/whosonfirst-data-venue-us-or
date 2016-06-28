@@ -2,13 +2,14 @@
   "id": 387967233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.934795,44.706381,-123.934795,44.706381",
     "geom:latitude":44.706381,
     "geom:longitude":-123.934795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Camp 12 Loop",
     "sg:city":"Toledo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387967233,
-    "wof:lastmodified":1449059639,
+    "wof:lastmodified":1466775484,
     "wof:name":"Winter Creek Stables",
     "wof:parent_id":85868143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.934795,44.706381,-123.934795,44.706381],
-  "geometry": {"coordinates":[-123.934795,44.706381],"type":"Point"}
+  "bbox": [
+    -123.934795,
+    44.706381,
+    -123.934795,
+    44.706381
+],
+  "geometry": {"coordinates":[-123.93479499999999,44.706381],"type":"Point"}
 }

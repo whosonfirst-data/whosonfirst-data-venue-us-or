@@ -2,13 +2,14 @@
   "id": 354323271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.183299,45.340492,-123.183299,45.340492",
     "geom:latitude":45.340492,
     "geom:longitude":-123.183299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 S Hemlock St",
     "sg:city":"Yamhill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354323271,
-    "wof:lastmodified":1449066075,
+    "wof:lastmodified":1466769817,
     "wof:name":"Brett Hostetler Gallery",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.183299,45.340492,-123.183299,45.340492],
-  "geometry": {"coordinates":[-123.183299,45.340492],"type":"Point"}
+  "bbox": [
+    -123.183299,
+    45.340492,
+    -123.183299,
+    45.340492
+],
+  "geometry": {"coordinates":[-123.18329900000001,45.340492],"type":"Point"}
 }

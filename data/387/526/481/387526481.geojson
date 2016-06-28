@@ -2,13 +2,14 @@
   "id": 387526481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.607572,45.355195,-122.607572,45.355195",
     "geom:latitude":45.355195,
     "geom:longitude":-122.607572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Center St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387526481,
-    "wof:lastmodified":1449057269,
+    "wof:lastmodified":1466773436,
     "wof:name":"Center Street Dental",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.607572,45.355195,-122.607572,45.355195],
+  "bbox": [
+    -122.607572,
+    45.355195,
+    -122.607572,
+    45.355195
+],
   "geometry": {"coordinates":[-122.607572,45.355195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404105695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.788323,45.456432,-122.788323,45.456432",
     "geom:latitude":45.456432,
     "geom:longitude":-122.788323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8880 SW Nimbus Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404105695,
-    "wof:lastmodified":1449039485,
+    "wof:lastmodified":1466770703,
     "wof:name":"Oregon Mutual Insurance",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insurance"
     ]
 },
-  "bbox": [-122.788323,45.456432,-122.788323,45.456432],
-  "geometry": {"coordinates":[-122.788323,45.456432],"type":"Point"}
+  "bbox": [
+    -122.788323,
+    45.456432,
+    -122.788323,
+    45.456432
+],
+  "geometry": {"coordinates":[-122.78832300000001,45.456432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370533673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.743316,45.454792,-122.743316,45.454792",
     "geom:latitude":45.454792,
     "geom:longitude":-122.743316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6246 SW Taylors Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370533673,
-    "wof:lastmodified":1449029027,
+    "wof:lastmodified":1466772558,
     "wof:name":"To & Fro Shuttle Svc-Children",
     "wof:parent_id":85871487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shuttle"
     ]
 },
-  "bbox": [-122.743316,45.454792,-122.743316,45.454792],
-  "geometry": {"coordinates":[-122.743316,45.454792],"type":"Point"}
+  "bbox": [
+    -122.743316,
+    45.454792,
+    -122.743316,
+    45.454792
+],
+  "geometry": {"coordinates":[-122.74331599999999,45.454792],"type":"Point"}
 }

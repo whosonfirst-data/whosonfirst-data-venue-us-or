@@ -2,13 +2,14 @@
   "id": 354297493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.269432,44.587633,-123.269432,44.587633",
     "geom:latitude":44.587633,
     "geom:longitude":-123.269432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 NW Garryanna St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354297493,
-    "wof:lastmodified":1449067050,
+    "wof:lastmodified":1466769467,
     "wof:name":"Compu Gurus",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-123.269432,44.587633,-123.269432,44.587633],
-  "geometry": {"coordinates":[-123.269432,44.587633],"type":"Point"}
+  "bbox": [
+    -123.269432,
+    44.587633,
+    -123.269432,
+    44.587633
+],
+  "geometry": {"coordinates":[-123.26943199999999,44.587633],"type":"Point"}
 }

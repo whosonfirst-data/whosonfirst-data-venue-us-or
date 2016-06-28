@@ -2,13 +2,14 @@
   "id": 370281895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.872898,45.800293,-122.872898,45.800293",
     "geom:latitude":45.800293,
     "geom:longitude":-122.872898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33812 Tarbell Rd",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370281895,
-    "wof:lastmodified":1449031951,
+    "wof:lastmodified":1466769487,
     "wof:name":"Scappoose Mini Storage",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "unit"
     ]
 },
-  "bbox": [-122.872898,45.800293,-122.872898,45.800293],
-  "geometry": {"coordinates":[-122.872898,45.800293],"type":"Point"}
+  "bbox": [
+    -122.872898,
+    45.800293,
+    -122.872898,
+    45.800293
+],
+  "geometry": {"coordinates":[-122.87289800000001,45.800293],"type":"Point"}
 }

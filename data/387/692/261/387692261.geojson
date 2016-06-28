@@ -2,13 +2,14 @@
   "id": 387692261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653551,45.542805,-122.653551,45.542805",
     "geom:latitude":45.542805,
     "geom:longitude":-122.653551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 NE 12th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387692261,
-    "wof:lastmodified":1449057109,
+    "wof:lastmodified":1466774429,
     "wof:name":"Brass Needle",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.653551,45.542805,-122.653551,45.542805],
-  "geometry": {"coordinates":[-122.653551,45.542805],"type":"Point"}
+  "bbox": [
+    -122.653551,
+    45.542805,
+    -122.653551,
+    45.542805
+],
+  "geometry": {"coordinates":[-122.65355099999999,45.542805],"type":"Point"}
 }

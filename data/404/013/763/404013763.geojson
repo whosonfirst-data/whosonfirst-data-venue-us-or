@@ -2,13 +2,14 @@
   "id": 404013763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113108,44.029327,-123.113108,44.029327",
     "geom:latitude":44.029327,
     "geom:longitude":-123.113108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Taylor St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404013763,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1466768691,
     "wof:name":"Three Sisters Publishing",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-123.113108,44.029327,-123.113108,44.029327],
+  "bbox": [
+    -123.113108,
+    44.029327,
+    -123.113108,
+    44.029327
+],
   "geometry": {"coordinates":[-123.113108,44.029327],"type":"Point"}
 }

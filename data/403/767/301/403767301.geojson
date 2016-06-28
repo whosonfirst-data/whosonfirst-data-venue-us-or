@@ -2,13 +2,14 @@
   "id": 403767301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.633643,45.574369,-122.633643,45.574369",
     "geom:latitude":45.574369,
     "geom:longitude":-122.633643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3051 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403767301,
-    "wof:lastmodified":1449055028,
+    "wof:lastmodified":1466769140,
     "wof:name":"Columbia River Equipment Inc",
     "wof:parent_id":85868949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "generator"
     ]
 },
-  "bbox": [-122.633643,45.574369,-122.633643,45.574369],
-  "geometry": {"coordinates":[-122.633643,45.574369],"type":"Point"}
+  "bbox": [
+    -122.633643,
+    45.574369,
+    -122.633643,
+    45.574369
+],
+  "geometry": {"coordinates":[-122.63364300000001,45.574369],"type":"Point"}
 }

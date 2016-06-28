@@ -2,13 +2,14 @@
   "id": 387541697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.803807,45.530743,-122.803807,45.530743",
     "geom:latitude":45.530743,
     "geom:longitude":-122.803807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 NW 123rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387541697,
-    "wof:lastmodified":1449056533,
+    "wof:lastmodified":1466773441,
     "wof:name":"Moore Wire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wire"
     ]
 },
-  "bbox": [-122.803807,45.530743,-122.803807,45.530743],
-  "geometry": {"coordinates":[-122.803807,45.530743],"type":"Point"}
+  "bbox": [
+    -122.803807,
+    45.530743,
+    -122.803807,
+    45.530743
+],
+  "geometry": {"coordinates":[-122.80380700000001,45.530743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387352853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.864596,45.491476,-122.864596,45.491476",
     "geom:latitude":45.491476,
     "geom:longitude":-122.864596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 SW 182nd Pl",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387352853,
-    "wof:lastmodified":1449058441,
+    "wof:lastmodified":1466772272,
     "wof:name":"J C Driving School",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-122.864596,45.491476,-122.864596,45.491476],
-  "geometry": {"coordinates":[-122.864596,45.491476],"type":"Point"}
+  "bbox": [
+    -122.864596,
+    45.491476,
+    -122.864596,
+    45.491476
+],
+  "geometry": {"coordinates":[-122.86459600000001,45.491476],"type":"Point"}
 }

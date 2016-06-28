@@ -2,13 +2,14 @@
   "id": 354350883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.124287,44.655032,-123.124287,44.655032",
     "geom:latitude":44.655032,
     "geom:longitude":-123.124287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1492 NW Penny Ln",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354350883,
-    "wof:lastmodified":1449066795,
+    "wof:lastmodified":1466770350,
     "wof:name":"Linsco Private Ledger",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-123.124287,44.655032,-123.124287,44.655032],
+  "bbox": [
+    -123.124287,
+    44.655032,
+    -123.124287,
+    44.655032
+],
   "geometry": {"coordinates":[-123.124287,44.655032],"type":"Point"}
 }

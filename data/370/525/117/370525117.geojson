@@ -2,13 +2,14 @@
   "id": 370525117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.148587,44.161739,-123.148587,44.161739",
     "geom:latitude":44.161739,
     "geom:longitude":-123.148587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30593 Lone Pine Dr",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370525117,
-    "wof:lastmodified":1449031776,
+    "wof:lastmodified":1466772508,
     "wof:name":"Bob's Generator Svc",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-123.148587,44.161739,-123.148587,44.161739],
-  "geometry": {"coordinates":[-123.148587,44.161739],"type":"Point"}
+  "bbox": [
+    -123.148587,
+    44.161739,
+    -123.148587,
+    44.161739
+],
+  "geometry": {"coordinates":[-123.14858700000001,44.161739],"type":"Point"}
 }

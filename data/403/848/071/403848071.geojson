@@ -2,13 +2,14 @@
   "id": 403848071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.927158,45.526834,-122.927158,45.526834",
     "geom:latitude":45.526834,
     "geom:longitude":-122.927158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 NE Moore Ct",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403848071,
-    "wof:lastmodified":1449054812,
+    "wof:lastmodified":1466770738,
     "wof:name":"North Star Nameplate Inc",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "name"
     ]
 },
-  "bbox": [-122.927158,45.526834,-122.927158,45.526834],
-  "geometry": {"coordinates":[-122.927158,45.526834],"type":"Point"}
+  "bbox": [
+    -122.927158,
+    45.526834,
+    -122.927158,
+    45.526834
+],
+  "geometry": {"coordinates":[-122.92715800000001,45.526834],"type":"Point"}
 }

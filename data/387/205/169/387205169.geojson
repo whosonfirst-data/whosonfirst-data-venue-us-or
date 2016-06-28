@@ -2,13 +2,14 @@
   "id": 387205169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.35612,43.226779,-123.35612,43.226779",
     "geom:latitude":43.226779,
     "geom:longitude":-123.35612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 NW Garden Valley Blvd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387205169,
-    "wof:lastmodified":1449058405,
+    "wof:lastmodified":1466770892,
     "wof:name":"All State Real Estate",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.35612,43.226779,-123.35612,43.226779],
+  "bbox": [
+    -123.35612,
+    43.226779,
+    -123.35612,
+    43.226779
+],
   "geometry": {"coordinates":[-123.35612,43.226779],"type":"Point"}
 }

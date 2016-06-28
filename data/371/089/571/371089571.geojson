@@ -2,13 +2,14 @@
   "id": 371089571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.042223,44.071075,-123.042223,44.071075",
     "geom:latitude":44.071075,
     "geom:longitude":-123.042223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3260 Gateway St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371089571,
-    "wof:lastmodified":1449049254,
+    "wof:lastmodified":1466768624,
     "wof:name":"China Sun Buffet",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.042223,44.071075,-123.042223,44.071075],
-  "geometry": {"coordinates":[-123.042223,44.071075],"type":"Point"}
+  "bbox": [
+    -123.042223,
+    44.071075,
+    -123.042223,
+    44.071075
+],
+  "geometry": {"coordinates":[-123.04222300000001,44.071075],"type":"Point"}
 }

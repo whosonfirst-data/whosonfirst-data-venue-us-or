@@ -2,13 +2,14 @@
   "id": 370801141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.309087,43.406613,-123.309087,43.406613",
     "geom:latitude":43.406613,
     "geom:longitude":-123.309087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Union Gap Loop Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370801141,
-    "wof:lastmodified":1449031877,
+    "wof:lastmodified":1466774091,
     "wof:name":"Union Gap Auto Wrecker",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-123.309087,43.406613,-123.309087,43.406613],
-  "geometry": {"coordinates":[-123.309087,43.406613],"type":"Point"}
+  "bbox": [
+    -123.309087,
+    43.406613,
+    -123.309087,
+    43.406613
+],
+  "geometry": {"coordinates":[-123.30908700000001,43.406613],"type":"Point"}
 }

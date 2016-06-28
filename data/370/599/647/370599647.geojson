@@ -2,13 +2,14 @@
   "id": 370599647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.041283,44.900499,-123.041283,44.900499",
     "geom:latitude":44.900499,
     "geom:longitude":-123.041283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 Duplex Ct SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370599647,
-    "wof:lastmodified":1449030665,
+    "wof:lastmodified":1466773132,
     "wof:name":"Potpourri Business Svc Inc",
     "wof:parent_id":85880573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-123.041283,44.900499,-123.041283,44.900499],
-  "geometry": {"coordinates":[-123.041283,44.900499],"type":"Point"}
+  "bbox": [
+    -123.041283,
+    44.900499,
+    -123.041283,
+    44.900499
+],
+  "geometry": {"coordinates":[-123.04128300000001,44.900499],"type":"Point"}
 }

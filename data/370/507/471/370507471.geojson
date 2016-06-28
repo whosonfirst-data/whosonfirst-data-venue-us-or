@@ -2,13 +2,14 @@
   "id": 370507471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.609608,45.067109,-123.609608,45.067109",
     "geom:latitude":45.067109,
     "geom:longitude":-123.609608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28475 McPherson Rd",
     "sg:city":"Grand Ronde",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370507471,
-    "wof:lastmodified":1449030819,
+    "wof:lastmodified":1466772382,
     "wof:name":"Cedar Feather Productions",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "motion"
     ]
 },
-  "bbox": [-123.609608,45.067109,-123.609608,45.067109],
-  "geometry": {"coordinates":[-123.609608,45.067109],"type":"Point"}
+  "bbox": [
+    -123.609608,
+    45.067109,
+    -123.609608,
+    45.067109
+],
+  "geometry": {"coordinates":[-123.60960799999999,45.067109],"type":"Point"}
 }

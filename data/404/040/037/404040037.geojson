@@ -2,13 +2,14 @@
   "id": 404040037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.414797,43.27235,-123.414797,43.27235",
     "geom:latitude":43.27235,
     "geom:longitude":-123.414797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Fuchsia Ln",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404040037,
-    "wof:lastmodified":1449040298,
+    "wof:lastmodified":1466769168,
     "wof:name":"Adept Electricical Contrs LLC",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.414797,43.27235,-123.414797,43.27235],
-  "geometry": {"coordinates":[-123.414797,43.27235],"type":"Point"}
+  "bbox": [
+    -123.414797,
+    43.27235,
+    -123.414797,
+    43.27235
+],
+  "geometry": {"coordinates":[-123.41479699999999,43.27235],"type":"Point"}
 }

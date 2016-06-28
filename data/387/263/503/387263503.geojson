@@ -2,13 +2,14 @@
   "id": 387263503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.350243,45.249758,-122.350243,45.249758",
     "geom:latitude":45.249758,
     "geom:longitude":-122.350243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25230 S Wallens Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387263503,
-    "wof:lastmodified":1449059808,
+    "wof:lastmodified":1466771676,
     "wof:name":"Patrick Omeara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.350243,45.249758,-122.350243,45.249758],
-  "geometry": {"coordinates":[-122.350243,45.249758],"type":"Point"}
+  "bbox": [
+    -122.350243,
+    45.249758,
+    -122.350243,
+    45.249758
+],
+  "geometry": {"coordinates":[-122.35024300000001,45.249758],"type":"Point"}
 }

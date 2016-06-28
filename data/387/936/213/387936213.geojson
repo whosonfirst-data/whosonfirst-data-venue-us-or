@@ -2,13 +2,14 @@
   "id": 387936213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.118136,45.529026,-123.118136,45.529026",
     "geom:latitude":45.529026,
     "geom:longitude":-123.118136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Leon Dr",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387936213,
-    "wof:lastmodified":1449057365,
+    "wof:lastmodified":1466775340,
     "wof:name":"Chelan Joint Venture",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-123.118136,45.529026,-123.118136,45.529026],
-  "geometry": {"coordinates":[-123.118136,45.529026],"type":"Point"}
+  "bbox": [
+    -123.118136,
+    45.529026,
+    -123.118136,
+    45.529026
+],
+  "geometry": {"coordinates":[-123.11813600000001,45.529026],"type":"Point"}
 }

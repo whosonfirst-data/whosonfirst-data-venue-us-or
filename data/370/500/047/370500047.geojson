@@ -2,13 +2,14 @@
   "id": 370500047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.05084,42.214483,-123.05084,42.214483",
     "geom:latitude":42.214483,
     "geom:longitude":-123.05084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Hamilton Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370500047,
-    "wof:lastmodified":1449029944,
+    "wof:lastmodified":1466772320,
     "wof:name":"Garon Lee Sound",
     "wof:parent_id":85868985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-123.05084,42.214483,-123.05084,42.214483],
-  "geometry": {"coordinates":[-123.05084,42.214483],"type":"Point"}
+  "bbox": [
+    -123.05084,
+    42.214483,
+    -123.05084,
+    42.214483
+],
+  "geometry": {"coordinates":[-123.05083999999999,42.214483],"type":"Point"}
 }

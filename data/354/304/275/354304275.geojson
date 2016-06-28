@@ -2,13 +2,14 @@
   "id": 354304275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.678643,45.539998,-122.678643,45.539998",
     "geom:latitude":45.539998,
     "geom:longitude":-122.678643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2326 N Randolph Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354304275,
-    "wof:lastmodified":1449067222,
+    "wof:lastmodified":1466769553,
     "wof:name":"An Affair To Remember",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-122.678643,45.539998,-122.678643,45.539998],
-  "geometry": {"coordinates":[-122.678643,45.539998],"type":"Point"}
+  "bbox": [
+    -122.678643,
+    45.539998,
+    -122.678643,
+    45.539998
+],
+  "geometry": {"coordinates":[-122.67864299999999,45.539998],"type":"Point"}
 }

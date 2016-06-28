@@ -2,13 +2,14 @@
   "id": 371099009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.920635,46.137848,-123.920635,46.137848",
     "geom:latitude":46.137848,
     "geom:longitude":-123.920635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 SE Dolphin Ave",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371099009,
-    "wof:lastmodified":1449049737,
+    "wof:lastmodified":1466768777,
     "wof:name":"Medix Medivan Svc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-123.920635,46.137848,-123.920635,46.137848],
+  "bbox": [
+    -123.920635,
+    46.137848,
+    -123.920635,
+    46.137848
+],
   "geometry": {"coordinates":[-123.920635,46.137848],"type":"Point"}
 }

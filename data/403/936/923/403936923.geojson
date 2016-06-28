@@ -2,13 +2,14 @@
   "id": 403936923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.07635,44.876425,-123.07635,44.876425",
     "geom:latitude":44.876425,
     "geom:longitude":-123.07635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Mosswood Ct S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403936923,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1466768027,
     "wof:name":"Buddy System The",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-123.07635,44.876425,-123.07635,44.876425],
-  "geometry": {"coordinates":[-123.07635,44.876425],"type":"Point"}
+  "bbox": [
+    -123.07635,
+    44.876425,
+    -123.07635,
+    44.876425
+],
+  "geometry": {"coordinates":[-123.07635000000001,44.876425],"type":"Point"}
 }

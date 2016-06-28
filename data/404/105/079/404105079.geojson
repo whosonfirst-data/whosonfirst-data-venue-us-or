@@ -2,13 +2,14 @@
   "id": 404105079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.750652,42.223259,-121.750652,42.223259",
     "geom:latitude":42.223259,
     "geom:longitude":-121.750652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Vandenberg Rd",
     "sg:city":"Klamath Falls",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":404105079,
-    "wof:lastmodified":1449039485,
+    "wof:lastmodified":1466770690,
     "wof:name":"Klamath County Sheriff Office",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-121.750652,42.223259,-121.750652,42.223259],
+  "bbox": [
+    -121.750652,
+    42.223259,
+    -121.750652,
+    42.223259
+],
   "geometry": {"coordinates":[-121.750652,42.223259],"type":"Point"}
 }

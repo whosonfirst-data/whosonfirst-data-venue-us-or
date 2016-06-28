@@ -2,13 +2,14 @@
   "id": 387750147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.050492,44.030535,-123.050492,44.030535",
     "geom:latitude":44.030535,
     "geom:longitude":-123.050492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2663 Augusta St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387750147,
-    "wof:lastmodified":1449058404,
+    "wof:lastmodified":1466774785,
     "wof:name":"Al's Locksmith Svc",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-123.050492,44.030535,-123.050492,44.030535],
-  "geometry": {"coordinates":[-123.050492,44.030535],"type":"Point"}
+  "bbox": [
+    -123.050492,
+    44.030535,
+    -123.050492,
+    44.030535
+],
+  "geometry": {"coordinates":[-123.05049200000001,44.030535],"type":"Point"}
 }

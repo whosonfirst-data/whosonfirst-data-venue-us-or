@@ -2,13 +2,14 @@
   "id": 404090547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.993427,44.053427,-122.993427,44.053427",
     "geom:latitude":44.053427,
     "geom:longitude":-122.993427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 22nd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404090547,
-    "wof:lastmodified":1449040038,
+    "wof:lastmodified":1466770304,
     "wof:name":"Bob's Rent-A-Mover",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-122.993427,44.053427,-122.993427,44.053427],
+  "bbox": [
+    -122.993427,
+    44.053427,
+    -122.993427,
+    44.053427
+],
   "geometry": {"coordinates":[-122.993427,44.053427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370617083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.035747,44.940532,-123.035747,44.940532",
     "geom:latitude":44.940532,
     "geom:longitude":-123.035747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Court St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370617083,
-    "wof:lastmodified":1449029182,
+    "wof:lastmodified":1466773018,
     "wof:name":"County of Marion",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-123.035747,44.940532,-123.035747,44.940532],
+  "bbox": [
+    -123.035747,
+    44.940532,
+    -123.035747,
+    44.940532
+],
   "geometry": {"coordinates":[-123.035747,44.940532],"type":"Point"}
 }

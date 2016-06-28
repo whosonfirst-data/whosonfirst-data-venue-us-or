@@ -2,13 +2,14 @@
   "id": 387780423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.216537,43.369941,-124.216537,43.369941",
     "geom:latitude":43.369941,
     "geom:longitude":-124.216537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Highland Ave",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387780423,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1466774911,
     "wof:name":"Emmanuel Episcopal Church",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-124.216537,43.369941,-124.216537,43.369941],
+  "bbox": [
+    -124.216537,
+    43.369941,
+    -124.216537,
+    43.369941
+],
   "geometry": {"coordinates":[-124.216537,43.369941],"type":"Point"}
 }

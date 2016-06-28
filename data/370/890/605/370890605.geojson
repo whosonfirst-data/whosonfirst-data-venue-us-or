@@ -2,13 +2,14 @@
   "id": 370890605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.283718,45.84437,-119.283718,45.84437",
     "geom:latitude":45.84437,
     "geom:longitude":-119.283718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 E Catherine Ave",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370890605,
-    "wof:lastmodified":1449029836,
+    "wof:lastmodified":1466774503,
     "wof:name":"TRC Construction",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.283718,45.84437,-119.283718,45.84437],
-  "geometry": {"coordinates":[-119.283718,45.84437],"type":"Point"}
+  "bbox": [
+    -119.283718,
+    45.84437,
+    -119.283718,
+    45.84437
+],
+  "geometry": {"coordinates":[-119.28371799999999,45.84437],"type":"Point"}
 }

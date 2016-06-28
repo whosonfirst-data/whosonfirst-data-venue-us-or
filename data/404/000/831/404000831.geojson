@@ -2,13 +2,14 @@
   "id": 404000831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.64423,45.416032,-122.64423,45.416032",
     "geom:latitude":45.416032,
     "geom:longitude":-122.64423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14913 SE Cedar Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404000831,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1466768248,
     "wof:name":"Josh & Anne Hopwood",
     "wof:parent_id":85878587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-122.64423,45.416032,-122.64423,45.416032],
-  "geometry": {"coordinates":[-122.64423,45.416032],"type":"Point"}
+  "bbox": [
+    -122.64423,
+    45.416032,
+    -122.64423,
+    45.416032
+],
+  "geometry": {"coordinates":[-122.64422999999999,45.416032],"type":"Point"}
 }

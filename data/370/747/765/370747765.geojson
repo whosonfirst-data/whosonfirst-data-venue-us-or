@@ -2,13 +2,14 @@
   "id": 370747765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.980674,44.043475,-122.980674,44.043475",
     "geom:latitude":44.043475,
     "geom:longitude":-122.980674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 S 32nd St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370747765,
-    "wof:lastmodified":1449029711,
+    "wof:lastmodified":1466773700,
     "wof:name":"Awbrey Reconstruction",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.980674,44.043475,-122.980674,44.043475],
-  "geometry": {"coordinates":[-122.980674,44.043475],"type":"Point"}
+  "bbox": [
+    -122.980674,
+    44.043475,
+    -122.980674,
+    44.043475
+],
+  "geometry": {"coordinates":[-122.98067399999999,44.043475],"type":"Point"}
 }

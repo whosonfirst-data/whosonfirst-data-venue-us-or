@@ -2,13 +2,14 @@
   "id": 387158735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.024168,44.939351,-123.024168,44.939351",
     "geom:latitude":44.939351,
     "geom:longitude":-123.024168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 13th St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387158735,
-    "wof:lastmodified":1449058647,
+    "wof:lastmodified":1466769936,
     "wof:name":"Forum Apartments",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.024168,44.939351,-123.024168,44.939351],
+  "bbox": [
+    -123.024168,
+    44.939351,
+    -123.024168,
+    44.939351
+],
   "geometry": {"coordinates":[-123.024168,44.939351],"type":"Point"}
 }

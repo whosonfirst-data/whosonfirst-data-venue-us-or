@@ -2,13 +2,14 @@
   "id": 387048685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.047665,44.930412,-123.047665,44.930412",
     "geom:latitude":44.930412,
     "geom:longitude":-123.047665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Owens St S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387048685,
-    "wof:lastmodified":1449057425,
+    "wof:lastmodified":1466767949,
     "wof:name":"Willamette Terrace Apartments",
     "wof:parent_id":85834589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.047665,44.930412,-123.047665,44.930412],
-  "geometry": {"coordinates":[-123.047665,44.930412],"type":"Point"}
+  "bbox": [
+    -123.047665,
+    44.930412,
+    -123.047665,
+    44.930412
+],
+  "geometry": {"coordinates":[-123.04766499999999,44.930412],"type":"Point"}
 }

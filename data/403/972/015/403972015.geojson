@@ -2,13 +2,14 @@
   "id": 403972015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.083824,44.938196,-123.083824,44.938196",
     "geom:latitude":44.938196,
     "geom:longitude":-123.083824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Greenacre Dr NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403972015,
-    "wof:lastmodified":1449055309,
+    "wof:lastmodified":1466768649,
     "wof:name":"Steinbach Piano Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-123.083824,44.938196,-123.083824,44.938196],
-  "geometry": {"coordinates":[-123.083824,44.938196],"type":"Point"}
+  "bbox": [
+    -123.083824,
+    44.938196,
+    -123.083824,
+    44.938196
+],
+  "geometry": {"coordinates":[-123.08382400000001,44.938196],"type":"Point"}
 }

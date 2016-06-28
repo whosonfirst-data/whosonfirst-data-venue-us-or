@@ -2,13 +2,14 @@
   "id": 370741249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093271,44.020813,-123.093271,44.020813",
     "geom:latitude":44.020813,
     "geom:longitude":-123.093271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Crest Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370741249,
-    "wof:lastmodified":1449029257,
+    "wof:lastmodified":1466773883,
     "wof:name":"Helix Research",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.093271,44.020813,-123.093271,44.020813],
+  "bbox": [
+    -123.093271,
+    44.020813,
+    -123.093271,
+    44.020813
+],
   "geometry": {"coordinates":[-123.093271,44.020813],"type":"Point"}
 }

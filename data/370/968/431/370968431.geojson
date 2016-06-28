@@ -2,13 +2,14 @@
   "id": 370968431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03049,45.009775,-123.03049,45.009775",
     "geom:latitude":45.009775,
     "geom:longitude":-123.03049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Snead Dr N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370968431,
-    "wof:lastmodified":1449029297,
+    "wof:lastmodified":1466775008,
     "wof:name":"Neu Line Corp",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.03049,45.009775,-123.03049,45.009775],
+  "bbox": [
+    -123.03049,
+    45.009775,
+    -123.03049,
+    45.009775
+],
   "geometry": {"coordinates":[-123.03049,45.009775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403826631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.084803,44.073,-123.084803,44.073",
     "geom:latitude":44.073,
     "geom:longitude":-123.084803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Fairway View Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403826631,
-    "wof:lastmodified":1449055575,
+    "wof:lastmodified":1466770264,
     "wof:name":"Alberts Development",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.084803,44.073,-123.084803,44.073],
-  "geometry": {"coordinates":[-123.084803,44.073],"type":"Point"}
+  "bbox": [
+    -123.084803,
+    44.073,
+    -123.084803,
+    44.073
+],
+  "geometry": {"coordinates":[-123.08480299999999,44.073],"type":"Point"}
 }

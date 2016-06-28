@@ -2,13 +2,14 @@
   "id": 387943121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.825894,45.861399,-122.825894,45.861399",
     "geom:latitude":45.861399,
     "geom:longitude":-122.825894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Sunset Blvd",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387943121,
-    "wof:lastmodified":1449057106,
+    "wof:lastmodified":1466775372,
     "wof:name":"Kinder Cemetery Assoc",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-122.825894,45.861399,-122.825894,45.861399],
-  "geometry": {"coordinates":[-122.825894,45.861399],"type":"Point"}
+  "bbox": [
+    -122.825894,
+    45.861399,
+    -122.825894,
+    45.861399
+],
+  "geometry": {"coordinates":[-122.82589400000001,45.861399],"type":"Point"}
 }

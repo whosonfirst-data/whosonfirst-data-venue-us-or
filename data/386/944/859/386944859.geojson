@@ -2,13 +2,14 @@
   "id": 386944859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.916879,46.075263,-123.916879,46.075263",
     "geom:latitude":46.075263,
     "geom:longitude":-123.916879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89451 US Hwy 101",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386944859,
-    "wof:lastmodified":1449028780,
+    "wof:lastmodified":1466767245,
     "wof:name":"Sunset House",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-123.916879,46.075263,-123.916879,46.075263],
-  "geometry": {"coordinates":[-123.916879,46.075263],"type":"Point"}
+  "bbox": [
+    -123.916879,
+    46.075263,
+    -123.916879,
+    46.075263
+],
+  "geometry": {"coordinates":[-123.91687899999999,46.075263],"type":"Point"}
 }

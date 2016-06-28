@@ -2,13 +2,14 @@
   "id": 404100541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.0243,44.944279,-123.0243,44.944279",
     "geom:latitude":44.944279,
     "geom:longitude":-123.0243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Stewart St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404100541,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1466770545,
     "wof:name":"Laura's Investments",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.0243,44.944279,-123.0243,44.944279],
+  "bbox": [
+    -123.0243,
+    44.944279,
+    -123.0243,
+    44.944279
+],
   "geometry": {"coordinates":[-123.0243,44.944279],"type":"Point"}
 }

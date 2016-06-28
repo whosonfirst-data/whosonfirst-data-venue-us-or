@@ -2,13 +2,14 @@
   "id": 403761533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.199944,45.625534,-121.199944,45.625534",
     "geom:latitude":45.625534,
     "geom:longitude":-121.199944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Crates Way",
     "sg:city":"The Dalles",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403761533,
-    "wof:lastmodified":1449055642,
+    "wof:lastmodified":1466769036,
     "wof:name":"Coyote Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "quality"
     ]
 },
-  "bbox": [-121.199944,45.625534,-121.199944,45.625534],
+  "bbox": [
+    -121.199944,
+    45.625534,
+    -121.199944,
+    45.625534
+],
   "geometry": {"coordinates":[-121.199944,45.625534],"type":"Point"}
 }

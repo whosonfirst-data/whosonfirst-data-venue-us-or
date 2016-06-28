@@ -2,13 +2,14 @@
   "id": 370183207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.475637,43.843693,-121.475637,43.843693",
     "geom:latitude":43.843693,
     "geom:longitude":-121.475637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56285 Stellar Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370183207,
-    "wof:lastmodified":1449030894,
+    "wof:lastmodified":1466767738,
     "wof:name":"Rutherford Excavation",
     "wof:parent_id":85876197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.475637,43.843693,-121.475637,43.843693],
-  "geometry": {"coordinates":[-121.475637,43.843693],"type":"Point"}
+  "bbox": [
+    -121.475637,
+    43.843693,
+    -121.475637,
+    43.843693
+],
+  "geometry": {"coordinates":[-121.47563700000001,43.843693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387153203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347079,43.228144,-123.347079,43.228144",
     "geom:latitude":43.228144,
     "geom:longitude":-123.347079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1553 NE Vine St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387153203,
-    "wof:lastmodified":1449058729,
+    "wof:lastmodified":1466769827,
     "wof:name":"North Roseburg Church",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.347079,43.228144,-123.347079,43.228144],
-  "geometry": {"coordinates":[-123.347079,43.228144],"type":"Point"}
+  "bbox": [
+    -123.347079,
+    43.228144,
+    -123.347079,
+    43.228144
+],
+  "geometry": {"coordinates":[-123.34707899999999,43.228144],"type":"Point"}
 }

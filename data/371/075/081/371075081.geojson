@@ -2,13 +2,14 @@
   "id": 371075081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.701631,45.54307,-122.701631,45.54307",
     "geom:latitude":45.54307,
     "geom:longitude":-122.701631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 NW Yeon Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371075081,
-    "wof:lastmodified":1449049623,
+    "wof:lastmodified":1466768387,
     "wof:name":"Bell & Gossett",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-122.701631,45.54307,-122.701631,45.54307],
-  "geometry": {"coordinates":[-122.701631,45.54307],"type":"Point"}
+  "bbox": [
+    -122.701631,
+    45.54307,
+    -122.701631,
+    45.54307
+],
+  "geometry": {"coordinates":[-122.70163100000001,45.54307],"type":"Point"}
 }

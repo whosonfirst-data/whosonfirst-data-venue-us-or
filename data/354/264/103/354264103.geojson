@@ -2,13 +2,14 @@
   "id": 354264103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.110181,45.517975,-123.110181,45.517975",
     "geom:latitude":45.517975,
     "geom:longitude":-123.110181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1833 Ash St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354264103,
-    "wof:lastmodified":1449067078,
+    "wof:lastmodified":1466768875,
     "wof:name":"Yamhill Log Scaling & Grading",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "log"
     ]
 },
-  "bbox": [-123.110181,45.517975,-123.110181,45.517975],
+  "bbox": [
+    -123.110181,
+    45.517975,
+    -123.110181,
+    45.517975
+],
   "geometry": {"coordinates":[-123.110181,45.517975],"type":"Point"}
 }

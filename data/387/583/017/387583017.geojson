@@ -2,13 +2,14 @@
   "id": 387583017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.759655,45.533625,-122.759655,45.533625",
     "geom:latitude":45.533625,
     "geom:longitude":-122.759655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8005 NW Hawkins Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387583017,
-    "wof:lastmodified":1449059110,
+    "wof:lastmodified":1466773927,
     "wof:name":"Lewis Sternberg",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.759655,45.533625,-122.759655,45.533625],
+  "bbox": [
+    -122.759655,
+    45.533625,
+    -122.759655,
+    45.533625
+],
   "geometry": {"coordinates":[-122.759655,45.533625],"type":"Point"}
 }

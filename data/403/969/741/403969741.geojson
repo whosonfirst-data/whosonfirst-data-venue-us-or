@@ -2,13 +2,14 @@
   "id": 403969741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.518306,45.467358,-122.518306,45.467358",
     "geom:latitude":45.467358,
     "geom:longitude":-122.518306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7738 SE 141st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403969741,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1466768609,
     "wof:name":"Pdx Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.518306,45.467358,-122.518306,45.467358],
+  "bbox": [
+    -122.518306,
+    45.467358,
+    -122.518306,
+    45.467358
+],
   "geometry": {"coordinates":[-122.518306,45.467358],"type":"Point"}
 }

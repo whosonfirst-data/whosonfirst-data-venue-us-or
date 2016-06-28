@@ -2,13 +2,14 @@
   "id": 371011443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.807296,45.872673,-122.807296,45.872673",
     "geom:latitude":45.872673,
     "geom:longitude":-122.807296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 N 6th St",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371011443,
-    "wof:lastmodified":1449049912,
+    "wof:lastmodified":1466767332,
     "wof:name":"Mouse Factory",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-122.807296,45.872673,-122.807296,45.872673],
-  "geometry": {"coordinates":[-122.807296,45.872673],"type":"Point"}
+  "bbox": [
+    -122.807296,
+    45.872673,
+    -122.807296,
+    45.872673
+],
+  "geometry": {"coordinates":[-122.80729599999999,45.872673],"type":"Point"}
 }

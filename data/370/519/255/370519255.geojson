@@ -2,13 +2,14 @@
   "id": 370519255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.884975,45.528558,-123.884975,45.528558",
     "geom:latitude":45.528558,
     "geom:longitude":-123.884975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9815 9th St",
     "sg:city":"Bay City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370519255,
-    "wof:lastmodified":1449032238,
+    "wof:lastmodified":1466772354,
     "wof:name":"Watt Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-123.884975,45.528558,-123.884975,45.528558],
+  "bbox": [
+    -123.884975,
+    45.528558,
+    -123.884975,
+    45.528558
+],
   "geometry": {"coordinates":[-123.884975,45.528558],"type":"Point"}
 }

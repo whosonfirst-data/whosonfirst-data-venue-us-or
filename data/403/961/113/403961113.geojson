@@ -2,13 +2,14 @@
   "id": 403961113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.780353,45.455944,-122.780353,45.455944",
     "geom:latitude":45.455944,
     "geom:longitude":-122.780353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 SW Hall Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403961113,
-    "wof:lastmodified":1449055927,
+    "wof:lastmodified":1466768458,
     "wof:name":"World Wide Distributors Inc",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-122.780353,45.455944,-122.780353,45.455944],
-  "geometry": {"coordinates":[-122.780353,45.455944],"type":"Point"}
+  "bbox": [
+    -122.780353,
+    45.455944,
+    -122.780353,
+    45.455944
+],
+  "geometry": {"coordinates":[-122.78035300000001,45.455944],"type":"Point"}
 }

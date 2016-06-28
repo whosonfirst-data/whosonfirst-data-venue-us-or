@@ -2,13 +2,14 @@
   "id": 370623347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756487,45.469273,-122.756487,45.469273",
     "geom:latitude":45.469273,
     "geom:longitude":-122.756487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7480 SW 77th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370623347,
-    "wof:lastmodified":1449031463,
+    "wof:lastmodified":1466773075,
     "wof:name":"Crazy Chef Sato",
     "wof:parent_id":85857585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.756487,45.469273,-122.756487,45.469273],
-  "geometry": {"coordinates":[-122.756487,45.469273],"type":"Point"}
+  "bbox": [
+    -122.756487,
+    45.469273,
+    -122.756487,
+    45.469273
+],
+  "geometry": {"coordinates":[-122.75648700000001,45.469273],"type":"Point"}
 }

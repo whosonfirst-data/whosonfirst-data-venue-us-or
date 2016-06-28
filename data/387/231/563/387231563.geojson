@@ -2,13 +2,14 @@
   "id": 387231563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.530769,45.156799,-122.530769,45.156799",
     "geom:latitude":45.156799,
     "geom:longitude":-122.530769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31404 S Twin Rocks Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387231563,
-    "wof:lastmodified":1449058051,
+    "wof:lastmodified":1466771417,
     "wof:name":"Cumulus Resources LLC",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.530769,45.156799,-122.530769,45.156799],
-  "geometry": {"coordinates":[-122.530769,45.156799],"type":"Point"}
+  "bbox": [
+    -122.530769,
+    45.156799,
+    -122.530769,
+    45.156799
+],
+  "geometry": {"coordinates":[-122.53076900000001,45.156799],"type":"Point"}
 }

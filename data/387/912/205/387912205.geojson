@@ -2,13 +2,14 @@
   "id": 387912205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.402999,44.847817,-123.402999,44.847817",
     "geom:latitude":44.847817,
     "geom:longitude":-123.402999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18315 Bridgeport Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387912205,
-    "wof:lastmodified":1449057983,
+    "wof:lastmodified":1466775303,
     "wof:name":"A & N Livestock",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.402999,44.847817,-123.402999,44.847817],
-  "geometry": {"coordinates":[-123.402999,44.847817],"type":"Point"}
+  "bbox": [
+    -123.402999,
+    44.847817,
+    -123.402999,
+    44.847817
+],
+  "geometry": {"coordinates":[-123.40299899999999,44.847817],"type":"Point"}
 }

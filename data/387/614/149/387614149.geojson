@@ -2,13 +2,14 @@
   "id": 387614149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347196,43.229816,-123.347196,43.229816",
     "geom:latitude":43.229816,
     "geom:longitude":-123.347196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 NE Vine St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387614149,
-    "wof:lastmodified":1449060018,
+    "wof:lastmodified":1466774022,
     "wof:name":"Residence Club",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-123.347196,43.229816,-123.347196,43.229816],
+  "bbox": [
+    -123.347196,
+    43.229816,
+    -123.347196,
+    43.229816
+],
   "geometry": {"coordinates":[-123.347196,43.229816],"type":"Point"}
 }

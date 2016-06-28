@@ -2,13 +2,14 @@
   "id": 370272309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.611948,45.520978,-122.611948,45.520978",
     "geom:latitude":45.520978,
     "geom:longitude":-122.611948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 SE 50th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370272309,
-    "wof:lastmodified":1449032228,
+    "wof:lastmodified":1466769305,
     "wof:name":"John Leary",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.611948,45.520978,-122.611948,45.520978],
+  "bbox": [
+    -122.611948,
+    45.520978,
+    -122.611948,
+    45.520978
+],
   "geometry": {"coordinates":[-122.611948,45.520978],"type":"Point"}
 }

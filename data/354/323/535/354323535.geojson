@@ -2,13 +2,14 @@
   "id": 354323535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018008,45.010203,-123.018008,45.010203",
     "geom:latitude":45.010203,
     "geom:longitude":-123.018008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6231 11th Ave NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354323535,
-    "wof:lastmodified":1449066071,
+    "wof:lastmodified":1466769822,
     "wof:name":"Harry's Dental Lab",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-123.018008,45.010203,-123.018008,45.010203],
-  "geometry": {"coordinates":[-123.018008,45.010203],"type":"Point"}
+  "bbox": [
+    -123.018008,
+    45.010203,
+    -123.018008,
+    45.010203
+],
+  "geometry": {"coordinates":[-123.01800799999999,45.010203],"type":"Point"}
 }

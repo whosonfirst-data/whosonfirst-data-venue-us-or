@@ -2,13 +2,14 @@
   "id": 370796583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.402563,44.595327,-123.402563,44.595327",
     "geom:latitude":44.595327,
     "geom:longitude":-123.402563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24462 Cardwell Hill Dr",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370796583,
-    "wof:lastmodified":1449030693,
+    "wof:lastmodified":1466774179,
     "wof:name":"Corvallis Rental Properties LL",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-123.402563,44.595327,-123.402563,44.595327],
+  "bbox": [
+    -123.402563,
+    44.595327,
+    -123.402563,
+    44.595327
+],
   "geometry": {"coordinates":[-123.402563,44.595327],"type":"Point"}
 }

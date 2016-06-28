@@ -2,13 +2,14 @@
   "id": 370398619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.670014,45.556382,-122.670014,45.556382",
     "geom:latitude":45.556382,
     "geom:longitude":-122.670014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4638 N Haight Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370398619,
-    "wof:lastmodified":1449029355,
+    "wof:lastmodified":1466771635,
     "wof:name":"Tickets Unlimited",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"
     ]
 },
-  "bbox": [-122.670014,45.556382,-122.670014,45.556382],
-  "geometry": {"coordinates":[-122.670014,45.556382],"type":"Point"}
+  "bbox": [
+    -122.670014,
+    45.556382,
+    -122.670014,
+    45.556382
+],
+  "geometry": {"coordinates":[-122.67001399999999,45.556382],"type":"Point"}
 }

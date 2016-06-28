@@ -2,13 +2,14 @@
   "id": 370509499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.090325,43.671714,-124.090325,43.671714",
     "geom:latitude":43.671714,
     "geom:longitude":-124.090325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2567 Scholfield Rd",
     "sg:city":"Reedsport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370509499,
-    "wof:lastmodified":1449029206,
+    "wof:lastmodified":1466772242,
     "wof:name":"Manicke & Manicke Logging",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-124.090325,43.671714,-124.090325,43.671714],
-  "geometry": {"coordinates":[-124.090325,43.671714],"type":"Point"}
+  "bbox": [
+    -124.090325,
+    43.671714,
+    -124.090325,
+    43.671714
+],
+  "geometry": {"coordinates":[-124.09032500000001,43.671714],"type":"Point"}
 }

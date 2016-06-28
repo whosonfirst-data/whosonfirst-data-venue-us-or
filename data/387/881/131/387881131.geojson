@@ -2,13 +2,14 @@
   "id": 387881131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.993423,45.531242,-122.993423,45.531242",
     "geom:latitude":45.531242,
     "geom:longitude":-122.993423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 NW Connell Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387881131,
-    "wof:lastmodified":1449058310,
+    "wof:lastmodified":1466775114,
     "wof:name":"Semingson Exploration Inc",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.993423,45.531242,-122.993423,45.531242],
-  "geometry": {"coordinates":[-122.993423,45.531242],"type":"Point"}
+  "bbox": [
+    -122.993423,
+    45.531242,
+    -122.993423,
+    45.531242
+],
+  "geometry": {"coordinates":[-122.99342300000001,45.531242],"type":"Point"}
 }

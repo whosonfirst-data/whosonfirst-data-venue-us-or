@@ -2,13 +2,14 @@
   "id": 387498161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.049828,45.560595,-123.049828,45.560595",
     "geom:latitude":45.560595,
     "geom:longitude":-123.049828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 NW 363rd Pl",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387498161,
-    "wof:lastmodified":1449058989,
+    "wof:lastmodified":1466773226,
     "wof:name":"Doridon Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.049828,45.560595,-123.049828,45.560595],
-  "geometry": {"coordinates":[-123.049828,45.560595],"type":"Point"}
+  "bbox": [
+    -123.049828,
+    45.560595,
+    -123.049828,
+    45.560595
+],
+  "geometry": {"coordinates":[-123.04982800000001,45.560595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387912011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.05068,44.999819,-123.05068,44.999819",
     "geom:latitude":44.999819,
     "geom:longitude":-123.05068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Willow Lake Rd N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387912011,
-    "wof:lastmodified":1449057984,
+    "wof:lastmodified":1466775302,
     "wof:name":"Keizer Sand & Gravel",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-123.05068,44.999819,-123.05068,44.999819],
+  "bbox": [
+    -123.05068,
+    44.999819,
+    -123.05068,
+    44.999819
+],
   "geometry": {"coordinates":[-123.05068,44.999819],"type":"Point"}
 }

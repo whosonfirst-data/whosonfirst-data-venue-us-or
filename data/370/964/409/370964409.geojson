@@ -2,13 +2,14 @@
   "id": 370964409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.39418,45.505915,-122.39418,45.505915",
     "geom:latitude":45.505915,
     "geom:longitude":-122.39418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1192 NE Centurion Pl",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370964409,
-    "wof:lastmodified":1449031645,
+    "wof:lastmodified":1466775078,
     "wof:name":"Building Mechanical Solutions",
     "wof:parent_id":85842985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.39418,45.505915,-122.39418,45.505915],
-  "geometry": {"coordinates":[-122.39418,45.505915],"type":"Point"}
+  "bbox": [
+    -122.39418,
+    45.505915,
+    -122.39418,
+    45.505915
+],
+  "geometry": {"coordinates":[-122.39418000000001,45.505915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387161723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.256718,45.400537,-122.256718,45.400537",
     "geom:latitude":45.400537,
     "geom:longitude":-122.256718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39641 Scenic St",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387161723,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1466770002,
     "wof:name":"Mt Hood Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-122.256718,45.400537,-122.256718,45.400537],
-  "geometry": {"coordinates":[-122.256718,45.400537],"type":"Point"}
+  "bbox": [
+    -122.256718,
+    45.400537,
+    -122.256718,
+    45.400537
+],
+  "geometry": {"coordinates":[-122.25671800000001,45.400537],"type":"Point"}
 }

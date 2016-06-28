@@ -2,13 +2,14 @@
   "id": 370810675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.352863,44.04527,-123.352863,44.04527",
     "geom:latitude":44.04527,
     "geom:longitude":-123.352863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24974 Bolton Hill Rd",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370810675,
-    "wof:lastmodified":1449030089,
+    "wof:lastmodified":1466774135,
     "wof:name":"Lane County Road Maintenance",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.352863,44.04527,-123.352863,44.04527],
+  "bbox": [
+    -123.352863,
+    44.04527,
+    -123.352863,
+    44.04527
+],
   "geometry": {"coordinates":[-123.352863,44.04527],"type":"Point"}
 }

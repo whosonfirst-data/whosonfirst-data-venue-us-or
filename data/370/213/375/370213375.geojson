@@ -2,13 +2,14 @@
   "id": 370213375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.458484,45.512955,-122.458484,45.512955",
     "geom:latitude":45.512955,
     "geom:longitude":-122.458484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 NW Eleven Mile Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370213375,
-    "wof:lastmodified":1449029102,
+    "wof:lastmodified":1466768264,
     "wof:name":"Munich Motorworks",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-122.458484,45.512955,-122.458484,45.512955],
+  "bbox": [
+    -122.458484,
+    45.512955,
+    -122.458484,
+    45.512955
+],
   "geometry": {"coordinates":[-122.458484,45.512955],"type":"Point"}
 }

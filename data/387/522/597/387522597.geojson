@@ -2,13 +2,14 @@
   "id": 387522597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.665771,45.418379,-122.665771,45.418379",
     "geom:latitude":45.418379,
     "geom:longitude":-122.665771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 2nd St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387522597,
-    "wof:lastmodified":1449057916,
+    "wof:lastmodified":1466773408,
     "wof:name":"Lake Oswego Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.665771,45.418379,-122.665771,45.418379],
-  "geometry": {"coordinates":[-122.665771,45.418379],"type":"Point"}
+  "bbox": [
+    -122.665771,
+    45.418379,
+    -122.665771,
+    45.418379
+],
+  "geometry": {"coordinates":[-122.66577100000001,45.418379],"type":"Point"}
 }

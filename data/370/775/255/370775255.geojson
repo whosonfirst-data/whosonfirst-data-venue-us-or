@@ -2,13 +2,14 @@
   "id": 370775255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601909,45.366596,-122.601909,45.366596",
     "geom:latitude":45.366596,
     "geom:longitude":-122.601909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Clackamette Dr",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370775255,
-    "wof:lastmodified":1449031598,
+    "wof:lastmodified":1466773957,
     "wof:name":"Dye's Marine",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.601909,45.366596,-122.601909,45.366596],
-  "geometry": {"coordinates":[-122.601909,45.366596],"type":"Point"}
+  "bbox": [
+    -122.601909,
+    45.366596,
+    -122.601909,
+    45.366596
+],
+  "geometry": {"coordinates":[-122.60190900000001,45.366596],"type":"Point"}
 }

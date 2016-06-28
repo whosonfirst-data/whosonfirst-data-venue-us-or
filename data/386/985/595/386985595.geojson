@@ -2,13 +2,14 @@
   "id": 386985595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.513833,45.509599,-122.513833,45.509599",
     "geom:latitude":45.509599,
     "geom:longitude":-122.513833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14523 SE Stephens St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386985595,
-    "wof:lastmodified":1449028777,
+    "wof:lastmodified":1466767435,
     "wof:name":"M & J Excavation Inc",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.513833,45.509599,-122.513833,45.509599],
-  "geometry": {"coordinates":[-122.513833,45.509599],"type":"Point"}
+  "bbox": [
+    -122.513833,
+    45.509599,
+    -122.513833,
+    45.509599
+],
+  "geometry": {"coordinates":[-122.51383300000001,45.509599],"type":"Point"}
 }

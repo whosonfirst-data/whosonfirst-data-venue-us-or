@@ -2,13 +2,14 @@
   "id": 370325401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.237657,44.855131,-123.237657,44.855131",
     "geom:latitude":44.855131,
     "geom:longitude":-123.237657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Monmouth Ave N",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370325401,
-    "wof:lastmodified":1449030411,
+    "wof:lastmodified":1466770334,
     "wof:name":"Western Oregon University Libr",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-123.237657,44.855131,-123.237657,44.855131],
+  "bbox": [
+    -123.237657,
+    44.855131,
+    -123.237657,
+    44.855131
+],
   "geometry": {"coordinates":[-123.237657,44.855131],"type":"Point"}
 }

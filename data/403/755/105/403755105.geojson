@@ -2,13 +2,14 @@
   "id": 403755105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.287923,44.046564,-121.287923,44.046564",
     "geom:latitude":44.046564,
     "geom:longitude":-121.287923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 SE Armour Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403755105,
-    "wof:lastmodified":1449055015,
+    "wof:lastmodified":1466768934,
     "wof:name":"Central Oregon Strapping Supl",
     "wof:parent_id":85876201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fiber"
     ]
 },
-  "bbox": [-121.287923,44.046564,-121.287923,44.046564],
-  "geometry": {"coordinates":[-121.287923,44.046564],"type":"Point"}
+  "bbox": [
+    -121.287923,
+    44.046564,
+    -121.287923,
+    44.046564
+],
+  "geometry": {"coordinates":[-121.28792300000001,44.046564],"type":"Point"}
 }

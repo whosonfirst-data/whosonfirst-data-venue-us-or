@@ -2,13 +2,14 @@
   "id": 403795031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032805,44.857535,-123.032805,44.857535",
     "geom:latitude":44.857535,
     "geom:longitude":-123.032805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Newport Rd SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403795031,
-    "wof:lastmodified":1449055434,
+    "wof:lastmodified":1466771470,
     "wof:name":"United Nations Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.032805,44.857535,-123.032805,44.857535],
+  "bbox": [
+    -123.032805,
+    44.857535,
+    -123.032805,
+    44.857535
+],
   "geometry": {"coordinates":[-123.032805,44.857535],"type":"Point"}
 }

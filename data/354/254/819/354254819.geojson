@@ -2,13 +2,14 @@
   "id": 354254819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.931368,45.979573,-123.931368,45.979573",
     "geom:latitude":45.979573,
     "geom:longitude":-123.931368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 S Downing St",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354254819,
-    "wof:lastmodified":1449067142,
+    "wof:lastmodified":1466768746,
     "wof:name":"Fred Fawkes",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.931368,45.979573,-123.931368,45.979573],
-  "geometry": {"coordinates":[-123.931368,45.979573],"type":"Point"}
+  "bbox": [
+    -123.931368,
+    45.979573,
+    -123.931368,
+    45.979573
+],
+  "geometry": {"coordinates":[-123.93136800000001,45.979573],"type":"Point"}
 }

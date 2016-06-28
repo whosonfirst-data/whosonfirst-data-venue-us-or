@@ -2,13 +2,14 @@
   "id": 387381335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092498,44.638086,-123.092498,44.638086",
     "geom:latitude":44.638086,
     "geom:longitude":-123.092498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 2nd Ave SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387381335,
-    "wof:lastmodified":1449056421,
+    "wof:lastmodified":1466772394,
     "wof:name":"Cascade Data Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-123.092498,44.638086,-123.092498,44.638086],
-  "geometry": {"coordinates":[-123.092498,44.638086],"type":"Point"}
+  "bbox": [
+    -123.092498,
+    44.638086,
+    -123.092498,
+    44.638086
+],
+  "geometry": {"coordinates":[-123.09249800000001,44.638086],"type":"Point"}
 }

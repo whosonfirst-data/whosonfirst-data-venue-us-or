@@ -2,13 +2,14 @@
   "id": 404210693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.585271,45.221209,-122.585271,45.221209",
     "geom:latitude":45.221209,
     "geom:longitude":-122.585271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13772 S Mulino Rd",
     "sg:city":"Mulino",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404210693,
-    "wof:lastmodified":1449039417,
+    "wof:lastmodified":1466768296,
     "wof:name":"Passport Unlimited",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plan"
     ]
 },
-  "bbox": [-122.585271,45.221209,-122.585271,45.221209],
-  "geometry": {"coordinates":[-122.585271,45.221209],"type":"Point"}
+  "bbox": [
+    -122.585271,
+    45.221209,
+    -122.585271,
+    45.221209
+],
+  "geometry": {"coordinates":[-122.58527100000001,45.221209],"type":"Point"}
 }

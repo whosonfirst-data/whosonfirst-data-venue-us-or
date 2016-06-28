@@ -2,13 +2,14 @@
   "id": 387789771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820693,45.859584,-122.820693,45.859584",
     "geom:latitude":45.859584,
     "geom:longitude":-122.820693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 N Columbia River Hwy",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789771,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1466774961,
     "wof:name":"Ron Steinke Construction",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.820693,45.859584,-122.820693,45.859584],
-  "geometry": {"coordinates":[-122.820693,45.859584],"type":"Point"}
+  "bbox": [
+    -122.820693,
+    45.859584,
+    -122.820693,
+    45.859584
+],
+  "geometry": {"coordinates":[-122.82069300000001,45.859584],"type":"Point"}
 }

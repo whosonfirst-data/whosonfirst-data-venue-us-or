@@ -2,13 +2,14 @@
   "id": 387211829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.640357,45.524926,-122.640357,45.524926",
     "geom:latitude":45.524926,
     "geom:longitude":-122.640357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 NE Everett St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387211829,
-    "wof:lastmodified":1449057044,
+    "wof:lastmodified":1466771039,
     "wof:name":"Teen Parent Svc",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.640357,45.524926,-122.640357,45.524926],
-  "geometry": {"coordinates":[-122.640357,45.524926],"type":"Point"}
+  "bbox": [
+    -122.640357,
+    45.524926,
+    -122.640357,
+    45.524926
+],
+  "geometry": {"coordinates":[-122.64035699999999,45.524926],"type":"Point"}
 }

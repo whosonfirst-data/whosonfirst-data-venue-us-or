@@ -2,13 +2,14 @@
   "id": 387915469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.6411,45.45031,-122.6411,45.45031",
     "geom:latitude":45.45031,
     "geom:longitude":-122.6411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 SE Hanna Harvester Dr",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387915469,
-    "wof:lastmodified":1449059886,
+    "wof:lastmodified":1466775328,
     "wof:name":"Heiberg Garbage & Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-122.6411,45.45031,-122.6411,45.45031],
-  "geometry": {"coordinates":[-122.6411,45.45031],"type":"Point"}
+  "bbox": [
+    -122.6411,
+    45.45031,
+    -122.6411,
+    45.45031
+],
+  "geometry": {"coordinates":[-122.64109999999999,45.45031],"type":"Point"}
 }

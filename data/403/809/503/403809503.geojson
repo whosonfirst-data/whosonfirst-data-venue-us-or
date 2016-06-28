@@ -2,13 +2,14 @@
   "id": 403809503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.156787,44.058417,-123.156787,44.058417",
     "geom:latitude":44.058417,
     "geom:longitude":-123.156787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 W 1st Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403809503,
-    "wof:lastmodified":1449055727,
+    "wof:lastmodified":1466769815,
     "wof:name":"Frame Central",
     "wof:parent_id":85877265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.156787,44.058417,-123.156787,44.058417],
-  "geometry": {"coordinates":[-123.156787,44.058417],"type":"Point"}
+  "bbox": [
+    -123.156787,
+    44.058417,
+    -123.156787,
+    44.058417
+],
+  "geometry": {"coordinates":[-123.15678699999999,44.058417],"type":"Point"}
 }

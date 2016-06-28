@@ -2,13 +2,14 @@
   "id": 387214549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.863054,45.480746,-122.863054,45.480746",
     "geom:latitude":45.480746,
     "geom:longitude":-122.863054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18170 SW Division St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387214549,
-    "wof:lastmodified":1449059797,
+    "wof:lastmodified":1466771095,
     "wof:name":"James York",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.863054,45.480746,-122.863054,45.480746],
-  "geometry": {"coordinates":[-122.863054,45.480746],"type":"Point"}
+  "bbox": [
+    -122.863054,
+    45.480746,
+    -122.863054,
+    45.480746
+],
+  "geometry": {"coordinates":[-122.86305400000001,45.480746],"type":"Point"}
 }

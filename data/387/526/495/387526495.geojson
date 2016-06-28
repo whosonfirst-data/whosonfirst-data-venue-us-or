@@ -2,13 +2,14 @@
   "id": 387526495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.591521,45.561249,-122.591521,45.561249",
     "geom:latitude":45.561249,
     "geom:longitude":-122.591521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6850 NE Emerson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387526495,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1466773331,
     "wof:name":"Tweedys Welding",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-122.591521,45.561249,-122.591521,45.561249],
+  "bbox": [
+    -122.591521,
+    45.561249,
+    -122.591521,
+    45.561249
+],
   "geometry": {"coordinates":[-122.591521,45.561249],"type":"Point"}
 }

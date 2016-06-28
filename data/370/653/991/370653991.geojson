@@ -2,13 +2,14 @@
   "id": 370653991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.037141,44.064746,-123.037141,44.064746",
     "geom:latitude":44.064746,
     "geom:longitude":-123.037141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Shelley St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370653991,
-    "wof:lastmodified":1449029328,
+    "wof:lastmodified":1466773312,
     "wof:name":"Mountain Spring Water",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-123.037141,44.064746,-123.037141,44.064746],
-  "geometry": {"coordinates":[-123.037141,44.064746],"type":"Point"}
+  "bbox": [
+    -123.037141,
+    44.064746,
+    -123.037141,
+    44.064746
+],
+  "geometry": {"coordinates":[-123.03714100000001,44.064746],"type":"Point"}
 }

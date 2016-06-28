@@ -2,13 +2,14 @@
   "id": 403735057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.67351,45.580614,-122.67351,45.580614",
     "geom:latitude":45.580614,
     "geom:longitude":-122.67351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 N Winchell St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403735057,
-    "wof:lastmodified":1449055914,
+    "wof:lastmodified":1466771450,
     "wof:name":"Commercial Storefront & Glass",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-122.67351,45.580614,-122.67351,45.580614],
-  "geometry": {"coordinates":[-122.67351,45.580614],"type":"Point"}
+  "bbox": [
+    -122.67351,
+    45.580614,
+    -122.67351,
+    45.580614
+],
+  "geometry": {"coordinates":[-122.67350999999999,45.580614],"type":"Point"}
 }

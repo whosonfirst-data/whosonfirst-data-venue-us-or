@@ -2,13 +2,14 @@
   "id": 370430069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.039833,44.940193,-123.039833,44.940193",
     "geom:latitude":44.940193,
     "geom:longitude":-123.039833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 State St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370430069,
-    "wof:lastmodified":1449031232,
+    "wof:lastmodified":1466771834,
     "wof:name":"Wild Pear",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.039833,44.940193,-123.039833,44.940193],
+  "bbox": [
+    -123.039833,
+    44.940193,
+    -123.039833,
+    44.940193
+],
   "geometry": {"coordinates":[-123.039833,44.940193],"type":"Point"}
 }

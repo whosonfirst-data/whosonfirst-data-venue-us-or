@@ -2,13 +2,14 @@
   "id": 387309367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.053435,45.028195,-123.053435,45.028195",
     "geom:latitude":45.028195,
     "geom:longitude":-123.053435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 Windsor Island Rd N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387309367,
-    "wof:lastmodified":1449056949,
+    "wof:lastmodified":1466771834,
     "wof:name":"A & B Excavation Inc",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.053435,45.028195,-123.053435,45.028195],
-  "geometry": {"coordinates":[-123.053435,45.028195],"type":"Point"}
+  "bbox": [
+    -123.053435,
+    45.028195,
+    -123.053435,
+    45.028195
+],
+  "geometry": {"coordinates":[-123.05343499999999,45.028195],"type":"Point"}
 }

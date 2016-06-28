@@ -2,13 +2,14 @@
   "id": 403928697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.366487,43.213537,-123.366487,43.213537",
     "geom:latitude":43.213537,
     "geom:longitude":-123.366487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 W Harvard Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403928697,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466767875,
     "wof:name":"Harvard Dental Group",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.366487,43.213537,-123.366487,43.213537],
-  "geometry": {"coordinates":[-123.366487,43.213537],"type":"Point"}
+  "bbox": [
+    -123.366487,
+    43.213537,
+    -123.366487,
+    43.213537
+],
+  "geometry": {"coordinates":[-123.36648700000001,43.213537],"type":"Point"}
 }

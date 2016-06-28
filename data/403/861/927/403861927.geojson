@@ -2,13 +2,14 @@
   "id": 403861927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.013951,44.981891,-124.013951,44.981891",
     "geom:latitude":44.981891,
     "geom:longitude":-124.013951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 NW Inlet Ave",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403861927,
-    "wof:lastmodified":1449055950,
+    "wof:lastmodified":1466771004,
     "wof:name":"Nordic Oceanfront Lodging",
     "wof:parent_id":85868149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.013951,44.981891,-124.013951,44.981891],
-  "geometry": {"coordinates":[-124.013951,44.981891],"type":"Point"}
+  "bbox": [
+    -124.013951,
+    44.981891,
+    -124.013951,
+    44.981891
+],
+  "geometry": {"coordinates":[-124.01395100000001,44.981891],"type":"Point"}
 }

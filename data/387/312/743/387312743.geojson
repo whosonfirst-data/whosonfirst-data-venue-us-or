@@ -2,13 +2,14 @@
   "id": 387312743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756904,45.387482,-122.756904,45.387482",
     "geom:latitude":45.387482,
     "geom:longitude":-122.756904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18101 SW Boones Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387312743,
-    "wof:lastmodified":1449058031,
+    "wof:lastmodified":1466771992,
     "wof:name":"International Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wood"
     ]
 },
-  "bbox": [-122.756904,45.387482,-122.756904,45.387482],
-  "geometry": {"coordinates":[-122.756904,45.387482],"type":"Point"}
+  "bbox": [
+    -122.756904,
+    45.387482,
+    -122.756904,
+    45.387482
+],
+  "geometry": {"coordinates":[-122.75690400000001,45.387482],"type":"Point"}
 }

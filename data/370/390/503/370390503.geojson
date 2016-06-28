@@ -2,13 +2,14 @@
   "id": 370390503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.90712,44.533588,-122.90712,44.533588",
     "geom:latitude":44.533588,
     "geom:longitude":-122.90712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1296 S Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370390503,
-    "wof:lastmodified":1449032510,
+    "wof:lastmodified":1466771561,
     "wof:name":"Cascades City Ctr Motel",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.90712,44.533588,-122.90712,44.533588],
-  "geometry": {"coordinates":[-122.90712,44.533588],"type":"Point"}
+  "bbox": [
+    -122.90712,
+    44.533588,
+    -122.90712,
+    44.533588
+],
+  "geometry": {"coordinates":[-122.90712000000001,44.533588],"type":"Point"}
 }

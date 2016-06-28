@@ -2,13 +2,14 @@
   "id": 404102667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.744076,45.562044,-122.744076,45.562044",
     "geom:latitude":45.562044,
     "geom:longitude":-122.744076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5575 NW Saint Helens Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404102667,
-    "wof:lastmodified":1449040252,
+    "wof:lastmodified":1466770641,
     "wof:name":"Light Bendors",
     "wof:parent_id":85857801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.744076,45.562044,-122.744076,45.562044],
-  "geometry": {"coordinates":[-122.744076,45.562044],"type":"Point"}
+  "bbox": [
+    -122.744076,
+    45.562044,
+    -122.744076,
+    45.562044
+],
+  "geometry": {"coordinates":[-122.74407600000001,45.562044],"type":"Point"}
 }

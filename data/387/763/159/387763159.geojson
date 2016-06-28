@@ -2,13 +2,14 @@
   "id": 387763159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.643458,45.512342,-122.643458,45.512342",
     "geom:latitude":45.512342,
     "geom:longitude":-122.643458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 SE 22nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387763159,
-    "wof:lastmodified":1449059904,
+    "wof:lastmodified":1466774847,
     "wof:name":"Woodburn Appraisal",
     "wof:parent_id":85893171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-122.643458,45.512342,-122.643458,45.512342],
+  "bbox": [
+    -122.643458,
+    45.512342,
+    -122.643458,
+    45.512342
+],
   "geometry": {"coordinates":[-122.643458,45.512342],"type":"Point"}
 }

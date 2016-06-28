@@ -2,13 +2,14 @@
   "id": 370277323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.34961,43.216196,-123.34961,43.216196",
     "geom:latitude":43.216196,
     "geom:longitude":-123.34961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 W Riverside Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370277323,
-    "wof:lastmodified":1449029470,
+    "wof:lastmodified":1466769402,
     "wof:name":"Immedia Software LLC",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-123.34961,43.216196,-123.34961,43.216196],
+  "bbox": [
+    -123.34961,
+    43.216196,
+    -123.34961,
+    43.216196
+],
   "geometry": {"coordinates":[-123.34961,43.216196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370322641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.16728,44.588206,-123.16728,44.588206",
     "geom:latitude":44.588206,
     "geom:longitude":-123.16728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30392 Walnut Dr SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370322641,
-    "wof:lastmodified":1449029031,
+    "wof:lastmodified":1466770272,
     "wof:name":"House Of Ghia",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-123.16728,44.588206,-123.16728,44.588206],
-  "geometry": {"coordinates":[-123.16728,44.588206],"type":"Point"}
+  "bbox": [
+    -123.16728,
+    44.588206,
+    -123.16728,
+    44.588206
+],
+  "geometry": {"coordinates":[-123.16728000000001,44.588206],"type":"Point"}
 }

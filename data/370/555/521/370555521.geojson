@@ -2,13 +2,14 @@
   "id": 370555521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.087079,45.537099,-123.087079,45.537099",
     "geom:latitude":45.537099,
     "geom:longitude":-123.087079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 NW Porter Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370555521,
-    "wof:lastmodified":1449031988,
+    "wof:lastmodified":1466772728,
     "wof:name":"Porter Road Choppers",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-123.087079,45.537099,-123.087079,45.537099],
+  "bbox": [
+    -123.087079,
+    45.537099,
+    -123.087079,
+    45.537099
+],
   "geometry": {"coordinates":[-123.087079,45.537099],"type":"Point"}
 }

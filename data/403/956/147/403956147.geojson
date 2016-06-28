@@ -2,13 +2,14 @@
   "id": 403956147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628301,45.477004,-122.628301,45.477004",
     "geom:latitude":45.477004,
     "geom:longitude":-122.628301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 SE 34th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403956147,
-    "wof:lastmodified":1449054857,
+    "wof:lastmodified":1466768370,
     "wof:name":"Gusco Properties",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.628301,45.477004,-122.628301,45.477004],
-  "geometry": {"coordinates":[-122.628301,45.477004],"type":"Point"}
+  "bbox": [
+    -122.628301,
+    45.477004,
+    -122.628301,
+    45.477004
+],
+  "geometry": {"coordinates":[-122.62830099999999,45.477004],"type":"Point"}
 }

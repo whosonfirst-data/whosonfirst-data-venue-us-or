@@ -2,13 +2,14 @@
   "id": 404042511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.526368,45.558189,-122.526368,45.558189",
     "geom:latitude":45.558189,
     "geom:longitude":-122.526368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13311 NE Whitaker Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404042511,
-    "wof:lastmodified":1449040010,
+    "wof:lastmodified":1466769221,
     "wof:name":"Eagle Designs & Woodworking",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-122.526368,45.558189,-122.526368,45.558189],
-  "geometry": {"coordinates":[-122.526368,45.558189],"type":"Point"}
+  "bbox": [
+    -122.526368,
+    45.558189,
+    -122.526368,
+    45.558189
+],
+  "geometry": {"coordinates":[-122.52636800000001,45.558189],"type":"Point"}
 }

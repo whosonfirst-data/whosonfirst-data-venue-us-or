@@ -2,13 +2,14 @@
   "id": 370677217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.025027,45.424047,-123.025027,45.424047",
     "geom:latitude":45.424047,
     "geom:longitude":-123.025027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12805 SW Brighton Ln",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370677217,
-    "wof:lastmodified":1449030307,
+    "wof:lastmodified":1466773317,
     "wof:name":"K B Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.025027,45.424047,-123.025027,45.424047],
-  "geometry": {"coordinates":[-123.025027,45.424047],"type":"Point"}
+  "bbox": [
+    -123.025027,
+    45.424047,
+    -123.025027,
+    45.424047
+],
+  "geometry": {"coordinates":[-123.02502699999999,45.424047],"type":"Point"}
 }

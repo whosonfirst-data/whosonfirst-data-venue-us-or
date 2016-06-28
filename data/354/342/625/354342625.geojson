@@ -2,13 +2,14 @@
   "id": 354342625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055908,45.517587,-123.055908,45.517587",
     "geom:latitude":45.517587,
     "geom:longitude":-123.055908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 S Cherry St",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354342625,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1466770185,
     "wof:name":"K C Lawrence Co",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.055908,45.517587,-123.055908,45.517587],
+  "bbox": [
+    -123.055908,
+    45.517587,
+    -123.055908,
+    45.517587
+],
   "geometry": {"coordinates":[-123.055908,45.517587],"type":"Point"}
 }

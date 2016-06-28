@@ -2,13 +2,14 @@
   "id": 370984171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.822598,45.466465,-122.822598,45.466465",
     "geom:latitude":45.466465,
     "geom:longitude":-122.822598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14115 SW 140th Ct",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370984171,
-    "wof:lastmodified":1449030989,
+    "wof:lastmodified":1466774943,
     "wof:name":"TRM Inc",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-122.822598,45.466465,-122.822598,45.466465],
+  "bbox": [
+    -122.822598,
+    45.466465,
+    -122.822598,
+    45.466465
+],
   "geometry": {"coordinates":[-122.822598,45.466465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370360903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653697,45.591196,-122.653697,45.591196",
     "geom:latitude":45.591196,
     "geom:longitude":-122.653697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 NE Lija Loop",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370360903,
-    "wof:lastmodified":1449031707,
+    "wof:lastmodified":1466771027,
     "wof:name":"Allsorce Tchncal Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-122.653697,45.591196,-122.653697,45.591196],
-  "geometry": {"coordinates":[-122.653697,45.591196],"type":"Point"}
+  "bbox": [
+    -122.653697,
+    45.591196,
+    -122.653697,
+    45.591196
+],
+  "geometry": {"coordinates":[-122.65369699999999,45.591196],"type":"Point"}
 }

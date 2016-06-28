@@ -2,13 +2,14 @@
   "id": 370740419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.078065,44.633007,-123.078065,44.633007",
     "geom:latitude":44.633007,
     "geom:longitude":-123.078065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Santiam Hwy SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370740419,
-    "wof:lastmodified":1449030632,
+    "wof:lastmodified":1466773654,
     "wof:name":"Willamette Assoc Of Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-123.078065,44.633007,-123.078065,44.633007],
+  "bbox": [
+    -123.078065,
+    44.633007,
+    -123.078065,
+    44.633007
+],
   "geometry": {"coordinates":[-123.078065,44.633007],"type":"Point"}
 }

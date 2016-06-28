@@ -2,13 +2,14 @@
   "id": 387506343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.849983,45.817974,-122.849983,45.817974",
     "geom:latitude":45.817974,
     "geom:longitude":-122.849983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56611 Columbia River Hwy",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387506343,
-    "wof:lastmodified":1449056205,
+    "wof:lastmodified":1466773269,
     "wof:name":"Rands Lawn Maintenance",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.849983,45.817974,-122.849983,45.817974],
-  "geometry": {"coordinates":[-122.849983,45.817974],"type":"Point"}
+  "bbox": [
+    -122.849983,
+    45.817974,
+    -122.849983,
+    45.817974
+],
+  "geometry": {"coordinates":[-122.84998299999999,45.817974],"type":"Point"}
 }

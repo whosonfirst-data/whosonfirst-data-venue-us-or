@@ -2,13 +2,14 @@
   "id": 370807571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.013584,44.95703,-124.013584,44.95703",
     "geom:latitude":44.95703,
     "geom:longitude":-124.013584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 US Hwy 101",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370807571,
-    "wof:lastmodified":1449029966,
+    "wof:lastmodified":1466774130,
     "wof:name":"Westcoastnet Inc",
     "wof:parent_id":85868147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "provider"
     ]
 },
-  "bbox": [-124.013584,44.95703,-124.013584,44.95703],
-  "geometry": {"coordinates":[-124.013584,44.95703],"type":"Point"}
+  "bbox": [
+    -124.013584,
+    44.95703,
+    -124.013584,
+    44.95703
+],
+  "geometry": {"coordinates":[-124.01358399999999,44.95703],"type":"Point"}
 }

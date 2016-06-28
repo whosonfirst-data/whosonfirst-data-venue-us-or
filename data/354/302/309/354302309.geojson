@@ -2,13 +2,14 @@
   "id": 354302309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.640245,45.321961,-122.640245,45.321961",
     "geom:latitude":45.321961,
     "geom:longitude":-122.640245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11055 S Navajo Way",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302309,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1466769527,
     "wof:name":"Mouse Tracks",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-122.640245,45.321961,-122.640245,45.321961],
-  "geometry": {"coordinates":[-122.640245,45.321961],"type":"Point"}
+  "bbox": [
+    -122.640245,
+    45.321961,
+    -122.640245,
+    45.321961
+],
+  "geometry": {"coordinates":[-122.64024499999999,45.321961],"type":"Point"}
 }

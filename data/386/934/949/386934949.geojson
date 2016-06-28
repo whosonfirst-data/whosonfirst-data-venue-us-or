@@ -2,13 +2,14 @@
   "id": 386934949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.252362,44.588925,-123.252362,44.588925",
     "geom:latitude":44.588925,
     "geom:longitude":-123.252362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 NE Circle Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386934949,
-    "wof:lastmodified":1449028643,
+    "wof:lastmodified":1466767178,
     "wof:name":"Corvallis Rental Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-123.252362,44.588925,-123.252362,44.588925],
-  "geometry": {"coordinates":[-123.252362,44.588925],"type":"Point"}
+  "bbox": [
+    -123.252362,
+    44.588925,
+    -123.252362,
+    44.588925
+],
+  "geometry": {"coordinates":[-123.25236200000001,44.588925],"type":"Point"}
 }

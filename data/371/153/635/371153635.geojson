@@ -2,13 +2,14 @@
   "id": 371153635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.095722,45.321128,-118.095722,45.321128",
     "geom:latitude":45.321128,
     "geom:longitude":-118.095722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 K Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371153635,
-    "wof:lastmodified":1449049777,
+    "wof:lastmodified":1466769755,
     "wof:name":"Union County Circuit Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-118.095722,45.321128,-118.095722,45.321128],
-  "geometry": {"coordinates":[-118.095722,45.321128],"type":"Point"}
+  "bbox": [
+    -118.095722,
+    45.321128,
+    -118.095722,
+    45.321128
+],
+  "geometry": {"coordinates":[-118.09572199999999,45.321128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370366351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.197556,44.216009,-123.197556,44.216009",
     "geom:latitude":44.216009,
     "geom:longitude":-123.197556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 E 2nd Ave",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370366351,
-    "wof:lastmodified":1449031565,
+    "wof:lastmodified":1466771135,
     "wof:name":"Active Cable Services",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-123.197556,44.216009,-123.197556,44.216009],
-  "geometry": {"coordinates":[-123.197556,44.216009],"type":"Point"}
+  "bbox": [
+    -123.197556,
+    44.216009,
+    -123.197556,
+    44.216009
+],
+  "geometry": {"coordinates":[-123.19755600000001,44.216009],"type":"Point"}
 }

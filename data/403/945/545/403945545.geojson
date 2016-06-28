@@ -2,13 +2,14 @@
   "id": 403945545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.301447,45.385963,-122.301447,45.385963",
     "geom:latitude":45.385963,
     "geom:longitude":-122.301447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35505 SE Gunderson Rd",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403945545,
-    "wof:lastmodified":1449054743,
+    "wof:lastmodified":1466768177,
     "wof:name":"Master Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.301447,45.385963,-122.301447,45.385963],
+  "bbox": [
+    -122.301447,
+    45.385963,
+    -122.301447,
+    45.385963
+],
   "geometry": {"coordinates":[-122.301447,45.385963],"type":"Point"}
 }

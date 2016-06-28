@@ -2,13 +2,14 @@
   "id": 370851367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.112869,45.455008,-123.112869,45.455008",
     "geom:latitude":45.455008,
     "geom:longitude":-123.112869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41840 SW Vandehey Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370851367,
-    "wof:lastmodified":1449031305,
+    "wof:lastmodified":1466774321,
     "wof:name":"Buchholz & Buchholz Nursery",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.112869,45.455008,-123.112869,45.455008],
+  "bbox": [
+    -123.112869,
+    45.455008,
+    -123.112869,
+    45.455008
+],
   "geometry": {"coordinates":[-123.112869,45.455008],"type":"Point"}
 }

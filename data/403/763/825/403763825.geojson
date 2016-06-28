@@ -2,13 +2,14 @@
   "id": 403763825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.181581,44.950307,-123.181581,44.950307",
     "geom:latitude":44.950307,
     "geom:longitude":-123.181581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 N Greenwood Rd",
     "sg:city":"Rickreall",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403763825,
-    "wof:lastmodified":1449055954,
+    "wof:lastmodified":1466769077,
     "wof:name":"Freeborn Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-123.181581,44.950307,-123.181581,44.950307],
-  "geometry": {"coordinates":[-123.181581,44.950307],"type":"Point"}
+  "bbox": [
+    -123.181581,
+    44.950307,
+    -123.181581,
+    44.950307
+],
+  "geometry": {"coordinates":[-123.18158099999999,44.950307],"type":"Point"}
 }

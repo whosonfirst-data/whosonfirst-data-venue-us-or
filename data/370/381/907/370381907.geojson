@@ -2,13 +2,14 @@
   "id": 370381907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.095864,44.050539,-123.095864,44.050539",
     "geom:latitude":44.050539,
     "geom:longitude":-123.095864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Charnelton St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370381907,
-    "wof:lastmodified":1449029364,
+    "wof:lastmodified":1466771508,
     "wof:name":"Vistra Framing & Gallery",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-123.095864,44.050539,-123.095864,44.050539],
-  "geometry": {"coordinates":[-123.095864,44.050539],"type":"Point"}
+  "bbox": [
+    -123.095864,
+    44.050539,
+    -123.095864,
+    44.050539
+],
+  "geometry": {"coordinates":[-123.09586400000001,44.050539],"type":"Point"}
 }

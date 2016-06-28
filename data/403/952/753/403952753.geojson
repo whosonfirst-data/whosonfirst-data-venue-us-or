@@ -2,13 +2,14 @@
   "id": 403952753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.782148,45.41066,-122.782148,45.41066",
     "geom:latitude":45.41066,
     "geom:longitude":-122.782148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10111 SW Lady Marion Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403952753,
-    "wof:lastmodified":1449055565,
+    "wof:lastmodified":1466768308,
     "wof:name":"Oregon Seed Exchange Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "food"
     ]
 },
-  "bbox": [-122.782148,45.41066,-122.782148,45.41066],
-  "geometry": {"coordinates":[-122.782148,45.41066],"type":"Point"}
+  "bbox": [
+    -122.782148,
+    45.41066,
+    -122.782148,
+    45.41066
+],
+  "geometry": {"coordinates":[-122.78214800000001,45.41066],"type":"Point"}
 }

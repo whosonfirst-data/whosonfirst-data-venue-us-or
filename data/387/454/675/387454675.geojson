@@ -2,13 +2,14 @@
   "id": 387454675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.745291,45.601327,-122.745291,45.601327",
     "geom:latitude":45.601327,
     "geom:longitude":-122.745291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8443 N Bliss St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387454675,
-    "wof:lastmodified":1449059557,
+    "wof:lastmodified":1466772938,
     "wof:name":"D L Cohen Information Svcs",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.745291,45.601327,-122.745291,45.601327],
-  "geometry": {"coordinates":[-122.745291,45.601327],"type":"Point"}
+  "bbox": [
+    -122.745291,
+    45.601327,
+    -122.745291,
+    45.601327
+],
+  "geometry": {"coordinates":[-122.74529099999999,45.601327],"type":"Point"}
 }

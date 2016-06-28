@@ -2,13 +2,14 @@
   "id": 404103149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.020192,43.889545,-123.020192,43.889545",
     "geom:latitude":43.889545,
     "geom:longitude":-123.020192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82025 Davisson Rd",
     "sg:city":"Creswell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404103149,
-    "wof:lastmodified":1449039862,
+    "wof:lastmodified":1466770654,
     "wof:name":"Max Harrold",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-123.020192,43.889545,-123.020192,43.889545],
-  "geometry": {"coordinates":[-123.020192,43.889545],"type":"Point"}
+  "bbox": [
+    -123.020192,
+    43.889545,
+    -123.020192,
+    43.889545
+],
+  "geometry": {"coordinates":[-123.02019199999999,43.889545],"type":"Point"}
 }

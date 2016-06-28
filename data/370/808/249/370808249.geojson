@@ -2,13 +2,14 @@
   "id": 370808249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032654,44.966729,-123.032654,44.966729",
     "geom:latitude":44.966729,
     "geom:longitude":-123.032654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 Commercial St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370808249,
-    "wof:lastmodified":1449029232,
+    "wof:lastmodified":1466774123,
     "wof:name":"Oregon Armored Service Inc",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "armored"
     ]
 },
-  "bbox": [-123.032654,44.966729,-123.032654,44.966729],
-  "geometry": {"coordinates":[-123.032654,44.966729],"type":"Point"}
+  "bbox": [
+    -123.032654,
+    44.966729,
+    -123.032654,
+    44.966729
+],
+  "geometry": {"coordinates":[-123.03265399999999,44.966729],"type":"Point"}
 }

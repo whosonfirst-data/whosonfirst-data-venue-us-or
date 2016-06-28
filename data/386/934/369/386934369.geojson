@@ -2,13 +2,14 @@
   "id": 386934369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.731395,45.429913,-122.731395,45.429913",
     "geom:latitude":45.429913,
     "geom:longitude":-122.731395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5322 Rosalia Way",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386934369,
-    "wof:lastmodified":1449028644,
+    "wof:lastmodified":1466767166,
     "wof:name":"Lane Three Penny Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-122.731395,45.429913,-122.731395,45.429913],
-  "geometry": {"coordinates":[-122.731395,45.429913],"type":"Point"}
+  "bbox": [
+    -122.731395,
+    45.429913,
+    -122.731395,
+    45.429913
+],
+  "geometry": {"coordinates":[-122.73139500000001,45.429913],"type":"Point"}
 }

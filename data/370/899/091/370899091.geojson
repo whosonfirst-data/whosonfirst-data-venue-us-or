@@ -2,13 +2,14 @@
   "id": 370899091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.531602,45.425919,-122.531602,45.425919",
     "geom:latitude":45.425919,
     "geom:longitude":-122.531602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13259 SE 128th Ave",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370899091,
-    "wof:lastmodified":1449032295,
+    "wof:lastmodified":1466774655,
     "wof:name":"Love & Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foster"
     ]
 },
-  "bbox": [-122.531602,45.425919,-122.531602,45.425919],
-  "geometry": {"coordinates":[-122.531602,45.425919],"type":"Point"}
+  "bbox": [
+    -122.531602,
+    45.425919,
+    -122.531602,
+    45.425919
+],
+  "geometry": {"coordinates":[-122.53160200000001,45.425919],"type":"Point"}
 }

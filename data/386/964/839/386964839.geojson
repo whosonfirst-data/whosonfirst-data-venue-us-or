@@ -2,13 +2,14 @@
   "id": 386964839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.140569,45.531263,-123.140569,45.531263",
     "geom:latitude":45.531263,
     "geom:longitude":-123.140569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Blue Jay Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386964839,
-    "wof:lastmodified":1449028876,
+    "wof:lastmodified":1466767351,
     "wof:name":"Forest Grove Auto Broker",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-123.140569,45.531263,-123.140569,45.531263],
+  "bbox": [
+    -123.140569,
+    45.531263,
+    -123.140569,
+    45.531263
+],
   "geometry": {"coordinates":[-123.140569,45.531263],"type":"Point"}
 }

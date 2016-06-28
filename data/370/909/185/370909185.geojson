@@ -2,13 +2,14 @@
   "id": 370909185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.458267,45.499587,-122.458267,45.499587",
     "geom:latitude":45.499587,
     "geom:longitude":-122.458267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2554 NW 4th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370909185,
-    "wof:lastmodified":1449031640,
+    "wof:lastmodified":1466774817,
     "wof:name":"L S Mfg",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-122.458267,45.499587,-122.458267,45.499587],
-  "geometry": {"coordinates":[-122.458267,45.499587],"type":"Point"}
+  "bbox": [
+    -122.458267,
+    45.499587,
+    -122.458267,
+    45.499587
+],
+  "geometry": {"coordinates":[-122.45826700000001,45.499587],"type":"Point"}
 }

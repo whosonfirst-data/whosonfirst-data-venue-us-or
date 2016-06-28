@@ -2,13 +2,14 @@
   "id": 370825271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.29925,44.582553,-123.29925,44.582553",
     "geom:latitude":44.582553,
     "geom:longitude":-123.29925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 NW Clubhouse Pl",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370825271,
-    "wof:lastmodified":1449029199,
+    "wof:lastmodified":1466774349,
     "wof:name":"Witham Hill Oaks",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.29925,44.582553,-123.29925,44.582553],
+  "bbox": [
+    -123.29925,
+    44.582553,
+    -123.29925,
+    44.582553
+],
   "geometry": {"coordinates":[-123.29925,44.582553],"type":"Point"}
 }

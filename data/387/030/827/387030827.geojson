@@ -2,13 +2,14 @@
   "id": 387030827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.067379,44.890647,-123.067379,44.890647",
     "geom:latitude":44.890647,
     "geom:longitude":-123.067379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Revere Ct S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387030827,
-    "wof:lastmodified":1449057496,
+    "wof:lastmodified":1466767639,
     "wof:name":"Jason Kistler",
     "wof:parent_id":85839851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-123.067379,44.890647,-123.067379,44.890647],
+  "bbox": [
+    -123.067379,
+    44.890647,
+    -123.067379,
+    44.890647
+],
   "geometry": {"coordinates":[-123.067379,44.890647],"type":"Point"}
 }

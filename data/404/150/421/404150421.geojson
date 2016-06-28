@@ -2,13 +2,14 @@
   "id": 404150421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.949756,45.311526,-122.949756,45.311526",
     "geom:latitude":45.311526,
     "geom:longitude":-122.949756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Deborah Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404150421,
-    "wof:lastmodified":1449039104,
+    "wof:lastmodified":1466767255,
     "wof:name":"Hall's Carpet Cleaning",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-122.949756,45.311526,-122.949756,45.311526],
-  "geometry": {"coordinates":[-122.949756,45.311526],"type":"Point"}
+  "bbox": [
+    -122.949756,
+    45.311526,
+    -122.949756,
+    45.311526
+],
+  "geometry": {"coordinates":[-122.94975599999999,45.311526],"type":"Point"}
 }

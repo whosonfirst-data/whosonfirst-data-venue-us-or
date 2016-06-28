@@ -2,13 +2,14 @@
   "id": 354369283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.663891,45.515736,-122.663891,45.515736",
     "geom:latitude":45.515736,
     "geom:longitude":-122.663891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 SE Yamhill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354369283,
-    "wof:lastmodified":1449067589,
+    "wof:lastmodified":1466770750,
     "wof:name":"Castle Ridge Construction",
     "wof:parent_id":85893163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.663891,45.515736,-122.663891,45.515736],
-  "geometry": {"coordinates":[-122.663891,45.515736],"type":"Point"}
+  "bbox": [
+    -122.663891,
+    45.515736,
+    -122.663891,
+    45.515736
+],
+  "geometry": {"coordinates":[-122.66389100000001,45.515736],"type":"Point"}
 }

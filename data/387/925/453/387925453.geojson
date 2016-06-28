@@ -2,13 +2,14 @@
   "id": 387925453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.742624,45.491444,-122.742624,45.491444",
     "geom:latitude":45.491444,
     "geom:longitude":-122.742624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6511 SW Santa Monica Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387925453,
-    "wof:lastmodified":1449056144,
+    "wof:lastmodified":1466775394,
     "wof:name":"Publications Plus",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-122.742624,45.491444,-122.742624,45.491444],
-  "geometry": {"coordinates":[-122.742624,45.491444],"type":"Point"}
+  "bbox": [
+    -122.742624,
+    45.491444,
+    -122.742624,
+    45.491444
+],
+  "geometry": {"coordinates":[-122.74262400000001,45.491444],"type":"Point"}
 }

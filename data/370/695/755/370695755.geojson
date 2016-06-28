@@ -2,13 +2,14 @@
   "id": 370695755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.146498,45.310352,-123.146498,45.310352",
     "geom:latitude":45.310352,
     "geom:longitude":-123.146498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12470 NE Rowland Rd",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370695755,
-    "wof:lastmodified":1449030368,
+    "wof:lastmodified":1466773554,
     "wof:name":"Belle Pente Wine Cellars LLC",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-123.146498,45.310352,-123.146498,45.310352],
-  "geometry": {"coordinates":[-123.146498,45.310352],"type":"Point"}
+  "bbox": [
+    -123.146498,
+    45.310352,
+    -123.146498,
+    45.310352
+],
+  "geometry": {"coordinates":[-123.14649799999999,45.310352],"type":"Point"}
 }

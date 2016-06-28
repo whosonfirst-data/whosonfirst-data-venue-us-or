@@ -2,13 +2,14 @@
   "id": 371113237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.80254,45.06276,-122.80254,45.06276",
     "geom:latitude":45.06276,
     "geom:longitude":-122.80254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 S Main St",
     "sg:city":"Mount Angel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371113237,
-    "wof:lastmodified":1449050045,
+    "wof:lastmodified":1466769023,
     "wof:name":"Shalom Center",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-122.80254,45.06276,-122.80254,45.06276],
-  "geometry": {"coordinates":[-122.80254,45.06276],"type":"Point"}
+  "bbox": [
+    -122.80254,
+    45.06276,
+    -122.80254,
+    45.06276
+],
+  "geometry": {"coordinates":[-122.80253999999999,45.06276],"type":"Point"}
 }

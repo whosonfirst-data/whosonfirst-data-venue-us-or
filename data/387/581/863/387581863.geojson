@@ -2,13 +2,14 @@
   "id": 387581863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.687586,45.531229,-122.687586,45.531229",
     "geom:latitude":45.531229,
     "geom:longitude":-122.687586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 NW 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387581863,
-    "wof:lastmodified":1449056905,
+    "wof:lastmodified":1466773834,
     "wof:name":"Metro Courier Service",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-122.687586,45.531229,-122.687586,45.531229],
+  "bbox": [
+    -122.687586,
+    45.531229,
+    -122.687586,
+    45.531229
+],
   "geometry": {"coordinates":[-122.687586,45.531229],"type":"Point"}
 }

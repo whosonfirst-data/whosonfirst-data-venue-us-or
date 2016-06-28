@@ -2,13 +2,14 @@
   "id": 371121385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.064989,44.89368,-123.064989,44.89368",
     "geom:latitude":44.89368,
     "geom:longitude":-123.064989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4263 Camellia Dr S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371121385,
-    "wof:lastmodified":1449049852,
+    "wof:lastmodified":1466769180,
     "wof:name":"County Clerk- Elections",
     "wof:parent_id":85839851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "election"
     ]
 },
-  "bbox": [-123.064989,44.89368,-123.064989,44.89368],
+  "bbox": [
+    -123.064989,
+    44.89368,
+    -123.064989,
+    44.89368
+],
   "geometry": {"coordinates":[-123.064989,44.89368],"type":"Point"}
 }

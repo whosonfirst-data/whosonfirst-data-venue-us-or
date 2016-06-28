@@ -2,13 +2,14 @@
   "id": 370286821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.593866,45.342902,-122.593866,45.342902",
     "geom:latitude":45.342902,
     "geom:longitude":-122.593866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Hilda St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370286821,
-    "wof:lastmodified":1449029987,
+    "wof:lastmodified":1466769582,
     "wof:name":"Hair Studio",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.593866,45.342902,-122.593866,45.342902],
-  "geometry": {"coordinates":[-122.593866,45.342902],"type":"Point"}
+  "bbox": [
+    -122.593866,
+    45.342902,
+    -122.593866,
+    45.342902
+],
+  "geometry": {"coordinates":[-122.59386600000001,45.342902],"type":"Point"}
 }

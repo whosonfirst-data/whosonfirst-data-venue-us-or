@@ -2,13 +2,14 @@
   "id": 370984363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258073,44.583075,-123.258073,44.583075",
     "geom:latitude":44.583075,
     "geom:longitude":-123.258073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"968 NW Garfield Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370984363,
-    "wof:lastmodified":1449030989,
+    "wof:lastmodified":1466774945,
     "wof:name":"Fish Emergency Svc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "emergency"
     ]
 },
-  "bbox": [-123.258073,44.583075,-123.258073,44.583075],
+  "bbox": [
+    -123.258073,
+    44.583075,
+    -123.258073,
+    44.583075
+],
   "geometry": {"coordinates":[-123.258073,44.583075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387169147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652713,45.509911,-122.652713,45.509911",
     "geom:latitude":45.509911,
     "geom:longitude":-122.652713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 SE Mulberry Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387169147,
-    "wof:lastmodified":1449058452,
+    "wof:lastmodified":1466770168,
     "wof:name":"Acer Inspection Svc",
     "wof:parent_id":85828991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-122.652713,45.509911,-122.652713,45.509911],
-  "geometry": {"coordinates":[-122.652713,45.509911],"type":"Point"}
+  "bbox": [
+    -122.652713,
+    45.509911,
+    -122.652713,
+    45.509911
+],
+  "geometry": {"coordinates":[-122.65271300000001,45.509911],"type":"Point"}
 }

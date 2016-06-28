@@ -2,13 +2,14 @@
   "id": 404093593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.138399,44.314703,-121.138399,44.314703",
     "geom:latitude":44.314703,
     "geom:longitude":-121.138399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 NE 25th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404093593,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1466770383,
     "wof:name":"Chad Teel Trucking LLC",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-121.138399,44.314703,-121.138399,44.314703],
-  "geometry": {"coordinates":[-121.138399,44.314703],"type":"Point"}
+  "bbox": [
+    -121.138399,
+    44.314703,
+    -121.138399,
+    44.314703
+],
+  "geometry": {"coordinates":[-121.13839900000001,44.314703],"type":"Point"}
 }

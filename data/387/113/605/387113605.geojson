@@ -2,13 +2,14 @@
   "id": 387113605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.75141,45.423223,-122.75141,45.423223",
     "geom:latitude":45.423223,
     "geom:longitude":-122.75141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7070 SW Fir Loop",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387113605,
-    "wof:lastmodified":1449059599,
+    "wof:lastmodified":1466769044,
     "wof:name":"Oregon Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.75141,45.423223,-122.75141,45.423223],
-  "geometry": {"coordinates":[-122.75141,45.423223],"type":"Point"}
+  "bbox": [
+    -122.75141,
+    45.423223,
+    -122.75141,
+    45.423223
+],
+  "geometry": {"coordinates":[-122.75141000000001,45.423223],"type":"Point"}
 }

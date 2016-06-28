@@ -2,13 +2,14 @@
   "id": 370929119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.64033,44.98357,-122.64033,44.98357",
     "geom:latitude":44.98357,
     "geom:longitude":-122.64033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3997 Briar Knob Loop",
     "sg:city":"Scotts Mills",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370929119,
-    "wof:lastmodified":1449030384,
+    "wof:lastmodified":1466774832,
     "wof:name":"Fish Creek Photos Custom CL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-122.64033,44.98357,-122.64033,44.98357],
-  "geometry": {"coordinates":[-122.64033,44.98357],"type":"Point"}
+  "bbox": [
+    -122.64033,
+    44.98357,
+    -122.64033,
+    44.98357
+],
+  "geometry": {"coordinates":[-122.64033000000001,44.98357],"type":"Point"}
 }

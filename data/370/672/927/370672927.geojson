@@ -2,13 +2,14 @@
   "id": 370672927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.021217,44.97409,-123.021217,44.97409",
     "geom:latitude":44.97409,
     "geom:longitude":-123.021217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Cherry Ave NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370672927,
-    "wof:lastmodified":1449029302,
+    "wof:lastmodified":1466773425,
     "wof:name":"Mid Willamette Vly Senior Svc",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-123.021217,44.97409,-123.021217,44.97409],
-  "geometry": {"coordinates":[-123.021217,44.97409],"type":"Point"}
+  "bbox": [
+    -123.021217,
+    44.97409,
+    -123.021217,
+    44.97409
+],
+  "geometry": {"coordinates":[-123.02121699999999,44.97409],"type":"Point"}
 }

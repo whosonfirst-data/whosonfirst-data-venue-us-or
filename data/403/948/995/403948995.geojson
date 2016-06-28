@@ -2,13 +2,14 @@
   "id": 403948995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.827334,45.51569,-122.827334,45.51569",
     "geom:latitude":45.51569,
     "geom:longitude":-122.827334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 SW Meadow Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403948995,
-    "wof:lastmodified":1449055686,
+    "wof:lastmodified":1466768241,
     "wof:name":"Vintage Fibers Flat",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.827334,45.51569,-122.827334,45.51569],
-  "geometry": {"coordinates":[-122.827334,45.51569],"type":"Point"}
+  "bbox": [
+    -122.827334,
+    45.51569,
+    -122.827334,
+    45.51569
+],
+  "geometry": {"coordinates":[-122.82733399999999,45.51569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387165865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.210214,43.358013,-124.210214,43.358013",
     "geom:latitude":43.358013,
     "geom:longitude":-124.210214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E Johnson Ave",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387165865,
-    "wof:lastmodified":1449059929,
+    "wof:lastmodified":1466770095,
     "wof:name":"Lucky Loggers Rv Park",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-124.210214,43.358013,-124.210214,43.358013],
-  "geometry": {"coordinates":[-124.210214,43.358013],"type":"Point"}
+  "bbox": [
+    -124.210214,
+    43.358013,
+    -124.210214,
+    43.358013
+],
+  "geometry": {"coordinates":[-124.21021399999999,43.358013],"type":"Point"}
 }

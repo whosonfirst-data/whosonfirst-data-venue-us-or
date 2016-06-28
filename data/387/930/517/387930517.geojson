@@ -2,13 +2,14 @@
   "id": 387930517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.516844,45.345349,-122.516844,45.345349",
     "geom:latitude":45.345349,
     "geom:longitude":-122.516844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17051 S Beckman Rd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387930517,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1466775410,
     "wof:name":"Doyle Amos",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.516844,45.345349,-122.516844,45.345349],
-  "geometry": {"coordinates":[-122.516844,45.345349],"type":"Point"}
+  "bbox": [
+    -122.516844,
+    45.345349,
+    -122.516844,
+    45.345349
+],
+  "geometry": {"coordinates":[-122.51684400000001,45.345349],"type":"Point"}
 }

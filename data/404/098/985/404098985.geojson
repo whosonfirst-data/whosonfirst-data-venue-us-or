@@ -2,13 +2,14 @@
   "id": 404098985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.317247,44.060197,-123.317247,44.060197",
     "geom:latitude":44.060197,
     "geom:longitude":-123.317247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25957 Marina Rd",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404098985,
-    "wof:lastmodified":1449040203,
+    "wof:lastmodified":1466770499,
     "wof:name":"Kinch Draft",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-123.317247,44.060197,-123.317247,44.060197],
-  "geometry": {"coordinates":[-123.317247,44.060197],"type":"Point"}
+  "bbox": [
+    -123.317247,
+    44.060197,
+    -123.317247,
+    44.060197
+],
+  "geometry": {"coordinates":[-123.31724699999999,44.060197],"type":"Point"}
 }

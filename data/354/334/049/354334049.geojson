@@ -2,13 +2,14 @@
   "id": 354334049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.493862,45.504501,-122.493862,45.504501",
     "geom:latitude":45.504501,
     "geom:longitude":-122.493862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16420 SE Division St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354334049,
-    "wof:lastmodified":1449066403,
+    "wof:lastmodified":1466770014,
     "wof:name":"Portland Metro Treatment Ctr",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.493862,45.504501,-122.493862,45.504501],
-  "geometry": {"coordinates":[-122.493862,45.504501],"type":"Point"}
+  "bbox": [
+    -122.493862,
+    45.504501,
+    -122.493862,
+    45.504501
+],
+  "geometry": {"coordinates":[-122.49386199999999,45.504501],"type":"Point"}
 }

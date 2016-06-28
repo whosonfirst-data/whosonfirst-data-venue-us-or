@@ -2,13 +2,14 @@
   "id": 387565617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.108779,44.559166,-123.108779,44.559166",
     "geom:latitude":44.559166,
     "geom:longitude":-123.108779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32067 Hwy 34",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387565617,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1466773718,
     "wof:name":"DPI Supply",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.108779,44.559166,-123.108779,44.559166],
+  "bbox": [
+    -123.108779,
+    44.559166,
+    -123.108779,
+    44.559166
+],
   "geometry": {"coordinates":[-123.108779,44.559166],"type":"Point"}
 }

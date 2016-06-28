@@ -2,13 +2,14 @@
   "id": 387471891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.609179,45.512003,-122.609179,45.512003",
     "geom:latitude":45.512003,
     "geom:longitude":-122.609179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5112 SE Hawthorne Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387471891,
-    "wof:lastmodified":1449057633,
+    "wof:lastmodified":1466773179,
     "wof:name":"C & G Wines LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-122.609179,45.512003,-122.609179,45.512003],
+  "bbox": [
+    -122.609179,
+    45.512003,
+    -122.609179,
+    45.512003
+],
   "geometry": {"coordinates":[-122.609179,45.512003],"type":"Point"}
 }

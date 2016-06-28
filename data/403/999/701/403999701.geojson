@@ -2,13 +2,14 @@
   "id": 403999701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.970649,45.830241,-122.970649,45.830241",
     "geom:latitude":45.830241,
     "geom:longitude":-122.970649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29009 Huber Rd",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403999701,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1466769149,
     "wof:name":"Forrest W Choat Trucking",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.970649,45.830241,-122.970649,45.830241],
-  "geometry": {"coordinates":[-122.970649,45.830241],"type":"Point"}
+  "bbox": [
+    -122.970649,
+    45.830241,
+    -122.970649,
+    45.830241
+],
+  "geometry": {"coordinates":[-122.97064899999999,45.830241],"type":"Point"}
 }

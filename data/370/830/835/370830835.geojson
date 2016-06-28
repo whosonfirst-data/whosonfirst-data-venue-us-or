@@ -2,13 +2,14 @@
   "id": 370830835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.034483,44.941446,-123.034483,44.941446",
     "geom:latitude":44.941446,
     "geom:longitude":-123.034483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Chemeketa St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370830835,
-    "wof:lastmodified":1449029810,
+    "wof:lastmodified":1466774297,
     "wof:name":"Exit",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skateboard"
     ]
 },
-  "bbox": [-123.034483,44.941446,-123.034483,44.941446],
-  "geometry": {"coordinates":[-123.034483,44.941446],"type":"Point"}
+  "bbox": [
+    -123.034483,
+    44.941446,
+    -123.034483,
+    44.941446
+],
+  "geometry": {"coordinates":[-123.03448299999999,44.941446],"type":"Point"}
 }

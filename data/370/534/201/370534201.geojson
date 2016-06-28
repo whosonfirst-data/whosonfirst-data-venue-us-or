@@ -2,13 +2,14 @@
   "id": 370534201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.659776,45.510093,-122.659776,45.510093",
     "geom:latitude":45.510093,
     "geom:longitude":-122.659776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 SE 6th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370534201,
-    "wof:lastmodified":1449029978,
+    "wof:lastmodified":1466772437,
     "wof:name":"Redwing Coffee & Bakery",
     "wof:parent_id":85893163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-122.659776,45.510093,-122.659776,45.510093],
-  "geometry": {"coordinates":[-122.659776,45.510093],"type":"Point"}
+  "bbox": [
+    -122.659776,
+    45.510093,
+    -122.659776,
+    45.510093
+],
+  "geometry": {"coordinates":[-122.65977599999999,45.510093],"type":"Point"}
 }

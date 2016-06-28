@@ -2,13 +2,14 @@
   "id": 387103621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.749041,45.472954,-122.749041,45.472954",
     "geom:latitude":45.472954,
     "geom:longitude":-122.749041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6455 SW Midmar Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387103621,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1466768867,
     "wof:name":"Vincent Arditi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [-122.749041,45.472954,-122.749041,45.472954],
-  "geometry": {"coordinates":[-122.749041,45.472954],"type":"Point"}
+  "bbox": [
+    -122.749041,
+    45.472954,
+    -122.749041,
+    45.472954
+],
+  "geometry": {"coordinates":[-122.74904100000001,45.472954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387541693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.600754,45.343961,-122.600754,45.343961",
     "geom:latitude":45.343961,
     "geom:longitude":-122.600754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"459 Mountain View Ln",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387541693,
-    "wof:lastmodified":1449056528,
+    "wof:lastmodified":1466773441,
     "wof:name":"Tri West Painting Inc",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.600754,45.343961,-122.600754,45.343961],
-  "geometry": {"coordinates":[-122.600754,45.343961],"type":"Point"}
+  "bbox": [
+    -122.600754,
+    45.343961,
+    -122.600754,
+    45.343961
+],
+  "geometry": {"coordinates":[-122.60075399999999,45.343961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370461431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.983555,44.967521,-122.983555,44.967521",
     "geom:latitude":44.967521,
     "geom:longitude":-122.983555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Lancaster Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370461431,
-    "wof:lastmodified":1449030358,
+    "wof:lastmodified":1466771945,
     "wof:name":"Justice Dept",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-122.983555,44.967521,-122.983555,44.967521],
+  "bbox": [
+    -122.983555,
+    44.967521,
+    -122.983555,
+    44.967521
+],
   "geometry": {"coordinates":[-122.983555,44.967521],"type":"Point"}
 }

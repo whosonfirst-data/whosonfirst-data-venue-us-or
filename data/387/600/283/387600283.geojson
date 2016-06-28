@@ -2,13 +2,14 @@
   "id": 387600283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.671174,42.174993,-122.671174,42.174993",
     "geom:latitude":42.174993,
     "geom:longitude":-122.671174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 Siskiyou Blvd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600283,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1466774041,
     "wof:name":"White Orchid",
     "wof:parent_id":85847959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-122.671174,42.174993,-122.671174,42.174993],
-  "geometry": {"coordinates":[-122.671174,42.174993],"type":"Point"}
+  "bbox": [
+    -122.671174,
+    42.174993,
+    -122.671174,
+    42.174993
+],
+  "geometry": {"coordinates":[-122.67117399999999,42.174993],"type":"Point"}
 }

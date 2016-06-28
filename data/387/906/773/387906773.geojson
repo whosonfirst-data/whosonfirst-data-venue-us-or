@@ -2,13 +2,14 @@
   "id": 387906773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.333627,44.09716,-123.333627,44.09716",
     "geom:latitude":44.09716,
     "geom:longitude":-123.333627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89864 Territorial Rd",
     "sg:city":"Elmira",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387906773,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466775243,
     "wof:name":"R&T Trucking and Backhoe Svc",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "excavation"
     ]
 },
-  "bbox": [-123.333627,44.09716,-123.333627,44.09716],
-  "geometry": {"coordinates":[-123.333627,44.09716],"type":"Point"}
+  "bbox": [
+    -123.333627,
+    44.09716,
+    -123.333627,
+    44.09716
+],
+  "geometry": {"coordinates":[-123.33362700000001,44.09716],"type":"Point"}
 }

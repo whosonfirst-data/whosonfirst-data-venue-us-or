@@ -2,13 +2,14 @@
   "id": 387367651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.599529,45.466468,-122.599529,45.466468",
     "geom:latitude":45.466468,
     "geom:longitude":-122.599529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7950 SE 62nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387367651,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1466772501,
     "wof:name":"Church Without Walls",
     "wof:parent_id":85871485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.599529,45.466468,-122.599529,45.466468],
+  "bbox": [
+    -122.599529,
+    45.466468,
+    -122.599529,
+    45.466468
+],
   "geometry": {"coordinates":[-122.599529,45.466468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387412851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.682819,45.518679,-122.682819,45.518679",
     "geom:latitude":45.518679,
     "geom:longitude":-122.682819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 SW Taylor St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387412851,
-    "wof:lastmodified":1449056877,
+    "wof:lastmodified":1466772694,
     "wof:name":"Premiere Entertainment",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-122.682819,45.518679,-122.682819,45.518679],
-  "geometry": {"coordinates":[-122.682819,45.518679],"type":"Point"}
+  "bbox": [
+    -122.682819,
+    45.518679,
+    -122.682819,
+    45.518679
+],
+  "geometry": {"coordinates":[-122.68281899999999,45.518679],"type":"Point"}
 }

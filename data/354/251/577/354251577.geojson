@@ -2,13 +2,14 @@
   "id": 354251577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.864095,45.509061,-122.864095,45.509061",
     "geom:latitude":45.509061,
     "geom:longitude":-122.864095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18050 SW Francis St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354251577,
-    "wof:lastmodified":1449065975,
+    "wof:lastmodified":1466768681,
     "wof:name":"Sgo Scientific Software",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.864095,45.509061,-122.864095,45.509061],
-  "geometry": {"coordinates":[-122.864095,45.509061],"type":"Point"}
+  "bbox": [
+    -122.864095,
+    45.509061,
+    -122.864095,
+    45.509061
+],
+  "geometry": {"coordinates":[-122.86409500000001,45.509061],"type":"Point"}
 }

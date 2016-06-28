@@ -2,13 +2,14 @@
   "id": 370388155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.932555,45.468608,-122.932555,45.468608",
     "geom:latitude":45.468608,
     "geom:longitude":-122.932555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 SW River Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370388155,
-    "wof:lastmodified":1449029195,
+    "wof:lastmodified":1466771457,
     "wof:name":"Citadel Properties Inc",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.932555,45.468608,-122.932555,45.468608],
-  "geometry": {"coordinates":[-122.932555,45.468608],"type":"Point"}
+  "bbox": [
+    -122.932555,
+    45.468608,
+    -122.932555,
+    45.468608
+],
+  "geometry": {"coordinates":[-122.93255499999999,45.468608],"type":"Point"}
 }

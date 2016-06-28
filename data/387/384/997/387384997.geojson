@@ -2,13 +2,14 @@
   "id": 387384997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.08788,44.063109,-123.08788,44.063109",
     "geom:latitude":44.063109,
     "geom:longitude":-123.08788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Country Club Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387384997,
-    "wof:lastmodified":1449056582,
+    "wof:lastmodified":1466772514,
     "wof:name":"Eugene Country Club",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "membership"
     ]
 },
-  "bbox": [-123.08788,44.063109,-123.08788,44.063109],
+  "bbox": [
+    -123.08788,
+    44.063109,
+    -123.08788,
+    44.063109
+],
   "geometry": {"coordinates":[-123.08788,44.063109],"type":"Point"}
 }

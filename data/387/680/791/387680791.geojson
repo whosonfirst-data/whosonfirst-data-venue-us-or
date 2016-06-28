@@ -2,13 +2,14 @@
   "id": 387680791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.693785,42.186519,-122.693785,42.186519",
     "geom:latitude":42.186519,
     "geom:longitude":-122.693785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1257 Siskiyou Blvd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387680791,
-    "wof:lastmodified":1449058777,
+    "wof:lastmodified":1466774381,
     "wof:name":"Arbortech BC",
     "wof:parent_id":85847959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-122.693785,42.186519,-122.693785,42.186519],
-  "geometry": {"coordinates":[-122.693785,42.186519],"type":"Point"}
+  "bbox": [
+    -122.693785,
+    42.186519,
+    -122.693785,
+    42.186519
+],
+  "geometry": {"coordinates":[-122.69378500000001,42.186519],"type":"Point"}
 }

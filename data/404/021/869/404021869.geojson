@@ -2,13 +2,14 @@
   "id": 404021869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.275209,44.576494,-123.275209,44.576494",
     "geom:latitude":44.576494,
     "geom:longitude":-123.275209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 NW Kings Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404021869,
-    "wof:lastmodified":1449039880,
+    "wof:lastmodified":1466768841,
     "wof:name":"Women's Fitness & Weight Loss",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fitness"
     ]
 },
-  "bbox": [-123.275209,44.576494,-123.275209,44.576494],
+  "bbox": [
+    -123.275209,
+    44.576494,
+    -123.275209,
+    44.576494
+],
   "geometry": {"coordinates":[-123.275209,44.576494],"type":"Point"}
 }

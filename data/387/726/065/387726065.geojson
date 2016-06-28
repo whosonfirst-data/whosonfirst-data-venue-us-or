@@ -2,13 +2,14 @@
   "id": 387726065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055437,44.944349,-123.055437,44.944349",
     "geom:latitude":44.944349,
     "geom:longitude":-123.055437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Patterson St NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387726065,
-    "wof:lastmodified":1449058720,
+    "wof:lastmodified":1466774670,
     "wof:name":"Willamette Valley Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-123.055437,44.944349,-123.055437,44.944349],
+  "bbox": [
+    -123.055437,
+    44.944349,
+    -123.055437,
+    44.944349
+],
   "geometry": {"coordinates":[-123.055437,44.944349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403869975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.360062,44.133844,-123.360062,44.133844",
     "geom:latitude":44.133844,
     "geom:longitude":-123.360062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24933 Butler Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403869975,
-    "wof:lastmodified":1449055858,
+    "wof:lastmodified":1466771163,
     "wof:name":"Chris Hamilton Logging Co",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.360062,44.133844,-123.360062,44.133844],
+  "bbox": [
+    -123.360062,
+    44.133844,
+    -123.360062,
+    44.133844
+],
   "geometry": {"coordinates":[-123.360062,44.133844],"type":"Point"}
 }

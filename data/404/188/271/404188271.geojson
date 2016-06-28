@@ -2,13 +2,14 @@
   "id": 404188271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.197465,45.223928,-123.197465,45.223928",
     "geom:latitude":45.223928,
     "geom:longitude":-123.197465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 NE Baker St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404188271,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1466767908,
     "wof:name":"City Janitorial Svc",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-123.197465,45.223928,-123.197465,45.223928],
-  "geometry": {"coordinates":[-123.197465,45.223928],"type":"Point"}
+  "bbox": [
+    -123.197465,
+    45.223928,
+    -123.197465,
+    45.223928
+],
+  "geometry": {"coordinates":[-123.19746499999999,45.223928],"type":"Point"}
 }

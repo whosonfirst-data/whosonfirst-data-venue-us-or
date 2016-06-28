@@ -2,13 +2,14 @@
   "id": 387059233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.098568,44.004492,-123.098568,44.004492",
     "geom:latitude":44.004492,
     "geom:longitude":-123.098568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Rockridge Loop",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387059233,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1466768126,
     "wof:name":"Wild Legacy",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.098568,44.004492,-123.098568,44.004492],
+  "bbox": [
+    -123.098568,
+    44.004492,
+    -123.098568,
+    44.004492
+],
   "geometry": {"coordinates":[-123.098568,44.004492],"type":"Point"}
 }

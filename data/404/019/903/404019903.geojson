@@ -2,13 +2,14 @@
   "id": 404019903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.487643,44.757385,-122.487643,44.757385",
     "geom:latitude":44.757385,
     "geom:longitude":-122.487643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 NW Santiam Blvd",
     "sg:city":"Mill City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404019903,
-    "wof:lastmodified":1449039816,
+    "wof:lastmodified":1466768807,
     "wof:name":"Lodge 2580 - Mill City",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.487643,44.757385,-122.487643,44.757385],
-  "geometry": {"coordinates":[-122.487643,44.757385],"type":"Point"}
+  "bbox": [
+    -122.487643,
+    44.757385,
+    -122.487643,
+    44.757385
+],
+  "geometry": {"coordinates":[-122.48764300000001,44.757385],"type":"Point"}
 }

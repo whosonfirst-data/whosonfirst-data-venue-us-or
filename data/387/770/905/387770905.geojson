@@ -2,13 +2,14 @@
   "id": 387770905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.698288,45.529723,-122.698288,45.529723",
     "geom:latitude":45.529723,
     "geom:longitude":-122.698288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 NW Lovejoy St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387770905,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1466774875,
     "wof:name":"Hodgson Lewis & Hertler",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.698288,45.529723,-122.698288,45.529723],
-  "geometry": {"coordinates":[-122.698288,45.529723],"type":"Point"}
+  "bbox": [
+    -122.698288,
+    45.529723,
+    -122.698288,
+    45.529723
+],
+  "geometry": {"coordinates":[-122.69828800000001,45.529723],"type":"Point"}
 }

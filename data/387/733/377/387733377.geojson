@@ -2,13 +2,14 @@
   "id": 387733377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.573074,45.549486,-122.573074,45.549486",
     "geom:latitude":45.549486,
     "geom:longitude":-122.573074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8718 NE Beech St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387733377,
-    "wof:lastmodified":1449056634,
+    "wof:lastmodified":1466774586,
     "wof:name":"Cousins Subs",
     "wof:parent_id":85893205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.573074,45.549486,-122.573074,45.549486],
-  "geometry": {"coordinates":[-122.573074,45.549486],"type":"Point"}
+  "bbox": [
+    -122.573074,
+    45.549486,
+    -122.573074,
+    45.549486
+],
+  "geometry": {"coordinates":[-122.57307400000001,45.549486],"type":"Point"}
 }

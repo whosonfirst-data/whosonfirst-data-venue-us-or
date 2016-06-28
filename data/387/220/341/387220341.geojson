@@ -2,13 +2,14 @@
   "id": 387220341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.272563,44.570724,-123.272563,44.570724",
     "geom:latitude":44.570724,
     "geom:longitude":-123.272563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 NW Harrison Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387220341,
-    "wof:lastmodified":1449059783,
+    "wof:lastmodified":1466771213,
     "wof:name":"Valley Eye Care PC",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.272563,44.570724,-123.272563,44.570724],
-  "geometry": {"coordinates":[-123.272563,44.570724],"type":"Point"}
+  "bbox": [
+    -123.272563,
+    44.570724,
+    -123.272563,
+    44.570724
+],
+  "geometry": {"coordinates":[-123.27256300000001,44.570724],"type":"Point"}
 }

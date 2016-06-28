@@ -2,13 +2,14 @@
   "id": 387548011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.216062,45.207865,-123.216062,45.207865",
     "geom:latitude":45.207865,
     "geom:longitude":-123.216062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 SW Harbor Dr",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387548011,
-    "wof:lastmodified":1449058743,
+    "wof:lastmodified":1466773586,
     "wof:name":"Shane & Sons",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.216062,45.207865,-123.216062,45.207865],
-  "geometry": {"coordinates":[-123.216062,45.207865],"type":"Point"}
+  "bbox": [
+    -123.216062,
+    45.207865,
+    -123.216062,
+    45.207865
+],
+  "geometry": {"coordinates":[-123.21606199999999,45.207865],"type":"Point"}
 }

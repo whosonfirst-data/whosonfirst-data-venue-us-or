@@ -2,13 +2,14 @@
   "id": 371001579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.095718,45.324662,-118.095718,45.324662",
     "geom:latitude":45.324662,
     "geom:longitude":-118.095718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 5th St",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371001579,
-    "wof:lastmodified":1449049274,
+    "wof:lastmodified":1466767154,
     "wof:name":"Observer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-118.095718,45.324662,-118.095718,45.324662],
-  "geometry": {"coordinates":[-118.095718,45.324662],"type":"Point"}
+  "bbox": [
+    -118.095718,
+    45.324662,
+    -118.095718,
+    45.324662
+],
+  "geometry": {"coordinates":[-118.09571800000001,45.324662],"type":"Point"}
 }

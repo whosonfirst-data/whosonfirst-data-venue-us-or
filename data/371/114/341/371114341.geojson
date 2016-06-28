@@ -2,13 +2,14 @@
   "id": 371114341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.880599,46.152375,-123.880599,46.152375",
     "geom:latitude":46.152375,
     "geom:longitude":-123.880599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 SE Flightline Dr",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371114341,
-    "wof:lastmodified":1449049465,
+    "wof:lastmodified":1466769045,
     "wof:name":"WRT Community Resources",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.880599,46.152375,-123.880599,46.152375],
+  "bbox": [
+    -123.880599,
+    46.152375,
+    -123.880599,
+    46.152375
+],
   "geometry": {"coordinates":[-123.880599,46.152375],"type":"Point"}
 }

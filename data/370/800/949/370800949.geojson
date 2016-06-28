@@ -2,13 +2,14 @@
   "id": 370800949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.703764,45.546257,-122.703764,45.546257",
     "geom:latitude":45.546257,
     "geom:longitude":-122.703764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3339 NW 26th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370800949,
-    "wof:lastmodified":1449029353,
+    "wof:lastmodified":1466774089,
     "wof:name":"J F Shelton & Co",
     "wof:parent_id":85868951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drum"
     ]
 },
-  "bbox": [-122.703764,45.546257,-122.703764,45.546257],
-  "geometry": {"coordinates":[-122.703764,45.546257],"type":"Point"}
+  "bbox": [
+    -122.703764,
+    45.546257,
+    -122.703764,
+    45.546257
+],
+  "geometry": {"coordinates":[-122.70376400000001,45.546257],"type":"Point"}
 }

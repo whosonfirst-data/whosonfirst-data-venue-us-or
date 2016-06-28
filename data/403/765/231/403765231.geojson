@@ -2,13 +2,14 @@
   "id": 403765231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.416735,43.11799,-124.416735,43.11799",
     "geom:latitude":43.11799,
     "geom:longitude":-124.416735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Bandon Ave SW",
     "sg:city":"Bandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403765231,
-    "wof:lastmodified":1449055402,
+    "wof:lastmodified":1466769101,
     "wof:name":"Dan Wilson Construction",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-124.416735,43.11799,-124.416735,43.11799],
+  "bbox": [
+    -124.416735,
+    43.11799,
+    -124.416735,
+    43.11799
+],
   "geometry": {"coordinates":[-124.416735,43.11799],"type":"Point"}
 }

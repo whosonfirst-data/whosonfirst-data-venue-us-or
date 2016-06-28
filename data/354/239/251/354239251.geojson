@@ -2,13 +2,14 @@
   "id": 354239251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.413143,43.045186,-123.413143,43.045186",
     "geom:latitude":43.045186,
     "geom:longitude":-123.413143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5859 Willis Creek Rd",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354239251,
-    "wof:lastmodified":1449066087,
+    "wof:lastmodified":1466768422,
     "wof:name":"J & A Elliott Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.413143,43.045186,-123.413143,43.045186],
-  "geometry": {"coordinates":[-123.413143,43.045186],"type":"Point"}
+  "bbox": [
+    -123.413143,
+    43.045186,
+    -123.413143,
+    43.045186
+],
+  "geometry": {"coordinates":[-123.41314300000001,43.045186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370665649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.052186,44.902247,-123.052186,44.902247",
     "geom:latitude":44.902247,
     "geom:longitude":-123.052186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Liberty Rd S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370665649,
-    "wof:lastmodified":1449030133,
+    "wof:lastmodified":1466773278,
     "wof:name":"Cutting Financial",
     "wof:parent_id":85880599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-123.052186,44.902247,-123.052186,44.902247],
-  "geometry": {"coordinates":[-123.052186,44.902247],"type":"Point"}
+  "bbox": [
+    -123.052186,
+    44.902247,
+    -123.052186,
+    44.902247
+],
+  "geometry": {"coordinates":[-123.05218600000001,44.902247],"type":"Point"}
 }

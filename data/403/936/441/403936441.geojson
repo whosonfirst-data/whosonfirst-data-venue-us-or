@@ -2,13 +2,14 @@
   "id": 403936441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.997262,44.05375,-123.997262,44.05375",
     "geom:latitude":44.05375,
     "geom:longitude":-123.997262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8162 N Fork Siuslaw Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403936441,
-    "wof:lastmodified":1449055074,
+    "wof:lastmodified":1466768017,
     "wof:name":"Landshark Delivery Svc",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-123.997262,44.05375,-123.997262,44.05375],
-  "geometry": {"coordinates":[-123.997262,44.05375],"type":"Point"}
+  "bbox": [
+    -123.997262,
+    44.05375,
+    -123.997262,
+    44.05375
+],
+  "geometry": {"coordinates":[-123.99726200000001,44.05375],"type":"Point"}
 }

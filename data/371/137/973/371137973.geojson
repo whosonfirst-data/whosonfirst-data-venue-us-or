@@ -2,13 +2,14 @@
   "id": 371137973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.512752,45.510145,-122.512752,45.510145",
     "geom:latitude":45.510145,
     "geom:longitude":-122.512752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14512 SE Mill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371137973,
-    "wof:lastmodified":1449049997,
+    "wof:lastmodified":1466769479,
     "wof:name":"A Cut Above Excavation",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.512752,45.510145,-122.512752,45.510145],
-  "geometry": {"coordinates":[-122.512752,45.510145],"type":"Point"}
+  "bbox": [
+    -122.512752,
+    45.510145,
+    -122.512752,
+    45.510145
+],
+  "geometry": {"coordinates":[-122.51275200000001,45.510145],"type":"Point"}
 }

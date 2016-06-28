@@ -2,13 +2,14 @@
   "id": 387162399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.172317,44.10333,-123.172317,44.10333",
     "geom:latitude":44.10333,
     "geom:longitude":-123.172317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29811 Clear Lake Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387162399,
-    "wof:lastmodified":1449059370,
+    "wof:lastmodified":1466770018,
     "wof:name":"Blyn Sail & Canvas",
     "wof:parent_id":85877245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.172317,44.10333,-123.172317,44.10333],
-  "geometry": {"coordinates":[-123.172317,44.10333],"type":"Point"}
+  "bbox": [
+    -123.172317,
+    44.10333,
+    -123.172317,
+    44.10333
+],
+  "geometry": {"coordinates":[-123.17231700000001,44.10333],"type":"Point"}
 }

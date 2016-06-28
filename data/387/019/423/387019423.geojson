@@ -2,13 +2,14 @@
   "id": 387019423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.060234,44.919031,-123.060234,44.919031",
     "geom:latitude":44.919031,
     "geom:longitude":-123.060234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 River Rd S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387019423,
-    "wof:lastmodified":1449058285,
+    "wof:lastmodified":1466767451,
     "wof:name":"Commercial Redi Mix & Aggrgt",
     "wof:parent_id":85880599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-123.060234,44.919031,-123.060234,44.919031],
-  "geometry": {"coordinates":[-123.060234,44.919031],"type":"Point"}
+  "bbox": [
+    -123.060234,
+    44.919031,
+    -123.060234,
+    44.919031
+],
+  "geometry": {"coordinates":[-123.06023399999999,44.919031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370844997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113748,44.0849,-123.113748,44.0849",
     "geom:latitude":44.0849,
     "geom:longitude":-123.113748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Kingsley Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370844997,
-    "wof:lastmodified":1449030531,
+    "wof:lastmodified":1466774283,
     "wof:name":"Glenbrook Apartments",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.113748,44.0849,-123.113748,44.0849],
+  "bbox": [
+    -123.113748,
+    44.0849,
+    -123.113748,
+    44.0849
+],
   "geometry": {"coordinates":[-123.113748,44.0849],"type":"Point"}
 }

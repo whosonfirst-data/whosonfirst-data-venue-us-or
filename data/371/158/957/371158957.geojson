@@ -2,13 +2,14 @@
   "id": 371158957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.944419,45.317705,-123.944419,45.317705",
     "geom:latitude":45.317705,
     "geom:longitude":-123.944419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19000 Derrick Rd",
     "sg:city":"Cloverdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371158957,
-    "wof:lastmodified":1449049758,
+    "wof:lastmodified":1466769845,
     "wof:name":"Us Forest Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.944419,45.317705,-123.944419,45.317705],
+  "bbox": [
+    -123.944419,
+    45.317705,
+    -123.944419,
+    45.317705
+],
   "geometry": {"coordinates":[-123.944419,45.317705],"type":"Point"}
 }

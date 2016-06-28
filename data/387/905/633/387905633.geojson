@@ -2,13 +2,14 @@
   "id": 387905633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661519,45.542353,-122.661519,45.542353",
     "geom:latitude":45.542353,
     "geom:longitude":-122.661519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2766 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387905633,
-    "wof:lastmodified":1449057595,
+    "wof:lastmodified":1466775408,
     "wof:name":"Portland Cable Access",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-122.661519,45.542353,-122.661519,45.542353],
+  "bbox": [
+    -122.661519,
+    45.542353,
+    -122.661519,
+    45.542353
+],
   "geometry": {"coordinates":[-122.661519,45.542353],"type":"Point"}
 }

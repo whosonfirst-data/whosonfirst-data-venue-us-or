@@ -2,13 +2,14 @@
   "id": 354403655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.950187,45.532289,-122.950187,45.532289",
     "geom:latitude":45.532289,
     "geom:longitude":-122.950187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 NE Cornell Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354403655,
-    "wof:lastmodified":1449067427,
+    "wof:lastmodified":1466771370,
     "wof:name":"Northwest Aircraft Maintenance",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-122.950187,45.532289,-122.950187,45.532289],
+  "bbox": [
+    -122.950187,
+    45.532289,
+    -122.950187,
+    45.532289
+],
   "geometry": {"coordinates":[-122.950187,45.532289],"type":"Point"}
 }

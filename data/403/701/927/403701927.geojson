@@ -2,13 +2,14 @@
   "id": 403701927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.29018,45.857829,-119.29018,45.857829",
     "geom:latitude":45.857829,
     "geom:longitude":-119.29018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1997 N 1st St",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403701927,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466767822,
     "wof:name":"Epha Inc",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.29018,45.857829,-119.29018,45.857829],
-  "geometry": {"coordinates":[-119.29018,45.857829],"type":"Point"}
+  "bbox": [
+    -119.29018,
+    45.857829,
+    -119.29018,
+    45.857829
+],
+  "geometry": {"coordinates":[-119.29018000000001,45.857829],"type":"Point"}
 }

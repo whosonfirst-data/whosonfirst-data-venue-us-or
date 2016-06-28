@@ -2,13 +2,14 @@
   "id": 387189381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.597436,45.545979,-122.597436,45.545979",
     "geom:latitude":45.545979,
     "geom:longitude":-122.597436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 NE 64th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387189381,
-    "wof:lastmodified":1449058796,
+    "wof:lastmodified":1466770566,
     "wof:name":"Portland First Aid",
     "wof:parent_id":85893229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.597436,45.545979,-122.597436,45.545979],
+  "bbox": [
+    -122.597436,
+    45.545979,
+    -122.597436,
+    45.545979
+],
   "geometry": {"coordinates":[-122.597436,45.545979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404182921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.811797,45.397549,-122.811797,45.397549",
     "geom:latitude":45.397549,
     "geom:longitude":-122.811797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16840 SW 131st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404182921,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1466767818,
     "wof:name":"Star Cars",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-122.811797,45.397549,-122.811797,45.397549],
+  "bbox": [
+    -122.811797,
+    45.397549,
+    -122.811797,
+    45.397549
+],
   "geometry": {"coordinates":[-122.811797,45.397549],"type":"Point"}
 }

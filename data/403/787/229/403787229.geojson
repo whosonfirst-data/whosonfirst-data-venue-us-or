@@ -2,13 +2,14 @@
   "id": 403787229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.043114,44.935321,-123.043114,44.935321",
     "geom:latitude":44.935321,
     "geom:longitude":-123.043114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"695 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403787229,
-    "wof:lastmodified":1449055240,
+    "wof:lastmodified":1466769448,
     "wof:name":"Express Personnel Svc",
     "wof:parent_id":85834589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-123.043114,44.935321,-123.043114,44.935321],
+  "bbox": [
+    -123.043114,
+    44.935321,
+    -123.043114,
+    44.935321
+],
   "geometry": {"coordinates":[-123.043114,44.935321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370674755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.316517,44.548805,-123.316517,44.548805",
     "geom:latitude":44.548805,
     "geom:longitude":-123.316517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5606 SW Windflower Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370674755,
-    "wof:lastmodified":1449031624,
+    "wof:lastmodified":1466773430,
     "wof:name":"Digitalchex",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-123.316517,44.548805,-123.316517,44.548805],
+  "bbox": [
+    -123.316517,
+    44.548805,
+    -123.316517,
+    44.548805
+],
   "geometry": {"coordinates":[-123.316517,44.548805],"type":"Point"}
 }

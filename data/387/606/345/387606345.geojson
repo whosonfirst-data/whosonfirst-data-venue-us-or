@@ -2,13 +2,14 @@
   "id": 387606345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.778314,45.490576,-122.778314,45.490576",
     "geom:latitude":45.490576,
     "geom:longitude":-122.778314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 SW 99th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387606345,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1466773969,
     "wof:name":"Action Health Co",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.778314,45.490576,-122.778314,45.490576],
-  "geometry": {"coordinates":[-122.778314,45.490576],"type":"Point"}
+  "bbox": [
+    -122.778314,
+    45.490576,
+    -122.778314,
+    45.490576
+],
+  "geometry": {"coordinates":[-122.77831399999999,45.490576],"type":"Point"}
 }

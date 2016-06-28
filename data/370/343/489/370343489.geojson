@@ -2,13 +2,14 @@
   "id": 370343489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584299,45.379582,-122.584299,45.379582",
     "geom:latitude":45.379582,
     "geom:longitude":-122.584299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 82nd Dr",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370343489,
-    "wof:lastmodified":1449031494,
+    "wof:lastmodified":1466770670,
     "wof:name":"ESA Inc",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.584299,45.379582,-122.584299,45.379582],
+  "bbox": [
+    -122.584299,
+    45.379582,
+    -122.584299,
+    45.379582
+],
   "geometry": {"coordinates":[-122.584299,45.379582],"type":"Point"}
 }

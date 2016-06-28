@@ -2,13 +2,14 @@
   "id": 387672603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.880851,45.688407,-123.880851,45.688407",
     "geom:latitude":45.688407,
     "geom:longitude":-123.880851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Rorvik St",
     "sg:city":"Wheeler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387672603,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1466774259,
     "wof:name":"Ocean Front Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-123.880851,45.688407,-123.880851,45.688407],
-  "geometry": {"coordinates":[-123.880851,45.688407],"type":"Point"}
+  "bbox": [
+    -123.880851,
+    45.688407,
+    -123.880851,
+    45.688407
+],
+  "geometry": {"coordinates":[-123.88085100000001,45.688407],"type":"Point"}
 }

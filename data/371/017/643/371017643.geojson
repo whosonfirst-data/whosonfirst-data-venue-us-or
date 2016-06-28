@@ -2,13 +2,14 @@
   "id": 371017643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011745,43.99433,-123.011745,43.99433",
     "geom:latitude":43.99433,
     "geom:longitude":-123.011745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85819 State Hwy 99 S",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371017643,
-    "wof:lastmodified":1449049602,
+    "wof:lastmodified":1466767437,
     "wof:name":"First Class Glass",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-123.011745,43.99433,-123.011745,43.99433],
+  "bbox": [
+    -123.011745,
+    43.99433,
+    -123.011745,
+    43.99433
+],
   "geometry": {"coordinates":[-123.011745,43.99433],"type":"Point"}
 }

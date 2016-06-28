@@ -2,13 +2,14 @@
   "id": 403941713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.216028,43.365085,-124.216028,43.365085",
     "geom:latitude":43.365085,
     "geom:longitude":-124.216028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"392 S 4th St",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403941713,
-    "wof:lastmodified":1449055441,
+    "wof:lastmodified":1466768113,
     "wof:name":"Bi-Mor Stations Inc",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oil"
     ]
 },
-  "bbox": [-124.216028,43.365085,-124.216028,43.365085],
-  "geometry": {"coordinates":[-124.216028,43.365085],"type":"Point"}
+  "bbox": [
+    -124.216028,
+    43.365085,
+    -124.216028,
+    43.365085
+],
+  "geometry": {"coordinates":[-124.21602799999999,43.365085],"type":"Point"}
 }

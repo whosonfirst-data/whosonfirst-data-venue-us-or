@@ -2,13 +2,14 @@
   "id": 387046387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.694493,45.472013,-122.694493,45.472013",
     "geom:latitude":45.472013,
     "geom:longitude":-122.694493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 SW Bertha Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387046387,
-    "wof:lastmodified":1449058224,
+    "wof:lastmodified":1466767908,
     "wof:name":"Swanson Hydrilogy",
     "wof:parent_id":85867149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-122.694493,45.472013,-122.694493,45.472013],
-  "geometry": {"coordinates":[-122.694493,45.472013],"type":"Point"}
+  "bbox": [
+    -122.694493,
+    45.472013,
+    -122.694493,
+    45.472013
+],
+  "geometry": {"coordinates":[-122.69449299999999,45.472013],"type":"Point"}
 }

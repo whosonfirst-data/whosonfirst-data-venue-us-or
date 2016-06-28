@@ -2,13 +2,14 @@
   "id": 403713591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.744723,45.509576,-122.744723,45.509576",
     "geom:latitude":45.509576,
     "geom:longitude":-122.744723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 SW 66th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403713591,
-    "wof:lastmodified":1449055845,
+    "wof:lastmodified":1466768026,
     "wof:name":"Weatherwise Inc",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-122.744723,45.509576,-122.744723,45.509576],
-  "geometry": {"coordinates":[-122.744723,45.509576],"type":"Point"}
+  "bbox": [
+    -122.744723,
+    45.509576,
+    -122.744723,
+    45.509576
+],
+  "geometry": {"coordinates":[-122.74472299999999,45.509576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403903335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.450009,45.510309,-122.450009,45.510309",
     "geom:latitude":45.510309,
     "geom:longitude":-122.450009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 NW 18th Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403903335,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466767419,
     "wof:name":"Cosmic Flamingo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.450009,45.510309,-122.450009,45.510309],
-  "geometry": {"coordinates":[-122.450009,45.510309],"type":"Point"}
+  "bbox": [
+    -122.450009,
+    45.510309,
+    -122.450009,
+    45.510309
+],
+  "geometry": {"coordinates":[-122.45000899999999,45.510309],"type":"Point"}
 }

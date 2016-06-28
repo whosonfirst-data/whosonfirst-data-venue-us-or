@@ -2,13 +2,14 @@
   "id": 387931015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.682313,45.527946,-122.682313,45.527946",
     "geom:latitude":45.527946,
     "geom:longitude":-122.682313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 NW 11th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387931015,
-    "wof:lastmodified":1449059575,
+    "wof:lastmodified":1466775303,
     "wof:name":"Safety Systems America",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.682313,45.527946,-122.682313,45.527946],
-  "geometry": {"coordinates":[-122.682313,45.527946],"type":"Point"}
+  "bbox": [
+    -122.682313,
+    45.527946,
+    -122.682313,
+    45.527946
+],
+  "geometry": {"coordinates":[-122.68231299999999,45.527946],"type":"Point"}
 }

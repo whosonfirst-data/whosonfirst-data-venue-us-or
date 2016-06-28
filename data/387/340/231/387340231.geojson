@@ -2,13 +2,14 @@
   "id": 387340231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.785252,45.363573,-120.785252,45.363573",
     "geom:latitude":45.363573,
     "geom:longitude":-120.785252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 3rd St",
     "sg:city":"Grass Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387340231,
-    "wof:lastmodified":1449059044,
+    "wof:lastmodified":1466772054,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-120.785252,45.363573,-120.785252,45.363573],
+  "bbox": [
+    -120.785252,
+    45.363573,
+    -120.785252,
+    45.363573
+],
   "geometry": {"coordinates":[-120.785252,45.363573],"type":"Point"}
 }

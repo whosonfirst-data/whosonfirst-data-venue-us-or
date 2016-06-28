@@ -2,13 +2,14 @@
   "id": 370474977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.458559,45.480658,-122.458559,45.480658",
     "geom:latitude":45.480658,
     "geom:longitude":-122.458559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 SW 22nd Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370474977,
-    "wof:lastmodified":1449029213,
+    "wof:lastmodified":1466772063,
     "wof:name":"Morning Fax",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-122.458559,45.480658,-122.458559,45.480658],
-  "geometry": {"coordinates":[-122.458559,45.480658],"type":"Point"}
+  "bbox": [
+    -122.458559,
+    45.480658,
+    -122.458559,
+    45.480658
+],
+  "geometry": {"coordinates":[-122.45855899999999,45.480658],"type":"Point"}
 }

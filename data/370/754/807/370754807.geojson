@@ -2,13 +2,14 @@
   "id": 370754807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.804268,45.483248,-122.804268,45.483248",
     "geom:latitude":45.483248,
     "geom:longitude":-122.804268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12350 SW 5th St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370754807,
-    "wof:lastmodified":1449031290,
+    "wof:lastmodified":1466773943,
     "wof:name":"Beaverton Community Ctr",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-122.804268,45.483248,-122.804268,45.483248],
-  "geometry": {"coordinates":[-122.804268,45.483248],"type":"Point"}
+  "bbox": [
+    -122.804268,
+    45.483248,
+    -122.804268,
+    45.483248
+],
+  "geometry": {"coordinates":[-122.80426799999999,45.483248],"type":"Point"}
 }

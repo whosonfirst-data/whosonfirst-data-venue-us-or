@@ -2,13 +2,14 @@
   "id": 403903783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806976,45.488418,-122.806976,45.488418",
     "geom:latitude":45.488418,
     "geom:longitude":-122.806976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12825 SW Canyon Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403903783,
-    "wof:lastmodified":1449054704,
+    "wof:lastmodified":1466767427,
     "wof:name":"Batteries Plus",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.806976,45.488418,-122.806976,45.488418],
-  "geometry": {"coordinates":[-122.806976,45.488418],"type":"Point"}
+  "bbox": [
+    -122.806976,
+    45.488418,
+    -122.806976,
+    45.488418
+],
+  "geometry": {"coordinates":[-122.80697600000001,45.488418],"type":"Point"}
 }

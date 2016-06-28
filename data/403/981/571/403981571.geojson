@@ -2,13 +2,14 @@
   "id": 403981571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018541,44.934725,-123.018541,44.934725",
     "geom:latitude":44.934725,
     "geom:longitude":-123.018541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1860 State St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403981571,
-    "wof:lastmodified":1449055994,
+    "wof:lastmodified":1466768818,
     "wof:name":"Deluxe Ice Cream",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cream"
     ]
 },
-  "bbox": [-123.018541,44.934725,-123.018541,44.934725],
+  "bbox": [
+    -123.018541,
+    44.934725,
+    -123.018541,
+    44.934725
+],
   "geometry": {"coordinates":[-123.018541,44.934725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370358083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.320128,42.423486,-123.320128,42.423486",
     "geom:latitude":42.423486,
     "geom:longitude":-123.320128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Rogue River Hwy",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370358083,
-    "wof:lastmodified":1449030507,
+    "wof:lastmodified":1466770972,
     "wof:name":"Rogue River Coffee Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-123.320128,42.423486,-123.320128,42.423486],
+  "bbox": [
+    -123.320128,
+    42.423486,
+    -123.320128,
+    42.423486
+],
   "geometry": {"coordinates":[-123.320128,42.423486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387581645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584009,45.379688,-122.584009,45.379688",
     "geom:latitude":45.379688,
     "geom:longitude":-122.584009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 82nd Dr",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387581645,
-    "wof:lastmodified":1449056902,
+    "wof:lastmodified":1466773830,
     "wof:name":"Superior Tire Service Inc",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-122.584009,45.379688,-122.584009,45.379688],
-  "geometry": {"coordinates":[-122.584009,45.379688],"type":"Point"}
+  "bbox": [
+    -122.584009,
+    45.379688,
+    -122.584009,
+    45.379688
+],
+  "geometry": {"coordinates":[-122.58400899999999,45.379688],"type":"Point"}
 }

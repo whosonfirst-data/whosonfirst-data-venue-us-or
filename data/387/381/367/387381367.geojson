@@ -2,13 +2,14 @@
   "id": 387381367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.080591,44.047642,-123.080591,44.047642",
     "geom:latitude":44.047642,
     "geom:longitude":-123.080591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 E 11th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387381367,
-    "wof:lastmodified":1449056421,
+    "wof:lastmodified":1466772395,
     "wof:name":"Northwest Pathology Services",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-123.080591,44.047642,-123.080591,44.047642],
+  "bbox": [
+    -123.080591,
+    44.047642,
+    -123.080591,
+    44.047642
+],
   "geometry": {"coordinates":[-123.080591,44.047642],"type":"Point"}
 }

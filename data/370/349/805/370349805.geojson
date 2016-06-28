@@ -2,13 +2,14 @@
   "id": 370349805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.012006,44.932679,-123.012006,44.932679",
     "geom:latitude":44.932679,
     "geom:longitude":-123.012006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Wander Way SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370349805,
-    "wof:lastmodified":1449030365,
+    "wof:lastmodified":1466770802,
     "wof:name":"Digital Stuff",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-123.012006,44.932679,-123.012006,44.932679],
+  "bbox": [
+    -123.012006,
+    44.932679,
+    -123.012006,
+    44.932679
+],
   "geometry": {"coordinates":[-123.012006,44.932679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354297305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.23963,44.985016,-123.23963,44.985016",
     "geom:latitude":44.985016,
     "geom:longitude":-123.23963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10050 Smithfield Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354297305,
-    "wof:lastmodified":1449067050,
+    "wof:lastmodified":1466769463,
     "wof:name":"Log Craft Homes Inc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-123.23963,44.985016,-123.23963,44.985016],
-  "geometry": {"coordinates":[-123.23963,44.985016],"type":"Point"}
+  "bbox": [
+    -123.23963,
+    44.985016,
+    -123.23963,
+    44.985016
+],
+  "geometry": {"coordinates":[-123.23963000000001,44.985016],"type":"Point"}
 }

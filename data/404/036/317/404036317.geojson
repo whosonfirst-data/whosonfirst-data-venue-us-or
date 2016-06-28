@@ -2,13 +2,14 @@
   "id": 404036317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.686551,45.442871,-122.686551,45.442871",
     "geom:latitude":45.442871,
     "geom:longitude":-122.686551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11304 SW Boones Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404036317,
-    "wof:lastmodified":1449039312,
+    "wof:lastmodified":1466769098,
     "wof:name":"Advanced Mechanical Systems",
     "wof:parent_id":85818135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.686551,45.442871,-122.686551,45.442871],
-  "geometry": {"coordinates":[-122.686551,45.442871],"type":"Point"}
+  "bbox": [
+    -122.686551,
+    45.442871,
+    -122.686551,
+    45.442871
+],
+  "geometry": {"coordinates":[-122.68655099999999,45.442871],"type":"Point"}
 }

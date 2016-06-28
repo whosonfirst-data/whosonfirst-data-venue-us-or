@@ -2,13 +2,14 @@
   "id": 387524955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.957062,45.310113,-122.957062,45.310113",
     "geom:latitude":45.310113,
     "geom:longitude":-122.957062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Hawthorne Loop",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387524955,
-    "wof:lastmodified":1449056079,
+    "wof:lastmodified":1466773306,
     "wof:name":"Voss Construction",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.957062,45.310113,-122.957062,45.310113],
-  "geometry": {"coordinates":[-122.957062,45.310113],"type":"Point"}
+  "bbox": [
+    -122.957062,
+    45.310113,
+    -122.957062,
+    45.310113
+],
+  "geometry": {"coordinates":[-122.95706199999999,45.310113],"type":"Point"}
 }

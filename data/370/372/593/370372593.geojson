@@ -2,13 +2,14 @@
   "id": 370372593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.933169,44.938932,-122.933169,44.938932",
     "geom:latitude":44.938932,
     "geom:longitude":-122.933169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Covey Ln NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370372593,
-    "wof:lastmodified":1449031140,
+    "wof:lastmodified":1466771261,
     "wof:name":"Sunset Development NW LLC",
     "wof:parent_id":85880571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.933169,44.938932,-122.933169,44.938932],
-  "geometry": {"coordinates":[-122.933169,44.938932],"type":"Point"}
+  "bbox": [
+    -122.933169,
+    44.938932,
+    -122.933169,
+    44.938932
+],
+  "geometry": {"coordinates":[-122.93316900000001,44.938932],"type":"Point"}
 }

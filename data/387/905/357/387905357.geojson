@@ -2,13 +2,14 @@
   "id": 387905357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.306198,44.550741,-123.306198,44.550741",
     "geom:latitude":44.550741,
     "geom:longitude":-123.306198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5014 SW Technology Loop",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387905357,
-    "wof:lastmodified":1449057593,
+    "wof:lastmodified":1466775407,
     "wof:name":"Global Mapping Technology",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-123.306198,44.550741,-123.306198,44.550741],
-  "geometry": {"coordinates":[-123.306198,44.550741],"type":"Point"}
+  "bbox": [
+    -123.306198,
+    44.550741,
+    -123.306198,
+    44.550741
+],
+  "geometry": {"coordinates":[-123.30619799999999,44.550741],"type":"Point"}
 }

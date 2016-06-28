@@ -2,13 +2,14 @@
   "id": 370354661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.533426,45.422491,-122.533426,45.422491",
     "geom:latitude":45.422491,
     "geom:longitude":-122.533426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13835 SE 126th Ave",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370354661,
-    "wof:lastmodified":1449032095,
+    "wof:lastmodified":1466770903,
     "wof:name":"Sunrise Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.533426,45.422491,-122.533426,45.422491],
-  "geometry": {"coordinates":[-122.533426,45.422491],"type":"Point"}
+  "bbox": [
+    -122.533426,
+    45.422491,
+    -122.533426,
+    45.422491
+],
+  "geometry": {"coordinates":[-122.53342600000001,45.422491],"type":"Point"}
 }

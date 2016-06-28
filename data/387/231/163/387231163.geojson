@@ -2,13 +2,14 @@
   "id": 387231163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.543028,45.466725,-122.543028,45.466725",
     "geom:latitude":45.466725,
     "geom:longitude":-122.543028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7822 SE Alta Verde Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387231163,
-    "wof:lastmodified":1449058054,
+    "wof:lastmodified":1466771410,
     "wof:name":"Flett Enterprises Inc",
     "wof:parent_id":85803591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.543028,45.466725,-122.543028,45.466725],
-  "geometry": {"coordinates":[-122.543028,45.466725],"type":"Point"}
+  "bbox": [
+    -122.543028,
+    45.466725,
+    -122.543028,
+    45.466725
+],
+  "geometry": {"coordinates":[-122.54302800000001,45.466725],"type":"Point"}
 }

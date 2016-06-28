@@ -2,13 +2,14 @@
   "id": 387503555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.583781,45.557389,-122.583781,45.557389",
     "geom:latitude":45.557389,
     "geom:longitude":-122.583781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4716 NE 77th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387503555,
-    "wof:lastmodified":1449059932,
+    "wof:lastmodified":1466773256,
     "wof:name":"Tom Cagle",
     "wof:parent_id":85867145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.583781,45.557389,-122.583781,45.557389],
+  "bbox": [
+    -122.583781,
+    45.557389,
+    -122.583781,
+    45.557389
+],
   "geometry": {"coordinates":[-122.583781,45.557389],"type":"Point"}
 }

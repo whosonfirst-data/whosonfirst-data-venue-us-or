@@ -2,13 +2,14 @@
   "id": 354332659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.054204,44.054375,-123.054204,44.054375",
     "geom:latitude":44.054375,
     "geom:longitude":-123.054204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Mar Loop",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354332659,
-    "wof:lastmodified":1449066894,
+    "wof:lastmodified":1466769936,
     "wof:name":"Brushworks Painting Of Eugene",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-123.054204,44.054375,-123.054204,44.054375],
+  "bbox": [
+    -123.054204,
+    44.054375,
+    -123.054204,
+    44.054375
+],
   "geometry": {"coordinates":[-123.054204,44.054375],"type":"Point"}
 }

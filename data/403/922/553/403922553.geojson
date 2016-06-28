@@ -2,13 +2,14 @@
   "id": 403922553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.933467,44.04562,-122.933467,44.04562",
     "geom:latitude":44.04562,
     "geom:longitude":-122.933467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403922553,
-    "wof:lastmodified":1449054757,
+    "wof:lastmodified":1466767756,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tape"
     ]
 },
-  "bbox": [-122.933467,44.04562,-122.933467,44.04562],
-  "geometry": {"coordinates":[-122.933467,44.04562],"type":"Point"}
+  "bbox": [
+    -122.933467,
+    44.04562,
+    -122.933467,
+    44.04562
+],
+  "geometry": {"coordinates":[-122.93346699999999,44.04562],"type":"Point"}
 }

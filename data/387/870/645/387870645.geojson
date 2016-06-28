@@ -2,13 +2,14 @@
   "id": 387870645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.063,44.045119,-123.063,44.045119",
     "geom:latitude":44.045119,
     "geom:longitude":-123.063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Franklin Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387870645,
-    "wof:lastmodified":1449057102,
+    "wof:lastmodified":1466775217,
     "wof:name":"German Auto Sales",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.063,44.045119,-123.063,44.045119],
+  "bbox": [
+    -123.063,
+    44.045119,
+    -123.063,
+    44.045119
+],
   "geometry": {"coordinates":[-123.063,44.045119],"type":"Point"}
 }

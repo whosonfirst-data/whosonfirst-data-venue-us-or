@@ -2,13 +2,14 @@
   "id": 387420917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.209483,44.291117,-123.209483,44.291117",
     "geom:latitude":44.291117,
     "geom:longitude":-123.209483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96378 Adams Ln",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387420917,
-    "wof:lastmodified":1449057922,
+    "wof:lastmodified":1466772595,
     "wof:name":"JAS Industrial Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.209483,44.291117,-123.209483,44.291117],
-  "geometry": {"coordinates":[-123.209483,44.291117],"type":"Point"}
+  "bbox": [
+    -123.209483,
+    44.291117,
+    -123.209483,
+    44.291117
+],
+  "geometry": {"coordinates":[-123.20948300000001,44.291117],"type":"Point"}
 }

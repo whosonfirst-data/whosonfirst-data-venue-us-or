@@ -2,13 +2,14 @@
   "id": 370300287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.719809,45.398275,-122.719809,45.398275",
     "geom:latitude":45.398275,
     "geom:longitude":-122.719809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17800 Lake Haven Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370300287,
-    "wof:lastmodified":1449030972,
+    "wof:lastmodified":1466769820,
     "wof:name":"Brad Buck",
     "wof:parent_id":85812127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.719809,45.398275,-122.719809,45.398275],
+  "bbox": [
+    -122.719809,
+    45.398275,
+    -122.719809,
+    45.398275
+],
   "geometry": {"coordinates":[-122.719809,45.398275],"type":"Point"}
 }

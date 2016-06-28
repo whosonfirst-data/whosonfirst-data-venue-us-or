@@ -2,13 +2,14 @@
   "id": 404168287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.100211,44.010585,-123.100211,44.010585",
     "geom:latitude":44.010585,
     "geom:longitude":-123.100211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4186 Normandy Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404168287,
-    "wof:lastmodified":1449039747,
+    "wof:lastmodified":1466767555,
     "wof:name":"Bob Houghton River Guide",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.100211,44.010585,-123.100211,44.010585],
+  "bbox": [
+    -123.100211,
+    44.010585,
+    -123.100211,
+    44.010585
+],
   "geometry": {"coordinates":[-123.100211,44.010585],"type":"Point"}
 }

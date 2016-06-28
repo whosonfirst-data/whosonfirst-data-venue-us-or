@@ -2,13 +2,14 @@
   "id": 403784635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094136,44.014364,-123.094136,44.014364",
     "geom:latitude":44.014364,
     "geom:longitude":-123.094136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 38th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403784635,
-    "wof:lastmodified":1449055502,
+    "wof:lastmodified":1466769398,
     "wof:name":"Chris Schoap Building Movers",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mover"
     ]
 },
-  "bbox": [-123.094136,44.014364,-123.094136,44.014364],
-  "geometry": {"coordinates":[-123.094136,44.014364],"type":"Point"}
+  "bbox": [
+    -123.094136,
+    44.014364,
+    -123.094136,
+    44.014364
+],
+  "geometry": {"coordinates":[-123.09413600000001,44.014364],"type":"Point"}
 }

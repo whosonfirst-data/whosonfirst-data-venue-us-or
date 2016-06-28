@@ -2,13 +2,14 @@
   "id": 403749701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.47922,45.532738,-122.47922,45.532738",
     "geom:latitude":45.532738,
     "geom:longitude":-122.47922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17815 NE Multnomah Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403749701,
-    "wof:lastmodified":1449055025,
+    "wof:lastmodified":1466768850,
     "wof:name":"Oregon Janitorial Svc",
     "wof:parent_id":85824571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.47922,45.532738,-122.47922,45.532738],
+  "bbox": [
+    -122.47922,
+    45.532738,
+    -122.47922,
+    45.532738
+],
   "geometry": {"coordinates":[-122.47922,45.532738],"type":"Point"}
 }

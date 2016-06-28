@@ -2,13 +2,14 @@
   "id": 404009713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.569545,45.182507,-122.569545,45.182507",
     "geom:latitude":45.182507,
     "geom:longitude":-122.569545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14446 S Macksburg Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404009713,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1466768591,
     "wof:name":"James Steele",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-122.569545,45.182507,-122.569545,45.182507],
-  "geometry": {"coordinates":[-122.569545,45.182507],"type":"Point"}
+  "bbox": [
+    -122.569545,
+    45.182507,
+    -122.569545,
+    45.182507
+],
+  "geometry": {"coordinates":[-122.56954500000001,45.182507],"type":"Point"}
 }

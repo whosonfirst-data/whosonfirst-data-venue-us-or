@@ -2,13 +2,14 @@
   "id": 387334535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.062733,43.748879,-123.062733,43.748879",
     "geom:latitude":43.748879,
     "geom:longitude":-123.062733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32333 Green Acres Loop",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387334535,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1466772132,
     "wof:name":"Bewe Enterprise",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-123.062733,43.748879,-123.062733,43.748879],
-  "geometry": {"coordinates":[-123.062733,43.748879],"type":"Point"}
+  "bbox": [
+    -123.062733,
+    43.748879,
+    -123.062733,
+    43.748879
+],
+  "geometry": {"coordinates":[-123.06273299999999,43.748879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370436275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.698422,45.489493,-122.698422,45.489493",
     "geom:latitude":45.489493,
     "geom:longitude":-122.698422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 SW Fairmount Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370436275,
-    "wof:lastmodified":1449032151,
+    "wof:lastmodified":1466771874,
     "wof:name":"Wilson Ventures Inc",
     "wof:parent_id":85847775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.698422,45.489493,-122.698422,45.489493],
-  "geometry": {"coordinates":[-122.698422,45.489493],"type":"Point"}
+  "bbox": [
+    -122.698422,
+    45.489493,
+    -122.698422,
+    45.489493
+],
+  "geometry": {"coordinates":[-122.69842199999999,45.489493],"type":"Point"}
 }

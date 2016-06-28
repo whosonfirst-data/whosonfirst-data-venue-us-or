@@ -2,13 +2,14 @@
   "id": 370827313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.190803,45.201417,-123.190803,45.201417",
     "geom:latitude":45.201417,
     "geom:longitude":-123.190803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 SE Villard St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370827313,
-    "wof:lastmodified":1449030301,
+    "wof:lastmodified":1466774137,
     "wof:name":"Road Runners Delivery Service",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.190803,45.201417,-123.190803,45.201417],
+  "bbox": [
+    -123.190803,
+    45.201417,
+    -123.190803,
+    45.201417
+],
   "geometry": {"coordinates":[-123.190803,45.201417],"type":"Point"}
 }

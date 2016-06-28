@@ -2,13 +2,14 @@
   "id": 354271201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265635,44.546839,-123.265635,44.546839",
     "geom:latitude":44.546839,
     "geom:longitude":-123.265635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 SE 3rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354271201,
-    "wof:lastmodified":1449066828,
+    "wof:lastmodified":1466768998,
     "wof:name":"Fred's Honda",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-123.265635,44.546839,-123.265635,44.546839],
+  "bbox": [
+    -123.265635,
+    44.546839,
+    -123.265635,
+    44.546839
+],
   "geometry": {"coordinates":[-123.265635,44.546839],"type":"Point"}
 }

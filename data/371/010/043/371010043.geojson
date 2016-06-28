@@ -2,13 +2,14 @@
   "id": 371010043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.529002,45.676187,-121.529002,45.676187",
     "geom:latitude":45.676187,
     "geom:longitude":-121.529002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Orchard Rd",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371010043,
-    "wof:lastmodified":1449049686,
+    "wof:lastmodified":1466767305,
     "wof:name":"Clubhouse Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-121.529002,45.676187,-121.529002,45.676187],
-  "geometry": {"coordinates":[-121.529002,45.676187],"type":"Point"}
+  "bbox": [
+    -121.529002,
+    45.676187,
+    -121.529002,
+    45.676187
+],
+  "geometry": {"coordinates":[-121.52900200000001,45.676187],"type":"Point"}
 }

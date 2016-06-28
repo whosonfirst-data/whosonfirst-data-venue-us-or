@@ -2,13 +2,14 @@
   "id": 403787483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.776559,45.545699,-122.776559,45.545699",
     "geom:latitude":45.545699,
     "geom:longitude":-122.776559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9626 NW Henry Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403787483,
-    "wof:lastmodified":1449055241,
+    "wof:lastmodified":1466769453,
     "wof:name":"Adorable Additions",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.776559,45.545699,-122.776559,45.545699],
-  "geometry": {"coordinates":[-122.776559,45.545699],"type":"Point"}
+  "bbox": [
+    -122.776559,
+    45.545699,
+    -122.776559,
+    45.545699
+],
+  "geometry": {"coordinates":[-122.77655900000001,45.545699],"type":"Point"}
 }

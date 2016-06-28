@@ -2,13 +2,14 @@
   "id": 387740795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.095683,44.036569,-123.095683,44.036569",
     "geom:latitude":44.036569,
     "geom:longitude":-123.095683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2190 Charnelton St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387740795,
-    "wof:lastmodified":1449057824,
+    "wof:lastmodified":1466774851,
     "wof:name":"Thomas Barkin",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.095683,44.036569,-123.095683,44.036569],
-  "geometry": {"coordinates":[-123.095683,44.036569],"type":"Point"}
+  "bbox": [
+    -123.095683,
+    44.036569,
+    -123.095683,
+    44.036569
+],
+  "geometry": {"coordinates":[-123.09568299999999,44.036569],"type":"Point"}
 }

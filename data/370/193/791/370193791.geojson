@@ -2,13 +2,14 @@
   "id": 370193791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.475597,45.509161,-122.475597,45.509161",
     "geom:latitude":45.509161,
     "geom:longitude":-122.475597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 SE 182nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370193791,
-    "wof:lastmodified":1449029635,
+    "wof:lastmodified":1466767929,
     "wof:name":"Encore Senior Village",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-122.475597,45.509161,-122.475597,45.509161],
-  "geometry": {"coordinates":[-122.475597,45.509161],"type":"Point"}
+  "bbox": [
+    -122.475597,
+    45.509161,
+    -122.475597,
+    45.509161
+],
+  "geometry": {"coordinates":[-122.47559699999999,45.509161],"type":"Point"}
 }

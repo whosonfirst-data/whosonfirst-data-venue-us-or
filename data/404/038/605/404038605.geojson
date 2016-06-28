@@ -2,13 +2,14 @@
   "id": 404038605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.028895,44.94746,-123.028895,44.94746",
     "geom:latitude":44.94746,
     "geom:longitude":-123.028895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"992 Cottage St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404038605,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466769137,
     "wof:name":"Mill Creek Investigation",
     "wof:parent_id":85880575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-123.028895,44.94746,-123.028895,44.94746],
-  "geometry": {"coordinates":[-123.028895,44.94746],"type":"Point"}
+  "bbox": [
+    -123.028895,
+    44.94746,
+    -123.028895,
+    44.94746
+],
+  "geometry": {"coordinates":[-123.02889500000001,44.94746],"type":"Point"}
 }

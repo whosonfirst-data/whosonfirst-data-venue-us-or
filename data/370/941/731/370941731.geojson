@@ -2,13 +2,14 @@
   "id": 370941731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.53346,45.571051,-117.53346,45.571051",
     "geom:latitude":45.571051,
     "geom:longitude":-117.53346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W 2nd St",
     "sg:city":"Wallowa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370941731,
-    "wof:lastmodified":1449031100,
+    "wof:lastmodified":1466774881,
     "wof:name":"Union Baker Education Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-117.53346,45.571051,-117.53346,45.571051],
-  "geometry": {"coordinates":[-117.53346,45.571051],"type":"Point"}
+  "bbox": [
+    -117.53346,
+    45.571051,
+    -117.53346,
+    45.571051
+],
+  "geometry": {"coordinates":[-117.53346000000001,45.571051],"type":"Point"}
 }

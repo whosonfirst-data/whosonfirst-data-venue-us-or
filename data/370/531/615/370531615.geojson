@@ -2,13 +2,14 @@
   "id": 370531615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.02001,44.047132,-123.02001,44.047132",
     "geom:latitude":44.047132,
     "geom:longitude":-123.02001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 A St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370531615,
-    "wof:lastmodified":1449029893,
+    "wof:lastmodified":1466772558,
     "wof:name":"Special Olympics Oregon",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-123.02001,44.047132,-123.02001,44.047132],
+  "bbox": [
+    -123.02001,
+    44.047132,
+    -123.02001,
+    44.047132
+],
   "geometry": {"coordinates":[-123.02001,44.047132],"type":"Point"}
 }

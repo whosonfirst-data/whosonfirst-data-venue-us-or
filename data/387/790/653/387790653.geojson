@@ -2,13 +2,14 @@
   "id": 387790653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.32081,44.595404,-123.32081,44.595404",
     "geom:latitude":44.595404,
     "geom:longitude":-123.32081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6255 NW Ponderosa Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387790653,
-    "wof:lastmodified":1449059021,
+    "wof:lastmodified":1466774959,
     "wof:name":"Larry L Boersma",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.32081,44.595404,-123.32081,44.595404],
-  "geometry": {"coordinates":[-123.32081,44.595404],"type":"Point"}
+  "bbox": [
+    -123.32081,
+    44.595404,
+    -123.32081,
+    44.595404
+],
+  "geometry": {"coordinates":[-123.32080999999999,44.595404],"type":"Point"}
 }

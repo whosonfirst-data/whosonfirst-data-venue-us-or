@@ -2,13 +2,14 @@
   "id": 403731879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.072098,44.067468,-123.072098,44.067468",
     "geom:latitude":44.067468,
     "geom:longitude":-123.072098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Coburg Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403731879,
-    "wof:lastmodified":1449055816,
+    "wof:lastmodified":1466768506,
     "wof:name":"7-Eleven",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.072098,44.067468,-123.072098,44.067468],
+  "bbox": [
+    -123.072098,
+    44.067468,
+    -123.072098,
+    44.067468
+],
   "geometry": {"coordinates":[-123.072098,44.067468],"type":"Point"}
 }

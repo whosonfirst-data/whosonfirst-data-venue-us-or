@@ -2,13 +2,14 @@
   "id": 386955179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.34615,43.207614,-123.34615,43.207614",
     "geom:latitude":43.207614,
     "geom:longitude":-123.34615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 SE Rose St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386955179,
-    "wof:lastmodified":1449028840,
+    "wof:lastmodified":1466767297,
     "wof:name":"Medcom Ambulance Authority",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-123.34615,43.207614,-123.34615,43.207614],
-  "geometry": {"coordinates":[-123.34615,43.207614],"type":"Point"}
+  "bbox": [
+    -123.34615,
+    43.207614,
+    -123.34615,
+    43.207614
+],
+  "geometry": {"coordinates":[-123.34614999999999,43.207614],"type":"Point"}
 }

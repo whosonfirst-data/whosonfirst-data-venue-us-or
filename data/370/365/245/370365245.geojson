@@ -2,13 +2,14 @@
   "id": 370365245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756177,45.424602,-122.756177,45.424602",
     "geom:latitude":45.424602,
     "geom:longitude":-122.756177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7730 SW Cherry Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370365245,
-    "wof:lastmodified":1449029632,
+    "wof:lastmodified":1466771114,
     "wof:name":"Bieker Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-122.756177,45.424602,-122.756177,45.424602],
-  "geometry": {"coordinates":[-122.756177,45.424602],"type":"Point"}
+  "bbox": [
+    -122.756177,
+    45.424602,
+    -122.756177,
+    45.424602
+],
+  "geometry": {"coordinates":[-122.75617699999999,45.424602],"type":"Point"}
 }

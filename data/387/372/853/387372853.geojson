@@ -2,13 +2,14 @@
   "id": 387372853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.640679,45.21831,-122.640679,45.21831",
     "geom:latitude":45.21831,
     "geom:longitude":-122.640679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26825 S Elisha Rd",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387372853,
-    "wof:lastmodified":1449058414,
+    "wof:lastmodified":1466772307,
     "wof:name":"Southridge Ranch",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.640679,45.21831,-122.640679,45.21831],
-  "geometry": {"coordinates":[-122.640679,45.21831],"type":"Point"}
+  "bbox": [
+    -122.640679,
+    45.21831,
+    -122.640679,
+    45.21831
+],
+  "geometry": {"coordinates":[-122.64067900000001,45.21831],"type":"Point"}
 }

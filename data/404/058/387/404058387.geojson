@@ -2,13 +2,14 @@
   "id": 404058387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014683,45.282337,-123.014683,45.282337",
     "geom:latitude":45.282337,
     "geom:longitude":-123.014683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 SW 3rd St",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404058387,
-    "wof:lastmodified":1449039195,
+    "wof:lastmodified":1466769435,
     "wof:name":"Kerry Binkerd Construction",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.014683,45.282337,-123.014683,45.282337],
-  "geometry": {"coordinates":[-123.014683,45.282337],"type":"Point"}
+  "bbox": [
+    -123.014683,
+    45.282337,
+    -123.014683,
+    45.282337
+],
+  "geometry": {"coordinates":[-123.01468300000001,45.282337],"type":"Point"}
 }

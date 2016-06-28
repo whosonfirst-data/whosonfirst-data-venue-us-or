@@ -2,13 +2,14 @@
   "id": 370805701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.009389,44.050629,-123.009389,44.050629",
     "geom:latitude":44.050629,
     "geom:longitude":-123.009389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 E St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370805701,
-    "wof:lastmodified":1449030229,
+    "wof:lastmodified":1466774111,
     "wof:name":"Oregon Community Educatio",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.009389,44.050629,-123.009389,44.050629],
+  "bbox": [
+    -123.009389,
+    44.050629,
+    -123.009389,
+    44.050629
+],
   "geometry": {"coordinates":[-123.009389,44.050629],"type":"Point"}
 }

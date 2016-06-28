@@ -2,13 +2,14 @@
   "id": 370354053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045178,44.883679,-123.045178,44.883679",
     "geom:latitude":44.883679,
     "geom:longitude":-123.045178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 Andrea Ct SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370354053,
-    "wof:lastmodified":1449032093,
+    "wof:lastmodified":1466770892,
     "wof:name":"CPA Professionals",
     "wof:parent_id":85880573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-123.045178,44.883679,-123.045178,44.883679],
-  "geometry": {"coordinates":[-123.045178,44.883679],"type":"Point"}
+  "bbox": [
+    -123.045178,
+    44.883679,
+    -123.045178,
+    44.883679
+],
+  "geometry": {"coordinates":[-123.04517800000001,44.883679],"type":"Point"}
 }

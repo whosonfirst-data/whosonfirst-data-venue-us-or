@@ -2,13 +2,14 @@
   "id": 387726209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.064407,44.949753,-123.064407,44.949753",
     "geom:latitude":44.949753,
     "geom:longitude":-123.064407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1094 Cascade Dr NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387726209,
-    "wof:lastmodified":1449058718,
+    "wof:lastmodified":1466774673,
     "wof:name":"Cleaning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-123.064407,44.949753,-123.064407,44.949753],
+  "bbox": [
+    -123.064407,
+    44.949753,
+    -123.064407,
+    44.949753
+],
   "geometry": {"coordinates":[-123.064407,44.949753],"type":"Point"}
 }

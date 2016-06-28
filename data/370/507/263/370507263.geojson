@@ -2,13 +2,14 @@
   "id": 370507263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.721202,45.553779,-122.721202,45.553779",
     "geom:latitude":45.553779,
     "geom:longitude":-122.721202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 NW Front Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370507263,
-    "wof:lastmodified":1449030821,
+    "wof:lastmodified":1466772381,
     "wof:name":"International Long Shore Wrhse",
     "wof:parent_id":85868951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.721202,45.553779,-122.721202,45.553779],
-  "geometry": {"coordinates":[-122.721202,45.553779],"type":"Point"}
+  "bbox": [
+    -122.721202,
+    45.553779,
+    -122.721202,
+    45.553779
+],
+  "geometry": {"coordinates":[-122.72120200000001,45.553779],"type":"Point"}
 }

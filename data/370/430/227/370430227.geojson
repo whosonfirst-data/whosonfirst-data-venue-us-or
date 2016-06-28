@@ -2,13 +2,14 @@
   "id": 370430227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.270604,44.897785,-123.270604,44.897785",
     "geom:latitude":44.897785,
     "geom:longitude":-123.270604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2795 Ballard Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370430227,
-    "wof:lastmodified":1449031231,
+    "wof:lastmodified":1466771837,
     "wof:name":"Morgan JP Concrete Constructio",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.270604,44.897785,-123.270604,44.897785],
-  "geometry": {"coordinates":[-123.270604,44.897785],"type":"Point"}
+  "bbox": [
+    -123.270604,
+    44.897785,
+    -123.270604,
+    44.897785
+],
+  "geometry": {"coordinates":[-123.27060400000001,44.897785],"type":"Point"}
 }

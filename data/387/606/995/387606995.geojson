@@ -2,13 +2,14 @@
   "id": 387606995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.815267,44.185528,-122.815267,44.185528",
     "geom:latitude":44.185528,
     "geom:longitude":-122.815267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39049 Wendling Rd",
     "sg:city":"Marcola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387606995,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1466773973,
     "wof:name":"KGN Overhead Garage Doors",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-122.815267,44.185528,-122.815267,44.185528],
-  "geometry": {"coordinates":[-122.815267,44.185528],"type":"Point"}
+  "bbox": [
+    -122.815267,
+    44.185528,
+    -122.815267,
+    44.185528
+],
+  "geometry": {"coordinates":[-122.81526700000001,44.185528],"type":"Point"}
 }

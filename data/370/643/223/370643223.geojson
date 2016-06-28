@@ -2,13 +2,14 @@
   "id": 370643223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.700867,45.463592,-122.700867,45.463592",
     "geom:latitude":45.463592,
     "geom:longitude":-122.700867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 SW Spring Garden St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370643223,
-    "wof:lastmodified":1449032018,
+    "wof:lastmodified":1466773250,
     "wof:name":"Spring Gardens Apartments",
     "wof:parent_id":85809397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.700867,45.463592,-122.700867,45.463592],
+  "bbox": [
+    -122.700867,
+    45.463592,
+    -122.700867,
+    45.463592
+],
   "geometry": {"coordinates":[-122.700867,45.463592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387573535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.523468,45.499104,-122.523468,45.499104",
     "geom:latitude":45.499104,
     "geom:longitude":-122.523468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 SE 136th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387573535,
-    "wof:lastmodified":1449058913,
+    "wof:lastmodified":1466773773,
     "wof:name":"Donald William Schott",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.523468,45.499104,-122.523468,45.499104],
-  "geometry": {"coordinates":[-122.523468,45.499104],"type":"Point"}
+  "bbox": [
+    -122.523468,
+    45.499104,
+    -122.523468,
+    45.499104
+],
+  "geometry": {"coordinates":[-122.52346799999999,45.499104],"type":"Point"}
 }

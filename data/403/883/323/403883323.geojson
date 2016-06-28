@@ -2,13 +2,14 @@
   "id": 403883323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014192,44.916689,-123.014192,44.916689",
     "geom:latitude":44.916689,
     "geom:longitude":-123.014192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 McGilchrist St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403883323,
-    "wof:lastmodified":1449055649,
+    "wof:lastmodified":1466771393,
     "wof:name":"Ferguson",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.014192,44.916689,-123.014192,44.916689],
-  "geometry": {"coordinates":[-123.014192,44.916689],"type":"Point"}
+  "bbox": [
+    -123.014192,
+    44.916689,
+    -123.014192,
+    44.916689
+],
+  "geometry": {"coordinates":[-123.01419199999999,44.916689],"type":"Point"}
 }

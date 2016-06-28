@@ -2,13 +2,14 @@
   "id": 370823089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.636575,45.575084,-122.636575,45.575084",
     "geom:latitude":45.575084,
     "geom:longitude":-122.636575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2797 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370823089,
-    "wof:lastmodified":1449032432,
+    "wof:lastmodified":1466774251,
     "wof:name":"A & M Lift Truck",
     "wof:parent_id":85868949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-122.636575,45.575084,-122.636575,45.575084],
-  "geometry": {"coordinates":[-122.636575,45.575084],"type":"Point"}
+  "bbox": [
+    -122.636575,
+    45.575084,
+    -122.636575,
+    45.575084
+],
+  "geometry": {"coordinates":[-122.63657499999999,45.575084],"type":"Point"}
 }

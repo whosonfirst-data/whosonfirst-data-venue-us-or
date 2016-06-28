@@ -2,13 +2,14 @@
   "id": 370345235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030837,44.931305,-123.030837,44.931305",
     "geom:latitude":44.931305,
     "geom:longitude":-123.030837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Leslie St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370345235,
-    "wof:lastmodified":1449032205,
+    "wof:lastmodified":1466770704,
     "wof:name":"Salem Hospital Urgent Care",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.030837,44.931305,-123.030837,44.931305],
-  "geometry": {"coordinates":[-123.030837,44.931305],"type":"Point"}
+  "bbox": [
+    -123.030837,
+    44.931305,
+    -123.030837,
+    44.931305
+],
+  "geometry": {"coordinates":[-123.03083700000001,44.931305],"type":"Point"}
 }

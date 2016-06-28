@@ -2,13 +2,14 @@
   "id": 387602101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.815588,45.672979,-118.815588,45.672979",
     "geom:latitude":45.672979,
     "geom:longitude":-118.815588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Westgate",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387602101,
-    "wof:lastmodified":1449057889,
+    "wof:lastmodified":1466773934,
     "wof:name":"Eastern Oregon Psychiatric Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-118.815588,45.672979,-118.815588,45.672979],
-  "geometry": {"coordinates":[-118.815588,45.672979],"type":"Point"}
+  "bbox": [
+    -118.815588,
+    45.672979,
+    -118.815588,
+    45.672979
+],
+  "geometry": {"coordinates":[-118.81558800000001,45.672979],"type":"Point"}
 }

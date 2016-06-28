@@ -2,13 +2,14 @@
   "id": 387730113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.698788,45.532479,-122.698788,45.532479",
     "geom:latitude":45.532479,
     "geom:longitude":-122.698788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 NW 23rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387730113,
-    "wof:lastmodified":1449059317,
+    "wof:lastmodified":1466774567,
     "wof:name":"Tully's Coffee",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-122.698788,45.532479,-122.698788,45.532479],
-  "geometry": {"coordinates":[-122.698788,45.532479],"type":"Point"}
+  "bbox": [
+    -122.698788,
+    45.532479,
+    -122.698788,
+    45.532479
+],
+  "geometry": {"coordinates":[-122.69878799999999,45.532479],"type":"Point"}
 }

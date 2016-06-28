@@ -2,13 +2,14 @@
   "id": 403786399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.384208,45.529286,-122.384208,45.529286",
     "geom:latitude":45.529286,
     "geom:longitude":-122.384208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 SE 17th St",
     "sg:city":"Troutdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403786399,
-    "wof:lastmodified":1449054799,
+    "wof:lastmodified":1466769437,
     "wof:name":"Rics Custom Body Fix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-122.384208,45.529286,-122.384208,45.529286],
+  "bbox": [
+    -122.384208,
+    45.529286,
+    -122.384208,
+    45.529286
+],
   "geometry": {"coordinates":[-122.384208,45.529286],"type":"Point"}
 }

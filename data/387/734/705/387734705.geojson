@@ -2,13 +2,14 @@
   "id": 387734705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.86642,45.162307,-122.86642,45.162307",
     "geom:latitude":45.162307,
     "geom:longitude":-122.86642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1686 Newport Way",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387734705,
-    "wof:lastmodified":1449059438,
+    "wof:lastmodified":1466774708,
     "wof:name":"Kleen King of Salem",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-122.86642,45.162307,-122.86642,45.162307],
-  "geometry": {"coordinates":[-122.86642,45.162307],"type":"Point"}
+  "bbox": [
+    -122.86642,
+    45.162307,
+    -122.86642,
+    45.162307
+],
+  "geometry": {"coordinates":[-122.86642000000001,45.162307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387938481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.607402,45.554675,-122.607402,45.554675",
     "geom:latitude":45.554675,
     "geom:longitude":-122.607402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4402 NE 54th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387938481,
-    "wof:lastmodified":1449058948,
+    "wof:lastmodified":1466775518,
     "wof:name":"David Fuentes Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.607402,45.554675,-122.607402,45.554675],
-  "geometry": {"coordinates":[-122.607402,45.554675],"type":"Point"}
+  "bbox": [
+    -122.607402,
+    45.554675,
+    -122.607402,
+    45.554675
+],
+  "geometry": {"coordinates":[-122.60740199999999,45.554675],"type":"Point"}
 }

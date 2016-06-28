@@ -2,13 +2,14 @@
   "id": 370161923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.722311,45.476299,-122.722311,45.476299",
     "geom:latitude":45.476299,
     "geom:longitude":-122.722311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 SW Vermont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370161923,
-    "wof:lastmodified":1449030425,
+    "wof:lastmodified":1466767370,
     "wof:name":"Vermont Hills Sentry",
     "wof:parent_id":85853645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-122.722311,45.476299,-122.722311,45.476299],
+  "bbox": [
+    -122.722311,
+    45.476299,
+    -122.722311,
+    45.476299
+],
   "geometry": {"coordinates":[-122.722311,45.476299],"type":"Point"}
 }

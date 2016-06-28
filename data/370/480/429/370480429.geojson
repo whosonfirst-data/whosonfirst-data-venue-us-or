@@ -2,13 +2,14 @@
   "id": 370480429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.692567,45.414943,-122.692567,45.414943",
     "geom:latitude":45.414943,
     "geom:longitude":-122.692567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15551 Village Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370480429,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1466772335,
     "wof:name":"Shopping Center",
     "wof:parent_id":85878595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-122.692567,45.414943,-122.692567,45.414943],
+  "bbox": [
+    -122.692567,
+    45.414943,
+    -122.692567,
+    45.414943
+],
   "geometry": {"coordinates":[-122.692567,45.414943],"type":"Point"}
 }

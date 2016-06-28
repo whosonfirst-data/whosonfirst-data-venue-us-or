@@ -2,13 +2,14 @@
   "id": 404020443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.646962,45.465125,-122.646962,45.465125",
     "geom:latitude":45.465125,
     "geom:longitude":-122.646962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8006 SE 17th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404020443,
-    "wof:lastmodified":1449039572,
+    "wof:lastmodified":1466768813,
     "wof:name":"William T Powers",
     "wof:parent_id":85868967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.646962,45.465125,-122.646962,45.465125],
+  "bbox": [
+    -122.646962,
+    45.465125,
+    -122.646962,
+    45.465125
+],
   "geometry": {"coordinates":[-122.646962,45.465125],"type":"Point"}
 }

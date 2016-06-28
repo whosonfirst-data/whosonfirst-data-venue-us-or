@@ -2,13 +2,14 @@
   "id": 404202829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.026129,44.936675,-123.026129,44.936675",
     "geom:latitude":44.936675,
     "geom:longitude":-123.026129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 State St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404202829,
-    "wof:lastmodified":1449040169,
+    "wof:lastmodified":1466768161,
     "wof:name":"Alan D Martin",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.026129,44.936675,-123.026129,44.936675],
+  "bbox": [
+    -123.026129,
+    44.936675,
+    -123.026129,
+    44.936675
+],
   "geometry": {"coordinates":[-123.026129,44.936675],"type":"Point"}
 }

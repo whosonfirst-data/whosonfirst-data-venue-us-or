@@ -2,13 +2,14 @@
   "id": 404023141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.14373,44.071024,-123.14373,44.071024",
     "geom:latitude":44.071024,
     "geom:longitude":-123.14373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 State Hwy 99 N",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404023141,
-    "wof:lastmodified":1449040216,
+    "wof:lastmodified":1466768860,
     "wof:name":"Dee Old 99 Barber Shop",
     "wof:parent_id":85877261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.14373,44.071024,-123.14373,44.071024],
-  "geometry": {"coordinates":[-123.14373,44.071024],"type":"Point"}
+  "bbox": [
+    -123.14373,
+    44.071024,
+    -123.14373,
+    44.071024
+],
+  "geometry": {"coordinates":[-123.14373000000001,44.071024],"type":"Point"}
 }

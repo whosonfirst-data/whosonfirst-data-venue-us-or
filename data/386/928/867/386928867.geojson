@@ -2,13 +2,14 @@
   "id": 386928867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.059639,45.531899,-123.059639,45.531899",
     "geom:latitude":45.531899,
     "geom:longitude":-123.059639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 NW Cornelius Schefflin Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386928867,
-    "wof:lastmodified":1449028908,
+    "wof:lastmodified":1466767143,
     "wof:name":"Mike Duyck",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.059639,45.531899,-123.059639,45.531899],
+  "bbox": [
+    -123.059639,
+    45.531899,
+    -123.059639,
+    45.531899
+],
   "geometry": {"coordinates":[-123.059639,45.531899],"type":"Point"}
 }

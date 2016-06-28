@@ -2,13 +2,14 @@
   "id": 370318675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.752936,45.31743,-122.752936,45.31743",
     "geom:latitude":45.31743,
     "geom:longitude":-122.752936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 SW Boeckman Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370318675,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1466770193,
     "wof:name":"Pta Oregon Congress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.752936,45.31743,-122.752936,45.31743],
-  "geometry": {"coordinates":[-122.752936,45.31743],"type":"Point"}
+  "bbox": [
+    -122.752936,
+    45.31743,
+    -122.752936,
+    45.31743
+],
+  "geometry": {"coordinates":[-122.75293600000001,45.31743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370443019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653832,45.498816,-122.653832,45.498816",
     "geom:latitude":45.498816,
     "geom:longitude":-122.653832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 SE Pershing St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370443019,
-    "wof:lastmodified":1449031847,
+    "wof:lastmodified":1466771812,
     "wof:name":"Butler Press",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.653832,45.498816,-122.653832,45.498816],
-  "geometry": {"coordinates":[-122.653832,45.498816],"type":"Point"}
+  "bbox": [
+    -122.653832,
+    45.498816,
+    -122.653832,
+    45.498816
+],
+  "geometry": {"coordinates":[-122.65383199999999,45.498816],"type":"Point"}
 }

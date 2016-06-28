@@ -2,13 +2,14 @@
   "id": 370944337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.076534,44.060999,-123.076534,44.060999",
     "geom:latitude":44.060999,
     "geom:longitude":-123.076534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Centennial Loop",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370944337,
-    "wof:lastmodified":1449030773,
+    "wof:lastmodified":1466774892,
     "wof:name":"Swanson Land Surveying",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-123.076534,44.060999,-123.076534,44.060999],
+  "bbox": [
+    -123.076534,
+    44.060999,
+    -123.076534,
+    44.060999
+],
   "geometry": {"coordinates":[-123.076534,44.060999],"type":"Point"}
 }

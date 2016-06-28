@@ -2,13 +2,14 @@
   "id": 371030489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675616,45.550513,-122.675616,45.550513",
     "geom:latitude":45.550513,
     "geom:longitude":-122.675616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3753 N Mississippi Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371030489,
-    "wof:lastmodified":1449049400,
+    "wof:lastmodified":1466767655,
     "wof:name":"A G Nome",
     "wof:parent_id":85893207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.675616,45.550513,-122.675616,45.550513],
-  "geometry": {"coordinates":[-122.675616,45.550513],"type":"Point"}
+  "bbox": [
+    -122.675616,
+    45.550513,
+    -122.675616,
+    45.550513
+],
+  "geometry": {"coordinates":[-122.67561600000001,45.550513],"type":"Point"}
 }

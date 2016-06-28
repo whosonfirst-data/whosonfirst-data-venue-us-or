@@ -2,13 +2,14 @@
   "id": 387861045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.673465,45.481271,-122.673465,45.481271",
     "geom:latitude":45.481271,
     "geom:longitude":-122.673465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5727 SW Macadam Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387861045,
-    "wof:lastmodified":1449059898,
+    "wof:lastmodified":1466775181,
     "wof:name":"J D Fulwiler & Co",
     "wof:parent_id":85893175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.673465,45.481271,-122.673465,45.481271],
-  "geometry": {"coordinates":[-122.673465,45.481271],"type":"Point"}
+  "bbox": [
+    -122.673465,
+    45.481271,
+    -122.673465,
+    45.481271
+],
+  "geometry": {"coordinates":[-122.67346499999999,45.481271],"type":"Point"}
 }

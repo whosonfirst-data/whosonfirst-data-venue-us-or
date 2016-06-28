@@ -2,13 +2,14 @@
   "id": 354368941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.17216,45.86983,-123.17216,45.86983",
     "geom:latitude":45.86983,
     "geom:longitude":-123.17216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1984 N Mist Dr",
     "sg:city":"Vernonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354368941,
-    "wof:lastmodified":1449066325,
+    "wof:lastmodified":1466770745,
     "wof:name":"U-Haul",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-123.17216,45.86983,-123.17216,45.86983],
-  "geometry": {"coordinates":[-123.17216,45.86983],"type":"Point"}
+  "bbox": [
+    -123.17216,
+    45.86983,
+    -123.17216,
+    45.86983
+],
+  "geometry": {"coordinates":[-123.17216000000001,45.86983],"type":"Point"}
 }

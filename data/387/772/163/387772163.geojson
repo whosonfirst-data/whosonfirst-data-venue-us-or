@@ -2,13 +2,14 @@
   "id": 387772163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.44505,45.505465,-122.44505,45.505465",
     "geom:latitude":45.505465,
     "geom:longitude":-122.44505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1167 NW Wallula Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387772163,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1466774983,
     "wof:name":"Max Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-122.44505,45.505465,-122.44505,45.505465],
-  "geometry": {"coordinates":[-122.44505,45.505465],"type":"Point"}
+  "bbox": [
+    -122.44505,
+    45.505465,
+    -122.44505,
+    45.505465
+],
+  "geometry": {"coordinates":[-122.44504999999999,45.505465],"type":"Point"}
 }

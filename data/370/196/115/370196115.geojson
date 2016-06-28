@@ -2,13 +2,14 @@
   "id": 370196115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.093319,44.895457,-117.093319,44.895457",
     "geom:latitude":44.895457,
     "geom:longitude":-117.093319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38049 Sunny Dell Ln",
     "sg:city":"Halfway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370196115,
-    "wof:lastmodified":1449029857,
+    "wof:lastmodified":1466767967,
     "wof:name":"Rowen Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-117.093319,44.895457,-117.093319,44.895457],
-  "geometry": {"coordinates":[-117.093319,44.895457],"type":"Point"}
+  "bbox": [
+    -117.093319,
+    44.895457,
+    -117.093319,
+    44.895457
+],
+  "geometry": {"coordinates":[-117.09331899999999,44.895457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387920257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.709176,45.454401,-122.709176,45.454401",
     "geom:latitude":45.454401,
     "geom:longitude":-122.709176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 SW Evelyn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387920257,
-    "wof:lastmodified":1449059045,
+    "wof:lastmodified":1466775359,
     "wof:name":"Web Quick",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-122.709176,45.454401,-122.709176,45.454401],
+  "bbox": [
+    -122.709176,
+    45.454401,
+    -122.709176,
+    45.454401
+],
   "geometry": {"coordinates":[-122.709176,45.454401],"type":"Point"}
 }

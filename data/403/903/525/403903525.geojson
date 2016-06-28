@@ -2,13 +2,14 @@
   "id": 403903525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.006211,44.973513,-124.006211,44.973513",
     "geom:latitude":44.973513,
     "geom:longitude":-124.006211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 NE Indian Shrs",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403903525,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466767422,
     "wof:name":"Coastline Pest Control",
     "wof:parent_id":85868149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.006211,44.973513,-124.006211,44.973513],
-  "geometry": {"coordinates":[-124.006211,44.973513],"type":"Point"}
+  "bbox": [
+    -124.006211,
+    44.973513,
+    -124.006211,
+    44.973513
+],
+  "geometry": {"coordinates":[-124.00621099999999,44.973513],"type":"Point"}
 }

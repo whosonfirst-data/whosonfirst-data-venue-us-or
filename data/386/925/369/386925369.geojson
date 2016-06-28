@@ -2,13 +2,14 @@
   "id": 386925369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.291771,44.56962,-123.291771,44.56962",
     "geom:latitude":44.56962,
     "geom:longitude":-123.291771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 NW Jackson Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386925369,
-    "wof:lastmodified":1449028628,
+    "wof:lastmodified":1466768831,
     "wof:name":"Babcock & Evenson",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-123.291771,44.56962,-123.291771,44.56962],
+  "bbox": [
+    -123.291771,
+    44.56962,
+    -123.291771,
+    44.56962
+],
   "geometry": {"coordinates":[-123.291771,44.56962],"type":"Point"}
 }

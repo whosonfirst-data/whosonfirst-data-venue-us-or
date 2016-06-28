@@ -2,13 +2,14 @@
   "id": 387766743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.264793,44.565402,-123.264793,44.565402",
     "geom:latitude":44.565402,
     "geom:longitude":-123.264793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 NW Monroe Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387766743,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1466774769,
     "wof:name":"Corvallis-Benton County Public",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.264793,44.565402,-123.264793,44.565402],
+  "bbox": [
+    -123.264793,
+    44.565402,
+    -123.264793,
+    44.565402
+],
   "geometry": {"coordinates":[-123.264793,44.565402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387352163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.061604,44.681203,-123.061604,44.681203",
     "geom:latitude":44.681203,
     "geom:longitude":-123.061604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2965 Conser Rd NE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387352163,
-    "wof:lastmodified":1449058443,
+    "wof:lastmodified":1466772254,
     "wof:name":"Ryan's Delivery",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-123.061604,44.681203,-123.061604,44.681203],
+  "bbox": [
+    -123.061604,
+    44.681203,
+    -123.061604,
+    44.681203
+],
   "geometry": {"coordinates":[-123.061604,44.681203],"type":"Point"}
 }

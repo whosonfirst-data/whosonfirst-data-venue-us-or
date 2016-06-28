@@ -2,13 +2,14 @@
   "id": 404091023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.18003,44.258093,-121.18003,44.258093",
     "geom:latitude":44.258093,
     "geom:longitude":-121.18003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 S Hwy 97",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404091023,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1466770317,
     "wof:name":"Franz Bakery",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocery"
     ]
 },
-  "bbox": [-121.18003,44.258093,-121.18003,44.258093],
+  "bbox": [
+    -121.18003,
+    44.258093,
+    -121.18003,
+    44.258093
+],
   "geometry": {"coordinates":[-121.18003,44.258093],"type":"Point"}
 }

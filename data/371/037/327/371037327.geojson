@@ -2,13 +2,14 @@
   "id": 371037327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537672,45.525463,-122.537672,45.525463",
     "geom:latitude":45.525463,
     "geom:longitude":-122.537672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371037327,
-    "wof:lastmodified":1449050159,
+    "wof:lastmodified":1466767769,
     "wof:name":"Providence Outpatient Ntrtn",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapist"
     ]
 },
-  "bbox": [-122.537672,45.525463,-122.537672,45.525463],
+  "bbox": [
+    -122.537672,
+    45.525463,
+    -122.537672,
+    45.525463
+],
   "geometry": {"coordinates":[-122.537672,45.525463],"type":"Point"}
 }

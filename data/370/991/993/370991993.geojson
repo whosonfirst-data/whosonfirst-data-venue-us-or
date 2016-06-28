@@ -2,13 +2,14 @@
   "id": 370991993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.90743,45.393079,-122.90743,45.393079",
     "geom:latitude":45.393079,
     "geom:longitude":-122.90743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18040 SW Belton Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370991993,
-    "wof:lastmodified":1449030162,
+    "wof:lastmodified":1466775079,
     "wof:name":"Neu Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.90743,45.393079,-122.90743,45.393079],
-  "geometry": {"coordinates":[-122.90743,45.393079],"type":"Point"}
+  "bbox": [
+    -122.90743,
+    45.393079,
+    -122.90743,
+    45.393079
+],
+  "geometry": {"coordinates":[-122.90743000000001,45.393079],"type":"Point"}
 }

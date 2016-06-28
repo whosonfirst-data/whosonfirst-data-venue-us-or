@@ -2,13 +2,14 @@
   "id": 370618085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.090168,44.001609,-123.090168,44.001609",
     "geom:latitude":44.001609,
     "geom:longitude":-123.090168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 Donald St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370618085,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1466773037,
     "wof:name":"Convergence Inc",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-123.090168,44.001609,-123.090168,44.001609],
-  "geometry": {"coordinates":[-123.090168,44.001609],"type":"Point"}
+  "bbox": [
+    -123.090168,
+    44.001609,
+    -123.090168,
+    44.001609
+],
+  "geometry": {"coordinates":[-123.09016800000001,44.001609],"type":"Point"}
 }

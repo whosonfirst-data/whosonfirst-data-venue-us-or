@@ -2,13 +2,14 @@
   "id": 370813935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.77047,45.384403,-123.77047,45.384403",
     "geom:latitude":45.384403,
     "geom:longitude":-123.77047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9360 Fawcett Creek Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370813935,
-    "wof:lastmodified":1449029970,
+    "wof:lastmodified":1466774049,
     "wof:name":"Hurliman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-123.77047,45.384403,-123.77047,45.384403],
+  "bbox": [
+    -123.77047,
+    45.384403,
+    -123.77047,
+    45.384403
+],
   "geometry": {"coordinates":[-123.77047,45.384403],"type":"Point"}
 }

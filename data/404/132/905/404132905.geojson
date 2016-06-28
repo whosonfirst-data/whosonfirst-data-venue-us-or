@@ -2,13 +2,14 @@
   "id": 404132905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.259224,44.574851,-123.259224,44.574851",
     "geom:latitude":44.574851,
     "geom:longitude":-123.259224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 NW Buchanan Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404132905,
-    "wof:lastmodified":1449039597,
+    "wof:lastmodified":1466771233,
     "wof:name":"Stor-Haus",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-123.259224,44.574851,-123.259224,44.574851],
+  "bbox": [
+    -123.259224,
+    44.574851,
+    -123.259224,
+    44.574851
+],
   "geometry": {"coordinates":[-123.259224,44.574851],"type":"Point"}
 }

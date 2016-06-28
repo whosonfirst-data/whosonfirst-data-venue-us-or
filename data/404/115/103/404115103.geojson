@@ -2,13 +2,14 @@
   "id": 404115103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.70441,45.372157,-122.70441,45.372157",
     "geom:latitude":45.372157,
     "geom:longitude":-122.70441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20395 SW Stafford Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404115103,
-    "wof:lastmodified":1449039076,
+    "wof:lastmodified":1466770889,
     "wof:name":"Enchanted Gardens Landscape",
     "wof:parent_id":85878581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.70441,45.372157,-122.70441,45.372157],
+  "bbox": [
+    -122.70441,
+    45.372157,
+    -122.70441,
+    45.372157
+],
   "geometry": {"coordinates":[-122.70441,45.372157],"type":"Point"}
 }

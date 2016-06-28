@@ -2,13 +2,14 @@
   "id": 370729375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.211341,44.113687,-123.211341,44.113687",
     "geom:latitude":44.113687,
     "geom:longitude":-123.211341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28829 Airport Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370729375,
-    "wof:lastmodified":1449030783,
+    "wof:lastmodified":1466773684,
     "wof:name":"KLT Enterprises",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-123.211341,44.113687,-123.211341,44.113687],
+  "bbox": [
+    -123.211341,
+    44.113687,
+    -123.211341,
+    44.113687
+],
   "geometry": {"coordinates":[-123.211341,44.113687],"type":"Point"}
 }

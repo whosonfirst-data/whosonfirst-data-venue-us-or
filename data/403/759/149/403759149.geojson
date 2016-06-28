@@ -2,13 +2,14 @@
   "id": 403759149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.513204,45.5178,-122.513204,45.5178",
     "geom:latitude":45.5178,
     "geom:longitude":-122.513204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 SE 146th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403759149,
-    "wof:lastmodified":1449055986,
+    "wof:lastmodified":1466769009,
     "wof:name":"Tom Hammersmith",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.513204,45.5178,-122.513204,45.5178],
+  "bbox": [
+    -122.513204,
+    45.5178,
+    -122.513204,
+    45.5178
+],
   "geometry": {"coordinates":[-122.513204,45.5178],"type":"Point"}
 }

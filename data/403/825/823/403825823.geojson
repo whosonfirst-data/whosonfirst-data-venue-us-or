@@ -2,13 +2,14 @@
   "id": 403825823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.456791,45.502802,-122.456791,45.502802",
     "geom:latitude":45.502802,
     "geom:longitude":-122.456791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 NW Mawrcrest Dr",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403825823,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466770248,
     "wof:name":"Bryn Mawr Apartments",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.456791,45.502802,-122.456791,45.502802],
+  "bbox": [
+    -122.456791,
+    45.502802,
+    -122.456791,
+    45.502802
+],
   "geometry": {"coordinates":[-122.456791,45.502802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387489851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.825702,45.460245,-122.825702,45.460245",
     "geom:latitude":45.460245,
     "geom:longitude":-122.825702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14305 SW Sexton Mountain Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387489851,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1466773178,
     "wof:name":"F F Properties LP",
     "wof:parent_id":85818901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.825702,45.460245,-122.825702,45.460245],
-  "geometry": {"coordinates":[-122.825702,45.460245],"type":"Point"}
+  "bbox": [
+    -122.825702,
+    45.460245,
+    -122.825702,
+    45.460245
+],
+  "geometry": {"coordinates":[-122.82570200000001,45.460245],"type":"Point"}
 }

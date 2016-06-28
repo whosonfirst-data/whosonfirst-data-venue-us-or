@@ -2,13 +2,14 @@
   "id": 404109255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.709348,45.493403,-122.709348,45.493403",
     "geom:latitude":45.493403,
     "geom:longitude":-122.709348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3142 SW Altadena Ter",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404109255,
-    "wof:lastmodified":1449039431,
+    "wof:lastmodified":1466770777,
     "wof:name":"McFarland Benson H MD PHD",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.709348,45.493403,-122.709348,45.493403],
-  "geometry": {"coordinates":[-122.709348,45.493403],"type":"Point"}
+  "bbox": [
+    -122.709348,
+    45.493403,
+    -122.709348,
+    45.493403
+],
+  "geometry": {"coordinates":[-122.70934800000001,45.493403],"type":"Point"}
 }

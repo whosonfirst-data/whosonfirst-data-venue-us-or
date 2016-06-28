@@ -2,13 +2,14 @@
   "id": 404074425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.718793,45.406371,-122.718793,45.406371",
     "geom:latitude":45.406371,
     "geom:longitude":-122.718793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4469 Lakeview Blvd",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404074425,
-    "wof:lastmodified":1449039783,
+    "wof:lastmodified":1466769813,
     "wof:name":"Oregonian Publishing Company",
     "wof:parent_id":85829115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-122.718793,45.406371,-122.718793,45.406371],
-  "geometry": {"coordinates":[-122.718793,45.406371],"type":"Point"}
+  "bbox": [
+    -122.718793,
+    45.406371,
+    -122.718793,
+    45.406371
+],
+  "geometry": {"coordinates":[-122.71879300000001,45.406371],"type":"Point"}
 }

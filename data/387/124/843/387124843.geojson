@@ -2,13 +2,14 @@
   "id": 387124843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.755311,45.450572,-122.755311,45.450572",
     "geom:latitude":45.450572,
     "geom:longitude":-122.755311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 SW Elmwood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387124843,
-    "wof:lastmodified":1449059621,
+    "wof:lastmodified":1466769268,
     "wof:name":"Weatherford Consulting LLC",
     "wof:parent_id":85822963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.755311,45.450572,-122.755311,45.450572],
-  "geometry": {"coordinates":[-122.755311,45.450572],"type":"Point"}
+  "bbox": [
+    -122.755311,
+    45.450572,
+    -122.755311,
+    45.450572
+],
+  "geometry": {"coordinates":[-122.75531100000001,45.450572],"type":"Point"}
 }

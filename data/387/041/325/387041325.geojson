@@ -2,13 +2,14 @@
   "id": 387041325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.813363,45.427872,-122.813363,45.427872",
     "geom:latitude":45.427872,
     "geom:longitude":-122.813363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13230 SW Walnut St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387041325,
-    "wof:lastmodified":1449057473,
+    "wof:lastmodified":1466767821,
     "wof:name":"Haystack Eductl Resource Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.813363,45.427872,-122.813363,45.427872],
+  "bbox": [
+    -122.813363,
+    45.427872,
+    -122.813363,
+    45.427872
+],
   "geometry": {"coordinates":[-122.813363,45.427872],"type":"Point"}
 }

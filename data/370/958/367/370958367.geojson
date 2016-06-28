@@ -2,13 +2,14 @@
   "id": 370958367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.990265,45.616849,-122.990265,45.616849",
     "geom:latitude":45.616849,
     "geom:longitude":-122.990265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13668 NW Pumpkin Ridge Rd",
     "sg:city":"North Plains",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370958367,
-    "wof:lastmodified":1449031739,
+    "wof:lastmodified":1466774946,
     "wof:name":"Adapt Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-122.990265,45.616849,-122.990265,45.616849],
-  "geometry": {"coordinates":[-122.990265,45.616849],"type":"Point"}
+  "bbox": [
+    -122.990265,
+    45.616849,
+    -122.990265,
+    45.616849
+],
+  "geometry": {"coordinates":[-122.99026499999999,45.616849],"type":"Point"}
 }

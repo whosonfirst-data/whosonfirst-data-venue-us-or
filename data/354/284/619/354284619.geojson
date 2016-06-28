@@ -2,13 +2,14 @@
   "id": 354284619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.901524,44.068876,-122.901524,44.068876",
     "geom:latitude":44.068876,
     "geom:longitude":-122.901524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36901 Camp Creek Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354284619,
-    "wof:lastmodified":1449067003,
+    "wof:lastmodified":1466769262,
     "wof:name":"Betty J Miller",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-122.901524,44.068876,-122.901524,44.068876],
-  "geometry": {"coordinates":[-122.901524,44.068876],"type":"Point"}
+  "bbox": [
+    -122.901524,
+    44.068876,
+    -122.901524,
+    44.068876
+],
+  "geometry": {"coordinates":[-122.90152399999999,44.068876],"type":"Point"}
 }

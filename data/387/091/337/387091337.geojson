@@ -2,13 +2,14 @@
   "id": 387091337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.316037,44.931481,-123.316037,44.931481",
     "geom:latitude":44.931481,
     "geom:longitude":-123.316037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 NW Bonanza Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387091337,
-    "wof:lastmodified":1449056489,
+    "wof:lastmodified":1466768661,
     "wof:name":"Evening Star Manor",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.316037,44.931481,-123.316037,44.931481],
-  "geometry": {"coordinates":[-123.316037,44.931481],"type":"Point"}
+  "bbox": [
+    -123.316037,
+    44.931481,
+    -123.316037,
+    44.931481
+],
+  "geometry": {"coordinates":[-123.31603699999999,44.931481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370996013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055022,44.879822,-123.055022,44.879822",
     "geom:latitude":44.879822,
     "geom:longitude":-123.055022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"389 Kevin Ct SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370996013,
-    "wof:lastmodified":1449030008,
+    "wof:lastmodified":1466774988,
     "wof:name":"Design Northwest",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-123.055022,44.879822,-123.055022,44.879822],
-  "geometry": {"coordinates":[-123.055022,44.879822],"type":"Point"}
+  "bbox": [
+    -123.055022,
+    44.879822,
+    -123.055022,
+    44.879822
+],
+  "geometry": {"coordinates":[-123.05502199999999,44.879822],"type":"Point"}
 }

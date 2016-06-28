@@ -2,13 +2,14 @@
   "id": 387172787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.07734,44.638992,-123.07734,44.638992",
     "geom:latitude":44.638992,
     "geom:longitude":-123.07734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Clay St SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387172787,
-    "wof:lastmodified":1449057637,
+    "wof:lastmodified":1466771485,
     "wof:name":"Evan Stinnett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.07734,44.638992,-123.07734,44.638992],
-  "geometry": {"coordinates":[-123.07734,44.638992],"type":"Point"}
+  "bbox": [
+    -123.07734,
+    44.638992,
+    -123.07734,
+    44.638992
+],
+  "geometry": {"coordinates":[-123.07734000000001,44.638992],"type":"Point"}
 }

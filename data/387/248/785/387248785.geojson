@@ -2,13 +2,14 @@
   "id": 387248785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.875374,45.46486,-122.875374,45.46486",
     "geom:latitude":45.46486,
     "geom:longitude":-122.875374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7694 SW Bayberry Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387248785,
-    "wof:lastmodified":1449058199,
+    "wof:lastmodified":1466771748,
     "wof:name":"Pacwest C4i Inc",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-122.875374,45.46486,-122.875374,45.46486],
-  "geometry": {"coordinates":[-122.875374,45.46486],"type":"Point"}
+  "bbox": [
+    -122.875374,
+    45.46486,
+    -122.875374,
+    45.46486
+],
+  "geometry": {"coordinates":[-122.87537399999999,45.46486],"type":"Point"}
 }

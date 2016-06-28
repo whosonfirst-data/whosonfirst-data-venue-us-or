@@ -2,13 +2,14 @@
   "id": 387067495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.801099,46.191474,-123.801099,46.191474",
     "geom:latitude":46.191474,
     "geom:longitude":-123.801099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3738 Franklin Ave",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387067495,
-    "wof:lastmodified":1449056359,
+    "wof:lastmodified":1466768260,
     "wof:name":"Uppertown B & B",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-123.801099,46.191474,-123.801099,46.191474],
-  "geometry": {"coordinates":[-123.801099,46.191474],"type":"Point"}
+  "bbox": [
+    -123.801099,
+    46.191474,
+    -123.801099,
+    46.191474
+],
+  "geometry": {"coordinates":[-123.80109899999999,46.191474],"type":"Point"}
 }

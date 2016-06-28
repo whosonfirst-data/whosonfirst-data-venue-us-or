@@ -2,13 +2,14 @@
   "id": 370640291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.923386,46.112101,-123.923386,46.112101",
     "geom:latitude":46.112101,
     "geom:longitude":-123.923386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91272 US Hwy 101",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370640291,
-    "wof:lastmodified":1449030558,
+    "wof:lastmodified":1466773224,
     "wof:name":"Pleasant View SDA School",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.923386,46.112101,-123.923386,46.112101],
-  "geometry": {"coordinates":[-123.923386,46.112101],"type":"Point"}
+  "bbox": [
+    -123.923386,
+    46.112101,
+    -123.923386,
+    46.112101
+],
+  "geometry": {"coordinates":[-123.92338599999999,46.112101],"type":"Point"}
 }

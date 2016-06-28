@@ -2,13 +2,14 @@
   "id": 387104827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091383,44.035197,-123.091383,44.035197",
     "geom:latitude":44.035197,
     "geom:longitude":-123.091383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387104827,
-    "wof:lastmodified":1449057670,
+    "wof:lastmodified":1466768885,
     "wof:name":"Allergy & Asthma Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.091383,44.035197,-123.091383,44.035197],
-  "geometry": {"coordinates":[-123.091383,44.035197],"type":"Point"}
+  "bbox": [
+    -123.091383,
+    44.035197,
+    -123.091383,
+    44.035197
+],
+  "geometry": {"coordinates":[-123.09138299999999,44.035197],"type":"Point"}
 }

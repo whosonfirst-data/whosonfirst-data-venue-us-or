@@ -2,13 +2,14 @@
   "id": 371043157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.815373,46.188617,-123.815373,46.188617",
     "geom:latitude":46.188617,
     "geom:longitude":-123.815373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Marine Dr",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371043157,
-    "wof:lastmodified":1449049829,
+    "wof:lastmodified":1466767861,
     "wof:name":"Astoria Auto Sales Seaside",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-123.815373,46.188617,-123.815373,46.188617],
-  "geometry": {"coordinates":[-123.815373,46.188617],"type":"Point"}
+  "bbox": [
+    -123.815373,
+    46.188617,
+    -123.815373,
+    46.188617
+],
+  "geometry": {"coordinates":[-123.81537299999999,46.188617],"type":"Point"}
 }

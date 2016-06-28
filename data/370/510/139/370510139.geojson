@@ -2,13 +2,14 @@
   "id": 370510139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.534072,45.68027,-121.534072,45.68027",
     "geom:latitude":45.68027,
     "geom:longitude":-121.534072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Barker Rd",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370510139,
-    "wof:lastmodified":1449031115,
+    "wof:lastmodified":1466772250,
     "wof:name":"Shepherd Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electrical"
     ]
 },
-  "bbox": [-121.534072,45.68027,-121.534072,45.68027],
-  "geometry": {"coordinates":[-121.534072,45.68027],"type":"Point"}
+  "bbox": [
+    -121.534072,
+    45.68027,
+    -121.534072,
+    45.68027
+],
+  "geometry": {"coordinates":[-121.53407199999999,45.68027],"type":"Point"}
 }

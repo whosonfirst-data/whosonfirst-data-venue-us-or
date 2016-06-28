@@ -2,13 +2,14 @@
   "id": 370769631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.131721,44.049578,-123.131721,44.049578",
     "geom:latitude":44.049578,
     "geom:longitude":-123.131721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Wilson St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370769631,
-    "wof:lastmodified":1449030219,
+    "wof:lastmodified":1466773918,
     "wof:name":"Bionorica",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-123.131721,44.049578,-123.131721,44.049578],
+  "bbox": [
+    -123.131721,
+    44.049578,
+    -123.131721,
+    44.049578
+],
   "geometry": {"coordinates":[-123.131721,44.049578],"type":"Point"}
 }

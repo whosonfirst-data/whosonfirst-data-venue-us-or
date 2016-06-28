@@ -2,13 +2,14 @@
   "id": 387628637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.445741,43.116117,-123.445741,43.116117",
     "geom:latitude":43.116117,
     "geom:longitude":-123.445741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Old Brockway Rd",
     "sg:city":"Dillard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387628637,
-    "wof:lastmodified":1449059198,
+    "wof:lastmodified":1466774084,
     "wof:name":"Rice Creek Gravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-123.445741,43.116117,-123.445741,43.116117],
+  "bbox": [
+    -123.445741,
+    43.116117,
+    -123.445741,
+    43.116117
+],
   "geometry": {"coordinates":[-123.445741,43.116117],"type":"Point"}
 }

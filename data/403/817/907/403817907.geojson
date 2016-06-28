@@ -2,13 +2,14 @@
   "id": 403817907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.200843,44.1548,-123.200843,44.1548",
     "geom:latitude":44.1548,
     "geom:longitude":-123.200843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91800 Hwy 99 S",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403817907,
-    "wof:lastmodified":1449055699,
+    "wof:lastmodified":1466770009,
     "wof:name":"Midway Auto Wreckers",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-123.200843,44.1548,-123.200843,44.1548],
-  "geometry": {"coordinates":[-123.200843,44.1548],"type":"Point"}
+  "bbox": [
+    -123.200843,
+    44.1548,
+    -123.200843,
+    44.1548
+],
+  "geometry": {"coordinates":[-123.20084300000001,44.1548],"type":"Point"}
 }

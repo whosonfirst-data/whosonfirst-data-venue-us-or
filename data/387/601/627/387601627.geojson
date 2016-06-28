@@ -2,13 +2,14 @@
   "id": 387601627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.478035,45.51544,-122.478035,45.51544",
     "geom:latitude":45.51544,
     "geom:longitude":-122.478035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17944 SE Yamhill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387601627,
-    "wof:lastmodified":1449057807,
+    "wof:lastmodified":1466774045,
     "wof:name":"Ron's Concrete Pumping",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.478035,45.51544,-122.478035,45.51544],
-  "geometry": {"coordinates":[-122.478035,45.51544],"type":"Point"}
+  "bbox": [
+    -122.478035,
+    45.51544,
+    -122.478035,
+    45.51544
+],
+  "geometry": {"coordinates":[-122.47803500000001,45.51544],"type":"Point"}
 }

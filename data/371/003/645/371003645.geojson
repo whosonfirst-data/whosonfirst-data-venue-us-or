@@ -2,13 +2,14 @@
   "id": 371003645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.412371,43.113254,-124.412371,43.113254",
     "geom:latitude":43.113254,
     "geom:longitude":-124.412371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 11th St SE",
     "sg:city":"Bandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371003645,
-    "wof:lastmodified":1449050060,
+    "wof:lastmodified":1466767192,
     "wof:name":"Bandon EZ Storage",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-124.412371,43.113254,-124.412371,43.113254],
-  "geometry": {"coordinates":[-124.412371,43.113254],"type":"Point"}
+  "bbox": [
+    -124.412371,
+    43.113254,
+    -124.412371,
+    43.113254
+],
+  "geometry": {"coordinates":[-124.41237099999999,43.113254],"type":"Point"}
 }

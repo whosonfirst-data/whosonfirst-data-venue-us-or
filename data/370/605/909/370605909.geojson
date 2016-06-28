@@ -2,13 +2,14 @@
   "id": 370605909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.061326,44.661436,-123.061326,44.661436",
     "geom:latitude":44.661436,
     "geom:longitude":-123.061326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Old Salem Rd NE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370605909,
-    "wof:lastmodified":1449030743,
+    "wof:lastmodified":1466773076,
     "wof:name":"Albany Mowing & Tilling Svc",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-123.061326,44.661436,-123.061326,44.661436],
-  "geometry": {"coordinates":[-123.061326,44.661436],"type":"Point"}
+  "bbox": [
+    -123.061326,
+    44.661436,
+    -123.061326,
+    44.661436
+],
+  "geometry": {"coordinates":[-123.06132599999999,44.661436],"type":"Point"}
 }

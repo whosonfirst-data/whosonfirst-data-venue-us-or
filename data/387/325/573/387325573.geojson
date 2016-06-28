@@ -2,13 +2,14 @@
   "id": 387325573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.695279,45.262017,-122.695279,45.262017",
     "geom:latitude":45.262017,
     "geom:longitude":-122.695279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 NW 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387325573,
-    "wof:lastmodified":1449057605,
+    "wof:lastmodified":1466772082,
     "wof:name":"Bikes N More",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-122.695279,45.262017,-122.695279,45.262017],
+  "bbox": [
+    -122.695279,
+    45.262017,
+    -122.695279,
+    45.262017
+],
   "geometry": {"coordinates":[-122.695279,45.262017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.591602,45.359443,-122.591602,45.359443",
     "geom:latitude":45.359443,
     "geom:longitude":-122.591602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Harrison St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404032583,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1466769022,
     "wof:name":"Doug Beagley Cnstr Remodelling",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.591602,45.359443,-122.591602,45.359443],
-  "geometry": {"coordinates":[-122.591602,45.359443],"type":"Point"}
+  "bbox": [
+    -122.591602,
+    45.359443,
+    -122.591602,
+    45.359443
+],
+  "geometry": {"coordinates":[-122.59160199999999,45.359443],"type":"Point"}
 }

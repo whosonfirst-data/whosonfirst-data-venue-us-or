@@ -2,13 +2,14 @@
   "id": 387777545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094137,44.098048,-123.094137,44.098048",
     "geom:latitude":44.098048,
     "geom:longitude":-123.094137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 N Delta Hwy",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387777545,
-    "wof:lastmodified":1449058115,
+    "wof:lastmodified":1466774896,
     "wof:name":"Lane County Public Works Dept",
     "wof:parent_id":85868977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.094137,44.098048,-123.094137,44.098048],
+  "bbox": [
+    -123.094137,
+    44.098048,
+    -123.094137,
+    44.098048
+],
   "geometry": {"coordinates":[-123.094137,44.098048],"type":"Point"}
 }

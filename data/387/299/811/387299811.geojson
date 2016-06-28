@@ -2,13 +2,14 @@
   "id": 387299811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.779591,45.439357,-122.779591,45.439357",
     "geom:latitude":45.439357,
     "geom:longitude":-122.779591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11130 SW Greenburg Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387299811,
-    "wof:lastmodified":1449057070,
+    "wof:lastmodified":1466771937,
     "wof:name":"Good Neighbor Center",
     "wof:parent_id":85845261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-122.779591,45.439357,-122.779591,45.439357],
+  "bbox": [
+    -122.779591,
+    45.439357,
+    -122.779591,
+    45.439357
+],
   "geometry": {"coordinates":[-122.779591,45.439357],"type":"Point"}
 }

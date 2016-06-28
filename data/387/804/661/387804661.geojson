@@ -2,13 +2,14 @@
   "id": 387804661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.300936,45.436482,-122.300936,45.436482",
     "geom:latitude":45.436482,
     "geom:longitude":-122.300936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12055 SE 352nd Ave",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387804661,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466775011,
     "wof:name":"Western Sky Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-122.300936,45.436482,-122.300936,45.436482],
-  "geometry": {"coordinates":[-122.300936,45.436482],"type":"Point"}
+  "bbox": [
+    -122.300936,
+    45.436482,
+    -122.300936,
+    45.436482
+],
+  "geometry": {"coordinates":[-122.30093599999999,45.436482],"type":"Point"}
 }

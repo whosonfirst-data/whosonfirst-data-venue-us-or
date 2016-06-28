@@ -2,13 +2,14 @@
   "id": 354273987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820862,45.505435,-122.820862,45.505435",
     "geom:latitude":45.505435,
     "geom:longitude":-122.820862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2185 SW 139th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354273987,
-    "wof:lastmodified":1449066812,
+    "wof:lastmodified":1466769072,
     "wof:name":"Kangas Murals",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.820862,45.505435,-122.820862,45.505435],
-  "geometry": {"coordinates":[-122.820862,45.505435],"type":"Point"}
+  "bbox": [
+    -122.820862,
+    45.505435,
+    -122.820862,
+    45.505435
+],
+  "geometry": {"coordinates":[-122.82086200000001,45.505435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403719773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601707,45.492711,-122.601707,45.492711",
     "geom:latitude":45.492711,
     "geom:longitude":-122.601707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4144 SE 60th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403719773,
-    "wof:lastmodified":1449054792,
+    "wof:lastmodified":1466768196,
     "wof:name":"Wopatoos",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reception"
     ]
 },
-  "bbox": [-122.601707,45.492711,-122.601707,45.492711],
+  "bbox": [
+    -122.601707,
+    45.492711,
+    -122.601707,
+    45.492711
+],
   "geometry": {"coordinates":[-122.601707,45.492711],"type":"Point"}
 }

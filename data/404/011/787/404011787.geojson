@@ -2,13 +2,14 @@
   "id": 404011787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628268,45.516569,-122.628268,45.516569",
     "geom:latitude":45.516569,
     "geom:longitude":-122.628268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 SE 35th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404011787,
-    "wof:lastmodified":1449040074,
+    "wof:lastmodified":1466768648,
     "wof:name":"Mark Helfand",
     "wof:parent_id":85893157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-122.628268,45.516569,-122.628268,45.516569],
-  "geometry": {"coordinates":[-122.628268,45.516569],"type":"Point"}
+  "bbox": [
+    -122.628268,
+    45.516569,
+    -122.628268,
+    45.516569
+],
+  "geometry": {"coordinates":[-122.62826800000001,45.516569],"type":"Point"}
 }

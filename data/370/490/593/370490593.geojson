@@ -2,13 +2,14 @@
   "id": 370490593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.516225,43.093447,-123.516225,43.093447",
     "geom:latitude":43.093447,
     "geom:longitude":-123.516225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1965 Olalla Rd",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370490593,
-    "wof:lastmodified":1449032134,
+    "wof:lastmodified":1466772150,
     "wof:name":"Custom Farming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-123.516225,43.093447,-123.516225,43.093447],
-  "geometry": {"coordinates":[-123.516225,43.093447],"type":"Point"}
+  "bbox": [
+    -123.516225,
+    43.093447,
+    -123.516225,
+    43.093447
+],
+  "geometry": {"coordinates":[-123.51622500000001,43.093447],"type":"Point"}
 }

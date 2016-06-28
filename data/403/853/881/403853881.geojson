@@ -2,13 +2,14 @@
   "id": 403853881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.005201,44.046687,-123.005201,44.046687",
     "geom:latitude":44.046687,
     "geom:longitude":-123.005201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 14th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403853881,
-    "wof:lastmodified":1449055168,
+    "wof:lastmodified":1466770850,
     "wof:name":"Springfield Vacuum & Sewing",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.005201,44.046687,-123.005201,44.046687],
+  "bbox": [
+    -123.005201,
+    44.046687,
+    -123.005201,
+    44.046687
+],
   "geometry": {"coordinates":[-123.005201,44.046687],"type":"Point"}
 }

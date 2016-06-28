@@ -2,13 +2,14 @@
   "id": 370893073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.323934,44.931654,-123.323934,44.931654",
     "geom:latitude":44.931654,
     "geom:longitude":-123.323934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 NW Brentwood Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370893073,
-    "wof:lastmodified":1449031833,
+    "wof:lastmodified":1466774519,
     "wof:name":"Wess Landscape Maintenance",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-123.323934,44.931654,-123.323934,44.931654],
-  "geometry": {"coordinates":[-123.323934,44.931654],"type":"Point"}
+  "bbox": [
+    -123.323934,
+    44.931654,
+    -123.323934,
+    44.931654
+],
+  "geometry": {"coordinates":[-123.32393399999999,44.931654],"type":"Point"}
 }

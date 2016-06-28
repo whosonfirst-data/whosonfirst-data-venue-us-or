@@ -2,13 +2,14 @@
   "id": 404131967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.25441,45.618516,-123.25441,45.618516",
     "geom:latitude":45.618516,
     "geom:longitude":-123.25441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55870 NW Wilson River Hwy",
     "sg:city":"Gales Creek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404131967,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466771216,
     "wof:name":"Martin Gales Creek Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.25441,45.618516,-123.25441,45.618516],
-  "geometry": {"coordinates":[-123.25441,45.618516],"type":"Point"}
+  "bbox": [
+    -123.25441,
+    45.618516,
+    -123.25441,
+    45.618516
+],
+  "geometry": {"coordinates":[-123.25440999999999,45.618516],"type":"Point"}
 }

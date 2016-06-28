@@ -2,13 +2,14 @@
   "id": 404048221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.117876,44.096696,-123.117876,44.096696",
     "geom:latitude":44.096696,
     "geom:longitude":-123.117876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"463 River Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404048221,
-    "wof:lastmodified":1449039435,
+    "wof:lastmodified":1466769303,
     "wof:name":"Mr Goodbrush Custom Painting",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-123.117876,44.096696,-123.117876,44.096696],
+  "bbox": [
+    -123.117876,
+    44.096696,
+    -123.117876,
+    44.096696
+],
   "geometry": {"coordinates":[-123.117876,44.096696],"type":"Point"}
 }

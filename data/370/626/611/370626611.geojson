@@ -2,13 +2,14 @@
   "id": 370626611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.065384,44.028612,-123.065384,44.028612",
     "geom:latitude":44.028612,
     "geom:longitude":-123.065384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 E 28th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370626611,
-    "wof:lastmodified":1449032473,
+    "wof:lastmodified":1466773167,
     "wof:name":"Marvin Kasow Dr PHD",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.065384,44.028612,-123.065384,44.028612],
-  "geometry": {"coordinates":[-123.065384,44.028612],"type":"Point"}
+  "bbox": [
+    -123.065384,
+    44.028612,
+    -123.065384,
+    44.028612
+],
+  "geometry": {"coordinates":[-123.06538399999999,44.028612],"type":"Point"}
 }

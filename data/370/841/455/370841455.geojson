@@ -2,13 +2,14 @@
   "id": 370841455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03808,44.944854,-123.03808,44.944854",
     "geom:latitude":44.944854,
     "geom:longitude":-123.03808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Marion St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370841455,
-    "wof:lastmodified":1449029804,
+    "wof:lastmodified":1466774272,
     "wof:name":"Salem First Baptist",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.03808,44.944854,-123.03808,44.944854],
-  "geometry": {"coordinates":[-123.03808,44.944854],"type":"Point"}
+  "bbox": [
+    -123.03808,
+    44.944854,
+    -123.03808,
+    44.944854
+],
+  "geometry": {"coordinates":[-123.03807999999999,44.944854],"type":"Point"}
 }

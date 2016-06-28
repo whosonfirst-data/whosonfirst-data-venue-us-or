@@ -2,13 +2,14 @@
   "id": 403761077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.753222,45.491485,-122.753222,45.491485",
     "geom:latitude":45.491485,
     "geom:longitude":-122.753222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 SW Sharon Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403761077,
-    "wof:lastmodified":1449055642,
+    "wof:lastmodified":1466769028,
     "wof:name":"Smalltalk Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.753222,45.491485,-122.753222,45.491485],
-  "geometry": {"coordinates":[-122.753222,45.491485],"type":"Point"}
+  "bbox": [
+    -122.753222,
+    45.491485,
+    -122.753222,
+    45.491485
+],
+  "geometry": {"coordinates":[-122.75322199999999,45.491485],"type":"Point"}
 }

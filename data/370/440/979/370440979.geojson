@@ -2,13 +2,14 @@
   "id": 370440979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.106845,44.633106,-123.106845,44.633106",
     "geom:latitude":44.633106,
     "geom:longitude":-123.106845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 6th Ave SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370440979,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1466771906,
     "wof:name":"M & M Property Management",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-123.106845,44.633106,-123.106845,44.633106],
-  "geometry": {"coordinates":[-123.106845,44.633106],"type":"Point"}
+  "bbox": [
+    -123.106845,
+    44.633106,
+    -123.106845,
+    44.633106
+],
+  "geometry": {"coordinates":[-123.10684500000001,44.633106],"type":"Point"}
 }

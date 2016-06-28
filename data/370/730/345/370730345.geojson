@@ -2,13 +2,14 @@
   "id": 370730345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.328861,44.870853,-123.328861,44.870853",
     "geom:latitude":44.870853,
     "geom:longitude":-123.328861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 Cooper Hollow Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370730345,
-    "wof:lastmodified":1449031924,
+    "wof:lastmodified":1466773683,
     "wof:name":"Oregon Chilton Sales Inc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-123.328861,44.870853,-123.328861,44.870853],
+  "bbox": [
+    -123.328861,
+    44.870853,
+    -123.328861,
+    44.870853
+],
   "geometry": {"coordinates":[-123.328861,44.870853],"type":"Point"}
 }

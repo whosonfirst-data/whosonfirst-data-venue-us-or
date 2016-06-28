@@ -2,13 +2,14 @@
   "id": 354333035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.832687,46.188014,-123.832687,46.188014",
     "geom:latitude":46.188014,
     "geom:longitude":-123.832687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 10th St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354333035,
-    "wof:lastmodified":1449067562,
+    "wof:lastmodified":1466771477,
     "wof:name":"Library Public",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-123.832687,46.188014,-123.832687,46.188014],
-  "geometry": {"coordinates":[-123.832687,46.188014],"type":"Point"}
+  "bbox": [
+    -123.832687,
+    46.188014,
+    -123.832687,
+    46.188014
+],
+  "geometry": {"coordinates":[-123.83268700000001,46.188014],"type":"Point"}
 }

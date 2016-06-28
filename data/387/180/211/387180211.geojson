@@ -2,13 +2,14 @@
   "id": 387180211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.98957,44.045928,-122.98957,44.045928",
     "geom:latitude":44.045928,
     "geom:longitude":-122.98957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387180211,
-    "wof:lastmodified":1449056267,
+    "wof:lastmodified":1466770376,
     "wof:name":"Express Care Mobility",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped"
     ]
 },
-  "bbox": [-122.98957,44.045928,-122.98957,44.045928],
+  "bbox": [
+    -122.98957,
+    44.045928,
+    -122.98957,
+    44.045928
+],
   "geometry": {"coordinates":[-122.98957,44.045928],"type":"Point"}
 }

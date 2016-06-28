@@ -2,13 +2,14 @@
   "id": 370682683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.730213,45.460224,-122.730213,45.460224",
     "geom:latitude":45.460224,
     "geom:longitude":-122.730213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5126 SW Marigold St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370682683,
-    "wof:lastmodified":1449029679,
+    "wof:lastmodified":1466773467,
     "wof:name":"Patrick Schmitt Designer Inc",
     "wof:parent_id":85856197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-122.730213,45.460224,-122.730213,45.460224],
-  "geometry": {"coordinates":[-122.730213,45.460224],"type":"Point"}
+  "bbox": [
+    -122.730213,
+    45.460224,
+    -122.730213,
+    45.460224
+],
+  "geometry": {"coordinates":[-122.73021300000001,45.460224],"type":"Point"}
 }

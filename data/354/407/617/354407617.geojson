@@ -2,13 +2,14 @@
   "id": 354407617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258789,44.56598,-123.258789,44.56598",
     "geom:latitude":44.56598,
     "geom:longitude":-123.258789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 NW 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354407617,
-    "wof:lastmodified":1449066889,
+    "wof:lastmodified":1466767137,
     "wof:name":"Peak Sports",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.258789,44.56598,-123.258789,44.56598],
-  "geometry": {"coordinates":[-123.258789,44.56598],"type":"Point"}
+  "bbox": [
+    -123.258789,
+    44.56598,
+    -123.258789,
+    44.56598
+],
+  "geometry": {"coordinates":[-123.25878899999999,44.56598],"type":"Point"}
 }

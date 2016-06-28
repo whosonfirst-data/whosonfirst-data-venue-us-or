@@ -2,13 +2,14 @@
   "id": 403753875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.872543,45.479309,-122.872543,45.479309",
     "geom:latitude":45.479309,
     "geom:longitude":-122.872543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 SW 190th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403753875,
-    "wof:lastmodified":1449054777,
+    "wof:lastmodified":1466768917,
     "wof:name":"V F W",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.872543,45.479309,-122.872543,45.479309],
-  "geometry": {"coordinates":[-122.872543,45.479309],"type":"Point"}
+  "bbox": [
+    -122.872543,
+    45.479309,
+    -122.872543,
+    45.479309
+],
+  "geometry": {"coordinates":[-122.87254299999999,45.479309],"type":"Point"}
 }

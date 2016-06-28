@@ -2,13 +2,14 @@
   "id": 370561015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.553959,45.558711,-122.553959,45.558711",
     "geom:latitude":45.558711,
     "geom:longitude":-122.553959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10534 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370561015,
-    "wof:lastmodified":1449031491,
+    "wof:lastmodified":1466772764,
     "wof:name":"Monogram Shop",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monogram"
     ]
 },
-  "bbox": [-122.553959,45.558711,-122.553959,45.558711],
-  "geometry": {"coordinates":[-122.553959,45.558711],"type":"Point"}
+  "bbox": [
+    -122.553959,
+    45.558711,
+    -122.553959,
+    45.558711
+],
+  "geometry": {"coordinates":[-122.55395900000001,45.558711],"type":"Point"}
 }

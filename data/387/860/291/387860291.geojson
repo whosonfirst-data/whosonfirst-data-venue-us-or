@@ -2,13 +2,14 @@
   "id": 387860291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111072,45.518457,-123.111072,45.518457",
     "geom:latitude":45.518457,
     "geom:longitude":-123.111072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 Council St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387860291,
-    "wof:lastmodified":1449057796,
+    "wof:lastmodified":1466775185,
     "wof:name":"Marble Law Office",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.111072,45.518457,-123.111072,45.518457],
-  "geometry": {"coordinates":[-123.111072,45.518457],"type":"Point"}
+  "bbox": [
+    -123.111072,
+    45.518457,
+    -123.111072,
+    45.518457
+],
+  "geometry": {"coordinates":[-123.11107199999999,45.518457],"type":"Point"}
 }

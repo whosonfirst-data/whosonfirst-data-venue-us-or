@@ -2,13 +2,14 @@
   "id": 387146039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030723,44.926159,-123.030723,44.926159",
     "geom:latitude":44.926159,
     "geom:longitude":-123.030723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 12th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387146039,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1466769689,
     "wof:name":"Salem Emblem Shop",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-123.030723,44.926159,-123.030723,44.926159],
-  "geometry": {"coordinates":[-123.030723,44.926159],"type":"Point"}
+  "bbox": [
+    -123.030723,
+    44.926159,
+    -123.030723,
+    44.926159
+],
+  "geometry": {"coordinates":[-123.03072299999999,44.926159],"type":"Point"}
 }

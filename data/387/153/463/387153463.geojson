@@ -2,13 +2,14 @@
   "id": 387153463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.054325,44.646499,-124.054325,44.646499",
     "geom:latitude":44.646499,
     "geom:longitude":-124.054325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 NW Grove St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387153463,
-    "wof:lastmodified":1449058731,
+    "wof:lastmodified":1466769831,
     "wof:name":"John S Robinson",
     "wof:parent_id":85868143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-124.054325,44.646499,-124.054325,44.646499],
-  "geometry": {"coordinates":[-124.054325,44.646499],"type":"Point"}
+  "bbox": [
+    -124.054325,
+    44.646499,
+    -124.054325,
+    44.646499
+],
+  "geometry": {"coordinates":[-124.05432500000001,44.646499],"type":"Point"}
 }

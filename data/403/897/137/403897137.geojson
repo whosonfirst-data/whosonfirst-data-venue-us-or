@@ -2,13 +2,14 @@
   "id": 403897137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.060876,44.939583,-123.060876,44.939583",
     "geom:latitude":44.939583,
     "geom:longitude":-123.060876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Edgewater St NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403897137,
-    "wof:lastmodified":1449055760,
+    "wof:lastmodified":1466767311,
     "wof:name":"J Shelton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.060876,44.939583,-123.060876,44.939583],
-  "geometry": {"coordinates":[-123.060876,44.939583],"type":"Point"}
+  "bbox": [
+    -123.060876,
+    44.939583,
+    -123.060876,
+    44.939583
+],
+  "geometry": {"coordinates":[-123.06087599999999,44.939583],"type":"Point"}
 }

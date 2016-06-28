@@ -2,13 +2,14 @@
   "id": 371104553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.431064,45.50603,-122.431064,45.50603",
     "geom:latitude":45.50603,
     "geom:longitude":-122.431064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 N Main Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371104553,
-    "wof:lastmodified":1449049449,
+    "wof:lastmodified":1466768873,
     "wof:name":"Grotto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.431064,45.50603,-122.431064,45.50603],
-  "geometry": {"coordinates":[-122.431064,45.50603],"type":"Point"}
+  "bbox": [
+    -122.431064,
+    45.50603,
+    -122.431064,
+    45.50603
+],
+  "geometry": {"coordinates":[-122.43106400000001,45.50603],"type":"Point"}
 }

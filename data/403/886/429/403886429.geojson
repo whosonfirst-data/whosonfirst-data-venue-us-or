@@ -2,13 +2,14 @@
   "id": 403886429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.656558,45.528638,-122.656558,45.528638",
     "geom:latitude":45.528638,
     "geom:longitude":-122.656558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NE Oregon St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403886429,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1466767133,
     "wof:name":"Oregon Board Of Investigators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-122.656558,45.528638,-122.656558,45.528638],
+  "bbox": [
+    -122.656558,
+    45.528638,
+    -122.656558,
+    45.528638
+],
   "geometry": {"coordinates":[-122.656558,45.528638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370269187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.653315,42.169326,-123.653315,42.169326",
     "geom:latitude":42.169326,
     "geom:longitude":-123.653315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 W River St",
     "sg:city":"Cave Junction",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370269187,
-    "wof:lastmodified":1449031203,
+    "wof:lastmodified":1466769242,
     "wof:name":"Job Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.653315,42.169326,-123.653315,42.169326],
-  "geometry": {"coordinates":[-123.653315,42.169326],"type":"Point"}
+  "bbox": [
+    -123.653315,
+    42.169326,
+    -123.653315,
+    42.169326
+],
+  "geometry": {"coordinates":[-123.65331500000001,42.169326],"type":"Point"}
 }

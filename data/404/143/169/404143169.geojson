@@ -2,13 +2,14 @@
   "id": 404143169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.827749,46.189128,-123.827749,46.189128",
     "geom:latitude":46.189128,
     "geom:longitude":-123.827749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Commercial St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404143169,
-    "wof:lastmodified":1449040107,
+    "wof:lastmodified":1466767129,
     "wof:name":"Area Properties Inc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.827749,46.189128,-123.827749,46.189128],
+  "bbox": [
+    -123.827749,
+    46.189128,
+    -123.827749,
+    46.189128
+],
   "geometry": {"coordinates":[-123.827749,46.189128],"type":"Point"}
 }

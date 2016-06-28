@@ -2,13 +2,14 @@
   "id": 370708283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.980715,44.959898,-122.980715,44.959898",
     "geom:latitude":44.959898,
     "geom:longitude":-122.980715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 Phipps Ln NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370708283,
-    "wof:lastmodified":1449029621,
+    "wof:lastmodified":1466773510,
     "wof:name":"Stonecreek Duplexes",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.980715,44.959898,-122.980715,44.959898],
+  "bbox": [
+    -122.980715,
+    44.959898,
+    -122.980715,
+    44.959898
+],
   "geometry": {"coordinates":[-122.980715,44.959898],"type":"Point"}
 }

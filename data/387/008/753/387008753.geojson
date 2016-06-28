@@ -2,13 +2,14 @@
   "id": 387008753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.960742,45.530687,-122.960742,45.530687",
     "geom:latitude":45.530687,
     "geom:longitude":-122.960742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 NE 21st Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387008753,
-    "wof:lastmodified":1449057291,
+    "wof:lastmodified":1466767274,
     "wof:name":"Cornell Apartments",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.960742,45.530687,-122.960742,45.530687],
+  "bbox": [
+    -122.960742,
+    45.530687,
+    -122.960742,
+    45.530687
+],
   "geometry": {"coordinates":[-122.960742,45.530687],"type":"Point"}
 }

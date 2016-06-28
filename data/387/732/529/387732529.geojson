@@ -2,13 +2,14 @@
   "id": 387732529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.471201,45.486052,-122.471201,45.486052",
     "geom:latitude":45.486052,
     "geom:longitude":-122.471201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 SW Royal Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387732529,
-    "wof:lastmodified":1449060033,
+    "wof:lastmodified":1466774692,
     "wof:name":"Haley Road",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "orchestra"
     ]
 },
-  "bbox": [-122.471201,45.486052,-122.471201,45.486052],
-  "geometry": {"coordinates":[-122.471201,45.486052],"type":"Point"}
+  "bbox": [
+    -122.471201,
+    45.486052,
+    -122.471201,
+    45.486052
+],
+  "geometry": {"coordinates":[-122.47120099999999,45.486052],"type":"Point"}
 }

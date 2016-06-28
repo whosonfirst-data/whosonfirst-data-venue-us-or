@@ -2,13 +2,14 @@
   "id": 370654823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.830029,45.847849,-122.830029,45.847849",
     "geom:latitude":45.847849,
     "geom:longitude":-122.830029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Gable Rd",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370654823,
-    "wof:lastmodified":1449030236,
+    "wof:lastmodified":1466773325,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.830029,45.847849,-122.830029,45.847849],
+  "bbox": [
+    -122.830029,
+    45.847849,
+    -122.830029,
+    45.847849
+],
   "geometry": {"coordinates":[-122.830029,45.847849],"type":"Point"}
 }

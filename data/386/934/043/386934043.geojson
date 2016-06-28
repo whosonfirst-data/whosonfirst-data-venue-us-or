@@ -2,13 +2,14 @@
   "id": 386934043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763354,45.379615,-122.763354,45.379615",
     "geom:latitude":45.379615,
     "geom:longitude":-122.763354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8495 SW Warm Spring St",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386934043,
-    "wof:lastmodified":1449028644,
+    "wof:lastmodified":1466771424,
     "wof:name":"Aladdin Cleaners",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-122.763354,45.379615,-122.763354,45.379615],
-  "geometry": {"coordinates":[-122.763354,45.379615],"type":"Point"}
+  "bbox": [
+    -122.763354,
+    45.379615,
+    -122.763354,
+    45.379615
+],
+  "geometry": {"coordinates":[-122.76335400000001,45.379615],"type":"Point"}
 }

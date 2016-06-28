@@ -2,13 +2,14 @@
   "id": 403994357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.158516,44.558287,-123.158516,44.558287",
     "geom:latitude":44.558287,
     "geom:longitude":-123.158516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33775 Oakville Rd SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403994357,
-    "wof:lastmodified":1449054690,
+    "wof:lastmodified":1466769045,
     "wof:name":"Corvallis/Albany KOA 37-176",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-123.158516,44.558287,-123.158516,44.558287],
-  "geometry": {"coordinates":[-123.158516,44.558287],"type":"Point"}
+  "bbox": [
+    -123.158516,
+    44.558287,
+    -123.158516,
+    44.558287
+],
+  "geometry": {"coordinates":[-123.15851600000001,44.558287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370319465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.789386,43.850479,-122.789386,43.850479",
     "geom:latitude":43.850479,
     "geom:longitude":-122.789386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80215 Lost Creek Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370319465,
-    "wof:lastmodified":1449030468,
+    "wof:lastmodified":1466770207,
     "wof:name":"Richard Cone",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.789386,43.850479,-122.789386,43.850479],
-  "geometry": {"coordinates":[-122.789386,43.850479],"type":"Point"}
+  "bbox": [
+    -122.789386,
+    43.850479,
+    -122.789386,
+    43.850479
+],
+  "geometry": {"coordinates":[-122.78938599999999,43.850479],"type":"Point"}
 }

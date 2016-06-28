@@ -2,13 +2,14 @@
   "id": 387843275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.585251,45.513577,-122.585251,45.513577",
     "geom:latitude":45.513577,
     "geom:longitude":-122.585251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7306 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387843275,
-    "wof:lastmodified":1449056443,
+    "wof:lastmodified":1466775140,
     "wof:name":"Clearwater West",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.585251,45.513577,-122.585251,45.513577],
+  "bbox": [
+    -122.585251,
+    45.513577,
+    -122.585251,
+    45.513577
+],
   "geometry": {"coordinates":[-122.585251,45.513577],"type":"Point"}
 }

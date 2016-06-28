@@ -2,13 +2,14 @@
   "id": 370707797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.934959,45.503745,-122.934959,45.503745",
     "geom:latitude":45.503745,
     "geom:longitude":-122.934959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 SE 47th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370707797,
-    "wof:lastmodified":1449031935,
+    "wof:lastmodified":1466773608,
     "wof:name":"Glass People",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-122.934959,45.503745,-122.934959,45.503745],
-  "geometry": {"coordinates":[-122.934959,45.503745],"type":"Point"}
+  "bbox": [
+    -122.934959,
+    45.503745,
+    -122.934959,
+    45.503745
+],
+  "geometry": {"coordinates":[-122.93495900000001,45.503745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404038777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092496,44.017078,-123.092496,44.017078",
     "geom:latitude":44.017078,
     "geom:longitude":-123.092496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404038777,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466769140,
     "wof:name":"Artist Pallet LLC",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.092496,44.017078,-123.092496,44.017078],
+  "bbox": [
+    -123.092496,
+    44.017078,
+    -123.092496,
+    44.017078
+],
   "geometry": {"coordinates":[-123.092496,44.017078],"type":"Point"}
 }

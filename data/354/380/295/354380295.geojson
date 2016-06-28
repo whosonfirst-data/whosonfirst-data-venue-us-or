@@ -2,13 +2,14 @@
   "id": 354380295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.341226,44.18266,-123.341226,44.18266",
     "geom:latitude":44.18266,
     "geom:longitude":-123.341226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25534 Hall Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354380295,
-    "wof:lastmodified":1449066706,
+    "wof:lastmodified":1466770944,
     "wof:name":"Gary L Crum & Sally J Cru",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.341226,44.18266,-123.341226,44.18266],
-  "geometry": {"coordinates":[-123.341226,44.18266],"type":"Point"}
+  "bbox": [
+    -123.341226,
+    44.18266,
+    -123.341226,
+    44.18266
+],
+  "geometry": {"coordinates":[-123.34122600000001,44.18266],"type":"Point"}
 }

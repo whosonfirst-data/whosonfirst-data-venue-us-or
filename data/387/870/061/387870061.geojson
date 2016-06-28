@@ -2,13 +2,14 @@
   "id": 387870061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.839999,45.856515,-122.839999,45.856515",
     "geom:latitude":45.856515,
     "geom:longitude":-122.839999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35353 Douglas Dr",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387870061,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1466775206,
     "wof:name":"Woodys Golf Club Service",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.839999,45.856515,-122.839999,45.856515],
-  "geometry": {"coordinates":[-122.839999,45.856515],"type":"Point"}
+  "bbox": [
+    -122.839999,
+    45.856515,
+    -122.839999,
+    45.856515
+],
+  "geometry": {"coordinates":[-122.83999900000001,45.856515],"type":"Point"}
 }

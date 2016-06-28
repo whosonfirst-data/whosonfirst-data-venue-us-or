@@ -2,13 +2,14 @@
   "id": 403936549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.687589,45.531345,-122.687589,45.531345",
     "geom:latitude":45.531345,
     "geom:longitude":-122.687589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 NW 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403936549,
-    "wof:lastmodified":1449055078,
+    "wof:lastmodified":1466768019,
     "wof:name":"Food Services Of America",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-122.687589,45.531345,-122.687589,45.531345],
+  "bbox": [
+    -122.687589,
+    45.531345,
+    -122.687589,
+    45.531345
+],
   "geometry": {"coordinates":[-122.687589,45.531345],"type":"Point"}
 }

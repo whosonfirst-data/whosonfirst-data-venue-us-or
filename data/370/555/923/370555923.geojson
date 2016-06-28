@@ -2,13 +2,14 @@
   "id": 370555923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.791722,44.079731,-123.791722,44.079731",
     "geom:latitude":44.079731,
     "geom:longitude":-123.791722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13987 State Hwy 36",
     "sg:city":"Swisshome",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370555923,
-    "wof:lastmodified":1449031986,
+    "wof:lastmodified":1466772875,
     "wof:name":"Camp Indiola",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.791722,44.079731,-123.791722,44.079731],
-  "geometry": {"coordinates":[-123.791722,44.079731],"type":"Point"}
+  "bbox": [
+    -123.791722,
+    44.079731,
+    -123.791722,
+    44.079731
+],
+  "geometry": {"coordinates":[-123.79172199999999,44.079731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387402045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11545,44.046558,-123.11545,44.046558",
     "geom:latitude":44.046558,
     "geom:longitude":-123.11545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 W 12th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387402045,
-    "wof:lastmodified":1449057319,
+    "wof:lastmodified":1466772611,
     "wof:name":"Eugene Hearing & Speech Center",
     "wof:parent_id":85877247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "speech"
     ]
 },
-  "bbox": [-123.11545,44.046558,-123.11545,44.046558],
+  "bbox": [
+    -123.11545,
+    44.046558,
+    -123.11545,
+    44.046558
+],
   "geometry": {"coordinates":[-123.11545,44.046558],"type":"Point"}
 }

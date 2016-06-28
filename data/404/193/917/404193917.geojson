@@ -2,13 +2,14 @@
   "id": 404193917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.324773,42.429491,-123.324773,42.429491",
     "geom:latitude":42.429491,
     "geom:longitude":-123.324773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Vista Dr",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404193917,
-    "wof:lastmodified":1449039212,
+    "wof:lastmodified":1466768000,
     "wof:name":"Marty Jaramillo Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "residential"
     ]
 },
-  "bbox": [-123.324773,42.429491,-123.324773,42.429491],
-  "geometry": {"coordinates":[-123.324773,42.429491],"type":"Point"}
+  "bbox": [
+    -123.324773,
+    42.429491,
+    -123.324773,
+    42.429491
+],
+  "geometry": {"coordinates":[-123.32477299999999,42.429491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387488469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.86316,42.341063,-122.86316,42.341063",
     "geom:latitude":42.341063,
     "geom:longitude":-122.86316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E McAndrews Rd",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387488469,
-    "wof:lastmodified":1449059824,
+    "wof:lastmodified":1466773081,
     "wof:name":"Country Mutual",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.86316,42.341063,-122.86316,42.341063],
-  "geometry": {"coordinates":[-122.86316,42.341063],"type":"Point"}
+  "bbox": [
+    -122.86316,
+    42.341063,
+    -122.86316,
+    42.341063
+],
+  "geometry": {"coordinates":[-122.86315999999999,42.341063],"type":"Point"}
 }

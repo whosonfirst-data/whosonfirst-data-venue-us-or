@@ -2,13 +2,14 @@
   "id": 370229885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801589,45.86574,-122.801589,45.86574",
     "geom:latitude":45.86574,
     "geom:longitude":-122.801589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N 3rd St",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370229885,
-    "wof:lastmodified":1449031797,
+    "wof:lastmodified":1466768532,
     "wof:name":"Deborah Anderson",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.801589,45.86574,-122.801589,45.86574],
-  "geometry": {"coordinates":[-122.801589,45.86574],"type":"Point"}
+  "bbox": [
+    -122.801589,
+    45.86574,
+    -122.801589,
+    45.86574
+],
+  "geometry": {"coordinates":[-122.80158900000001,45.86574],"type":"Point"}
 }

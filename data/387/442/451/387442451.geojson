@@ -2,13 +2,14 @@
   "id": 387442451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.608972,45.516627,-122.608972,45.516627",
     "geom:latitude":45.516627,
     "geom:longitude":-122.608972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5219 SE Belmont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387442451,
-    "wof:lastmodified":1449057779,
+    "wof:lastmodified":1466772999,
     "wof:name":"Neil & Stiehl Properties",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.608972,45.516627,-122.608972,45.516627],
-  "geometry": {"coordinates":[-122.608972,45.516627],"type":"Point"}
+  "bbox": [
+    -122.608972,
+    45.516627,
+    -122.608972,
+    45.516627
+],
+  "geometry": {"coordinates":[-122.60897199999999,45.516627],"type":"Point"}
 }

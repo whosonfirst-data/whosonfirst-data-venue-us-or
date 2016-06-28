@@ -2,13 +2,14 @@
   "id": 370239613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.468011,45.508019,-122.468011,45.508019",
     "geom:latitude":45.508019,
     "geom:longitude":-122.468011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 SE 190th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370239613,
-    "wof:lastmodified":1449029413,
+    "wof:lastmodified":1466768702,
     "wof:name":"TNT Rv Storage",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-122.468011,45.508019,-122.468011,45.508019],
+  "bbox": [
+    -122.468011,
+    45.508019,
+    -122.468011,
+    45.508019
+],
   "geometry": {"coordinates":[-122.468011,45.508019],"type":"Point"}
 }

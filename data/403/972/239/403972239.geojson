@@ -2,13 +2,14 @@
   "id": 403972239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652048,45.531977,-122.652048,45.531977",
     "geom:latitude":45.531977,
     "geom:longitude":-122.652048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Lloyd Center",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403972239,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466768653,
     "wof:name":"Lloyd Alteration Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alteration"
     ]
 },
-  "bbox": [-122.652048,45.531977,-122.652048,45.531977],
-  "geometry": {"coordinates":[-122.652048,45.531977],"type":"Point"}
+  "bbox": [
+    -122.652048,
+    45.531977,
+    -122.652048,
+    45.531977
+],
+  "geometry": {"coordinates":[-122.65204799999999,45.531977],"type":"Point"}
 }

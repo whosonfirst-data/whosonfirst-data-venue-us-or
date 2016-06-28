@@ -2,13 +2,14 @@
   "id": 387595141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.56431,45.466905,-122.56431,45.466905",
     "geom:latitude":45.466905,
     "geom:longitude":-122.56431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7708 SE Aspen Summit Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387595141,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1466773781,
     "wof:name":"R & B Inc",
     "wof:parent_id":85854775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-122.56431,45.466905,-122.56431,45.466905],
-  "geometry": {"coordinates":[-122.56431,45.466905],"type":"Point"}
+  "bbox": [
+    -122.56431,
+    45.466905,
+    -122.56431,
+    45.466905
+],
+  "geometry": {"coordinates":[-122.56431000000001,45.466905],"type":"Point"}
 }

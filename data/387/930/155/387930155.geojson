@@ -2,13 +2,14 @@
   "id": 387930155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.315627,44.533757,-120.315627,44.533757",
     "geom:latitude":44.533757,
     "geom:longitude":-120.315627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31444 W Branch Rd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387930155,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1466775404,
     "wof:name":"Don Geer Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-120.315627,44.533757,-120.315627,44.533757],
-  "geometry": {"coordinates":[-120.315627,44.533757],"type":"Point"}
+  "bbox": [
+    -120.315627,
+    44.533757,
+    -120.315627,
+    44.533757
+],
+  "geometry": {"coordinates":[-120.31562700000001,44.533757],"type":"Point"}
 }

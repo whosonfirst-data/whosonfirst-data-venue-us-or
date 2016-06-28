@@ -2,13 +2,14 @@
   "id": 387821365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844314,45.457139,-123.844314,45.457139",
     "geom:latitude":45.457139,
     "geom:longitude":-123.844314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 2nd St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387821365,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1466775012,
     "wof:name":"Headlight Herald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-123.844314,45.457139,-123.844314,45.457139],
+  "bbox": [
+    -123.844314,
+    45.457139,
+    -123.844314,
+    45.457139
+],
   "geometry": {"coordinates":[-123.844314,45.457139],"type":"Point"}
 }

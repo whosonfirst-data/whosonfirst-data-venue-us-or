@@ -2,13 +2,14 @@
   "id": 387450107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.665523,45.58243,-122.665523,45.58243",
     "geom:latitude":45.58243,
     "geom:longitude":-122.665523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 NE Columbia Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387450107,
-    "wof:lastmodified":1449059341,
+    "wof:lastmodified":1466772803,
     "wof:name":"Bonneau Products Co",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-122.665523,45.58243,-122.665523,45.58243],
-  "geometry": {"coordinates":[-122.665523,45.58243],"type":"Point"}
+  "bbox": [
+    -122.665523,
+    45.58243,
+    -122.665523,
+    45.58243
+],
+  "geometry": {"coordinates":[-122.66552299999999,45.58243],"type":"Point"}
 }

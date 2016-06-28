@@ -2,13 +2,14 @@
   "id": 370170509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109766,44.071264,-123.109766,44.071264",
     "geom:latitude":44.071264,
     "geom:longitude":-123.109766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Valley River Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370170509,
-    "wof:lastmodified":1449029404,
+    "wof:lastmodified":1466771439,
     "wof:name":"PW Eagle Inc",
     "wof:parent_id":85877251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-123.109766,44.071264,-123.109766,44.071264],
-  "geometry": {"coordinates":[-123.109766,44.071264],"type":"Point"}
+  "bbox": [
+    -123.109766,
+    44.071264,
+    -123.109766,
+    44.071264
+],
+  "geometry": {"coordinates":[-123.10976599999999,44.071264],"type":"Point"}
 }

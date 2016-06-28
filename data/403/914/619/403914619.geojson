@@ -2,13 +2,14 @@
   "id": 403914619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.173196,44.205175,-123.173196,44.205175",
     "geom:latitude":44.205175,
     "geom:longitude":-123.173196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93667 River Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403914619,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1466767617,
     "wof:name":"Tom Sisco Builder",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.173196,44.205175,-123.173196,44.205175],
+  "bbox": [
+    -123.173196,
+    44.205175,
+    -123.173196,
+    44.205175
+],
   "geometry": {"coordinates":[-123.173196,44.205175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403722977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.16818,45.677113,-123.16818,45.677113",
     "geom:latitude":45.677113,
     "geom:longitude":-123.16818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47775 NW Pongratz Rd",
     "sg:city":"Banks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403722977,
-    "wof:lastmodified":1449055098,
+    "wof:lastmodified":1466768269,
     "wof:name":"Coyote Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-123.16818,45.677113,-123.16818,45.677113],
-  "geometry": {"coordinates":[-123.16818,45.677113],"type":"Point"}
+  "bbox": [
+    -123.16818,
+    45.677113,
+    -123.16818,
+    45.677113
+],
+  "geometry": {"coordinates":[-123.16818000000001,45.677113],"type":"Point"}
 }

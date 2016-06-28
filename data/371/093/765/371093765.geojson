@@ -2,13 +2,14 @@
   "id": 371093765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.770689,45.145679,-122.770689,45.145679",
     "geom:latitude":45.145679,
     "geom:longitude":-122.770689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 State Hwy 211",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371093765,
-    "wof:lastmodified":1449049062,
+    "wof:lastmodified":1466768692,
     "wof:name":"Country Farm",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-122.770689,45.145679,-122.770689,45.145679],
+  "bbox": [
+    -122.770689,
+    45.145679,
+    -122.770689,
+    45.145679
+],
   "geometry": {"coordinates":[-122.770689,45.145679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354332643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.356079,43.226704,-123.356079,43.226704",
     "geom:latitude":43.226704,
     "geom:longitude":-123.356079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 NW Garden Valley Blvd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354332643,
-    "wof:lastmodified":1449066899,
+    "wof:lastmodified":1466769936,
     "wof:name":"Brutke's Wagon Wheel",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.356079,43.226704,-123.356079,43.226704],
-  "geometry": {"coordinates":[-123.356079,43.226704],"type":"Point"}
+  "bbox": [
+    -123.356079,
+    43.226704,
+    -123.356079,
+    43.226704
+],
+  "geometry": {"coordinates":[-123.35607899999999,43.226704],"type":"Point"}
 }

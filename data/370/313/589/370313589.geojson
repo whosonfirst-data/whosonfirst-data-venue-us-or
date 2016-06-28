@@ -2,13 +2,14 @@
   "id": 370313589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.510213,43.245123,-123.510213,43.245123",
     "geom:latitude":43.245123,
     "geom:longitude":-123.510213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 Doerner Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370313589,
-    "wof:lastmodified":1449029165,
+    "wof:lastmodified":1466770086,
     "wof:name":"Wt 2 Horse Ranch",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-123.510213,43.245123,-123.510213,43.245123],
-  "geometry": {"coordinates":[-123.510213,43.245123],"type":"Point"}
+  "bbox": [
+    -123.510213,
+    43.245123,
+    -123.510213,
+    43.245123
+],
+  "geometry": {"coordinates":[-123.51021299999999,43.245123],"type":"Point"}
 }

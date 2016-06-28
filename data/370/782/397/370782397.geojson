@@ -2,13 +2,14 @@
   "id": 370782397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.850399,45.625858,-123.850399,45.625858",
     "geom:latitude":45.625858,
     "geom:longitude":-123.850399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23765 Miami Foley Rd",
     "sg:city":"Nehalem",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370782397,
-    "wof:lastmodified":1449029051,
+    "wof:lastmodified":1466773989,
     "wof:name":"Bay Welding & Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-123.850399,45.625858,-123.850399,45.625858],
+  "bbox": [
+    -123.850399,
+    45.625858,
+    -123.850399,
+    45.625858
+],
   "geometry": {"coordinates":[-123.850399,45.625858],"type":"Point"}
 }

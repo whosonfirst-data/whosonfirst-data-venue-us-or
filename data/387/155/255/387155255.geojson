@@ -2,13 +2,14 @@
   "id": 387155255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537072,45.479758,-122.537072,45.479758",
     "geom:latitude":45.479758,
     "geom:longitude":-122.537072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5918 SE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387155255,
-    "wof:lastmodified":1449059254,
+    "wof:lastmodified":1466769861,
     "wof:name":"Mike Mc Bee Excavating",
     "wof:parent_id":85821523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.537072,45.479758,-122.537072,45.479758],
-  "geometry": {"coordinates":[-122.537072,45.479758],"type":"Point"}
+  "bbox": [
+    -122.537072,
+    45.479758,
+    -122.537072,
+    45.479758
+],
+  "geometry": {"coordinates":[-122.53707199999999,45.479758],"type":"Point"}
 }

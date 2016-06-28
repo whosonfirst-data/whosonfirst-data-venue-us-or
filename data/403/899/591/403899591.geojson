@@ -2,13 +2,14 @@
   "id": 403899591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.740985,45.404328,-122.740985,45.404328",
     "geom:latitude":45.404328,
     "geom:longitude":-122.740985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6235 Washington Ct",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403899591,
-    "wof:lastmodified":1449055879,
+    "wof:lastmodified":1466767354,
     "wof:name":"Joy of Living",
     "wof:parent_id":85827361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.740985,45.404328,-122.740985,45.404328],
-  "geometry": {"coordinates":[-122.740985,45.404328],"type":"Point"}
+  "bbox": [
+    -122.740985,
+    45.404328,
+    -122.740985,
+    45.404328
+],
+  "geometry": {"coordinates":[-122.74098499999999,45.404328],"type":"Point"}
 }

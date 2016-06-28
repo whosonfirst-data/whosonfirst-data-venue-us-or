@@ -2,13 +2,14 @@
   "id": 404102135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.029705,46.011493,-123.029705,46.011493",
     "geom:latitude":46.011493,
     "geom:longitude":-123.029705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70148 Fern Hill Rd",
     "sg:city":"Rainier",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404102135,
-    "wof:lastmodified":1449040249,
+    "wof:lastmodified":1466770630,
     "wof:name":"Bgw Enterprises",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.029705,46.011493,-123.029705,46.011493],
-  "geometry": {"coordinates":[-123.029705,46.011493],"type":"Point"}
+  "bbox": [
+    -123.029705,
+    46.011493,
+    -123.029705,
+    46.011493
+],
+  "geometry": {"coordinates":[-123.02970500000001,46.011493],"type":"Point"}
 }

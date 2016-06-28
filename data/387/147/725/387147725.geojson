@@ -2,13 +2,14 @@
   "id": 387147725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011067,45.277839,-123.011067,45.277839",
     "geom:latitude":45.277839,
     "geom:longitude":-123.011067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Hwy 99W",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387147725,
-    "wof:lastmodified":1449059499,
+    "wof:lastmodified":1466769718,
     "wof:name":"City Center Food Mart",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-123.011067,45.277839,-123.011067,45.277839],
+  "bbox": [
+    -123.011067,
+    45.277839,
+    -123.011067,
+    45.277839
+],
   "geometry": {"coordinates":[-123.011067,45.277839],"type":"Point"}
 }

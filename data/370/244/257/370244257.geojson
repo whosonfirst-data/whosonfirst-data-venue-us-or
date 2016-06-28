@@ -2,13 +2,14 @@
   "id": 370244257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.29377,44.111521,-121.29377,44.111521",
     "geom:latitude":44.111521,
     "geom:longitude":-121.29377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63615 N Hwy 97",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370244257,
-    "wof:lastmodified":1449030429,
+    "wof:lastmodified":1466768782,
     "wof:name":"Bend Kampground",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trailer"
     ]
 },
-  "bbox": [-121.29377,44.111521,-121.29377,44.111521],
-  "geometry": {"coordinates":[-121.29377,44.111521],"type":"Point"}
+  "bbox": [
+    -121.29377,
+    44.111521,
+    -121.29377,
+    44.111521
+],
+  "geometry": {"coordinates":[-121.29376999999999,44.111521],"type":"Point"}
 }

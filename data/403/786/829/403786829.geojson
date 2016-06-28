@@ -2,13 +2,14 @@
   "id": 403786829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091288,44.048928,-123.091288,44.048928",
     "geom:latitude":44.048928,
     "geom:longitude":-123.091288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Oak St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403786829,
-    "wof:lastmodified":1449054803,
+    "wof:lastmodified":1466769445,
     "wof:name":"Tiffanys Drug",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-123.091288,44.048928,-123.091288,44.048928],
-  "geometry": {"coordinates":[-123.091288,44.048928],"type":"Point"}
+  "bbox": [
+    -123.091288,
+    44.048928,
+    -123.091288,
+    44.048928
+],
+  "geometry": {"coordinates":[-123.09128800000001,44.048928],"type":"Point"}
 }

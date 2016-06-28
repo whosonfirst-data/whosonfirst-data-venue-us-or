@@ -2,13 +2,14 @@
   "id": 370238101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.646386,45.540318,-122.646386,45.540318",
     "geom:latitude":45.540318,
     "geom:longitude":-122.646386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 NE 19th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370238101,
-    "wof:lastmodified":1449030350,
+    "wof:lastmodified":1466768675,
     "wof:name":"David Spritzer Architect Inc",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-122.646386,45.540318,-122.646386,45.540318],
-  "geometry": {"coordinates":[-122.646386,45.540318],"type":"Point"}
+  "bbox": [
+    -122.646386,
+    45.540318,
+    -122.646386,
+    45.540318
+],
+  "geometry": {"coordinates":[-122.64638600000001,45.540318],"type":"Point"}
 }

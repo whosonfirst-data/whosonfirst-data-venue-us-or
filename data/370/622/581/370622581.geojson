@@ -2,13 +2,14 @@
   "id": 370622581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.776255,45.006188,-122.776255,45.006188",
     "geom:latitude":45.006188,
     "geom:longitude":-122.776255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Rock St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370622581,
-    "wof:lastmodified":1449031855,
+    "wof:lastmodified":1466773155,
     "wof:name":"Guess Again",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-122.776255,45.006188,-122.776255,45.006188],
-  "geometry": {"coordinates":[-122.776255,45.006188],"type":"Point"}
+  "bbox": [
+    -122.776255,
+    45.006188,
+    -122.776255,
+    45.006188
+],
+  "geometry": {"coordinates":[-122.77625500000001,45.006188],"type":"Point"}
 }

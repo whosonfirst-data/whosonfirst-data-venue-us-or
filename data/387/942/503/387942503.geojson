@@ -2,13 +2,14 @@
   "id": 387942503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.518324,45.496056,-122.518324,45.496056",
     "geom:latitude":45.496056,
     "geom:longitude":-122.518324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 SE 141st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387942503,
-    "wof:lastmodified":1449057840,
+    "wof:lastmodified":1466775365,
     "wof:name":"Rainbow Trucking",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.518324,45.496056,-122.518324,45.496056],
-  "geometry": {"coordinates":[-122.518324,45.496056],"type":"Point"}
+  "bbox": [
+    -122.518324,
+    45.496056,
+    -122.518324,
+    45.496056
+],
+  "geometry": {"coordinates":[-122.51832400000001,45.496056],"type":"Point"}
 }

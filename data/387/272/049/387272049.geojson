@@ -2,13 +2,14 @@
   "id": 387272049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.221359,43.382704,-124.221359,43.382704",
     "geom:latitude":43.382704,
     "geom:longitude":-124.221359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Pine Ave",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387272049,
-    "wof:lastmodified":1449059657,
+    "wof:lastmodified":1466771725,
     "wof:name":"TP Freight Lines",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-124.221359,43.382704,-124.221359,43.382704],
-  "geometry": {"coordinates":[-124.221359,43.382704],"type":"Point"}
+  "bbox": [
+    -124.221359,
+    43.382704,
+    -124.221359,
+    43.382704
+],
+  "geometry": {"coordinates":[-124.22135900000001,43.382704],"type":"Point"}
 }

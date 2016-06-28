@@ -2,13 +2,14 @@
   "id": 387291497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.55475,43.205121,-123.55475,43.205121",
     "geom:latitude":43.205121,
     "geom:longitude":-123.55475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Touchstone Ln",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387291497,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1466772003,
     "wof:name":"Custom Gunsmithing & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gunsmith"
     ]
 },
-  "bbox": [-123.55475,43.205121,-123.55475,43.205121],
+  "bbox": [
+    -123.55475,
+    43.205121,
+    -123.55475,
+    43.205121
+],
   "geometry": {"coordinates":[-123.55475,43.205121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387487771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.081427,45.021843,-123.081427,45.021843",
     "geom:latitude":45.021843,
     "geom:longitude":-123.081427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 Lincoln Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387487771,
-    "wof:lastmodified":1449057341,
+    "wof:lastmodified":1466773260,
     "wof:name":"Westside Ornamentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grower"
     ]
 },
-  "bbox": [-123.081427,45.021843,-123.081427,45.021843],
-  "geometry": {"coordinates":[-123.081427,45.021843],"type":"Point"}
+  "bbox": [
+    -123.081427,
+    45.021843,
+    -123.081427,
+    45.021843
+],
+  "geometry": {"coordinates":[-123.08142700000001,45.021843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387642017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.72213,45.420497,-122.72213,45.420497",
     "geom:latitude":45.420497,
     "geom:longitude":-122.72213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4797 Parkview Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387642017,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1466774288,
     "wof:name":"Boss Painting",
     "wof:parent_id":85829115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.72213,45.420497,-122.72213,45.420497],
-  "geometry": {"coordinates":[-122.72213,45.420497],"type":"Point"}
+  "bbox": [
+    -122.72213,
+    45.420497,
+    -122.72213,
+    45.420497
+],
+  "geometry": {"coordinates":[-122.72213000000001,45.420497],"type":"Point"}
 }

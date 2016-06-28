@@ -2,13 +2,14 @@
   "id": 387657723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.054966,45.520141,-123.054966,45.520141",
     "geom:latitude":45.520141,
     "geom:longitude":-123.054966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 E Baseline St",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387657723,
-    "wof:lastmodified":1449056536,
+    "wof:lastmodified":1466774126,
     "wof:name":"Betty's Dog Grooming",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-123.054966,45.520141,-123.054966,45.520141],
-  "geometry": {"coordinates":[-123.054966,45.520141],"type":"Point"}
+  "bbox": [
+    -123.054966,
+    45.520141,
+    -123.054966,
+    45.520141
+],
+  "geometry": {"coordinates":[-123.05496599999999,45.520141],"type":"Point"}
 }

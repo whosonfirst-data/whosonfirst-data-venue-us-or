@@ -2,13 +2,14 @@
   "id": 403963249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.878847,45.47553,-122.878847,45.47553",
     "geom:latitude":45.47553,
     "geom:longitude":-122.878847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19753 SW Murphy St",
     "sg:city":"Aloha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403963249,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466768498,
     "wof:name":"Rons Yard Svc",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.878847,45.47553,-122.878847,45.47553],
-  "geometry": {"coordinates":[-122.878847,45.47553],"type":"Point"}
+  "bbox": [
+    -122.878847,
+    45.47553,
+    -122.878847,
+    45.47553
+],
+  "geometry": {"coordinates":[-122.87884699999999,45.47553],"type":"Point"}
 }

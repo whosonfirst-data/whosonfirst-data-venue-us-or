@@ -2,13 +2,14 @@
   "id": 403787033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.802018,44.802655,-122.802018,44.802655",
     "geom:latitude":44.802655,
     "geom:longitude":-122.802018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 W Locust St",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403787033,
-    "wof:lastmodified":1449055239,
+    "wof:lastmodified":1466769445,
     "wof:name":"Stayton Union High School",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-122.802018,44.802655,-122.802018,44.802655],
+  "bbox": [
+    -122.802018,
+    44.802655,
+    -122.802018,
+    44.802655
+],
   "geometry": {"coordinates":[-122.802018,44.802655],"type":"Point"}
 }

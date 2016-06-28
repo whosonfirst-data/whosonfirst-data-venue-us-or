@@ -2,13 +2,14 @@
   "id": 370723199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.52576,45.43023,-122.52576,45.43023",
     "geom:latitude":45.43023,
     "geom:longitude":-122.52576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13355 SE Regency View Dr",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370723199,
-    "wof:lastmodified":1449031052,
+    "wof:lastmodified":1466773564,
     "wof:name":"C&M Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.52576,45.43023,-122.52576,45.43023],
-  "geometry": {"coordinates":[-122.52576,45.43023],"type":"Point"}
+  "bbox": [
+    -122.52576,
+    45.43023,
+    -122.52576,
+    45.43023
+],
+  "geometry": {"coordinates":[-122.52576000000001,45.43023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403764521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.774329,45.462684,-123.774329,45.462684",
     "geom:latitude":45.462684,
     "geom:longitude":-123.774329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Vista Ave",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403764521,
-    "wof:lastmodified":1449055888,
+    "wof:lastmodified":1466769091,
     "wof:name":"J R Amick's Guide Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fishing"
     ]
 },
-  "bbox": [-123.774329,45.462684,-123.774329,45.462684],
-  "geometry": {"coordinates":[-123.774329,45.462684],"type":"Point"}
+  "bbox": [
+    -123.774329,
+    45.462684,
+    -123.774329,
+    45.462684
+],
+  "geometry": {"coordinates":[-123.77432899999999,45.462684],"type":"Point"}
 }

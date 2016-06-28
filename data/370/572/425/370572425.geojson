@@ -2,13 +2,14 @@
   "id": 370572425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.708002,45.459869,-122.708002,45.459869",
     "geom:latitude":45.459869,
     "geom:longitude":-122.708002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9045 SW Barbur Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370572425,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1466772852,
     "wof:name":"Resources In Omnimatrix Health",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.708002,45.459869,-122.708002,45.459869],
-  "geometry": {"coordinates":[-122.708002,45.459869],"type":"Point"}
+  "bbox": [
+    -122.708002,
+    45.459869,
+    -122.708002,
+    45.459869
+],
+  "geometry": {"coordinates":[-122.70800199999999,45.459869],"type":"Point"}
 }

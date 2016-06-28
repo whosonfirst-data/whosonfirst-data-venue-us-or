@@ -2,13 +2,14 @@
   "id": 387343225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.173845,43.575684,-124.173845,43.575684",
     "geom:latitude":43.575684,
     "geom:longitude":-124.173845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S 9th St",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387343225,
-    "wof:lastmodified":1449058810,
+    "wof:lastmodified":1466772190,
     "wof:name":"Lakeside Fire Dept",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-124.173845,43.575684,-124.173845,43.575684],
+  "bbox": [
+    -124.173845,
+    43.575684,
+    -124.173845,
+    43.575684
+],
   "geometry": {"coordinates":[-124.173845,43.575684],"type":"Point"}
 }

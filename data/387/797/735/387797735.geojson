@@ -2,13 +2,14 @@
   "id": 387797735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.277453,44.578691,-123.277453,44.578691",
     "geom:latitude":44.578691,
     "geom:longitude":-123.277453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 NW Grant Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387797735,
-    "wof:lastmodified":1449059540,
+    "wof:lastmodified":1466775004,
     "wof:name":"Oak Creek Counseling",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-123.277453,44.578691,-123.277453,44.578691],
-  "geometry": {"coordinates":[-123.277453,44.578691],"type":"Point"}
+  "bbox": [
+    -123.277453,
+    44.578691,
+    -123.277453,
+    44.578691
+],
+  "geometry": {"coordinates":[-123.27745299999999,44.578691],"type":"Point"}
 }

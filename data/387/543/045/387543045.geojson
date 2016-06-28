@@ -2,13 +2,14 @@
   "id": 387543045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.677455,45.51891,-122.677455,45.51891",
     "geom:latitude":45.51891,
     "geom:longitude":-122.677455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 SW 5th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387543045,
-    "wof:lastmodified":1449056845,
+    "wof:lastmodified":1466773564,
     "wof:name":"Battelle Pacific NW Nat Lab",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-122.677455,45.51891,-122.677455,45.51891],
-  "geometry": {"coordinates":[-122.677455,45.51891],"type":"Point"}
+  "bbox": [
+    -122.677455,
+    45.51891,
+    -122.677455,
+    45.51891
+],
+  "geometry": {"coordinates":[-122.67745499999999,45.51891],"type":"Point"}
 }

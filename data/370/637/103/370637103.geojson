@@ -2,13 +2,14 @@
   "id": 370637103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.112123,45.522165,-123.112123,45.522165",
     "geom:latitude":45.522165,
     "geom:longitude":-123.112123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Main St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370637103,
-    "wof:lastmodified":1449029067,
+    "wof:lastmodified":1466773296,
     "wof:name":"Pic-A-Deli Station",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-123.112123,45.522165,-123.112123,45.522165],
+  "bbox": [
+    -123.112123,
+    45.522165,
+    -123.112123,
+    45.522165
+],
   "geometry": {"coordinates":[-123.112123,45.522165],"type":"Point"}
 }

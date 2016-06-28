@@ -2,13 +2,14 @@
   "id": 370737795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.100417,44.068859,-123.100417,44.068859",
     "geom:latitude":44.068859,
     "geom:longitude":-123.100417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Willagillespie Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370737795,
-    "wof:lastmodified":1449029855,
+    "wof:lastmodified":1466773736,
     "wof:name":"On The Air Production",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-123.100417,44.068859,-123.100417,44.068859],
-  "geometry": {"coordinates":[-123.100417,44.068859],"type":"Point"}
+  "bbox": [
+    -123.100417,
+    44.068859,
+    -123.100417,
+    44.068859
+],
+  "geometry": {"coordinates":[-123.10041699999999,44.068859],"type":"Point"}
 }

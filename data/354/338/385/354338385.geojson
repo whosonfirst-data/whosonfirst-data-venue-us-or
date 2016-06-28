@@ -2,13 +2,14 @@
   "id": 354338385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.671592,45.548189,-122.671592,45.548189",
     "geom:latitude":45.548189,
     "geom:longitude":-122.671592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N Fremont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354338385,
-    "wof:lastmodified":1449066505,
+    "wof:lastmodified":1466770109,
     "wof:name":"David Moeser Services",
     "wof:parent_id":85802599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.671592,45.548189,-122.671592,45.548189],
+  "bbox": [
+    -122.671592,
+    45.548189,
+    -122.671592,
+    45.548189
+],
   "geometry": {"coordinates":[-122.671592,45.548189],"type":"Point"}
 }

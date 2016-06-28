@@ -2,13 +2,14 @@
   "id": 354287513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.307546,44.549433,-123.307546,44.549433",
     "geom:latitude":44.549433,
     "geom:longitude":-123.307546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5076 SW Technology Loop",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354287513,
-    "wof:lastmodified":1449066042,
+    "wof:lastmodified":1466769360,
     "wof:name":"Healthnow",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-123.307546,44.549433,-123.307546,44.549433],
+  "bbox": [
+    -123.307546,
+    44.549433,
+    -123.307546,
+    44.549433
+],
   "geometry": {"coordinates":[-123.307546,44.549433],"type":"Point"}
 }

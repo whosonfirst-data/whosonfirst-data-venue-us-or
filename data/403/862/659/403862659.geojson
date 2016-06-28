@@ -2,13 +2,14 @@
   "id": 403862659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.645401,45.512082,-122.645401,45.512082",
     "geom:latitude":45.512082,
     "geom:longitude":-122.645401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 SE Hawthorne Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403862659,
-    "wof:lastmodified":1449056013,
+    "wof:lastmodified":1466771019,
     "wof:name":"Portland Temple Wings-Healing",
     "wof:parent_id":85828991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.645401,45.512082,-122.645401,45.512082],
-  "geometry": {"coordinates":[-122.645401,45.512082],"type":"Point"}
+  "bbox": [
+    -122.645401,
+    45.512082,
+    -122.645401,
+    45.512082
+],
+  "geometry": {"coordinates":[-122.64540100000001,45.512082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370203923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.435381,45.508105,-122.435381,45.508105",
     "geom:latitude":45.508105,
     "geom:longitude":-122.435381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 NW Eastman Pkwy",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370203923,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466768102,
     "wof:name":"Gresham Budget & Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-122.435381,45.508105,-122.435381,45.508105],
-  "geometry": {"coordinates":[-122.435381,45.508105],"type":"Point"}
+  "bbox": [
+    -122.435381,
+    45.508105,
+    -122.435381,
+    45.508105
+],
+  "geometry": {"coordinates":[-122.43538100000001,45.508105],"type":"Point"}
 }

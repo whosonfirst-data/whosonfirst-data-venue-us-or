@@ -2,13 +2,14 @@
   "id": 370793201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.700017,45.540254,-122.700017,45.540254",
     "geom:latitude":45.540254,
     "geom:longitude":-122.700017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 NW 23rd Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370793201,
-    "wof:lastmodified":1449030934,
+    "wof:lastmodified":1466774049,
     "wof:name":"West Coast Metals Inc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-122.700017,45.540254,-122.700017,45.540254],
+  "bbox": [
+    -122.700017,
+    45.540254,
+    -122.700017,
+    45.540254
+],
   "geometry": {"coordinates":[-122.700017,45.540254],"type":"Point"}
 }

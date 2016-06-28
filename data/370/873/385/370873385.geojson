@@ -2,13 +2,14 @@
   "id": 370873385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.699283,45.568272,-122.699283,45.568272",
     "geom:latitude":45.568272,
     "geom:longitude":-122.699283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 N Holman St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370873385,
-    "wof:lastmodified":1449029800,
+    "wof:lastmodified":1466774509,
     "wof:name":"Carpe Diem Enterprises LLC",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.699283,45.568272,-122.699283,45.568272],
-  "geometry": {"coordinates":[-122.699283,45.568272],"type":"Point"}
+  "bbox": [
+    -122.699283,
+    45.568272,
+    -122.699283,
+    45.568272
+],
+  "geometry": {"coordinates":[-122.69928299999999,45.568272],"type":"Point"}
 }

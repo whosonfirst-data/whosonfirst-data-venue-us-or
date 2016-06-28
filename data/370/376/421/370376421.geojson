@@ -2,13 +2,14 @@
   "id": 370376421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.745196,45.515665,-122.745196,45.515665",
     "geom:latitude":45.515665,
     "geom:longitude":-122.745196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6514 SW Barnes Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370376421,
-    "wof:lastmodified":1449030257,
+    "wof:lastmodified":1466771335,
     "wof:name":"Bien Vestida",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-122.745196,45.515665,-122.745196,45.515665],
-  "geometry": {"coordinates":[-122.745196,45.515665],"type":"Point"}
+  "bbox": [
+    -122.745196,
+    45.515665,
+    -122.745196,
+    45.515665
+],
+  "geometry": {"coordinates":[-122.74519600000001,45.515665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387569731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.987088,44.049999,-122.987088,44.049999",
     "geom:latitude":44.049999,
     "geom:longitude":-122.987088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 E St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387569731,
-    "wof:lastmodified":1449059766,
+    "wof:lastmodified":1466773635,
     "wof:name":"Drain Doctor",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-122.987088,44.049999,-122.987088,44.049999],
+  "bbox": [
+    -122.987088,
+    44.049999,
+    -122.987088,
+    44.049999
+],
   "geometry": {"coordinates":[-122.987088,44.049999],"type":"Point"}
 }

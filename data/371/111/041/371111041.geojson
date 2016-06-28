@@ -2,13 +2,14 @@
   "id": 371111041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.676145,45.407294,-122.676145,45.407294",
     "geom:latitude":45.407294,
     "geom:longitude":-122.676145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 McVey Ave",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371111041,
-    "wof:lastmodified":1449050163,
+    "wof:lastmodified":1466768982,
     "wof:name":"Oregonian",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-122.676145,45.407294,-122.676145,45.407294],
-  "geometry": {"coordinates":[-122.676145,45.407294],"type":"Point"}
+  "bbox": [
+    -122.676145,
+    45.407294,
+    -122.676145,
+    45.407294
+],
+  "geometry": {"coordinates":[-122.67614500000001,45.407294],"type":"Point"}
 }

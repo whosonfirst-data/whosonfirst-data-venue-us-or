@@ -2,13 +2,14 @@
   "id": 371030717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.901648,45.856117,-122.901648,45.856117",
     "geom:latitude":45.856117,
     "geom:longitude":-122.901648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59364 Blueberry Ln",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371030717,
-    "wof:lastmodified":1449049398,
+    "wof:lastmodified":1466767658,
     "wof:name":"Quin Construction",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.901648,45.856117,-122.901648,45.856117],
-  "geometry": {"coordinates":[-122.901648,45.856117],"type":"Point"}
+  "bbox": [
+    -122.901648,
+    45.856117,
+    -122.901648,
+    45.856117
+],
+  "geometry": {"coordinates":[-122.90164799999999,45.856117],"type":"Point"}
 }

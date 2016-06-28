@@ -2,13 +2,14 @@
   "id": 403802729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.974455,45.543158,-122.974455,45.543158",
     "geom:latitude":45.543158,
     "geom:longitude":-122.974455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 NE Simmental St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403802729,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1466769681,
     "wof:name":"My Corner Inc",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.974455,45.543158,-122.974455,45.543158],
-  "geometry": {"coordinates":[-122.974455,45.543158],"type":"Point"}
+  "bbox": [
+    -122.974455,
+    45.543158,
+    -122.974455,
+    45.543158
+],
+  "geometry": {"coordinates":[-122.97445500000001,45.543158],"type":"Point"}
 }

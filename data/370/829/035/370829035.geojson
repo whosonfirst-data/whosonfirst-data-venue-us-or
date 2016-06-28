@@ -2,13 +2,14 @@
   "id": 370829035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.454989,45.512555,-122.454989,45.512555",
     "geom:latitude":45.512555,
     "geom:longitude":-122.454989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 NW Birdsdale Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370829035,
-    "wof:lastmodified":1449032244,
+    "wof:lastmodified":1466774155,
     "wof:name":"Ag Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-122.454989,45.512555,-122.454989,45.512555],
+  "bbox": [
+    -122.454989,
+    45.512555,
+    -122.454989,
+    45.512555
+],
   "geometry": {"coordinates":[-122.454989,45.512555],"type":"Point"}
 }

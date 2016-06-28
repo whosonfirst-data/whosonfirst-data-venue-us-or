@@ -2,13 +2,14 @@
   "id": 387931557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.167397,44.075284,-123.167397,44.075284",
     "geom:latitude":44.075284,
     "geom:longitude":-123.167397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Fuller Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387931557,
-    "wof:lastmodified":1449059577,
+    "wof:lastmodified":1466775308,
     "wof:name":"Michael Evoniuk",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.167397,44.075284,-123.167397,44.075284],
-  "geometry": {"coordinates":[-123.167397,44.075284],"type":"Point"}
+  "bbox": [
+    -123.167397,
+    44.075284,
+    -123.167397,
+    44.075284
+],
+  "geometry": {"coordinates":[-123.16739699999999,44.075284],"type":"Point"}
 }

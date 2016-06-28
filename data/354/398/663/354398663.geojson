@@ -2,13 +2,14 @@
   "id": 354398663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.784185,44.804905,-122.784185,44.804905",
     "geom:latitude":44.804905,
     "geom:longitude":-122.784185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1373 N 10th Ave",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354398663,
-    "wof:lastmodified":1449066061,
+    "wof:lastmodified":1466771275,
     "wof:name":"Matthew Degner MD",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-122.784185,44.804905,-122.784185,44.804905],
-  "geometry": {"coordinates":[-122.784185,44.804905],"type":"Point"}
+  "bbox": [
+    -122.784185,
+    44.804905,
+    -122.784185,
+    44.804905
+],
+  "geometry": {"coordinates":[-122.78418499999999,44.804905],"type":"Point"}
 }

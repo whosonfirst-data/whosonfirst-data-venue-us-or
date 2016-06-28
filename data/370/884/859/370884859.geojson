@@ -2,13 +2,14 @@
   "id": 370884859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011857,44.96161,-123.011857,44.96161",
     "geom:latitude":44.96161,
     "geom:longitude":-123.011857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Silverton Rd NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370884859,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1466774570,
     "wof:name":"Western Power & Equipment Corp",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.011857,44.96161,-123.011857,44.96161],
-  "geometry": {"coordinates":[-123.011857,44.96161],"type":"Point"}
+  "bbox": [
+    -123.011857,
+    44.96161,
+    -123.011857,
+    44.96161
+],
+  "geometry": {"coordinates":[-123.01185700000001,44.96161],"type":"Point"}
 }

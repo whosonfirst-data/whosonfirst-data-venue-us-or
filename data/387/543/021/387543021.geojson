@@ -2,13 +2,14 @@
   "id": 387543021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.89801,45.497323,-122.89801,45.497323",
     "geom:latitude":45.497323,
     "geom:longitude":-122.89801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21615 SW Tualatin Valley Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387543021,
-    "wof:lastmodified":1449056843,
+    "wof:lastmodified":1466773664,
     "wof:name":"ATC Enterprises",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-122.89801,45.497323,-122.89801,45.497323],
+  "bbox": [
+    -122.89801,
+    45.497323,
+    -122.89801,
+    45.497323
+],
   "geometry": {"coordinates":[-122.89801,45.497323],"type":"Point"}
 }

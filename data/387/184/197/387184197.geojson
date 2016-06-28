@@ -2,13 +2,14 @@
   "id": 387184197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.71725,45.393728,-122.71725,45.393728",
     "geom:latitude":45.393728,
     "geom:longitude":-122.71725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18116 Pioneer Ct",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387184197,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1466770460,
     "wof:name":"Gomez & Gomez Inc",
     "wof:parent_id":85878579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.71725,45.393728,-122.71725,45.393728],
-  "geometry": {"coordinates":[-122.71725,45.393728],"type":"Point"}
+  "bbox": [
+    -122.71725,
+    45.393728,
+    -122.71725,
+    45.393728
+],
+  "geometry": {"coordinates":[-122.71725000000001,45.393728],"type":"Point"}
 }

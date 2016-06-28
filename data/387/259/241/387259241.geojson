@@ -2,13 +2,14 @@
   "id": 387259241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.006301,44.992318,-124.006301,44.992318",
     "geom:latitude":44.992318,
     "geom:longitude":-124.006301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3516 US Hwy 101",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387259241,
-    "wof:lastmodified":1449056979,
+    "wof:lastmodified":1466771527,
     "wof:name":"Alarms West-Locksmith Service",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "installation"
     ]
 },
-  "bbox": [-124.006301,44.992318,-124.006301,44.992318],
-  "geometry": {"coordinates":[-124.006301,44.992318],"type":"Point"}
+  "bbox": [
+    -124.006301,
+    44.992318,
+    -124.006301,
+    44.992318
+],
+  "geometry": {"coordinates":[-124.00630099999999,44.992318],"type":"Point"}
 }

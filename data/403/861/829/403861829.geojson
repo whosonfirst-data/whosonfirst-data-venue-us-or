@@ -2,13 +2,14 @@
   "id": 403861829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.345531,43.204334,-123.345531,43.204334",
     "geom:latitude":43.204334,
     "geom:longitude":-123.345531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 SE Kane St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403861829,
-    "wof:lastmodified":1449055950,
+    "wof:lastmodified":1466771003,
     "wof:name":"Taxco LLC",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-123.345531,43.204334,-123.345531,43.204334],
-  "geometry": {"coordinates":[-123.345531,43.204334],"type":"Point"}
+  "bbox": [
+    -123.345531,
+    43.204334,
+    -123.345531,
+    43.204334
+],
+  "geometry": {"coordinates":[-123.34553099999999,43.204334],"type":"Point"}
 }

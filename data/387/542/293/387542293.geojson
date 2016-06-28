@@ -2,13 +2,14 @@
   "id": 387542293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.397326,45.94655,-118.397326,45.94655",
     "geom:latitude":45.94655,
     "geom:longitude":-118.397326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 NE 11th Ave",
     "sg:city":"Milton Freewater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387542293,
-    "wof:lastmodified":1449059057,
+    "wof:lastmodified":1466773565,
     "wof:name":"Meadowbrook Sales Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-118.397326,45.94655,-118.397326,45.94655],
-  "geometry": {"coordinates":[-118.397326,45.94655],"type":"Point"}
+  "bbox": [
+    -118.397326,
+    45.94655,
+    -118.397326,
+    45.94655
+],
+  "geometry": {"coordinates":[-118.39732600000001,45.94655],"type":"Point"}
 }

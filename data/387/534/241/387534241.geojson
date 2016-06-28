@@ -2,13 +2,14 @@
   "id": 387534241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136711,44.048419,-123.136711,44.048419",
     "geom:latitude":44.048419,
     "geom:longitude":-123.136711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Tyinn St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387534241,
-    "wof:lastmodified":1449057093,
+    "wof:lastmodified":1466773515,
     "wof:name":"Tyinn Industrial Park",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-123.136711,44.048419,-123.136711,44.048419],
-  "geometry": {"coordinates":[-123.136711,44.048419],"type":"Point"}
+  "bbox": [
+    -123.136711,
+    44.048419,
+    -123.136711,
+    44.048419
+],
+  "geometry": {"coordinates":[-123.13671100000001,44.048419],"type":"Point"}
 }

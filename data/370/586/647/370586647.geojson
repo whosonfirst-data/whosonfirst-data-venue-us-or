@@ -2,13 +2,14 @@
   "id": 370586647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.288568,43.538692,-123.288568,43.538692",
     "geom:latitude":43.538692,
     "geom:longitude":-123.288568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 John Long Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370586647,
-    "wof:lastmodified":1449032086,
+    "wof:lastmodified":1466772939,
     "wof:name":"Economy Towing",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-123.288568,43.538692,-123.288568,43.538692],
+  "bbox": [
+    -123.288568,
+    43.538692,
+    -123.288568,
+    43.538692
+],
   "geometry": {"coordinates":[-123.288568,43.538692],"type":"Point"}
 }

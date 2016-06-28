@@ -2,13 +2,14 @@
   "id": 386970515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.491476,45.513897,-122.491476,45.513897",
     "geom:latitude":45.513897,
     "geom:longitude":-122.491476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 SE 167th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386970515,
-    "wof:lastmodified":1449028969,
+    "wof:lastmodified":1466767369,
     "wof:name":"Cronk Trucking LLC",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.491476,45.513897,-122.491476,45.513897],
-  "geometry": {"coordinates":[-122.491476,45.513897],"type":"Point"}
+  "bbox": [
+    -122.491476,
+    45.513897,
+    -122.491476,
+    45.513897
+],
+  "geometry": {"coordinates":[-122.49147600000001,45.513897],"type":"Point"}
 }

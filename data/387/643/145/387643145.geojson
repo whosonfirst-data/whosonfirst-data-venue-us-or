@@ -2,13 +2,14 @@
   "id": 387643145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.127013,44.054393,-123.127013,44.054393",
     "geom:latitude":44.054393,
     "geom:longitude":-123.127013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1968 W 6th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387643145,
-    "wof:lastmodified":1449059414,
+    "wof:lastmodified":1466774166,
     "wof:name":"Brighter Homes Lighting",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-123.127013,44.054393,-123.127013,44.054393],
-  "geometry": {"coordinates":[-123.127013,44.054393],"type":"Point"}
+  "bbox": [
+    -123.127013,
+    44.054393,
+    -123.127013,
+    44.054393
+],
+  "geometry": {"coordinates":[-123.12701300000001,44.054393],"type":"Point"}
 }

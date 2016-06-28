@@ -2,13 +2,14 @@
   "id": 387143635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.06015,44.890446,-123.06015,44.890446",
     "geom:latitude":44.890446,
     "geom:longitude":-123.06015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4742 Liberty Rd S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387143635,
-    "wof:lastmodified":1449059279,
+    "wof:lastmodified":1466769639,
     "wof:name":"Coupon Tabloid of Salem",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.06015,44.890446,-123.06015,44.890446],
-  "geometry": {"coordinates":[-123.06015,44.890446],"type":"Point"}
+  "bbox": [
+    -123.06015,
+    44.890446,
+    -123.06015,
+    44.890446
+],
+  "geometry": {"coordinates":[-123.06014999999999,44.890446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387919963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.677804,45.403908,-122.677804,45.403908",
     "geom:latitude":45.403908,
     "geom:longitude":-122.677804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Larch St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387919963,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1466775435,
     "wof:name":"Supportive Software",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.677804,45.403908,-122.677804,45.403908],
-  "geometry": {"coordinates":[-122.677804,45.403908],"type":"Point"}
+  "bbox": [
+    -122.677804,
+    45.403908,
+    -122.677804,
+    45.403908
+],
+  "geometry": {"coordinates":[-122.67780399999999,45.403908],"type":"Point"}
 }

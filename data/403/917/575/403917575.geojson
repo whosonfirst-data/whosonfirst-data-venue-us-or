@@ -2,13 +2,14 @@
   "id": 403917575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.209429,44.260959,-121.209429,44.260959",
     "geom:latitude":44.260959,
     "geom:longitude":-121.209429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 SW 35th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403917575,
-    "wof:lastmodified":1449055788,
+    "wof:lastmodified":1466767671,
     "wof:name":"Officist",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-121.209429,44.260959,-121.209429,44.260959],
+  "bbox": [
+    -121.209429,
+    44.260959,
+    -121.209429,
+    44.260959
+],
   "geometry": {"coordinates":[-121.209429,44.260959],"type":"Point"}
 }

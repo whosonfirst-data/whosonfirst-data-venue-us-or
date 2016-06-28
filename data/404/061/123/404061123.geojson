@@ -2,13 +2,14 @@
   "id": 404061123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.958515,45.528578,-122.958515,45.528578",
     "geom:latitude":45.528578,
     "geom:longitude":-122.958515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 NE 24th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404061123,
-    "wof:lastmodified":1449039989,
+    "wof:lastmodified":1466769511,
     "wof:name":"Grant Park Oxford House",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.958515,45.528578,-122.958515,45.528578],
-  "geometry": {"coordinates":[-122.958515,45.528578],"type":"Point"}
+  "bbox": [
+    -122.958515,
+    45.528578,
+    -122.958515,
+    45.528578
+],
+  "geometry": {"coordinates":[-122.95851500000001,45.528578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404169279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.072254,44.030544,-123.072254,44.030544",
     "geom:latitude":44.030544,
     "geom:longitude":-123.072254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Onyx St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404169279,
-    "wof:lastmodified":1449039845,
+    "wof:lastmodified":1466767573,
     "wof:name":"Prism Painting",
     "wof:parent_id":85877225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.072254,44.030544,-123.072254,44.030544],
+  "bbox": [
+    -123.072254,
+    44.030544,
+    -123.072254,
+    44.030544
+],
   "geometry": {"coordinates":[-123.072254,44.030544],"type":"Point"}
 }

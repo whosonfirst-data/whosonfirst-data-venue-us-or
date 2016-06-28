@@ -2,13 +2,14 @@
   "id": 403742849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.656558,45.528638,-122.656558,45.528638",
     "geom:latitude":45.528638,
     "geom:longitude":-122.656558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NE Oregon St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403742849,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1466768753,
     "wof:name":"Oregon Health Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-122.656558,45.528638,-122.656558,45.528638],
+  "bbox": [
+    -122.656558,
+    45.528638,
+    -122.656558,
+    45.528638
+],
   "geometry": {"coordinates":[-122.656558,45.528638],"type":"Point"}
 }

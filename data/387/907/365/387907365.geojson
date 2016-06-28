@@ -2,13 +2,14 @@
   "id": 387907365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.956226,45.509709,-122.956226,45.509709",
     "geom:latitude":45.509709,
     "geom:longitude":-122.956226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 SE 25th Pl",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387907365,
-    "wof:lastmodified":1449059627,
+    "wof:lastmodified":1466775303,
     "wof:name":"Inspired Technologies",
     "wof:parent_id":85836887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.956226,45.509709,-122.956226,45.509709],
+  "bbox": [
+    -122.956226,
+    45.509709,
+    -122.956226,
+    45.509709
+],
   "geometry": {"coordinates":[-122.956226,45.509709],"type":"Point"}
 }

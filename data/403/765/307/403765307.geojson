@@ -2,13 +2,14 @@
   "id": 403765307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.351222,43.208001,-123.351222,43.208001",
     "geom:latitude":43.208001,
     "geom:longitude":-123.351222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 SE Mosher Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403765307,
-    "wof:lastmodified":1449055400,
+    "wof:lastmodified":1466769103,
     "wof:name":"Central Oregon & Pacific",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.351222,43.208001,-123.351222,43.208001],
-  "geometry": {"coordinates":[-123.351222,43.208001],"type":"Point"}
+  "bbox": [
+    -123.351222,
+    43.208001,
+    -123.351222,
+    43.208001
+],
+  "geometry": {"coordinates":[-123.35122200000001,43.208001],"type":"Point"}
 }

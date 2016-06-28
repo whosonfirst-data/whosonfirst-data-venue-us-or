@@ -2,13 +2,14 @@
   "id": 387043655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.723384,45.485871,-122.723384,45.485871",
     "geom:latitude":45.485871,
     "geom:longitude":-122.723384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 SW Beaverton-Hillsdale Hwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387043655,
-    "wof:lastmodified":1449058950,
+    "wof:lastmodified":1466767862,
     "wof:name":"Golden Garter Tavern",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-122.723384,45.485871,-122.723384,45.485871],
+  "bbox": [
+    -122.723384,
+    45.485871,
+    -122.723384,
+    45.485871
+],
   "geometry": {"coordinates":[-122.723384,45.485871],"type":"Point"}
 }

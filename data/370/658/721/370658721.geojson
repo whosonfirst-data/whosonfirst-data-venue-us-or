@@ -2,13 +2,14 @@
   "id": 370658721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.528096,45.284495,-122.528096,45.284495",
     "geom:latitude":45.284495,
     "geom:longitude":-122.528096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22227 S Ferguson Rd",
     "sg:city":"Beavercreek",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":370658721,
-    "wof:lastmodified":1449028994,
+    "wof:lastmodified":1466773445,
     "wof:name":"B K Products Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.528096,45.284495,-122.528096,45.284495],
-  "geometry": {"coordinates":[-122.528096,45.284495],"type":"Point"}
+  "bbox": [
+    -122.528096,
+    45.284495,
+    -122.528096,
+    45.284495
+],
+  "geometry": {"coordinates":[-122.52809600000001,45.284495],"type":"Point"}
 }

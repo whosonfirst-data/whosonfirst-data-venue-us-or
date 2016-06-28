@@ -2,13 +2,14 @@
   "id": 371130581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10993,44.555222,-123.10993,44.555222",
     "geom:latitude":44.555222,
     "geom:longitude":-123.10993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33535 Hwy 99E",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371130581,
-    "wof:lastmodified":1449049359,
+    "wof:lastmodified":1466769346,
     "wof:name":"Lumbermen's Building Ctr",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-123.10993,44.555222,-123.10993,44.555222],
-  "geometry": {"coordinates":[-123.10993,44.555222],"type":"Point"}
+  "bbox": [
+    -123.10993,
+    44.555222,
+    -123.10993,
+    44.555222
+],
+  "geometry": {"coordinates":[-123.10993000000001,44.555222],"type":"Point"}
 }

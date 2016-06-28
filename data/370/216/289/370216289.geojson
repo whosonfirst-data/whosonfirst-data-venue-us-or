@@ -2,13 +2,14 @@
   "id": 370216289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.198017,45.206825,-123.198017,45.206825",
     "geom:latitude":45.206825,
     "geom:longitude":-123.198017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 SE Baker St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370216289,
-    "wof:lastmodified":1449032093,
+    "wof:lastmodified":1466768311,
     "wof:name":"Christopher A Blake MD PC",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.198017,45.206825,-123.198017,45.206825],
-  "geometry": {"coordinates":[-123.198017,45.206825],"type":"Point"}
+  "bbox": [
+    -123.198017,
+    45.206825,
+    -123.198017,
+    45.206825
+],
+  "geometry": {"coordinates":[-123.19801699999999,45.206825],"type":"Point"}
 }

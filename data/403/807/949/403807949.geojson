@@ -2,13 +2,14 @@
   "id": 403807949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.678312,45.25762,-122.678312,45.25762",
     "geom:latitude":45.25762,
     "geom:longitude":-122.678312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 SE 7th Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403807949,
-    "wof:lastmodified":1449054984,
+    "wof:lastmodified":1466769780,
     "wof:name":"Dennis Macomber",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.678312,45.25762,-122.678312,45.25762],
-  "geometry": {"coordinates":[-122.678312,45.25762],"type":"Point"}
+  "bbox": [
+    -122.678312,
+    45.25762,
+    -122.678312,
+    45.25762
+],
+  "geometry": {"coordinates":[-122.67831200000001,45.25762],"type":"Point"}
 }

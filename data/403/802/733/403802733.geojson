@@ -2,13 +2,14 @@
   "id": 403802733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.695083,45.262201,-122.695083,45.262201",
     "geom:latitude":45.262201,
     "geom:longitude":-122.695083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 NW 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403802733,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1466769682,
     "wof:name":"Donut Factory",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-122.695083,45.262201,-122.695083,45.262201],
+  "bbox": [
+    -122.695083,
+    45.262201,
+    -122.695083,
+    45.262201
+],
   "geometry": {"coordinates":[-122.695083,45.262201],"type":"Point"}
 }

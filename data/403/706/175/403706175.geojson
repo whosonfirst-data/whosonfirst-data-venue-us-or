@@ -2,13 +2,14 @@
   "id": 403706175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.514683,45.705512,-121.514683,45.705512",
     "geom:latitude":45.705512,
     "geom:longitude":-121.514683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Montello Ave",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403706175,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466767889,
     "wof:name":"Warren Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.514683,45.705512,-121.514683,45.705512],
-  "geometry": {"coordinates":[-121.514683,45.705512],"type":"Point"}
+  "bbox": [
+    -121.514683,
+    45.705512,
+    -121.514683,
+    45.705512
+],
+  "geometry": {"coordinates":[-121.51468300000001,45.705512],"type":"Point"}
 }

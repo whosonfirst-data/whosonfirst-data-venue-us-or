@@ -2,13 +2,14 @@
   "id": 403769805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.450333,45.210698,-122.450333,45.210698",
     "geom:latitude":45.210698,
     "geom:longitude":-122.450333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27316 S Hult Rd",
     "sg:city":"Beavercreek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403769805,
-    "wof:lastmodified":1449055072,
+    "wof:lastmodified":1466769180,
     "wof:name":"Redwood Transmission Center",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-122.450333,45.210698,-122.450333,45.210698],
+  "bbox": [
+    -122.450333,
+    45.210698,
+    -122.450333,
+    45.210698
+],
   "geometry": {"coordinates":[-122.450333,45.210698],"type":"Point"}
 }

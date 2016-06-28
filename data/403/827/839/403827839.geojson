@@ -2,13 +2,14 @@
   "id": 403827839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.066828,43.760524,-123.066828,43.760524",
     "geom:latitude":43.760524,
     "geom:longitude":-123.066828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77407 London Rd",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403827839,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1466770290,
     "wof:name":"Big D Little Ds Logging",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.066828,43.760524,-123.066828,43.760524],
+  "bbox": [
+    -123.066828,
+    43.760524,
+    -123.066828,
+    43.760524
+],
   "geometry": {"coordinates":[-123.066828,43.760524],"type":"Point"}
 }

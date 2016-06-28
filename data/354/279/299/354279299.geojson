@@ -2,13 +2,14 @@
   "id": 354279299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.922841,45.986292,-123.922841,45.986292",
     "geom:latitude":45.986292,
     "geom:longitude":-123.922841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Roosevelt Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354279299,
-    "wof:lastmodified":1449066691,
+    "wof:lastmodified":1466769181,
     "wof:name":"Totes Factory Store",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outlet"
     ]
 },
-  "bbox": [-123.922841,45.986292,-123.922841,45.986292],
-  "geometry": {"coordinates":[-123.922841,45.986292],"type":"Point"}
+  "bbox": [
+    -123.922841,
+    45.986292,
+    -123.922841,
+    45.986292
+],
+  "geometry": {"coordinates":[-123.92284100000001,45.986292],"type":"Point"}
 }

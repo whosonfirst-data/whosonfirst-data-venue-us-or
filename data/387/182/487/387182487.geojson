@@ -2,13 +2,14 @@
   "id": 387182487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.49693,45.500443,-122.49693,45.500443",
     "geom:latitude":45.500443,
     "geom:longitude":-122.49693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 SE 162nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387182487,
-    "wof:lastmodified":1449058516,
+    "wof:lastmodified":1466770423,
     "wof:name":"Alternative Rehabilitation Ctr",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.49693,45.500443,-122.49693,45.500443],
-  "geometry": {"coordinates":[-122.49693,45.500443],"type":"Point"}
+  "bbox": [
+    -122.49693,
+    45.500443,
+    -122.49693,
+    45.500443
+],
+  "geometry": {"coordinates":[-122.49693000000001,45.500443],"type":"Point"}
 }

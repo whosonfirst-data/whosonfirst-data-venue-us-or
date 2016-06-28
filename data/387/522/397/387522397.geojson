@@ -2,13 +2,14 @@
   "id": 387522397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.5704,45.562771,-122.5704,45.562771",
     "geom:latitude":45.562771,
     "geom:longitude":-122.5704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9021 NE Killingsworth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387522397,
-    "wof:lastmodified":1449057914,
+    "wof:lastmodified":1466773406,
     "wof:name":"Let's Brew Inc",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.5704,45.562771,-122.5704,45.562771],
-  "geometry": {"coordinates":[-122.5704,45.562771],"type":"Point"}
+  "bbox": [
+    -122.5704,
+    45.562771,
+    -122.5704,
+    45.562771
+],
+  "geometry": {"coordinates":[-122.57040000000001,45.562771],"type":"Point"}
 }

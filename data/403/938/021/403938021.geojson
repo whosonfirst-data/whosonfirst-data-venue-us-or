@@ -2,13 +2,14 @@
   "id": 403938021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.707888,45.505437,-122.707888,45.505437",
     "geom:latitude":45.505437,
     "geom:longitude":-122.707888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 SW Periander St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403938021,
-    "wof:lastmodified":1449055611,
+    "wof:lastmodified":1466768048,
     "wof:name":"LLC Smith Block",
     "wof:parent_id":85867153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-122.707888,45.505437,-122.707888,45.505437],
+  "bbox": [
+    -122.707888,
+    45.505437,
+    -122.707888,
+    45.505437
+],
   "geometry": {"coordinates":[-122.707888,45.505437],"type":"Point"}
 }

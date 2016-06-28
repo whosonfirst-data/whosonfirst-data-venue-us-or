@@ -2,13 +2,14 @@
   "id": 370543729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.777399,45.404267,-122.777399,45.404267",
     "geom:latitude":45.404267,
     "geom:longitude":-122.777399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9830 SW Durham Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370543729,
-    "wof:lastmodified":1449029751,
+    "wof:lastmodified":1466772506,
     "wof:name":"Kent Western",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.777399,45.404267,-122.777399,45.404267],
+  "bbox": [
+    -122.777399,
+    45.404267,
+    -122.777399,
+    45.404267
+],
   "geometry": {"coordinates":[-122.777399,45.404267],"type":"Point"}
 }

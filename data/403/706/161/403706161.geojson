@@ -2,13 +2,14 @@
   "id": 403706161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.665349,45.420493,-122.665349,45.420493",
     "geom:latitude":45.420493,
     "geom:longitude":-122.665349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 2nd St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403706161,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466767889,
     "wof:name":"Lake Oswego Soccer Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-122.665349,45.420493,-122.665349,45.420493],
-  "geometry": {"coordinates":[-122.665349,45.420493],"type":"Point"}
+  "bbox": [
+    -122.665349,
+    45.420493,
+    -122.665349,
+    45.420493
+],
+  "geometry": {"coordinates":[-122.66534900000001,45.420493],"type":"Point"}
 }

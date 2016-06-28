@@ -2,13 +2,14 @@
   "id": 387511609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.157902,44.60608,-123.157902,44.60608",
     "geom:latitude":44.60608,
     "geom:longitude":-123.157902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35231 Riverside Dr SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387511609,
-    "wof:lastmodified":1449057856,
+    "wof:lastmodified":1466773305,
     "wof:name":"Investment Property Management",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-123.157902,44.60608,-123.157902,44.60608],
-  "geometry": {"coordinates":[-123.157902,44.60608],"type":"Point"}
+  "bbox": [
+    -123.157902,
+    44.60608,
+    -123.157902,
+    44.60608
+],
+  "geometry": {"coordinates":[-123.15790200000001,44.60608],"type":"Point"}
 }

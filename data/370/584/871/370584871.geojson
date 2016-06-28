@@ -2,13 +2,14 @@
   "id": 370584871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.569583,45.471498,-122.569583,45.471498",
     "geom:latitude":45.471498,
     "geom:longitude":-122.569583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6810 SE 91st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370584871,
-    "wof:lastmodified":1449029459,
+    "wof:lastmodified":1466772841,
     "wof:name":"Kelly Community House",
     "wof:parent_id":85854775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.569583,45.471498,-122.569583,45.471498],
-  "geometry": {"coordinates":[-122.569583,45.471498],"type":"Point"}
+  "bbox": [
+    -122.569583,
+    45.471498,
+    -122.569583,
+    45.471498
+],
+  "geometry": {"coordinates":[-122.56958299999999,45.471498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403725327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653637,45.505869,-122.653637,45.505869",
     "geom:latitude":45.505869,
     "geom:longitude":-122.653637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 SE 12th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403725327,
-    "wof:lastmodified":1449054970,
+    "wof:lastmodified":1466768335,
     "wof:name":"Stapleton Electric of Oregon",
     "wof:parent_id":85868957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.653637,45.505869,-122.653637,45.505869],
+  "bbox": [
+    -122.653637,
+    45.505869,
+    -122.653637,
+    45.505869
+],
   "geometry": {"coordinates":[-122.653637,45.505869],"type":"Point"}
 }

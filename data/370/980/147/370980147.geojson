@@ -2,13 +2,14 @@
   "id": 370980147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.310475,42.4373,-123.310475,42.4373",
     "geom:latitude":42.4373,
     "geom:longitude":-123.310475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 NE E St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370980147,
-    "wof:lastmodified":1449029309,
+    "wof:lastmodified":1466775041,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-123.310475,42.4373,-123.310475,42.4373],
+  "bbox": [
+    -123.310475,
+    42.4373,
+    -123.310475,
+    42.4373
+],
   "geometry": {"coordinates":[-123.310475,42.4373],"type":"Point"}
 }

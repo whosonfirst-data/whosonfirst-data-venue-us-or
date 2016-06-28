@@ -2,13 +2,14 @@
   "id": 354256505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.838315,45.675872,-118.838315,45.675872",
     "geom:latitude":45.675872,
     "geom:longitude":-118.838315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4228 Westgate",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354256505,
-    "wof:lastmodified":1449067236,
+    "wof:lastmodified":1466768752,
     "wof:name":"Cash & Carry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-118.838315,45.675872,-118.838315,45.675872],
-  "geometry": {"coordinates":[-118.838315,45.675872],"type":"Point"}
+  "bbox": [
+    -118.838315,
+    45.675872,
+    -118.838315,
+    45.675872
+],
+  "geometry": {"coordinates":[-118.83831499999999,45.675872],"type":"Point"}
 }

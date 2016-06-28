@@ -2,13 +2,14 @@
   "id": 370354315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.033076,44.886975,-123.033076,44.886975",
     "geom:latitude":44.886975,
     "geom:longitude":-123.033076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4679 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370354315,
-    "wof:lastmodified":1449032095,
+    "wof:lastmodified":1466770897,
     "wof:name":"Lee's Fine Cleaners",
     "wof:parent_id":85880573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-123.033076,44.886975,-123.033076,44.886975],
-  "geometry": {"coordinates":[-123.033076,44.886975],"type":"Point"}
+  "bbox": [
+    -123.033076,
+    44.886975,
+    -123.033076,
+    44.886975
+],
+  "geometry": {"coordinates":[-123.03307599999999,44.886975],"type":"Point"}
 }

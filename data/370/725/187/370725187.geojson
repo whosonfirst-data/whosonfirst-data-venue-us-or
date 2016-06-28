@@ -2,13 +2,14 @@
   "id": 370725187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.821558,43.65505,-123.821558,43.65505",
     "geom:latitude":43.65505,
     "geom:longitude":-123.821558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35346 State Hwy 38",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370725187,
-    "wof:lastmodified":1449029914,
+    "wof:lastmodified":1466773574,
     "wof:name":"US Post Office",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.821558,43.65505,-123.821558,43.65505],
+  "bbox": [
+    -123.821558,
+    43.65505,
+    -123.821558,
+    43.65505
+],
   "geometry": {"coordinates":[-123.821558,43.65505],"type":"Point"}
 }

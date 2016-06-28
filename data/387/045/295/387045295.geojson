@@ -2,13 +2,14 @@
   "id": 387045295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.291358,44.551725,-123.291358,44.551725",
     "geom:latitude":44.551725,
     "geom:longitude":-123.291358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 SW Birdie Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387045295,
-    "wof:lastmodified":1449059471,
+    "wof:lastmodified":1466767889,
     "wof:name":"Rondeaus Guide Service",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-123.291358,44.551725,-123.291358,44.551725],
+  "bbox": [
+    -123.291358,
+    44.551725,
+    -123.291358,
+    44.551725
+],
   "geometry": {"coordinates":[-123.291358,44.551725],"type":"Point"}
 }

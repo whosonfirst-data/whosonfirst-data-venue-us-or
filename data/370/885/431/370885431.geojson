@@ -2,13 +2,14 @@
   "id": 370885431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.999176,44.052218,-122.999176,44.052218",
     "geom:latitude":44.052218,
     "geom:longitude":-122.999176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 G St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370885431,
-    "wof:lastmodified":1449030873,
+    "wof:lastmodified":1466774567,
     "wof:name":"Eric G Olson MD",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.999176,44.052218,-122.999176,44.052218],
-  "geometry": {"coordinates":[-122.999176,44.052218],"type":"Point"}
+  "bbox": [
+    -122.999176,
+    44.052218,
+    -122.999176,
+    44.052218
+],
+  "geometry": {"coordinates":[-122.99917600000001,44.052218],"type":"Point"}
 }

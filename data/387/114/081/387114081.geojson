@@ -2,13 +2,14 @@
   "id": 387114081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.867539,45.533334,-122.867539,45.533334",
     "geom:latitude":45.533334,
     "geom:longitude":-122.867539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 NW 185th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387114081,
-    "wof:lastmodified":1449057688,
+    "wof:lastmodified":1466769055,
     "wof:name":"Providence Medical Group",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-122.867539,45.533334,-122.867539,45.533334],
-  "geometry": {"coordinates":[-122.867539,45.533334],"type":"Point"}
+  "bbox": [
+    -122.867539,
+    45.533334,
+    -122.867539,
+    45.533334
+],
+  "geometry": {"coordinates":[-122.86753899999999,45.533334],"type":"Point"}
 }

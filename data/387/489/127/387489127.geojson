@@ -2,13 +2,14 @@
   "id": 387489127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.038621,44.936969,-123.038621,44.936969",
     "geom:latitude":44.936969,
     "geom:longitude":-123.038621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 High St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387489127,
-    "wof:lastmodified":1449058195,
+    "wof:lastmodified":1466773087,
     "wof:name":"Other Places Travel",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-123.038621,44.936969,-123.038621,44.936969],
-  "geometry": {"coordinates":[-123.038621,44.936969],"type":"Point"}
+  "bbox": [
+    -123.038621,
+    44.936969,
+    -123.038621,
+    44.936969
+],
+  "geometry": {"coordinates":[-123.03862100000001,44.936969],"type":"Point"}
 }

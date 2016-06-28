@@ -2,13 +2,14 @@
   "id": 403885245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.138708,44.119724,-123.138708,44.119724",
     "geom:latitude":44.119724,
     "geom:longitude":-123.138708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 River Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403885245,
-    "wof:lastmodified":1449055350,
+    "wof:lastmodified":1466771420,
     "wof:name":"Metro-Media Resources",
     "wof:parent_id":85819309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.138708,44.119724,-123.138708,44.119724],
-  "geometry": {"coordinates":[-123.138708,44.119724],"type":"Point"}
+  "bbox": [
+    -123.138708,
+    44.119724,
+    -123.138708,
+    44.119724
+],
+  "geometry": {"coordinates":[-123.13870799999999,44.119724],"type":"Point"}
 }

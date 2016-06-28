@@ -2,13 +2,14 @@
   "id": 403869269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.845492,45.516453,-122.845492,45.516453",
     "geom:latitude":45.516453,
     "geom:longitude":-122.845492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16465 SW Estuary Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403869269,
-    "wof:lastmodified":1449055855,
+    "wof:lastmodified":1466771148,
     "wof:name":"Visiontronics",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "amusement"
     ]
 },
-  "bbox": [-122.845492,45.516453,-122.845492,45.516453],
-  "geometry": {"coordinates":[-122.845492,45.516453],"type":"Point"}
+  "bbox": [
+    -122.845492,
+    45.516453,
+    -122.845492,
+    45.516453
+],
+  "geometry": {"coordinates":[-122.84549199999999,45.516453],"type":"Point"}
 }

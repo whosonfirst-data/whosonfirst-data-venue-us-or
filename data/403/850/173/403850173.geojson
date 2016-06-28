@@ -2,13 +2,14 @@
   "id": 403850173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.97678,44.99386,-122.97678,44.99386",
     "geom:latitude":44.99386,
     "geom:longitude":-122.97678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4241 Windflower Ct NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403850173,
-    "wof:lastmodified":1449055404,
+    "wof:lastmodified":1466770783,
     "wof:name":"Foster Graceland Care Home",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.97678,44.99386,-122.97678,44.99386],
-  "geometry": {"coordinates":[-122.97678,44.99386],"type":"Point"}
+  "bbox": [
+    -122.97678,
+    44.99386,
+    -122.97678,
+    44.99386
+],
+  "geometry": {"coordinates":[-122.97678000000001,44.99386],"type":"Point"}
 }

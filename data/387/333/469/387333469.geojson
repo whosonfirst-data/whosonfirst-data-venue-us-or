@@ -2,13 +2,14 @@
   "id": 387333469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.355988,42.497922,-123.355988,42.497922",
     "geom:latitude":42.497922,
     "geom:longitude":-123.355988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Kilborn Dr",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387333469,
-    "wof:lastmodified":1449059656,
+    "wof:lastmodified":1466772242,
     "wof:name":"Kilborn Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.355988,42.497922,-123.355988,42.497922],
+  "bbox": [
+    -123.355988,
+    42.497922,
+    -123.355988,
+    42.497922
+],
   "geometry": {"coordinates":[-123.355988,42.497922],"type":"Point"}
 }

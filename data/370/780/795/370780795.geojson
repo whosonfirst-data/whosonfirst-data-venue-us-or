@@ -2,13 +2,14 @@
   "id": 370780795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.803875,45.860514,-122.803875,45.860514",
     "geom:latitude":45.860514,
     "geom:longitude":-122.803875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"297 S 7th St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370780795,
-    "wof:lastmodified":1449031628,
+    "wof:lastmodified":1466773990,
     "wof:name":"A & H Properties",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.803875,45.860514,-122.803875,45.860514],
-  "geometry": {"coordinates":[-122.803875,45.860514],"type":"Point"}
+  "bbox": [
+    -122.803875,
+    45.860514,
+    -122.803875,
+    45.860514
+],
+  "geometry": {"coordinates":[-122.80387500000001,45.860514],"type":"Point"}
 }

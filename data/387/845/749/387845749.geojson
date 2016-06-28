@@ -2,13 +2,14 @@
   "id": 387845749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.730308,45.456199,-122.730308,45.456199",
     "geom:latitude":45.456199,
     "geom:longitude":-122.730308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9426 SW 52nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387845749,
-    "wof:lastmodified":1449056724,
+    "wof:lastmodified":1466775147,
     "wof:name":"Iconoclast Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-122.730308,45.456199,-122.730308,45.456199],
-  "geometry": {"coordinates":[-122.730308,45.456199],"type":"Point"}
+  "bbox": [
+    -122.730308,
+    45.456199,
+    -122.730308,
+    45.456199
+],
+  "geometry": {"coordinates":[-122.73030799999999,45.456199],"type":"Point"}
 }

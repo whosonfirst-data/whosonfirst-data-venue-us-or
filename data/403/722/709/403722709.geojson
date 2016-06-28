@@ -2,13 +2,14 @@
   "id": 403722709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.801245,45.443348,-123.801245,45.443348",
     "geom:latitude":45.443348,
     "geom:longitude":-123.801245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 McCormick Loop Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403722709,
-    "wof:lastmodified":1449055092,
+    "wof:lastmodified":1466768264,
     "wof:name":"Sue M Jacob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.801245,45.443348,-123.801245,45.443348],
-  "geometry": {"coordinates":[-123.801245,45.443348],"type":"Point"}
+  "bbox": [
+    -123.801245,
+    45.443348,
+    -123.801245,
+    45.443348
+],
+  "geometry": {"coordinates":[-123.80124499999999,45.443348],"type":"Point"}
 }

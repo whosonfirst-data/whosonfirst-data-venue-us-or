@@ -2,13 +2,14 @@
   "id": 386930477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.857892,42.338165,-122.857892,42.338165",
     "geom:latitude":42.338165,
     "geom:longitude":-122.857892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1172 Spring St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386930477,
-    "wof:lastmodified":1449028716,
+    "wof:lastmodified":1466767150,
     "wof:name":"Standfield Landscape",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-122.857892,42.338165,-122.857892,42.338165],
-  "geometry": {"coordinates":[-122.857892,42.338165],"type":"Point"}
+  "bbox": [
+    -122.857892,
+    42.338165,
+    -122.857892,
+    42.338165
+],
+  "geometry": {"coordinates":[-122.85789200000001,42.338165],"type":"Point"}
 }

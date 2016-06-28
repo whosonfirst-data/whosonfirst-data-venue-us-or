@@ -2,13 +2,14 @@
   "id": 370650271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.756048,45.397078,-122.756048,45.397078",
     "geom:latitude":45.397078,
     "geom:longitude":-122.756048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17051 SW Rivendell Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370650271,
-    "wof:lastmodified":1449031151,
+    "wof:lastmodified":1466773293,
     "wof:name":"Carlson Custom Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-122.756048,45.397078,-122.756048,45.397078],
-  "geometry": {"coordinates":[-122.756048,45.397078],"type":"Point"}
+  "bbox": [
+    -122.756048,
+    45.397078,
+    -122.756048,
+    45.397078
+],
+  "geometry": {"coordinates":[-122.75604800000001,45.397078],"type":"Point"}
 }

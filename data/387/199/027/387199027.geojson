@@ -2,13 +2,14 @@
   "id": 387199027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.105408,45.512296,-123.105408,45.512296",
     "geom:latitude":45.512296,
     "geom:longitude":-123.105408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 14th Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387199027,
-    "wof:lastmodified":1449056497,
+    "wof:lastmodified":1466770766,
     "wof:name":"Oregon Environmental Concerns",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.105408,45.512296,-123.105408,45.512296],
+  "bbox": [
+    -123.105408,
+    45.512296,
+    -123.105408,
+    45.512296
+],
   "geometry": {"coordinates":[-123.105408,45.512296],"type":"Point"}
 }

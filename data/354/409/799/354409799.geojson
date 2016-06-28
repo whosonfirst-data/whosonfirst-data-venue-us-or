@@ -2,13 +2,14 @@
   "id": 354409799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.280758,42.931312,-123.280758,42.931312",
     "geom:latitude":42.931312,
     "geom:longitude":-123.280758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main St",
     "sg:city":"Canyonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354409799,
-    "wof:lastmodified":1449066622,
+    "wof:lastmodified":1466767175,
     "wof:name":"Adult & Family Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-123.280758,42.931312,-123.280758,42.931312],
-  "geometry": {"coordinates":[-123.280758,42.931312],"type":"Point"}
+  "bbox": [
+    -123.280758,
+    42.931312,
+    -123.280758,
+    42.931312
+],
+  "geometry": {"coordinates":[-123.28075800000001,42.931312],"type":"Point"}
 }

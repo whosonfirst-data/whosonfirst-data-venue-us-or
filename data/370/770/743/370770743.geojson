@@ -2,13 +2,14 @@
   "id": 370770743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.66207,44.90416,-122.66207,44.90416",
     "geom:latitude":44.90416,
     "geom:longitude":-122.66207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19500 Desantis Ln SE",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370770743,
-    "wof:lastmodified":1449032545,
+    "wof:lastmodified":1466773814,
     "wof:name":"De Santis Directional Drilling",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "utility"
     ]
 },
-  "bbox": [-122.66207,44.90416,-122.66207,44.90416],
+  "bbox": [
+    -122.66207,
+    44.90416,
+    -122.66207,
+    44.90416
+],
   "geometry": {"coordinates":[-122.66207,44.90416],"type":"Point"}
 }

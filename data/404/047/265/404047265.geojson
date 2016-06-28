@@ -2,13 +2,14 @@
   "id": 404047265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.89228,45.529338,-122.89228,45.529338",
     "geom:latitude":45.529338,
     "geom:longitude":-122.89228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 NW 209th Ln",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404047265,
-    "wof:lastmodified":1449039904,
+    "wof:lastmodified":1466769296,
     "wof:name":"Signature Woodworks LLC",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.89228,45.529338,-122.89228,45.529338],
+  "bbox": [
+    -122.89228,
+    45.529338,
+    -122.89228,
+    45.529338
+],
   "geometry": {"coordinates":[-122.89228,45.529338],"type":"Point"}
 }

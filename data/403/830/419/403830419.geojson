@@ -2,13 +2,14 @@
   "id": 403830419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.953968,45.593625,-122.953968,45.593625",
     "geom:latitude":45.593625,
     "geom:longitude":-122.953968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26825 NW West Union Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403830419,
-    "wof:lastmodified":1449054925,
+    "wof:lastmodified":1466770359,
     "wof:name":"MCS Development Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.953968,45.593625,-122.953968,45.593625],
+  "bbox": [
+    -122.953968,
+    45.593625,
+    -122.953968,
+    45.593625
+],
   "geometry": {"coordinates":[-122.953968,45.593625],"type":"Point"}
 }

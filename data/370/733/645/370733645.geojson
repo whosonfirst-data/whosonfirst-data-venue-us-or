@@ -2,13 +2,14 @@
   "id": 370733645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.291077,46.11141,-123.291077,46.11141",
     "geom:latitude":46.11141,
     "geom:longitude":-123.291077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13037 Hwy 30",
     "sg:city":"Clatskanie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370733645,
-    "wof:lastmodified":1449029565,
+    "wof:lastmodified":1466773803,
     "wof:name":"Rick Johnson Rick Trucking",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.291077,46.11141,-123.291077,46.11141],
+  "bbox": [
+    -123.291077,
+    46.11141,
+    -123.291077,
+    46.11141
+],
   "geometry": {"coordinates":[-123.291077,46.11141],"type":"Point"}
 }

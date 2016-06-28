@@ -2,13 +2,14 @@
   "id": 387444995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014085,44.978233,-123.014085,44.978233",
     "geom:latitude":44.978233,
     "geom:longitude":-123.014085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3645 Brooks Ave NE",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387444995,
-    "wof:lastmodified":1449059404,
+    "wof:lastmodified":1466772895,
     "wof:name":"Pacific Concrete Construction",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.014085,44.978233,-123.014085,44.978233],
-  "geometry": {"coordinates":[-123.014085,44.978233],"type":"Point"}
+  "bbox": [
+    -123.014085,
+    44.978233,
+    -123.014085,
+    44.978233
+],
+  "geometry": {"coordinates":[-123.01408499999999,44.978233],"type":"Point"}
 }

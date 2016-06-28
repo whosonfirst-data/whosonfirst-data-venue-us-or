@@ -2,13 +2,14 @@
   "id": 387462381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.246136,44.593863,-123.246136,44.593863",
     "geom:latitude":44.593863,
     "geom:longitude":-123.246136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2675 NE Lancaster St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387462381,
-    "wof:lastmodified":1449059767,
+    "wof:lastmodified":1466773009,
     "wof:name":"Willamette Mgmnt Grp",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.246136,44.593863,-123.246136,44.593863],
-  "geometry": {"coordinates":[-123.246136,44.593863],"type":"Point"}
+  "bbox": [
+    -123.246136,
+    44.593863,
+    -123.246136,
+    44.593863
+],
+  "geometry": {"coordinates":[-123.24613600000001,44.593863],"type":"Point"}
 }

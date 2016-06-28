@@ -2,13 +2,14 @@
   "id": 404012785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.802123,44.99179,-122.802123,44.99179",
     "geom:latitude":44.99179,
     "geom:longitude":-122.802123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4598 Cascade Hwy NE",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404012785,
-    "wof:lastmodified":1449040214,
+    "wof:lastmodified":1466768666,
     "wof:name":"Marion County Road Mntnc",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.802123,44.99179,-122.802123,44.99179],
-  "geometry": {"coordinates":[-122.802123,44.99179],"type":"Point"}
+  "bbox": [
+    -122.802123,
+    44.99179,
+    -122.802123,
+    44.99179
+],
+  "geometry": {"coordinates":[-122.80212299999999,44.99179],"type":"Point"}
 }

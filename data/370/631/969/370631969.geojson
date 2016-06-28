@@ -2,13 +2,14 @@
   "id": 370631969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.775611,42.220573,-121.775611,42.220573",
     "geom:latitude":42.220573,
     "geom:longitude":-121.775611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 S 6th St",
     "sg:city":"Klamath Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370631969,
-    "wof:lastmodified":1449030144,
+    "wof:lastmodified":1466773193,
     "wof:name":"Construction",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "freeze"
     ]
 },
-  "bbox": [-121.775611,42.220573,-121.775611,42.220573],
+  "bbox": [
+    -121.775611,
+    42.220573,
+    -121.775611,
+    42.220573
+],
   "geometry": {"coordinates":[-121.775611,42.220573],"type":"Point"}
 }

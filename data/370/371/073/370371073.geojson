@@ -2,13 +2,14 @@
   "id": 370371073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.991239,44.052999,-122.991239,44.052999",
     "geom:latitude":44.052999,
     "geom:longitude":-122.991239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 Dubens Ln",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370371073,
-    "wof:lastmodified":1449031734,
+    "wof:lastmodified":1466771232,
     "wof:name":"Doyle Enterprises",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-122.991239,44.052999,-122.991239,44.052999],
-  "geometry": {"coordinates":[-122.991239,44.052999],"type":"Point"}
+  "bbox": [
+    -122.991239,
+    44.052999,
+    -122.991239,
+    44.052999
+],
+  "geometry": {"coordinates":[-122.99123899999999,44.052999],"type":"Point"}
 }

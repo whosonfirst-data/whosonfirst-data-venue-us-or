@@ -2,13 +2,14 @@
   "id": 370305433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.604977,45.380465,-122.604977,45.380465",
     "geom:latitude":45.380465,
     "geom:longitude":-122.604977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19470 McLoughlin Blvd",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370305433,
-    "wof:lastmodified":1449029604,
+    "wof:lastmodified":1466769915,
     "wof:name":"Thomason Suzuki",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.604977,45.380465,-122.604977,45.380465],
-  "geometry": {"coordinates":[-122.604977,45.380465],"type":"Point"}
+  "bbox": [
+    -122.604977,
+    45.380465,
+    -122.604977,
+    45.380465
+],
+  "geometry": {"coordinates":[-122.60497700000001,45.380465],"type":"Point"}
 }

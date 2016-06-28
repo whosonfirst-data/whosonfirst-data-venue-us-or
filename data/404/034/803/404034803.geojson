@@ -2,13 +2,14 @@
   "id": 404034803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.221347,44.600888,-123.221347,44.600888",
     "geom:latitude":44.600888,
     "geom:longitude":-123.221347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 US Hwy 20",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404034803,
-    "wof:lastmodified":1449039154,
+    "wof:lastmodified":1466769070,
     "wof:name":"Cole Garden Farms",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-123.221347,44.600888,-123.221347,44.600888],
-  "geometry": {"coordinates":[-123.221347,44.600888],"type":"Point"}
+  "bbox": [
+    -123.221347,
+    44.600888,
+    -123.221347,
+    44.600888
+],
+  "geometry": {"coordinates":[-123.22134699999999,44.600888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403871741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.792325,44.797166,-122.792325,44.797166",
     "geom:latitude":44.797166,
     "geom:longitude":-122.792325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N 3rd Ave",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403871741,
-    "wof:lastmodified":1449055058,
+    "wof:lastmodified":1466771192,
     "wof:name":"Stayton Heating & Cooling",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.792325,44.797166,-122.792325,44.797166],
-  "geometry": {"coordinates":[-122.792325,44.797166],"type":"Point"}
+  "bbox": [
+    -122.792325,
+    44.797166,
+    -122.792325,
+    44.797166
+],
+  "geometry": {"coordinates":[-122.79232500000001,44.797166],"type":"Point"}
 }

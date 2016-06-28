@@ -2,13 +2,14 @@
   "id": 370275241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.026533,44.988006,-123.026533,44.988006",
     "geom:latitude":44.988006,
     "geom:longitude":-123.026533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 River Rd N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370275241,
-    "wof:lastmodified":1449030188,
+    "wof:lastmodified":1466769363,
     "wof:name":"West Coast Bank",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.026533,44.988006,-123.026533,44.988006],
+  "bbox": [
+    -123.026533,
+    44.988006,
+    -123.026533,
+    44.988006
+],
   "geometry": {"coordinates":[-123.026533,44.988006],"type":"Point"}
 }

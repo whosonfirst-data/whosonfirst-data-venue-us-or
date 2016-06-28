@@ -2,13 +2,14 @@
   "id": 370831889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.846302,45.134464,-122.846302,45.134464",
     "geom:latitude":45.134464,
     "geom:longitude":-122.846302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Pacific Hwy",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370831889,
-    "wof:lastmodified":1449031061,
+    "wof:lastmodified":1466774304,
     "wof:name":"Woodburn Veterinary Clinic",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-122.846302,45.134464,-122.846302,45.134464],
-  "geometry": {"coordinates":[-122.846302,45.134464],"type":"Point"}
+  "bbox": [
+    -122.846302,
+    45.134464,
+    -122.846302,
+    45.134464
+],
+  "geometry": {"coordinates":[-122.84630199999999,45.134464],"type":"Point"}
 }

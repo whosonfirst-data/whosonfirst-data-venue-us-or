@@ -2,13 +2,14 @@
   "id": 370379815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.140397,44.108962,-123.140397,44.108962",
     "geom:latitude":44.108962,
     "geom:longitude":-123.140397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3146 Columbine St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370379815,
-    "wof:lastmodified":1449031044,
+    "wof:lastmodified":1466771395,
     "wof:name":"Cantrells Enterprises",
     "wof:parent_id":85877255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.140397,44.108962,-123.140397,44.108962],
-  "geometry": {"coordinates":[-123.140397,44.108962],"type":"Point"}
+  "bbox": [
+    -123.140397,
+    44.108962,
+    -123.140397,
+    44.108962
+],
+  "geometry": {"coordinates":[-123.14039699999999,44.108962],"type":"Point"}
 }

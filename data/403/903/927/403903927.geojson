@@ -2,13 +2,14 @@
   "id": 403903927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.027424,44.914011,-123.027424,44.914011",
     "geom:latitude":44.914011,
     "geom:longitude":-123.027424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Pringle Rd SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403903927,
-    "wof:lastmodified":1449054707,
+    "wof:lastmodified":1466767430,
     "wof:name":"Bio-Tek Medical Inc",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.027424,44.914011,-123.027424,44.914011],
+  "bbox": [
+    -123.027424,
+    44.914011,
+    -123.027424,
+    44.914011
+],
   "geometry": {"coordinates":[-123.027424,44.914011],"type":"Point"}
 }

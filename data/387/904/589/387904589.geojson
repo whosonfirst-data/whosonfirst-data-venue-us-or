@@ -2,13 +2,14 @@
   "id": 387904589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03812,45.00429,-123.03812,45.00429",
     "geom:latitude":45.00429,
     "geom:longitude":-123.03812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 McClure St N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387904589,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1466775299,
     "wof:name":"Keizer Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.03812,45.00429,-123.03812,45.00429],
-  "geometry": {"coordinates":[-123.03812,45.00429],"type":"Point"}
+  "bbox": [
+    -123.03812,
+    45.00429,
+    -123.03812,
+    45.00429
+],
+  "geometry": {"coordinates":[-123.03812000000001,45.00429],"type":"Point"}
 }

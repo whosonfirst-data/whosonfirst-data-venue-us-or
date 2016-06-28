@@ -2,13 +2,14 @@
   "id": 387005473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.230714,45.243381,-123.230714,45.243381",
     "geom:latitude":45.243381,
     "geom:longitude":-123.230714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 NW Hill Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387005473,
-    "wof:lastmodified":1449059608,
+    "wof:lastmodified":1466767219,
     "wof:name":"Niehus Construction",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.230714,45.243381,-123.230714,45.243381],
-  "geometry": {"coordinates":[-123.230714,45.243381],"type":"Point"}
+  "bbox": [
+    -123.230714,
+    45.243381,
+    -123.230714,
+    45.243381
+],
+  "geometry": {"coordinates":[-123.23071400000001,45.243381],"type":"Point"}
 }

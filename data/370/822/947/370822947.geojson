@@ -2,13 +2,14 @@
   "id": 370822947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10242,45.078791,-123.10242,45.078791",
     "geom:latitude":45.078791,
     "geom:longitude":-123.10242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13400 Kirkwood Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370822947,
-    "wof:lastmodified":1449032367,
+    "wof:lastmodified":1466774251,
     "wof:name":"Hopewell Hollows Farm",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-123.10242,45.078791,-123.10242,45.078791],
+  "bbox": [
+    -123.10242,
+    45.078791,
+    -123.10242,
+    45.078791
+],
   "geometry": {"coordinates":[-123.10242,45.078791],"type":"Point"}
 }

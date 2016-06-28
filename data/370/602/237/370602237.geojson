@@ -2,13 +2,14 @@
   "id": 370602237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.036549,44.056584,-123.036549,44.056584",
     "geom:latitude":44.056584,
     "geom:longitude":-123.036549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 W Centennial Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370602237,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1466773138,
     "wof:name":"Medical Equipment Direct",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-123.036549,44.056584,-123.036549,44.056584],
-  "geometry": {"coordinates":[-123.036549,44.056584],"type":"Point"}
+  "bbox": [
+    -123.036549,
+    44.056584,
+    -123.036549,
+    44.056584
+],
+  "geometry": {"coordinates":[-123.03654899999999,44.056584],"type":"Point"}
 }

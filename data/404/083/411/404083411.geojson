@@ -2,13 +2,14 @@
   "id": 404083411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.469527,45.479565,-122.469527,45.479565",
     "geom:latitude":45.479565,
     "geom:longitude":-122.469527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 SW Thomas Pl",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404083411,
-    "wof:lastmodified":1449039581,
+    "wof:lastmodified":1466769992,
     "wof:name":"Forte",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-122.469527,45.479565,-122.469527,45.479565],
+  "bbox": [
+    -122.469527,
+    45.479565,
+    -122.469527,
+    45.479565
+],
   "geometry": {"coordinates":[-122.469527,45.479565],"type":"Point"}
 }

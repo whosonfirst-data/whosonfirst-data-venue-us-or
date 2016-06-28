@@ -2,13 +2,14 @@
   "id": 387602713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.295032,44.914645,-123.295032,44.914645",
     "geom:latitude":44.914645,
     "geom:longitude":-123.295032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 SE Godsey Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387602713,
-    "wof:lastmodified":1449057892,
+    "wof:lastmodified":1466773844,
     "wof:name":"Leskrack Inc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.295032,44.914645,-123.295032,44.914645],
-  "geometry": {"coordinates":[-123.295032,44.914645],"type":"Point"}
+  "bbox": [
+    -123.295032,
+    44.914645,
+    -123.295032,
+    44.914645
+],
+  "geometry": {"coordinates":[-123.29503200000001,44.914645],"type":"Point"}
 }

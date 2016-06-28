@@ -2,13 +2,14 @@
   "id": 370628677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.611975,46.165747,-123.611975,46.165747",
     "geom:latitude":46.165747,
     "geom:longitude":-123.611975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41418 Old US Hwy 30",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370628677,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1466773280,
     "wof:name":"WIL-Mar Stables",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-123.611975,46.165747,-123.611975,46.165747],
+  "bbox": [
+    -123.611975,
+    46.165747,
+    -123.611975,
+    46.165747
+],
   "geometry": {"coordinates":[-123.611975,46.165747],"type":"Point"}
 }

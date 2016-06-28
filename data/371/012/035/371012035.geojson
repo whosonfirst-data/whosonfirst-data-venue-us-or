@@ -2,13 +2,14 @@
   "id": 371012035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.041793,44.669439,-123.041793,44.669439",
     "geom:latitude":44.669439,
     "geom:longitude":-123.041793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37794 Shady Bend Rd NE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371012035,
-    "wof:lastmodified":1449050031,
+    "wof:lastmodified":1466767341,
     "wof:name":"Shady Bend Properties",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.041793,44.669439,-123.041793,44.669439],
+  "bbox": [
+    -123.041793,
+    44.669439,
+    -123.041793,
+    44.669439
+],
   "geometry": {"coordinates":[-123.041793,44.669439],"type":"Point"}
 }

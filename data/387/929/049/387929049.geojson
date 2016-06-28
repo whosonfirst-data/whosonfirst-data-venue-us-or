@@ -2,13 +2,14 @@
   "id": 387929049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.038904,45.514342,-123.038904,45.514342",
     "geom:latitude":45.514342,
     "geom:longitude":-123.038904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 S Webb Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387929049,
-    "wof:lastmodified":1449057562,
+    "wof:lastmodified":1466775403,
     "wof:name":"LMS Concrete",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-123.038904,45.514342,-123.038904,45.514342],
+  "bbox": [
+    -123.038904,
+    45.514342,
+    -123.038904,
+    45.514342
+],
   "geometry": {"coordinates":[-123.038904,45.514342],"type":"Point"}
 }

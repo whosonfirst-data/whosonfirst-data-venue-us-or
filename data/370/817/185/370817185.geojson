@@ -2,13 +2,14 @@
   "id": 370817185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652103,45.531976,-122.652103,45.531976",
     "geom:latitude":45.531976,
     "geom:longitude":-122.652103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1049 Lloyd Center",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370817185,
-    "wof:lastmodified":1449031815,
+    "wof:lastmodified":1466774067,
     "wof:name":"Ben Bridge Jeweler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-122.652103,45.531976,-122.652103,45.531976],
+  "bbox": [
+    -122.652103,
+    45.531976,
+    -122.652103,
+    45.531976
+],
   "geometry": {"coordinates":[-122.652103,45.531976],"type":"Point"}
 }

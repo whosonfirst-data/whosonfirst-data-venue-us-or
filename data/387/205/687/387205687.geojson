@@ -2,13 +2,14 @@
   "id": 387205687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.501342,45.499997,-122.501342,45.499997",
     "geom:latitude":45.499997,
     "geom:longitude":-122.501342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 SE 158th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387205687,
-    "wof:lastmodified":1449058403,
+    "wof:lastmodified":1466770902,
     "wof:name":"Dennys Plumbing",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.501342,45.499997,-122.501342,45.499997],
-  "geometry": {"coordinates":[-122.501342,45.499997],"type":"Point"}
+  "bbox": [
+    -122.501342,
+    45.499997,
+    -122.501342,
+    45.499997
+],
+  "geometry": {"coordinates":[-122.50134199999999,45.499997],"type":"Point"}
 }

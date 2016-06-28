@@ -2,13 +2,14 @@
   "id": 387680865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.589423,45.472165,-122.589423,45.472165",
     "geom:latitude":45.472165,
     "geom:longitude":-122.589423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7023 SE 72nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387680865,
-    "wof:lastmodified":1449058776,
+    "wof:lastmodified":1466774381,
     "wof:name":"Action Tile",
     "wof:parent_id":85871469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.589423,45.472165,-122.589423,45.472165],
+  "bbox": [
+    -122.589423,
+    45.472165,
+    -122.589423,
+    45.472165
+],
   "geometry": {"coordinates":[-122.589423,45.472165],"type":"Point"}
 }

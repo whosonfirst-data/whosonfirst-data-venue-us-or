@@ -2,13 +2,14 @@
   "id": 387528135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.649499,45.541844,-122.649499,45.541844",
     "geom:latitude":45.541844,
     "geom:longitude":-122.649499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 NE 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387528135,
-    "wof:lastmodified":1449057118,
+    "wof:lastmodified":1466773455,
     "wof:name":"Kelly and Elliott Ltd",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-122.649499,45.541844,-122.649499,45.541844],
-  "geometry": {"coordinates":[-122.649499,45.541844],"type":"Point"}
+  "bbox": [
+    -122.649499,
+    45.541844,
+    -122.649499,
+    45.541844
+],
+  "geometry": {"coordinates":[-122.64949900000001,45.541844],"type":"Point"}
 }

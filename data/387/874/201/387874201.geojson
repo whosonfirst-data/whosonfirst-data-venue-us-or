@@ -2,13 +2,14 @@
   "id": 387874201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.055023,44.034571,-123.055023,44.034571",
     "geom:latitude":44.034571,
     "geom:longitude":-123.055023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 Floral Hill Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387874201,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1466775208,
     "wof:name":"Charles I Wright DMD",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.055023,44.034571,-123.055023,44.034571],
-  "geometry": {"coordinates":[-123.055023,44.034571],"type":"Point"}
+  "bbox": [
+    -123.055023,
+    44.034571,
+    -123.055023,
+    44.034571
+],
+  "geometry": {"coordinates":[-123.05502300000001,44.034571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387466585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581032,45.493502,-122.581032,45.493502",
     "geom:latitude":45.493502,
     "geom:longitude":-122.581032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 SE 80th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387466585,
-    "wof:lastmodified":1449057235,
+    "wof:lastmodified":1466773038,
     "wof:name":"Village Enterprises",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.581032,45.493502,-122.581032,45.493502],
-  "geometry": {"coordinates":[-122.581032,45.493502],"type":"Point"}
+  "bbox": [
+    -122.581032,
+    45.493502,
+    -122.581032,
+    45.493502
+],
+  "geometry": {"coordinates":[-122.58103199999999,45.493502],"type":"Point"}
 }

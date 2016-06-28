@@ -2,13 +2,14 @@
   "id": 403775643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.101192,45.517155,-123.101192,45.517155",
     "geom:latitude":45.517155,
     "geom:longitude":-123.101192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Filbert St",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403775643,
-    "wof:lastmodified":1449055597,
+    "wof:lastmodified":1466769270,
     "wof:name":"Miller Video Service",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-123.101192,45.517155,-123.101192,45.517155],
+  "bbox": [
+    -123.101192,
+    45.517155,
+    -123.101192,
+    45.517155
+],
   "geometry": {"coordinates":[-123.101192,45.517155],"type":"Point"}
 }

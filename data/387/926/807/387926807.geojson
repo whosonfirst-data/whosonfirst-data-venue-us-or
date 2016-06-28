@@ -2,13 +2,14 @@
   "id": 387926807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.074316,44.065535,-123.074316,44.065535",
     "geom:latitude":44.065535,
     "geom:longitude":-123.074316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Coburg Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387926807,
-    "wof:lastmodified":1449057426,
+    "wof:lastmodified":1466775395,
     "wof:name":"Cruise Center",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-123.074316,44.065535,-123.074316,44.065535],
+  "bbox": [
+    -123.074316,
+    44.065535,
+    -123.074316,
+    44.065535
+],
   "geometry": {"coordinates":[-123.074316,44.065535],"type":"Point"}
 }

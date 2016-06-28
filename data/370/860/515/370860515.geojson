@@ -2,13 +2,14 @@
   "id": 370860515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.745038,44.833165,-122.745038,44.833165",
     "geom:latitude":44.833165,
     "geom:longitude":-122.745038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15686 Coon Hollow Rd SE",
     "sg:city":"Stayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370860515,
-    "wof:lastmodified":1449030601,
+    "wof:lastmodified":1466774467,
     "wof:name":"Claude Philips",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-122.745038,44.833165,-122.745038,44.833165],
-  "geometry": {"coordinates":[-122.745038,44.833165],"type":"Point"}
+  "bbox": [
+    -122.745038,
+    44.833165,
+    -122.745038,
+    44.833165
+],
+  "geometry": {"coordinates":[-122.74503799999999,44.833165],"type":"Point"}
 }

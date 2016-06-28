@@ -2,13 +2,14 @@
   "id": 370999727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801326,45.178646,-122.801326,45.178646",
     "geom:latitude":45.178646,
     "geom:longitude":-122.801326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 Rainbow Loop",
     "sg:city":"Hubbard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370999727,
-    "wof:lastmodified":1449032050,
+    "wof:lastmodified":1466775016,
     "wof:name":"Scotty's Painting",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.801326,45.178646,-122.801326,45.178646],
+  "bbox": [
+    -122.801326,
+    45.178646,
+    -122.801326,
+    45.178646
+],
   "geometry": {"coordinates":[-122.801326,45.178646],"type":"Point"}
 }

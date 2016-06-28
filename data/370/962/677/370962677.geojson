@@ -2,13 +2,14 @@
   "id": 370962677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.947023,45.29425,-122.947023,45.29425",
     "geom:latitude":45.29425,
     "geom:longitude":-122.947023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Springbrook Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370962677,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1466774990,
     "wof:name":"NW Cryogenics",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cryogenics"
     ]
 },
-  "bbox": [-122.947023,45.29425,-122.947023,45.29425],
+  "bbox": [
+    -122.947023,
+    45.29425,
+    -122.947023,
+    45.29425
+],
   "geometry": {"coordinates":[-122.947023,45.29425],"type":"Point"}
 }

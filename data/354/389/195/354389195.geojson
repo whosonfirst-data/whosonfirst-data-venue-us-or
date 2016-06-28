@@ -2,13 +2,14 @@
   "id": 354389195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.095875,44.046189,-123.095875,44.046189",
     "geom:latitude":44.046189,
     "geom:longitude":-123.095875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Charnelton St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354389195,
-    "wof:lastmodified":1449067282,
+    "wof:lastmodified":1466771111,
     "wof:name":"Countryside Disposal Svc",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-123.095875,44.046189,-123.095875,44.046189],
-  "geometry": {"coordinates":[-123.095875,44.046189],"type":"Point"}
+  "bbox": [
+    -123.095875,
+    44.046189,
+    -123.095875,
+    44.046189
+],
+  "geometry": {"coordinates":[-123.09587500000001,44.046189],"type":"Point"}
 }

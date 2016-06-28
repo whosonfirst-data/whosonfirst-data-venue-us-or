@@ -2,13 +2,14 @@
   "id": 370277371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.037703,44.056234,-123.037703,44.056234",
     "geom:latitude":44.056234,
     "geom:longitude":-123.037703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Centennial Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370277371,
-    "wof:lastmodified":1449029471,
+    "wof:lastmodified":1466769403,
     "wof:name":"Taco Time",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"
     ]
 },
-  "bbox": [-123.037703,44.056234,-123.037703,44.056234],
-  "geometry": {"coordinates":[-123.037703,44.056234],"type":"Point"}
+  "bbox": [
+    -123.037703,
+    44.056234,
+    -123.037703,
+    44.056234
+],
+  "geometry": {"coordinates":[-123.03770299999999,44.056234],"type":"Point"}
 }

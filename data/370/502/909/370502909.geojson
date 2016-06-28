@@ -2,13 +2,14 @@
   "id": 370502909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.284938,45.84868,-119.284938,45.84868",
     "geom:latitude":45.84868,
     "geom:longitude":-119.284938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 NE 4th St",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370502909,
-    "wof:lastmodified":1449030650,
+    "wof:lastmodified":1466772209,
     "wof:name":"Hermiston Public Works",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-119.284938,45.84868,-119.284938,45.84868],
+  "bbox": [
+    -119.284938,
+    45.84868,
+    -119.284938,
+    45.84868
+],
   "geometry": {"coordinates":[-119.284938,45.84868],"type":"Point"}
 }

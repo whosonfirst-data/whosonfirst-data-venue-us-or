@@ -2,13 +2,14 @@
   "id": 370233577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.783375,45.520004,-122.783375,45.520004",
     "geom:latitude":45.520004,
     "geom:longitude":-122.783375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10360 NW Lee St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370233577,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1466768592,
     "wof:name":"Sean Cohen-Pope Carptr & Ptr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hanging"
     ]
 },
-  "bbox": [-122.783375,45.520004,-122.783375,45.520004],
-  "geometry": {"coordinates":[-122.783375,45.520004],"type":"Point"}
+  "bbox": [
+    -122.783375,
+    45.520004,
+    -122.783375,
+    45.520004
+],
+  "geometry": {"coordinates":[-122.78337500000001,45.520004],"type":"Point"}
 }

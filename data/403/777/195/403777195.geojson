@@ -2,13 +2,14 @@
   "id": 403777195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.224835,44.562872,-123.224835,44.562872",
     "geom:latitude":44.562872,
     "geom:longitude":-123.224835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33880 SE Eastgate Cir",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403777195,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1466769285,
     "wof:name":"Max Call Inc",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "distributes"
     ]
 },
-  "bbox": [-123.224835,44.562872,-123.224835,44.562872],
+  "bbox": [
+    -123.224835,
+    44.562872,
+    -123.224835,
+    44.562872
+],
   "geometry": {"coordinates":[-123.224835,44.562872],"type":"Point"}
 }

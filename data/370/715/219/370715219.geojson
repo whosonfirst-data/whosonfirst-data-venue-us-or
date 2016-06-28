@@ -2,13 +2,14 @@
   "id": 370715219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.949059,45.526026,-122.949059,45.526026",
     "geom:latitude":45.526026,
     "geom:longitude":-122.949059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3256 NE Olympic St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715219,
-    "wof:lastmodified":1449031803,
+    "wof:lastmodified":1466773524,
     "wof:name":"Garden Homes",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-122.949059,45.526026,-122.949059,45.526026],
-  "geometry": {"coordinates":[-122.949059,45.526026],"type":"Point"}
+  "bbox": [
+    -122.949059,
+    45.526026,
+    -122.949059,
+    45.526026
+],
+  "geometry": {"coordinates":[-122.94905900000001,45.526026],"type":"Point"}
 }

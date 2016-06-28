@@ -2,13 +2,14 @@
   "id": 387679885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.748801,45.454482,-122.748801,45.454482",
     "geom:latitude":45.454482,
     "geom:longitude":-122.748801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9445 SW 70th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387679885,
-    "wof:lastmodified":1449058557,
+    "wof:lastmodified":1466774379,
     "wof:name":"Homezome",
     "wof:parent_id":85871487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-122.748801,45.454482,-122.748801,45.454482],
+  "bbox": [
+    -122.748801,
+    45.454482,
+    -122.748801,
+    45.454482
+],
   "geometry": {"coordinates":[-122.748801,45.454482],"type":"Point"}
 }

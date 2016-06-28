@@ -2,13 +2,14 @@
   "id": 387511769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.005496,44.044491,-123.005496,44.044491",
     "geom:latitude":44.044491,
     "geom:longitude":-123.005496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S 14th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387511769,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1466773307,
     "wof:name":"Direct Tel Cell Phone Beepers",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sales"
     ]
 },
-  "bbox": [-123.005496,44.044491,-123.005496,44.044491],
-  "geometry": {"coordinates":[-123.005496,44.044491],"type":"Point"}
+  "bbox": [
+    -123.005496,
+    44.044491,
+    -123.005496,
+    44.044491
+],
+  "geometry": {"coordinates":[-123.00549599999999,44.044491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370302315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094304,44.005857,-123.094304,44.005857",
     "geom:latitude":44.005857,
     "geom:longitude":-123.094304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Westbrook Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370302315,
-    "wof:lastmodified":1449030244,
+    "wof:lastmodified":1466769856,
     "wof:name":"Floored By US Inc",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-123.094304,44.005857,-123.094304,44.005857],
-  "geometry": {"coordinates":[-123.094304,44.005857],"type":"Point"}
+  "bbox": [
+    -123.094304,
+    44.005857,
+    -123.094304,
+    44.005857
+],
+  "geometry": {"coordinates":[-123.09430399999999,44.005857],"type":"Point"}
 }

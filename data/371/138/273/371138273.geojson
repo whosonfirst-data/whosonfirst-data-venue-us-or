@@ -2,13 +2,14 @@
   "id": 371138273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.006651,44.060212,-123.006651,44.060212",
     "geom:latitude":44.060212,
     "geom:longitude":-123.006651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 Pleasant St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371138273,
-    "wof:lastmodified":1449049301,
+    "wof:lastmodified":1466769483,
     "wof:name":"Moms & Ronnies Foster Home",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.006651,44.060212,-123.006651,44.060212],
-  "geometry": {"coordinates":[-123.006651,44.060212],"type":"Point"}
+  "bbox": [
+    -123.006651,
+    44.060212,
+    -123.006651,
+    44.060212
+],
+  "geometry": {"coordinates":[-123.00665100000001,44.060212],"type":"Point"}
 }

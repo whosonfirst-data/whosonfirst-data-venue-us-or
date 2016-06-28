@@ -2,13 +2,14 @@
   "id": 403842603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.74486,45.504043,-122.74486,45.504043",
     "geom:latitude":45.504043,
     "geom:longitude":-122.74486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6788 SW Canyon Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403842603,
-    "wof:lastmodified":1449054736,
+    "wof:lastmodified":1466770648,
     "wof:name":"DCI Intl",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.74486,45.504043,-122.74486,45.504043],
+  "bbox": [
+    -122.74486,
+    45.504043,
+    -122.74486,
+    45.504043
+],
   "geometry": {"coordinates":[-122.74486,45.504043],"type":"Point"}
 }

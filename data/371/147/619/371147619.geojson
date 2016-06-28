@@ -2,13 +2,14 @@
   "id": 371147619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030859,44.912194,-123.030859,44.912194",
     "geom:latitude":44.912194,
     "geom:longitude":-123.030859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2973 12th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371147619,
-    "wof:lastmodified":1449050011,
+    "wof:lastmodified":1466769661,
     "wof:name":"Tualatin Valley Builders",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.030859,44.912194,-123.030859,44.912194],
-  "geometry": {"coordinates":[-123.030859,44.912194],"type":"Point"}
+  "bbox": [
+    -123.030859,
+    44.912194,
+    -123.030859,
+    44.912194
+],
+  "geometry": {"coordinates":[-123.03085900000001,44.912194],"type":"Point"}
 }

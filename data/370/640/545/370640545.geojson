@@ -2,13 +2,14 @@
   "id": 370640545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.311269,42.430685,-123.311269,42.430685",
     "geom:latitude":42.430685,
     "geom:longitude":-123.311269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 SE M St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370640545,
-    "wof:lastmodified":1449030559,
+    "wof:lastmodified":1466773142,
     "wof:name":"Unity Church Of Grants Pass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.311269,42.430685,-123.311269,42.430685],
+  "bbox": [
+    -123.311269,
+    42.430685,
+    -123.311269,
+    42.430685
+],
   "geometry": {"coordinates":[-123.311269,42.430685],"type":"Point"}
 }

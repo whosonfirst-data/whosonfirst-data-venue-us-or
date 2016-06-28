@@ -2,13 +2,14 @@
   "id": 403703211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.235431,43.98533,-117.235431,43.98533",
     "geom:latitude":43.98533,
     "geom:longitude":-117.235431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 10th St",
     "sg:city":"Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403703211,
-    "wof:lastmodified":1449055047,
+    "wof:lastmodified":1466767847,
     "wof:name":"Sears",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-117.235431,43.98533,-117.235431,43.98533],
-  "geometry": {"coordinates":[-117.235431,43.98533],"type":"Point"}
+  "bbox": [
+    -117.235431,
+    43.98533,
+    -117.235431,
+    43.98533
+],
+  "geometry": {"coordinates":[-117.23543100000001,43.98533],"type":"Point"}
 }

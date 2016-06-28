@@ -2,13 +2,14 @@
   "id": 387001381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.330616,44.148216,-121.330616,44.148216",
     "geom:latitude":44.148216,
     "geom:longitude":-121.330616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64678 Cook Ave",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387001381,
-    "wof:lastmodified":1449056967,
+    "wof:lastmodified":1466767152,
     "wof:name":"Farmer John's Produce",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-121.330616,44.148216,-121.330616,44.148216],
-  "geometry": {"coordinates":[-121.330616,44.148216],"type":"Point"}
+  "bbox": [
+    -121.330616,
+    44.148216,
+    -121.330616,
+    44.148216
+],
+  "geometry": {"coordinates":[-121.33061600000001,44.148216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387804395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.29587,44.930922,-123.29587,44.930922",
     "geom:latitude":44.930922,
     "geom:longitude":-123.29587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 E Ellendale Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387804395,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466775009,
     "wof:name":"Lane Memory Antiques",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.29587,44.930922,-123.29587,44.930922],
-  "geometry": {"coordinates":[-123.29587,44.930922],"type":"Point"}
+  "bbox": [
+    -123.29587,
+    44.930922,
+    -123.29587,
+    44.930922
+],
+  "geometry": {"coordinates":[-123.29586999999999,44.930922],"type":"Point"}
 }

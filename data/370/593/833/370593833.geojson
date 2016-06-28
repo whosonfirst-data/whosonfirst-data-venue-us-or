@@ -2,13 +2,14 @@
   "id": 370593833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653001,45.345466,-122.653001,45.345466",
     "geom:latitude":45.345466,
     "geom:longitude":-122.653001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 8th Ave",
     "sg:city":"West Linn",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370593833,
-    "wof:lastmodified":1449031320,
+    "wof:lastmodified":1466772879,
     "wof:name":"Christian Willamette Church",
     "wof:parent_id":85846037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.653001,45.345466,-122.653001,45.345466],
+  "bbox": [
+    -122.653001,
+    45.345466,
+    -122.653001,
+    45.345466
+],
   "geometry": {"coordinates":[-122.653001,45.345466],"type":"Point"}
 }

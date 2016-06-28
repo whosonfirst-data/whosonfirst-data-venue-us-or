@@ -2,13 +2,14 @@
   "id": 387863405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.656279,45.568384,-122.656279,45.568384",
     "geom:latitude":45.568384,
     "geom:longitude":-122.656279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 NE Holman St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387863405,
-    "wof:lastmodified":1449058741,
+    "wof:lastmodified":1466775194,
     "wof:name":"Woman At Well",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-122.656279,45.568384,-122.656279,45.568384],
+  "bbox": [
+    -122.656279,
+    45.568384,
+    -122.656279,
+    45.568384
+],
   "geometry": {"coordinates":[-122.656279,45.568384],"type":"Point"}
 }

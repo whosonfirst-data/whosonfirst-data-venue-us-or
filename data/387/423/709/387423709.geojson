@@ -2,13 +2,14 @@
   "id": 387423709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.967818,45.022665,-122.967818,45.022665",
     "geom:latitude":45.022665,
     "geom:longitude":-122.967818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 Nevada St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387423709,
-    "wof:lastmodified":1449056733,
+    "wof:lastmodified":1466772617,
     "wof:name":"Joseph Brinkman",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-122.967818,45.022665,-122.967818,45.022665],
-  "geometry": {"coordinates":[-122.967818,45.022665],"type":"Point"}
+  "bbox": [
+    -122.967818,
+    45.022665,
+    -122.967818,
+    45.022665
+],
+  "geometry": {"coordinates":[-122.96781799999999,45.022665],"type":"Point"}
 }

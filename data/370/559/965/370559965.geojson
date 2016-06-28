@@ -2,13 +2,14 @@
   "id": 370559965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.403798,45.461394,-122.403798,45.461394",
     "geom:latitude":45.461394,
     "geom:longitude":-122.403798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24809 SE Rugg Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370559965,
-    "wof:lastmodified":1449031742,
+    "wof:lastmodified":1466772894,
     "wof:name":"Mountain View Boarding Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.403798,45.461394,-122.403798,45.461394],
-  "geometry": {"coordinates":[-122.403798,45.461394],"type":"Point"}
+  "bbox": [
+    -122.403798,
+    45.461394,
+    -122.403798,
+    45.461394
+],
+  "geometry": {"coordinates":[-122.40379799999999,45.461394],"type":"Point"}
 }

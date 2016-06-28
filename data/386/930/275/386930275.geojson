@@ -2,13 +2,14 @@
   "id": 386930275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.041581,44.914823,-123.041581,44.914823",
     "geom:latitude":44.914823,
     "geom:longitude":-123.041581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Waldo Ave SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386930275,
-    "wof:lastmodified":1449028716,
+    "wof:lastmodified":1466767147,
     "wof:name":"Candalaria Plaza Apartments",
     "wof:parent_id":85880595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.041581,44.914823,-123.041581,44.914823],
-  "geometry": {"coordinates":[-123.041581,44.914823],"type":"Point"}
+  "bbox": [
+    -123.041581,
+    44.914823,
+    -123.041581,
+    44.914823
+],
+  "geometry": {"coordinates":[-123.04158099999999,44.914823],"type":"Point"}
 }

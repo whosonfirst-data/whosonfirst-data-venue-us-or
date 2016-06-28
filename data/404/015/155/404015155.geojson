@@ -2,13 +2,14 @@
   "id": 404015155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.113337,45.243683,-123.113337,45.243683",
     "geom:latitude":45.243683,
     "geom:longitude":-123.113337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 3rd St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404015155,
-    "wof:lastmodified":1449039331,
+    "wof:lastmodified":1466768715,
     "wof:name":"Lafayette City Hall",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-123.113337,45.243683,-123.113337,45.243683],
+  "bbox": [
+    -123.113337,
+    45.243683,
+    -123.113337,
+    45.243683
+],
   "geometry": {"coordinates":[-123.113337,45.243683],"type":"Point"}
 }

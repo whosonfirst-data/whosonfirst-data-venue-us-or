@@ -2,13 +2,14 @@
   "id": 403841117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.308703,44.061088,-121.308703,44.061088",
     "geom:latitude":44.061088,
     "geom:longitude":-121.308703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 NW Hill St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403841117,
-    "wof:lastmodified":1449054919,
+    "wof:lastmodified":1466770614,
     "wof:name":"Pot Of Gold Thrift Store",
     "wof:parent_id":85876199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-121.308703,44.061088,-121.308703,44.061088],
-  "geometry": {"coordinates":[-121.308703,44.061088],"type":"Point"}
+  "bbox": [
+    -121.308703,
+    44.061088,
+    -121.308703,
+    44.061088
+],
+  "geometry": {"coordinates":[-121.30870299999999,44.061088],"type":"Point"}
 }

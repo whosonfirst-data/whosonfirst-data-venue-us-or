@@ -2,13 +2,14 @@
   "id": 370550485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690413,45.532006,-122.690413,45.532006",
     "geom:latitude":45.532006,
     "geom:longitude":-122.690413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 NW Overton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370550485,
-    "wof:lastmodified":1449030903,
+    "wof:lastmodified":1466772577,
     "wof:name":"E-Met",
     "wof:parent_id":85867139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-122.690413,45.532006,-122.690413,45.532006],
-  "geometry": {"coordinates":[-122.690413,45.532006],"type":"Point"}
+  "bbox": [
+    -122.690413,
+    45.532006,
+    -122.690413,
+    45.532006
+],
+  "geometry": {"coordinates":[-122.69041300000001,45.532006],"type":"Point"}
 }

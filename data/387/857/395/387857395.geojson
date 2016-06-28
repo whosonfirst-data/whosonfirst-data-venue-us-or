@@ -2,13 +2,14 @@
   "id": 387857395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.556858,45.561983,-122.556858,45.561983",
     "geom:latitude":45.561983,
     "geom:longitude":-122.556858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10404 NE Marx St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387857395,
-    "wof:lastmodified":1449058580,
+    "wof:lastmodified":1466775179,
     "wof:name":"Brooks Products Inc",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-122.556858,45.561983,-122.556858,45.561983],
-  "geometry": {"coordinates":[-122.556858,45.561983],"type":"Point"}
+  "bbox": [
+    -122.556858,
+    45.561983,
+    -122.556858,
+    45.561983
+],
+  "geometry": {"coordinates":[-122.55685800000001,45.561983],"type":"Point"}
 }

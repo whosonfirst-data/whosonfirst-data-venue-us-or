@@ -2,13 +2,14 @@
   "id": 387686039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.841303,45.559509,-122.841303,45.559509",
     "geom:latitude":45.559509,
     "geom:longitude":-122.841303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15870 NW Hackney Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387686039,
-    "wof:lastmodified":1449058987,
+    "wof:lastmodified":1466774518,
     "wof:name":"Yoram Gordan",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.841303,45.559509,-122.841303,45.559509],
+  "bbox": [
+    -122.841303,
+    45.559509,
+    -122.841303,
+    45.559509
+],
   "geometry": {"coordinates":[-122.841303,45.559509],"type":"Point"}
 }

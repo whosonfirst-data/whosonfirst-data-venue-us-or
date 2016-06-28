@@ -2,13 +2,14 @@
   "id": 403832049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.836064,42.348999,-122.836064,42.348999",
     "geom:latitude":42.348999,
     "geom:longitude":-122.836064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2632 Wilkshire Dr",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403832049,
-    "wof:lastmodified":1449054632,
+    "wof:lastmodified":1466770392,
     "wof:name":"Otis Enterprises",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-122.836064,42.348999,-122.836064,42.348999],
-  "geometry": {"coordinates":[-122.836064,42.348999],"type":"Point"}
+  "bbox": [
+    -122.836064,
+    42.348999,
+    -122.836064,
+    42.348999
+],
+  "geometry": {"coordinates":[-122.83606399999999,42.348999],"type":"Point"}
 }

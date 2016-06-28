@@ -2,13 +2,14 @@
   "id": 387501845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81973,45.50453,-122.81973,45.50453",
     "geom:latitude":45.50453,
     "geom:longitude":-122.81973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 SW Briggs Ct",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387501845,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1466773259,
     "wof:name":"Computer Tutor Associates",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-122.81973,45.50453,-122.81973,45.50453],
-  "geometry": {"coordinates":[-122.81973,45.50453],"type":"Point"}
+  "bbox": [
+    -122.81973,
+    45.50453,
+    -122.81973,
+    45.50453
+],
+  "geometry": {"coordinates":[-122.81973000000001,45.50453],"type":"Point"}
 }

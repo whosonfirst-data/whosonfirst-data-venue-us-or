@@ -2,13 +2,14 @@
   "id": 403944049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.803161,45.542687,-122.803161,45.542687",
     "geom:latitude":45.542687,
     "geom:longitude":-122.803161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 NW 123rd Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403944049,
-    "wof:lastmodified":1449055306,
+    "wof:lastmodified":1466768152,
     "wof:name":"Speech Studio Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-122.803161,45.542687,-122.803161,45.542687],
+  "bbox": [
+    -122.803161,
+    45.542687,
+    -122.803161,
+    45.542687
+],
   "geometry": {"coordinates":[-122.803161,45.542687],"type":"Point"}
 }

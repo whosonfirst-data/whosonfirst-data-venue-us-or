@@ -2,13 +2,14 @@
   "id": 404040853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.404139,45.512073,-122.404139,45.512073",
     "geom:latitude":45.512073,
     "geom:longitude":-122.404139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 NE 22nd Ct",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404040853,
-    "wof:lastmodified":1449040296,
+    "wof:lastmodified":1466769185,
     "wof:name":"Mt Hood Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-122.404139,45.512073,-122.404139,45.512073],
+  "bbox": [
+    -122.404139,
+    45.512073,
+    -122.404139,
+    45.512073
+],
   "geometry": {"coordinates":[-122.404139,45.512073],"type":"Point"}
 }

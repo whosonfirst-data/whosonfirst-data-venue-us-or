@@ -2,13 +2,14 @@
   "id": 404104337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.599572,45.532047,-121.599572,45.532047",
     "geom:latitude":45.532047,
     "geom:longitude":-121.599572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6830 Dee Hwy",
     "sg:city":"Mount Hood Parkdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404104337,
-    "wof:lastmodified":1449039524,
+    "wof:lastmodified":1466770679,
     "wof:name":"Bill M Hirata",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.599572,45.532047,-121.599572,45.532047],
-  "geometry": {"coordinates":[-121.599572,45.532047],"type":"Point"}
+  "bbox": [
+    -121.599572,
+    45.532047,
+    -121.599572,
+    45.532047
+],
+  "geometry": {"coordinates":[-121.59957199999999,45.532047],"type":"Point"}
 }

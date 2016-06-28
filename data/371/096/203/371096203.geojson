@@ -2,13 +2,14 @@
   "id": 371096203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537551,45.534909,-122.537551,45.534909",
     "geom:latitude":45.534909,
     "geom:longitude":-122.537551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371096203,
-    "wof:lastmodified":1449049345,
+    "wof:lastmodified":1466768731,
     "wof:name":"Reese Automotive Chevron Svc",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-122.537551,45.534909,-122.537551,45.534909],
-  "geometry": {"coordinates":[-122.537551,45.534909],"type":"Point"}
+  "bbox": [
+    -122.537551,
+    45.534909,
+    -122.537551,
+    45.534909
+],
+  "geometry": {"coordinates":[-122.53755099999999,45.534909],"type":"Point"}
 }

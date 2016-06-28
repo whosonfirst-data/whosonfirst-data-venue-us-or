@@ -2,13 +2,14 @@
   "id": 387237547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.741053,42.249597,-122.741053,42.249597",
     "geom:latitude":42.249597,
     "geom:longitude":-122.741053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 N Valley View Rd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387237547,
-    "wof:lastmodified":1449056210,
+    "wof:lastmodified":1466771542,
     "wof:name":"Mount Ashland Vineyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grape"
     ]
 },
-  "bbox": [-122.741053,42.249597,-122.741053,42.249597],
-  "geometry": {"coordinates":[-122.741053,42.249597],"type":"Point"}
+  "bbox": [
+    -122.741053,
+    42.249597,
+    -122.741053,
+    42.249597
+],
+  "geometry": {"coordinates":[-122.74105299999999,42.249597],"type":"Point"}
 }

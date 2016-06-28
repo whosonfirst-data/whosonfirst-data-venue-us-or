@@ -2,13 +2,14 @@
   "id": 404097047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.639835,45.559647,-122.639835,45.559647",
     "geom:latitude":45.559647,
     "geom:longitude":-122.639835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5104 NE 25th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404097047,
-    "wof:lastmodified":1449039506,
+    "wof:lastmodified":1466771485,
     "wof:name":"Michale Fafinski Massage",
     "wof:parent_id":85893149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-122.639835,45.559647,-122.639835,45.559647],
-  "geometry": {"coordinates":[-122.639835,45.559647],"type":"Point"}
+  "bbox": [
+    -122.639835,
+    45.559647,
+    -122.639835,
+    45.559647
+],
+  "geometry": {"coordinates":[-122.63983500000001,45.559647],"type":"Point"}
 }

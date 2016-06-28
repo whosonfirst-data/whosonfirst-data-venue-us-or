@@ -2,13 +2,14 @@
   "id": 370963301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.311703,44.118206,-121.311703,44.118206",
     "geom:latitude":44.118206,
     "geom:longitude":-121.311703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20220 Mountain View Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370963301,
-    "wof:lastmodified":1449029409,
+    "wof:lastmodified":1466775079,
     "wof:name":"Desert Air Heating Cooling LLC",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.311703,44.118206,-121.311703,44.118206],
-  "geometry": {"coordinates":[-121.311703,44.118206],"type":"Point"}
+  "bbox": [
+    -121.311703,
+    44.118206,
+    -121.311703,
+    44.118206
+],
+  "geometry": {"coordinates":[-121.31170299999999,44.118206],"type":"Point"}
 }

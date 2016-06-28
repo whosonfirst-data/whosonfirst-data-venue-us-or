@@ -2,13 +2,14 @@
   "id": 370530993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.346499,44.119544,-123.346499,44.119544",
     "geom:latitude":44.119544,
     "geom:longitude":-123.346499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25499 Lawrence Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370530993,
-    "wof:lastmodified":1449030876,
+    "wof:lastmodified":1466772436,
     "wof:name":"Ica Solutions",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-123.346499,44.119544,-123.346499,44.119544],
-  "geometry": {"coordinates":[-123.346499,44.119544],"type":"Point"}
+  "bbox": [
+    -123.346499,
+    44.119544,
+    -123.346499,
+    44.119544
+],
+  "geometry": {"coordinates":[-123.34649899999999,44.119544],"type":"Point"}
 }

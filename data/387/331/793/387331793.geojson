@@ -2,13 +2,14 @@
   "id": 387331793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.265132,44.570462,-123.265132,44.570462",
     "geom:latitude":44.570462,
     "geom:longitude":-123.265132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387331793,
-    "wof:lastmodified":1449058418,
+    "wof:lastmodified":1466772115,
     "wof:name":"Scully Fin",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-123.265132,44.570462,-123.265132,44.570462],
-  "geometry": {"coordinates":[-123.265132,44.570462],"type":"Point"}
+  "bbox": [
+    -123.265132,
+    44.570462,
+    -123.265132,
+    44.570462
+],
+  "geometry": {"coordinates":[-123.26513199999999,44.570462],"type":"Point"}
 }

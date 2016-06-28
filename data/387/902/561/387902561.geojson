@@ -2,13 +2,14 @@
   "id": 387902561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.630547,45.077491,-122.630547,45.077491",
     "geom:latitude":45.077491,
     "geom:longitude":-122.630547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36550 S Blair Rd",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387902561,
-    "wof:lastmodified":1449058923,
+    "wof:lastmodified":1466775221,
     "wof:name":"Bighouse Construction Svc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.630547,45.077491,-122.630547,45.077491],
-  "geometry": {"coordinates":[-122.630547,45.077491],"type":"Point"}
+  "bbox": [
+    -122.630547,
+    45.077491,
+    -122.630547,
+    45.077491
+],
+  "geometry": {"coordinates":[-122.63054700000001,45.077491],"type":"Point"}
 }

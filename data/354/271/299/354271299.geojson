@@ -2,13 +2,14 @@
   "id": 354271299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.343424,43.208677,-123.343424,43.208677",
     "geom:latitude":43.208677,
     "geom:longitude":-123.343424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 SE Oak Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354271299,
-    "wof:lastmodified":1449066826,
+    "wof:lastmodified":1466769000,
     "wof:name":"James R Finlay DDS",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-123.343424,43.208677,-123.343424,43.208677],
+  "bbox": [
+    -123.343424,
+    43.208677,
+    -123.343424,
+    43.208677
+],
   "geometry": {"coordinates":[-123.343424,43.208677],"type":"Point"}
 }

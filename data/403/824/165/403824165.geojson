@@ -2,13 +2,14 @@
   "id": 403824165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.843691,45.502702,-123.843691,45.502702",
     "geom:latitude":45.502702,
     "geom:longitude":-123.843691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 Alderbrook Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403824165,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466770200,
     "wof:name":"Geo Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "local"
     ]
 },
-  "bbox": [-123.843691,45.502702,-123.843691,45.502702],
-  "geometry": {"coordinates":[-123.843691,45.502702],"type":"Point"}
+  "bbox": [
+    -123.843691,
+    45.502702,
+    -123.843691,
+    45.502702
+],
+  "geometry": {"coordinates":[-123.84369100000001,45.502702],"type":"Point"}
 }

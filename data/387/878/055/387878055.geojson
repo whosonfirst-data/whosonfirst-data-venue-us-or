@@ -2,13 +2,14 @@
   "id": 387878055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.275211,44.576617,-123.275211,44.576617",
     "geom:latitude":44.576617,
     "geom:longitude":-123.275211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"943 NW Kings Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387878055,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1466775214,
     "wof:name":"Yogurt Hill",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dairy"
     ]
 },
-  "bbox": [-123.275211,44.576617,-123.275211,44.576617],
+  "bbox": [
+    -123.275211,
+    44.576617,
+    -123.275211,
+    44.576617
+],
   "geometry": {"coordinates":[-123.275211,44.576617],"type":"Point"}
 }

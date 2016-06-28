@@ -2,13 +2,14 @@
   "id": 403760371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.539715,45.535529,-122.539715,45.535529",
     "geom:latitude":45.535529,
     "geom:longitude":-122.539715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 NE 120th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403760371,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1466769016,
     "wof:name":"Classic Machine Works",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.539715,45.535529,-122.539715,45.535529],
+  "bbox": [
+    -122.539715,
+    45.535529,
+    -122.539715,
+    45.535529
+],
   "geometry": {"coordinates":[-122.539715,45.535529],"type":"Point"}
 }

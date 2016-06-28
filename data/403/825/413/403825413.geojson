@@ -2,13 +2,14 @@
   "id": 403825413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.564525,45.290018,-122.564525,45.290018",
     "geom:latitude":45.290018,
     "geom:longitude":-122.564525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21949 State Hwy 213",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403825413,
-    "wof:lastmodified":1449054665,
+    "wof:lastmodified":1466770241,
     "wof:name":"Stone Creek Christian Church",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.564525,45.290018,-122.564525,45.290018],
+  "bbox": [
+    -122.564525,
+    45.290018,
+    -122.564525,
+    45.290018
+],
   "geometry": {"coordinates":[-122.564525,45.290018],"type":"Point"}
 }

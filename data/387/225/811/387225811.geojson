@@ -2,13 +2,14 @@
   "id": 387225811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.290186,44.544808,-123.290186,44.544808",
     "geom:latitude":44.544808,
     "geom:longitude":-123.290186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 SW Whiteside Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387225811,
-    "wof:lastmodified":1449057283,
+    "wof:lastmodified":1466771315,
     "wof:name":"Fiction Works Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-123.290186,44.544808,-123.290186,44.544808],
-  "geometry": {"coordinates":[-123.290186,44.544808],"type":"Point"}
+  "bbox": [
+    -123.290186,
+    44.544808,
+    -123.290186,
+    44.544808
+],
+  "geometry": {"coordinates":[-123.29018600000001,44.544808],"type":"Point"}
 }

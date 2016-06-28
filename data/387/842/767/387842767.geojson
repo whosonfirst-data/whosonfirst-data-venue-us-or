@@ -2,13 +2,14 @@
   "id": 387842767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.500301,45.553304,-122.500301,45.553304",
     "geom:latitude":45.553304,
     "geom:longitude":-122.500301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4427 NE 158th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387842767,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1466775147,
     "wof:name":"Denton Plastics Inc",
     "wof:parent_id":85824571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "plastic"
     ]
 },
-  "bbox": [-122.500301,45.553304,-122.500301,45.553304],
-  "geometry": {"coordinates":[-122.500301,45.553304],"type":"Point"}
+  "bbox": [
+    -122.500301,
+    45.553304,
+    -122.500301,
+    45.553304
+],
+  "geometry": {"coordinates":[-122.50030099999999,45.553304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370558581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.280149,44.571793,-123.280149,44.571793",
     "geom:latitude":44.571793,
     "geom:longitude":-123.280149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 NW 26th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370558581,
-    "wof:lastmodified":1449030026,
+    "wof:lastmodified":1466772765,
     "wof:name":"Sigma Phi Epsilon",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-123.280149,44.571793,-123.280149,44.571793],
-  "geometry": {"coordinates":[-123.280149,44.571793],"type":"Point"}
+  "bbox": [
+    -123.280149,
+    44.571793,
+    -123.280149,
+    44.571793
+],
+  "geometry": {"coordinates":[-123.28014899999999,44.571793],"type":"Point"}
 }

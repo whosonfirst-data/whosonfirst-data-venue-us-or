@@ -2,13 +2,14 @@
   "id": 370239991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.032592,44.923642,-123.032592,44.923642",
     "geom:latitude":44.923642,
     "geom:longitude":-123.032592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Berry St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370239991,
-    "wof:lastmodified":1449029414,
+    "wof:lastmodified":1466768707,
     "wof:name":"Saint Francis Shelter",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-123.032592,44.923642,-123.032592,44.923642],
-  "geometry": {"coordinates":[-123.032592,44.923642],"type":"Point"}
+  "bbox": [
+    -123.032592,
+    44.923642,
+    -123.032592,
+    44.923642
+],
+  "geometry": {"coordinates":[-123.03259199999999,44.923642],"type":"Point"}
 }

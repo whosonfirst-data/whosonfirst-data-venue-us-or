@@ -2,13 +2,14 @@
   "id": 387963499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.188955,43.175988,-124.188955,43.175988",
     "geom:latitude":43.175988,
     "geom:longitude":-124.188955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 State Hwy 42",
     "sg:city":"Coquille",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387963499,
-    "wof:lastmodified":1449056470,
+    "wof:lastmodified":1466775483,
     "wof:name":"Oregon Highway Maintenance",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-124.188955,43.175988,-124.188955,43.175988],
-  "geometry": {"coordinates":[-124.188955,43.175988],"type":"Point"}
+  "bbox": [
+    -124.188955,
+    43.175988,
+    -124.188955,
+    43.175988
+],
+  "geometry": {"coordinates":[-124.18895500000001,43.175988],"type":"Point"}
 }

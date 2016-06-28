@@ -2,13 +2,14 @@
   "id": 404185481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.336771,44.879861,-123.336771,44.879861",
     "geom:latitude":44.879861,
     "geom:longitude":-123.336771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14925 Lee Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404185481,
-    "wof:lastmodified":1449039234,
+    "wof:lastmodified":1466767861,
     "wof:name":"Burbank Douglas Log & Tree Svc",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.336771,44.879861,-123.336771,44.879861],
+  "bbox": [
+    -123.336771,
+    44.879861,
+    -123.336771,
+    44.879861
+],
   "geometry": {"coordinates":[-123.336771,44.879861],"type":"Point"}
 }

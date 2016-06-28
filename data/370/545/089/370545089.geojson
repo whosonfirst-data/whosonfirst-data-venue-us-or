@@ -2,13 +2,14 @@
   "id": 370545089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.694601,45.261313,-122.694601,45.261313",
     "geom:latitude":45.261313,
     "geom:longitude":-122.694601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 SW 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370545089,
-    "wof:lastmodified":1449029909,
+    "wof:lastmodified":1466772653,
     "wof:name":"Canby's Texaco",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oil"
     ]
 },
-  "bbox": [-122.694601,45.261313,-122.694601,45.261313],
-  "geometry": {"coordinates":[-122.694601,45.261313],"type":"Point"}
+  "bbox": [
+    -122.694601,
+    45.261313,
+    -122.694601,
+    45.261313
+],
+  "geometry": {"coordinates":[-122.69460100000001,45.261313],"type":"Point"}
 }

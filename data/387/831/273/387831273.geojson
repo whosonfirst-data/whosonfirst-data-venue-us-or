@@ -2,13 +2,14 @@
   "id": 387831273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.041163,45.000623,-123.041163,45.000623",
     "geom:latitude":45.000623,
     "geom:longitude":-123.041163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Koala St N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387831273,
-    "wof:lastmodified":1449058336,
+    "wof:lastmodified":1466775107,
     "wof:name":"Digital Expressed",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [-123.041163,45.000623,-123.041163,45.000623],
+  "bbox": [
+    -123.041163,
+    45.000623,
+    -123.041163,
+    45.000623
+],
   "geometry": {"coordinates":[-123.041163,45.000623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403942001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.977365,45.519783,-122.977365,45.519783",
     "geom:latitude":45.519783,
     "geom:longitude":-122.977365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 SE 8th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403942001,
-    "wof:lastmodified":1449055248,
+    "wof:lastmodified":1466768118,
     "wof:name":"Physical Therapy",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.977365,45.519783,-122.977365,45.519783],
-  "geometry": {"coordinates":[-122.977365,45.519783],"type":"Point"}
+  "bbox": [
+    -122.977365,
+    45.519783,
+    -122.977365,
+    45.519783
+],
+  "geometry": {"coordinates":[-122.97736500000001,45.519783],"type":"Point"}
 }

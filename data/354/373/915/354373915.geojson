@@ -2,13 +2,14 @@
   "id": 354373915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.045077,44.911503,-123.045077,44.911503",
     "geom:latitude":44.911503,
     "geom:longitude":-123.045077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 Commercial St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354373915,
-    "wof:lastmodified":1449066808,
+    "wof:lastmodified":1466770839,
     "wof:name":"Crew Espresso",
     "wof:parent_id":85880599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-123.045077,44.911503,-123.045077,44.911503],
-  "geometry": {"coordinates":[-123.045077,44.911503],"type":"Point"}
+  "bbox": [
+    -123.045077,
+    44.911503,
+    -123.045077,
+    44.911503
+],
+  "geometry": {"coordinates":[-123.04507700000001,44.911503],"type":"Point"}
 }

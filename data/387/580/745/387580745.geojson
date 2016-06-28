@@ -2,13 +2,14 @@
   "id": 387580745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.598695,45.378328,-122.598695,45.378328",
     "geom:latitude":45.378328,
     "geom:longitude":-122.598695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 W Clarendon St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387580745,
-    "wof:lastmodified":1449058673,
+    "wof:lastmodified":1466773711,
     "wof:name":"Rainbow Heating",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.598695,45.378328,-122.598695,45.378328],
-  "geometry": {"coordinates":[-122.598695,45.378328],"type":"Point"}
+  "bbox": [
+    -122.598695,
+    45.378328,
+    -122.598695,
+    45.378328
+],
+  "geometry": {"coordinates":[-122.59869500000001,45.378328],"type":"Point"}
 }

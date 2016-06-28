@@ -2,13 +2,14 @@
   "id": 370547473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.131734,44.048596,-123.131734,44.048596",
     "geom:latitude":44.048596,
     "geom:longitude":-123.131734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Wilson St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370547473,
-    "wof:lastmodified":1449029431,
+    "wof:lastmodified":1466772547,
     "wof:name":"B & H Upholstery Supply Inc",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholstery"
     ]
 },
-  "bbox": [-123.131734,44.048596,-123.131734,44.048596],
-  "geometry": {"coordinates":[-123.131734,44.048596],"type":"Point"}
+  "bbox": [
+    -123.131734,
+    44.048596,
+    -123.131734,
+    44.048596
+],
+  "geometry": {"coordinates":[-123.13173399999999,44.048596],"type":"Point"}
 }

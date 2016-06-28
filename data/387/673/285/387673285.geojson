@@ -2,13 +2,14 @@
   "id": 387673285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.773057,45.537845,-122.773057,45.537845",
     "geom:latitude":45.537845,
     "geom:longitude":-122.773057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9328 NW Bartholomew Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387673285,
-    "wof:lastmodified":1449057577,
+    "wof:lastmodified":1466774269,
     "wof:name":"Adnap Inc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-122.773057,45.537845,-122.773057,45.537845],
-  "geometry": {"coordinates":[-122.773057,45.537845],"type":"Point"}
+  "bbox": [
+    -122.773057,
+    45.537845,
+    -122.773057,
+    45.537845
+],
+  "geometry": {"coordinates":[-122.77305699999999,45.537845],"type":"Point"}
 }

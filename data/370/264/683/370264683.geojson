@@ -2,13 +2,14 @@
   "id": 370264683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.803669,45.667804,-118.803669,45.667804",
     "geom:latitude":45.667804,
     "geom:longitude":-118.803669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 SW Court Pl",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370264683,
-    "wof:lastmodified":1449031274,
+    "wof:lastmodified":1466769155,
     "wof:name":"DMV Field Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-118.803669,45.667804,-118.803669,45.667804],
+  "bbox": [
+    -118.803669,
+    45.667804,
+    -118.803669,
+    45.667804
+],
   "geometry": {"coordinates":[-118.803669,45.667804],"type":"Point"}
 }

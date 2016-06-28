@@ -2,13 +2,14 @@
   "id": 370260119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.714555,45.535956,-122.714555,45.535956",
     "geom:latitude":45.535956,
     "geom:longitude":-122.714555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 NW Thurman St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370260119,
-    "wof:lastmodified":1449029651,
+    "wof:lastmodified":1466769073,
     "wof:name":"Hertzberg Joe",
     "wof:parent_id":85857791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.714555,45.535956,-122.714555,45.535956],
+  "bbox": [
+    -122.714555,
+    45.535956,
+    -122.714555,
+    45.535956
+],
   "geometry": {"coordinates":[-122.714555,45.535956],"type":"Point"}
 }

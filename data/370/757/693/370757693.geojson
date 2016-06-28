@@ -2,13 +2,14 @@
   "id": 370757693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.825559,45.853502,-122.825559,45.853502",
     "geom:latitude":45.853502,
     "geom:longitude":-122.825559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Milton Way",
     "sg:city":"Saint Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370757693,
-    "wof:lastmodified":1449030977,
+    "wof:lastmodified":1466773946,
     "wof:name":"First Student Inc",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-122.825559,45.853502,-122.825559,45.853502],
+  "bbox": [
+    -122.825559,
+    45.853502,
+    -122.825559,
+    45.853502
+],
   "geometry": {"coordinates":[-122.825559,45.853502],"type":"Point"}
 }

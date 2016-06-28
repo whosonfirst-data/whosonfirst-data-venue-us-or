@@ -2,13 +2,14 @@
   "id": 387092501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.09785,45.332109,-118.09785,45.332109",
     "geom:latitude":45.332109,
     "geom:longitude":-118.09785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Grandy Ave",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387092501,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1466768679,
     "wof:name":"Eastern Oregon Net Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-118.09785,45.332109,-118.09785,45.332109],
-  "geometry": {"coordinates":[-118.09785,45.332109],"type":"Point"}
+  "bbox": [
+    -118.09785,
+    45.332109,
+    -118.09785,
+    45.332109
+],
+  "geometry": {"coordinates":[-118.09784999999999,45.332109],"type":"Point"}
 }

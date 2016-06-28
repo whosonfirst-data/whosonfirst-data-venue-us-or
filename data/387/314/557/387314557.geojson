@@ -2,13 +2,14 @@
   "id": 387314557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01308,44.97485,-123.01308,44.97485",
     "geom:latitude":44.97485,
     "geom:longitude":-123.01308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 Tandem Ave NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387314557,
-    "wof:lastmodified":1449059756,
+    "wof:lastmodified":1466771998,
     "wof:name":"Sumco USA",
     "wof:parent_id":85868969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "devices"
     ]
 },
-  "bbox": [-123.01308,44.97485,-123.01308,44.97485],
+  "bbox": [
+    -123.01308,
+    44.97485,
+    -123.01308,
+    44.97485
+],
   "geometry": {"coordinates":[-123.01308,44.97485],"type":"Point"}
 }

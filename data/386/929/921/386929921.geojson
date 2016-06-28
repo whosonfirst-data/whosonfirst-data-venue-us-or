@@ -2,13 +2,14 @@
   "id": 386929921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.912911,44.145103,-122.912911,44.145103",
     "geom:latitude":44.145103,
     "geom:longitude":-122.912911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91167 Marcola Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386929921,
-    "wof:lastmodified":1449028748,
+    "wof:lastmodified":1466767156,
     "wof:name":"Mohawk Valley Meats",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "packing"
     ]
 },
-  "bbox": [-122.912911,44.145103,-122.912911,44.145103],
-  "geometry": {"coordinates":[-122.912911,44.145103],"type":"Point"}
+  "bbox": [
+    -122.912911,
+    44.145103,
+    -122.912911,
+    44.145103
+],
+  "geometry": {"coordinates":[-122.91291099999999,44.145103],"type":"Point"}
 }

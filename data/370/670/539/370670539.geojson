@@ -2,13 +2,14 @@
   "id": 370670539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.68013,45.520315,-122.68013,45.520315",
     "geom:latitude":45.520315,
     "geom:longitude":-122.68013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 SW Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370670539,
-    "wof:lastmodified":1449029597,
+    "wof:lastmodified":1466773537,
     "wof:name":"One Economy Corp",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-122.68013,45.520315,-122.68013,45.520315],
-  "geometry": {"coordinates":[-122.68013,45.520315],"type":"Point"}
+  "bbox": [
+    -122.68013,
+    45.520315,
+    -122.68013,
+    45.520315
+],
+  "geometry": {"coordinates":[-122.68013000000001,45.520315],"type":"Point"}
 }

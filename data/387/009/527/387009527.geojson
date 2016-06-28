@@ -2,13 +2,14 @@
   "id": 387009527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093967,46.138811,-123.093967,46.138811",
     "geom:latitude":46.138811,
     "geom:longitude":-123.093967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78764 Blackford Rd",
     "sg:city":"Clatskanie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387009527,
-    "wof:lastmodified":1449059843,
+    "wof:lastmodified":1466767287,
     "wof:name":"This N That",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.093967,46.138811,-123.093967,46.138811],
-  "geometry": {"coordinates":[-123.093967,46.138811],"type":"Point"}
+  "bbox": [
+    -123.093967,
+    46.138811,
+    -123.093967,
+    46.138811
+],
+  "geometry": {"coordinates":[-123.09396700000001,46.138811],"type":"Point"}
 }

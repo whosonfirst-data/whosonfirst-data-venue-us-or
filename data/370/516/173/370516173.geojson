@@ -2,13 +2,14 @@
   "id": 370516173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653905,45.56752,-122.653905,45.56752",
     "geom:latitude":45.56752,
     "geom:longitude":-122.653905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 NE 11th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370516173,
-    "wof:lastmodified":1449029739,
+    "wof:lastmodified":1466772320,
     "wof:name":"Frank Winfielddmd",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.653905,45.56752,-122.653905,45.56752],
-  "geometry": {"coordinates":[-122.653905,45.56752],"type":"Point"}
+  "bbox": [
+    -122.653905,
+    45.56752,
+    -122.653905,
+    45.56752
+],
+  "geometry": {"coordinates":[-122.65390499999999,45.56752],"type":"Point"}
 }

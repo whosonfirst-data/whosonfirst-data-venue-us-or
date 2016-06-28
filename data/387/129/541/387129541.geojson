@@ -2,13 +2,14 @@
   "id": 387129541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.949058,44.389454,-118.949058,44.389454",
     "geom:latitude":44.389454,
     "geom:longitude":-118.949058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Washington St",
     "sg:city":"Canyon City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387129541,
-    "wof:lastmodified":1449059183,
+    "wof:lastmodified":1466769357,
     "wof:name":"Canyon City Dept Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-118.949058,44.389454,-118.949058,44.389454],
-  "geometry": {"coordinates":[-118.949058,44.389454],"type":"Point"}
+  "bbox": [
+    -118.949058,
+    44.389454,
+    -118.949058,
+    44.389454
+],
+  "geometry": {"coordinates":[-118.94905799999999,44.389454],"type":"Point"}
 }

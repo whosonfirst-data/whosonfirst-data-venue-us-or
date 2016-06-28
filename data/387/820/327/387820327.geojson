@@ -2,13 +2,14 @@
   "id": 387820327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.003713,44.049722,-123.003713,44.049722",
     "geom:latitude":44.049722,
     "geom:longitude":-123.003713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1558 D St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387820327,
-    "wof:lastmodified":1449058072,
+    "wof:lastmodified":1466775001,
     "wof:name":"Grumpy's Web Graphics",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-123.003713,44.049722,-123.003713,44.049722],
+  "bbox": [
+    -123.003713,
+    44.049722,
+    -123.003713,
+    44.049722
+],
   "geometry": {"coordinates":[-123.003713,44.049722],"type":"Point"}
 }

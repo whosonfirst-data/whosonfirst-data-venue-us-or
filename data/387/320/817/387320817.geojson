@@ -2,13 +2,14 @@
   "id": 387320817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.629657,45.511068,-122.629657,45.511068",
     "geom:latitude":45.511068,
     "geom:longitude":-122.629657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 SE 34th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387320817,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1466772060,
     "wof:name":"U Brown Trucking",
     "wof:parent_id":85867133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.629657,45.511068,-122.629657,45.511068],
-  "geometry": {"coordinates":[-122.629657,45.511068],"type":"Point"}
+  "bbox": [
+    -122.629657,
+    45.511068,
+    -122.629657,
+    45.511068
+],
+  "geometry": {"coordinates":[-122.62965699999999,45.511068],"type":"Point"}
 }

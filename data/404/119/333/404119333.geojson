@@ -2,13 +2,14 @@
   "id": 404119333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.569319,45.414989,-122.569319,45.414989",
     "geom:latitude":45.414989,
     "geom:longitude":-122.569319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14781 SE 82nd Dr",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404119333,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466770967,
     "wof:name":"Race Central Inc",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.569319,45.414989,-122.569319,45.414989],
-  "geometry": {"coordinates":[-122.569319,45.414989],"type":"Point"}
+  "bbox": [
+    -122.569319,
+    45.414989,
+    -122.569319,
+    45.414989
+],
+  "geometry": {"coordinates":[-122.56931899999999,45.414989],"type":"Point"}
 }

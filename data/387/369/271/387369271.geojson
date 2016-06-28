@@ -2,13 +2,14 @@
   "id": 387369271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.575919,45.406093,-122.575919,45.406093",
     "geom:latitude":45.406093,
     "geom:longitude":-122.575919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16211 SE Hearthwood Dr",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387369271,
-    "wof:lastmodified":1449059724,
+    "wof:lastmodified":1466772275,
     "wof:name":"Hearthwood Village",
     "wof:parent_id":85840575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-122.575919,45.406093,-122.575919,45.406093],
+  "bbox": [
+    -122.575919,
+    45.406093,
+    -122.575919,
+    45.406093
+],
   "geometry": {"coordinates":[-122.575919,45.406093],"type":"Point"}
 }

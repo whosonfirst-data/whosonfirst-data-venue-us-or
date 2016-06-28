@@ -2,13 +2,14 @@
   "id": 370416065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.011507,44.9597,-124.011507,44.9597",
     "geom:latitude":44.9597,
     "geom:longitude":-124.011507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 SE East Devils Lake Rd",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370416065,
-    "wof:lastmodified":1449030622,
+    "wof:lastmodified":1466771749,
     "wof:name":"US Post Office",
     "wof:parent_id":85868149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.011507,44.9597,-124.011507,44.9597],
-  "geometry": {"coordinates":[-124.011507,44.9597],"type":"Point"}
+  "bbox": [
+    -124.011507,
+    44.9597,
+    -124.011507,
+    44.9597
+],
+  "geometry": {"coordinates":[-124.01150699999999,44.9597],"type":"Point"}
 }

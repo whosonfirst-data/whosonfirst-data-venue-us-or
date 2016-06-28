@@ -2,13 +2,14 @@
   "id": 354357215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01708,44.87598,-123.01708,44.87598",
     "geom:latitude":44.87598,
     "geom:longitude":-123.01708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Reed Ln SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":354357215,
-    "wof:lastmodified":1449067462,
+    "wof:lastmodified":1466770496,
     "wof:name":"Pringle Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.01708,44.87598,-123.01708,44.87598],
-  "geometry": {"coordinates":[-123.01708,44.87598],"type":"Point"}
+  "bbox": [
+    -123.01708,
+    44.87598,
+    -123.01708,
+    44.87598
+],
+  "geometry": {"coordinates":[-123.01708000000001,44.87598],"type":"Point"}
 }

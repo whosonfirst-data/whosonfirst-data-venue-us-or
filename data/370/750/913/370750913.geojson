@@ -2,13 +2,14 @@
   "id": 370750913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.089452,45.520033,-123.089452,45.520033",
     "geom:latitude":45.520033,
     "geom:longitude":-123.089452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Pacific Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370750913,
-    "wof:lastmodified":1449031126,
+    "wof:lastmodified":1466773717,
     "wof:name":"Forest Grove Mini Storage",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-123.089452,45.520033,-123.089452,45.520033],
-  "geometry": {"coordinates":[-123.089452,45.520033],"type":"Point"}
+  "bbox": [
+    -123.089452,
+    45.520033,
+    -123.089452,
+    45.520033
+],
+  "geometry": {"coordinates":[-123.08945199999999,45.520033],"type":"Point"}
 }

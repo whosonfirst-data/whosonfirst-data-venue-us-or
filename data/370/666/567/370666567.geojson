@@ -2,13 +2,14 @@
   "id": 370666567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.951485,45.024689,-122.951485,45.024689",
     "geom:latitude":45.024689,
     "geom:longitude":-122.951485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7302 Lakeside Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370666567,
-    "wof:lastmodified":1449030328,
+    "wof:lastmodified":1466773385,
     "wof:name":"American Value Rv Svc",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-122.951485,45.024689,-122.951485,45.024689],
-  "geometry": {"coordinates":[-122.951485,45.024689],"type":"Point"}
+  "bbox": [
+    -122.951485,
+    45.024689,
+    -122.951485,
+    45.024689
+],
+  "geometry": {"coordinates":[-122.95148500000001,45.024689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370712271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.212802,44.228325,-123.212802,44.228325",
     "geom:latitude":44.228325,
     "geom:longitude":-123.212802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1797 Pear Loop",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370712271,
-    "wof:lastmodified":1449030536,
+    "wof:lastmodified":1466773610,
     "wof:name":"Chapel Creek Townhomes",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-123.212802,44.228325,-123.212802,44.228325],
+  "bbox": [
+    -123.212802,
+    44.228325,
+    -123.212802,
+    44.228325
+],
   "geometry": {"coordinates":[-123.212802,44.228325],"type":"Point"}
 }

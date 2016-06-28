@@ -2,13 +2,14 @@
   "id": 387858433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111001,44.053256,-123.111001,44.053256",
     "geom:latitude":44.053256,
     "geom:longitude":-123.111001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W 6th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387858433,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1466775278,
     "wof:name":"Northwest Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.111001,44.053256,-123.111001,44.053256],
+  "bbox": [
+    -123.111001,
+    44.053256,
+    -123.111001,
+    44.053256
+],
   "geometry": {"coordinates":[-123.111001,44.053256],"type":"Point"}
 }

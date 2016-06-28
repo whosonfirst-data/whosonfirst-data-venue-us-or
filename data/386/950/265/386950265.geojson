@@ -2,13 +2,14 @@
   "id": 386950265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094345,44.050056,-123.094345,44.050056",
     "geom:latitude":44.050056,
     "geom:longitude":-123.094345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"862 Olive St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":386950265,
-    "wof:lastmodified":1449028748,
+    "wof:lastmodified":1466767269,
     "wof:name":"John Putnam Pries",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.094345,44.050056,-123.094345,44.050056],
+  "bbox": [
+    -123.094345,
+    44.050056,
+    -123.094345,
+    44.050056
+],
   "geometry": {"coordinates":[-123.094345,44.050056],"type":"Point"}
 }

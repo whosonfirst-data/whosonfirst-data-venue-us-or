@@ -2,13 +2,14 @@
   "id": 370814353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.069042,44.961473,-123.069042,44.961473",
     "geom:latitude":44.961473,
     "geom:longitude":-123.069042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Chukar Ct NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370814353,
-    "wof:lastmodified":1449029713,
+    "wof:lastmodified":1466774155,
     "wof:name":"N W Bureau Investigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-123.069042,44.961473,-123.069042,44.961473],
+  "bbox": [
+    -123.069042,
+    44.961473,
+    -123.069042,
+    44.961473
+],
   "geometry": {"coordinates":[-123.069042,44.961473],"type":"Point"}
 }

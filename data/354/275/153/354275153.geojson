@@ -2,13 +2,14 @@
   "id": 354275153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.737889,45.417845,-122.737889,45.417845",
     "geom:latitude":45.417845,
     "geom:longitude":-122.737889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5655 Meadows Rd",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354275153,
-    "wof:lastmodified":1449066457,
+    "wof:lastmodified":1466769100,
     "wof:name":"CDI",
     "wof:parent_id":85812127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.737889,45.417845,-122.737889,45.417845],
+  "bbox": [
+    -122.737889,
+    45.417845,
+    -122.737889,
+    45.417845
+],
   "geometry": {"coordinates":[-122.737889,45.417845],"type":"Point"}
 }

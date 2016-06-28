@@ -2,13 +2,14 @@
   "id": 370282485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258278,44.582398,-123.258278,44.582398",
     "geom:latitude":44.582398,
     "geom:longitude":-123.258278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370282485,
-    "wof:lastmodified":1449031202,
+    "wof:lastmodified":1466769496,
     "wof:name":"Corvallis Veterinary Hospitals",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "care"
     ]
 },
-  "bbox": [-123.258278,44.582398,-123.258278,44.582398],
+  "bbox": [
+    -123.258278,
+    44.582398,
+    -123.258278,
+    44.582398
+],
   "geometry": {"coordinates":[-123.258278,44.582398],"type":"Point"}
 }

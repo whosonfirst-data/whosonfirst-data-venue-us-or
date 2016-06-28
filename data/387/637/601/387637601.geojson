@@ -2,13 +2,14 @@
   "id": 387637601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.821846,45.859063,-122.821846,45.859063",
     "geom:latitude":45.859063,
     "geom:longitude":-122.821846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2252 Columbia Blvd",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387637601,
-    "wof:lastmodified":1449056111,
+    "wof:lastmodified":1466774040,
     "wof:name":"St Helens Taxi & Shuttle",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-122.821846,45.859063,-122.821846,45.859063],
-  "geometry": {"coordinates":[-122.821846,45.859063],"type":"Point"}
+  "bbox": [
+    -122.821846,
+    45.859063,
+    -122.821846,
+    45.859063
+],
+  "geometry": {"coordinates":[-122.82184599999999,45.859063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371178525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.027532,44.06218,-123.027532,44.06218",
     "geom:latitude":44.06218,
     "geom:longitude":-123.027532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Q St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371178525,
-    "wof:lastmodified":1449049805,
+    "wof:lastmodified":1466770258,
     "wof:name":"H2O Contractors Inc",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-123.027532,44.06218,-123.027532,44.06218],
-  "geometry": {"coordinates":[-123.027532,44.06218],"type":"Point"}
+  "bbox": [
+    -123.027532,
+    44.06218,
+    -123.027532,
+    44.06218
+],
+  "geometry": {"coordinates":[-123.02753199999999,44.06218],"type":"Point"}
 }

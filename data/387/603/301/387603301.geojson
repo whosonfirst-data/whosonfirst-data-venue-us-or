@@ -2,13 +2,14 @@
   "id": 387603301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.70216,45.534797,-122.70216,45.534797",
     "geom:latitude":45.534797,
     "geom:longitude":-122.70216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 NW Savier St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387603301,
-    "wof:lastmodified":1449059338,
+    "wof:lastmodified":1466773948,
     "wof:name":"J Comerford",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.70216,45.534797,-122.70216,45.534797],
-  "geometry": {"coordinates":[-122.70216,45.534797],"type":"Point"}
+  "bbox": [
+    -122.70216,
+    45.534797,
+    -122.70216,
+    45.534797
+],
+  "geometry": {"coordinates":[-122.70216000000001,45.534797],"type":"Point"}
 }

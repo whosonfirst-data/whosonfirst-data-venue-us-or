@@ -2,13 +2,14 @@
   "id": 370408901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.914004,42.369912,-122.914004,42.369912",
     "geom:latitude":42.369912,
     "geom:longitude":-122.914004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Bush St",
     "sg:city":"Central Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370408901,
-    "wof:lastmodified":1449029507,
+    "wof:lastmodified":1466771815,
     "wof:name":"Dan's Tire Svc",
     "wof:parent_id":85868985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-122.914004,42.369912,-122.914004,42.369912],
-  "geometry": {"coordinates":[-122.914004,42.369912],"type":"Point"}
+  "bbox": [
+    -122.914004,
+    42.369912,
+    -122.914004,
+    42.369912
+],
+  "geometry": {"coordinates":[-122.91400400000001,42.369912],"type":"Point"}
 }

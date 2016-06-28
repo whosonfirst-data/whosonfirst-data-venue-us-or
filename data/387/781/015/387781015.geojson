@@ -2,13 +2,14 @@
   "id": 387781015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.696028,45.521217,-122.696028,45.521217",
     "geom:latitude":45.521217,
     "geom:longitude":-122.696028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2188 SW Park Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387781015,
-    "wof:lastmodified":1449056811,
+    "wof:lastmodified":1466774905,
     "wof:name":"Karl Smith Consulting",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-122.696028,45.521217,-122.696028,45.521217],
+  "bbox": [
+    -122.696028,
+    45.521217,
+    -122.696028,
+    45.521217
+],
   "geometry": {"coordinates":[-122.696028,45.521217],"type":"Point"}
 }

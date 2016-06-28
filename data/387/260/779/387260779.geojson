@@ -2,13 +2,14 @@
   "id": 387260779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.59596,45.378346,-122.59596,45.378346",
     "geom:latitude":45.378346,
     "geom:longitude":-122.59596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 W Berkeley St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387260779,
-    "wof:lastmodified":1449056736,
+    "wof:lastmodified":1466771683,
     "wof:name":"Terry Reed",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-122.59596,45.378346,-122.59596,45.378346],
-  "geometry": {"coordinates":[-122.59596,45.378346],"type":"Point"}
+  "bbox": [
+    -122.59596,
+    45.378346,
+    -122.59596,
+    45.378346
+],
+  "geometry": {"coordinates":[-122.59596000000001,45.378346],"type":"Point"}
 }

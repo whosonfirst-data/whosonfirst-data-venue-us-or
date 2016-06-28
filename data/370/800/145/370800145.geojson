@@ -2,13 +2,14 @@
   "id": 370800145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.258287,44.632656,-123.258287,44.632656",
     "geom:latitude":44.632656,
     "geom:longitude":-123.258287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 NW Vineyard Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370800145,
-    "wof:lastmodified":1449029353,
+    "wof:lastmodified":1466774082,
     "wof:name":"Don Cooks Landscape Service",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-123.258287,44.632656,-123.258287,44.632656],
+  "bbox": [
+    -123.258287,
+    44.632656,
+    -123.258287,
+    44.632656
+],
   "geometry": {"coordinates":[-123.258287,44.632656],"type":"Point"}
 }

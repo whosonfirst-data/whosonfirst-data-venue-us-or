@@ -2,13 +2,14 @@
   "id": 387902759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.9511,44.418334,-118.9511,44.418334",
     "geom:latitude":44.418334,
     "geom:longitude":-118.9511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 NE Dayton St",
     "sg:city":"John Day",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387902759,
-    "wof:lastmodified":1449058925,
+    "wof:lastmodified":1466775291,
     "wof:name":"People Mover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-118.9511,44.418334,-118.9511,44.418334],
+  "bbox": [
+    -118.9511,
+    44.418334,
+    -118.9511,
+    44.418334
+],
   "geometry": {"coordinates":[-118.9511,44.418334],"type":"Point"}
 }

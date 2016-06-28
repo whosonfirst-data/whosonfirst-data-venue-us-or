@@ -2,13 +2,14 @@
   "id": 403890195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.833048,46.190497,-123.833048,46.190497",
     "geom:latitude":46.190497,
     "geom:longitude":-123.833048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Astor St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403890195,
-    "wof:lastmodified":1449054943,
+    "wof:lastmodified":1466767198,
     "wof:name":"Larson & Fischer",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.833048,46.190497,-123.833048,46.190497],
-  "geometry": {"coordinates":[-123.833048,46.190497],"type":"Point"}
+  "bbox": [
+    -123.833048,
+    46.190497,
+    -123.833048,
+    46.190497
+],
+  "geometry": {"coordinates":[-123.83304800000001,46.190497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370206773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.939024,45.016072,-123.939024,45.016072",
     "geom:latitude":45.016072,
     "geom:longitude":-123.939024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Salmon River Hwy",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370206773,
-    "wof:lastmodified":1449031374,
+    "wof:lastmodified":1466768149,
     "wof:name":"Corvallis Concrete",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.939024,45.016072,-123.939024,45.016072],
+  "bbox": [
+    -123.939024,
+    45.016072,
+    -123.939024,
+    45.016072
+],
   "geometry": {"coordinates":[-123.939024,45.016072],"type":"Point"}
 }

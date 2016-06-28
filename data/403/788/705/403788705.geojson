@@ -2,13 +2,14 @@
   "id": 403788705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.58415,43.637568,-123.58415,43.637568",
     "geom:latitude":43.637568,
     "geom:longitude":-123.58415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2471 Henderer Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403788705,
-    "wof:lastmodified":1449055332,
+    "wof:lastmodified":1466769467,
     "wof:name":"Fenn Farms",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.58415,43.637568,-123.58415,43.637568],
-  "geometry": {"coordinates":[-123.58415,43.637568],"type":"Point"}
+  "bbox": [
+    -123.58415,
+    43.637568,
+    -123.58415,
+    43.637568
+],
+  "geometry": {"coordinates":[-123.58414999999999,43.637568],"type":"Point"}
 }

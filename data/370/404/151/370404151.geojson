@@ -2,13 +2,14 @@
   "id": 370404151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.656919,45.398068,-122.656919,45.398068",
     "geom:latitude":45.398068,
     "geom:longitude":-122.656919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17577 Brookhurst Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370404151,
-    "wof:lastmodified":1449031324,
+    "wof:lastmodified":1466771534,
     "wof:name":"Lake Mortgage",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-122.656919,45.398068,-122.656919,45.398068],
+  "bbox": [
+    -122.656919,
+    45.398068,
+    -122.656919,
+    45.398068
+],
   "geometry": {"coordinates":[-122.656919,45.398068],"type":"Point"}
 }

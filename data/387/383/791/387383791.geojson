@@ -2,13 +2,14 @@
   "id": 387383791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.103798,44.631949,-123.103798,44.631949",
     "geom:latitude":44.631949,
     "geom:longitude":-123.103798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Lyon St S",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387383791,
-    "wof:lastmodified":1449057717,
+    "wof:lastmodified":1466772404,
     "wof:name":"Brady Law Office",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-123.103798,44.631949,-123.103798,44.631949],
+  "bbox": [
+    -123.103798,
+    44.631949,
+    -123.103798,
+    44.631949
+],
   "geometry": {"coordinates":[-123.103798,44.631949],"type":"Point"}
 }

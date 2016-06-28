@@ -2,13 +2,14 @@
   "id": 386927813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.65001,45.468525,-122.65001,45.468525",
     "geom:latitude":45.468525,
     "geom:longitude":-122.65001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 SE Lambert St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386927813,
-    "wof:lastmodified":1449028940,
+    "wof:lastmodified":1466767140,
     "wof:name":"Left Hook Yarn Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.65001,45.468525,-122.65001,45.468525],
-  "geometry": {"coordinates":[-122.65001,45.468525],"type":"Point"}
+  "bbox": [
+    -122.65001,
+    45.468525,
+    -122.65001,
+    45.468525
+],
+  "geometry": {"coordinates":[-122.65000999999999,45.468525],"type":"Point"}
 }

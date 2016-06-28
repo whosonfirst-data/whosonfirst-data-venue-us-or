@@ -2,13 +2,14 @@
   "id": 370283997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.646583,45.512112,-122.646583,45.512112",
     "geom:latitude":45.512112,
     "geom:longitude":-122.646583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 SE Hawthorne Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370283997,
-    "wof:lastmodified":1449030107,
+    "wof:lastmodified":1466769529,
     "wof:name":"Ken's Home Plate",
     "wof:parent_id":85828991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-122.646583,45.512112,-122.646583,45.512112],
-  "geometry": {"coordinates":[-122.646583,45.512112],"type":"Point"}
+  "bbox": [
+    -122.646583,
+    45.512112,
+    -122.646583,
+    45.512112
+],
+  "geometry": {"coordinates":[-122.64658300000001,45.512112],"type":"Point"}
 }

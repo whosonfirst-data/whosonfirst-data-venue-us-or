@@ -2,13 +2,14 @@
   "id": 387152759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.256575,44.584884,-123.256575,44.584884",
     "geom:latitude":44.584884,
     "geom:longitude":-123.256575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387152759,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1466769818,
     "wof:name":"Splish Splash",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-123.256575,44.584884,-123.256575,44.584884],
+  "bbox": [
+    -123.256575,
+    44.584884,
+    -123.256575,
+    44.584884
+],
   "geometry": {"coordinates":[-123.256575,44.584884],"type":"Point"}
 }

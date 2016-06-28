@@ -2,13 +2,14 @@
   "id": 387903493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030228,44.871031,-123.030228,44.871031",
     "geom:latitude":44.871031,
     "geom:longitude":-123.030228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5874 Flairstone Ct SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387903493,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1466775226,
     "wof:name":"Global Chem Source LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-123.030228,44.871031,-123.030228,44.871031],
-  "geometry": {"coordinates":[-123.030228,44.871031],"type":"Point"}
+  "bbox": [
+    -123.030228,
+    44.871031,
+    -123.030228,
+    44.871031
+],
+  "geometry": {"coordinates":[-123.03022799999999,44.871031],"type":"Point"}
 }

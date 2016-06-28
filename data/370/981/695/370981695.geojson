@@ -2,13 +2,14 @@
   "id": 370981695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.202718,45.868025,-119.202718,45.868025",
     "geom:latitude":45.868025,
     "geom:longitude":-119.202718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33355 Dallas Rd",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370981695,
-    "wof:lastmodified":1449032539,
+    "wof:lastmodified":1466775123,
     "wof:name":"Hockensmith Cattle Company",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-119.202718,45.868025,-119.202718,45.868025],
+  "bbox": [
+    -119.202718,
+    45.868025,
+    -119.202718,
+    45.868025
+],
   "geometry": {"coordinates":[-119.202718,45.868025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404020145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.552859,45.5535,-122.552859,45.5535",
     "geom:latitude":45.5535,
     "geom:longitude":-122.552859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10632 NE Skidmore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404020145,
-    "wof:lastmodified":1449039571,
+    "wof:lastmodified":1466768808,
     "wof:name":"Shattuck Construction",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.552859,45.5535,-122.552859,45.5535],
+  "bbox": [
+    -122.552859,
+    45.5535,
+    -122.552859,
+    45.5535
+],
   "geometry": {"coordinates":[-122.552859,45.5535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370998375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.724587,44.550482,-123.724587,44.550482",
     "geom:latitude":44.550482,
     "geom:longitude":-123.724587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17849 Harlan Rd",
     "sg:city":"Eddyville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370998375,
-    "wof:lastmodified":1449030212,
+    "wof:lastmodified":1466775079,
     "wof:name":"Russell Polled Herefords",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-123.724587,44.550482,-123.724587,44.550482],
+  "bbox": [
+    -123.724587,
+    44.550482,
+    -123.724587,
+    44.550482
+],
   "geometry": {"coordinates":[-123.724587,44.550482],"type":"Point"}
 }

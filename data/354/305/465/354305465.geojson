@@ -2,13 +2,14 @@
   "id": 354305465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030268,44.938995,-123.030268,44.938995",
     "geom:latitude":44.938995,
     "geom:longitude":-123.030268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Court St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354305465,
-    "wof:lastmodified":1449066191,
+    "wof:lastmodified":1466769570,
     "wof:name":"Capitol Planning Commission",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-123.030268,44.938995,-123.030268,44.938995],
-  "geometry": {"coordinates":[-123.030268,44.938995],"type":"Point"}
+  "bbox": [
+    -123.030268,
+    44.938995,
+    -123.030268,
+    44.938995
+],
+  "geometry": {"coordinates":[-123.03026800000001,44.938995],"type":"Point"}
 }

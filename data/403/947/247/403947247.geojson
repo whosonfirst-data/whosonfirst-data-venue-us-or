@@ -2,13 +2,14 @@
   "id": 403947247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.853468,45.459135,-122.853468,45.459135",
     "geom:latitude":45.459135,
     "geom:longitude":-122.853468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8456 SW Charlotte Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403947247,
-    "wof:lastmodified":1449055573,
+    "wof:lastmodified":1466768208,
     "wof:name":"Unigrok",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-122.853468,45.459135,-122.853468,45.459135],
-  "geometry": {"coordinates":[-122.853468,45.459135],"type":"Point"}
+  "bbox": [
+    -122.853468,
+    45.459135,
+    -122.853468,
+    45.459135
+],
+  "geometry": {"coordinates":[-122.85346800000001,45.459135],"type":"Point"}
 }

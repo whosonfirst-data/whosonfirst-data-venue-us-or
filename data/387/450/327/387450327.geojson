@@ -2,13 +2,14 @@
   "id": 387450327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018347,45.286184,-123.018347,45.286184",
     "geom:latitude":45.286184,
     "geom:longitude":-123.018347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 NW Viewmont Dr",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387450327,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1466772912,
     "wof:name":"Daughters American Revolution",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.018347,45.286184,-123.018347,45.286184],
-  "geometry": {"coordinates":[-123.018347,45.286184],"type":"Point"}
+  "bbox": [
+    -123.018347,
+    45.286184,
+    -123.018347,
+    45.286184
+],
+  "geometry": {"coordinates":[-123.01834700000001,45.286184],"type":"Point"}
 }

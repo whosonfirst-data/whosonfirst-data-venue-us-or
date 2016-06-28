@@ -2,13 +2,14 @@
   "id": 354333575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.359541,45.298964,-122.359541,45.298964",
     "geom:latitude":45.298964,
     "geom:longitude":-122.359541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24500 S Entrance Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354333575,
-    "wof:lastmodified":1449067560,
+    "wof:lastmodified":1466770005,
     "wof:name":"Clackamas Fish Hatchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fish"
     ]
 },
-  "bbox": [-122.359541,45.298964,-122.359541,45.298964],
-  "geometry": {"coordinates":[-122.359541,45.298964],"type":"Point"}
+  "bbox": [
+    -122.359541,
+    45.298964,
+    -122.359541,
+    45.298964
+],
+  "geometry": {"coordinates":[-122.35954099999999,45.298964],"type":"Point"}
 }

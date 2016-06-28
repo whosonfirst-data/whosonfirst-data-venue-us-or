@@ -2,13 +2,14 @@
   "id": 370902099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.690548,45.531364,-122.690548,45.531364",
     "geom:latitude":45.531364,
     "geom:longitude":-122.690548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 NW Northrup St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370902099,
-    "wof:lastmodified":1449031601,
+    "wof:lastmodified":1466774673,
     "wof:name":"Limbo Films",
     "wof:parent_id":85867139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [-122.690548,45.531364,-122.690548,45.531364],
-  "geometry": {"coordinates":[-122.690548,45.531364],"type":"Point"}
+  "bbox": [
+    -122.690548,
+    45.531364,
+    -122.690548,
+    45.531364
+],
+  "geometry": {"coordinates":[-122.69054800000001,45.531364],"type":"Point"}
 }

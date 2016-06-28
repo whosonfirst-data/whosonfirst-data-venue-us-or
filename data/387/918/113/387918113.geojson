@@ -2,13 +2,14 @@
   "id": 387918113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01027,44.738499,-123.01027,44.738499",
     "geom:latitude":44.738499,
     "geom:longitude":-123.01027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15002 Jefferson Hwy 99E SE",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387918113,
-    "wof:lastmodified":1449058703,
+    "wof:lastmodified":1466775340,
     "wof:name":"Custom Cooking & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-123.01027,44.738499,-123.01027,44.738499],
-  "geometry": {"coordinates":[-123.01027,44.738499],"type":"Point"}
+  "bbox": [
+    -123.01027,
+    44.738499,
+    -123.01027,
+    44.738499
+],
+  "geometry": {"coordinates":[-123.01027000000001,44.738499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387833435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.693325,45.842114,-119.693325,45.842114",
     "geom:latitude":45.842114,
     "geom:longitude":-119.693325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Boardman Ave NE",
     "sg:city":"Boardman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387833435,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1466775111,
     "wof:name":"Hab-Doc Apartments",
     "wof:parent_id":85833897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.693325,45.842114,-119.693325,45.842114],
+  "bbox": [
+    -119.693325,
+    45.842114,
+    -119.693325,
+    45.842114
+],
   "geometry": {"coordinates":[-119.693325,45.842114],"type":"Point"}
 }

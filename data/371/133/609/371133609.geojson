@@ -2,13 +2,14 @@
   "id": 371133609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.534078,45.480216,-122.534078,45.480216",
     "geom:latitude":45.480216,
     "geom:longitude":-122.534078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12427 SE Ramona St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371133609,
-    "wof:lastmodified":1449049927,
+    "wof:lastmodified":1466769398,
     "wof:name":"Cornerstone Landscapes",
     "wof:parent_id":85821523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-122.534078,45.480216,-122.534078,45.480216],
-  "geometry": {"coordinates":[-122.534078,45.480216],"type":"Point"}
+  "bbox": [
+    -122.534078,
+    45.480216,
+    -122.534078,
+    45.480216
+],
+  "geometry": {"coordinates":[-122.53407799999999,45.480216],"type":"Point"}
 }

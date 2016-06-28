@@ -2,13 +2,14 @@
   "id": 370285903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.554243,45.518945,-122.554243,45.518945",
     "geom:latitude":45.518945,
     "geom:longitude":-122.554243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10524 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370285903,
-    "wof:lastmodified":1449029159,
+    "wof:lastmodified":1466769565,
     "wof:name":"Olympic Mortgage Inc",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-122.554243,45.518945,-122.554243,45.518945],
+  "bbox": [
+    -122.554243,
+    45.518945,
+    -122.554243,
+    45.518945
+],
   "geometry": {"coordinates":[-122.554243,45.518945],"type":"Point"}
 }

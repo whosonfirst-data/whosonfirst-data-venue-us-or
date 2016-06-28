@@ -2,13 +2,14 @@
   "id": 370624717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.173873,44.296445,-121.173873,44.296445",
     "geom:latitude":44.296445,
     "geom:longitude":-121.173873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 N Hwy 97",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370624717,
-    "wof:lastmodified":1449031398,
+    "wof:lastmodified":1466773169,
     "wof:name":"Feed Barn",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-121.173873,44.296445,-121.173873,44.296445],
+  "bbox": [
+    -121.173873,
+    44.296445,
+    -121.173873,
+    44.296445
+],
   "geometry": {"coordinates":[-121.173873,44.296445],"type":"Point"}
 }

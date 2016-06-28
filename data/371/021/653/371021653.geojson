@@ -2,13 +2,14 @@
   "id": 371021653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.153597,45.235854,-123.153597,45.235854",
     "geom:latitude":45.235854,
     "geom:longitude":-123.153597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 NE Bunn Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371021653,
-    "wof:lastmodified":1449049708,
+    "wof:lastmodified":1466767505,
     "wof:name":"Robinson Welding & Fabrication",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-123.153597,45.235854,-123.153597,45.235854],
+  "bbox": [
+    -123.153597,
+    45.235854,
+    -123.153597,
+    45.235854
+],
   "geometry": {"coordinates":[-123.153597,45.235854],"type":"Point"}
 }

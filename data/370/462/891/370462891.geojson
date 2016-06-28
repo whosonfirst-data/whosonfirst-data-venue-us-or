@@ -2,13 +2,14 @@
   "id": 370462891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.733271,44.397408,-122.733271,44.397408",
     "geom:latitude":44.397408,
     "geom:longitude":-122.733271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"958 Main St",
     "sg:city":"Sweet Home",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370462891,
-    "wof:lastmodified":1449032342,
+    "wof:lastmodified":1466772099,
     "wof:name":"Sweet Home Car Wash",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-122.733271,44.397408,-122.733271,44.397408],
+  "bbox": [
+    -122.733271,
+    44.397408,
+    -122.733271,
+    44.397408
+],
   "geometry": {"coordinates":[-122.733271,44.397408],"type":"Point"}
 }

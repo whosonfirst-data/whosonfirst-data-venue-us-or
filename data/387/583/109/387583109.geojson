@@ -2,13 +2,14 @@
   "id": 387583109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.646296,45.448616,-122.646296,45.448616",
     "geom:latitude":45.448616,
     "geom:longitude":-122.646296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10360 SE Waverly Ct",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387583109,
-    "wof:lastmodified":1449059111,
+    "wof:lastmodified":1466773823,
     "wof:name":"Bettinger Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.646296,45.448616,-122.646296,45.448616],
-  "geometry": {"coordinates":[-122.646296,45.448616],"type":"Point"}
+  "bbox": [
+    -122.646296,
+    45.448616,
+    -122.646296,
+    45.448616
+],
+  "geometry": {"coordinates":[-122.64629600000001,45.448616],"type":"Point"}
 }

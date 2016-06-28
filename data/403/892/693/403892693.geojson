@@ -2,13 +2,14 @@
   "id": 403892693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.667389,45.422335,-122.667389,45.422335",
     "geom:latitude":45.422335,
     "geom:longitude":-122.667389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 4th St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403892693,
-    "wof:lastmodified":1449054822,
+    "wof:lastmodified":1466767243,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.667389,45.422335,-122.667389,45.422335],
+  "bbox": [
+    -122.667389,
+    45.422335,
+    -122.667389,
+    45.422335
+],
   "geometry": {"coordinates":[-122.667389,45.422335],"type":"Point"}
 }

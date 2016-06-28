@@ -2,13 +2,14 @@
   "id": 370939445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.053041,45.47957,-123.053041,45.47957",
     "geom:latitude":45.47957,
     "geom:longitude":-123.053041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5707 SW Iowa Hill Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370939445,
-    "wof:lastmodified":1449030098,
+    "wof:lastmodified":1466774882,
     "wof:name":"Willis J Stark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.053041,45.47957,-123.053041,45.47957],
-  "geometry": {"coordinates":[-123.053041,45.47957],"type":"Point"}
+  "bbox": [
+    -123.053041,
+    45.47957,
+    -123.053041,
+    45.47957
+],
+  "geometry": {"coordinates":[-123.05304099999999,45.47957],"type":"Point"}
 }

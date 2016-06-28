@@ -2,13 +2,14 @@
   "id": 387352051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.404312,43.262595,-123.404312,43.262595",
     "geom:latitude":43.262595,
     "geom:longitude":-123.404312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Curry Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387352051,
-    "wof:lastmodified":1449058441,
+    "wof:lastmodified":1466772134,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.404312,43.262595,-123.404312,43.262595],
+  "bbox": [
+    -123.404312,
+    43.262595,
+    -123.404312,
+    43.262595
+],
   "geometry": {"coordinates":[-123.404312,43.262595],"type":"Point"}
 }

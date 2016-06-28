@@ -2,13 +2,14 @@
   "id": 354268779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.356677,42.422389,-123.356677,42.422389",
     "geom:latitude":42.422389,
     "geom:longitude":-123.356677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Redwood Ave",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354268779,
-    "wof:lastmodified":1449066917,
+    "wof:lastmodified":1466768950,
     "wof:name":"Redwood Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursery"
     ]
 },
-  "bbox": [-123.356677,42.422389,-123.356677,42.422389],
+  "bbox": [
+    -123.356677,
+    42.422389,
+    -123.356677,
+    42.422389
+],
   "geometry": {"coordinates":[-123.356677,42.422389],"type":"Point"}
 }

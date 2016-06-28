@@ -2,13 +2,14 @@
   "id": 370927699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652769,45.556762,-122.652769,45.556762",
     "geom:latitude":45.556762,
     "geom:longitude":-122.652769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4715 NE 13th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370927699,
-    "wof:lastmodified":1449032121,
+    "wof:lastmodified":1466774829,
     "wof:name":"Autism Research & Resourc",
     "wof:parent_id":85893213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.652769,45.556762,-122.652769,45.556762],
-  "geometry": {"coordinates":[-122.652769,45.556762],"type":"Point"}
+  "bbox": [
+    -122.652769,
+    45.556762,
+    -122.652769,
+    45.556762
+],
+  "geometry": {"coordinates":[-122.65276900000001,45.556762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354397537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.38366,45.926104,-118.38366,45.926104",
     "geom:latitude":45.926104,
     "geom:longitude":-118.38366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 S Main St",
     "sg:city":"Milton Freewater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354397537,
-    "wof:lastmodified":1449066593,
+    "wof:lastmodified":1466771257,
     "wof:name":"Kennedy Mobile Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-118.38366,45.926104,-118.38366,45.926104],
-  "geometry": {"coordinates":[-118.38366,45.926104],"type":"Point"}
+  "bbox": [
+    -118.38366,
+    45.926104,
+    -118.38366,
+    45.926104
+],
+  "geometry": {"coordinates":[-118.38366000000001,45.926104],"type":"Point"}
 }

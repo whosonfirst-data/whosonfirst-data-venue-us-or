@@ -2,13 +2,14 @@
   "id": 387745851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.598509,45.38071,-122.598509,45.38071",
     "geom:latitude":45.38071,
     "geom:longitude":-122.598509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 W Fairfield St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387745851,
-    "wof:lastmodified":1449059747,
+    "wof:lastmodified":1466774769,
     "wof:name":"Tone Zone",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-122.598509,45.38071,-122.598509,45.38071],
-  "geometry": {"coordinates":[-122.598509,45.38071],"type":"Point"}
+  "bbox": [
+    -122.598509,
+    45.38071,
+    -122.598509,
+    45.38071
+],
+  "geometry": {"coordinates":[-122.59850900000001,45.38071],"type":"Point"}
 }

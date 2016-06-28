@@ -2,13 +2,14 @@
   "id": 370495779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.306689,45.761023,-123.306689,45.761023",
     "geom:latitude":45.761023,
     "geom:longitude":-123.306689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60675 NW Sunset Hwy",
     "sg:city":"Timber",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370495779,
-    "wof:lastmodified":1449030583,
+    "wof:lastmodified":1466772294,
     "wof:name":"Timber Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.306689,45.761023,-123.306689,45.761023],
-  "geometry": {"coordinates":[-123.306689,45.761023],"type":"Point"}
+  "bbox": [
+    -123.306689,
+    45.761023,
+    -123.306689,
+    45.761023
+],
+  "geometry": {"coordinates":[-123.30668900000001,45.761023],"type":"Point"}
 }

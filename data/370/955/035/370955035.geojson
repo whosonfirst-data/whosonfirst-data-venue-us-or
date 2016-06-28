@@ -2,13 +2,14 @@
   "id": 370955035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.665056,45.382336,-122.665056,45.382336",
     "geom:latitude":45.382336,
     "geom:longitude":-122.665056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1099 S Station Ln",
     "sg:city":"West Linn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370955035,
-    "wof:lastmodified":1449031433,
+    "wof:lastmodified":1466774943,
     "wof:name":"Steve Cox & Associates",
     "wof:parent_id":85846037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-122.665056,45.382336,-122.665056,45.382336],
-  "geometry": {"coordinates":[-122.665056,45.382336],"type":"Point"}
+  "bbox": [
+    -122.665056,
+    45.382336,
+    -122.665056,
+    45.382336
+],
+  "geometry": {"coordinates":[-122.66505600000001,45.382336],"type":"Point"}
 }

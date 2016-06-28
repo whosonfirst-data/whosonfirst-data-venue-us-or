@@ -2,13 +2,14 @@
   "id": 370395287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.165068,44.095548,-123.165068,44.095548",
     "geom:latitude":44.095548,
     "geom:longitude":-123.165068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 State Hwy 99 N",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370395287,
-    "wof:lastmodified":1449031969,
+    "wof:lastmodified":1466771720,
     "wof:name":"Luke's Rv Sales",
     "wof:parent_id":85877245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.165068,44.095548,-123.165068,44.095548],
-  "geometry": {"coordinates":[-123.165068,44.095548],"type":"Point"}
+  "bbox": [
+    -123.165068,
+    44.095548,
+    -123.165068,
+    44.095548
+],
+  "geometry": {"coordinates":[-123.16506800000001,44.095548],"type":"Point"}
 }

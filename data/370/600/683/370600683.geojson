@@ -2,13 +2,14 @@
   "id": 370600683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.677935,45.513459,-122.677935,45.513459",
     "geom:latitude":45.513459,
     "geom:longitude":-122.677935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 SW Columbia St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370600683,
-    "wof:lastmodified":1449029398,
+    "wof:lastmodified":1466773132,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-122.677935,45.513459,-122.677935,45.513459],
-  "geometry": {"coordinates":[-122.677935,45.513459],"type":"Point"}
+  "bbox": [
+    -122.677935,
+    45.513459,
+    -122.677935,
+    45.513459
+],
+  "geometry": {"coordinates":[-122.67793500000001,45.513459],"type":"Point"}
 }

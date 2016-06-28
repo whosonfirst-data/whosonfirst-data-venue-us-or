@@ -2,13 +2,14 @@
   "id": 404079497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347365,43.200539,-123.347365,43.200539",
     "geom:latitude":43.200539,
     "geom:longitude":-123.347365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 SE Main St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404079497,
-    "wof:lastmodified":1449040114,
+    "wof:lastmodified":1466769923,
     "wof:name":"Empro",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-123.347365,43.200539,-123.347365,43.200539],
+  "bbox": [
+    -123.347365,
+    43.200539,
+    -123.347365,
+    43.200539
+],
   "geometry": {"coordinates":[-123.347365,43.200539],"type":"Point"}
 }

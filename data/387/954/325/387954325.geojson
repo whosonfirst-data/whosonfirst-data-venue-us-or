@@ -2,13 +2,14 @@
   "id": 387954325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.711854,45.458322,-122.711854,45.458322",
     "geom:latitude":45.458322,
     "geom:longitude":-122.711854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 SW Alice St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387954325,
-    "wof:lastmodified":1449059430,
+    "wof:lastmodified":1466775471,
     "wof:name":"Kim Villa Apartments",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.711854,45.458322,-122.711854,45.458322],
+  "bbox": [
+    -122.711854,
+    45.458322,
+    -122.711854,
+    45.458322
+],
   "geometry": {"coordinates":[-122.711854,45.458322],"type":"Point"}
 }

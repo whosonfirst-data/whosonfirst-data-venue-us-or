@@ -2,13 +2,14 @@
   "id": 370898303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.060763,42.822695,-123.060763,42.822695",
     "geom:latitude":42.822695,
     "geom:longitude":-123.060763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16144 Upper Cow Creek Rd",
     "sg:city":"Azalea",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370898303,
-    "wof:lastmodified":1449028994,
+    "wof:lastmodified":1466774753,
     "wof:name":"Barnes Buzziary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.060763,42.822695,-123.060763,42.822695],
-  "geometry": {"coordinates":[-123.060763,42.822695],"type":"Point"}
+  "bbox": [
+    -123.060763,
+    42.822695,
+    -123.060763,
+    42.822695
+],
+  "geometry": {"coordinates":[-123.06076299999999,42.822695],"type":"Point"}
 }

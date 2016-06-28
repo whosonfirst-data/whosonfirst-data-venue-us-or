@@ -2,13 +2,14 @@
   "id": 354371125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.290051,45.854625,-119.290051,45.854625",
     "geom:latitude":45.854625,
     "geom:longitude":-119.290051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 N 1st St",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354371125,
-    "wof:lastmodified":1449067258,
+    "wof:lastmodified":1466770786,
     "wof:name":"Grocery Outlet Inc",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-119.290051,45.854625,-119.290051,45.854625],
-  "geometry": {"coordinates":[-119.290051,45.854625],"type":"Point"}
+  "bbox": [
+    -119.290051,
+    45.854625,
+    -119.290051,
+    45.854625
+],
+  "geometry": {"coordinates":[-119.29005100000001,45.854625],"type":"Point"}
 }

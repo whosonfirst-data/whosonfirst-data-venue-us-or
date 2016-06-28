@@ -2,13 +2,14 @@
   "id": 404144803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11978,44.625665,-123.11978,44.625665",
     "geom:latitude":44.625665,
     "geom:longitude":-123.11978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 14th Ave SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404144803,
-    "wof:lastmodified":1449040000,
+    "wof:lastmodified":1466767157,
     "wof:name":"Girl Scouts Community Ctr",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-123.11978,44.625665,-123.11978,44.625665],
-  "geometry": {"coordinates":[-123.11978,44.625665],"type":"Point"}
+  "bbox": [
+    -123.11978,
+    44.625665,
+    -123.11978,
+    44.625665
+],
+  "geometry": {"coordinates":[-123.11978000000001,44.625665],"type":"Point"}
 }

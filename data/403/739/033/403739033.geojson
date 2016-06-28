@@ -2,13 +2,14 @@
   "id": 403739033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.001206,44.045942,-123.001206,44.045942",
     "geom:latitude":44.045942,
     "geom:longitude":-123.001206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1666 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403739033,
-    "wof:lastmodified":1449055189,
+    "wof:lastmodified":1466771451,
     "wof:name":"Celebrations",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.001206,44.045942,-123.001206,44.045942],
+  "bbox": [
+    -123.001206,
+    44.045942,
+    -123.001206,
+    44.045942
+],
   "geometry": {"coordinates":[-123.001206,44.045942],"type":"Point"}
 }

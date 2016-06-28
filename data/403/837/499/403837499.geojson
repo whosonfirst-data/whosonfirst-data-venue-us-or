@@ -2,13 +2,14 @@
   "id": 403837499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.148384,43.950906,-123.148384,43.950906",
     "geom:latitude":43.950906,
     "geom:longitude":-123.148384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30251 Fox Hollow Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403837499,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1466770545,
     "wof:name":"Fox Hollow Construction",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.148384,43.950906,-123.148384,43.950906],
-  "geometry": {"coordinates":[-123.148384,43.950906],"type":"Point"}
+  "bbox": [
+    -123.148384,
+    43.950906,
+    -123.148384,
+    43.950906
+],
+  "geometry": {"coordinates":[-123.14838399999999,43.950906],"type":"Point"}
 }

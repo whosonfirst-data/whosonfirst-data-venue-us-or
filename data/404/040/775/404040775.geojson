@@ -2,13 +2,14 @@
   "id": 404040775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.314569,44.549962,-123.314569,44.549962",
     "geom:latitude":44.549962,
     "geom:longitude":-123.314569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5474 SW Philomath Blvd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404040775,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1466769182,
     "wof:name":"Squeaky Shoes",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.314569,44.549962,-123.314569,44.549962],
-  "geometry": {"coordinates":[-123.314569,44.549962],"type":"Point"}
+  "bbox": [
+    -123.314569,
+    44.549962,
+    -123.314569,
+    44.549962
+],
+  "geometry": {"coordinates":[-123.31456900000001,44.549962],"type":"Point"}
 }

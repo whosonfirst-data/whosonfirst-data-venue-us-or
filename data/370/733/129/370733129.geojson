@@ -2,13 +2,14 @@
   "id": 370733129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.86746,42.327392,-122.86746,42.327392",
     "geom:latitude":42.327392,
     "geom:longitude":-122.86746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Almond St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370733129,
-    "wof:lastmodified":1449029567,
+    "wof:lastmodified":1466773697,
     "wof:name":"Active Medical",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-122.86746,42.327392,-122.86746,42.327392],
-  "geometry": {"coordinates":[-122.86746,42.327392],"type":"Point"}
+  "bbox": [
+    -122.86746,
+    42.327392,
+    -122.86746,
+    42.327392
+],
+  "geometry": {"coordinates":[-122.86745999999999,42.327392],"type":"Point"}
 }

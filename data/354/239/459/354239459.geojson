@@ -2,13 +2,14 @@
   "id": 354239459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.283298,44.591827,-123.283298,44.591827",
     "geom:latitude":44.591827,
     "geom:longitude":-123.283298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 NW 29th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354239459,
-    "wof:lastmodified":1449066089,
+    "wof:lastmodified":1466768427,
     "wof:name":"Active Diving & Marine Service",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diver"
     ]
 },
-  "bbox": [-123.283298,44.591827,-123.283298,44.591827],
+  "bbox": [
+    -123.283298,
+    44.591827,
+    -123.283298,
+    44.591827
+],
   "geometry": {"coordinates":[-123.283298,44.591827],"type":"Point"}
 }

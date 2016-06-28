@@ -2,13 +2,14 @@
   "id": 371056513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.733426,45.360345,-122.733426,45.360345",
     "geom:latitude":45.360345,
     "geom:longitude":-122.733426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 SW Delker Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371056513,
-    "wof:lastmodified":1449049298,
+    "wof:lastmodified":1466768086,
     "wof:name":"Corson & Assoc Inc",
     "wof:parent_id":85878581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-122.733426,45.360345,-122.733426,45.360345],
-  "geometry": {"coordinates":[-122.733426,45.360345],"type":"Point"}
+  "bbox": [
+    -122.733426,
+    45.360345,
+    -122.733426,
+    45.360345
+],
+  "geometry": {"coordinates":[-122.73342599999999,45.360345],"type":"Point"}
 }

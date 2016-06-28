@@ -2,13 +2,14 @@
   "id": 370721029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.081271,44.954169,-123.081271,44.954169",
     "geom:latitude":44.954169,
     "geom:longitude":-123.081271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Doaks Ferry Rd NW",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370721029,
-    "wof:lastmodified":1449032459,
+    "wof:lastmodified":1466773542,
     "wof:name":"Weldwerks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.081271,44.954169,-123.081271,44.954169],
+  "bbox": [
+    -123.081271,
+    44.954169,
+    -123.081271,
+    44.954169
+],
   "geometry": {"coordinates":[-123.081271,44.954169],"type":"Point"}
 }

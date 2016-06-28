@@ -2,13 +2,14 @@
   "id": 370367353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.995275,44.985273,-123.995275,44.985273",
     "geom:latitude":44.985273,
     "geom:longitude":-123.995275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 NE 28th St",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370367353,
-    "wof:lastmodified":1449031072,
+    "wof:lastmodified":1466771158,
     "wof:name":"Lincoln City Rehab Center",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-123.995275,44.985273,-123.995275,44.985273],
-  "geometry": {"coordinates":[-123.995275,44.985273],"type":"Point"}
+  "bbox": [
+    -123.995275,
+    44.985273,
+    -123.995275,
+    44.985273
+],
+  "geometry": {"coordinates":[-123.99527500000001,44.985273],"type":"Point"}
 }

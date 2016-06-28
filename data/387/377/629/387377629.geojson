@@ -2,13 +2,14 @@
   "id": 387377629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.307398,44.927311,-123.307398,44.927311",
     "geom:latitude":44.927311,
     "geom:longitude":-123.307398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 SE Uglow St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387377629,
-    "wof:lastmodified":1449057534,
+    "wof:lastmodified":1466772465,
     "wof:name":"Scott Marley Trucking LLC",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.307398,44.927311,-123.307398,44.927311],
-  "geometry": {"coordinates":[-123.307398,44.927311],"type":"Point"}
+  "bbox": [
+    -123.307398,
+    44.927311,
+    -123.307398,
+    44.927311
+],
+  "geometry": {"coordinates":[-123.30739800000001,44.927311],"type":"Point"}
 }

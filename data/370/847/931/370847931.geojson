@@ -2,13 +2,14 @@
   "id": 370847931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.030594,44.919099,-123.030594,44.919099",
     "geom:latitude":44.919099,
     "geom:longitude":-123.030594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 12th St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370847931,
-    "wof:lastmodified":1449030319,
+    "wof:lastmodified":1466774398,
     "wof:name":"O K Tire Stores",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-123.030594,44.919099,-123.030594,44.919099],
-  "geometry": {"coordinates":[-123.030594,44.919099],"type":"Point"}
+  "bbox": [
+    -123.030594,
+    44.919099,
+    -123.030594,
+    44.919099
+],
+  "geometry": {"coordinates":[-123.03059399999999,44.919099],"type":"Point"}
 }

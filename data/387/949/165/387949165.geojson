@@ -2,13 +2,14 @@
   "id": 387949165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.549668,45.496333,-122.549668,45.496333",
     "geom:latitude":45.496333,
     "geom:longitude":-122.549668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10948 SE Powell Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387949165,
-    "wof:lastmodified":1449058464,
+    "wof:lastmodified":1466775390,
     "wof:name":"Norwest Distribution LLC",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-122.549668,45.496333,-122.549668,45.496333],
+  "bbox": [
+    -122.549668,
+    45.496333,
+    -122.549668,
+    45.496333
+],
   "geometry": {"coordinates":[-122.549668,45.496333],"type":"Point"}
 }

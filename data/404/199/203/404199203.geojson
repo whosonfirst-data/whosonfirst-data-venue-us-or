@@ -2,13 +2,14 @@
   "id": 404199203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01456,44.92876,-123.01456,44.92876",
     "geom:latitude":44.92876,
     "geom:longitude":-123.01456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 Simpson St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404199203,
-    "wof:lastmodified":1449039142,
+    "wof:lastmodified":1466768098,
     "wof:name":"Dixies Can Can Tavern",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-123.01456,44.92876,-123.01456,44.92876],
+  "bbox": [
+    -123.01456,
+    44.92876,
+    -123.01456,
+    44.92876
+],
   "geometry": {"coordinates":[-123.01456,44.92876],"type":"Point"}
 }

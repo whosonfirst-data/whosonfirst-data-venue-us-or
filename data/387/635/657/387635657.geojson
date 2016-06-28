@@ -2,13 +2,14 @@
   "id": 387635657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.696126,45.527773,-122.696126,45.527773",
     "geom:latitude":45.527773,
     "geom:longitude":-122.696126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 NW Irving St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387635657,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1466774122,
     "wof:name":"Zookeeper",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-122.696126,45.527773,-122.696126,45.527773],
-  "geometry": {"coordinates":[-122.696126,45.527773],"type":"Point"}
+  "bbox": [
+    -122.696126,
+    45.527773,
+    -122.696126,
+    45.527773
+],
+  "geometry": {"coordinates":[-122.69612600000001,45.527773],"type":"Point"}
 }

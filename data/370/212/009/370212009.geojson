@@ -2,13 +2,14 @@
   "id": 370212009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.529896,45.508615,-122.529896,45.508615",
     "geom:latitude":45.508615,
     "geom:longitude":-122.529896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 SE 130th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370212009,
-    "wof:lastmodified":1449031270,
+    "wof:lastmodified":1466768241,
     "wof:name":"A Quality Welder",
     "wof:parent_id":85842991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-122.529896,45.508615,-122.529896,45.508615],
-  "geometry": {"coordinates":[-122.529896,45.508615],"type":"Point"}
+  "bbox": [
+    -122.529896,
+    45.508615,
+    -122.529896,
+    45.508615
+],
+  "geometry": {"coordinates":[-122.52989599999999,45.508615],"type":"Point"}
 }

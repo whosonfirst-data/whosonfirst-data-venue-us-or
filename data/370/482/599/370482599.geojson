@@ -2,13 +2,14 @@
   "id": 370482599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.758192,45.223472,-122.758192,45.223472",
     "geom:latitude":45.223472,
     "geom:longitude":-122.758192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14673 Ottoway Rd NE",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370482599,
-    "wof:lastmodified":1449030291,
+    "wof:lastmodified":1466772111,
     "wof:name":"Pacific Hazlenut Farms",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "candy"
     ]
 },
-  "bbox": [-122.758192,45.223472,-122.758192,45.223472],
-  "geometry": {"coordinates":[-122.758192,45.223472],"type":"Point"}
+  "bbox": [
+    -122.758192,
+    45.223472,
+    -122.758192,
+    45.223472
+],
+  "geometry": {"coordinates":[-122.75819199999999,45.223472],"type":"Point"}
 }

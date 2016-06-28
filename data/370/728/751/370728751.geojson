@@ -2,13 +2,14 @@
   "id": 370728751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.450582,45.028953,-123.450582,45.028953",
     "geom:latitude":45.028953,
     "geom:longitude":-123.450582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20790 State Hwy 22",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370728751,
-    "wof:lastmodified":1449029879,
+    "wof:lastmodified":1466773687,
     "wof:name":"Brookside Farms",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-123.450582,45.028953,-123.450582,45.028953],
+  "bbox": [
+    -123.450582,
+    45.028953,
+    -123.450582,
+    45.028953
+],
   "geometry": {"coordinates":[-123.450582,45.028953],"type":"Point"}
 }

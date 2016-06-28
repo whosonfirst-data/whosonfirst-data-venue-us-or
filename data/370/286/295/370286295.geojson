@@ -2,13 +2,14 @@
   "id": 370286295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.288655,45.840673,-119.288655,45.840673",
     "geom:latitude":45.840673,
     "geom:longitude":-119.288655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 NE 2nd St",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370286295,
-    "wof:lastmodified":1449029986,
+    "wof:lastmodified":1466769573,
     "wof:name":"Hermiston Billing",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-119.288655,45.840673,-119.288655,45.840673],
-  "geometry": {"coordinates":[-119.288655,45.840673],"type":"Point"}
+  "bbox": [
+    -119.288655,
+    45.840673,
+    -119.288655,
+    45.840673
+],
+  "geometry": {"coordinates":[-119.28865500000001,45.840673],"type":"Point"}
 }

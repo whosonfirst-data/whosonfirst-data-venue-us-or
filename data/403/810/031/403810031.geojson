@@ -2,13 +2,14 @@
   "id": 403810031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.559427,45.518261,-122.559427,45.518261",
     "geom:latitude":45.518261,
     "geom:longitude":-122.559427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10150 SE Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403810031,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466769817,
     "wof:name":"Home Quarters Mall",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-122.559427,45.518261,-122.559427,45.518261],
+  "bbox": [
+    -122.559427,
+    45.518261,
+    -122.559427,
+    45.518261
+],
   "geometry": {"coordinates":[-122.559427,45.518261],"type":"Point"}
 }

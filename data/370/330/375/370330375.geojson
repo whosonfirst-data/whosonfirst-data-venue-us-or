@@ -2,13 +2,14 @@
   "id": 370330375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.405661,45.504816,-122.405661,45.504816",
     "geom:latitude":45.504816,
     "geom:longitude":-122.405661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 NE Cochran Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370330375,
-    "wof:lastmodified":1449030763,
+    "wof:lastmodified":1466770430,
     "wof:name":"Godfrey Building Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.405661,45.504816,-122.405661,45.504816],
-  "geometry": {"coordinates":[-122.405661,45.504816],"type":"Point"}
+  "bbox": [
+    -122.405661,
+    45.504816,
+    -122.405661,
+    45.504816
+],
+  "geometry": {"coordinates":[-122.40566099999999,45.504816],"type":"Point"}
 }

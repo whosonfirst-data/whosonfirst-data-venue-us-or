@@ -2,13 +2,14 @@
   "id": 403985713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.236454,43.402048,-124.236454,43.402048",
     "geom:latitude":43.402048,
     "geom:longitude":-124.236454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Marion St",
     "sg:city":"North Bend",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403985713,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466768886,
     "wof:name":"Pacific Child Ctr",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.236454,43.402048,-124.236454,43.402048],
-  "geometry": {"coordinates":[-124.236454,43.402048],"type":"Point"}
+  "bbox": [
+    -124.236454,
+    43.402048,
+    -124.236454,
+    43.402048
+],
+  "geometry": {"coordinates":[-124.23645399999999,43.402048],"type":"Point"}
 }

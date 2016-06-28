@@ -2,13 +2,14 @@
   "id": 387379505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.650907,45.576174,-122.650907,45.576174",
     "geom:latitude":45.576174,
     "geom:longitude":-122.650907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 NE Stafford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387379505,
-    "wof:lastmodified":1449058318,
+    "wof:lastmodified":1466772369,
     "wof:name":"Metallica Steel Fabrication",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-122.650907,45.576174,-122.650907,45.576174],
+  "bbox": [
+    -122.650907,
+    45.576174,
+    -122.650907,
+    45.576174
+],
   "geometry": {"coordinates":[-122.650907,45.576174],"type":"Point"}
 }

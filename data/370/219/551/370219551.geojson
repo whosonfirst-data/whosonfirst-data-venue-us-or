@@ -2,13 +2,14 @@
   "id": 370219551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.81116,45.544615,-122.81116,45.544615",
     "geom:latitude":45.544615,
     "geom:longitude":-122.81116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13224 NW Hartford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370219551,
-    "wof:lastmodified":1449032330,
+    "wof:lastmodified":1466768364,
     "wof:name":"Infoplates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.81116,45.544615,-122.81116,45.544615],
+  "bbox": [
+    -122.81116,
+    45.544615,
+    -122.81116,
+    45.544615
+],
   "geometry": {"coordinates":[-122.81116,45.544615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370275191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.201599,44.171385,-123.201599,44.171385",
     "geom:latitude":44.171385,
     "geom:longitude":-123.201599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29229 Milliron Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370275191,
-    "wof:lastmodified":1449030187,
+    "wof:lastmodified":1466769362,
     "wof:name":"Wood Recovery",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.201599,44.171385,-123.201599,44.171385],
+  "bbox": [
+    -123.201599,
+    44.171385,
+    -123.201599,
+    44.171385
+],
   "geometry": {"coordinates":[-123.201599,44.171385],"type":"Point"}
 }

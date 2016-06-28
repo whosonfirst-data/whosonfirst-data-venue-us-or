@@ -2,13 +2,14 @@
   "id": 354247801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.988089,45.521406,-122.988089,45.521406",
     "geom:latitude":45.521406,
     "geom:longitude":-122.988089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 SE Washington St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354247801,
-    "wof:lastmodified":1449066941,
+    "wof:lastmodified":1466768579,
     "wof:name":"Information Services",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-122.988089,45.521406,-122.988089,45.521406],
+  "bbox": [
+    -122.988089,
+    45.521406,
+    -122.988089,
+    45.521406
+],
   "geometry": {"coordinates":[-122.988089,45.521406],"type":"Point"}
 }

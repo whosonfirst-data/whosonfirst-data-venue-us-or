@@ -2,13 +2,14 @@
   "id": 354350867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.577211,45.147478,-122.577211,45.147478",
     "geom:latitude":45.147478,
     "geom:longitude":-122.577211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Molalla Ave",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354350867,
-    "wof:lastmodified":1449066794,
+    "wof:lastmodified":1466770349,
     "wof:name":"Longbranch Tavern",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-122.577211,45.147478,-122.577211,45.147478],
-  "geometry": {"coordinates":[-122.577211,45.147478],"type":"Point"}
+  "bbox": [
+    -122.577211,
+    45.147478,
+    -122.577211,
+    45.147478
+],
+  "geometry": {"coordinates":[-122.57721100000001,45.147478],"type":"Point"}
 }

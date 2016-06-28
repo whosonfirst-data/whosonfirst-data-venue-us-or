@@ -2,13 +2,14 @@
   "id": 370932295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.311901,45.207549,-122.311901,45.207549",
     "geom:latitude":45.207549,
     "geom:longitude":-122.311901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27000 S Benjamin Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370932295,
-    "wof:lastmodified":1449030338,
+    "wof:lastmodified":1466774842,
     "wof:name":"C & L Tole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.311901,45.207549,-122.311901,45.207549],
-  "geometry": {"coordinates":[-122.311901,45.207549],"type":"Point"}
+  "bbox": [
+    -122.311901,
+    45.207549,
+    -122.311901,
+    45.207549
+],
+  "geometry": {"coordinates":[-122.31190100000001,45.207549],"type":"Point"}
 }

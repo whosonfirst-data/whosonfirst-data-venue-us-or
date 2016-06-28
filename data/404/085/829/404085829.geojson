@@ -2,13 +2,14 @@
   "id": 404085829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.347333,43.194343,-123.347333,43.194343",
     "geom:latitude":43.194343,
     "geom:longitude":-123.347333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 SE Ichabod St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404085829,
-    "wof:lastmodified":1449039346,
+    "wof:lastmodified":1466770072,
     "wof:name":"Bill Loper",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.347333,43.194343,-123.347333,43.194343],
-  "geometry": {"coordinates":[-123.347333,43.194343],"type":"Point"}
+  "bbox": [
+    -123.347333,
+    43.194343,
+    -123.347333,
+    43.194343
+],
+  "geometry": {"coordinates":[-123.34733300000001,43.194343],"type":"Point"}
 }

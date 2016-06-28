@@ -2,13 +2,14 @@
   "id": 387001371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.001387,44.996124,-123.001387,44.996124",
     "geom:latitude":44.996124,
     "geom:longitude":-123.001387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Ridge Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387001371,
-    "wof:lastmodified":1449056970,
+    "wof:lastmodified":1466767151,
     "wof:name":"Standish Land Company",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-123.001387,44.996124,-123.001387,44.996124],
-  "geometry": {"coordinates":[-123.001387,44.996124],"type":"Point"}
+  "bbox": [
+    -123.001387,
+    44.996124,
+    -123.001387,
+    44.996124
+],
+  "geometry": {"coordinates":[-123.00138699999999,44.996124],"type":"Point"}
 }

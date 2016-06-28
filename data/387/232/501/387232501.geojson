@@ -2,13 +2,14 @@
   "id": 387232501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.813186,45.852588,-122.813186,45.852588",
     "geom:latitude":45.852588,
     "geom:longitude":-122.813186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S 18th St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387232501,
-    "wof:lastmodified":1449057330,
+    "wof:lastmodified":1466771510,
     "wof:name":"St Helens Park Dept",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-122.813186,45.852588,-122.813186,45.852588],
+  "bbox": [
+    -122.813186,
+    45.852588,
+    -122.813186,
+    45.852588
+],
   "geometry": {"coordinates":[-122.813186,45.852588],"type":"Point"}
 }

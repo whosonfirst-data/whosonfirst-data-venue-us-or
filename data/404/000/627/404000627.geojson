@@ -2,13 +2,14 @@
   "id": 404000627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.382057,45.418136,-122.382057,45.418136",
     "geom:latitude":45.418136,
     "geom:longitude":-122.382057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27195 SE Kelso Rd",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404000627,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1466768245,
     "wof:name":"Mountain View Public Golf Crse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-122.382057,45.418136,-122.382057,45.418136],
+  "bbox": [
+    -122.382057,
+    45.418136,
+    -122.382057,
+    45.418136
+],
   "geometry": {"coordinates":[-122.382057,45.418136],"type":"Point"}
 }

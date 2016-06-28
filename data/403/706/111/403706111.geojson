@@ -2,13 +2,14 @@
   "id": 403706111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.258913,45.39635,-122.258913,45.39635",
     "geom:latitude":45.39635,
     "geom:longitude":-122.258913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39230 Pioneer Blvd",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403706111,
-    "wof:lastmodified":1449054732,
+    "wof:lastmodified":1466767886,
     "wof:name":"Joe's Donut Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-122.258913,45.39635,-122.258913,45.39635],
-  "geometry": {"coordinates":[-122.258913,45.39635],"type":"Point"}
+  "bbox": [
+    -122.258913,
+    45.39635,
+    -122.258913,
+    45.39635
+],
+  "geometry": {"coordinates":[-122.25891300000001,45.39635],"type":"Point"}
 }

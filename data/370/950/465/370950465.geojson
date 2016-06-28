@@ -2,13 +2,14 @@
   "id": 370950465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.989705,44.900061,-122.989705,44.900061",
     "geom:latitude":44.900061,
     "geom:longitude":-122.989705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 Turner Rd SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370950465,
-    "wof:lastmodified":1449030403,
+    "wof:lastmodified":1466774933,
     "wof:name":"PSI",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-122.989705,44.900061,-122.989705,44.900061],
+  "bbox": [
+    -122.989705,
+    44.900061,
+    -122.989705,
+    44.900061
+],
   "geometry": {"coordinates":[-122.989705,44.900061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387265141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.31977,44.068177,-123.31977,44.068177",
     "geom:latitude":44.068177,
     "geom:longitude":-123.31977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25959 Jeans Rd",
     "sg:city":"Veneta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387265141,
-    "wof:lastmodified":1449057394,
+    "wof:lastmodified":1466771680,
     "wof:name":"Jerry Madsens Well Drilling",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-123.31977,44.068177,-123.31977,44.068177],
-  "geometry": {"coordinates":[-123.31977,44.068177],"type":"Point"}
+  "bbox": [
+    -123.31977,
+    44.068177,
+    -123.31977,
+    44.068177
+],
+  "geometry": {"coordinates":[-123.31977000000001,44.068177],"type":"Point"}
 }

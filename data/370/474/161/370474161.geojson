@@ -2,13 +2,14 @@
   "id": 370474161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.992415,45.289152,-122.992415,45.289152",
     "geom:latitude":45.289152,
     "geom:longitude":-122.992415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23655 NE Dayton Ave",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370474161,
-    "wof:lastmodified":1449029211,
+    "wof:lastmodified":1466772053,
     "wof:name":"Double D Welding",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-122.992415,45.289152,-122.992415,45.289152],
-  "geometry": {"coordinates":[-122.992415,45.289152],"type":"Point"}
+  "bbox": [
+    -122.992415,
+    45.289152,
+    -122.992415,
+    45.289152
+],
+  "geometry": {"coordinates":[-122.99241499999999,45.289152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387113433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.740178,45.470807,-122.740178,45.470807",
     "geom:latitude":45.470807,
     "geom:longitude":-122.740178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 SW Jan Tree Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387113433,
-    "wof:lastmodified":1449059600,
+    "wof:lastmodified":1466769041,
     "wof:name":"Environmental Compliance",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-122.740178,45.470807,-122.740178,45.470807],
+  "bbox": [
+    -122.740178,
+    45.470807,
+    -122.740178,
+    45.470807
+],
   "geometry": {"coordinates":[-122.740178,45.470807],"type":"Point"}
 }

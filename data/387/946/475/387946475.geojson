@@ -2,13 +2,14 @@
   "id": 387946475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.46056,45.519207,-122.46056,45.519207",
     "geom:latitude":45.519207,
     "geom:longitude":-122.46056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19421 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387946475,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1466775446,
     "wof:name":"Unemployment Information",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-122.46056,45.519207,-122.46056,45.519207],
+  "bbox": [
+    -122.46056,
+    45.519207,
+    -122.46056,
+    45.519207
+],
   "geometry": {"coordinates":[-122.46056,45.519207],"type":"Point"}
 }

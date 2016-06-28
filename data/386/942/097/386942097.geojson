@@ -2,13 +2,14 @@
   "id": 386942097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.039865,44.937756,-123.039865,44.937756",
     "geom:latitude":44.937756,
     "geom:longitude":-123.039865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Liberty St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386942097,
-    "wof:lastmodified":1449028766,
+    "wof:lastmodified":1466767215,
     "wof:name":"Steven N Schwanke",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.039865,44.937756,-123.039865,44.937756],
-  "geometry": {"coordinates":[-123.039865,44.937756],"type":"Point"}
+  "bbox": [
+    -123.039865,
+    44.937756,
+    -123.039865,
+    44.937756
+],
+  "geometry": {"coordinates":[-123.03986500000001,44.937756],"type":"Point"}
 }

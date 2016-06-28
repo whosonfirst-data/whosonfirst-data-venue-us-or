@@ -2,13 +2,14 @@
   "id": 354346195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.239253,45.491771,-123.239253,45.491771",
     "geom:latitude":45.491771,
     "geom:longitude":-123.239253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54745 SW Scott Hill Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354346195,
-    "wof:lastmodified":1449065922,
+    "wof:lastmodified":1466770239,
     "wof:name":"Scott Land & Timber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-123.239253,45.491771,-123.239253,45.491771],
-  "geometry": {"coordinates":[-123.239253,45.491771],"type":"Point"}
+  "bbox": [
+    -123.239253,
+    45.491771,
+    -123.239253,
+    45.491771
+],
+  "geometry": {"coordinates":[-123.23925300000001,45.491771],"type":"Point"}
 }

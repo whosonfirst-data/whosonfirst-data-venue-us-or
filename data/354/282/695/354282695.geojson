@@ -2,13 +2,14 @@
   "id": 354282695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11797,44.026981,-123.11797,44.026981",
     "geom:latitude":44.026981,
     "geom:longitude":-123.11797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 W 28th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354282695,
-    "wof:lastmodified":1449067017,
+    "wof:lastmodified":1466769233,
     "wof:name":"Eternatek",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.11797,44.026981,-123.11797,44.026981],
+  "bbox": [
+    -123.11797,
+    44.026981,
+    -123.11797,
+    44.026981
+],
   "geometry": {"coordinates":[-123.11797,44.026981],"type":"Point"}
 }

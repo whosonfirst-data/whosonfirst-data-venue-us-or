@@ -2,13 +2,14 @@
   "id": 370771203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.86011,45.130319,-122.86011,45.130319",
     "geom:latitude":45.130319,
     "geom:longitude":-122.86011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 Brown St",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370771203,
-    "wof:lastmodified":1449030907,
+    "wof:lastmodified":1466773926,
     "wof:name":"I V Construction",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.86011,45.130319,-122.86011,45.130319],
-  "geometry": {"coordinates":[-122.86011,45.130319],"type":"Point"}
+  "bbox": [
+    -122.86011,
+    45.130319,
+    -122.86011,
+    45.130319
+],
+  "geometry": {"coordinates":[-122.86011000000001,45.130319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371021331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601379,45.56017,-122.601379,45.56017",
     "geom:latitude":45.56017,
     "geom:longitude":-122.601379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5930 NE Sumner St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371021331,
-    "wof:lastmodified":1449049711,
+    "wof:lastmodified":1466767499,
     "wof:name":"Precise Towing",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-122.601379,45.56017,-122.601379,45.56017],
-  "geometry": {"coordinates":[-122.601379,45.56017],"type":"Point"}
+  "bbox": [
+    -122.601379,
+    45.56017,
+    -122.601379,
+    45.56017
+],
+  "geometry": {"coordinates":[-122.60137899999999,45.56017],"type":"Point"}
 }

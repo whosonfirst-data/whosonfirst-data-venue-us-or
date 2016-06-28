@@ -2,13 +2,14 @@
   "id": 354291803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.529351,45.548179,-122.529351,45.548179",
     "geom:latitude":45.548179,
     "geom:longitude":-122.529351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 NE Fremont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354291803,
-    "wof:lastmodified":1449066428,
+    "wof:lastmodified":1466769423,
     "wof:name":"Vision Investments",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-122.529351,45.548179,-122.529351,45.548179],
-  "geometry": {"coordinates":[-122.529351,45.548179],"type":"Point"}
+  "bbox": [
+    -122.529351,
+    45.548179,
+    -122.529351,
+    45.548179
+],
+  "geometry": {"coordinates":[-122.52935100000001,45.548179],"type":"Point"}
 }

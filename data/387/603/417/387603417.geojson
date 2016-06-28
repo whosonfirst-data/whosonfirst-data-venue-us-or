@@ -2,13 +2,14 @@
   "id": 387603417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.809238,45.179618,-122.809238,45.179618",
     "geom:latitude":45.179618,
     "geom:longitude":-122.809238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3161 2nd St",
     "sg:city":"Hubbard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387603417,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1466773948,
     "wof:name":"Hubbard Fire Dept",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-122.809238,45.179618,-122.809238,45.179618],
-  "geometry": {"coordinates":[-122.809238,45.179618],"type":"Point"}
+  "bbox": [
+    -122.809238,
+    45.179618,
+    -122.809238,
+    45.179618
+],
+  "geometry": {"coordinates":[-122.80923799999999,45.179618],"type":"Point"}
 }

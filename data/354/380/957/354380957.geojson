@@ -2,13 +2,14 @@
   "id": 354380957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.797029,45.433317,-122.797029,45.433317",
     "geom:latitude":45.433317,
     "geom:longitude":-122.797029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12020 SW 118th Ave",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354380957,
-    "wof:lastmodified":1449066708,
+    "wof:lastmodified":1466770955,
     "wof:name":"Comstock Homes",
     "wof:parent_id":85868987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.797029,45.433317,-122.797029,45.433317],
-  "geometry": {"coordinates":[-122.797029,45.433317],"type":"Point"}
+  "bbox": [
+    -122.797029,
+    45.433317,
+    -122.797029,
+    45.433317
+],
+  "geometry": {"coordinates":[-122.79702899999999,45.433317],"type":"Point"}
 }

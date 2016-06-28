@@ -2,13 +2,14 @@
   "id": 403946185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.860335,44.790134,-122.860335,44.790134",
     "geom:latitude":44.790134,
     "geom:longitude":-122.860335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11351 Bean Aly SE",
     "sg:city":"Aumsville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":403946185,
-    "wof:lastmodified":1449055813,
+    "wof:lastmodified":1466768188,
     "wof:name":"World Inspection Network Salem",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-122.860335,44.790134,-122.860335,44.790134],
-  "geometry": {"coordinates":[-122.860335,44.790134],"type":"Point"}
+  "bbox": [
+    -122.860335,
+    44.790134,
+    -122.860335,
+    44.790134
+],
+  "geometry": {"coordinates":[-122.86033500000001,44.790134],"type":"Point"}
 }

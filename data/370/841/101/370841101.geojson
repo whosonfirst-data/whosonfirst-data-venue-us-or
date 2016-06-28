@@ -2,13 +2,14 @@
   "id": 370841101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.563732,46.196711,-123.563732,46.196711",
     "geom:latitude":46.196711,
     "geom:longitude":-123.563732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41092 Ziak Gnat Creek Ln",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370841101,
-    "wof:lastmodified":1449029804,
+    "wof:lastmodified":1466774350,
     "wof:name":"Complete Septic Svc",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-123.563732,46.196711,-123.563732,46.196711],
+  "bbox": [
+    -123.563732,
+    46.196711,
+    -123.563732,
+    46.196711
+],
   "geometry": {"coordinates":[-123.563732,46.196711],"type":"Point"}
 }

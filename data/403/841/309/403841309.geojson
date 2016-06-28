@@ -2,13 +2,14 @@
   "id": 403841309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.517238,45.561139,-122.517238,45.561139",
     "geom:latitude":45.561139,
     "geom:longitude":-122.517238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14109 NE Airport Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403841309,
-    "wof:lastmodified":1449054918,
+    "wof:lastmodified":1466770619,
     "wof:name":"G&K Services Inc",
     "wof:parent_id":85811205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.517238,45.561139,-122.517238,45.561139],
-  "geometry": {"coordinates":[-122.517238,45.561139],"type":"Point"}
+  "bbox": [
+    -122.517238,
+    45.561139,
+    -122.517238,
+    45.561139
+],
+  "geometry": {"coordinates":[-122.51723800000001,45.561139],"type":"Point"}
 }

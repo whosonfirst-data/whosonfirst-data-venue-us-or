@@ -2,13 +2,14 @@
   "id": 403788243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.664291,45.035839,-122.664291,45.035839",
     "geom:latitude":45.035839,
     "geom:longitude":-122.664291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Crooked Finger Rd NE",
     "sg:city":"Scotts Mills",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403788243,
-    "wof:lastmodified":1449055329,
+    "wof:lastmodified":1466769457,
     "wof:name":"Celestial Cat",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.664291,45.035839,-122.664291,45.035839],
-  "geometry": {"coordinates":[-122.664291,45.035839],"type":"Point"}
+  "bbox": [
+    -122.664291,
+    45.035839,
+    -122.664291,
+    45.035839
+],
+  "geometry": {"coordinates":[-122.66429100000001,45.035839],"type":"Point"}
 }

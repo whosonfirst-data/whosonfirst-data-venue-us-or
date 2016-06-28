@@ -2,13 +2,14 @@
   "id": 387784973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537466,45.54275,-122.537466,45.54275",
     "geom:latitude":45.54275,
     "geom:longitude":-122.537466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387784973,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1466774915,
     "wof:name":"Aslan Software Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-122.537466,45.54275,-122.537466,45.54275],
-  "geometry": {"coordinates":[-122.537466,45.54275],"type":"Point"}
+  "bbox": [
+    -122.537466,
+    45.54275,
+    -122.537466,
+    45.54275
+],
+  "geometry": {"coordinates":[-122.53746599999999,45.54275],"type":"Point"}
 }

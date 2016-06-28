@@ -2,13 +2,14 @@
   "id": 386943925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.846015,45.456386,-123.846015,45.456386",
     "geom:latitude":45.456386,
     "geom:longitude":-123.846015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 3rd St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386943925,
-    "wof:lastmodified":1449028692,
+    "wof:lastmodified":1466767231,
     "wof:name":"Swiss Chalet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.846015,45.456386,-123.846015,45.456386],
-  "geometry": {"coordinates":[-123.846015,45.456386],"type":"Point"}
+  "bbox": [
+    -123.846015,
+    45.456386,
+    -123.846015,
+    45.456386
+],
+  "geometry": {"coordinates":[-123.84601499999999,45.456386],"type":"Point"}
 }

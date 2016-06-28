@@ -2,13 +2,14 @@
   "id": 387409119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.002298,44.979646,-124.002298,44.979646",
     "geom:latitude":44.979646,
     "geom:longitude":-124.002298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 NE 21st St",
     "sg:city":"Lincoln City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387409119,
-    "wof:lastmodified":1449057669,
+    "wof:lastmodified":1466772803,
     "wof:name":"Lincoln Woods Apartments",
     "wof:parent_id":85868149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-124.002298,44.979646,-124.002298,44.979646],
+  "bbox": [
+    -124.002298,
+    44.979646,
+    -124.002298,
+    44.979646
+],
   "geometry": {"coordinates":[-124.002298,44.979646],"type":"Point"}
 }

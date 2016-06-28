@@ -2,13 +2,14 @@
   "id": 387012475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.638376,45.442414,-122.638376,45.442414",
     "geom:latitude":45.442414,
     "geom:longitude":-122.638376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11165 SE 23rd Ave",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387012475,
-    "wof:lastmodified":1449059531,
+    "wof:lastmodified":1466767336,
     "wof:name":"Columbia Pacific Brokerage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-122.638376,45.442414,-122.638376,45.442414],
-  "geometry": {"coordinates":[-122.638376,45.442414],"type":"Point"}
+  "bbox": [
+    -122.638376,
+    45.442414,
+    -122.638376,
+    45.442414
+],
+  "geometry": {"coordinates":[-122.63837599999999,45.442414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386992347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.630811,45.485698,-122.630811,45.485698",
     "geom:latitude":45.485698,
     "geom:longitude":-122.630811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 SE 33rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386992347,
-    "wof:lastmodified":1449028770,
+    "wof:lastmodified":1466767458,
     "wof:name":"King Construction Co",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.630811,45.485698,-122.630811,45.485698],
-  "geometry": {"coordinates":[-122.630811,45.485698],"type":"Point"}
+  "bbox": [
+    -122.630811,
+    45.485698,
+    -122.630811,
+    45.485698
+],
+  "geometry": {"coordinates":[-122.63081099999999,45.485698],"type":"Point"}
 }

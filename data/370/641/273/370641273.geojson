@@ -2,13 +2,14 @@
   "id": 370641273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.492573,45.540922,-122.492573,45.540922",
     "geom:latitude":45.540922,
     "geom:longitude":-122.492573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2442 NE 165th Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370641273,
-    "wof:lastmodified":1449031668,
+    "wof:lastmodified":1466773345,
     "wof:name":"Mohawk Plastics",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-122.492573,45.540922,-122.492573,45.540922],
-  "geometry": {"coordinates":[-122.492573,45.540922],"type":"Point"}
+  "bbox": [
+    -122.492573,
+    45.540922,
+    -122.492573,
+    45.540922
+],
+  "geometry": {"coordinates":[-122.49257299999999,45.540922],"type":"Point"}
 }

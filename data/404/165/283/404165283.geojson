@@ -2,13 +2,14 @@
   "id": 404165283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.189186,43.036247,-123.189186,43.036247",
     "geom:latitude":43.036247,
     "geom:longitude":-123.189186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 S Myrtle Rd",
     "sg:city":"Myrtle Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404165283,
-    "wof:lastmodified":1449040329,
+    "wof:lastmodified":1466767501,
     "wof:name":"Oregon Metalcraft",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "install"
     ]
 },
-  "bbox": [-123.189186,43.036247,-123.189186,43.036247],
-  "geometry": {"coordinates":[-123.189186,43.036247],"type":"Point"}
+  "bbox": [
+    -123.189186,
+    43.036247,
+    -123.189186,
+    43.036247
+],
+  "geometry": {"coordinates":[-123.18918600000001,43.036247],"type":"Point"}
 }

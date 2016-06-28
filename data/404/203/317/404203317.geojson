@@ -2,13 +2,14 @@
   "id": 404203317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601368,45.569369,-122.601368,45.569369",
     "geom:latitude":45.569369,
     "geom:longitude":-122.601368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6432 NE 59th Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404203317,
-    "wof:lastmodified":1449039547,
+    "wof:lastmodified":1466768170,
     "wof:name":"S P Carpet Pros Inc",
     "wof:parent_id":85893167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-122.601368,45.569369,-122.601368,45.569369],
-  "geometry": {"coordinates":[-122.601368,45.569369],"type":"Point"}
+  "bbox": [
+    -122.601368,
+    45.569369,
+    -122.601368,
+    45.569369
+],
+  "geometry": {"coordinates":[-122.60136799999999,45.569369],"type":"Point"}
 }

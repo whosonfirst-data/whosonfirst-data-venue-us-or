@@ -2,13 +2,14 @@
   "id": 403866797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.31525,44.055234,-121.31525,44.055234",
     "geom:latitude":44.055234,
     "geom:longitude":-121.31525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 NW Staats St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403866797,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1466771102,
     "wof:name":"Moveable Feast",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-121.31525,44.055234,-121.31525,44.055234],
-  "geometry": {"coordinates":[-121.31525,44.055234],"type":"Point"}
+  "bbox": [
+    -121.31525,
+    44.055234,
+    -121.31525,
+    44.055234
+],
+  "geometry": {"coordinates":[-121.31525000000001,44.055234],"type":"Point"}
 }

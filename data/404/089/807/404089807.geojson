@@ -2,13 +2,14 @@
   "id": 404089807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.782514,45.53106,-122.782514,45.53106",
     "geom:latitude":45.53106,
     "geom:longitude":-122.782514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 NW 102nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404089807,
-    "wof:lastmodified":1449039300,
+    "wof:lastmodified":1466770289,
     "wof:name":"Mason Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.782514,45.53106,-122.782514,45.53106],
-  "geometry": {"coordinates":[-122.782514,45.53106],"type":"Point"}
+  "bbox": [
+    -122.782514,
+    45.53106,
+    -122.782514,
+    45.53106
+],
+  "geometry": {"coordinates":[-122.78251400000001,45.53106],"type":"Point"}
 }

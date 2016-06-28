@@ -2,13 +2,14 @@
   "id": 387925131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820439,45.507404,-122.820439,45.507404",
     "geom:latitude":45.507404,
     "geom:longitude":-122.820439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 SW 139th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387925131,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466775393,
     "wof:name":"Krause Glen Landscape Archt",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-122.820439,45.507404,-122.820439,45.507404],
-  "geometry": {"coordinates":[-122.820439,45.507404],"type":"Point"}
+  "bbox": [
+    -122.820439,
+    45.507404,
+    -122.820439,
+    45.507404
+],
+  "geometry": {"coordinates":[-122.82043899999999,45.507404],"type":"Point"}
 }

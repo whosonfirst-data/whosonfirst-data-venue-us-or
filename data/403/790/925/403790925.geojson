@@ -2,13 +2,14 @@
   "id": 403790925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.192174,45.226828,-123.192174,45.226828",
     "geom:latitude":45.226828,
     "geom:longitude":-123.192174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 NE Fuller Ct",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403790925,
-    "wof:lastmodified":1449055651,
+    "wof:lastmodified":1466769505,
     "wof:name":"Jon & Steve's Yard Maintenance",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-123.192174,45.226828,-123.192174,45.226828],
-  "geometry": {"coordinates":[-123.192174,45.226828],"type":"Point"}
+  "bbox": [
+    -123.192174,
+    45.226828,
+    -123.192174,
+    45.226828
+],
+  "geometry": {"coordinates":[-123.19217399999999,45.226828],"type":"Point"}
 }

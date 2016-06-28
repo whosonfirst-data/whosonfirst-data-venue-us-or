@@ -2,13 +2,14 @@
   "id": 387015703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01591,44.95974,-123.01591,44.95974",
     "geom:latitude":44.95974,
     "geom:longitude":-123.01591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2370 Fairgrounds Rd NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387015703,
-    "wof:lastmodified":1449056972,
+    "wof:lastmodified":1466767392,
     "wof:name":"Teinda Y Loma Linda",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-123.01591,44.95974,-123.01591,44.95974],
-  "geometry": {"coordinates":[-123.01591,44.95974],"type":"Point"}
+  "bbox": [
+    -123.01591,
+    44.95974,
+    -123.01591,
+    44.95974
+],
+  "geometry": {"coordinates":[-123.01591000000001,44.95974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404102185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.413982,43.118696,-123.413982,43.118696",
     "geom:latitude":43.118696,
     "geom:longitude":-123.413982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Main St",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404102185,
-    "wof:lastmodified":1449040249,
+    "wof:lastmodified":1466770632,
     "wof:name":"Rent-It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-123.413982,43.118696,-123.413982,43.118696],
+  "bbox": [
+    -123.413982,
+    43.118696,
+    -123.413982,
+    43.118696
+],
   "geometry": {"coordinates":[-123.413982,43.118696],"type":"Point"}
 }

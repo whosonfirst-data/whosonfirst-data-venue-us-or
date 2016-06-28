@@ -2,13 +2,14 @@
   "id": 404011785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.709465,45.457162,-122.709465,45.457162",
     "geom:latitude":45.457162,
     "geom:longitude":-122.709465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 SW Taylors Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404011785,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466768647,
     "wof:name":"Horizon Vending",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-122.709465,45.457162,-122.709465,45.457162],
-  "geometry": {"coordinates":[-122.709465,45.457162],"type":"Point"}
+  "bbox": [
+    -122.709465,
+    45.457162,
+    -122.709465,
+    45.457162
+],
+  "geometry": {"coordinates":[-122.70946499999999,45.457162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354251209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.046934,44.791227,-123.046934,44.791227",
     "geom:latitude":44.791227,
     "geom:longitude":-123.046934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Meadows Ln SE",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354251209,
-    "wof:lastmodified":1449065974,
+    "wof:lastmodified":1466768674,
     "wof:name":"Eagle Enterprises",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.046934,44.791227,-123.046934,44.791227],
-  "geometry": {"coordinates":[-123.046934,44.791227],"type":"Point"}
+  "bbox": [
+    -123.046934,
+    44.791227,
+    -123.046934,
+    44.791227
+],
+  "geometry": {"coordinates":[-123.04693399999999,44.791227],"type":"Point"}
 }

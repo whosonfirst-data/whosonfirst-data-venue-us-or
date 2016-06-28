@@ -2,13 +2,14 @@
   "id": 370722395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.976861,45.210777,-122.976861,45.210777",
     "geom:latitude":45.210777,
     "geom:longitude":-122.976861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20209 Main St",
     "sg:city":"St Paul",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370722395,
-    "wof:lastmodified":1449030279,
+    "wof:lastmodified":1466773556,
     "wof:name":"Oregon Hop Commission",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.976861,45.210777,-122.976861,45.210777],
+  "bbox": [
+    -122.976861,
+    45.210777,
+    -122.976861,
+    45.210777
+],
   "geometry": {"coordinates":[-122.976861,45.210777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354347369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.153366,44.080695,-123.153366,44.080695",
     "geom:latitude":44.080695,
     "geom:longitude":-123.153366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Lakewood Ct",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354347369,
-    "wof:lastmodified":1449066738,
+    "wof:lastmodified":1466770260,
     "wof:name":"H & G Hansen LLC",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-123.153366,44.080695,-123.153366,44.080695],
-  "geometry": {"coordinates":[-123.153366,44.080695],"type":"Point"}
+  "bbox": [
+    -123.153366,
+    44.080695,
+    -123.153366,
+    44.080695
+],
+  "geometry": {"coordinates":[-123.15336600000001,44.080695],"type":"Point"}
 }

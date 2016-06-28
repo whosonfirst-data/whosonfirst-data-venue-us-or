@@ -2,13 +2,14 @@
   "id": 403923541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.260999,44.564359,-123.260999,44.564359",
     "geom:latitude":44.564359,
     "geom:longitude":-123.260999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 SW 3rd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403923541,
-    "wof:lastmodified":1449055902,
+    "wof:lastmodified":1466767775,
     "wof:name":"City Barber Shop",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.260999,44.564359,-123.260999,44.564359],
+  "bbox": [
+    -123.260999,
+    44.564359,
+    -123.260999,
+    44.564359
+],
   "geometry": {"coordinates":[-123.260999,44.564359],"type":"Point"}
 }

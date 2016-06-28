@@ -2,13 +2,14 @@
   "id": 354244121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772556,45.369251,-122.772556,45.369251",
     "geom:latitude":45.369251,
     "geom:longitude":-122.772556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20500 SW Boones Ferry Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354244121,
-    "wof:lastmodified":1449066592,
+    "wof:lastmodified":1466768526,
     "wof:name":"Boones Ferry Community Church",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.772556,45.369251,-122.772556,45.369251],
-  "geometry": {"coordinates":[-122.772556,45.369251],"type":"Point"}
+  "bbox": [
+    -122.772556,
+    45.369251,
+    -122.772556,
+    45.369251
+],
+  "geometry": {"coordinates":[-122.77255599999999,45.369251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387814201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.187458,45.228042,-123.187458,45.228042",
     "geom:latitude":45.228042,
     "geom:longitude":-123.187458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 NE McDonald Ln",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387814201,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1466775050,
     "wof:name":"Northwest Piebirds",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.187458,45.228042,-123.187458,45.228042],
-  "geometry": {"coordinates":[-123.187458,45.228042],"type":"Point"}
+  "bbox": [
+    -123.187458,
+    45.228042,
+    -123.187458,
+    45.228042
+],
+  "geometry": {"coordinates":[-123.18745800000001,45.228042],"type":"Point"}
 }

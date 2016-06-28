@@ -2,13 +2,14 @@
   "id": 387090921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.890595,45.473197,-122.890595,45.473197",
     "geom:latitude":45.473197,
     "geom:longitude":-122.890595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6595 SW 207th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387090921,
-    "wof:lastmodified":1449059142,
+    "wof:lastmodified":1466768656,
     "wof:name":"Billings Dance & Performing AR",
     "wof:parent_id":85826405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dance"
     ]
 },
-  "bbox": [-122.890595,45.473197,-122.890595,45.473197],
+  "bbox": [
+    -122.890595,
+    45.473197,
+    -122.890595,
+    45.473197
+],
   "geometry": {"coordinates":[-122.890595,45.473197],"type":"Point"}
 }

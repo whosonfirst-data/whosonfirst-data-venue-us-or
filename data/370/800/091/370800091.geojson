@@ -2,13 +2,14 @@
   "id": 370800091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844985,45.456401,-123.844985,45.456401",
     "geom:latitude":45.456401,
     "geom:longitude":-123.844985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 3rd St",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370800091,
-    "wof:lastmodified":1449029354,
+    "wof:lastmodified":1466774081,
     "wof:name":"Precious Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.844985,45.456401,-123.844985,45.456401],
-  "geometry": {"coordinates":[-123.844985,45.456401],"type":"Point"}
+  "bbox": [
+    -123.844985,
+    45.456401,
+    -123.844985,
+    45.456401
+],
+  "geometry": {"coordinates":[-123.84498499999999,45.456401],"type":"Point"}
 }

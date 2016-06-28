@@ -2,13 +2,14 @@
   "id": 403808755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.590471,45.486975,-122.590471,45.486975",
     "geom:latitude":45.486975,
     "geom:longitude":-122.590471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7020 SE Foster Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403808755,
-    "wof:lastmodified":1449054683,
+    "wof:lastmodified":1466769797,
     "wof:name":"Dukes",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-122.590471,45.486975,-122.590471,45.486975],
-  "geometry": {"coordinates":[-122.590471,45.486975],"type":"Point"}
+  "bbox": [
+    -122.590471,
+    45.486975,
+    -122.590471,
+    45.486975
+],
+  "geometry": {"coordinates":[-122.59047099999999,45.486975],"type":"Point"}
 }

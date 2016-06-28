@@ -2,13 +2,14 @@
   "id": 387544769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.358832,43.226769,-123.358832,43.226769",
     "geom:latitude":43.226769,
     "geom:longitude":-123.358832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 NW Garden Valley Blvd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387544769,
-    "wof:lastmodified":1449059913,
+    "wof:lastmodified":1466773573,
     "wof:name":"G Stiles Realty",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.358832,43.226769,-123.358832,43.226769],
-  "geometry": {"coordinates":[-123.358832,43.226769],"type":"Point"}
+  "bbox": [
+    -123.358832,
+    43.226769,
+    -123.358832,
+    43.226769
+],
+  "geometry": {"coordinates":[-123.35883200000001,43.226769],"type":"Point"}
 }

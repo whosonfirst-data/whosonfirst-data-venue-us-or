@@ -2,13 +2,14 @@
   "id": 370292711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.078922,46.091792,-123.078922,46.091792",
     "geom:latitude":46.091792,
     "geom:longitude":-123.078922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75464 Hillside Acres Dr",
     "sg:city":"Clatskanie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370292711,
-    "wof:lastmodified":1449029373,
+    "wof:lastmodified":1466769687,
     "wof:name":"Dave French",
     "wof:parent_id":85812301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.078922,46.091792,-123.078922,46.091792],
-  "geometry": {"coordinates":[-123.078922,46.091792],"type":"Point"}
+  "bbox": [
+    -123.078922,
+    46.091792,
+    -123.078922,
+    46.091792
+],
+  "geometry": {"coordinates":[-123.07892200000001,46.091792],"type":"Point"}
 }

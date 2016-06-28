@@ -2,13 +2,14 @@
   "id": 404201935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.711295,45.428529,-122.711295,45.428529",
     "geom:latitude":45.428529,
     "geom:longitude":-122.711295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Tanglewood Dr",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404201935,
-    "wof:lastmodified":1449040162,
+    "wof:lastmodified":1466768146,
     "wof:name":"Mountain Coast Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-122.711295,45.428529,-122.711295,45.428529],
-  "geometry": {"coordinates":[-122.711295,45.428529],"type":"Point"}
+  "bbox": [
+    -122.711295,
+    45.428529,
+    -122.711295,
+    45.428529
+],
+  "geometry": {"coordinates":[-122.71129500000001,45.428529],"type":"Point"}
 }

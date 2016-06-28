@@ -2,13 +2,14 @@
   "id": 387295105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.208711,44.154211,-123.208711,44.154211",
     "geom:latitude":44.154211,
     "geom:longitude":-123.208711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92302 Green Hill Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387295105,
-    "wof:lastmodified":1449057650,
+    "wof:lastmodified":1466771780,
     "wof:name":"McReynolds Mushroom Farm",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crop"
     ]
 },
-  "bbox": [-123.208711,44.154211,-123.208711,44.154211],
-  "geometry": {"coordinates":[-123.208711,44.154211],"type":"Point"}
+  "bbox": [
+    -123.208711,
+    44.154211,
+    -123.208711,
+    44.154211
+],
+  "geometry": {"coordinates":[-123.20871099999999,44.154211],"type":"Point"}
 }

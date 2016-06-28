@@ -2,13 +2,14 @@
   "id": 404050477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.070861,44.030597,-123.070861,44.030597",
     "geom:latitude":44.030597,
     "geom:longitude":-123.070861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 E 27th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404050477,
-    "wof:lastmodified":1449039794,
+    "wof:lastmodified":1466769328,
     "wof:name":"Blm Consulting Group",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-123.070861,44.030597,-123.070861,44.030597],
-  "geometry": {"coordinates":[-123.070861,44.030597],"type":"Point"}
+  "bbox": [
+    -123.070861,
+    44.030597,
+    -123.070861,
+    44.030597
+],
+  "geometry": {"coordinates":[-123.07086099999999,44.030597],"type":"Point"}
 }

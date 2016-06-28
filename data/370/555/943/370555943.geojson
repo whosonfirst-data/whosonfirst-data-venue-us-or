@@ -2,13 +2,14 @@
   "id": 370555943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.940223,45.567105,-123.940223,45.567105",
     "geom:latitude":45.567105,
     "geom:longitude":-123.940223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15530 US Hwy 101 N",
     "sg:city":"Rockaway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370555943,
-    "wof:lastmodified":1449031983,
+    "wof:lastmodified":1466772731,
     "wof:name":"Jetty Sport Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.940223,45.567105,-123.940223,45.567105],
+  "bbox": [
+    -123.940223,
+    45.567105,
+    -123.940223,
+    45.567105
+],
   "geometry": {"coordinates":[-123.940223,45.567105],"type":"Point"}
 }

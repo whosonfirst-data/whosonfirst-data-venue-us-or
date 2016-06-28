@@ -2,13 +2,14 @@
   "id": 370268835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763207,45.434298,-122.763207,45.434298",
     "geom:latitude":45.434298,
     "geom:longitude":-122.763207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12150 SW Garden Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370268835,
-    "wof:lastmodified":1449030995,
+    "wof:lastmodified":1466769235,
     "wof:name":"American Medical Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.763207,45.434298,-122.763207,45.434298],
-  "geometry": {"coordinates":[-122.763207,45.434298],"type":"Point"}
+  "bbox": [
+    -122.763207,
+    45.434298,
+    -122.763207,
+    45.434298
+],
+  "geometry": {"coordinates":[-122.76320699999999,45.434298],"type":"Point"}
 }

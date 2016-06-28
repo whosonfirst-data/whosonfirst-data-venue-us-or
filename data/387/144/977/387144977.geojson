@@ -2,13 +2,14 @@
   "id": 387144977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.235306,44.78502,-123.235306,44.78502",
     "geom:latitude":44.78502,
     "geom:longitude":-123.235306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 Helmick Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387144977,
-    "wof:lastmodified":1449058895,
+    "wof:lastmodified":1466769664,
     "wof:name":"David A Wiebe",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-123.235306,44.78502,-123.235306,44.78502],
-  "geometry": {"coordinates":[-123.235306,44.78502],"type":"Point"}
+  "bbox": [
+    -123.235306,
+    44.78502,
+    -123.235306,
+    44.78502
+],
+  "geometry": {"coordinates":[-123.23530599999999,44.78502],"type":"Point"}
 }

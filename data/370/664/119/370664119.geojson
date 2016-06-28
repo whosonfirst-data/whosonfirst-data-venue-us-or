@@ -2,13 +2,14 @@
   "id": 370664119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.320675,42.452878,-123.320675,42.452878",
     "geom:latitude":42.452878,
     "geom:longitude":-123.320675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 NE 7th St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370664119,
-    "wof:lastmodified":1449030337,
+    "wof:lastmodified":1466773372,
     "wof:name":"Premier West Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.320675,42.452878,-123.320675,42.452878],
-  "geometry": {"coordinates":[-123.320675,42.452878],"type":"Point"}
+  "bbox": [
+    -123.320675,
+    42.452878,
+    -123.320675,
+    42.452878
+],
+  "geometry": {"coordinates":[-123.32067499999999,42.452878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370796257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.012014,43.266932,-124.012014,43.266932",
     "geom:latitude":43.266932,
     "geom:longitude":-124.012014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57470 Fairview Rd",
     "sg:city":"Coquille",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370796257,
-    "wof:lastmodified":1449030690,
+    "wof:lastmodified":1466774068,
     "wof:name":"Coquille Well Drilling Inc",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-124.012014,43.266932,-124.012014,43.266932],
-  "geometry": {"coordinates":[-124.012014,43.266932],"type":"Point"}
+  "bbox": [
+    -124.012014,
+    43.266932,
+    -124.012014,
+    43.266932
+],
+  "geometry": {"coordinates":[-124.01201399999999,43.266932],"type":"Point"}
 }

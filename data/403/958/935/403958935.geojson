@@ -2,13 +2,14 @@
   "id": 403958935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.391455,44.146646,-123.391455,44.146646",
     "geom:latitude":44.146646,
     "geom:longitude":-123.391455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24145 State Hwy 36",
     "sg:city":"Cheshire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403958935,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466768419,
     "wof:name":"Trees-R-Us Logging",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "logging"
     ]
 },
-  "bbox": [-123.391455,44.146646,-123.391455,44.146646],
-  "geometry": {"coordinates":[-123.391455,44.146646],"type":"Point"}
+  "bbox": [
+    -123.391455,
+    44.146646,
+    -123.391455,
+    44.146646
+],
+  "geometry": {"coordinates":[-123.39145499999999,44.146646],"type":"Point"}
 }

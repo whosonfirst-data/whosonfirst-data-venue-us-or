@@ -2,13 +2,14 @@
   "id": 387660095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.705774,45.576995,-122.705774,45.576995",
     "geom:latitude":45.576995,
     "geom:longitude":-122.705774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7120 N Washburne Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387660095,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1466774157,
     "wof:name":"Vincent Cooney",
     "wof:parent_id":85846677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gathering"
     ]
 },
-  "bbox": [-122.705774,45.576995,-122.705774,45.576995],
-  "geometry": {"coordinates":[-122.705774,45.576995],"type":"Point"}
+  "bbox": [
+    -122.705774,
+    45.576995,
+    -122.705774,
+    45.576995
+],
+  "geometry": {"coordinates":[-122.70577400000001,45.576995],"type":"Point"}
 }

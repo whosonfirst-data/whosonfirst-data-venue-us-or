@@ -2,13 +2,14 @@
   "id": 387455953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.262104,44.559801,-123.262104,44.559801",
     "geom:latitude":44.559801,
     "geom:longitude":-123.262104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 SW 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387455953,
-    "wof:lastmodified":1449059319,
+    "wof:lastmodified":1466772861,
     "wof:name":"I Core",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-123.262104,44.559801,-123.262104,44.559801],
-  "geometry": {"coordinates":[-123.262104,44.559801],"type":"Point"}
+  "bbox": [
+    -123.262104,
+    44.559801,
+    -123.262104,
+    44.559801
+],
+  "geometry": {"coordinates":[-123.26210399999999,44.559801],"type":"Point"}
 }

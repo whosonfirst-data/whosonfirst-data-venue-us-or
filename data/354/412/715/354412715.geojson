@@ -2,13 +2,14 @@
   "id": 354412715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.91379,44.347445,-120.91379,44.347445",
     "geom:latitude":44.347445,
     "geom:longitude":-120.91379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5288 NW Madras Hwy",
     "sg:city":"Prineville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354412715,
-    "wof:lastmodified":1449066281,
+    "wof:lastmodified":1466767220,
     "wof:name":"MA Williams Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.91379,44.347445,-120.91379,44.347445],
-  "geometry": {"coordinates":[-120.91379,44.347445],"type":"Point"}
+  "bbox": [
+    -120.91379,
+    44.347445,
+    -120.91379,
+    44.347445
+],
+  "geometry": {"coordinates":[-120.91379000000001,44.347445],"type":"Point"}
 }

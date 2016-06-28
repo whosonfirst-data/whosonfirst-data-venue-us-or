@@ -2,13 +2,14 @@
   "id": 370193725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.753098,45.390046,-122.753098,45.390046",
     "geom:latitude":45.390046,
     "geom:longitude":-122.753098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18040 SW Lower Boones Ferry Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370193725,
-    "wof:lastmodified":1449029633,
+    "wof:lastmodified":1466767927,
     "wof:name":"Lerose Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-122.753098,45.390046,-122.753098,45.390046],
-  "geometry": {"coordinates":[-122.753098,45.390046],"type":"Point"}
+  "bbox": [
+    -122.753098,
+    45.390046,
+    -122.753098,
+    45.390046
+],
+  "geometry": {"coordinates":[-122.75309799999999,45.390046],"type":"Point"}
 }

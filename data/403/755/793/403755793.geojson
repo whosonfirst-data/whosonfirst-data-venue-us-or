@@ -2,13 +2,14 @@
   "id": 403755793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.635942,45.557481,-122.635942,45.557481",
     "geom:latitude":45.557481,
     "geom:longitude":-122.635942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4627 NE 29th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403755793,
-    "wof:lastmodified":1449055015,
+    "wof:lastmodified":1466768949,
     "wof:name":"Mortgage Loan Processing Svc",
     "wof:parent_id":85893149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-122.635942,45.557481,-122.635942,45.557481],
+  "bbox": [
+    -122.635942,
+    45.557481,
+    -122.635942,
+    45.557481
+],
   "geometry": {"coordinates":[-122.635942,45.557481],"type":"Point"}
 }

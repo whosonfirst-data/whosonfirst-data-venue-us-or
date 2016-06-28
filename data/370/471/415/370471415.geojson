@@ -2,13 +2,14 @@
   "id": 370471415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.007529,44.942922,-123.007529,44.942922",
     "geom:latitude":44.942922,
     "geom:longitude":-123.007529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Medical Center Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370471415,
-    "wof:lastmodified":1449030445,
+    "wof:lastmodified":1466772147,
     "wof:name":"Malcolm P Snider MD PC",
     "wof:parent_id":85880585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "establishment"
     ]
 },
-  "bbox": [-123.007529,44.942922,-123.007529,44.942922],
-  "geometry": {"coordinates":[-123.007529,44.942922],"type":"Point"}
+  "bbox": [
+    -123.007529,
+    44.942922,
+    -123.007529,
+    44.942922
+],
+  "geometry": {"coordinates":[-123.00752900000001,44.942922],"type":"Point"}
 }

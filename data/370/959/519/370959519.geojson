@@ -2,13 +2,14 @@
   "id": 370959519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.359786,43.233077,-123.359786,43.233077",
     "geom:latitude":43.233077,
     "geom:longitude":-123.359786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 NW Mulholland Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370959519,
-    "wof:lastmodified":1449032141,
+    "wof:lastmodified":1466774876,
     "wof:name":"Southern Oregon Telecom Inc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "interconnect"
     ]
 },
-  "bbox": [-123.359786,43.233077,-123.359786,43.233077],
+  "bbox": [
+    -123.359786,
+    43.233077,
+    -123.359786,
+    43.233077
+],
   "geometry": {"coordinates":[-123.359786,43.233077],"type":"Point"}
 }

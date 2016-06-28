@@ -2,13 +2,14 @@
   "id": 370362955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.787448,45.428163,-122.787448,45.428163",
     "geom:latitude":45.428163,
     "geom:longitude":-122.787448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10765 SW Fonner St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370362955,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466771067,
     "wof:name":"GO Tooling",
     "wof:parent_id":85868987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.787448,45.428163,-122.787448,45.428163],
+  "bbox": [
+    -122.787448,
+    45.428163,
+    -122.787448,
+    45.428163
+],
   "geometry": {"coordinates":[-122.787448,45.428163],"type":"Point"}
 }

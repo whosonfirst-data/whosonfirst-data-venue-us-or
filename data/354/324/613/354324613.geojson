@@ -2,13 +2,14 @@
   "id": 354324613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.824501,45.594169,-122.824501,45.594169",
     "geom:latitude":45.594169,
     "geom:longitude":-122.824501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14318 NW Valley View Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354324613,
-    "wof:lastmodified":1449066935,
+    "wof:lastmodified":1466769834,
     "wof:name":"BSI Northwest",
     "wof:parent_id":85868975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "concrete"
     ]
 },
-  "bbox": [-122.824501,45.594169,-122.824501,45.594169],
+  "bbox": [
+    -122.824501,
+    45.594169,
+    -122.824501,
+    45.594169
+],
   "geometry": {"coordinates":[-122.824501,45.594169],"type":"Point"}
 }

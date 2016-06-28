@@ -2,13 +2,14 @@
   "id": 387646403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.564996,45.515512,-121.564996,45.515512",
     "geom:latitude":45.515512,
     "geom:longitude":-121.564996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7285 Hwy 35",
     "sg:city":"Mt Hood Parkdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387646403,
-    "wof:lastmodified":1449056022,
+    "wof:lastmodified":1466774186,
     "wof:name":"Highway Maintenance Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.564996,45.515512,-121.564996,45.515512],
-  "geometry": {"coordinates":[-121.564996,45.515512],"type":"Point"}
+  "bbox": [
+    -121.564996,
+    45.515512,
+    -121.564996,
+    45.515512
+],
+  "geometry": {"coordinates":[-121.56499599999999,45.515512],"type":"Point"}
 }

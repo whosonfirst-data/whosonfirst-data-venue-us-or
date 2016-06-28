@@ -2,13 +2,14 @@
   "id": 386953229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01207,44.956279,-123.01207,44.956279",
     "geom:latitude":44.956279,
     "geom:longitude":-123.01207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 16th St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386953229,
-    "wof:lastmodified":1449028835,
+    "wof:lastmodified":1466767283,
     "wof:name":"Salem Montessori School",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-123.01207,44.956279,-123.01207,44.956279],
-  "geometry": {"coordinates":[-123.01207,44.956279],"type":"Point"}
+  "bbox": [
+    -123.01207,
+    44.956279,
+    -123.01207,
+    44.956279
+],
+  "geometry": {"coordinates":[-123.01206999999999,44.956279],"type":"Point"}
 }

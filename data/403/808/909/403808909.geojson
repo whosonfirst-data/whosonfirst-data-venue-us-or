@@ -2,13 +2,14 @@
   "id": 403808909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.361523,43.250192,-123.361523,43.250192",
     "geom:latitude":43.250192,
     "geom:longitude":-123.361523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3362 NW Broad St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403808909,
-    "wof:lastmodified":1449054687,
+    "wof:lastmodified":1466769800,
     "wof:name":"Nottingham Nursery",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.361523,43.250192,-123.361523,43.250192],
-  "geometry": {"coordinates":[-123.361523,43.250192],"type":"Point"}
+  "bbox": [
+    -123.361523,
+    43.250192,
+    -123.361523,
+    43.250192
+],
+  "geometry": {"coordinates":[-123.36152300000001,43.250192],"type":"Point"}
 }

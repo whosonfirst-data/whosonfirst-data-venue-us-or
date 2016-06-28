@@ -2,13 +2,14 @@
   "id": 387249473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.200403,45.224234,-123.200403,45.224234",
     "geom:latitude":45.224234,
     "geom:longitude":-123.200403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 NW 22nd St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387249473,
-    "wof:lastmodified":1449056310,
+    "wof:lastmodified":1466771634,
     "wof:name":"Dave Patterson Art",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-123.200403,45.224234,-123.200403,45.224234],
-  "geometry": {"coordinates":[-123.200403,45.224234],"type":"Point"}
+  "bbox": [
+    -123.200403,
+    45.224234,
+    -123.200403,
+    45.224234
+],
+  "geometry": {"coordinates":[-123.20040299999999,45.224234],"type":"Point"}
 }

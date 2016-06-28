@@ -2,13 +2,14 @@
   "id": 370933735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.576861,45.545378,-122.576861,45.545378",
     "geom:latitude":45.545378,
     "geom:longitude":-122.576861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 NE 84th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370933735,
-    "wof:lastmodified":1449029788,
+    "wof:lastmodified":1466774747,
     "wof:name":"Ice Cream Pedaler",
     "wof:parent_id":85822419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.576861,45.545378,-122.576861,45.545378],
-  "geometry": {"coordinates":[-122.576861,45.545378],"type":"Point"}
+  "bbox": [
+    -122.576861,
+    45.545378,
+    -122.576861,
+    45.545378
+],
+  "geometry": {"coordinates":[-122.57686099999999,45.545378],"type":"Point"}
 }

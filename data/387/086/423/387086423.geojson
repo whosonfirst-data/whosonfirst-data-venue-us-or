@@ -2,13 +2,14 @@
   "id": 387086423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.430878,45.499562,-122.430878,45.499562",
     "geom:latitude":45.499562,
     "geom:longitude":-122.430878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Main Ave",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387086423,
-    "wof:lastmodified":1449058656,
+    "wof:lastmodified":1466768585,
     "wof:name":"Central Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.430878,45.499562,-122.430878,45.499562],
-  "geometry": {"coordinates":[-122.430878,45.499562],"type":"Point"}
+  "bbox": [
+    -122.430878,
+    45.499562,
+    -122.430878,
+    45.499562
+],
+  "geometry": {"coordinates":[-122.43087800000001,45.499562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387812473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.326602,44.916676,-123.326602,44.916676",
     "geom:latitude":44.916676,
     "geom:longitude":-123.326602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1283 SW Fairview Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387812473,
-    "wof:lastmodified":1449056222,
+    "wof:lastmodified":1466775045,
     "wof:name":"Fairview Market",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.326602,44.916676,-123.326602,44.916676],
-  "geometry": {"coordinates":[-123.326602,44.916676],"type":"Point"}
+  "bbox": [
+    -123.326602,
+    44.916676,
+    -123.326602,
+    44.916676
+],
+  "geometry": {"coordinates":[-123.32660199999999,44.916676],"type":"Point"}
 }

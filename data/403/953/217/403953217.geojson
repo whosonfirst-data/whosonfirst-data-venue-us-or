@@ -2,13 +2,14 @@
   "id": 403953217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.676966,45.515561,-122.676966,45.515561",
     "geom:latitude":45.515561,
     "geom:longitude":-122.676966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403953217,
-    "wof:lastmodified":1449055525,
+    "wof:lastmodified":1466768316,
     "wof:name":"Dennis R Grube",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-122.676966,45.515561,-122.676966,45.515561],
-  "geometry": {"coordinates":[-122.676966,45.515561],"type":"Point"}
+  "bbox": [
+    -122.676966,
+    45.515561,
+    -122.676966,
+    45.515561
+],
+  "geometry": {"coordinates":[-122.67696599999999,45.515561],"type":"Point"}
 }

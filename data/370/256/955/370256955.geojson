@@ -2,13 +2,14 @@
   "id": 370256955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.789213,45.425199,-122.789213,45.425199",
     "geom:latitude":45.425199,
     "geom:longitude":-122.789213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10610 SW Derry Dell Ct",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370256955,
-    "wof:lastmodified":1449031674,
+    "wof:lastmodified":1466769015,
     "wof:name":"Harris Hansen",
     "wof:parent_id":85868987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-122.789213,45.425199,-122.789213,45.425199],
+  "bbox": [
+    -122.789213,
+    45.425199,
+    -122.789213,
+    45.425199
+],
   "geometry": {"coordinates":[-122.789213,45.425199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387141911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.291458,44.041199,-121.291458,44.041199",
     "geom:latitude":44.041199,
     "geom:longitude":-121.291458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 SE 9th St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387141911,
-    "wof:lastmodified":1449057432,
+    "wof:lastmodified":1466769601,
     "wof:name":"Consolidated Towing Inc",
     "wof:parent_id":85876201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-121.291458,44.041199,-121.291458,44.041199],
-  "geometry": {"coordinates":[-121.291458,44.041199],"type":"Point"}
+  "bbox": [
+    -121.291458,
+    44.041199,
+    -121.291458,
+    44.041199
+],
+  "geometry": {"coordinates":[-121.29145800000001,44.041199],"type":"Point"}
 }

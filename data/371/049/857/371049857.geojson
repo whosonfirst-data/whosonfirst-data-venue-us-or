@@ -2,13 +2,14 @@
   "id": 371049857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.575944,45.519842,-122.575944,45.519842",
     "geom:latitude":45.519842,
     "geom:longitude":-122.575944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 SE 85th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371049857,
-    "wof:lastmodified":1449049544,
+    "wof:lastmodified":1466767976,
     "wof:name":"Professional Translations",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-122.575944,45.519842,-122.575944,45.519842],
-  "geometry": {"coordinates":[-122.575944,45.519842],"type":"Point"}
+  "bbox": [
+    -122.575944,
+    45.519842,
+    -122.575944,
+    45.519842
+],
+  "geometry": {"coordinates":[-122.57594400000001,45.519842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370708483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.886562,45.535561,-122.886562,45.535561",
     "geom:latitude":45.535561,
     "geom:longitude":-122.886562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20475 NW Amberwood Dr",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370708483,
-    "wof:lastmodified":1449029624,
+    "wof:lastmodified":1466773512,
     "wof:name":"KLA-Tencor Corporation",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.886562,45.535561,-122.886562,45.535561],
+  "bbox": [
+    -122.886562,
+    45.535561,
+    -122.886562,
+    45.535561
+],
   "geometry": {"coordinates":[-122.886562,45.535561],"type":"Point"}
 }

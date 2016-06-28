@@ -2,13 +2,14 @@
   "id": 354388351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.588013,45.485407,-122.588013,45.485407",
     "geom:latitude":45.485407,
     "geom:longitude":-122.588013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 SE 73rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354388351,
-    "wof:lastmodified":1449066011,
+    "wof:lastmodified":1466771085,
     "wof:name":"Network Behavioral Healthcare",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.588013,45.485407,-122.588013,45.485407],
+  "bbox": [
+    -122.588013,
+    45.485407,
+    -122.588013,
+    45.485407
+],
   "geometry": {"coordinates":[-122.588013,45.485407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370758199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844357,45.464124,-123.844357,45.464124",
     "geom:latitude":45.464124,
     "geom:longitude":-123.844357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 Hwy 101 N",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370758199,
-    "wof:lastmodified":1449030121,
+    "wof:lastmodified":1466773736,
     "wof:name":"Taqueria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.844357,45.464124,-123.844357,45.464124],
+  "bbox": [
+    -123.844357,
+    45.464124,
+    -123.844357,
+    45.464124
+],
   "geometry": {"coordinates":[-123.844357,45.464124],"type":"Point"}
 }

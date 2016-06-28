@@ -2,13 +2,14 @@
   "id": 371079179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151929,45.159102,-123.151929,45.159102",
     "geom:latitude":45.159102,
     "geom:longitude":-123.151929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13552 SE Eola Village Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371079179,
-    "wof:lastmodified":1449049946,
+    "wof:lastmodified":1466768451,
     "wof:name":"Dave's Saw Shop",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "saw"
     ]
 },
-  "bbox": [-123.151929,45.159102,-123.151929,45.159102],
+  "bbox": [
+    -123.151929,
+    45.159102,
+    -123.151929,
+    45.159102
+],
   "geometry": {"coordinates":[-123.151929,45.159102],"type":"Point"}
 }

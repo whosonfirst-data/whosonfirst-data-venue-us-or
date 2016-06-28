@@ -2,13 +2,14 @@
   "id": 370838659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653697,45.513713,-122.653697,45.513713",
     "geom:latitude":45.513713,
     "geom:longitude":-122.653697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370838659,
-    "wof:lastmodified":1449029499,
+    "wof:lastmodified":1466774333,
     "wof:name":"Millcross Litho Inc",
     "wof:parent_id":85816689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "printer"
     ]
 },
-  "bbox": [-122.653697,45.513713,-122.653697,45.513713],
-  "geometry": {"coordinates":[-122.653697,45.513713],"type":"Point"}
+  "bbox": [
+    -122.653697,
+    45.513713,
+    -122.653697,
+    45.513713
+],
+  "geometry": {"coordinates":[-122.65369699999999,45.513713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386979151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.504307,43.669395,-121.504307,43.669395",
     "geom:latitude":43.669395,
     "geom:longitude":-121.504307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51450 Hwy 97",
     "sg:city":"La Pine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386979151,
-    "wof:lastmodified":1449028845,
+    "wof:lastmodified":1466767398,
     "wof:name":"Time Out",
     "wof:parent_id":85876217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-121.504307,43.669395,-121.504307,43.669395],
+  "bbox": [
+    -121.504307,
+    43.669395,
+    -121.504307,
+    43.669395
+],
   "geometry": {"coordinates":[-121.504307,43.669395],"type":"Point"}
 }

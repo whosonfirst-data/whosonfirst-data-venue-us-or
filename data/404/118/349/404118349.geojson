@@ -2,13 +2,14 @@
   "id": 404118349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.008181,44.707453,-123.008181,44.707453",
     "geom:latitude":44.707453,
     "geom:longitude":-123.008181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Jefferson-Scio Dr",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404118349,
-    "wof:lastmodified":1449040069,
+    "wof:lastmodified":1466770956,
     "wof:name":"Santiam Gardens",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "prefab"
     ]
 },
-  "bbox": [-123.008181,44.707453,-123.008181,44.707453],
-  "geometry": {"coordinates":[-123.008181,44.707453],"type":"Point"}
+  "bbox": [
+    -123.008181,
+    44.707453,
+    -123.008181,
+    44.707453
+],
+  "geometry": {"coordinates":[-123.00818099999999,44.707453],"type":"Point"}
 }

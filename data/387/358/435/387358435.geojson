@@ -2,13 +2,14 @@
   "id": 387358435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.300784,45.438818,-122.300784,45.438818",
     "geom:latitude":45.438818,
     "geom:longitude":-122.300784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11606 SE 352nd Ave",
     "sg:city":"Boring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387358435,
-    "wof:lastmodified":1449057707,
+    "wof:lastmodified":1466772171,
     "wof:name":"Group A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.300784,45.438818,-122.300784,45.438818],
-  "geometry": {"coordinates":[-122.300784,45.438818],"type":"Point"}
+  "bbox": [
+    -122.300784,
+    45.438818,
+    -122.300784,
+    45.438818
+],
+  "geometry": {"coordinates":[-122.30078399999999,45.438818],"type":"Point"}
 }

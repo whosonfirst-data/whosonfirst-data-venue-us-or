@@ -2,13 +2,14 @@
   "id": 404055931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.262408,44.563547,-123.262408,44.563547",
     "geom:latitude":44.563547,
     "geom:longitude":-123.262408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 SW Madison Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404055931,
-    "wof:lastmodified":1449039318,
+    "wof:lastmodified":1466769395,
     "wof:name":"Country Notion",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.262408,44.563547,-123.262408,44.563547],
-  "geometry": {"coordinates":[-123.262408,44.563547],"type":"Point"}
+  "bbox": [
+    -123.262408,
+    44.563547,
+    -123.262408,
+    44.563547
+],
+  "geometry": {"coordinates":[-123.26240799999999,44.563547],"type":"Point"}
 }

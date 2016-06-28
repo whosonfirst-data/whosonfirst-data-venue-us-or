@@ -2,13 +2,14 @@
   "id": 387123163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.142041,45.435916,-123.142041,45.435916",
     "geom:latitude":45.435916,
     "geom:longitude":-123.142041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Park St",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387123163,
-    "wof:lastmodified":1449057241,
+    "wof:lastmodified":1466769237,
     "wof:name":"Gaston Union Jr/Sr High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.142041,45.435916,-123.142041,45.435916],
-  "geometry": {"coordinates":[-123.142041,45.435916],"type":"Point"}
+  "bbox": [
+    -123.142041,
+    45.435916,
+    -123.142041,
+    45.435916
+],
+  "geometry": {"coordinates":[-123.14204100000001,45.435916],"type":"Point"}
 }

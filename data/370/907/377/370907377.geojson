@@ -2,13 +2,14 @@
   "id": 370907377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03909,44.93224,-123.03909,44.93224",
     "geom:latitude":44.93224,
     "geom:longitude":-123.03909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Church St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370907377,
-    "wof:lastmodified":1449032208,
+    "wof:lastmodified":1466774716,
     "wof:name":"Oregon School For The Blind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blind"
     ]
 },
-  "bbox": [-123.03909,44.93224,-123.03909,44.93224],
+  "bbox": [
+    -123.03909,
+    44.93224,
+    -123.03909,
+    44.93224
+],
   "geometry": {"coordinates":[-123.03909,44.93224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387846767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.772427,45.722986,-122.772427,45.722986",
     "geom:latitude":45.722986,
     "geom:longitude":-122.772427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27731 NW Reeder Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387846767,
-    "wof:lastmodified":1449059053,
+    "wof:lastmodified":1466775149,
     "wof:name":"Blue Heron Herbary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.772427,45.722986,-122.772427,45.722986],
-  "geometry": {"coordinates":[-122.772427,45.722986],"type":"Point"}
+  "bbox": [
+    -122.772427,
+    45.722986,
+    -122.772427,
+    45.722986
+],
+  "geometry": {"coordinates":[-122.77242699999999,45.722986],"type":"Point"}
 }

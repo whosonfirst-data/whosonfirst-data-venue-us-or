@@ -2,13 +2,14 @@
   "id": 371080415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.599033,45.35344,-122.599033,45.35344",
     "geom:latitude":45.35344,
     "geom:longitude":-122.599033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 7th St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371080415,
-    "wof:lastmodified":1449050108,
+    "wof:lastmodified":1466768474,
     "wof:name":"River City Glass",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-122.599033,45.35344,-122.599033,45.35344],
-  "geometry": {"coordinates":[-122.599033,45.35344],"type":"Point"}
+  "bbox": [
+    -122.599033,
+    45.35344,
+    -122.599033,
+    45.35344
+],
+  "geometry": {"coordinates":[-122.59903300000001,45.35344],"type":"Point"}
 }

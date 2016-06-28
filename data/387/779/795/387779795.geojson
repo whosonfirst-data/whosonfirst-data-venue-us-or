@@ -2,13 +2,14 @@
   "id": 387779795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.415658,45.50348,-122.415658,45.50348",
     "geom:latitude":45.50348,
     "geom:longitude":-122.415658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 NE Burnside Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387779795,
-    "wof:lastmodified":1449056687,
+    "wof:lastmodified":1466774913,
     "wof:name":"Gresham Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-122.415658,45.50348,-122.415658,45.50348],
-  "geometry": {"coordinates":[-122.415658,45.50348],"type":"Point"}
+  "bbox": [
+    -122.415658,
+    45.50348,
+    -122.415658,
+    45.50348
+],
+  "geometry": {"coordinates":[-122.41565799999999,45.50348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387813387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.180585,45.425059,-123.180585,45.425059",
     "geom:latitude":45.425059,
     "geom:longitude":-123.180585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6045 NW Kiacut Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387813387,
-    "wof:lastmodified":1449057085,
+    "wof:lastmodified":1466775052,
     "wof:name":"Roys Stumpgrinding Inc",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.180585,45.425059,-123.180585,45.425059],
-  "geometry": {"coordinates":[-123.180585,45.425059],"type":"Point"}
+  "bbox": [
+    -123.180585,
+    45.425059,
+    -123.180585,
+    45.425059
+],
+  "geometry": {"coordinates":[-123.18058499999999,45.425059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387508571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.073476,44.066096,-123.073476,44.066096",
     "geom:latitude":44.066096,
     "geom:longitude":-123.073476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Oakmont Way",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387508571,
-    "wof:lastmodified":1449058240,
+    "wof:lastmodified":1466773189,
     "wof:name":"Bush Animal Hospital",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-123.073476,44.066096,-123.073476,44.066096],
+  "bbox": [
+    -123.073476,
+    44.066096,
+    -123.073476,
+    44.066096
+],
   "geometry": {"coordinates":[-123.073476,44.066096],"type":"Point"}
 }

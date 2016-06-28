@@ -2,13 +2,14 @@
   "id": 354331671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.197662,45.215652,-123.197662,45.215652",
     "geom:latitude":45.215652,
     "geom:longitude":-123.197662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 NE 11th St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354331671,
-    "wof:lastmodified":1449066972,
+    "wof:lastmodified":1466769916,
     "wof:name":"John's Mower Hospital Inc",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-123.197662,45.215652,-123.197662,45.215652],
-  "geometry": {"coordinates":[-123.197662,45.215652],"type":"Point"}
+  "bbox": [
+    -123.197662,
+    45.215652,
+    -123.197662,
+    45.215652
+],
+  "geometry": {"coordinates":[-123.19766199999999,45.215652],"type":"Point"}
 }

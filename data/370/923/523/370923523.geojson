@@ -2,13 +2,14 @@
   "id": 370923523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.976048,45.300224,-122.976048,45.300224",
     "geom:latitude":45.300224,
     "geom:longitude":-122.976048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Blaine St",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370923523,
-    "wof:lastmodified":1449032356,
+    "wof:lastmodified":1466774783,
     "wof:name":"Buckley's Lockers Inc",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "local"
     ]
 },
-  "bbox": [-122.976048,45.300224,-122.976048,45.300224],
-  "geometry": {"coordinates":[-122.976048,45.300224],"type":"Point"}
+  "bbox": [
+    -122.976048,
+    45.300224,
+    -122.976048,
+    45.300224
+],
+  "geometry": {"coordinates":[-122.97604800000001,45.300224],"type":"Point"}
 }

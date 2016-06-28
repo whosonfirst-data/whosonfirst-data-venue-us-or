@@ -2,13 +2,14 @@
   "id": 403720505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.300322,44.583526,-123.300322,44.583526",
     "geom:latitude":44.583526,
     "geom:longitude":-123.300322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 NW Big Oak Pl",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403720505,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1466768210,
     "wof:name":"Hanis Foods Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.300322,44.583526,-123.300322,44.583526],
-  "geometry": {"coordinates":[-123.300322,44.583526],"type":"Point"}
+  "bbox": [
+    -123.300322,
+    44.583526,
+    -123.300322,
+    44.583526
+],
+  "geometry": {"coordinates":[-123.30032199999999,44.583526],"type":"Point"}
 }

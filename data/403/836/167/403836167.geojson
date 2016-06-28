@@ -2,13 +2,14 @@
   "id": 403836167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806307,45.378243,-122.806307,45.378243",
     "geom:latitude":45.378243,
     "geom:longitude":-122.806307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12505 SW Herman Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403836167,
-    "wof:lastmodified":1449055498,
+    "wof:lastmodified":1466770515,
     "wof:name":"API",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [-122.806307,45.378243,-122.806307,45.378243],
+  "bbox": [
+    -122.806307,
+    45.378243,
+    -122.806307,
+    45.378243
+],
   "geometry": {"coordinates":[-122.806307,45.378243],"type":"Point"}
 }

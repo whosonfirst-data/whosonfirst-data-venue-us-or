@@ -2,13 +2,14 @@
   "id": 370800055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.023255,45.029051,-123.023255,45.029051",
     "geom:latitude":45.029051,
     "geom:longitude":-123.023255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 Burgandy Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370800055,
-    "wof:lastmodified":1449029353,
+    "wof:lastmodified":1466774081,
     "wof:name":"Markham Enterprises Inc",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-123.023255,45.029051,-123.023255,45.029051],
-  "geometry": {"coordinates":[-123.023255,45.029051],"type":"Point"}
+  "bbox": [
+    -123.023255,
+    45.029051,
+    -123.023255,
+    45.029051
+],
+  "geometry": {"coordinates":[-123.02325500000001,45.029051],"type":"Point"}
 }

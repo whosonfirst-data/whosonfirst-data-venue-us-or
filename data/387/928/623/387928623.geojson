@@ -2,13 +2,14 @@
   "id": 387928623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.615686,45.479102,-122.615686,45.479102",
     "geom:latitude":45.479102,
     "geom:longitude":-122.615686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 SE Woodstock Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387928623,
-    "wof:lastmodified":1449059395,
+    "wof:lastmodified":1466775464,
     "wof:name":"Woodstock Photography",
     "wof:parent_id":85867147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-122.615686,45.479102,-122.615686,45.479102],
+  "bbox": [
+    -122.615686,
+    45.479102,
+    -122.615686,
+    45.479102
+],
   "geometry": {"coordinates":[-122.615686,45.479102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403983913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661606,45.557531,-122.661606,45.557531",
     "geom:latitude":45.557531,
     "geom:longitude":-122.661606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4839 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403983913,
-    "wof:lastmodified":1449055851,
+    "wof:lastmodified":1466768857,
     "wof:name":"Johnson Business Adm",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-122.661606,45.557531,-122.661606,45.557531],
-  "geometry": {"coordinates":[-122.661606,45.557531],"type":"Point"}
+  "bbox": [
+    -122.661606,
+    45.557531,
+    -122.661606,
+    45.557531
+],
+  "geometry": {"coordinates":[-122.66160600000001,45.557531],"type":"Point"}
 }

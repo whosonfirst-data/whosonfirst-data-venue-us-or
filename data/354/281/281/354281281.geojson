@@ -2,13 +2,14 @@
   "id": 354281281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.800232,45.499705,-122.800232,45.499705",
     "geom:latitude":45.499705,
     "geom:longitude":-122.800232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2985 SW 120th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354281281,
-    "wof:lastmodified":1449067393,
+    "wof:lastmodified":1466769205,
     "wof:name":"Michelson Paint Contracting",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.800232,45.499705,-122.800232,45.499705],
-  "geometry": {"coordinates":[-122.800232,45.499705],"type":"Point"}
+  "bbox": [
+    -122.800232,
+    45.499705,
+    -122.800232,
+    45.499705
+],
+  "geometry": {"coordinates":[-122.80023199999999,45.499705],"type":"Point"}
 }

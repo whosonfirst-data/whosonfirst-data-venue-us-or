@@ -2,13 +2,14 @@
   "id": 387252539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.93131,45.533523,-122.93131,45.533523",
     "geom:latitude":45.533523,
     "geom:longitude":-122.93131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5193 NE Elam Young Pkwy",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387252539,
-    "wof:lastmodified":1449056607,
+    "wof:lastmodified":1466771644,
     "wof:name":"School To Work Consortium",
     "wof:parent_id":85847843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-122.93131,45.533523,-122.93131,45.533523],
+  "bbox": [
+    -122.93131,
+    45.533523,
+    -122.93131,
+    45.533523
+],
   "geometry": {"coordinates":[-122.93131,45.533523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370373025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.971445,44.971298,-122.971445,44.971298",
     "geom:latitude":44.971298,
     "geom:longitude":-122.971445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3563 Silverpark Pl NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370373025,
-    "wof:lastmodified":1449030834,
+    "wof:lastmodified":1466771269,
     "wof:name":"Silverpark Apartments",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.971445,44.971298,-122.971445,44.971298],
+  "bbox": [
+    -122.971445,
+    44.971298,
+    -122.971445,
+    44.971298
+],
   "geometry": {"coordinates":[-122.971445,44.971298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403820861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.031418,44.989708,-123.031418,44.989708",
     "geom:latitude":44.989708,
     "geom:longitude":-123.031418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Cummings Ln N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403820861,
-    "wof:lastmodified":1449055337,
+    "wof:lastmodified":1466770114,
     "wof:name":"John KNOX Presbyterian Church",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.031418,44.989708,-123.031418,44.989708],
+  "bbox": [
+    -123.031418,
+    44.989708,
+    -123.031418,
+    44.989708
+],
   "geometry": {"coordinates":[-123.031418,44.989708],"type":"Point"}
 }

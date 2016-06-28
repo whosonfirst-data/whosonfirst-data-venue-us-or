@@ -2,13 +2,14 @@
   "id": 370975765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.101852,45.324724,-118.101852,45.324724",
     "geom:latitude":45.324724,
     "geom:longitude":-118.101852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Cedar St",
     "sg:city":"La Grande",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370975765,
-    "wof:lastmodified":1449032001,
+    "wof:lastmodified":1466775112,
     "wof:name":"Emergency MGT Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disaster"
     ]
 },
-  "bbox": [-118.101852,45.324724,-118.101852,45.324724],
-  "geometry": {"coordinates":[-118.101852,45.324724],"type":"Point"}
+  "bbox": [
+    -118.101852,
+    45.324724,
+    -118.101852,
+    45.324724
+],
+  "geometry": {"coordinates":[-118.10185199999999,45.324724],"type":"Point"}
 }

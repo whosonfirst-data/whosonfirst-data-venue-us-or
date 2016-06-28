@@ -2,13 +2,14 @@
   "id": 370360375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844029,45.456276,-123.844029,45.456276",
     "geom:latitude":45.456276,
     "geom:longitude":-123.844029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Main Ave",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370360375,
-    "wof:lastmodified":1449031708,
+    "wof:lastmodified":1466771018,
     "wof:name":"Democratic Central Commitee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.844029,45.456276,-123.844029,45.456276],
-  "geometry": {"coordinates":[-123.844029,45.456276],"type":"Point"}
+  "bbox": [
+    -123.844029,
+    45.456276,
+    -123.844029,
+    45.456276
+],
+  "geometry": {"coordinates":[-123.84402900000001,45.456276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403821125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.678599,45.508107,-122.678599,45.508107",
     "geom:latitude":45.508107,
     "geom:longitude":-122.678599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 SW 1st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403821125,
-    "wof:lastmodified":1449055362,
+    "wof:lastmodified":1466770120,
     "wof:name":"Comcast Spotlight",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "representative"
     ]
 },
-  "bbox": [-122.678599,45.508107,-122.678599,45.508107],
-  "geometry": {"coordinates":[-122.678599,45.508107],"type":"Point"}
+  "bbox": [
+    -122.678599,
+    45.508107,
+    -122.678599,
+    45.508107
+],
+  "geometry": {"coordinates":[-122.67859900000001,45.508107],"type":"Point"}
 }

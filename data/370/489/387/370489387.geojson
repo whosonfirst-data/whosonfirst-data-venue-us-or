@@ -2,13 +2,14 @@
   "id": 370489387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.136705,44.063624,-123.136705,44.063624",
     "geom:latitude":44.063624,
     "geom:longitude":-123.136705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Roosevelt Blvd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370489387,
-    "wof:lastmodified":1449030920,
+    "wof:lastmodified":1466772277,
     "wof:name":"Dan Bryans Automotive Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-123.136705,44.063624,-123.136705,44.063624],
-  "geometry": {"coordinates":[-123.136705,44.063624],"type":"Point"}
+  "bbox": [
+    -123.136705,
+    44.063624,
+    -123.136705,
+    44.063624
+],
+  "geometry": {"coordinates":[-123.13670500000001,44.063624],"type":"Point"}
 }

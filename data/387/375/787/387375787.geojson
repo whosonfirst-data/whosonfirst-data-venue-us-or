@@ -2,13 +2,14 @@
   "id": 387375787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.127047,45.20805,-123.127047,45.20805",
     "geom:latitude":45.20805,
     "geom:longitude":-123.127047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 SE Clair Ln",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387375787,
-    "wof:lastmodified":1449056252,
+    "wof:lastmodified":1466772453,
     "wof:name":"ABT Remodeling",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.127047,45.20805,-123.127047,45.20805],
+  "bbox": [
+    -123.127047,
+    45.20805,
+    -123.127047,
+    45.20805
+],
   "geometry": {"coordinates":[-123.127047,45.20805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354274913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.307246,45.870993,-119.307246,45.870993",
     "geom:latitude":45.870993,
     "geom:longitude":-119.307246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80511 Sunshine Ln",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354274913,
-    "wof:lastmodified":1449066147,
+    "wof:lastmodified":1466769088,
     "wof:name":"JCA",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-119.307246,45.870993,-119.307246,45.870993],
-  "geometry": {"coordinates":[-119.307246,45.870993],"type":"Point"}
+  "bbox": [
+    -119.307246,
+    45.870993,
+    -119.307246,
+    45.870993
+],
+  "geometry": {"coordinates":[-119.30724600000001,45.870993],"type":"Point"}
 }

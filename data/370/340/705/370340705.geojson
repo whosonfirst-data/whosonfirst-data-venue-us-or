@@ -2,13 +2,14 @@
   "id": 370340705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10026,44.069161,-123.10026,44.069161",
     "geom:latitude":44.069161,
     "geom:longitude":-123.10026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"979 Willagillespie Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370340705,
-    "wof:lastmodified":1449031715,
+    "wof:lastmodified":1466770609,
     "wof:name":"Totally Cellular",
     "wof:parent_id":85877269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cellular"
     ]
 },
-  "bbox": [-123.10026,44.069161,-123.10026,44.069161],
-  "geometry": {"coordinates":[-123.10026,44.069161],"type":"Point"}
+  "bbox": [
+    -123.10026,
+    44.069161,
+    -123.10026,
+    44.069161
+],
+  "geometry": {"coordinates":[-123.10026000000001,44.069161],"type":"Point"}
 }

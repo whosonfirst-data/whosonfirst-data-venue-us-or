@@ -2,13 +2,14 @@
   "id": 403723261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.070129,43.797559,-123.070129,43.797559",
     "geom:latitude":43.797559,
     "geom:longitude":-123.070129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 W Main St",
     "sg:city":"Cottage Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403723261,
-    "wof:lastmodified":1449055416,
+    "wof:lastmodified":1466768282,
     "wof:name":"Cg Softball",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.070129,43.797559,-123.070129,43.797559],
-  "geometry": {"coordinates":[-123.070129,43.797559],"type":"Point"}
+  "bbox": [
+    -123.070129,
+    43.797559,
+    -123.070129,
+    43.797559
+],
+  "geometry": {"coordinates":[-123.07012899999999,43.797559],"type":"Point"}
 }

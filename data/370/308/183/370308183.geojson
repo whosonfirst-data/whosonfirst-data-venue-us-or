@@ -2,13 +2,14 @@
   "id": 370308183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.544626,45.309712,-122.544626,45.309712",
     "geom:latitude":45.309712,
     "geom:longitude":-122.544626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15711 S Henrici Rd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370308183,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1466769971,
     "wof:name":"Northwest Traffic Contractors",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.544626,45.309712,-122.544626,45.309712],
-  "geometry": {"coordinates":[-122.544626,45.309712],"type":"Point"}
+  "bbox": [
+    -122.544626,
+    45.309712,
+    -122.544626,
+    45.309712
+],
+  "geometry": {"coordinates":[-122.54462599999999,45.309712],"type":"Point"}
 }

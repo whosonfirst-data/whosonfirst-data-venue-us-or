@@ -2,13 +2,14 @@
   "id": 354367763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806352,42.265589,-122.806352,42.265589",
     "geom:latitude":42.265589,
     "geom:longitude":-122.806352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 S Pacific Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354367763,
-    "wof:lastmodified":1449066954,
+    "wof:lastmodified":1466770724,
     "wof:name":"Red Barn Auction",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-122.806352,42.265589,-122.806352,42.265589],
+  "bbox": [
+    -122.806352,
+    42.265589,
+    -122.806352,
+    42.265589
+],
   "geometry": {"coordinates":[-122.806352,42.265589],"type":"Point"}
 }

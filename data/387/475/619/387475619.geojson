@@ -2,13 +2,14 @@
   "id": 387475619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.583179,45.418331,-122.583179,45.418331",
     "geom:latitude":45.418331,
     "geom:longitude":-122.583179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14328 SE Carol Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387475619,
-    "wof:lastmodified":1449057681,
+    "wof:lastmodified":1466773112,
     "wof:name":"Helzer Machine Inc",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.583179,45.418331,-122.583179,45.418331],
+  "bbox": [
+    -122.583179,
+    45.418331,
+    -122.583179,
+    45.418331
+],
   "geometry": {"coordinates":[-122.583179,45.418331],"type":"Point"}
 }

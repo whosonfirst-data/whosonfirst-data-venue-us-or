@@ -2,13 +2,14 @@
   "id": 403805325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.049308,44.041861,-123.049308,44.041861",
     "geom:latitude":44.041861,
     "geom:longitude":-123.049308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Judkins Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403805325,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1466769739,
     "wof:name":"Oregon Pepsi Bottlers Inc",
     "wof:parent_id":85877237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fruit"
     ]
 },
-  "bbox": [-123.049308,44.041861,-123.049308,44.041861],
+  "bbox": [
+    -123.049308,
+    44.041861,
+    -123.049308,
+    44.041861
+],
   "geometry": {"coordinates":[-123.049308,44.041861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661465,45.399512,-122.661465,45.399512",
     "geom:latitude":45.399512,
     "geom:longitude":-122.661465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17300 Grandview Ct",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387439341,
-    "wof:lastmodified":1449057151,
+    "wof:lastmodified":1466772851,
     "wof:name":"Northwest Education Training A",
     "wof:parent_id":85878593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "software"
     ]
 },
-  "bbox": [-122.661465,45.399512,-122.661465,45.399512],
-  "geometry": {"coordinates":[-122.661465,45.399512],"type":"Point"}
+  "bbox": [
+    -122.661465,
+    45.399512,
+    -122.661465,
+    45.399512
+],
+  "geometry": {"coordinates":[-122.66146500000001,45.399512],"type":"Point"}
 }

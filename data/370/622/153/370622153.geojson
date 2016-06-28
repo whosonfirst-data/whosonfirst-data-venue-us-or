@@ -2,13 +2,14 @@
   "id": 370622153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.291295,44.036006,-121.291295,44.036006",
     "geom:latitude":44.036006,
     "geom:longitude":-121.291295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61572 American Loop",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370622153,
-    "wof:lastmodified":1449031857,
+    "wof:lastmodified":1466773245,
     "wof:name":"Rivercrest Painting",
     "wof:parent_id":85876207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-121.291295,44.036006,-121.291295,44.036006],
-  "geometry": {"coordinates":[-121.291295,44.036006],"type":"Point"}
+  "bbox": [
+    -121.291295,
+    44.036006,
+    -121.291295,
+    44.036006
+],
+  "geometry": {"coordinates":[-121.29129500000001,44.036006],"type":"Point"}
 }

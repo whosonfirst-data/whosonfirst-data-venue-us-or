@@ -2,13 +2,14 @@
   "id": 387568871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.845723,42.313934,-122.845723,42.313934",
     "geom:latitude":42.313934,
     "geom:longitude":-122.845723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Ellendale Dr",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387568871,
-    "wof:lastmodified":1449056026,
+    "wof:lastmodified":1466773739,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-122.845723,42.313934,-122.845723,42.313934],
-  "geometry": {"coordinates":[-122.845723,42.313934],"type":"Point"}
+  "bbox": [
+    -122.845723,
+    42.313934,
+    -122.845723,
+    42.313934
+],
+  "geometry": {"coordinates":[-122.84572300000001,42.313934],"type":"Point"}
 }

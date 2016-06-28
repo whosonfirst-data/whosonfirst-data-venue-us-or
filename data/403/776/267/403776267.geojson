@@ -2,13 +2,14 @@
   "id": 403776267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.68728,45.527128,-122.68728,45.527128",
     "geom:latitude":45.527128,
     "geom:longitude":-122.68728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 NW 16th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403776267,
-    "wof:lastmodified":1449054939,
+    "wof:lastmodified":1466769280,
     "wof:name":"A & B Towing",
     "wof:parent_id":85893253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-122.68728,45.527128,-122.68728,45.527128],
+  "bbox": [
+    -122.68728,
+    45.527128,
+    -122.68728,
+    45.527128
+],
   "geometry": {"coordinates":[-122.68728,45.527128],"type":"Point"}
 }

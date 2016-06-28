@@ -2,13 +2,14 @@
   "id": 387830805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.343134,45.317508,-122.343134,45.317508",
     "geom:latitude":45.317508,
     "geom:longitude":-122.343134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28424 SE Eagle Creek Rd",
     "sg:city":"Estacada",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387830805,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1466775033,
     "wof:name":"Currinsville Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.343134,45.317508,-122.343134,45.317508],
-  "geometry": {"coordinates":[-122.343134,45.317508],"type":"Point"}
+  "bbox": [
+    -122.343134,
+    45.317508,
+    -122.343134,
+    45.317508
+],
+  "geometry": {"coordinates":[-122.34313400000001,45.317508],"type":"Point"}
 }

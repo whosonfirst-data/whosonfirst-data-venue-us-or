@@ -2,13 +2,14 @@
   "id": 370327503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.444348,45.543086,-122.444348,45.543086",
     "geom:latitude":45.543086,
     "geom:longitude":-122.444348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22231 NE Sandy Blvd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370327503,
-    "wof:lastmodified":1449029344,
+    "wof:lastmodified":1466770379,
     "wof:name":"BENTBOATS.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-122.444348,45.543086,-122.444348,45.543086],
-  "geometry": {"coordinates":[-122.444348,45.543086],"type":"Point"}
+  "bbox": [
+    -122.444348,
+    45.543086,
+    -122.444348,
+    45.543086
+],
+  "geometry": {"coordinates":[-122.44434800000001,45.543086],"type":"Point"}
 }

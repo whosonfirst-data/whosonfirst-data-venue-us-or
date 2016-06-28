@@ -2,13 +2,14 @@
   "id": 370507901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.537609,45.530788,-122.537609,45.530788",
     "geom:latitude":45.530788,
     "geom:longitude":-122.537609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370507901,
-    "wof:lastmodified":1449030820,
+    "wof:lastmodified":1466772387,
     "wof:name":"Robert Mercer",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-122.537609,45.530788,-122.537609,45.530788],
+  "bbox": [
+    -122.537609,
+    45.530788,
+    -122.537609,
+    45.530788
+],
   "geometry": {"coordinates":[-122.537609,45.530788],"type":"Point"}
 }

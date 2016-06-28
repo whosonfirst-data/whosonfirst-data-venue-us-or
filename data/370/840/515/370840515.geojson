@@ -2,13 +2,14 @@
   "id": 370840515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.801393,45.481319,-123.801393,45.481319",
     "geom:latitude":45.481319,
     "geom:longitude":-123.801393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Aldercrest Rd",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370840515,
-    "wof:lastmodified":1449031721,
+    "wof:lastmodified":1466774264,
     "wof:name":"Barker Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.801393,45.481319,-123.801393,45.481319],
+  "bbox": [
+    -123.801393,
+    45.481319,
+    -123.801393,
+    45.481319
+],
   "geometry": {"coordinates":[-123.801393,45.481319],"type":"Point"}
 }

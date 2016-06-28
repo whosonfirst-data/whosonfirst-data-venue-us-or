@@ -2,13 +2,14 @@
   "id": 387539957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.018938,45.092433,-123.018938,45.092433",
     "geom:latitude":45.092433,
     "geom:longitude":-123.018938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1542 Matheny Rd NE",
     "sg:city":"Gervais",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387539957,
-    "wof:lastmodified":1449059997,
+    "wof:lastmodified":1466773557,
     "wof:name":"Ruth L Bahler",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "crop"
     ]
 },
-  "bbox": [-123.018938,45.092433,-123.018938,45.092433],
-  "geometry": {"coordinates":[-123.018938,45.092433],"type":"Point"}
+  "bbox": [
+    -123.018938,
+    45.092433,
+    -123.018938,
+    45.092433
+],
+  "geometry": {"coordinates":[-123.01893800000001,45.092433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370321743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.998742,45.544325,-122.998742,45.544325",
     "geom:latitude":45.544325,
     "geom:longitude":-122.998742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"389 NW Sadie Ct",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370321743,
-    "wof:lastmodified":1449029146,
+    "wof:lastmodified":1466770255,
     "wof:name":"Taz Construction",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.998742,45.544325,-122.998742,45.544325],
-  "geometry": {"coordinates":[-122.998742,45.544325],"type":"Point"}
+  "bbox": [
+    -122.998742,
+    45.544325,
+    -122.998742,
+    45.544325
+],
+  "geometry": {"coordinates":[-122.99874199999999,45.544325],"type":"Point"}
 }

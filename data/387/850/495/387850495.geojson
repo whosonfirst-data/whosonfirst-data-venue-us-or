@@ -2,13 +2,14 @@
   "id": 387850495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.273052,45.425651,-122.273052,45.425651",
     "geom:latitude":45.425651,
     "geom:longitude":-122.273052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37815 SE Serban Rd",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387850495,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1466775154,
     "wof:name":"Mark Larrabee Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.273052,45.425651,-122.273052,45.425651],
-  "geometry": {"coordinates":[-122.273052,45.425651],"type":"Point"}
+  "bbox": [
+    -122.273052,
+    45.425651,
+    -122.273052,
+    45.425651
+],
+  "geometry": {"coordinates":[-122.27305200000001,45.425651],"type":"Point"}
 }

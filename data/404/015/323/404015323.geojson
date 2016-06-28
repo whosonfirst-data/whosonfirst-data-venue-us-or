@@ -2,13 +2,14 @@
   "id": 404015323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.350519,43.208207,-123.350519,43.208207",
     "geom:latitude":43.208207,
     "geom:longitude":-123.350519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"868 SE Parrott St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404015323,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1466768718,
     "wof:name":"Nelson & Pyle Woodworking Co",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-123.350519,43.208207,-123.350519,43.208207],
-  "geometry": {"coordinates":[-123.350519,43.208207],"type":"Point"}
+  "bbox": [
+    -123.350519,
+    43.208207,
+    -123.350519,
+    43.208207
+],
+  "geometry": {"coordinates":[-123.35051900000001,43.208207],"type":"Point"}
 }

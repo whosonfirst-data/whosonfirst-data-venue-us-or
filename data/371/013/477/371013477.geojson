@@ -2,13 +2,14 @@
   "id": 371013477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.601993,45.354267,-122.601993,45.354267",
     "geom:latitude":45.354267,
     "geom:longitude":-122.601993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Monroe St",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371013477,
-    "wof:lastmodified":1449049764,
+    "wof:lastmodified":1466767367,
     "wof:name":"Brett L Johnson DDS",
     "wof:parent_id":85809251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.601993,45.354267,-122.601993,45.354267],
-  "geometry": {"coordinates":[-122.601993,45.354267],"type":"Point"}
+  "bbox": [
+    -122.601993,
+    45.354267,
+    -122.601993,
+    45.354267
+],
+  "geometry": {"coordinates":[-122.60199299999999,45.354267],"type":"Point"}
 }

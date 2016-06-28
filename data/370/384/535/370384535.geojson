@@ -2,13 +2,14 @@
   "id": 370384535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.080332,45.520285,-123.080332,45.520285",
     "geom:latitude":45.520285,
     "geom:longitude":-123.080332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 Pacific Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370384535,
-    "wof:lastmodified":1449029509,
+    "wof:lastmodified":1466771522,
     "wof:name":"K & S Wholesale Inc",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-123.080332,45.520285,-123.080332,45.520285],
+  "bbox": [
+    -123.080332,
+    45.520285,
+    -123.080332,
+    45.520285
+],
   "geometry": {"coordinates":[-123.080332,45.520285],"type":"Point"}
 }

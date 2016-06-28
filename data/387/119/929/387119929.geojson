@@ -2,13 +2,14 @@
   "id": 387119929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.255904,44.57844,-123.255904,44.57844",
     "geom:latitude":44.57844,
     "geom:longitude":-123.255904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 NE 3rd St",
     "sg:city":"Adair Village",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387119929,
-    "wof:lastmodified":1449058826,
+    "wof:lastmodified":1466769173,
     "wof:name":"Corvallis City Engineering",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-123.255904,44.57844,-123.255904,44.57844],
+  "bbox": [
+    -123.255904,
+    44.57844,
+    -123.255904,
+    44.57844
+],
   "geometry": {"coordinates":[-123.255904,44.57844],"type":"Point"}
 }

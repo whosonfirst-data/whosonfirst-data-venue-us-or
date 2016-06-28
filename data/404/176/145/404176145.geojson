@@ -2,13 +2,14 @@
   "id": 404176145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.680918,45.505019,-122.680918,45.505019",
     "geom:latitude":45.505019,
     "geom:longitude":-122.680918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404176145,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1466767695,
     "wof:name":"Columbia Biotechnologies Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.680918,45.505019,-122.680918,45.505019],
-  "geometry": {"coordinates":[-122.680918,45.505019],"type":"Point"}
+  "bbox": [
+    -122.680918,
+    45.505019,
+    -122.680918,
+    45.505019
+],
+  "geometry": {"coordinates":[-122.68091800000001,45.505019],"type":"Point"}
 }

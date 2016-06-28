@@ -2,13 +2,14 @@
   "id": 387954047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.844081,45.473302,-123.844081,45.473302",
     "geom:latitude":45.473302,
     "geom:longitude":-123.844081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Hwy 101 N",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387954047,
-    "wof:lastmodified":1449059429,
+    "wof:lastmodified":1466775467,
     "wof:name":"Taco Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.844081,45.473302,-123.844081,45.473302],
+  "bbox": [
+    -123.844081,
+    45.473302,
+    -123.844081,
+    45.473302
+],
   "geometry": {"coordinates":[-123.844081,45.473302],"type":"Point"}
 }

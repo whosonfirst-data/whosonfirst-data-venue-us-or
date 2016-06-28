@@ -2,13 +2,14 @@
   "id": 403949057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.590651,45.519141,-122.590651,45.519141",
     "geom:latitude":45.519141,
     "geom:longitude":-122.590651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7032 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403949057,
-    "wof:lastmodified":1449055469,
+    "wof:lastmodified":1466768243,
     "wof:name":"Dean Backus",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.590651,45.519141,-122.590651,45.519141],
-  "geometry": {"coordinates":[-122.590651,45.519141],"type":"Point"}
+  "bbox": [
+    -122.590651,
+    45.519141,
+    -122.590651,
+    45.519141
+],
+  "geometry": {"coordinates":[-122.59065099999999,45.519141],"type":"Point"}
 }

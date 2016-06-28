@@ -2,13 +2,14 @@
   "id": 370252091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.807363,45.401011,-122.807363,45.401011",
     "geom:latitude":45.401011,
     "geom:longitude":-122.807363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12748 SW Dickson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370252091,
-    "wof:lastmodified":1449029537,
+    "wof:lastmodified":1466768922,
     "wof:name":"Memory Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.807363,45.401011,-122.807363,45.401011],
+  "bbox": [
+    -122.807363,
+    45.401011,
+    -122.807363,
+    45.401011
+],
   "geometry": {"coordinates":[-122.807363,45.401011],"type":"Point"}
 }

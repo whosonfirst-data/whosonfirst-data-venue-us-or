@@ -2,13 +2,14 @@
   "id": 370400801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.694203,45.262895,-122.694203,45.262895",
     "geom:latitude":45.262895,
     "geom:longitude":-122.694203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 N Holly St",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370400801,
-    "wof:lastmodified":1449029420,
+    "wof:lastmodified":1466771516,
     "wof:name":"Canby Police Dept",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-122.694203,45.262895,-122.694203,45.262895],
+  "bbox": [
+    -122.694203,
+    45.262895,
+    -122.694203,
+    45.262895
+],
   "geometry": {"coordinates":[-122.694203,45.262895],"type":"Point"}
 }

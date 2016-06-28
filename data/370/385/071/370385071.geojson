@@ -2,13 +2,14 @@
   "id": 370385071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.110005,44.536156,-123.110005,44.536156",
     "geom:latitude":44.536156,
     "geom:longitude":-123.110005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32727 Hwy 99E",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370385071,
-    "wof:lastmodified":1449031088,
+    "wof:lastmodified":1466771527,
     "wof:name":"AMPAC Seed Co",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seed"
     ]
 },
-  "bbox": [-123.110005,44.536156,-123.110005,44.536156],
+  "bbox": [
+    -123.110005,
+    44.536156,
+    -123.110005,
+    44.536156
+],
   "geometry": {"coordinates":[-123.110005,44.536156],"type":"Point"}
 }

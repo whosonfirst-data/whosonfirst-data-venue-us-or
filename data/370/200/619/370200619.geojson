@@ -2,13 +2,14 @@
   "id": 370200619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.778399,45.486532,-122.778399,45.486532",
     "geom:latitude":45.486532,
     "geom:longitude":-122.778399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 SW Beaverton-Hillsdale Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370200619,
-    "wof:lastmodified":1449030437,
+    "wof:lastmodified":1466768046,
     "wof:name":"Cogent IT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [-122.778399,45.486532,-122.778399,45.486532],
-  "geometry": {"coordinates":[-122.778399,45.486532],"type":"Point"}
+  "bbox": [
+    -122.778399,
+    45.486532,
+    -122.778399,
+    45.486532
+],
+  "geometry": {"coordinates":[-122.77839899999999,45.486532],"type":"Point"}
 }

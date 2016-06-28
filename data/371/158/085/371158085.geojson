@@ -2,13 +2,14 @@
   "id": 371158085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093507,44.048815,-123.093507,44.048815",
     "geom:latitude":44.048815,
     "geom:longitude":-123.093507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 W 10th Ave",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371158085,
-    "wof:lastmodified":1449049752,
+    "wof:lastmodified":1466769832,
     "wof:name":"Jacobs Gallery",
     "wof:parent_id":85877233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-123.093507,44.048815,-123.093507,44.048815],
+  "bbox": [
+    -123.093507,
+    44.048815,
+    -123.093507,
+    44.048815
+],
   "geometry": {"coordinates":[-123.093507,44.048815],"type":"Point"}
 }

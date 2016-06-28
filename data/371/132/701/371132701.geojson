@@ -2,13 +2,14 @@
   "id": 371132701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.927311,46.087549,-122.927311,46.087549",
     "geom:latitude":46.087549,
     "geom:longitude":-122.927311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"546 E B St",
     "sg:city":"Clackamas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371132701,
-    "wof:lastmodified":1449049519,
+    "wof:lastmodified":1466769384,
     "wof:name":"Oregon Medical Laboratories",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-122.927311,46.087549,-122.927311,46.087549],
+  "bbox": [
+    -122.927311,
+    46.087549,
+    -122.927311,
+    46.087549
+],
   "geometry": {"coordinates":[-122.927311,46.087549],"type":"Point"}
 }

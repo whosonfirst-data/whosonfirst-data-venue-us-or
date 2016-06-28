@@ -2,13 +2,14 @@
   "id": 370635965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.926043,45.9826,-123.926043,45.9826",
     "geom:latitude":45.9826,
     "geom:longitude":-123.926043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 S Roosevelt Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370635965,
-    "wof:lastmodified":1449030556,
+    "wof:lastmodified":1466773294,
     "wof:name":"Bell Buoy Seaside",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "prepared"
     ]
 },
-  "bbox": [-123.926043,45.9826,-123.926043,45.9826],
-  "geometry": {"coordinates":[-123.926043,45.9826],"type":"Point"}
+  "bbox": [
+    -123.926043,
+    45.9826,
+    -123.926043,
+    45.9826
+],
+  "geometry": {"coordinates":[-123.92604300000001,45.9826],"type":"Point"}
 }

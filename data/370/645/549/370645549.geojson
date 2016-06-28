@@ -2,13 +2,14 @@
   "id": 370645549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.5161,45.511449,-122.5161,45.511449",
     "geom:latitude":45.511449,
     "geom:longitude":-122.5161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 SE 143rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370645549,
-    "wof:lastmodified":1449029427,
+    "wof:lastmodified":1466773275,
     "wof:name":"Blazing Stitches",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-122.5161,45.511449,-122.5161,45.511449],
-  "geometry": {"coordinates":[-122.5161,45.511449],"type":"Point"}
+  "bbox": [
+    -122.5161,
+    45.511449,
+    -122.5161,
+    45.511449
+],
+  "geometry": {"coordinates":[-122.51609999999999,45.511449],"type":"Point"}
 }

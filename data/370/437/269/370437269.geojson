@@ -2,13 +2,14 @@
   "id": 370437269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.697487,45.524223,-122.697487,45.524223",
     "geom:latitude":45.524223,
     "geom:longitude":-122.697487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 NW 22nd Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370437269,
-    "wof:lastmodified":1449031538,
+    "wof:lastmodified":1466771774,
     "wof:name":"Graphix",
     "wof:parent_id":85867141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-122.697487,45.524223,-122.697487,45.524223],
+  "bbox": [
+    -122.697487,
+    45.524223,
+    -122.697487,
+    45.524223
+],
   "geometry": {"coordinates":[-122.697487,45.524223],"type":"Point"}
 }

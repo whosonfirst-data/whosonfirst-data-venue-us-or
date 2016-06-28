@@ -2,13 +2,14 @@
   "id": 370542507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.909634,45.535909,-122.909634,45.535909",
     "geom:latitude":45.535909,
     "geom:longitude":-122.909634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 NE Vinings Way",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370542507,
-    "wof:lastmodified":1449031732,
+    "wof:lastmodified":1466772491,
     "wof:name":"Seneca Village Apartments",
     "wof:parent_id":85819841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.909634,45.535909,-122.909634,45.535909],
+  "bbox": [
+    -122.909634,
+    45.535909,
+    -122.909634,
+    45.535909
+],
   "geometry": {"coordinates":[-122.909634,45.535909],"type":"Point"}
 }

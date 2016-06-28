@@ -2,13 +2,14 @@
   "id": 354246135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.189456,45.20426,-123.189456,45.20426",
     "geom:latitude":45.20426,
     "geom:longitude":-123.189456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 SE Shady St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354246135,
-    "wof:lastmodified":1449066049,
+    "wof:lastmodified":1466768552,
     "wof:name":"Peasley Merlynn",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.189456,45.20426,-123.189456,45.20426],
-  "geometry": {"coordinates":[-123.189456,45.20426],"type":"Point"}
+  "bbox": [
+    -123.189456,
+    45.20426,
+    -123.189456,
+    45.20426
+],
+  "geometry": {"coordinates":[-123.18945600000001,45.20426],"type":"Point"}
 }

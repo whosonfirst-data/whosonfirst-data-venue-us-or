@@ -2,13 +2,14 @@
   "id": 387937175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.276587,44.574815,-123.276587,44.574815",
     "geom:latitude":44.574815,
     "geom:longitude":-123.276587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 NW 21st St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387937175,
-    "wof:lastmodified":1449056824,
+    "wof:lastmodified":1466775351,
     "wof:name":"Fillmore Inn",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.276587,44.574815,-123.276587,44.574815],
-  "geometry": {"coordinates":[-123.276587,44.574815],"type":"Point"}
+  "bbox": [
+    -123.276587,
+    44.574815,
+    -123.276587,
+    44.574815
+],
+  "geometry": {"coordinates":[-123.27658700000001,44.574815],"type":"Point"}
 }

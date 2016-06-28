@@ -2,13 +2,14 @@
   "id": 370416315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.734288,45.401959,-122.734288,45.401959",
     "geom:latitude":45.401959,
     "geom:longitude":-122.734288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17280 Boones Ferry Rd",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370416315,
-    "wof:lastmodified":1449030621,
+    "wof:lastmodified":1466771752,
     "wof:name":"Turco Engineering Inc",
     "wof:parent_id":85827361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boiler"
     ]
 },
-  "bbox": [-122.734288,45.401959,-122.734288,45.401959],
-  "geometry": {"coordinates":[-122.734288,45.401959],"type":"Point"}
+  "bbox": [
+    -122.734288,
+    45.401959,
+    -122.734288,
+    45.401959
+],
+  "geometry": {"coordinates":[-122.73428800000001,45.401959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387929917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.801026,45.865403,-122.801026,45.865403",
     "geom:latitude":45.865403,
     "geom:longitude":-122.801026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Columbia Blvd",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387929917,
-    "wof:lastmodified":1449057565,
+    "wof:lastmodified":1466775463,
     "wof:name":"Cornerstone",
     "wof:parent_id":85856281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-122.801026,45.865403,-122.801026,45.865403],
-  "geometry": {"coordinates":[-122.801026,45.865403],"type":"Point"}
+  "bbox": [
+    -122.801026,
+    45.865403,
+    -122.801026,
+    45.865403
+],
+  "geometry": {"coordinates":[-122.80102599999999,45.865403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354236771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.69468,45.262405,-122.69468,45.262405",
     "geom:latitude":45.262405,
     "geom:longitude":-122.69468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 NW 1st Ave",
     "sg:city":"Canby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354236771,
-    "wof:lastmodified":1449066117,
+    "wof:lastmodified":1466768366,
     "wof:name":"Dunn & Assoc",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.69468,45.262405,-122.69468,45.262405],
-  "geometry": {"coordinates":[-122.69468,45.262405],"type":"Point"}
+  "bbox": [
+    -122.69468,
+    45.262405,
+    -122.69468,
+    45.262405
+],
+  "geometry": {"coordinates":[-122.69468000000001,45.262405],"type":"Point"}
 }

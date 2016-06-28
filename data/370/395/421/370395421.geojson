@@ -2,13 +2,14 @@
   "id": 370395421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.43419,43.210366,-123.43419,43.210366",
     "geom:latitude":43.210366,
     "geom:longitude":-123.43419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Loredo Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370395421,
-    "wof:lastmodified":1449031972,
+    "wof:lastmodified":1466771579,
     "wof:name":"Steven R Houde Construction",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-123.43419,43.210366,-123.43419,43.210366],
+  "bbox": [
+    -123.43419,
+    43.210366,
+    -123.43419,
+    43.210366
+],
   "geometry": {"coordinates":[-123.43419,43.210366],"type":"Point"}
 }

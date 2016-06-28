@@ -2,13 +2,14 @@
   "id": 354274867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.783301,45.459315,-122.783301,45.459315",
     "geom:latitude":45.459315,
     "geom:longitude":-122.783301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10255 SW Homestead Ln",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354274867,
-    "wof:lastmodified":1449066146,
+    "wof:lastmodified":1466769088,
     "wof:name":"Crossroad Homes",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.783301,45.459315,-122.783301,45.459315],
-  "geometry": {"coordinates":[-122.783301,45.459315],"type":"Point"}
+  "bbox": [
+    -122.783301,
+    45.459315,
+    -122.783301,
+    45.459315
+],
+  "geometry": {"coordinates":[-122.78330099999999,45.459315],"type":"Point"}
 }

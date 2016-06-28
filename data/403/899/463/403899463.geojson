@@ -2,13 +2,14 @@
   "id": 403899463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.316639,44.922732,-123.316639,44.922732",
     "geom:latitude":44.922732,
     "geom:longitude":-123.316639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Main St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403899463,
-    "wof:lastmodified":1449055879,
+    "wof:lastmodified":1466767353,
     "wof:name":"County Dept of Correction",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-123.316639,44.922732,-123.316639,44.922732],
+  "bbox": [
+    -123.316639,
+    44.922732,
+    -123.316639,
+    44.922732
+],
   "geometry": {"coordinates":[-123.316639,44.922732],"type":"Point"}
 }

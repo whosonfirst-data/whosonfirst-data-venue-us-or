@@ -2,13 +2,14 @@
   "id": 387004723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.304852,44.877019,-123.304852,44.877019",
     "geom:latitude":44.877019,
     "geom:longitude":-123.304852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12777 Bursell Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387004723,
-    "wof:lastmodified":1449057489,
+    "wof:lastmodified":1466767206,
     "wof:name":"Freedom Hill Vineyard",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-123.304852,44.877019,-123.304852,44.877019],
+  "bbox": [
+    -123.304852,
+    44.877019,
+    -123.304852,
+    44.877019
+],
   "geometry": {"coordinates":[-123.304852,44.877019],"type":"Point"}
 }

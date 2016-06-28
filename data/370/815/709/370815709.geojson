@@ -2,13 +2,14 @@
   "id": 370815709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.433467,45.493591,-122.433467,45.493591",
     "geom:latitude":45.493591,
     "geom:longitude":-122.433467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 SW 5th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370815709,
-    "wof:lastmodified":1449030732,
+    "wof:lastmodified":1466774173,
     "wof:name":"Nelson Assoc",
     "wof:parent_id":85868961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.433467,45.493591,-122.433467,45.493591],
-  "geometry": {"coordinates":[-122.433467,45.493591],"type":"Point"}
+  "bbox": [
+    -122.433467,
+    45.493591,
+    -122.433467,
+    45.493591
+],
+  "geometry": {"coordinates":[-122.43346699999999,45.493591],"type":"Point"}
 }

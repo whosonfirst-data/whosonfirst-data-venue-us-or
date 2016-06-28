@@ -2,13 +2,14 @@
   "id": 371154633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.010737,45.01129,-123.010737,45.01129",
     "geom:latitude":45.01129,
     "geom:longitude":-123.010737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1454 Manzanita St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371154633,
-    "wof:lastmodified":1449050158,
+    "wof:lastmodified":1466769774,
     "wof:name":"Idaho Air",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-123.010737,45.01129,-123.010737,45.01129],
-  "geometry": {"coordinates":[-123.010737,45.01129],"type":"Point"}
+  "bbox": [
+    -123.010737,
+    45.01129,
+    -123.010737,
+    45.01129
+],
+  "geometry": {"coordinates":[-123.01073700000001,45.01129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370986153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.334365,43.213262,-123.334365,43.213262",
     "geom:latitude":43.213262,
     "geom:longitude":-123.334365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 NE Diamond Lake Blvd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370986153,
-    "wof:lastmodified":1449031823,
+    "wof:lastmodified":1466774976,
     "wof:name":"Douglas Sawmill Supply",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-123.334365,43.213262,-123.334365,43.213262],
-  "geometry": {"coordinates":[-123.334365,43.213262],"type":"Point"}
+  "bbox": [
+    -123.334365,
+    43.213262,
+    -123.334365,
+    43.213262
+],
+  "geometry": {"coordinates":[-123.33436500000001,43.213262],"type":"Point"}
 }

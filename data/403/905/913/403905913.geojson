@@ -2,13 +2,14 @@
   "id": 403905913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.594912,45.330075,-122.594912,45.330075",
     "geom:latitude":45.330075,
     "geom:longitude":-122.594912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19095 Caravatta Ct",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403905913,
-    "wof:lastmodified":1449055162,
+    "wof:lastmodified":1466767464,
     "wof:name":"Tim Goodner Trucking Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.594912,45.330075,-122.594912,45.330075],
-  "geometry": {"coordinates":[-122.594912,45.330075],"type":"Point"}
+  "bbox": [
+    -122.594912,
+    45.330075,
+    -122.594912,
+    45.330075
+],
+  "geometry": {"coordinates":[-122.59491199999999,45.330075],"type":"Point"}
 }

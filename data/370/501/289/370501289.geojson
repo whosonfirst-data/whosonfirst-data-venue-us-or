@@ -2,13 +2,14 @@
   "id": 370501289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.77416,45.085689,-122.77416,45.085689",
     "geom:latitude":45.085689,
     "geom:longitude":-122.77416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14038 Dominic Rd NE",
     "sg:city":"Mount Angel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370501289,
-    "wof:lastmodified":1449032501,
+    "wof:lastmodified":1466772329,
     "wof:name":"Leon Berning Farm",
     "wof:parent_id":85880587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-122.77416,45.085689,-122.77416,45.085689],
-  "geometry": {"coordinates":[-122.77416,45.085689],"type":"Point"}
+  "bbox": [
+    -122.77416,
+    45.085689,
+    -122.77416,
+    45.085689
+],
+  "geometry": {"coordinates":[-122.77415999999999,45.085689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370585181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.151604,44.146882,-123.151604,44.146882",
     "geom:latitude":44.146882,
     "geom:longitude":-123.151604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91580 River Rd",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370585181,
-    "wof:lastmodified":1449031330,
+    "wof:lastmodified":1466773077,
     "wof:name":"Ron Burch",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-123.151604,44.146882,-123.151604,44.146882],
-  "geometry": {"coordinates":[-123.151604,44.146882],"type":"Point"}
+  "bbox": [
+    -123.151604,
+    44.146882,
+    -123.151604,
+    44.146882
+],
+  "geometry": {"coordinates":[-123.15160400000001,44.146882],"type":"Point"}
 }

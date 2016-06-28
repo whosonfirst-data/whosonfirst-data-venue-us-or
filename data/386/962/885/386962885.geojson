@@ -2,13 +2,14 @@
   "id": 386962885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.318975,44.050823,-121.318975,44.050823",
     "geom:latitude":44.050823,
     "geom:longitude":-121.318975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SW Industrial Way",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386962885,
-    "wof:lastmodified":1449028810,
+    "wof:lastmodified":1466767345,
     "wof:name":"Gutter Guys",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.318975,44.050823,-121.318975,44.050823],
-  "geometry": {"coordinates":[-121.318975,44.050823],"type":"Point"}
+  "bbox": [
+    -121.318975,
+    44.050823,
+    -121.318975,
+    44.050823
+],
+  "geometry": {"coordinates":[-121.31897499999999,44.050823],"type":"Point"}
 }

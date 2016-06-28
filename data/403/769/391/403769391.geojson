@@ -2,13 +2,14 @@
   "id": 403769391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.679448,45.51936,-122.679448,45.51936",
     "geom:latitude":45.51936,
     "geom:longitude":-122.679448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 SW Morrison St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403769391,
-    "wof:lastmodified":1449055072,
+    "wof:lastmodified":1466769172,
     "wof:name":"Goldberg McHnic Stewart Gibson",
     "wof:parent_id":85868953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.679448,45.51936,-122.679448,45.51936],
-  "geometry": {"coordinates":[-122.679448,45.51936],"type":"Point"}
+  "bbox": [
+    -122.679448,
+    45.51936,
+    -122.679448,
+    45.51936
+],
+  "geometry": {"coordinates":[-122.67944799999999,45.51936],"type":"Point"}
 }

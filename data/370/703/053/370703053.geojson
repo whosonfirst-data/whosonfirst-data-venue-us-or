@@ -2,13 +2,14 @@
   "id": 370703053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.099576,44.027751,-123.099576,44.027751",
     "geom:latitude":44.027751,
     "geom:longitude":-123.099576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 W 27th Pl",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370703053,
-    "wof:lastmodified":1449030124,
+    "wof:lastmodified":1466773589,
     "wof:name":"New Maxs Tavern",
     "wof:parent_id":85877241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-123.099576,44.027751,-123.099576,44.027751],
+  "bbox": [
+    -123.099576,
+    44.027751,
+    -123.099576,
+    44.027751
+],
   "geometry": {"coordinates":[-123.099576,44.027751],"type":"Point"}
 }

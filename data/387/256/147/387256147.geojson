@@ -2,13 +2,14 @@
   "id": 387256147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.093008,45.520124,-123.093008,45.520124",
     "geom:latitude":45.520124,
     "geom:longitude":-123.093008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 Pacific Ave",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387256147,
-    "wof:lastmodified":1449059003,
+    "wof:lastmodified":1466771649,
     "wof:name":"Happy Valley Restaurant",
     "wof:parent_id":85809561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.093008,45.520124,-123.093008,45.520124],
+  "bbox": [
+    -123.093008,
+    45.520124,
+    -123.093008,
+    45.520124
+],
   "geometry": {"coordinates":[-123.093008,45.520124],"type":"Point"}
 }

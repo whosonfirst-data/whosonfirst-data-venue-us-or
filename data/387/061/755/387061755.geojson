@@ -2,13 +2,14 @@
   "id": 387061755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.485425,43.849883,-121.485425,43.849883",
     "geom:latitude":43.849883,
     "geom:longitude":-121.485425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56421 Celestial Dr",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387061755,
-    "wof:lastmodified":1449058857,
+    "wof:lastmodified":1466768162,
     "wof:name":"Pacific Crest Trees",
     "wof:parent_id":85876197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tree"
     ]
 },
-  "bbox": [-121.485425,43.849883,-121.485425,43.849883],
-  "geometry": {"coordinates":[-121.485425,43.849883],"type":"Point"}
+  "bbox": [
+    -121.485425,
+    43.849883,
+    -121.485425,
+    43.849883
+],
+  "geometry": {"coordinates":[-121.48542500000001,43.849883],"type":"Point"}
 }

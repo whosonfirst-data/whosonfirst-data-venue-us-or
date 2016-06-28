@@ -2,13 +2,14 @@
   "id": 370600853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.84087,45.368502,-122.84087,45.368502",
     "geom:latitude":45.368502,
     "geom:longitude":-122.84087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16004 SW Tualatin Sherwood Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370600853,
-    "wof:lastmodified":1449029398,
+    "wof:lastmodified":1466773050,
     "wof:name":"Powerscreen of Oregon LLC",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-122.84087,45.368502,-122.84087,45.368502],
+  "bbox": [
+    -122.84087,
+    45.368502,
+    -122.84087,
+    45.368502
+],
   "geometry": {"coordinates":[-122.84087,45.368502],"type":"Point"}
 }

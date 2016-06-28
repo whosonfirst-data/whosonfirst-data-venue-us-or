@@ -2,13 +2,14 @@
   "id": 370406725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.675263,45.523159,-122.675263,45.523159",
     "geom:latitude":45.523159,
     "geom:longitude":-122.675263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Burnside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370406725,
-    "wof:lastmodified":1449030888,
+    "wof:lastmodified":1466771806,
     "wof:name":"Grove Hotel",
     "wof:parent_id":85867129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-122.675263,45.523159,-122.675263,45.523159],
+  "bbox": [
+    -122.675263,
+    45.523159,
+    -122.675263,
+    45.523159
+],
   "geometry": {"coordinates":[-122.675263,45.523159],"type":"Point"}
 }

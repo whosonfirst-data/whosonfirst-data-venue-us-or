@@ -2,13 +2,14 @@
   "id": 370202513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.588467,45.413715,-122.588467,45.413715",
     "geom:latitude":45.413715,
     "geom:longitude":-122.588467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7028 SE Renada St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370202513,
-    "wof:lastmodified":1449032032,
+    "wof:lastmodified":1466768078,
     "wof:name":"Ben Fox Inc",
     "wof:parent_id":85821677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.588467,45.413715,-122.588467,45.413715],
-  "geometry": {"coordinates":[-122.588467,45.413715],"type":"Point"}
+  "bbox": [
+    -122.588467,
+    45.413715,
+    -122.588467,
+    45.413715
+],
+  "geometry": {"coordinates":[-122.58846699999999,45.413715],"type":"Point"}
 }

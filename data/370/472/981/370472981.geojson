@@ -2,13 +2,14 @@
   "id": 370472981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.569618,45.566355,-122.569618,45.566355",
     "geom:latitude":45.566355,
     "geom:longitude":-122.569618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8933 NE Marx Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370472981,
-    "wof:lastmodified":1449029352,
+    "wof:lastmodified":1466772156,
     "wof:name":"First Industrial Realty Inc",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.569618,45.566355,-122.569618,45.566355],
-  "geometry": {"coordinates":[-122.569618,45.566355],"type":"Point"}
+  "bbox": [
+    -122.569618,
+    45.566355,
+    -122.569618,
+    45.566355
+],
+  "geometry": {"coordinates":[-122.56961800000001,45.566355],"type":"Point"}
 }

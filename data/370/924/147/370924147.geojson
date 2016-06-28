@@ -2,13 +2,14 @@
   "id": 370924147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.800306,45.666205,-118.800306,45.666205",
     "geom:latitude":45.666205,
     "geom:longitude":-118.800306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 SW Emigrant Ave",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370924147,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1466774790,
     "wof:name":"Macomber's Interior Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "decorator"
     ]
 },
-  "bbox": [-118.800306,45.666205,-118.800306,45.666205],
-  "geometry": {"coordinates":[-118.800306,45.666205],"type":"Point"}
+  "bbox": [
+    -118.800306,
+    45.666205,
+    -118.800306,
+    45.666205
+],
+  "geometry": {"coordinates":[-118.80030600000001,45.666205],"type":"Point"}
 }

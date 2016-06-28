@@ -2,13 +2,14 @@
   "id": 404057967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.579288,45.479417,-122.579288,45.479417",
     "geom:latitude":45.479417,
     "geom:longitude":-122.579288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 SE Woodstock Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404057967,
-    "wof:lastmodified":1449039659,
+    "wof:lastmodified":1466769430,
     "wof:name":"K & S Custom Collision",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-122.579288,45.479417,-122.579288,45.479417],
-  "geometry": {"coordinates":[-122.579288,45.479417],"type":"Point"}
+  "bbox": [
+    -122.579288,
+    45.479417,
+    -122.579288,
+    45.479417
+],
+  "geometry": {"coordinates":[-122.57928800000001,45.479417],"type":"Point"}
 }

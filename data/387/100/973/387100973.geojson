@@ -2,13 +2,14 @@
   "id": 387100973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.049979,45.002884,-123.049979,45.002884",
     "geom:latitude":45.002884,
     "geom:longitude":-123.049979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 Willow Leaf St N",
     "sg:city":"Keizer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387100973,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1466768823,
     "wof:name":"Action Fire & Safety",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-123.049979,45.002884,-123.049979,45.002884],
-  "geometry": {"coordinates":[-123.049979,45.002884],"type":"Point"}
+  "bbox": [
+    -123.049979,
+    45.002884,
+    -123.049979,
+    45.002884
+],
+  "geometry": {"coordinates":[-123.04997899999999,45.002884],"type":"Point"}
 }

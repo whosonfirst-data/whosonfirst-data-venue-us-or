@@ -2,13 +2,14 @@
   "id": 404032331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.356308,44.552977,-123.356308,44.552977",
     "geom:latitude":44.552977,
     "geom:longitude":-123.356308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 N 19th St",
     "sg:city":"Philomath",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404032331,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1466769018,
     "wof:name":"Terrapin Computer",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.356308,44.552977,-123.356308,44.552977],
+  "bbox": [
+    -123.356308,
+    44.552977,
+    -123.356308,
+    44.552977
+],
   "geometry": {"coordinates":[-123.356308,44.552977],"type":"Point"}
 }

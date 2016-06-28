@@ -2,13 +2,14 @@
   "id": 370374547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.763163,45.499103,-122.763163,45.499103",
     "geom:latitude":45.499103,
     "geom:longitude":-122.763163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8235 SW Canyon Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370374547,
-    "wof:lastmodified":1449030561,
+    "wof:lastmodified":1466771297,
     "wof:name":"Design Link",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.763163,45.499103,-122.763163,45.499103],
-  "geometry": {"coordinates":[-122.763163,45.499103],"type":"Point"}
+  "bbox": [
+    -122.763163,
+    45.499103,
+    -122.763163,
+    45.499103
+],
+  "geometry": {"coordinates":[-122.76316300000001,45.499103],"type":"Point"}
 }

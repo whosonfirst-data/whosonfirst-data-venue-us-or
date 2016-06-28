@@ -2,13 +2,14 @@
   "id": 354317899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806081,45.485759,-122.806081,45.485759",
     "geom:latitude":45.485759,
     "geom:longitude":-122.806081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12525 SW 2nd St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354317899,
-    "wof:lastmodified":1449066692,
+    "wof:lastmodified":1466769740,
     "wof:name":"JEI Learning Ctr",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-122.806081,45.485759,-122.806081,45.485759],
-  "geometry": {"coordinates":[-122.806081,45.485759],"type":"Point"}
+  "bbox": [
+    -122.806081,
+    45.485759,
+    -122.806081,
+    45.485759
+],
+  "geometry": {"coordinates":[-122.80608100000001,45.485759],"type":"Point"}
 }

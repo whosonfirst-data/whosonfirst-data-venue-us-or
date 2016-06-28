@@ -2,13 +2,14 @@
   "id": 370961215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.630665,45.535159,-122.630665,45.535159",
     "geom:latitude":45.535159,
     "geom:longitude":-122.630665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 NE Broadway St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370961215,
-    "wof:lastmodified":1449032401,
+    "wof:lastmodified":1466774988,
     "wof:name":"DMW Ventures",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "production"
     ]
 },
-  "bbox": [-122.630665,45.535159,-122.630665,45.535159],
-  "geometry": {"coordinates":[-122.630665,45.535159],"type":"Point"}
+  "bbox": [
+    -122.630665,
+    45.535159,
+    -122.630665,
+    45.535159
+],
+  "geometry": {"coordinates":[-122.63066499999999,45.535159],"type":"Point"}
 }

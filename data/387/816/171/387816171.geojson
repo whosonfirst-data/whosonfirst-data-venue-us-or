@@ -2,13 +2,14 @@
   "id": 387816171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.597313,45.542921,-122.597313,45.542921",
     "geom:latitude":45.542921,
     "geom:longitude":-122.597313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 NE 64th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387816171,
-    "wof:lastmodified":1449058322,
+    "wof:lastmodified":1466775053,
     "wof:name":"Davis Services",
     "wof:parent_id":85893229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.597313,45.542921,-122.597313,45.542921],
+  "bbox": [
+    -122.597313,
+    45.542921,
+    -122.597313,
+    45.542921
+],
   "geometry": {"coordinates":[-122.597313,45.542921],"type":"Point"}
 }

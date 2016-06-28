@@ -2,13 +2,14 @@
   "id": 387843479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.379517,43.209797,-123.379517,43.209797",
     "geom:latitude":43.209797,
     "geom:longitude":-123.379517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 W Crestview Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387843479,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1466775142,
     "wof:name":"FMS Fundraisers & Management",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-123.379517,43.209797,-123.379517,43.209797],
-  "geometry": {"coordinates":[-123.379517,43.209797],"type":"Point"}
+  "bbox": [
+    -123.379517,
+    43.209797,
+    -123.379517,
+    43.209797
+],
+  "geometry": {"coordinates":[-123.37951700000001,43.209797],"type":"Point"}
 }

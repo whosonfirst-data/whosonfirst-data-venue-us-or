@@ -2,13 +2,14 @@
   "id": 403972811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094209,44.09324,-123.094209,44.09324",
     "geom:latitude":44.09324,
     "geom:longitude":-123.094209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Green Acres Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403972811,
-    "wof:lastmodified":1449055309,
+    "wof:lastmodified":1466768665,
     "wof:name":"Ship N' Chek",
     "wof:parent_id":85868977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-123.094209,44.09324,-123.094209,44.09324],
-  "geometry": {"coordinates":[-123.094209,44.09324],"type":"Point"}
+  "bbox": [
+    -123.094209,
+    44.09324,
+    -123.094209,
+    44.09324
+],
+  "geometry": {"coordinates":[-123.09420900000001,44.09324],"type":"Point"}
 }

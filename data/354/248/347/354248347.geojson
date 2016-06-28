@@ -2,13 +2,14 @@
   "id": 354248347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.878121,45.757232,-122.878121,45.757232",
     "geom:latitude":45.757232,
     "geom:longitude":-122.878121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52517 Columbia River Hwy",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354248347,
-    "wof:lastmodified":1449066874,
+    "wof:lastmodified":1466768603,
     "wof:name":"Liquor Store",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-122.878121,45.757232,-122.878121,45.757232],
-  "geometry": {"coordinates":[-122.878121,45.757232],"type":"Point"}
+  "bbox": [
+    -122.878121,
+    45.757232,
+    -122.878121,
+    45.757232
+],
+  "geometry": {"coordinates":[-122.87812099999999,45.757232],"type":"Point"}
 }

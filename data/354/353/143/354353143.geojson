@@ -2,13 +2,14 @@
   "id": 354353143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.616284,45.537848,-122.616284,45.537848",
     "geom:latitude":45.537848,
     "geom:longitude":-122.616284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 NE Tillamook St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354353143,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466770396,
     "wof:name":"Petrina Construction Inc",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-122.616284,45.537848,-122.616284,45.537848],
-  "geometry": {"coordinates":[-122.616284,45.537848],"type":"Point"}
+  "bbox": [
+    -122.616284,
+    45.537848,
+    -122.616284,
+    45.537848
+],
+  "geometry": {"coordinates":[-122.61628399999999,45.537848],"type":"Point"}
 }

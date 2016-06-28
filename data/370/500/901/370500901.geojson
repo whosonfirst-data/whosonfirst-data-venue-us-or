@@ -2,13 +2,14 @@
   "id": 370500901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.557466,45.501725,-122.557466,45.501725",
     "geom:latitude":45.501725,
     "geom:longitude":-122.557466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2754 SE 103rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370500901,
-    "wof:lastmodified":1449029942,
+    "wof:lastmodified":1466772180,
     "wof:name":"Priority Living Res",
     "wof:parent_id":85893243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.557466,45.501725,-122.557466,45.501725],
-  "geometry": {"coordinates":[-122.557466,45.501725],"type":"Point"}
+  "bbox": [
+    -122.557466,
+    45.501725,
+    -122.557466,
+    45.501725
+],
+  "geometry": {"coordinates":[-122.55746600000001,45.501725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387204045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011587,44.71497,-123.011587,44.71497",
     "geom:latitude":44.71497,
     "geom:longitude":-123.011587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S Main St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387204045,
-    "wof:lastmodified":1449060027,
+    "wof:lastmodified":1466770870,
     "wof:name":"Scio News",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-123.011587,44.71497,-123.011587,44.71497],
-  "geometry": {"coordinates":[-123.011587,44.71497],"type":"Point"}
+  "bbox": [
+    -123.011587,
+    44.71497,
+    -123.011587,
+    44.71497
+],
+  "geometry": {"coordinates":[-123.01158700000001,44.71497],"type":"Point"}
 }

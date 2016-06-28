@@ -2,13 +2,14 @@
   "id": 403743593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.272199,45.429199,-117.272199,45.429199",
     "geom:latitude":45.429199,
     "geom:longitude":-117.272199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 NE Garfield St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403743593,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1466768758,
     "wof:name":"Catholic Church St Katherine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-117.272199,45.429199,-117.272199,45.429199],
+  "bbox": [
+    -117.272199,
+    45.429199,
+    -117.272199,
+    45.429199
+],
   "geometry": {"coordinates":[-117.272199,45.429199],"type":"Point"}
 }

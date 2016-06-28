@@ -2,13 +2,14 @@
   "id": 387928147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.022544,44.867082,-123.022544,44.867082",
     "geom:latitude":44.867082,
     "geom:longitude":-123.022544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Madras St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387928147,
-    "wof:lastmodified":1449059395,
+    "wof:lastmodified":1466775403,
     "wof:name":"Madras Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.022544,44.867082,-123.022544,44.867082],
+  "bbox": [
+    -123.022544,
+    44.867082,
+    -123.022544,
+    44.867082
+],
   "geometry": {"coordinates":[-123.022544,44.867082],"type":"Point"}
 }

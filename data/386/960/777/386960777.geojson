@@ -2,13 +2,14 @@
   "id": 386960777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.818092,45.471373,-122.818092,45.471373",
     "geom:latitude":45.471373,
     "geom:longitude":-122.818092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13655 SW 23rd St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386960777,
-    "wof:lastmodified":1449028853,
+    "wof:lastmodified":1466767334,
     "wof:name":"Sunset Janitorial",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-122.818092,45.471373,-122.818092,45.471373],
-  "geometry": {"coordinates":[-122.818092,45.471373],"type":"Point"}
+  "bbox": [
+    -122.818092,
+    45.471373,
+    -122.818092,
+    45.471373
+],
+  "geometry": {"coordinates":[-122.81809199999999,45.471373],"type":"Point"}
 }

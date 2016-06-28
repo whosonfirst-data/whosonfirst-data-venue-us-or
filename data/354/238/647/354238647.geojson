@@ -2,13 +2,14 @@
   "id": 354238647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.116728,44.556953,-123.116728,44.556953",
     "geom:latitude":44.556953,
     "geom:longitude":-123.116728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33300 McFarland Rd",
     "sg:city":"Tangent",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354238647,
-    "wof:lastmodified":1449066552,
+    "wof:lastmodified":1466768408,
     "wof:name":"Forster Sheep Farm",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-123.116728,44.556953,-123.116728,44.556953],
-  "geometry": {"coordinates":[-123.116728,44.556953],"type":"Point"}
+  "bbox": [
+    -123.116728,
+    44.556953,
+    -123.116728,
+    44.556953
+],
+  "geometry": {"coordinates":[-123.11672799999999,44.556953],"type":"Point"}
 }

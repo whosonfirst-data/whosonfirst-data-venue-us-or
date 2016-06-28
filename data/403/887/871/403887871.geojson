@@ -2,13 +2,14 @@
   "id": 403887871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.682159,45.562509,-122.682159,45.562509",
     "geom:latitude":45.562509,
     "geom:longitude":-122.682159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 N Interstate Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403887871,
-    "wof:lastmodified":1449055691,
+    "wof:lastmodified":1466767158,
     "wof:name":"Interstate Special Events",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-122.682159,45.562509,-122.682159,45.562509],
+  "bbox": [
+    -122.682159,
+    45.562509,
+    -122.682159,
+    45.562509
+],
   "geometry": {"coordinates":[-122.682159,45.562509],"type":"Point"}
 }

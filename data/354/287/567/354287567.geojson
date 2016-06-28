@@ -2,13 +2,14 @@
   "id": 354287567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.817123,45.028325,-123.817123,45.028325",
     "geom:latitude":45.028325,
     "geom:longitude":-123.817123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5872 Salmon River Hwy",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354287567,
-    "wof:lastmodified":1449066039,
+    "wof:lastmodified":1466769361,
     "wof:name":"Gene Kay Logging",
     "wof:parent_id":85868979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-123.817123,45.028325,-123.817123,45.028325],
+  "bbox": [
+    -123.817123,
+    45.028325,
+    -123.817123,
+    45.028325
+],
   "geometry": {"coordinates":[-123.817123,45.028325],"type":"Point"}
 }

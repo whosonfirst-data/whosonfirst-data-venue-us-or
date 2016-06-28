@@ -2,13 +2,14 @@
   "id": 404108419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.321689,42.439484,-123.321689,42.439484",
     "geom:latitude":42.439484,
     "geom:longitude":-123.321689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 NE E St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404108419,
-    "wof:lastmodified":1449039110,
+    "wof:lastmodified":1466770760,
     "wof:name":"Logan Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-123.321689,42.439484,-123.321689,42.439484],
-  "geometry": {"coordinates":[-123.321689,42.439484],"type":"Point"}
+  "bbox": [
+    -123.321689,
+    42.439484,
+    -123.321689,
+    42.439484
+],
+  "geometry": {"coordinates":[-123.32168900000001,42.439484],"type":"Point"}
 }

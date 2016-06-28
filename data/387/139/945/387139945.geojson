@@ -2,13 +2,14 @@
   "id": 387139945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.661719,45.535022,-122.661719,45.535022",
     "geom:latitude":45.535022,
     "geom:longitude":-122.661719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 NE M L King Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387139945,
-    "wof:lastmodified":1449056466,
+    "wof:lastmodified":1466769560,
     "wof:name":"WMW Properties",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.661719,45.535022,-122.661719,45.535022],
-  "geometry": {"coordinates":[-122.661719,45.535022],"type":"Point"}
+  "bbox": [
+    -122.661719,
+    45.535022,
+    -122.661719,
+    45.535022
+],
+  "geometry": {"coordinates":[-122.66171900000001,45.535022],"type":"Point"}
 }

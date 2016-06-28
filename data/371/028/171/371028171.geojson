@@ -2,13 +2,14 @@
   "id": 371028171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.325646,42.441642,-123.325646,42.441642",
     "geom:latitude":42.441642,
     "geom:longitude":-123.325646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 NW 6th St",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371028171,
-    "wof:lastmodified":1449049619,
+    "wof:lastmodified":1466767615,
     "wof:name":"American Federation-State Empl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.325646,42.441642,-123.325646,42.441642],
-  "geometry": {"coordinates":[-123.325646,42.441642],"type":"Point"}
+  "bbox": [
+    -123.325646,
+    42.441642,
+    -123.325646,
+    42.441642
+],
+  "geometry": {"coordinates":[-123.32564600000001,42.441642],"type":"Point"}
 }

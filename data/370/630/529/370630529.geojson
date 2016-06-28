@@ -2,13 +2,14 @@
   "id": 370630529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.992236,45.8157,-122.992236,45.8157",
     "geom:latitude":45.8157,
     "geom:longitude":-122.992236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56592 Mollenhour Rd",
     "sg:city":"Scappoose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370630529,
-    "wof:lastmodified":1449030301,
+    "wof:lastmodified":1466773186,
     "wof:name":"Kerns Apartments",
     "wof:parent_id":85850043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.992236,45.8157,-122.992236,45.8157],
-  "geometry": {"coordinates":[-122.992236,45.8157],"type":"Point"}
+  "bbox": [
+    -122.992236,
+    45.8157,
+    -122.992236,
+    45.8157
+],
+  "geometry": {"coordinates":[-122.99223600000001,45.8157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387169231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.953359,45.302086,-122.953359,45.302086",
     "geom:latitude":45.302086,
     "geom:longitude":-122.953359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Elliott Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387169231,
-    "wof:lastmodified":1449058451,
+    "wof:lastmodified":1466770170,
     "wof:name":"Parr Lumber Co",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-122.953359,45.302086,-122.953359,45.302086],
-  "geometry": {"coordinates":[-122.953359,45.302086],"type":"Point"}
+  "bbox": [
+    -122.953359,
+    45.302086,
+    -122.953359,
+    45.302086
+],
+  "geometry": {"coordinates":[-122.95335900000001,45.302086],"type":"Point"}
 }

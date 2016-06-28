@@ -2,13 +2,14 @@
   "id": 404172717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.531259,45.331619,-122.531259,45.331619",
     "geom:latitude":45.331619,
     "geom:longitude":-122.531259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15828 S Thayer Rd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404172717,
-    "wof:lastmodified":1449039520,
+    "wof:lastmodified":1466767638,
     "wof:name":"Antique Motorcycle Works",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"
     ]
 },
-  "bbox": [-122.531259,45.331619,-122.531259,45.331619],
-  "geometry": {"coordinates":[-122.531259,45.331619],"type":"Point"}
+  "bbox": [
+    -122.531259,
+    45.331619,
+    -122.531259,
+    45.331619
+],
+  "geometry": {"coordinates":[-122.53125900000001,45.331619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370651719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.094928,43.974184,-123.094928,43.974184",
     "geom:latitude":43.974184,
     "geom:longitude":-123.094928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31740 Fox Hollow Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370651719,
-    "wof:lastmodified":1449029762,
+    "wof:lastmodified":1466773301,
     "wof:name":"Center For Watershed & Health",
     "wof:parent_id":85877259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-123.094928,43.974184,-123.094928,43.974184],
+  "bbox": [
+    -123.094928,
+    43.974184,
+    -123.094928,
+    43.974184
+],
   "geometry": {"coordinates":[-123.094928,43.974184],"type":"Point"}
 }

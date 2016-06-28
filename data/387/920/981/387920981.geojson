@@ -2,13 +2,14 @@
   "id": 387920981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.804088,45.475379,-122.804088,45.475379",
     "geom:latitude":45.475379,
     "geom:longitude":-122.804088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 SW 124th Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387920981,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1466775365,
     "wof:name":"Bowman Properties",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-122.804088,45.475379,-122.804088,45.475379],
-  "geometry": {"coordinates":[-122.804088,45.475379],"type":"Point"}
+  "bbox": [
+    -122.804088,
+    45.475379,
+    -122.804088,
+    45.475379
+],
+  "geometry": {"coordinates":[-122.80408799999999,45.475379],"type":"Point"}
 }

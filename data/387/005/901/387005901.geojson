@@ -2,13 +2,14 @@
   "id": 387005901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.085015,44.145701,-123.085015,44.145701",
     "geom:latitude":44.145701,
     "geom:longitude":-123.085015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91296 Coburg Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387005901,
-    "wof:lastmodified":1449059610,
+    "wof:lastmodified":1466767228,
     "wof:name":"Leo Christensen",
     "wof:parent_id":85868977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-123.085015,44.145701,-123.085015,44.145701],
+  "bbox": [
+    -123.085015,
+    44.145701,
+    -123.085015,
+    44.145701
+],
   "geometry": {"coordinates":[-123.085015,44.145701],"type":"Point"}
 }

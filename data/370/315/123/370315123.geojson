@@ -2,13 +2,14 @@
   "id": 370315123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.188057,43.175444,-124.188057,43.175444",
     "geom:latitude":43.175444,
     "geom:longitude":-124.188057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 N Adams St",
     "sg:city":"Coquille",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370315123,
-    "wof:lastmodified":1449032289,
+    "wof:lastmodified":1466770119,
     "wof:name":"Community Corrections",
     "wof:parent_id":85818131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-124.188057,43.175444,-124.188057,43.175444],
+  "bbox": [
+    -124.188057,
+    43.175444,
+    -124.188057,
+    43.175444
+],
   "geometry": {"coordinates":[-124.188057,43.175444],"type":"Point"}
 }

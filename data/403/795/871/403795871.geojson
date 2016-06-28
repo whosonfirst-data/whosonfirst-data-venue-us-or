@@ -2,13 +2,14 @@
   "id": 403795871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.749001,45.518732,-122.749001,45.518732",
     "geom:latitude":45.518732,
     "geom:longitude":-122.749001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7030 SW Windemere Loop",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403795871,
-    "wof:lastmodified":1449055433,
+    "wof:lastmodified":1466769567,
     "wof:name":"North Valley Appraisal As",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.749001,45.518732,-122.749001,45.518732],
-  "geometry": {"coordinates":[-122.749001,45.518732],"type":"Point"}
+  "bbox": [
+    -122.749001,
+    45.518732,
+    -122.749001,
+    45.518732
+],
+  "geometry": {"coordinates":[-122.74900100000001,45.518732],"type":"Point"}
 }

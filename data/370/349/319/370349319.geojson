@@ -2,13 +2,14 @@
   "id": 370349319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.613021,45.538256,-122.613021,45.538256",
     "geom:latitude":45.538256,
     "geom:longitude":-122.613021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 NE 49th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370349319,
-    "wof:lastmodified":1449030365,
+    "wof:lastmodified":1466770791,
     "wof:name":"Bob Stone Sales & Leasing",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-122.613021,45.538256,-122.613021,45.538256],
+  "bbox": [
+    -122.613021,
+    45.538256,
+    -122.613021,
+    45.538256
+],
   "geometry": {"coordinates":[-122.613021,45.538256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403810309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.11066,44.006474,-123.11066,44.006474",
     "geom:latitude":44.006474,
     "geom:longitude":-123.11066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Ridgewood Dr",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403810309,
-    "wof:lastmodified":1449055034,
+    "wof:lastmodified":1466769822,
     "wof:name":"Interior Intentions",
     "wof:parent_id":85877231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.11066,44.006474,-123.11066,44.006474],
+  "bbox": [
+    -123.11066,
+    44.006474,
+    -123.11066,
+    44.006474
+],
   "geometry": {"coordinates":[-123.11066,44.006474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403786811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.655616,45.514634,-122.655616,45.514634",
     "geom:latitude":45.514634,
     "geom:longitude":-122.655616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 SE 10th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403786811,
-    "wof:lastmodified":1449054801,
+    "wof:lastmodified":1466769445,
     "wof:name":"Air Filter Sales & Service",
     "wof:parent_id":85816689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "rooms"
     ]
 },
-  "bbox": [-122.655616,45.514634,-122.655616,45.514634],
-  "geometry": {"coordinates":[-122.655616,45.514634],"type":"Point"}
+  "bbox": [
+    -122.655616,
+    45.514634,
+    -122.655616,
+    45.514634
+],
+  "geometry": {"coordinates":[-122.65561599999999,45.514634],"type":"Point"}
 }

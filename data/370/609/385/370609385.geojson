@@ -2,13 +2,14 @@
   "id": 370609385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.654487,45.531643,-122.654487,45.531643",
     "geom:latitude":45.531643,
     "geom:longitude":-122.654487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Lloyd Center",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370609385,
-    "wof:lastmodified":1449030342,
+    "wof:lastmodified":1466773169,
     "wof:name":"Portland Smash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.654487,45.531643,-122.654487,45.531643],
+  "bbox": [
+    -122.654487,
+    45.531643,
+    -122.654487,
+    45.531643
+],
   "geometry": {"coordinates":[-122.654487,45.531643],"type":"Point"}
 }

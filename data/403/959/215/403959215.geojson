@@ -2,13 +2,14 @@
   "id": 403959215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.266633,44.559015,-123.266633,44.559015",
     "geom:latitude":44.559015,
     "geom:longitude":-123.266633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 SW B Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403959215,
-    "wof:lastmodified":1449055835,
+    "wof:lastmodified":1466768423,
     "wof:name":"Red Hat Construction Inc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-123.266633,44.559015,-123.266633,44.559015],
+  "bbox": [
+    -123.266633,
+    44.559015,
+    -123.266633,
+    44.559015
+],
   "geometry": {"coordinates":[-123.266633,44.559015],"type":"Point"}
 }

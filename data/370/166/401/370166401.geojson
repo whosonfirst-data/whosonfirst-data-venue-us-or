@@ -2,13 +2,14 @@
   "id": 370166401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.719982,45.58958,-122.719982,45.58958",
     "geom:latitude":45.58958,
     "geom:longitude":-122.719982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9118 N Hodge Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370166401,
-    "wof:lastmodified":1449030961,
+    "wof:lastmodified":1466767447,
     "wof:name":"Jerry H De Fore Inventory Svc",
     "wof:parent_id":85893225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-122.719982,45.58958,-122.719982,45.58958],
+  "bbox": [
+    -122.719982,
+    45.58958,
+    -122.719982,
+    45.58958
+],
   "geometry": {"coordinates":[-122.719982,45.58958],"type":"Point"}
 }

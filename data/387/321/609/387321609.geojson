@@ -2,13 +2,14 @@
   "id": 387321609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.058301,45.520008,-123.058301,45.520008",
     "geom:latitude":45.520008,
     "geom:longitude":-123.058301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 E Baseline St",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387321609,
-    "wof:lastmodified":1449056208,
+    "wof:lastmodified":1466771900,
     "wof:name":"LA Mazatleca Inc",
     "wof:parent_id":85806439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-123.058301,45.520008,-123.058301,45.520008],
+  "bbox": [
+    -123.058301,
+    45.520008,
+    -123.058301,
+    45.520008
+],
   "geometry": {"coordinates":[-123.058301,45.520008],"type":"Point"}
 }

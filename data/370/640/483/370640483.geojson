@@ -2,13 +2,14 @@
   "id": 370640483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.16173,44.099789,-123.16173,44.099789",
     "geom:latitude":44.099789,
     "geom:longitude":-123.16173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Prairie Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370640483,
-    "wof:lastmodified":1449030561,
+    "wof:lastmodified":1466773225,
     "wof:name":"Premier Distributors Inc",
     "wof:parent_id":85877245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-123.16173,44.099789,-123.16173,44.099789],
-  "geometry": {"coordinates":[-123.16173,44.099789],"type":"Point"}
+  "bbox": [
+    -123.16173,
+    44.099789,
+    -123.16173,
+    44.099789
+],
+  "geometry": {"coordinates":[-123.16173000000001,44.099789],"type":"Point"}
 }

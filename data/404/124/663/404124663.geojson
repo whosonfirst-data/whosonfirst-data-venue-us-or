@@ -2,13 +2,14 @@
   "id": 404124663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584752,45.520301,-122.584752,45.520301",
     "geom:latitude":45.520301,
     "geom:longitude":-122.584752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 SE 76th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404124663,
-    "wof:lastmodified":1449040249,
+    "wof:lastmodified":1466771072,
     "wof:name":"Slavic Baptist Church",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.584752,45.520301,-122.584752,45.520301],
-  "geometry": {"coordinates":[-122.584752,45.520301],"type":"Point"}
+  "bbox": [
+    -122.584752,
+    45.520301,
+    -122.584752,
+    45.520301
+],
+  "geometry": {"coordinates":[-122.58475199999999,45.520301],"type":"Point"}
 }

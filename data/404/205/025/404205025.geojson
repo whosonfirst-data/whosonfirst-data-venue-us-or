@@ -2,13 +2,14 @@
   "id": 404205025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.802603,45.180486,-122.802603,45.180486",
     "geom:latitude":45.180486,
     "geom:longitude":-122.802603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3733 Oakridge Ln",
     "sg:city":"Hubbard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404205025,
-    "wof:lastmodified":1449039833,
+    "wof:lastmodified":1466768196,
     "wof:name":"Snack Express",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-122.802603,45.180486,-122.802603,45.180486],
+  "bbox": [
+    -122.802603,
+    45.180486,
+    -122.802603,
+    45.180486
+],
   "geometry": {"coordinates":[-122.802603,45.180486],"type":"Point"}
 }

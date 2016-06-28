@@ -2,13 +2,14 @@
   "id": 387387893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.047722,44.054127,-123.047722,44.054127",
     "geom:latitude":44.054127,
     "geom:longitude":-123.047722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Kellogg Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387387893,
-    "wof:lastmodified":1449059410,
+    "wof:lastmodified":1466772509,
     "wof:name":"LA Luna Midwifery Svc",
     "wof:parent_id":85877243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-123.047722,44.054127,-123.047722,44.054127],
-  "geometry": {"coordinates":[-123.047722,44.054127],"type":"Point"}
+  "bbox": [
+    -123.047722,
+    44.054127,
+    -123.047722,
+    44.054127
+],
+  "geometry": {"coordinates":[-123.04772199999999,44.054127],"type":"Point"}
 }

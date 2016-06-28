@@ -2,13 +2,14 @@
   "id": 387365569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.79443,44.83014,-122.79443,44.83014",
     "geom:latitude":44.83014,
     "geom:longitude":-122.79443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Center St",
     "sg:city":"Sublimity",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387365569,
-    "wof:lastmodified":1449056719,
+    "wof:lastmodified":1466772244,
     "wof:name":"Hair Works",
     "wof:parent_id":85880593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.79443,44.83014,-122.79443,44.83014],
-  "geometry": {"coordinates":[-122.79443,44.83014],"type":"Point"}
+  "bbox": [
+    -122.79443,
+    44.83014,
+    -122.79443,
+    44.83014
+],
+  "geometry": {"coordinates":[-122.79443000000001,44.83014],"type":"Point"}
 }

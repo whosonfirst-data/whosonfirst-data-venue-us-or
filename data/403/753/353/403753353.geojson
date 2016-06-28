@@ -2,13 +2,14 @@
   "id": 403753353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.762296,45.376868,-122.762296,45.376868",
     "geom:latitude":45.376868,
     "geom:longitude":-122.762296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8325 SW Mohawk St",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403753353,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1466768907,
     "wof:name":"Todd Village",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-122.762296,45.376868,-122.762296,45.376868],
-  "geometry": {"coordinates":[-122.762296,45.376868],"type":"Point"}
+  "bbox": [
+    -122.762296,
+    45.376868,
+    -122.762296,
+    45.376868
+],
+  "geometry": {"coordinates":[-122.76229600000001,45.376868],"type":"Point"}
 }

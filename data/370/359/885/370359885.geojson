@@ -2,13 +2,14 @@
   "id": 370359885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.974916,44.979907,-122.974916,44.979907",
     "geom:latitude":44.979907,
     "geom:longitude":-122.974916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 Satter Dr NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370359885,
-    "wof:lastmodified":1449029018,
+    "wof:lastmodified":1466771008,
     "wof:name":"Mfg Housing Professionals",
     "wof:parent_id":85880591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.974916,44.979907,-122.974916,44.979907],
-  "geometry": {"coordinates":[-122.974916,44.979907],"type":"Point"}
+  "bbox": [
+    -122.974916,
+    44.979907,
+    -122.974916,
+    44.979907
+],
+  "geometry": {"coordinates":[-122.97491599999999,44.979907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370367335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.215989,44.67513,-123.215989,44.67513",
     "geom:latitude":44.67513,
     "geom:longitude":-123.215989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 NE Azalea Dr",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370367335,
-    "wof:lastmodified":1449031073,
+    "wof:lastmodified":1466771157,
     "wof:name":"Kinkos",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "duplicating"
     ]
 },
-  "bbox": [-123.215989,44.67513,-123.215989,44.67513],
-  "geometry": {"coordinates":[-123.215989,44.67513],"type":"Point"}
+  "bbox": [
+    -123.215989,
+    44.67513,
+    -123.215989,
+    44.67513
+],
+  "geometry": {"coordinates":[-123.21598899999999,44.67513],"type":"Point"}
 }

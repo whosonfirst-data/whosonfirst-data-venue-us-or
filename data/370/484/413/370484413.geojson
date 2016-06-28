@@ -2,13 +2,14 @@
   "id": 370484413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.557781,45.553579,-122.557781,45.553579",
     "geom:latitude":45.553579,
     "geom:longitude":-122.557781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10305 NE Skidmore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370484413,
-    "wof:lastmodified":1449032273,
+    "wof:lastmodified":1466772128,
     "wof:name":"Ruthies Rags",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.557781,45.553579,-122.557781,45.553579],
-  "geometry": {"coordinates":[-122.557781,45.553579],"type":"Point"}
+  "bbox": [
+    -122.557781,
+    45.553579,
+    -122.557781,
+    45.553579
+],
+  "geometry": {"coordinates":[-122.55778100000001,45.553579],"type":"Point"}
 }

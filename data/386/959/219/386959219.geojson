@@ -2,13 +2,14 @@
   "id": 386959219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.674948,45.498064,-122.674948,45.498064",
     "geom:latitude":45.498064,
     "geom:longitude":-122.674948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 SW Kelly Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386959219,
-    "wof:lastmodified":1449028948,
+    "wof:lastmodified":1466767315,
     "wof:name":"RMS Publishing",
     "wof:parent_id":85849969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.674948,45.498064,-122.674948,45.498064],
+  "bbox": [
+    -122.674948,
+    45.498064,
+    -122.674948,
+    45.498064
+],
   "geometry": {"coordinates":[-122.674948,45.498064],"type":"Point"}
 }

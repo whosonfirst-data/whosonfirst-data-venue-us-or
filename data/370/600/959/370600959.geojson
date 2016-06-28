@@ -2,13 +2,14 @@
   "id": 370600959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.686732,45.515947,-122.686732,45.515947",
     "geom:latitude":45.515947,
     "geom:longitude":-122.686732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 SW 12th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370600959,
-    "wof:lastmodified":1449029402,
+    "wof:lastmodified":1466773051,
     "wof:name":"ATPA",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-122.686732,45.515947,-122.686732,45.515947],
-  "geometry": {"coordinates":[-122.686732,45.515947],"type":"Point"}
+  "bbox": [
+    -122.686732,
+    45.515947,
+    -122.686732,
+    45.515947
+],
+  "geometry": {"coordinates":[-122.68673200000001,45.515947],"type":"Point"}
 }

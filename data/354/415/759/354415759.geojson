@@ -2,13 +2,14 @@
   "id": 354415759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.584837,45.55155,-122.584837,45.55155",
     "geom:latitude":45.55155,
     "geom:longitude":-122.584837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4027 NE 76th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354415759,
-    "wof:lastmodified":1449067186,
+    "wof:lastmodified":1466767269,
     "wof:name":"Phares Artworks Design",
     "wof:parent_id":85867145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-122.584837,45.55155,-122.584837,45.55155],
-  "geometry": {"coordinates":[-122.584837,45.55155],"type":"Point"}
+  "bbox": [
+    -122.584837,
+    45.55155,
+    -122.584837,
+    45.55155
+],
+  "geometry": {"coordinates":[-122.58483699999999,45.55155],"type":"Point"}
 }

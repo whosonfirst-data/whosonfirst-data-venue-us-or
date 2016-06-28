@@ -2,13 +2,14 @@
   "id": 387091463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.559851,45.363873,-119.559851,45.363873",
     "geom:latitude":45.363873,
     "geom:longitude":-119.559851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Heppner Hwy",
     "sg:city":"Heppner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387091463,
-    "wof:lastmodified":1449056488,
+    "wof:lastmodified":1466768663,
     "wof:name":"Police Services-Dispatch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.559851,45.363873,-119.559851,45.363873],
-  "geometry": {"coordinates":[-119.559851,45.363873],"type":"Point"}
+  "bbox": [
+    -119.559851,
+    45.363873,
+    -119.559851,
+    45.363873
+],
+  "geometry": {"coordinates":[-119.55985099999999,45.363873],"type":"Point"}
 }

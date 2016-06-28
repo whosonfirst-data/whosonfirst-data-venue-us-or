@@ -2,13 +2,14 @@
   "id": 370329729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.590455,45.526536,-122.590455,45.526536",
     "geom:latitude":45.526536,
     "geom:longitude":-122.590455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7055 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370329729,
-    "wof:lastmodified":1449030047,
+    "wof:lastmodified":1466770419,
     "wof:name":"Metro Safety & Fire Inc",
     "wof:parent_id":85871467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-122.590455,45.526536,-122.590455,45.526536],
-  "geometry": {"coordinates":[-122.590455,45.526536],"type":"Point"}
+  "bbox": [
+    -122.590455,
+    45.526536,
+    -122.590455,
+    45.526536
+],
+  "geometry": {"coordinates":[-122.59045500000001,45.526536],"type":"Point"}
 }

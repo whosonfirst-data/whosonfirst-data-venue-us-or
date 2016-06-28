@@ -2,13 +2,14 @@
   "id": 386987611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.93597,45.425107,-123.93597,45.425107",
     "geom:latitude":45.425107,
     "geom:longitude":-123.93597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Fleming Ave W",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386987611,
-    "wof:lastmodified":1449028795,
+    "wof:lastmodified":1466767440,
     "wof:name":"Homesmiths",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-123.93597,45.425107,-123.93597,45.425107],
+  "bbox": [
+    -123.93597,
+    45.425107,
+    -123.93597,
+    45.425107
+],
   "geometry": {"coordinates":[-123.93597,45.425107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387885265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.091389,44.625055,-123.091389,44.625055",
     "geom:latitude":44.625055,
     "geom:longitude":-123.091389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Queen Ave SE",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387885265,
-    "wof:lastmodified":1449058129,
+    "wof:lastmodified":1466775236,
     "wof:name":"Cafe Med Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-123.091389,44.625055,-123.091389,44.625055],
-  "geometry": {"coordinates":[-123.091389,44.625055],"type":"Point"}
+  "bbox": [
+    -123.091389,
+    44.625055,
+    -123.091389,
+    44.625055
+],
+  "geometry": {"coordinates":[-123.09138900000001,44.625055],"type":"Point"}
 }

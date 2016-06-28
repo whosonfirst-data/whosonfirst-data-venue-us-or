@@ -2,13 +2,14 @@
   "id": 403752833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.571475,45.470354,-122.571475,45.470354",
     "geom:latitude":45.470354,
     "geom:longitude":-122.571475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8931 SE Knapp St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403752833,
-    "wof:lastmodified":1449054851,
+    "wof:lastmodified":1466768897,
     "wof:name":"James Homan Paint Contractor",
     "wof:parent_id":85854775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.571475,45.470354,-122.571475,45.470354],
-  "geometry": {"coordinates":[-122.571475,45.470354],"type":"Point"}
+  "bbox": [
+    -122.571475,
+    45.470354,
+    -122.571475,
+    45.470354
+],
+  "geometry": {"coordinates":[-122.57147500000001,45.470354],"type":"Point"}
 }

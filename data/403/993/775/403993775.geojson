@@ -2,13 +2,14 @@
   "id": 403993775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.621209,45.526444,-122.621209,45.526444",
     "geom:latitude":45.526444,
     "geom:longitude":-122.621209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403993775,
-    "wof:lastmodified":1449055219,
+    "wof:lastmodified":1466769034,
     "wof:name":"James Brown & Assoc",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-122.621209,45.526444,-122.621209,45.526444],
-  "geometry": {"coordinates":[-122.621209,45.526444],"type":"Point"}
+  "bbox": [
+    -122.621209,
+    45.526444,
+    -122.621209,
+    45.526444
+],
+  "geometry": {"coordinates":[-122.62120899999999,45.526444],"type":"Point"}
 }

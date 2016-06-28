@@ -2,13 +2,14 @@
   "id": 387970313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.933658,45.501369,-122.933658,45.501369",
     "geom:latitude":45.501369,
     "geom:longitude":-122.933658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 SE 48th Ave",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387970313,
-    "wof:lastmodified":1449059853,
+    "wof:lastmodified":1466775497,
     "wof:name":"Tualatin Valley Wesleyan",
     "wof:parent_id":85858411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.933658,45.501369,-122.933658,45.501369],
-  "geometry": {"coordinates":[-122.933658,45.501369],"type":"Point"}
+  "bbox": [
+    -122.933658,
+    45.501369,
+    -122.933658,
+    45.501369
+],
+  "geometry": {"coordinates":[-122.93365799999999,45.501369],"type":"Point"}
 }

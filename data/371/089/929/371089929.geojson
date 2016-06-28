@@ -2,13 +2,14 @@
   "id": 371089929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.474111,45.52264,-122.474111,45.52264",
     "geom:latitude":45.52264,
     "geom:longitude":-122.474111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18155 NE Couch St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371089929,
-    "wof:lastmodified":1449049250,
+    "wof:lastmodified":1466768630,
     "wof:name":"Rosewood Place Apartments",
     "wof:parent_id":85845549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.474111,45.52264,-122.474111,45.52264],
-  "geometry": {"coordinates":[-122.474111,45.52264],"type":"Point"}
+  "bbox": [
+    -122.474111,
+    45.52264,
+    -122.474111,
+    45.52264
+],
+  "geometry": {"coordinates":[-122.47411099999999,45.52264],"type":"Point"}
 }

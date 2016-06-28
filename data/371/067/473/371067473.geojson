@@ -2,13 +2,14 @@
   "id": 371067473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806058,45.125652,-122.806058,45.125652",
     "geom:latitude":45.125652,
     "geom:longitude":-122.806058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14121 Wilco Hwy NE",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371067473,
-    "wof:lastmodified":1449049104,
+    "wof:lastmodified":1466768266,
     "wof:name":"R & M Logging",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.806058,45.125652,-122.806058,45.125652],
-  "geometry": {"coordinates":[-122.806058,45.125652],"type":"Point"}
+  "bbox": [
+    -122.806058,
+    45.125652,
+    -122.806058,
+    45.125652
+],
+  "geometry": {"coordinates":[-122.80605799999999,45.125652],"type":"Point"}
 }

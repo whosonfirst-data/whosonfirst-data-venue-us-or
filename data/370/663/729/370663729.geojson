@@ -2,13 +2,14 @@
   "id": 370663729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.308237,44.548983,-123.308237,44.548983",
     "geom:latitude":44.548983,
     "geom:longitude":-123.308237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 SW 49th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370663729,
-    "wof:lastmodified":1449031585,
+    "wof:lastmodified":1466773368,
     "wof:name":"Clan Avalon",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "secondary"
     ]
 },
-  "bbox": [-123.308237,44.548983,-123.308237,44.548983],
-  "geometry": {"coordinates":[-123.308237,44.548983],"type":"Point"}
+  "bbox": [
+    -123.308237,
+    44.548983,
+    -123.308237,
+    44.548983
+],
+  "geometry": {"coordinates":[-123.30823700000001,44.548983],"type":"Point"}
 }

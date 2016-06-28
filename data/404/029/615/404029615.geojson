@@ -2,13 +2,14 @@
   "id": 404029615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.768586,45.449217,-122.768586,45.449217",
     "geom:latitude":45.449217,
     "geom:longitude":-122.768586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8735 SW Lehman St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404029615,
-    "wof:lastmodified":1449039543,
+    "wof:lastmodified":1466768969,
     "wof:name":"Bob Samuels Inc",
     "wof:parent_id":85806993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.768586,45.449217,-122.768586,45.449217],
+  "bbox": [
+    -122.768586,
+    45.449217,
+    -122.768586,
+    45.449217
+],
   "geometry": {"coordinates":[-122.768586,45.449217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354300933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.843432,45.357797,-122.843432,45.357797",
     "geom:latitude":45.357797,
     "geom:longitude":-122.843432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 NW Washington St",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354300933,
-    "wof:lastmodified":1449066909,
+    "wof:lastmodified":1466769504,
     "wof:name":"Sherwood City Public Works",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-122.843432,45.357797,-122.843432,45.357797],
-  "geometry": {"coordinates":[-122.843432,45.357797],"type":"Point"}
+  "bbox": [
+    -122.843432,
+    45.357797,
+    -122.843432,
+    45.357797
+],
+  "geometry": {"coordinates":[-122.84343200000001,45.357797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371178669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.612355,45.457437,-122.612355,45.457437",
     "geom:latitude":45.457437,
     "geom:longitude":-122.612355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8815 SE Regents Dr",
     "sg:city":"Milwaukie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371178669,
-    "wof:lastmodified":1449049801,
+    "wof:lastmodified":1466770259,
     "wof:name":"Square Dance Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "caller"
     ]
 },
-  "bbox": [-122.612355,45.457437,-122.612355,45.457437],
-  "geometry": {"coordinates":[-122.612355,45.457437],"type":"Point"}
+  "bbox": [
+    -122.612355,
+    45.457437,
+    -122.612355,
+    45.457437
+],
+  "geometry": {"coordinates":[-122.61235499999999,45.457437],"type":"Point"}
 }

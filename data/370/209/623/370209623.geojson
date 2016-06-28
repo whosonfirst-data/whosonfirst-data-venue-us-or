@@ -2,13 +2,14 @@
   "id": 370209623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.496871,45.256023,-122.496871,45.256023",
     "geom:latitude":45.256023,
     "geom:longitude":-122.496871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18464 S Schuebel Ln",
     "sg:city":"Beavercreek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370209623,
-    "wof:lastmodified":1449032120,
+    "wof:lastmodified":1466768198,
     "wof:name":"Beavercreek Trucking Inc",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-122.496871,45.256023,-122.496871,45.256023],
+  "bbox": [
+    -122.496871,
+    45.256023,
+    -122.496871,
+    45.256023
+],
   "geometry": {"coordinates":[-122.496871,45.256023],"type":"Point"}
 }

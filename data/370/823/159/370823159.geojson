@@ -2,13 +2,14 @@
   "id": 370823159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.226204,45.343852,-123.226204,45.343852",
     "geom:latitude":45.343852,
     "geom:longitude":-123.226204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10670 NW Oak Ridge Rd",
     "sg:city":"Yamhill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370823159,
-    "wof:lastmodified":1449032432,
+    "wof:lastmodified":1466774253,
     "wof:name":"Dayton Meat Company",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "slaughter"
     ]
 },
-  "bbox": [-123.226204,45.343852,-123.226204,45.343852],
+  "bbox": [
+    -123.226204,
+    45.343852,
+    -123.226204,
+    45.343852
+],
   "geometry": {"coordinates":[-123.226204,45.343852],"type":"Point"}
 }

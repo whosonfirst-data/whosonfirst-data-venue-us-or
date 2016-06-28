@@ -2,13 +2,14 @@
   "id": 387335837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652245,45.511176,-122.652245,45.511176",
     "geom:latitude":45.511176,
     "geom:longitude":-122.652245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 SE Ladd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387335837,
-    "wof:lastmodified":1449058618,
+    "wof:lastmodified":1466772141,
     "wof:name":"Architectural Finishes",
     "wof:parent_id":85828991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-122.652245,45.511176,-122.652245,45.511176],
-  "geometry": {"coordinates":[-122.652245,45.511176],"type":"Point"}
+  "bbox": [
+    -122.652245,
+    45.511176,
+    -122.652245,
+    45.511176
+],
+  "geometry": {"coordinates":[-122.65224499999999,45.511176],"type":"Point"}
 }

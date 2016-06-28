@@ -2,13 +2,14 @@
   "id": 370184449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.454929,45.479513,-122.454929,45.479513",
     "geom:latitude":45.479513,
     "geom:longitude":-122.454929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 SW 24th St",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370184449,
-    "wof:lastmodified":1449029660,
+    "wof:lastmodified":1466767761,
     "wof:name":"Wingler Engineering",
     "wof:parent_id":85830789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.454929,45.479513,-122.454929,45.479513],
-  "geometry": {"coordinates":[-122.454929,45.479513],"type":"Point"}
+  "bbox": [
+    -122.454929,
+    45.479513,
+    -122.454929,
+    45.479513
+],
+  "geometry": {"coordinates":[-122.45492900000001,45.479513],"type":"Point"}
 }

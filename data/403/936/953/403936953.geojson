@@ -2,13 +2,14 @@
   "id": 403936953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.820394,45.465616,-122.820394,45.465616",
     "geom:latitude":45.465616,
     "geom:longitude":-122.820394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 SW Danielle Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403936953,
-    "wof:lastmodified":1449055078,
+    "wof:lastmodified":1466768027,
     "wof:name":"Christiana Adult Foster Home",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.820394,45.465616,-122.820394,45.465616],
-  "geometry": {"coordinates":[-122.820394,45.465616],"type":"Point"}
+  "bbox": [
+    -122.820394,
+    45.465616,
+    -122.820394,
+    45.465616
+],
+  "geometry": {"coordinates":[-122.82039399999999,45.465616],"type":"Point"}
 }

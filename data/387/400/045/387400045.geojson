@@ -2,13 +2,14 @@
   "id": 387400045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.665768,45.51311,-122.665768,45.51311",
     "geom:latitude":45.51311,
     "geom:longitude":-122.665768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 SE Water Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387400045,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1466772716,
     "wof:name":"Rose City Messenger Svc Inc",
     "wof:parent_id":85893163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-122.665768,45.51311,-122.665768,45.51311],
+  "bbox": [
+    -122.665768,
+    45.51311,
+    -122.665768,
+    45.51311
+],
   "geometry": {"coordinates":[-122.665768,45.51311],"type":"Point"}
 }

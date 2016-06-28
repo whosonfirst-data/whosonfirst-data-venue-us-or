@@ -2,13 +2,14 @@
   "id": 387270391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.206025,44.223218,-123.206025,44.223218",
     "geom:latitude":44.223218,
     "geom:longitude":-123.206025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Juniper St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387270391,
-    "wof:lastmodified":1449056778,
+    "wof:lastmodified":1466771706,
     "wof:name":"Andy Bennion DDS",
     "wof:parent_id":85827083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-123.206025,44.223218,-123.206025,44.223218],
+  "bbox": [
+    -123.206025,
+    44.223218,
+    -123.206025,
+    44.223218
+],
   "geometry": {"coordinates":[-123.206025,44.223218],"type":"Point"}
 }

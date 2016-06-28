@@ -2,13 +2,14 @@
   "id": 387384149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.10787,43.971053,-124.10787,43.971053",
     "geom:latitude":43.971053,
     "geom:longitude":-124.10787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 Rhododendron Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387384149,
-    "wof:lastmodified":1449056580,
+    "wof:lastmodified":1466772500,
     "wof:name":"David L Clark",
     "wof:parent_id":85837303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-124.10787,43.971053,-124.10787,43.971053],
-  "geometry": {"coordinates":[-124.10787,43.971053],"type":"Point"}
+  "bbox": [
+    -124.10787,
+    43.971053,
+    -124.10787,
+    43.971053
+],
+  "geometry": {"coordinates":[-124.10787000000001,43.971053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387017725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.69666,45.531965,-122.69666,45.531965",
     "geom:latitude":45.531965,
     "geom:longitude":-122.69666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2270 NW Overton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387017725,
-    "wof:lastmodified":1449058132,
+    "wof:lastmodified":1466767424,
     "wof:name":"Overton House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-122.69666,45.531965,-122.69666,45.531965],
-  "geometry": {"coordinates":[-122.69666,45.531965],"type":"Point"}
+  "bbox": [
+    -122.69666,
+    45.531965,
+    -122.69666,
+    45.531965
+],
+  "geometry": {"coordinates":[-122.69665999999999,45.531965],"type":"Point"}
 }

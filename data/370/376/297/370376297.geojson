@@ -2,13 +2,14 @@
   "id": 370376297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.889587,45.206549,-123.889587,45.206549",
     "geom:latitude":45.206549,
     "geom:longitude":-123.889587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34385 Hwy 101 S",
     "sg:city":"Cloverdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370376297,
-    "wof:lastmodified":1449030257,
+    "wof:lastmodified":1466771333,
     "wof:name":"Cloverdale Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.889587,45.206549,-123.889587,45.206549],
-  "geometry": {"coordinates":[-123.889587,45.206549],"type":"Point"}
+  "bbox": [
+    -123.889587,
+    45.206549,
+    -123.889587,
+    45.206549
+],
+  "geometry": {"coordinates":[-123.88958700000001,45.206549],"type":"Point"}
 }

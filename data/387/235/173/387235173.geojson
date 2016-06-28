@@ -2,13 +2,14 @@
   "id": 387235173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.9822,45.529325,-122.9822,45.529325",
     "geom:latitude":45.529325,
     "geom:longitude":-122.9822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 NE Jackson School Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387235173,
-    "wof:lastmodified":1449056753,
+    "wof:lastmodified":1466771452,
     "wof:name":"Heinrich Striping",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-122.9822,45.529325,-122.9822,45.529325],
-  "geometry": {"coordinates":[-122.9822,45.529325],"type":"Point"}
+  "bbox": [
+    -122.9822,
+    45.529325,
+    -122.9822,
+    45.529325
+],
+  "geometry": {"coordinates":[-122.98220000000001,45.529325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387902311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.487929,45.504588,-122.487929,45.504588",
     "geom:latitude":45.504588,
     "geom:longitude":-122.487929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16901 SE Division St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387902311,
-    "wof:lastmodified":1449058923,
+    "wof:lastmodified":1466775216,
     "wof:name":"Turtle Mountain Construction",
     "wof:parent_id":85805545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-122.487929,45.504588,-122.487929,45.504588],
-  "geometry": {"coordinates":[-122.487929,45.504588],"type":"Point"}
+  "bbox": [
+    -122.487929,
+    45.504588,
+    -122.487929,
+    45.504588
+],
+  "geometry": {"coordinates":[-122.48792899999999,45.504588],"type":"Point"}
 }

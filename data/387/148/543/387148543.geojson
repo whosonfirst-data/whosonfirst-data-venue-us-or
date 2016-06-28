@@ -2,13 +2,14 @@
   "id": 387148543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.022376,45.265373,-123.022376,45.265373",
     "geom:latitude":45.265373,
     "geom:longitude":-123.022376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20999 N Hwy 99W",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387148543,
-    "wof:lastmodified":1449059331,
+    "wof:lastmodified":1466769735,
     "wof:name":"Tail Wag-Inn Boarding Kennel",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sitting"
     ]
 },
-  "bbox": [-123.022376,45.265373,-123.022376,45.265373],
-  "geometry": {"coordinates":[-123.022376,45.265373],"type":"Point"}
+  "bbox": [
+    -123.022376,
+    45.265373,
+    -123.022376,
+    45.265373
+],
+  "geometry": {"coordinates":[-123.02237599999999,45.265373],"type":"Point"}
 }

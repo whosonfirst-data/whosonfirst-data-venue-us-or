@@ -2,13 +2,14 @@
   "id": 387722663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.962561,45.303044,-122.962561,45.303044",
     "geom:latitude":45.303044,
     "geom:longitude":-122.962561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Villa Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387722663,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466774550,
     "wof:name":"Sight Shop",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.962561,45.303044,-122.962561,45.303044],
-  "geometry": {"coordinates":[-122.962561,45.303044],"type":"Point"}
+  "bbox": [
+    -122.962561,
+    45.303044,
+    -122.962561,
+    45.303044
+],
+  "geometry": {"coordinates":[-122.96256099999999,45.303044],"type":"Point"}
 }

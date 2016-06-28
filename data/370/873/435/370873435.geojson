@@ -2,13 +2,14 @@
   "id": 370873435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.255845,45.697415,-123.255845,45.697415",
     "geom:latitude":45.697415,
     "geom:longitude":-123.255845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56440 NW Strassel Rd",
     "sg:city":"Forest Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370873435,
-    "wof:lastmodified":1449029800,
+    "wof:lastmodified":1466774394,
     "wof:name":"Larry Applegate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.255845,45.697415,-123.255845,45.697415],
-  "geometry": {"coordinates":[-123.255845,45.697415],"type":"Point"}
+  "bbox": [
+    -123.255845,
+    45.697415,
+    -123.255845,
+    45.697415
+],
+  "geometry": {"coordinates":[-123.25584499999999,45.697415],"type":"Point"}
 }

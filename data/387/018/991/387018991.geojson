@@ -2,13 +2,14 @@
   "id": 387018991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.555242,45.640354,-121.555242,45.640354",
     "geom:latitude":45.640354,
     "geom:longitude":-121.555242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Wyeast Rd",
     "sg:city":"Hood River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387018991,
-    "wof:lastmodified":1449057999,
+    "wof:lastmodified":1466767444,
     "wof:name":"Wy'East Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.555242,45.640354,-121.555242,45.640354],
-  "geometry": {"coordinates":[-121.555242,45.640354],"type":"Point"}
+  "bbox": [
+    -121.555242,
+    45.640354,
+    -121.555242,
+    45.640354
+],
+  "geometry": {"coordinates":[-121.55524200000001,45.640354],"type":"Point"}
 }

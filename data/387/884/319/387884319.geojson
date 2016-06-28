@@ -2,13 +2,14 @@
   "id": 387884319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092777,44.093196,-123.092777,44.093196",
     "geom:latitude":44.093196,
     "geom:longitude":-123.092777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Green Acres Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387884319,
-    "wof:lastmodified":1449059175,
+    "wof:lastmodified":1466775236,
     "wof:name":"Willamette Family Treatment",
     "wof:parent_id":85868977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-123.092777,44.093196,-123.092777,44.093196],
+  "bbox": [
+    -123.092777,
+    44.093196,
+    -123.092777,
+    44.093196
+],
   "geometry": {"coordinates":[-123.092777,44.093196],"type":"Point"}
 }

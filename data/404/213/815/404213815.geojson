@@ -2,13 +2,14 @@
   "id": 404213815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.671976,45.577145,-122.671976,45.577145",
     "geom:latitude":45.577145,
     "geom:longitude":-122.671976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 N Lombard St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404213815,
-    "wof:lastmodified":1449039100,
+    "wof:lastmodified":1466768349,
     "wof:name":"Williams Painting Co",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-122.671976,45.577145,-122.671976,45.577145],
+  "bbox": [
+    -122.671976,
+    45.577145,
+    -122.671976,
+    45.577145
+],
   "geometry": {"coordinates":[-122.671976,45.577145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371120825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.344653,43.300192,-124.344653,43.300192",
     "geom:latitude":43.300192,
     "geom:longitude":-124.344653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62288 Seven Devils Rd",
     "sg:city":"Coos Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371120825,
-    "wof:lastmodified":1449049982,
+    "wof:lastmodified":1466769168,
     "wof:name":"Kurzet Ranch",
     "wof:parent_id":85818067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-124.344653,43.300192,-124.344653,43.300192],
-  "geometry": {"coordinates":[-124.344653,43.300192],"type":"Point"}
+  "bbox": [
+    -124.344653,
+    43.300192,
+    -124.344653,
+    43.300192
+],
+  "geometry": {"coordinates":[-124.34465299999999,43.300192],"type":"Point"}
 }

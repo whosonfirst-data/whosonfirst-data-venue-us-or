@@ -2,13 +2,14 @@
   "id": 354351765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.653983,45.570648,-122.653983,45.570648",
     "geom:latitude":45.570648,
     "geom:longitude":-122.653983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 NE Dean St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354351765,
-    "wof:lastmodified":1449067394,
+    "wof:lastmodified":1466770370,
     "wof:name":"My Glass",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.653983,45.570648,-122.653983,45.570648],
+  "bbox": [
+    -122.653983,
+    45.570648,
+    -122.653983,
+    45.570648
+],
   "geometry": {"coordinates":[-122.653983,45.570648],"type":"Point"}
 }

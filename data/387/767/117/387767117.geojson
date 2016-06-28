@@ -2,13 +2,14 @@
   "id": 387767117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.224629,44.562883,-123.224629,44.562883",
     "geom:latitude":44.562883,
     "geom:longitude":-123.224629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33866 SE Eastgate Cir",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387767117,
-    "wof:lastmodified":1449057185,
+    "wof:lastmodified":1466774936,
     "wof:name":"4s Inc",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.224629,44.562883,-123.224629,44.562883],
-  "geometry": {"coordinates":[-123.224629,44.562883],"type":"Point"}
+  "bbox": [
+    -123.224629,
+    44.562883,
+    -123.224629,
+    44.562883
+],
+  "geometry": {"coordinates":[-123.22462899999999,44.562883],"type":"Point"}
 }

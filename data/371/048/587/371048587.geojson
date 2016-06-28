@@ -2,13 +2,14 @@
   "id": 371048587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.253571,44.591173,-123.253571,44.591173",
     "geom:latitude":44.591173,
     "geom:longitude":-123.253571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371048587,
-    "wof:lastmodified":1449049370,
+    "wof:lastmodified":1466767955,
     "wof:name":"Flower Mill Etc",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-123.253571,44.591173,-123.253571,44.591173],
-  "geometry": {"coordinates":[-123.253571,44.591173],"type":"Point"}
+  "bbox": [
+    -123.253571,
+    44.591173,
+    -123.253571,
+    44.591173
+],
+  "geometry": {"coordinates":[-123.25357099999999,44.591173],"type":"Point"}
 }

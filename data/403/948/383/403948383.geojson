@@ -2,13 +2,14 @@
   "id": 403948383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.301206,44.545847,-123.301206,44.545847",
     "geom:latitude":44.545847,
     "geom:longitude":-123.301206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2613 SW 45th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403948383,
-    "wof:lastmodified":1449055684,
+    "wof:lastmodified":1466768228,
     "wof:name":"Kickstart For New Bus Inttives",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.301206,44.545847,-123.301206,44.545847],
-  "geometry": {"coordinates":[-123.301206,44.545847],"type":"Point"}
+  "bbox": [
+    -123.301206,
+    44.545847,
+    -123.301206,
+    44.545847
+],
+  "geometry": {"coordinates":[-123.30120599999999,44.545847],"type":"Point"}
 }

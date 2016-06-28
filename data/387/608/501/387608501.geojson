@@ -2,13 +2,14 @@
   "id": 387608501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.50624,45.519992,-122.50624,45.519992",
     "geom:latitude":45.519992,
     "geom:longitude":-122.50624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 SE 153rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387608501,
-    "wof:lastmodified":1449057736,
+    "wof:lastmodified":1466773980,
     "wof:name":"Loren Clevenger",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-122.50624,45.519992,-122.50624,45.519992],
-  "geometry": {"coordinates":[-122.50624,45.519992],"type":"Point"}
+  "bbox": [
+    -122.50624,
+    45.519992,
+    -122.50624,
+    45.519992
+],
+  "geometry": {"coordinates":[-122.50624000000001,45.519992],"type":"Point"}
 }

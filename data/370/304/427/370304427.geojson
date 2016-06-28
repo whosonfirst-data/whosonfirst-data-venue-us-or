@@ -2,13 +2,14 @@
   "id": 370304427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.028191,45.017565,-123.028191,45.017565",
     "geom:latitude":45.017565,
     "geom:longitude":-123.028191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6986 Fenwick Ct N",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370304427,
-    "wof:lastmodified":1449031615,
+    "wof:lastmodified":1466769889,
     "wof:name":"Little Shoppe Around Corner",
     "wof:parent_id":85811241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.028191,45.017565,-123.028191,45.017565],
-  "geometry": {"coordinates":[-123.028191,45.017565],"type":"Point"}
+  "bbox": [
+    -123.028191,
+    45.017565,
+    -123.028191,
+    45.017565
+],
+  "geometry": {"coordinates":[-123.02819100000001,45.017565],"type":"Point"}
 }

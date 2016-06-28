@@ -2,13 +2,14 @@
   "id": 370946921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.141307,45.143979,-123.141307,45.143979",
     "geom:latitude":45.143979,
     "geom:longitude":-123.141307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15651 SE Woodland Heights Rd",
     "sg:city":"Amity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370946921,
-    "wof:lastmodified":1449032068,
+    "wof:lastmodified":1466774835,
     "wof:name":"Weather Information Systems",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-123.141307,45.143979,-123.141307,45.143979],
+  "bbox": [
+    -123.141307,
+    45.143979,
+    -123.141307,
+    45.143979
+],
   "geometry": {"coordinates":[-123.141307,45.143979],"type":"Point"}
 }

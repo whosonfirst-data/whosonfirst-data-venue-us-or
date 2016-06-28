@@ -2,13 +2,14 @@
   "id": 387743089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.092829,44.041337,-123.092829,44.041337",
     "geom:latitude":44.041337,
     "geom:longitude":-123.092829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1668 Willamette St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387743089,
-    "wof:lastmodified":1449059897,
+    "wof:lastmodified":1466774654,
     "wof:name":"Dot Dotson's",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finishing"
     ]
 },
-  "bbox": [-123.092829,44.041337,-123.092829,44.041337],
-  "geometry": {"coordinates":[-123.092829,44.041337],"type":"Point"}
+  "bbox": [
+    -123.092829,
+    44.041337,
+    -123.092829,
+    44.041337
+],
+  "geometry": {"coordinates":[-123.09282899999999,44.041337],"type":"Point"}
 }

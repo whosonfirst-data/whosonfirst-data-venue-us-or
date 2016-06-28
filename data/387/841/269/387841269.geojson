@@ -2,13 +2,14 @@
   "id": 387841269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.773334,45.303034,-122.773334,45.303034",
     "geom:latitude":45.303034,
     "geom:longitude":-122.773334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9475 Wilsonville Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387841269,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1466775139,
     "wof:name":"John Ludlow Realty",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.773334,45.303034,-122.773334,45.303034],
-  "geometry": {"coordinates":[-122.773334,45.303034],"type":"Point"}
+  "bbox": [
+    -122.773334,
+    45.303034,
+    -122.773334,
+    45.303034
+],
+  "geometry": {"coordinates":[-122.77333400000001,45.303034],"type":"Point"}
 }

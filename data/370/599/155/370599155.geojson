@@ -2,13 +2,14 @@
   "id": 370599155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.571148,45.146211,-122.571148,45.146211",
     "geom:latitude":45.146211,
     "geom:longitude":-122.571148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 E Main St",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370599155,
-    "wof:lastmodified":1449030667,
+    "wof:lastmodified":1466773039,
     "wof:name":"Paul J Puffer DDS",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-122.571148,45.146211,-122.571148,45.146211],
-  "geometry": {"coordinates":[-122.571148,45.146211],"type":"Point"}
+  "bbox": [
+    -122.571148,
+    45.146211,
+    -122.571148,
+    45.146211
+],
+  "geometry": {"coordinates":[-122.57114799999999,45.146211],"type":"Point"}
 }

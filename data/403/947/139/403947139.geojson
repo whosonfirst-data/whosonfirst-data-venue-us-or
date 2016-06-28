@@ -2,13 +2,14 @@
   "id": 403947139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.566167,45.519127,-122.566167,45.519127",
     "geom:latitude":45.519127,
     "geom:longitude":-122.566167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9415 SE Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403947139,
-    "wof:lastmodified":1449055572,
+    "wof:lastmodified":1466768207,
     "wof:name":"M Bank",
     "wof:parent_id":85846461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.566167,45.519127,-122.566167,45.519127],
-  "geometry": {"coordinates":[-122.566167,45.519127],"type":"Point"}
+  "bbox": [
+    -122.566167,
+    45.519127,
+    -122.566167,
+    45.519127
+],
+  "geometry": {"coordinates":[-122.56616699999999,45.519127],"type":"Point"}
 }

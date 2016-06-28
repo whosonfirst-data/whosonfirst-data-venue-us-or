@@ -2,13 +2,14 @@
   "id": 370336639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.811952,45.464249,-122.811952,45.464249",
     "geom:latitude":45.464249,
     "geom:longitude":-122.811952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 SW 131st Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370336639,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1466770529,
     "wof:name":"W&R Entrprses Trdgtal Commerce",
     "wof:parent_id":85818901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.811952,45.464249,-122.811952,45.464249],
-  "geometry": {"coordinates":[-122.811952,45.464249],"type":"Point"}
+  "bbox": [
+    -122.811952,
+    45.464249,
+    -122.811952,
+    45.464249
+],
+  "geometry": {"coordinates":[-122.81195200000001,45.464249],"type":"Point"}
 }

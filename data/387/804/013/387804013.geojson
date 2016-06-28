@@ -2,13 +2,14 @@
   "id": 387804013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.674368,45.508773,-122.674368,45.508773",
     "geom:latitude":45.508773,
     "geom:longitude":-122.674368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2178 SW Harbor Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387804013,
-    "wof:lastmodified":1449058760,
+    "wof:lastmodified":1466775006,
     "wof:name":"Terry Consulting",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-122.674368,45.508773,-122.674368,45.508773],
+  "bbox": [
+    -122.674368,
+    45.508773,
+    -122.674368,
+    45.508773
+],
   "geometry": {"coordinates":[-122.674368,45.508773],"type":"Point"}
 }

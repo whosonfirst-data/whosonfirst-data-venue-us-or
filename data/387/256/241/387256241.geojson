@@ -2,13 +2,14 @@
   "id": 387256241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.253701,44.12024,-121.253701,44.12024",
     "geom:latitude":44.12024,
     "geom:longitude":-121.253701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63845 Deschutes Market Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387256241,
-    "wof:lastmodified":1449059005,
+    "wof:lastmodified":1466771649,
     "wof:name":"Mayes Construction",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.253701,44.12024,-121.253701,44.12024],
-  "geometry": {"coordinates":[-121.253701,44.12024],"type":"Point"}
+  "bbox": [
+    -121.253701,
+    44.12024,
+    -121.253701,
+    44.12024
+],
+  "geometry": {"coordinates":[-121.25370100000001,44.12024],"type":"Point"}
 }

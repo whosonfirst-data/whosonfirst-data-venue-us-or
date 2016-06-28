@@ -2,13 +2,14 @@
   "id": 387366925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.111675,44.62831,-123.111675,44.62831",
     "geom:latitude":44.62831,
     "geom:longitude":-123.111675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Maple St SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387366925,
-    "wof:lastmodified":1449058884,
+    "wof:lastmodified":1466772263,
     "wof:name":"Mbe Properties LLC",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.111675,44.62831,-123.111675,44.62831],
-  "geometry": {"coordinates":[-123.111675,44.62831],"type":"Point"}
+  "bbox": [
+    -123.111675,
+    44.62831,
+    -123.111675,
+    44.62831
+],
+  "geometry": {"coordinates":[-123.11167500000001,44.62831],"type":"Point"}
 }

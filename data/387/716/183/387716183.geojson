@@ -2,13 +2,14 @@
   "id": 387716183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.649403,45.480103,-122.649403,45.480103",
     "geom:latitude":45.480103,
     "geom:longitude":-122.649403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 SE Milwaukie Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387716183,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466774713,
     "wof:name":"North Star Inspections Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-122.649403,45.480103,-122.649403,45.480103],
-  "geometry": {"coordinates":[-122.649403,45.480103],"type":"Point"}
+  "bbox": [
+    -122.649403,
+    45.480103,
+    -122.649403,
+    45.480103
+],
+  "geometry": {"coordinates":[-122.64940300000001,45.480103],"type":"Point"}
 }

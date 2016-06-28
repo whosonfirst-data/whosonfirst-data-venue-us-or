@@ -2,13 +2,14 @@
   "id": 370868107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.650473,45.548057,-122.650473,45.548057",
     "geom:latitude":45.548057,
     "geom:longitude":-122.650473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 NE 15th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370868107,
-    "wof:lastmodified":1449029222,
+    "wof:lastmodified":1466774493,
     "wof:name":"Push",
     "wof:parent_id":85893235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-122.650473,45.548057,-122.650473,45.548057],
-  "geometry": {"coordinates":[-122.650473,45.548057],"type":"Point"}
+  "bbox": [
+    -122.650473,
+    45.548057,
+    -122.650473,
+    45.548057
+],
+  "geometry": {"coordinates":[-122.65047300000001,45.548057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370639517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.082126,44.045517,-123.082126,44.045517",
     "geom:latitude":44.045517,
     "geom:longitude":-123.082126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hilyard St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370639517,
-    "wof:lastmodified":1449032451,
+    "wof:lastmodified":1466773131,
     "wof:name":"Oregon Medical Group PC",
     "wof:parent_id":85877267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-123.082126,44.045517,-123.082126,44.045517],
+  "bbox": [
+    -123.082126,
+    44.045517,
+    -123.082126,
+    44.045517
+],
   "geometry": {"coordinates":[-123.082126,44.045517],"type":"Point"}
 }

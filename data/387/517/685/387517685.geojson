@@ -2,13 +2,14 @@
   "id": 387517685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.02858,44.964259,-123.02858,44.964259",
     "geom:latitude":44.964259,
     "geom:longitude":-123.02858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 Broadway St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387517685,
-    "wof:lastmodified":1449058282,
+    "wof:lastmodified":1466773363,
     "wof:name":"Human Resources Investigations",
     "wof:parent_id":85880577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-123.02858,44.964259,-123.02858,44.964259],
-  "geometry": {"coordinates":[-123.02858,44.964259],"type":"Point"}
+  "bbox": [
+    -123.02858,
+    44.964259,
+    -123.02858,
+    44.964259
+],
+  "geometry": {"coordinates":[-123.02858000000001,44.964259],"type":"Point"}
 }

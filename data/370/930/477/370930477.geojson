@@ -2,13 +2,14 @@
   "id": 370930477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.263522,44.573235,-123.263522,44.573235",
     "geom:latitude":44.573235,
     "geom:longitude":-123.263522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NW 9th St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370930477,
-    "wof:lastmodified":1449030179,
+    "wof:lastmodified":1466774742,
     "wof:name":"Tom & Huck's Barbeque",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-123.263522,44.573235,-123.263522,44.573235],
-  "geometry": {"coordinates":[-123.263522,44.573235],"type":"Point"}
+  "bbox": [
+    -123.263522,
+    44.573235,
+    -123.263522,
+    44.573235
+],
+  "geometry": {"coordinates":[-123.26352199999999,44.573235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370276033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.658594,45.524248,-122.658594,45.524248",
     "geom:latitude":45.524248,
     "geom:longitude":-122.658594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 NE 7th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370276033,
-    "wof:lastmodified":1449029190,
+    "wof:lastmodified":1466769377,
     "wof:name":"Inter Works LLC",
     "wof:parent_id":85893203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.658594,45.524248,-122.658594,45.524248],
-  "geometry": {"coordinates":[-122.658594,45.524248],"type":"Point"}
+  "bbox": [
+    -122.658594,
+    45.524248,
+    -122.658594,
+    45.524248
+],
+  "geometry": {"coordinates":[-122.65859399999999,45.524248],"type":"Point"}
 }

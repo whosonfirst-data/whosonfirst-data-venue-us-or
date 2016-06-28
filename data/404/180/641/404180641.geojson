@@ -2,13 +2,14 @@
   "id": 404180641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.381869,43.240495,-123.381869,43.240495",
     "geom:latitude":43.240495,
     "geom:longitude":-123.381869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2823 NW Kline St",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404180641,
-    "wof:lastmodified":1449039117,
+    "wof:lastmodified":1466767777,
     "wof:name":"Melrose Store",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-123.381869,43.240495,-123.381869,43.240495],
-  "geometry": {"coordinates":[-123.381869,43.240495],"type":"Point"}
+  "bbox": [
+    -123.381869,
+    43.240495,
+    -123.381869,
+    43.240495
+],
+  "geometry": {"coordinates":[-123.38186899999999,43.240495],"type":"Point"}
 }

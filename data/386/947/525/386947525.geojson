@@ -2,13 +2,14 @@
   "id": 386947525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.962724,45.302643,-122.962724,45.302643",
     "geom:latitude":45.302643,
     "geom:longitude":-122.962724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Villa Rd",
     "sg:city":"Newberg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386947525,
-    "wof:lastmodified":1449028864,
+    "wof:lastmodified":1466767256,
     "wof:name":"Villa Medical Clinic",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-122.962724,45.302643,-122.962724,45.302643],
-  "geometry": {"coordinates":[-122.962724,45.302643],"type":"Point"}
+  "bbox": [
+    -122.962724,
+    45.302643,
+    -122.962724,
+    45.302643
+],
+  "geometry": {"coordinates":[-122.96272399999999,45.302643],"type":"Point"}
 }

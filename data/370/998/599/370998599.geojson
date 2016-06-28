@@ -2,13 +2,14 @@
   "id": 370998599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.760118,45.384531,-122.760118,45.384531",
     "geom:latitude":45.384531,
     "geom:longitude":-122.760118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18662 SW Boones Ferry Rd",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370998599,
-    "wof:lastmodified":1449030216,
+    "wof:lastmodified":1466775000,
     "wof:name":"In Touch Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.760118,45.384531,-122.760118,45.384531],
-  "geometry": {"coordinates":[-122.760118,45.384531],"type":"Point"}
+  "bbox": [
+    -122.760118,
+    45.384531,
+    -122.760118,
+    45.384531
+],
+  "geometry": {"coordinates":[-122.76011800000001,45.384531],"type":"Point"}
 }

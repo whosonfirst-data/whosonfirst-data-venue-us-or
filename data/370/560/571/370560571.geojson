@@ -2,13 +2,14 @@
   "id": 370560571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.401289,45.476659,-122.401289,45.476659",
     "geom:latitude":45.476659,
     "geom:longitude":-122.401289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 SE Hillyard Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370560571,
-    "wof:lastmodified":1449031682,
+    "wof:lastmodified":1466772764,
     "wof:name":"Springwater Church of Nazarene",
     "wof:parent_id":85868961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.401289,45.476659,-122.401289,45.476659],
-  "geometry": {"coordinates":[-122.401289,45.476659],"type":"Point"}
+  "bbox": [
+    -122.401289,
+    45.476659,
+    -122.401289,
+    45.476659
+],
+  "geometry": {"coordinates":[-122.40128900000001,45.476659],"type":"Point"}
 }

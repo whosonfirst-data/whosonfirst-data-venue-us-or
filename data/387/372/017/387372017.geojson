@@ -2,13 +2,14 @@
   "id": 387372017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.395432,43.137256,-123.395432,43.137256",
     "geom:latitude":43.137256,
     "geom:longitude":-123.395432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Rolling Hills Rd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387372017,
-    "wof:lastmodified":1449058414,
+    "wof:lastmodified":1466772294,
     "wof:name":"CRC Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-123.395432,43.137256,-123.395432,43.137256],
+  "bbox": [
+    -123.395432,
+    43.137256,
+    -123.395432,
+    43.137256
+],
   "geometry": {"coordinates":[-123.395432,43.137256],"type":"Point"}
 }

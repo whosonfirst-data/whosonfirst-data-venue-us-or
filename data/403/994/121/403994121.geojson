@@ -2,13 +2,14 @@
   "id": 403994121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.326481,43.212897,-123.326481,43.212897",
     "geom:latitude":43.212897,
     "geom:longitude":-123.326481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 NE Diamond Lake Blvd",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403994121,
-    "wof:lastmodified":1449054690,
+    "wof:lastmodified":1466769042,
     "wof:name":"Graphic Dimensions Inc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "offset"
     ]
 },
-  "bbox": [-123.326481,43.212897,-123.326481,43.212897],
+  "bbox": [
+    -123.326481,
+    43.212897,
+    -123.326481,
+    43.212897
+],
   "geometry": {"coordinates":[-123.326481,43.212897],"type":"Point"}
 }

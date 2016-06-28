@@ -2,13 +2,14 @@
   "id": 403822201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.228766,45.346008,-122.228766,45.346008",
     "geom:latitude":45.346008,
     "geom:longitude":-122.228766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41887 SE Pagh Rd",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403822201,
-    "wof:lastmodified":1449055911,
+    "wof:lastmodified":1466770144,
     "wof:name":"Bruck Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.228766,45.346008,-122.228766,45.346008],
-  "geometry": {"coordinates":[-122.228766,45.346008],"type":"Point"}
+  "bbox": [
+    -122.228766,
+    45.346008,
+    -122.228766,
+    45.346008
+],
+  "geometry": {"coordinates":[-122.22876599999999,45.346008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387515217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.222056,45.190529,-123.222056,45.190529",
     "geom:latitude":45.190529,
     "geom:longitude":-123.222056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 SW Old Sheridan Rd",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387515217,
-    "wof:lastmodified":1449056989,
+    "wof:lastmodified":1466773340,
     "wof:name":"Cozine Creek Apartments",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-123.222056,45.190529,-123.222056,45.190529],
-  "geometry": {"coordinates":[-123.222056,45.190529],"type":"Point"}
+  "bbox": [
+    -123.222056,
+    45.190529,
+    -123.222056,
+    45.190529
+],
+  "geometry": {"coordinates":[-123.22205599999999,45.190529],"type":"Point"}
 }

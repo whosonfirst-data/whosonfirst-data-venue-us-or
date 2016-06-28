@@ -2,13 +2,14 @@
   "id": 403877093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.691493,45.566838,-122.691493,45.566838",
     "geom:latitude":45.566838,
     "geom:longitude":-122.691493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6217 N Boston Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403877093,
-    "wof:lastmodified":1449055543,
+    "wof:lastmodified":1466771291,
     "wof:name":"L & A Janitorial Housecleaning",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-122.691493,45.566838,-122.691493,45.566838],
-  "geometry": {"coordinates":[-122.691493,45.566838],"type":"Point"}
+  "bbox": [
+    -122.691493,
+    45.566838,
+    -122.691493,
+    45.566838
+],
+  "geometry": {"coordinates":[-122.69149299999999,45.566838],"type":"Point"}
 }

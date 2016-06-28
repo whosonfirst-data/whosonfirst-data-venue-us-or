@@ -2,13 +2,14 @@
   "id": 387240041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.654188,45.561147,-122.654188,45.561147",
     "geom:latitude":45.561147,
     "geom:longitude":-122.654188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 NE Roselawn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387240041,
-    "wof:lastmodified":1449056505,
+    "wof:lastmodified":1466771551,
     "wof:name":"Will Davenport",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-122.654188,45.561147,-122.654188,45.561147],
+  "bbox": [
+    -122.654188,
+    45.561147,
+    -122.654188,
+    45.561147
+],
   "geometry": {"coordinates":[-122.654188,45.561147],"type":"Point"}
 }

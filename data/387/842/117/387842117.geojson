@@ -2,13 +2,14 @@
   "id": 387842117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.531633,45.516654,-122.531633,45.516654",
     "geom:latitude":45.516654,
     "geom:longitude":-122.531633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"738 SE 128th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387842117,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1466775138,
     "wof:name":"Forever Friends",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-122.531633,45.516654,-122.531633,45.516654],
+  "bbox": [
+    -122.531633,
+    45.516654,
+    -122.531633,
+    45.516654
+],
   "geometry": {"coordinates":[-122.531633,45.516654],"type":"Point"}
 }

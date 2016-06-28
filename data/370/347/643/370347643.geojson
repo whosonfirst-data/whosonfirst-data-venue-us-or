@@ -2,13 +2,14 @@
   "id": 370347643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.62207,45.53509,-122.62207,45.53509",
     "geom:latitude":45.53509,
     "geom:longitude":-122.62207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4036 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370347643,
-    "wof:lastmodified":1449030731,
+    "wof:lastmodified":1466770754,
     "wof:name":"Michael Heenan Appraisal",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-122.62207,45.53509,-122.62207,45.53509],
-  "geometry": {"coordinates":[-122.62207,45.53509],"type":"Point"}
+  "bbox": [
+    -122.62207,
+    45.53509,
+    -122.62207,
+    45.53509
+],
+  "geometry": {"coordinates":[-122.62206999999999,45.53509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370623095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.552676,45.544543,-122.552676,45.544543",
     "geom:latitude":45.544543,
     "geom:longitude":-122.552676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10643 NE Siskiyou St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370623095,
-    "wof:lastmodified":1449031462,
+    "wof:lastmodified":1466773152,
     "wof:name":"Building Blocks Child Care",
     "wof:parent_id":85868989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-122.552676,45.544543,-122.552676,45.544543],
-  "geometry": {"coordinates":[-122.552676,45.544543],"type":"Point"}
+  "bbox": [
+    -122.552676,
+    45.544543,
+    -122.552676,
+    45.544543
+],
+  "geometry": {"coordinates":[-122.55267600000001,45.544543],"type":"Point"}
 }

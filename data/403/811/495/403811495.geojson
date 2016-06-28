@@ -2,13 +2,14 @@
   "id": 403811495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.77505,45.471023,-122.77505,45.471023",
     "geom:latitude":45.471023,
     "geom:longitude":-122.77505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 SW Scholls Ferry Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403811495,
-    "wof:lastmodified":1449055273,
+    "wof:lastmodified":1466769845,
     "wof:name":"Nathan H Jones Consulting",
     "wof:parent_id":85857585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-122.77505,45.471023,-122.77505,45.471023],
-  "geometry": {"coordinates":[-122.77505,45.471023],"type":"Point"}
+  "bbox": [
+    -122.77505,
+    45.471023,
+    -122.77505,
+    45.471023
+],
+  "geometry": {"coordinates":[-122.77504999999999,45.471023],"type":"Point"}
 }

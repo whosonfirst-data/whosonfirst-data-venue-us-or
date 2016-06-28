@@ -2,13 +2,14 @@
   "id": 387669327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.64974,42.169316,-123.64974,42.169316",
     "geom:latitude":42.169316,
     "geom:longitude":-123.64974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 W River St",
     "sg:city":"Cave Junction",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387669327,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1466774327,
     "wof:name":"St Patrick's Church Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-123.64974,42.169316,-123.64974,42.169316],
-  "geometry": {"coordinates":[-123.64974,42.169316],"type":"Point"}
+  "bbox": [
+    -123.64974,
+    42.169316,
+    -123.64974,
+    42.169316
+],
+  "geometry": {"coordinates":[-123.64973999999999,42.169316],"type":"Point"}
 }

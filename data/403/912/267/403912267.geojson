@@ -2,13 +2,14 @@
   "id": 403912267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.5897,45.344306,-122.5897,45.344306",
     "geom:latitude":45.344306,
     "geom:longitude":-122.5897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13449 Jason Lee Dr",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403912267,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1466767575,
     "wof:name":"Barclay Hills Duplexes",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.5897,45.344306,-122.5897,45.344306],
-  "geometry": {"coordinates":[-122.5897,45.344306],"type":"Point"}
+  "bbox": [
+    -122.5897,
+    45.344306,
+    -122.5897,
+    45.344306
+],
+  "geometry": {"coordinates":[-122.58969999999999,45.344306],"type":"Point"}
 }

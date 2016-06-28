@@ -2,13 +2,14 @@
   "id": 387906203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.596776,45.351332,-122.596776,45.351332",
     "geom:latitude":45.351332,
     "geom:longitude":-122.596776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Molalla Ave",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387906203,
-    "wof:lastmodified":1449057551,
+    "wof:lastmodified":1466775233,
     "wof:name":"Oregon City Vacuum Ctr",
     "wof:parent_id":85839949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-122.596776,45.351332,-122.596776,45.351332],
-  "geometry": {"coordinates":[-122.596776,45.351332],"type":"Point"}
+  "bbox": [
+    -122.596776,
+    45.351332,
+    -122.596776,
+    45.351332
+],
+  "geometry": {"coordinates":[-122.59677600000001,45.351332],"type":"Point"}
 }

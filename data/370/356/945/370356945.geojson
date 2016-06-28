@@ -2,13 +2,14 @@
   "id": 370356945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.256321,44.570848,-123.256321,44.570848",
     "geom:latitude":44.570848,
     "geom:longitude":-123.256321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 NE 2nd St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370356945,
-    "wof:lastmodified":1449031872,
+    "wof:lastmodified":1466770949,
     "wof:name":"Corvallis Internal Medicine",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-123.256321,44.570848,-123.256321,44.570848],
+  "bbox": [
+    -123.256321,
+    44.570848,
+    -123.256321,
+    44.570848
+],
   "geometry": {"coordinates":[-123.256321,44.570848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354315211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.123341,43.690505,-124.123341,43.690505",
     "geom:latitude":43.690505,
     "geom:longitude":-124.123341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Scott St",
     "sg:city":"Reedsport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354315211,
-    "wof:lastmodified":1449067586,
+    "wof:lastmodified":1466769706,
     "wof:name":"ZTM Tile",
     "wof:parent_id":85839421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-124.123341,43.690505,-124.123341,43.690505],
+  "bbox": [
+    -124.123341,
+    43.690505,
+    -124.123341,
+    43.690505
+],
   "geometry": {"coordinates":[-124.123341,43.690505],"type":"Point"}
 }

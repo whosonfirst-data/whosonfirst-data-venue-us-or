@@ -2,13 +2,14 @@
   "id": 404167531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.594535,45.564641,-122.594535,45.564641",
     "geom:latitude":45.564641,
     "geom:longitude":-122.594535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6680 NE Portland Hwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404167531,
-    "wof:lastmodified":1449039724,
+    "wof:lastmodified":1466767543,
     "wof:name":"One Two Three",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-122.594535,45.564641,-122.594535,45.564641],
-  "geometry": {"coordinates":[-122.594535,45.564641],"type":"Point"}
+  "bbox": [
+    -122.594535,
+    45.564641,
+    -122.594535,
+    45.564641
+],
+  "geometry": {"coordinates":[-122.59453499999999,45.564641],"type":"Point"}
 }

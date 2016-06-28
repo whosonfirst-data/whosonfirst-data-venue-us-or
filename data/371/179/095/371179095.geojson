@@ -2,13 +2,14 @@
   "id": 371179095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.06946,44.911429,-123.06946,44.911429",
     "geom:latitude":44.911429,
     "geom:longitude":-123.06946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Golf Course Rd S",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371179095,
-    "wof:lastmodified":1449050023,
+    "wof:lastmodified":1466770267,
     "wof:name":"Valley Therapeutic",
     "wof:parent_id":85880599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-123.06946,44.911429,-123.06946,44.911429],
-  "geometry": {"coordinates":[-123.06946,44.911429],"type":"Point"}
+  "bbox": [
+    -123.06946,
+    44.911429,
+    -123.06946,
+    44.911429
+],
+  "geometry": {"coordinates":[-123.06946000000001,44.911429],"type":"Point"}
 }

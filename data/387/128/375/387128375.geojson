@@ -2,13 +2,14 @@
   "id": 387128375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.269326,44.568633,-123.269326,44.568633",
     "geom:latitude":44.568633,
     "geom:longitude":-123.269326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 NW Van Buren Ave",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387128375,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1466769335,
     "wof:name":"Paradise Waits",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-123.269326,44.568633,-123.269326,44.568633],
-  "geometry": {"coordinates":[-123.269326,44.568633],"type":"Point"}
+  "bbox": [
+    -123.269326,
+    44.568633,
+    -123.269326,
+    44.568633
+],
+  "geometry": {"coordinates":[-123.26932600000001,44.568633],"type":"Point"}
 }

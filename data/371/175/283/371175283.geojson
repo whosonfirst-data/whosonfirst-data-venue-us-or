@@ -2,13 +2,14 @@
   "id": 371175283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.110419,44.029366,-121.110419,44.029366",
     "geom:latitude":44.029366,
     "geom:longitude":-121.110419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24175 Dodds Rd",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371175283,
-    "wof:lastmodified":1449049782,
+    "wof:lastmodified":1466770190,
     "wof:name":"Frank Lee",
     "wof:parent_id":85876201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-121.110419,44.029366,-121.110419,44.029366],
-  "geometry": {"coordinates":[-121.110419,44.029366],"type":"Point"}
+  "bbox": [
+    -121.110419,
+    44.029366,
+    -121.110419,
+    44.029366
+],
+  "geometry": {"coordinates":[-121.11041899999999,44.029366],"type":"Point"}
 }

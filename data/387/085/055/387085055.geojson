@@ -2,13 +2,14 @@
   "id": 387085055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.037079,44.940848,-123.037079,44.940848",
     "geom:latitude":44.940848,
     "geom:longitude":-123.037079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Court St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387085055,
-    "wof:lastmodified":1449057056,
+    "wof:lastmodified":1466768560,
     "wof:name":"Salem Business Journal",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-123.037079,44.940848,-123.037079,44.940848],
-  "geometry": {"coordinates":[-123.037079,44.940848],"type":"Point"}
+  "bbox": [
+    -123.037079,
+    44.940848,
+    -123.037079,
+    44.940848
+],
+  "geometry": {"coordinates":[-123.03707900000001,44.940848],"type":"Point"}
 }

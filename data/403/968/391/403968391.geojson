@@ -2,13 +2,14 @@
   "id": 403968391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.074089,44.08595,-123.074089,44.08595",
     "geom:latitude":44.08595,
     "geom:longitude":-123.074089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Providence St",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403968391,
-    "wof:lastmodified":1449054717,
+    "wof:lastmodified":1466768586,
     "wof:name":"Irish Echo",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-123.074089,44.08595,-123.074089,44.08595],
+  "bbox": [
+    -123.074089,
+    44.08595,
+    -123.074089,
+    44.08595
+],
   "geometry": {"coordinates":[-123.074089,44.08595],"type":"Point"}
 }

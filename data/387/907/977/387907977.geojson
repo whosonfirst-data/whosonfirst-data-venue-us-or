@@ -2,13 +2,14 @@
   "id": 387907977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.99635,45.528022,-122.99635,45.528022",
     "geom:latitude":45.528022,
     "geom:longitude":-122.99635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 NW Garibaldi St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387907977,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1466775308,
     "wof:name":"Pope's Painting",
     "wof:parent_id":85831955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-122.99635,45.528022,-122.99635,45.528022],
-  "geometry": {"coordinates":[-122.99635,45.528022],"type":"Point"}
+  "bbox": [
+    -122.99635,
+    45.528022,
+    -122.99635,
+    45.528022
+],
+  "geometry": {"coordinates":[-122.99635000000001,45.528022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387404403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.694397,45.479835,-122.694397,45.479835",
     "geom:latitude":45.479835,
     "geom:longitude":-122.694397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 SW Sunset Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387404403,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1466772642,
     "wof:name":"Air Cargo International",
     "wof:parent_id":85867149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-122.694397,45.479835,-122.694397,45.479835],
+  "bbox": [
+    -122.694397,
+    45.479835,
+    -122.694397,
+    45.479835
+],
   "geometry": {"coordinates":[-122.694397,45.479835],"type":"Point"}
 }

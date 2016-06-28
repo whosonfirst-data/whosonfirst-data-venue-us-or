@@ -2,13 +2,14 @@
   "id": 371168393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.418017,45.505397,-122.418017,45.505397",
     "geom:latitude":45.505397,
     "geom:longitude":-122.418017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 NE Burnside Rd",
     "sg:city":"Gresham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371168393,
-    "wof:lastmodified":1449049581,
+    "wof:lastmodified":1466770032,
     "wof:name":"Diversion Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-122.418017,45.505397,-122.418017,45.505397],
-  "geometry": {"coordinates":[-122.418017,45.505397],"type":"Point"}
+  "bbox": [
+    -122.418017,
+    45.505397,
+    -122.418017,
+    45.505397
+],
+  "geometry": {"coordinates":[-122.41801700000001,45.505397],"type":"Point"}
 }

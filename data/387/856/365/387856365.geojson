@@ -2,13 +2,14 @@
   "id": 387856365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.07407,44.079457,-123.07407,44.079457",
     "geom:latitude":44.079457,
     "geom:longitude":-123.07407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 Willakenzie Rd",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387856365,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466775183,
     "wof:name":"Poppies Salon",
     "wof:parent_id":85877227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-123.07407,44.079457,-123.07407,44.079457],
-  "geometry": {"coordinates":[-123.07407,44.079457],"type":"Point"}
+  "bbox": [
+    -123.07407,
+    44.079457,
+    -123.07407,
+    44.079457
+],
+  "geometry": {"coordinates":[-123.07407000000001,44.079457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387351397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.634826,45.509867,-122.634826,45.509867",
     "geom:latitude":45.509867,
     "geom:longitude":-122.634826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 SE 30th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387351397,
-    "wof:lastmodified":1449059354,
+    "wof:lastmodified":1466772251,
     "wof:name":"Dev In Willamette Valley",
     "wof:parent_id":85893171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.634826,45.509867,-122.634826,45.509867],
+  "bbox": [
+    -122.634826,
+    45.509867,
+    -122.634826,
+    45.509867
+],
   "geometry": {"coordinates":[-122.634826,45.509867],"type":"Point"}
 }

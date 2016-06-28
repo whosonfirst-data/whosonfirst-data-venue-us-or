@@ -2,13 +2,14 @@
   "id": 403885039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.126944,44.034903,-123.126944,44.034903",
     "geom:latitude":44.034903,
     "geom:longitude":-123.126944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 Orr Ln",
     "sg:city":"Eugene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403885039,
-    "wof:lastmodified":1449055351,
+    "wof:lastmodified":1466771414,
     "wof:name":"Nowsville Communications",
     "wof:parent_id":85877239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-123.126944,44.034903,-123.126944,44.034903],
-  "geometry": {"coordinates":[-123.126944,44.034903],"type":"Point"}
+  "bbox": [
+    -123.126944,
+    44.034903,
+    -123.126944,
+    44.034903
+],
+  "geometry": {"coordinates":[-123.12694399999999,44.034903],"type":"Point"}
 }

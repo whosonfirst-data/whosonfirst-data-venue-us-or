@@ -2,13 +2,14 @@
   "id": 370403131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.011137,44.699128,-123.011137,44.699128",
     "geom:latitude":44.699128,
     "geom:longitude":-123.011137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17711 Weddle Rd SE",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370403131,
-    "wof:lastmodified":1449031992,
+    "wof:lastmodified":1466771523,
     "wof:name":"Jason Laube Farms",
     "wof:parent_id":85880605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.011137,44.699128,-123.011137,44.699128],
-  "geometry": {"coordinates":[-123.011137,44.699128],"type":"Point"}
+  "bbox": [
+    -123.011137,
+    44.699128,
+    -123.011137,
+    44.699128
+],
+  "geometry": {"coordinates":[-123.01113700000001,44.699128],"type":"Point"}
 }

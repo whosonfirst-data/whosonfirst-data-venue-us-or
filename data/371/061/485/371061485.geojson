@@ -2,13 +2,14 @@
   "id": 371061485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.10572,44.635457,-123.10572,44.635457",
     "geom:latitude":44.635457,
     "geom:longitude":-123.10572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Ellsworth St SW",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371061485,
-    "wof:lastmodified":1449049811,
+    "wof:lastmodified":1466768168,
     "wof:name":"Umpqua Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-123.10572,44.635457,-123.10572,44.635457],
-  "geometry": {"coordinates":[-123.10572,44.635457],"type":"Point"}
+  "bbox": [
+    -123.10572,
+    44.635457,
+    -123.10572,
+    44.635457
+],
+  "geometry": {"coordinates":[-123.10572000000001,44.635457],"type":"Point"}
 }

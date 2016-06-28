@@ -2,13 +2,14 @@
   "id": 403905755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.676223,45.492355,-122.676223,45.492355",
     "geom:latitude":45.492355,
     "geom:longitude":-122.676223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 SW Bancroft St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403905755,
-    "wof:lastmodified":1449055164,
+    "wof:lastmodified":1466767462,
     "wof:name":"Interchurch Center",
     "wof:parent_id":85849969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-122.676223,45.492355,-122.676223,45.492355],
-  "geometry": {"coordinates":[-122.676223,45.492355],"type":"Point"}
+  "bbox": [
+    -122.676223,
+    45.492355,
+    -122.676223,
+    45.492355
+],
+  "geometry": {"coordinates":[-122.67622299999999,45.492355],"type":"Point"}
 }

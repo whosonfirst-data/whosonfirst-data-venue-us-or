@@ -2,13 +2,14 @@
   "id": 370465249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.028633,44.921249,-123.028633,44.921249",
     "geom:latitude":44.921249,
     "geom:longitude":-123.028633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Rural Ave SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370465249,
-    "wof:lastmodified":1449031352,
+    "wof:lastmodified":1466771981,
     "wof:name":"BAM Tool & Saw",
     "wof:parent_id":85843165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "saw"
     ]
 },
-  "bbox": [-123.028633,44.921249,-123.028633,44.921249],
+  "bbox": [
+    -123.028633,
+    44.921249,
+    -123.028633,
+    44.921249
+],
   "geometry": {"coordinates":[-123.028633,44.921249],"type":"Point"}
 }

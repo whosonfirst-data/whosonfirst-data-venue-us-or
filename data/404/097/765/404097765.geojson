@@ -2,13 +2,14 @@
   "id": 404097765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.62512,45.404139,-122.62512,45.404139",
     "geom:latitude":45.404139,
     "geom:longitude":-122.62512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 SE Vineyard Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404097765,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466770468,
     "wof:name":"AP Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-122.62512,45.404139,-122.62512,45.404139],
+  "bbox": [
+    -122.62512,
+    45.404139,
+    -122.62512,
+    45.404139
+],
   "geometry": {"coordinates":[-122.62512,45.404139],"type":"Point"}
 }

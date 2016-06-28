@@ -2,13 +2,14 @@
   "id": 370447233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.291823,44.034252,-121.291823,44.034252",
     "geom:latitude":44.034252,
     "geom:longitude":-121.291823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61530 American Ln",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370447233,
-    "wof:lastmodified":1449031472,
+    "wof:lastmodified":1466771833,
     "wof:name":"Feed Barn",
     "wof:parent_id":85876207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-121.291823,44.034252,-121.291823,44.034252],
-  "geometry": {"coordinates":[-121.291823,44.034252],"type":"Point"}
+  "bbox": [
+    -121.291823,
+    44.034252,
+    -121.291823,
+    44.034252
+],
+  "geometry": {"coordinates":[-121.29182299999999,44.034252],"type":"Point"}
 }

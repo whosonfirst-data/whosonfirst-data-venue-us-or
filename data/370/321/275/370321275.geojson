@@ -2,13 +2,14 @@
   "id": 370321275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.695257,45.472883,-122.695257,45.472883",
     "geom:latitude":45.472883,
     "geom:longitude":-122.695257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 SW Bertha Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370321275,
-    "wof:lastmodified":1449029144,
+    "wof:lastmodified":1466770247,
     "wof:name":"Portland Motor Coaches Inc",
     "wof:parent_id":85867149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-122.695257,45.472883,-122.695257,45.472883],
+  "bbox": [
+    -122.695257,
+    45.472883,
+    -122.695257,
+    45.472883
+],
   "geometry": {"coordinates":[-122.695257,45.472883],"type":"Point"}
 }

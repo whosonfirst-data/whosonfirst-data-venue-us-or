@@ -2,13 +2,14 @@
   "id": 387949791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.758271,45.375392,-122.758271,45.375392",
     "geom:latitude":45.375392,
     "geom:longitude":-122.758271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 SW Sagert St",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387949791,
-    "wof:lastmodified":1449058464,
+    "wof:lastmodified":1466775457,
     "wof:name":"Dee Tee Enterprises",
     "wof:parent_id":85836337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.758271,45.375392,-122.758271,45.375392],
-  "geometry": {"coordinates":[-122.758271,45.375392],"type":"Point"}
+  "bbox": [
+    -122.758271,
+    45.375392,
+    -122.758271,
+    45.375392
+],
+  "geometry": {"coordinates":[-122.75827099999999,45.375392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403841303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.806125,45.487073,-122.806125,45.487073",
     "geom:latitude":45.487073,
     "geom:longitude":-122.806125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4589 SW Watson Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403841303,
-    "wof:lastmodified":1449054916,
+    "wof:lastmodified":1466770619,
     "wof:name":"Speed Zone",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.806125,45.487073,-122.806125,45.487073],
-  "geometry": {"coordinates":[-122.806125,45.487073],"type":"Point"}
+  "bbox": [
+    -122.806125,
+    45.487073,
+    -122.806125,
+    45.487073
+],
+  "geometry": {"coordinates":[-122.80612499999999,45.487073],"type":"Point"}
 }

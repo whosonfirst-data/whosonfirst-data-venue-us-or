@@ -2,13 +2,14 @@
   "id": 387270325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.014002,44.933535,-123.014002,44.933535",
     "geom:latitude":44.933535,
     "geom:longitude":-123.014002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 State St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387270325,
-    "wof:lastmodified":1449056778,
+    "wof:lastmodified":1466771705,
     "wof:name":"Mediatrix Telecom",
     "wof:parent_id":85880603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-123.014002,44.933535,-123.014002,44.933535],
+  "bbox": [
+    -123.014002,
+    44.933535,
+    -123.014002,
+    44.933535
+],
   "geometry": {"coordinates":[-123.014002,44.933535],"type":"Point"}
 }

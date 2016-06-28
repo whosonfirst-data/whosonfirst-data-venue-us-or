@@ -2,13 +2,14 @@
   "id": 370760717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.01072,44.956685,-123.01072,44.956685",
     "geom:latitude":44.956685,
     "geom:longitude":-123.01072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 17th St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370760717,
-    "wof:lastmodified":1449032344,
+    "wof:lastmodified":1466773860,
     "wof:name":"Oregon St Salem Armry Adtrm",
     "wof:parent_id":85868971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-123.01072,44.956685,-123.01072,44.956685],
-  "geometry": {"coordinates":[-123.01072,44.956685],"type":"Point"}
+  "bbox": [
+    -123.01072,
+    44.956685,
+    -123.01072,
+    44.956685
+],
+  "geometry": {"coordinates":[-123.01072000000001,44.956685],"type":"Point"}
 }

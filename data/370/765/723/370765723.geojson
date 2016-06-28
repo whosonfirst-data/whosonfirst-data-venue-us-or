@@ -2,13 +2,14 @@
   "id": 370765723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.296653,44.591642,-123.296653,44.591642",
     "geom:latitude":44.591642,
     "geom:longitude":-123.296653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4074 NW Walnut Ct",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370765723,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1466773898,
     "wof:name":"Window Seat",
     "wof:parent_id":85837171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.296653,44.591642,-123.296653,44.591642],
-  "geometry": {"coordinates":[-123.296653,44.591642],"type":"Point"}
+  "bbox": [
+    -123.296653,
+    44.591642,
+    -123.296653,
+    44.591642
+],
+  "geometry": {"coordinates":[-123.29665300000001,44.591642],"type":"Point"}
 }

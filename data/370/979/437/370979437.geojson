@@ -2,13 +2,14 @@
   "id": 370979437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581319,45.271352,-122.581319,45.271352",
     "geom:latitude":45.271352,
     "geom:longitude":-122.581319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14412 S Carus Rd",
     "sg:city":"Oregon City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370979437,
-    "wof:lastmodified":1449031474,
+    "wof:lastmodified":1466775046,
     "wof:name":"Carus Elementary School",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-122.581319,45.271352,-122.581319,45.271352],
-  "geometry": {"coordinates":[-122.581319,45.271352],"type":"Point"}
+  "bbox": [
+    -122.581319,
+    45.271352,
+    -122.581319,
+    45.271352
+],
+  "geometry": {"coordinates":[-122.58131899999999,45.271352],"type":"Point"}
 }

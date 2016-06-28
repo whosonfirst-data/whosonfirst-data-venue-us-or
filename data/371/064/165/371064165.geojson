@@ -2,13 +2,14 @@
   "id": 371064165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.31902,42.457945,-123.31902,42.457945",
     "geom:latitude":42.457945,
     "geom:longitude":-123.31902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 NE Hillcrest Dr",
     "sg:city":"Grants Pass",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371064165,
-    "wof:lastmodified":1449049384,
+    "wof:lastmodified":1466768211,
     "wof:name":"M C Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-123.31902,42.457945,-123.31902,42.457945],
-  "geometry": {"coordinates":[-123.31902,42.457945],"type":"Point"}
+  "bbox": [
+    -123.31902,
+    42.457945,
+    -123.31902,
+    42.457945
+],
+  "geometry": {"coordinates":[-123.31901999999999,42.457945],"type":"Point"}
 }

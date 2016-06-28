@@ -2,13 +2,14 @@
   "id": 387252823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.390752,45.93547,-118.390752,45.93547",
     "geom:latitude":45.93547,
     "geom:longitude":-118.390752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Milton Freewater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387252823,
-    "wof:lastmodified":1449056607,
+    "wof:lastmodified":1466771764,
     "wof:name":"Mc Loughlin High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.390752,45.93547,-118.390752,45.93547],
-  "geometry": {"coordinates":[-118.390752,45.93547],"type":"Point"}
+  "bbox": [
+    -118.390752,
+    45.93547,
+    -118.390752,
+    45.93547
+],
+  "geometry": {"coordinates":[-118.39075200000001,45.93547],"type":"Point"}
 }

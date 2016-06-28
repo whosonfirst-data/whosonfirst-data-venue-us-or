@@ -2,13 +2,14 @@
   "id": 371166419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.366514,45.001501,-123.366514,45.001501",
     "geom:latitude":45.001501,
     "geom:longitude":-123.366514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Hart Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371166419,
-    "wof:lastmodified":1449049644,
+    "wof:lastmodified":1466769993,
     "wof:name":"Hamview Ranch",
     "wof:parent_id":85817819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-123.366514,45.001501,-123.366514,45.001501],
+  "bbox": [
+    -123.366514,
+    45.001501,
+    -123.366514,
+    45.001501
+],
   "geometry": {"coordinates":[-123.366514,45.001501],"type":"Point"}
 }

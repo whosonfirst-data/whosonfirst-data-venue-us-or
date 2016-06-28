@@ -2,13 +2,14 @@
   "id": 370604171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.371544,43.238248,-123.371544,43.238248",
     "geom:latitude":43.238248,
     "geom:longitude":-123.371544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 NW Medical Park Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370604171,
-    "wof:lastmodified":1449032084,
+    "wof:lastmodified":1466773146,
     "wof:name":"Timothy J Powell MD",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.371544,43.238248,-123.371544,43.238248],
+  "bbox": [
+    -123.371544,
+    43.238248,
+    -123.371544,
+    43.238248
+],
   "geometry": {"coordinates":[-123.371544,43.238248],"type":"Point"}
 }

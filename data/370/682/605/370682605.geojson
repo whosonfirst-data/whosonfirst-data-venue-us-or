@@ -2,13 +2,14 @@
   "id": 370682605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.314268,44.050213,-121.314268,44.050213",
     "geom:latitude":44.050213,
     "geom:longitude":-121.314268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 SW Industrial Way",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370682605,
-    "wof:lastmodified":1449029679,
+    "wof:lastmodified":1466773467,
     "wof:name":"High Desert Beverage Dist",
     "wof:parent_id":85876205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-121.314268,44.050213,-121.314268,44.050213],
+  "bbox": [
+    -121.314268,
+    44.050213,
+    -121.314268,
+    44.050213
+],
   "geometry": {"coordinates":[-121.314268,44.050213],"type":"Point"}
 }

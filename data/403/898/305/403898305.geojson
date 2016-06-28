@@ -2,13 +2,14 @@
   "id": 403898305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.015474,44.046097,-123.015474,44.046097",
     "geom:latitude":44.046097,
     "geom:longitude":-123.015474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403898305,
-    "wof:lastmodified":1449054601,
+    "wof:lastmodified":1466767333,
     "wof:name":"Siuslaw Inc",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-123.015474,44.046097,-123.015474,44.046097],
+  "bbox": [
+    -123.015474,
+    44.046097,
+    -123.015474,
+    44.046097
+],
   "geometry": {"coordinates":[-123.015474,44.046097],"type":"Point"}
 }

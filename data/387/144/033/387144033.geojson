@@ -2,13 +2,14 @@
   "id": 387144033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.652425,45.536948,-122.652425,45.536948",
     "geom:latitude":45.536948,
     "geom:longitude":-122.652425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 NE 13th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387144033,
-    "wof:lastmodified":1449058893,
+    "wof:lastmodified":1466769646,
     "wof:name":"Edge Productions",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-122.652425,45.536948,-122.652425,45.536948],
-  "geometry": {"coordinates":[-122.652425,45.536948],"type":"Point"}
+  "bbox": [
+    -122.652425,
+    45.536948,
+    -122.652425,
+    45.536948
+],
+  "geometry": {"coordinates":[-122.65242499999999,45.536948],"type":"Point"}
 }

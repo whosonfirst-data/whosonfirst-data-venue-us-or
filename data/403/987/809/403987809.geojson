@@ -2,13 +2,14 @@
   "id": 403987809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.356073,43.198806,-123.356073,43.198806",
     "geom:latitude":43.198806,
     "geom:longitude":-123.356073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 SW Portland Ave",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403987809,
-    "wof:lastmodified":1449055379,
+    "wof:lastmodified":1466768923,
     "wof:name":"Constance Dolls Etc",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doll"
     ]
 },
-  "bbox": [-123.356073,43.198806,-123.356073,43.198806],
-  "geometry": {"coordinates":[-123.356073,43.198806],"type":"Point"}
+  "bbox": [
+    -123.356073,
+    43.198806,
+    -123.356073,
+    43.198806
+],
+  "geometry": {"coordinates":[-123.35607299999999,43.198806],"type":"Point"}
 }

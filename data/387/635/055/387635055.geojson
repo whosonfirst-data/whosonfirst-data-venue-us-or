@@ -2,13 +2,14 @@
   "id": 387635055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.03188,44.9326,-123.03188,44.9326",
     "geom:latitude":44.9326,
     "geom:longitude":-123.03188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Capitol St SE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387635055,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1466774118,
     "wof:name":"Puc",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "utility"
     ]
 },
-  "bbox": [-123.03188,44.9326,-123.03188,44.9326],
+  "bbox": [
+    -123.03188,
+    44.9326,
+    -123.03188,
+    44.9326
+],
   "geometry": {"coordinates":[-123.03188,44.9326],"type":"Point"}
 }

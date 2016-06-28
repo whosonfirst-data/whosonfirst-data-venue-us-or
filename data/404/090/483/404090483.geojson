@@ -2,13 +2,14 @@
   "id": 404090483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.853704,45.353196,-122.853704,45.353196",
     "geom:latitude":45.353196,
     "geom:longitude":-122.853704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17070 SW Cobblestone Dr",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404090483,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1466770302,
     "wof:name":"Bill Hatcher & Associates",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.853704,45.353196,-122.853704,45.353196],
-  "geometry": {"coordinates":[-122.853704,45.353196],"type":"Point"}
+  "bbox": [
+    -122.853704,
+    45.353196,
+    -122.853704,
+    45.353196
+],
+  "geometry": {"coordinates":[-122.85370399999999,45.353196],"type":"Point"}
 }

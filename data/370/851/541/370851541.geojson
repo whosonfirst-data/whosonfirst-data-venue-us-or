@@ -2,13 +2,14 @@
   "id": 370851541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.109593,44.459669,-123.109593,44.459669",
     "geom:latitude":44.459669,
     "geom:longitude":-123.109593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31901 B St",
     "sg:city":"Shedd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370851541,
-    "wof:lastmodified":1449031302,
+    "wof:lastmodified":1466774324,
     "wof:name":"Shedd Market",
     "wof:parent_id":85893145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-123.109593,44.459669,-123.109593,44.459669],
+  "bbox": [
+    -123.109593,
+    44.459669,
+    -123.109593,
+    44.459669
+],
   "geometry": {"coordinates":[-123.109593,44.459669],"type":"Point"}
 }

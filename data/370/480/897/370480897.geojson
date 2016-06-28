@@ -2,13 +2,14 @@
   "id": 370480897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.831286,45.367728,-122.831286,45.367728",
     "geom:latitude":45.367728,
     "geom:longitude":-122.831286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14962 SW Tualatin Sherwood Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370480897,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1466772338,
     "wof:name":"Environmental Quality Dept",
     "wof:parent_id":85848843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-122.831286,45.367728,-122.831286,45.367728],
-  "geometry": {"coordinates":[-122.831286,45.367728],"type":"Point"}
+  "bbox": [
+    -122.831286,
+    45.367728,
+    -122.831286,
+    45.367728
+],
+  "geometry": {"coordinates":[-122.83128600000001,45.367728],"type":"Point"}
 }

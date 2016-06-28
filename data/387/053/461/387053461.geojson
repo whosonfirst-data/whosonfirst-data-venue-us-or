@@ -2,13 +2,14 @@
   "id": 387053461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.752846,45.458365,-122.752846,45.458365",
     "geom:latitude":45.458365,
     "geom:longitude":-122.752846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8435 SW 74th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387053461,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1466768034,
     "wof:name":"All West Door Wather Stripping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-122.752846,45.458365,-122.752846,45.458365],
-  "geometry": {"coordinates":[-122.752846,45.458365],"type":"Point"}
+  "bbox": [
+    -122.752846,
+    45.458365,
+    -122.752846,
+    45.458365
+],
+  "geometry": {"coordinates":[-122.75284600000001,45.458365],"type":"Point"}
 }

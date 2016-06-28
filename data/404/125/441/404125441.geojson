@@ -2,13 +2,14 @@
   "id": 404125441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.778917,45.302999,-122.778917,45.302999",
     "geom:latitude":45.302999,
     "geom:longitude":-122.778917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10041 Wilsonville Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404125441,
-    "wof:lastmodified":1449040281,
+    "wof:lastmodified":1466771087,
     "wof:name":"Wilsonville Self Storage",
     "wof:parent_id":85826177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-122.778917,45.302999,-122.778917,45.302999],
-  "geometry": {"coordinates":[-122.778917,45.302999],"type":"Point"}
+  "bbox": [
+    -122.778917,
+    45.302999,
+    -122.778917,
+    45.302999
+],
+  "geometry": {"coordinates":[-122.77891700000001,45.302999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403911561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.838474,45.559246,-122.838474,45.559246",
     "geom:latitude":45.559246,
     "geom:longitude":-122.838474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15797 NW Wismer Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403911561,
-    "wof:lastmodified":1449055756,
+    "wof:lastmodified":1466767561,
     "wof:name":"Real Rack LLC",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-122.838474,45.559246,-122.838474,45.559246],
-  "geometry": {"coordinates":[-122.838474,45.559246],"type":"Point"}
+  "bbox": [
+    -122.838474,
+    45.559246,
+    -122.838474,
+    45.559246
+],
+  "geometry": {"coordinates":[-122.83847400000001,45.559246],"type":"Point"}
 }

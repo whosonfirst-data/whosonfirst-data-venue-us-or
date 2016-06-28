@@ -2,13 +2,14 @@
   "id": 403837145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.574785,45.144847,-122.574785,45.144847",
     "geom:latitude":45.144847,
     "geom:longitude":-122.574785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Berkeley Ave",
     "sg:city":"Molalla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403837145,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1466770535,
     "wof:name":"Gregory Smith",
     "wof:parent_id":85817215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-122.574785,45.144847,-122.574785,45.144847],
-  "geometry": {"coordinates":[-122.574785,45.144847],"type":"Point"}
+  "bbox": [
+    -122.574785,
+    45.144847,
+    -122.574785,
+    45.144847
+],
+  "geometry": {"coordinates":[-122.57478500000001,45.144847],"type":"Point"}
 }

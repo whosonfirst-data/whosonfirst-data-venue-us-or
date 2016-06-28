@@ -2,13 +2,14 @@
   "id": 370819589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.324413,45.817067,-119.324413,45.817067",
     "geom:latitude":45.817067,
     "geom:longitude":-119.324413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30094 Cora Robb Ln",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370819589,
-    "wof:lastmodified":1449029896,
+    "wof:lastmodified":1466774086,
     "wof:name":"Gator Trucking Inc",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.324413,45.817067,-119.324413,45.817067],
-  "geometry": {"coordinates":[-119.324413,45.817067],"type":"Point"}
+  "bbox": [
+    -119.324413,
+    45.817067,
+    -119.324413,
+    45.817067
+],
+  "geometry": {"coordinates":[-119.32441300000001,45.817067],"type":"Point"}
 }

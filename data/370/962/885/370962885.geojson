@@ -2,13 +2,14 @@
   "id": 370962885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.008245,44.054313,-123.008245,44.054313",
     "geom:latitude":44.054313,
     "geom:longitude":-123.008245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1462 I St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370962885,
-    "wof:lastmodified":1449031066,
+    "wof:lastmodified":1466774991,
     "wof:name":"Lawrence Vinis MD",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-123.008245,44.054313,-123.008245,44.054313],
+  "bbox": [
+    -123.008245,
+    44.054313,
+    -123.008245,
+    44.054313
+],
   "geometry": {"coordinates":[-123.008245,44.054313],"type":"Point"}
 }

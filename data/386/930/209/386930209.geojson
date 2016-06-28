@@ -2,13 +2,14 @@
   "id": 386930209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.82022,45.503166,-122.82022,45.503166",
     "geom:latitude":45.503166,
     "geom:longitude":-122.82022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 SW Briggs Rd",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386930209,
-    "wof:lastmodified":1449028721,
+    "wof:lastmodified":1466767146,
     "wof:name":"Oak View Village Apartments",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-122.82022,45.503166,-122.82022,45.503166],
-  "geometry": {"coordinates":[-122.82022,45.503166],"type":"Point"}
+  "bbox": [
+    -122.82022,
+    45.503166,
+    -122.82022,
+    45.503166
+],
+  "geometry": {"coordinates":[-122.82022000000001,45.503166],"type":"Point"}
 }

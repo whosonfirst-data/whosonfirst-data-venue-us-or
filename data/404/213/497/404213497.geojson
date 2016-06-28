@@ -2,13 +2,14 @@
   "id": 404213497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.84314,45.45264,-123.84314,45.45264",
     "geom:latitude":45.45264,
     "geom:longitude":-123.84314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Pacific Ave",
     "sg:city":"Tillamook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404213497,
-    "wof:lastmodified":1449039102,
+    "wof:lastmodified":1466768343,
     "wof:name":"Tillamook Cnty Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-123.84314,45.45264,-123.84314,45.45264],
-  "geometry": {"coordinates":[-123.84314,45.45264],"type":"Point"}
+  "bbox": [
+    -123.84314,
+    45.45264,
+    -123.84314,
+    45.45264
+],
+  "geometry": {"coordinates":[-123.84314000000001,45.45264],"type":"Point"}
 }

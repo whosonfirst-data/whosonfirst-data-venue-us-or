@@ -2,13 +2,14 @@
   "id": 370715273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.515093,45.482422,-122.515093,45.482422",
     "geom:latitude":45.482422,
     "geom:longitude":-122.515093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14405 SE Ellis St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715273,
-    "wof:lastmodified":1449031801,
+    "wof:lastmodified":1466773621,
     "wof:name":"Cruises To Go",
     "wof:parent_id":85858087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-122.515093,45.482422,-122.515093,45.482422],
-  "geometry": {"coordinates":[-122.515093,45.482422],"type":"Point"}
+  "bbox": [
+    -122.515093,
+    45.482422,
+    -122.515093,
+    45.482422
+],
+  "geometry": {"coordinates":[-122.51509299999999,45.482422],"type":"Point"}
 }

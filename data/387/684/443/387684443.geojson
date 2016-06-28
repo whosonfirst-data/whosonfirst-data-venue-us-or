@@ -2,13 +2,14 @@
   "id": 387684443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.359457,43.227835,-123.359457,43.227835",
     "geom:latitude":43.227835,
     "geom:longitude":-123.359457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 NW Mulholland Dr",
     "sg:city":"Roseburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387684443,
-    "wof:lastmodified":1449057050,
+    "wof:lastmodified":1466774293,
     "wof:name":"Piper Cafe & Bakery",
     "wof:parent_id":85817309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.359457,43.227835,-123.359457,43.227835],
-  "geometry": {"coordinates":[-123.359457,43.227835],"type":"Point"}
+  "bbox": [
+    -123.359457,
+    43.227835,
+    -123.359457,
+    43.227835
+],
+  "geometry": {"coordinates":[-123.35945700000001,43.227835],"type":"Point"}
 }

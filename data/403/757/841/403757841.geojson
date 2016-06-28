@@ -2,13 +2,14 @@
   "id": 403757841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.637148,45.515647,-122.637148,45.515647",
     "geom:latitude":45.515647,
     "geom:longitude":-122.637148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2706 SE Yamhill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403757841,
-    "wof:lastmodified":1449055379,
+    "wof:lastmodified":1466768983,
     "wof:name":"John Henry Bourke",
     "wof:parent_id":85893157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-122.637148,45.515647,-122.637148,45.515647],
+  "bbox": [
+    -122.637148,
+    45.515647,
+    -122.637148,
+    45.515647
+],
   "geometry": {"coordinates":[-122.637148,45.515647],"type":"Point"}
 }
