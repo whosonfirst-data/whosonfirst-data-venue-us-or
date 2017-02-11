@@ -2,9 +2,14 @@
   "id": 789940403,
   "type": "Feature",
   "properties": {
+    "addr:full":"4035 SE 79th Portland OR 97206",
+    "addr:housenumber":"4035",
+    "addr:postcode":"97206",
+    "addr:street":"Se 79Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583152,45.493305,-122.583152,45.493305",
     "geom:latitude":45.493305,
     "geom:longitude":-122.583152,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789940403
         }
     ],
     "wof:id":789940403,
-    "wof:lastmodified":1466772261,
+    "wof:lastmodified":1486771643,
     "wof:name":"Oregon Hauling & Cleaning",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

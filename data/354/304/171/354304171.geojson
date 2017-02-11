@@ -2,9 +2,14 @@
   "id": 354304171,
   "type": "Feature",
   "properties": {
+    "addr:full":"9265 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"9265",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.567927,45.526417,-122.567927,45.526417",
     "geom:latitude":45.526417,
     "geom:longitude":-122.567927,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f7046bcc12e50809d6c0d0490d990653",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":354304171
         }
     ],
     "wof:id":354304171,
-    "wof:lastmodified":1466769550,
+    "wof:lastmodified":1486766260,
     "wof:name":"Bob Bailey Inc Realtors",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404012285,
   "type": "Feature",
   "properties": {
+    "addr:full":"6699 SE Scott Dr Portland OR 97215",
+    "addr:housenumber":"6699",
+    "addr:postcode":"97215",
+    "addr:street":"Se Scott Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594124,45.517687,-122.594124,45.517687",
     "geom:latitude":45.517687,
     "geom:longitude":-122.594124,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"768037c73ae6f5d871efac5888096f42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":404012285
         }
     ],
     "wof:id":404012285,
-    "wof:lastmodified":1466768658,
+    "wof:lastmodified":1486771806,
     "wof:name":"Isodicentric 15 Exch Advocacy",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

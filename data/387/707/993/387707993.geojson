@@ -2,9 +2,14 @@
   "id": 387707993,
   "type": "Feature",
   "properties": {
+    "addr:full":"4742 N Syracuse St Portland OR 97203",
+    "addr:housenumber":"4742",
+    "addr:postcode":"97203",
+    "addr:street":"N Syracuse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719735,45.577442,-122.719735,45.577442",
     "geom:latitude":45.577442,
     "geom:longitude":-122.719735,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536113,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"e7c71af0edf0e325d502b02f63e97e71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536113,
             "region_id":85688513,
             "venue_id":387707993
         }
     ],
     "wof:id":387707993,
-    "wof:lastmodified":1466774448,
+    "wof:lastmodified":1486772146,
     "wof:name":"Malone Concrete",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

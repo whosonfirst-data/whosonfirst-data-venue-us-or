@@ -2,9 +2,14 @@
   "id": 789598505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1429 SE 37th Ave Portland OR 97214",
+    "addr:housenumber":"1429",
+    "addr:postcode":"97214",
+    "addr:street":"Se 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62587,45.512608,-122.62587,45.512608",
     "geom:latitude":45.512608,
     "geom:longitude":-122.62587,
@@ -29,12 +34,14 @@
     "sg:website":"www.3doorsdowncafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":789598505
         }
     ],
     "wof:id":789598505,
-    "wof:lastmodified":1466768292,
+    "wof:lastmodified":1486773696,
     "wof:name":"3 Doors Down Cafe",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

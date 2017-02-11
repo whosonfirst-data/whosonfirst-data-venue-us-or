@@ -2,9 +2,14 @@
   "id": 404106715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 NE 15th Ave Portland OR 97212",
+    "addr:housenumber":"3125",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650483,45.546535,-122.650483,45.546535",
     "geom:latitude":45.546535,
     "geom:longitude":-122.650483,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513,
+        85893233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"9113f44507a85680b7eeba8adc1b4193",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
+            "region_id":85688513,
+            "venue_id":404106715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":404106715
         }
     ],
     "wof:id":404106715,
-    "wof:lastmodified":1466770723,
+    "wof:lastmodified":1486771981,
     "wof:name":"Peter T Woodburn Appraisal",
-    "wof:parent_id":85827095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

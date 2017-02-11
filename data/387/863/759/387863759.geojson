@@ -2,9 +2,14 @@
   "id": 387863759,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 SW 1st Ave Portland OR 97204",
+    "addr:housenumber":"220",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672014,45.520562,-122.672014,45.520562",
     "geom:latitude":45.520562,
     "geom:longitude":-122.672014,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"2593d5c35d6d6bd1b1a60eff94651b6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":387863759
         }
     ],
     "wof:id":387863759,
-    "wof:lastmodified":1466775281,
+    "wof:lastmodified":1486770676,
     "wof:name":"Jadestone Gallery",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

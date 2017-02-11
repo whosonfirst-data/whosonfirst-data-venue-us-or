@@ -2,9 +2,14 @@
   "id": 790070723,
   "type": "Feature",
   "properties": {
+    "addr:full":"6455 NE Columbia Blvd Portland OR 97218",
+    "addr:housenumber":"6455",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59695,45.568201,-122.59695,45.568201",
     "geom:latitude":45.568201,
     "geom:longitude":-122.59695,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.oregontractor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790070723
         }
     ],
     "wof:id":790070723,
-    "wof:lastmodified":1466768554,
+    "wof:lastmodified":1486771617,
     "wof:name":"Commercial Redi-Mix & Aggregate, Inc",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

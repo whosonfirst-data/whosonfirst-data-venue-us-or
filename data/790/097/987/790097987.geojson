@@ -2,9 +2,14 @@
   "id": 790097987,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 NE 102nd Ave Ste F, Bldg II Portland OR 97220",
+    "addr:housenumber":"129",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 102Nd Ave Ste F Bldg Ii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.559495,45.524218,-122.559495,45.524218",
     "geom:latitude":45.524218,
     "geom:longitude":-122.559495,
@@ -34,12 +39,13 @@
     "sg:website":"www.reflexologysolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790097987
         }
     ],
     "wof:id":790097987,
-    "wof:lastmodified":1466767823,
+    "wof:lastmodified":1486770793,
     "wof:name":"Reflexology Solutions",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

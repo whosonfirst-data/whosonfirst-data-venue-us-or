@@ -2,9 +2,14 @@
   "id": 387189735,
   "type": "Feature",
   "properties": {
+    "addr:full":"12402 SE Kelly St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12402;97236",
+    "addr:street":"Se Kelly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.533583,45.498986,-122.533583,45.498986",
     "geom:latitude":45.498986,
     "geom:longitude":-122.533583,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d96f9b7aa0ac407761f3a13bffd189c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":387189735
         }
     ],
     "wof:id":387189735,
-    "wof:lastmodified":1466770575,
+    "wof:lastmodified":1486771936,
     "wof:name":"Phils Lock & Key Inc",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

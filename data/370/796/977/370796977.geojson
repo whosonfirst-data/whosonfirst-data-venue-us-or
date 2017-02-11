@@ -2,9 +2,14 @@
   "id": 370796977,
   "type": "Feature",
   "properties": {
+    "addr:full":"7320 SE Holgate Blvd Portland OR 97206",
+    "addr:housenumber":"7320",
+    "addr:postcode":"97206",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.587132,45.490168,-122.587132,45.490168",
     "geom:latitude":45.490168,
     "geom:longitude":-122.587132,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"6140075e6c37dcc6bd9af31f25a6a838",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":370796977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":370796977
         }
     ],
     "wof:id":370796977,
-    "wof:lastmodified":1466774077,
+    "wof:lastmodified":1486771638,
     "wof:name":"Nathan Pachmayr",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

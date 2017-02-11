@@ -2,9 +2,14 @@
   "id": 790101817,
   "type": "Feature",
   "properties": {
+    "addr:full":"4034 SW 55th Dr Portland OR 97221",
+    "addr:housenumber":"4034",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 55Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.734012,45.493972,-122.734012,45.493972",
     "geom:latitude":45.493972,
     "geom:longitude":-122.734012,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +51,18 @@
     "wof:geomhash":"0a2a009d31221d638c5287387ea0c0f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790101817
         }
     ],
     "wof:id":790101817,
-    "wof:lastmodified":1466767957,
+    "wof:lastmodified":1486769384,
     "wof:name":"Mcclaskey Wine And Spirits",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790209897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 NE Broadway St Ste 229 Portland OR 97232",
+    "addr:housenumber":"1631",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St Ste 229",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649154,45.535019,-122.649154,45.535019",
     "geom:latitude":45.535019,
     "geom:longitude":-122.649154,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.pacificit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871463,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871463,
             "region_id":85688513,
             "venue_id":790209897
         }
     ],
     "wof:id":790209897,
-    "wof:lastmodified":1466771753,
+    "wof:lastmodified":1486770836,
     "wof:name":"Pacific It",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85871463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

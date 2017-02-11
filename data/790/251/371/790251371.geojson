@@ -2,9 +2,14 @@
   "id": 790251371,
   "type": "Feature",
   "properties": {
+    "addr:full":"11802 SE Stark St Portland OR 97255",
+    "addr:housenumber":"11802",
+    "addr:postcode":"97255",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.541615,45.519006,-122.541615,45.519006",
     "geom:latitude":45.519006,
     "geom:longitude":-122.541615,
@@ -29,12 +34,13 @@
     "sg:website":"www.elmers-restaurants.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790251371
         }
     ],
     "wof:id":790251371,
-    "wof:lastmodified":1466772546,
+    "wof:lastmodified":1486772237,
     "wof:name":"Elmer's Pancake & Steak House",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

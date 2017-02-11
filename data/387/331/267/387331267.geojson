@@ -2,9 +2,14 @@
   "id": 387331267,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 SW Canby St Portland OR 97219",
+    "addr:housenumber":"6100",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Canby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.7387,45.469318,-122.7387,45.469318",
     "geom:latitude":45.469318,
     "geom:longitude":-122.7387,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"abea7b57c895b6a6780254c46cf71b74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":387331267
         }
     ],
     "wof:id":387331267,
-    "wof:lastmodified":1466771982,
+    "wof:lastmodified":1486764891,
     "wof:name":"Bell Data Assistance",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

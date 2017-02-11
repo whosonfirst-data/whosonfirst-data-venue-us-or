@@ -2,9 +2,14 @@
   "id": 773100665,
   "type": "Feature",
   "properties": {
+    "addr:full":"10518 SW Hood Ave Portland OR 97219",
+    "addr:housenumber":"10518",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Hood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674311,45.449253,-122.674311,45.449253",
     "geom:latitude":45.449253,
     "geom:longitude":-122.674311,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":773100665
         }
     ],
     "wof:id":773100665,
-    "wof:lastmodified":1466768103,
+    "wof:lastmodified":1486764934,
     "wof:name":"Robert B Booth LLC An Ore",
     "wof:parent_id":85871517,
     "wof:placetype":"venue",

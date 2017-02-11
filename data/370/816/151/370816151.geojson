@@ -2,9 +2,14 @@
   "id": 370816151,
   "type": "Feature",
   "properties": {
+    "addr:full":"3103 NE 82nd Ave Portland OR 97220",
+    "addr:housenumber":"3103",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578848,45.546321,-122.578848,45.546321",
     "geom:latitude":45.546321,
     "geom:longitude":-122.578848,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:brand_id":420573901,
     "wof:breaches":[],
@@ -43,19 +50,20 @@
     "wof:geomhash":"3f990674748ec8216ef2c7f360c16fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":370816151
         }
     ],
     "wof:id":370816151,
-    "wof:lastmodified":1466774166,
+    "wof:lastmodified":1486771966,
     "wof:name":"Dairy Queen",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

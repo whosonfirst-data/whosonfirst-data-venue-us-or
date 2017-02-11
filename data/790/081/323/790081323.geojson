@@ -2,9 +2,14 @@
   "id": 790081323,
   "type": "Feature",
   "properties": {
+    "addr:full":"12647 SW 62nd Avenue Portland OR 97219",
+    "addr:housenumber":"12647",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 62Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.741834,45.433807,-122.741834,45.433807",
     "geom:latitude":45.433807,
     "geom:longitude":-122.741834,
@@ -25,7 +30,15 @@
     "sg:province":"OR",
     "sg:website":"noahsplacepreschool.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871501,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FjVqdO9K32IvI5jOzvK8O_45.433807_-122.741834@1303263422"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462592979,
     "wof:geomhash":"9c0153306e049dc851e57f61d3891614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
+            "region_id":85688513,
+            "venue_id":790081323
+        }
+    ],
     "wof:id":790081323,
-    "wof:lastmodified":1466767209,
+    "wof:lastmodified":1486771064,
     "wof:name":"Noah's Place Preschool",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

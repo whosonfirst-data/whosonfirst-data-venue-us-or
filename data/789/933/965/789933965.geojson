@@ -2,9 +2,14 @@
   "id": 789933965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bye 10 Accounting 4122 SE 74th Ave Portland OR 97206",
+    "addr:housenumber":"10",
+    "addr:postcode":"4122;97206",
+    "addr:street":"Bye;Accounting;Se 74Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58657,45.492813,-122.58657,45.492813",
     "geom:latitude":45.492813,
     "geom:longitude":-122.58657,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789933965
         }
     ],
     "wof:id":789933965,
-    "wof:lastmodified":1466772361,
+    "wof:lastmodified":1486767424,
     "wof:name":"Jean M Annable",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

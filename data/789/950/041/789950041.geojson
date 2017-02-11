@@ -2,9 +2,14 @@
   "id": 789950041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 NW Lovejoy Ste 130 Portland OR 97209",
+    "addr:housenumber":"1220",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Lovejoy Ste 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683641,45.530001,-122.683641,45.530001",
     "geom:latitude":45.530001,
     "geom:longitude":-122.683641,
@@ -26,12 +31,13 @@
     "sg:website":"www.realtytrust.com/drewmcculloch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789950041
         }
     ],
     "wof:id":789950041,
-    "wof:lastmodified":1466772483,
+    "wof:lastmodified":1486770315,
     "wof:name":"Drew McCulloch - Realty Trust Group",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 404023791,
   "type": "Feature",
   "properties": {
+    "addr:full":"2135 SE Nehalem St Portland OR 97202",
+    "addr:housenumber":"2135",
+    "addr:postcode":"97202",
+    "addr:street":"Se Nehalem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642841,45.465817,-122.642841,45.465817",
     "geom:latitude":45.465817,
     "geom:longitude":-122.642841,
@@ -34,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +55,20 @@
     "wof:geomhash":"6fd309c019a04fd320e630f30948b0b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":404023791
         }
     ],
     "wof:id":404023791,
-    "wof:lastmodified":1466768872,
+    "wof:lastmodified":1486770517,
     "wof:name":"Crystal Shores Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789991671,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 NE Prescott St Portland OR 97211",
+    "addr:housenumber":"805",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Prescott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657583,45.5555,-122.657583,45.5555",
     "geom:latitude":45.5555,
     "geom:longitude":-122.657583,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789991671
         }
     ],
     "wof:id":789991671,
-    "wof:lastmodified":1466773204,
+    "wof:lastmodified":1486768666,
     "wof:name":"Lyons Paint Removal",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

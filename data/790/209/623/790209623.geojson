@@ -2,9 +2,14 @@
   "id": 790209623,
   "type": "Feature",
   "properties": {
+    "addr:full":"3422 NE Halsey St Portland OR 97232",
+    "addr:housenumber":"3422",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629001,45.533611,-122.629001,45.533611",
     "geom:latitude":45.533611,
     "geom:longitude":-122.629001,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85826019,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790209623
         }
     ],
     "wof:id":790209623,
-    "wof:lastmodified":1466771745,
+    "wof:lastmodified":1486769525,
     "wof:name":"15 Minute Response Locksmith",
-    "wof:parent_id":85826019,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

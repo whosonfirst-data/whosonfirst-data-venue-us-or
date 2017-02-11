@@ -2,9 +2,14 @@
   "id": 790244097,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 SW Pennoyer St Portland OR 97239",
+    "addr:housenumber":"19",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Pennoyer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678067,45.497266,-122.678067,45.497266",
     "geom:latitude":45.497266,
     "geom:longitude":-122.678067,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790244097
         }
     ],
     "wof:id":790244097,
-    "wof:lastmodified":1466772313,
+    "wof:lastmodified":1486773559,
     "wof:name":"Benjamin Wood Construction",
-    "wof:parent_id":420558713,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

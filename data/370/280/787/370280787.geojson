@@ -2,9 +2,14 @@
   "id": 370280787,
   "type": "Feature",
   "properties": {
+    "addr:full":"3131 SE 115th Ave Portland OR 97266",
+    "addr:housenumber":"3131",
+    "addr:postcode":"97266",
+    "addr:street":"Se 115Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54549,45.497433,-122.54549,45.497433",
     "geom:latitude":45.497433,
     "geom:longitude":-122.54549,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"d5b27ad99aa6bd72130f27aa0369b274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":370280787
         }
     ],
     "wof:id":370280787,
-    "wof:lastmodified":1466769466,
+    "wof:lastmodified":1486766485,
     "wof:name":"Ica's Adult Foster Home",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

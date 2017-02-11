@@ -2,9 +2,14 @@
   "id": 789921859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1139 SW Morrison Street Portland OR 97205",
+    "addr:housenumber":"1139",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683526,45.520278,-122.683526,45.520278",
     "geom:latitude":45.520278,
     "geom:longitude":-122.683526,
@@ -30,12 +35,13 @@
     "sg:website":"www.act2resaleboutique.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789921859
         }
     ],
     "wof:id":789921859,
-    "wof:lastmodified":1466772202,
+    "wof:lastmodified":1486765543,
     "wof:name":"Act II Ladies Resale Boutique",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

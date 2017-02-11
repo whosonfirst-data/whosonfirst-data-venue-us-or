@@ -2,9 +2,14 @@
   "id": 370374461,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 NE 84th Ave Portland OR 97220",
+    "addr:housenumber":"105",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 84Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.577088,45.524547,-122.577088,45.524547",
     "geom:latitude":45.524547,
     "geom:longitude":-122.577088,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"482fda742c8eb456dfd30fc80f1688cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":370374461
         }
     ],
     "wof:id":370374461,
-    "wof:lastmodified":1466771296,
+    "wof:lastmodified":1486767978,
     "wof:name":"Interntnal Cntre For Excllence",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

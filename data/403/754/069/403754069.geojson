@@ -2,9 +2,14 @@
   "id": 403754069,
   "type": "Feature",
   "properties": {
+    "addr:full":"3621 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"3621",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.714887,45.547529,-122.714887,45.547529",
     "geom:latitude":45.547529,
     "geom:longitude":-122.714887,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"f86f51d0265dfcb8e4fc2a3091cd73d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":403754069
         }
     ],
     "wof:id":403754069,
-    "wof:lastmodified":1466768919,
+    "wof:lastmodified":1486771109,
     "wof:name":"B & I Furnishings",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

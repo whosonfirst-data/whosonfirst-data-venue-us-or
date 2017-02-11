@@ -2,9 +2,14 @@
   "id": 790176147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 N Vancouver Ave Portland OR 97227",
+    "addr:housenumber":"2107",
+    "addr:postcode":"97227",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667732,45.538087,-122.667732,45.538087",
     "geom:latitude":45.538087,
     "geom:longitude":-122.667732,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.petfairs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790176147
         }
     ],
     "wof:id":790176147,
-    "wof:lastmodified":1466770837,
+    "wof:lastmodified":1486768500,
     "wof:name":"Northwest Pet & Companion Fair",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

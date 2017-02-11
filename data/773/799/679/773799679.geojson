@@ -2,9 +2,14 @@
   "id": 773799679,
   "type": "Feature",
   "properties": {
+    "addr:full":"5015 SE Hawthorne Blvd Portland OR 97215",
+    "addr:housenumber":"5015",
+    "addr:postcode":"97215",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610834,45.512029,-122.610834,45.512029",
     "geom:latitude":45.512029,
     "geom:longitude":-122.610834,
@@ -26,13 +31,14 @@
     "sg:website":"www.realtytrust.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893211,
-            "region_id":85688513,
-            "venue_id":773799679
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773799679
         }
     ],
     "wof:id":773799679,
-    "wof:lastmodified":1466776024,
+    "wof:lastmodified":1486773684,
     "wof:name":"Realty Trust Group, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

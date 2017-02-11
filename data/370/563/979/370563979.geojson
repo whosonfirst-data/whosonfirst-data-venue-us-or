@@ -2,9 +2,14 @@
   "id": 370563979,
   "type": "Feature",
   "properties": {
+    "addr:full":"4950 N Basin Ave Portland OR 97217",
+    "addr:housenumber":"4950",
+    "addr:postcode":"97217",
+    "addr:street":"N Basin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700478,45.558846,-122.700478,45.558846",
     "geom:latitude":45.558846,
     "geom:longitude":-122.700478,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"015a255062addc1ec73f4cb05b479d09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370563979
         }
     ],
     "wof:id":370563979,
-    "wof:lastmodified":1466772906,
+    "wof:lastmodified":1486765783,
     "wof:name":"Swan Island Dairy",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

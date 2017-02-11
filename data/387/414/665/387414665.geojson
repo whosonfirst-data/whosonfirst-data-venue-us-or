@@ -2,9 +2,14 @@
   "id": 387414665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2307 NE 7th Ave Portland OR 97212",
+    "addr:housenumber":"2307",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658683,45.539518,-122.658683,45.539518",
     "geom:latitude":45.539518,
     "geom:longitude":-122.658683,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c2ed1b3e1aeef46d870eeb215fb6b69d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":387414665
         }
     ],
     "wof:id":387414665,
-    "wof:lastmodified":1466772702,
+    "wof:lastmodified":1486769079,
     "wof:name":"Sle Construction",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

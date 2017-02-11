@@ -2,9 +2,14 @@
   "id": 387521035,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 SE 99th Ave Portland OR 97216",
+    "addr:housenumber":"335",
+    "addr:postcode":"97216",
+    "addr:street":"Se 99Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.562357,45.519989,-122.562357,45.519989",
     "geom:latitude":45.519989,
     "geom:longitude":-122.562357,
@@ -37,11 +42,13 @@
     "sg:website":"www.rosecitystamp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +58,20 @@
     "wof:geomhash":"8cce713b4e0b2131b49e12b9a06d331a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387521035
         }
     ],
     "wof:id":387521035,
-    "wof:lastmodified":1466773286,
+    "wof:lastmodified":1486770750,
     "wof:name":"Rose City Stamp Inc",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

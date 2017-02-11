@@ -2,9 +2,14 @@
   "id": 370477445,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 SE Bidwell St Portland OR 97202",
+    "addr:housenumber":"815",
+    "addr:postcode":"97202",
+    "addr:street":"Se Bidwell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657786,45.467965,-122.657786,45.467965",
     "geom:latitude":45.467965,
     "geom:longitude":-122.657786,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"df27c94a7cb11eb1f1f4a3ef23766453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370477445
         }
     ],
     "wof:id":370477445,
-    "wof:lastmodified":1466772085,
+    "wof:lastmodified":1486770513,
     "wof:name":"Art In Wood",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

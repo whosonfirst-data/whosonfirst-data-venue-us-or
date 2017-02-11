@@ -2,9 +2,14 @@
   "id": 773846029,
   "type": "Feature",
   "properties": {
+    "addr:full":"8728 NE Russell Pl Portland OR 97220",
+    "addr:housenumber":"8728",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Russell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.5728,45.541715,-122.5728,45.541715",
     "geom:latitude":45.541715,
     "geom:longitude":-122.5728,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":773846029
         }
     ],
     "wof:id":773846029,
-    "wof:lastmodified":1466776139,
+    "wof:lastmodified":1486771785,
     "wof:name":"William Russell Construction",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

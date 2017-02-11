@@ -2,9 +2,14 @@
   "id": 789875963,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 SW Naito Pkwy Ste 600 Portland OR 97204",
+    "addr:housenumber":"811",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Naito Pkwy Ste 600",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673131,45.516734,-122.673131,45.516734",
     "geom:latitude":45.516734,
     "geom:longitude":-122.673131,
@@ -33,12 +38,13 @@
     "sg:website":"www.gre-law.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789875963
         }
     ],
     "wof:id":789875963,
-    "wof:lastmodified":1466771540,
+    "wof:lastmodified":1486764261,
     "wof:name":"Gearing, Rackner & Engel, LLP",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

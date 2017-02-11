@@ -2,9 +2,14 @@
   "id": 403722281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 SE 117th Ave Portland OR 97216",
+    "addr:housenumber":"1339",
+    "addr:postcode":"97216",
+    "addr:street":"Se 117Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542923,45.513564,-122.542923,45.513564",
     "geom:latitude":45.513564,
     "geom:longitude":-122.542923,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"6c25364c0af2d0c8b31e1c697ee53f3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":403722281
         }
     ],
     "wof:id":403722281,
-    "wof:lastmodified":1466768256,
+    "wof:lastmodified":1486772222,
     "wof:name":"Ntk Design",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

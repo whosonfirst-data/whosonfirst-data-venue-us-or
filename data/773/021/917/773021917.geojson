@@ -2,9 +2,14 @@
   "id": 773021917,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 N Channel Ave Portland OR 97217",
+    "addr:housenumber":"5555",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717717,45.562868,-122.717717,45.562868",
     "geom:latitude":45.562868,
     "geom:longitude":-122.717717,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773021917
         }
     ],
     "wof:id":773021917,
-    "wof:lastmodified":1466770325,
+    "wof:lastmodified":1486771872,
     "wof:name":"John C Murdoch Inc",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

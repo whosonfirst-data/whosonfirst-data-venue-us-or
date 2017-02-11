@@ -2,9 +2,14 @@
   "id": 371189021,
   "type": "Feature",
   "properties": {
+    "addr:full":"6688 NW Saint Helens Rd Portland OR 97210",
+    "addr:housenumber":"6688",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.754741,45.569857,-122.754741,45.569857",
     "geom:latitude":45.569857,
     "geom:longitude":-122.754741,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830793,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"01f597094134bcf6a7bfa92c7d2045c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":371189021
         }
     ],
     "wof:id":371189021,
-    "wof:lastmodified":1466770462,
+    "wof:lastmodified":1486769574,
     "wof:name":"A & C Foundry Products",
-    "wof:parent_id":85857801,
+    "wof:parent_id":85830793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789869865,
   "type": "Feature",
   "properties": {
+    "addr:full":"7319 N. John Ave. Suite 102 Portland OR 97203",
+    "addr:housenumber":"7319",
+    "addr:postcode":"97203",
+    "addr:street":"N. John Ave. Suite 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.753256,45.589075,-122.753256,45.589075",
     "geom:latitude":45.589075,
     "geom:longitude":-122.753256,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,20 @@
     "wof:geomhash":"22addace9f1a3ebfe20c65d6c90fcf0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":789869865
         }
     ],
     "wof:id":789869865,
-    "wof:lastmodified":1466771265,
+    "wof:lastmodified":1486769748,
     "wof:name":"MarTani Tanning Salon",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

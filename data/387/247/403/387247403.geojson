@@ -2,9 +2,14 @@
   "id": 387247403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 SW Yamhill St Portland OR 97205",
+    "addr:housenumber":"1221",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685369,45.520175,-122.685369,45.520175",
     "geom:latitude":45.520175,
     "geom:longitude":-122.685369,
@@ -26,10 +31,13 @@
     "sg:website":"www.ocf1.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85871479
     ],
     "wof:breaches":[],
@@ -40,19 +48,30 @@
     "wof:geomhash":"585cb9f1fd85a66073999b862415cfa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
+            "region_id":85688513,
+            "venue_id":387247403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387247403
         }
     ],
     "wof:id":387247403,
-    "wof:lastmodified":1466771496,
+    "wof:lastmodified":1486770067,
     "wof:name":"Oregon Community Foundation",
-    "wof:parent_id":85871479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

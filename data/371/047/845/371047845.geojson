@@ -2,9 +2,14 @@
   "id": 371047845,
   "type": "Feature",
   "properties": {
+    "addr:full":"12010 N Jantzen Dr Portland OR 97217",
+    "addr:housenumber":"12010",
+    "addr:postcode":"97217",
+    "addr:street":"N Jantzen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677182,45.610434,-122.677182,45.610434",
     "geom:latitude":45.610434,
     "geom:longitude":-122.677182,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85807427
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"b110e78e3983fd2b84db1a5c920ed191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807427,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":371047845
         }
     ],
     "wof:id":371047845,
-    "wof:lastmodified":1466767941,
+    "wof:lastmodified":1486772370,
     "wof:name":"Coffee Beach Cafe",
-    "wof:parent_id":85807427,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

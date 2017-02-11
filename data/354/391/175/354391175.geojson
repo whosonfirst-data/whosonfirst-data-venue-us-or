@@ -2,9 +2,14 @@
   "id": 354391175,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 SE Hawthorne Blvd Portland OR 97214",
+    "addr:housenumber":"323",
+    "addr:postcode":"97214",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661977,45.512324,-122.661977,45.512324",
     "geom:latitude":45.512324,
     "geom:longitude":-122.661977,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"2350de52868ccad9235d3718c72a0507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":354391175
         }
     ],
     "wof:id":354391175,
-    "wof:lastmodified":1466771153,
+    "wof:lastmodified":1486773468,
     "wof:name":"The Clark Center",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387503383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1771 NW Pettygrove St Portland OR 97210",
+    "addr:housenumber":"1771",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Pettygrove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689087,45.532895,-122.689087,45.532895",
     "geom:latitude":45.532895,
     "geom:longitude":-122.689087,
@@ -31,11 +36,13 @@
     "sg:website":"www.cmts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"f5a3e079c0173568fecd83480a4d80e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387503383
         }
     ],
     "wof:id":387503383,
-    "wof:lastmodified":1466773253,
+    "wof:lastmodified":1486771174,
     "wof:name":"Coremedia Training Solutions",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

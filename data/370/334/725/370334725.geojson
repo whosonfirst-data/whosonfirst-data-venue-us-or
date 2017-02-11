@@ -2,9 +2,14 @@
   "id": 370334725,
   "type": "Feature",
   "properties": {
+    "addr:full":"13430 NE Rose Pkwy Portland OR 97230",
+    "addr:housenumber":"13430",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Rose Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524641,45.545254,-122.524641,45.545254",
     "geom:latitude":45.545254,
     "geom:longitude":-122.524641,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893231
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"98c0ccd900e421ede3e3c59d243b2214",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
+            "region_id":85688513,
+            "venue_id":370334725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":370334725
         }
     ],
     "wof:id":370334725,
-    "wof:lastmodified":1466770495,
+    "wof:lastmodified":1486771488,
     "wof:name":"Dorothy Bays Secretarial Servi",
-    "wof:parent_id":85893231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

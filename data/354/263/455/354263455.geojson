@@ -2,9 +2,14 @@
   "id": 354263455,
   "type": "Feature",
   "properties": {
+    "addr:full":"2328 NW Mill Pond Rd Portland OR 97229",
+    "addr:housenumber":"2328",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Mill Pond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.783949,45.538689,-122.783949,45.538689",
     "geom:latitude":45.538689,
     "geom:longitude":-122.783949,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d3a08638b32ca94686a26697785a7e52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":354263455
         }
     ],
     "wof:id":354263455,
-    "wof:lastmodified":1466768864,
+    "wof:lastmodified":1486763376,
     "wof:name":"Steven E Marcy",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789606277,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 SE Division St Portland OR 97202",
+    "addr:housenumber":"3701",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625999,45.504902,-122.625999,45.504902",
     "geom:latitude":45.504902,
     "geom:longitude":-122.625999,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789606277
         }
     ],
     "wof:id":789606277,
-    "wof:lastmodified":1466768516,
+    "wof:lastmodified":1486773671,
     "wof:name":"Egyptian Club",
-    "wof:parent_id":85871465,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

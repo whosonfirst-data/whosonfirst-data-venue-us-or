@@ -2,9 +2,14 @@
   "id": 773542835,
   "type": "Feature",
   "properties": {
+    "addr:full":"13452 SE Claybourne St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13452;97236",
+    "addr:street":"Se Claybourne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.525064,45.474727,-122.525064,45.474727",
     "geom:latitude":45.474727,
     "geom:longitude":-122.525064,
@@ -29,7 +34,15 @@
         "flavoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536131,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OmGN7IFd69h2i5y0f1lhA_45.474727_-122.525064@1294180530"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462586503,
     "wof:geomhash":"37588c7a9e4d21c65ce7753de476bdf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773542835
+        }
+    ],
     "wof:id":773542835,
-    "wof:lastmodified":1466775207,
+    "wof:lastmodified":1486772196,
     "wof:name":"Watkins Quality Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

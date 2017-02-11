@@ -2,9 +2,14 @@
   "id": 370472981,
   "type": "Feature",
   "properties": {
+    "addr:full":"8933 NE Marx Dr Portland OR 97220",
+    "addr:housenumber":"8933",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Marx Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569618,45.566355,-122.569618,45.566355",
     "geom:latitude":45.566355,
     "geom:longitude":-122.569618,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d9e9c768b61aa4e5f44db6ad75c08e6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":370472981
         }
     ],
     "wof:id":370472981,
-    "wof:lastmodified":1466772156,
+    "wof:lastmodified":1486771990,
     "wof:name":"First Industrial Realty Inc",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

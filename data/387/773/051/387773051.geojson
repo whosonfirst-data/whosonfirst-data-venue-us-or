@@ -2,9 +2,14 @@
   "id": 387773051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 SE Taylor St Portland OR 97214",
+    "addr:housenumber":"1433",
+    "addr:postcode":"97214",
+    "addr:street":"Se Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650848,45.51513,-122.650848,45.51513",
     "geom:latitude":45.51513,
     "geom:longitude":-122.650848,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"f72dd85038b711391c5862c370f6b7f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387773051
         }
     ],
     "wof:id":387773051,
-    "wof:lastmodified":1466774884,
+    "wof:lastmodified":1486766924,
     "wof:name":"LLC Story House",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

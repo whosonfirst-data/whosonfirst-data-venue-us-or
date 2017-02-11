@@ -2,9 +2,14 @@
   "id": 387124341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3129 NE 11th Ave Portland OR 97212",
+    "addr:housenumber":"3129",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654541,45.54652,-122.654541,45.54652",
     "geom:latitude":45.54652,
     "geom:longitude":-122.654541,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"dd927de557f227af0ba11657f6ca8a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":387124341
         }
     ],
     "wof:id":387124341,
-    "wof:lastmodified":1466769258,
+    "wof:lastmodified":1486769055,
     "wof:name":"Benson SD Properties",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

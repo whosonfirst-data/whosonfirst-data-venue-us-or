@@ -2,9 +2,14 @@
   "id": 370365897,
   "type": "Feature",
   "properties": {
+    "addr:full":"7929 SE Schiller St Portland OR 97206",
+    "addr:housenumber":"7929",
+    "addr:postcode":"97206",
+    "addr:street":"Se Schiller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581046,45.488047,-122.581046,45.488047",
     "geom:latitude":45.488047,
     "geom:longitude":-122.581046,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"8db384c5cad6da12cf9af2949eddb86a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":370365897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":370365897
         }
     ],
     "wof:id":370365897,
-    "wof:lastmodified":1466771125,
+    "wof:lastmodified":1486771650,
     "wof:name":"R H Goodman",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

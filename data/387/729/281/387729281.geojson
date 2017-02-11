@@ -2,9 +2,14 @@
   "id": 387729281,
   "type": "Feature",
   "properties": {
+    "addr:full":"2915 SE 53rd Ave Portland OR 97206",
+    "addr:housenumber":"2915",
+    "addr:postcode":"97206",
+    "addr:street":"Se 53Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608109,45.500363,-122.608109,45.500363",
     "geom:latitude":45.500363,
     "geom:longitude":-122.608109,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"bcd3858ca6f6b58ee2b8894662fdc5df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":387729281
         }
     ],
     "wof:id":387729281,
-    "wof:lastmodified":1466774763,
+    "wof:lastmodified":1486771043,
     "wof:name":"Rain Man Irrigation",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

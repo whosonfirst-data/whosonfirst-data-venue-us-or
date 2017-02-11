@@ -2,9 +2,14 @@
   "id": 773455503,
   "type": "Feature",
   "properties": {
+    "addr:full":"7337 N Lombard St Portland OR 97203",
+    "addr:housenumber":"7337",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.743393,45.588177,-122.743393,45.588177",
     "geom:latitude":45.588177,
     "geom:longitude":-122.743393,
@@ -29,7 +34,15 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TDlvjQagZB7F9dYA3seET_45.588177_-122.743393@1294180530"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462585880,
     "wof:geomhash":"05980d2d06f3f122ae6a0ece4bfaccfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":773455503
+        }
+    ],
     "wof:id":773455503,
-    "wof:lastmodified":1466774601,
+    "wof:lastmodified":1486769756,
     "wof:name":"Babe's K-9 Castle",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

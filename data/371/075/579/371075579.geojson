@@ -2,9 +2,14 @@
   "id": 371075579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4022 NW Riggs Dr Portland OR 97229",
+    "addr:housenumber":"4022",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Riggs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.779158,45.550389,-122.779158,45.550389",
     "geom:latitude":45.550389,
     "geom:longitude":-122.779158,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"0f84d32d47cb642eee6e9fb65a23cb58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":371075579
         }
     ],
     "wof:id":371075579,
-    "wof:lastmodified":1466768394,
+    "wof:lastmodified":1486770919,
     "wof:name":"Premier Commercial Funding",
-    "wof:parent_id":85893259,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

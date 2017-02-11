@@ -2,9 +2,14 @@
   "id": 789983155,
   "type": "Feature",
   "properties": {
+    "addr:full":"2945 NE Argyle St Portland OR 97211",
+    "addr:housenumber":"2945",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Argyle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641336,45.577456,-122.641336,45.577456",
     "geom:latitude":45.577456,
     "geom:longitude":-122.641336,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.permacold.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":789983155
         }
     ],
     "wof:id":789983155,
-    "wof:lastmodified":1466772883,
+    "wof:lastmodified":1486772005,
     "wof:name":"PermaCold Engineering Inc",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790238659,
   "type": "Feature",
   "properties": {
+    "addr:full":"4380 SW Macadam Ave # 245 Portland OR 97239",
+    "addr:housenumber":"4380",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Ave # 245",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67308,45.491379,-122.67308,45.491379",
     "geom:latitude":45.491379,
     "geom:longitude":-122.67308,
@@ -36,12 +41,14 @@
     "sg:website":"http://www.nitiative.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790238659
         }
     ],
     "wof:id":790238659,
-    "wof:lastmodified":1466772334,
+    "wof:lastmodified":1486773625,
     "wof:name":"Initiative Media North America",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

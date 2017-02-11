@@ -2,9 +2,14 @@
   "id": 790042553,
   "type": "Feature",
   "properties": {
+    "addr:full":"4246 SE Belmont St Portland OR 97215",
+    "addr:housenumber":"4246",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61864,45.51656,-122.61864,45.51656",
     "geom:latitude":45.51656,
     "geom:longitude":-122.61864,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790042553
         }
     ],
     "wof:id":790042553,
-    "wof:lastmodified":1466767898,
+    "wof:lastmodified":1486769898,
     "wof:name":"Slappy Cakes",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

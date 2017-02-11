@@ -2,9 +2,14 @@
   "id": 370346981,
   "type": "Feature",
   "properties": {
+    "addr:full":"5656 SW Humphrey Blvd Portland OR 97221",
+    "addr:housenumber":"5656",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Humphrey Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.734547,45.508109,-122.734547,45.508109",
     "geom:latitude":45.508109,
     "geom:longitude":-122.734547,
@@ -29,10 +34,13 @@
     "sg:website":"www.kipcor.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893251
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"c8641b3037f147b24342152b89770650",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":370346981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":370346981
         }
     ],
     "wof:id":370346981,
-    "wof:lastmodified":1466770739,
+    "wof:lastmodified":1486770600,
     "wof:name":"Immanuel Korean Presbyterian",
-    "wof:parent_id":85893251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

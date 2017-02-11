@@ -2,9 +2,14 @@
   "id": 404158481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4125 SE Malden St Portland OR 97202",
+    "addr:housenumber":"4125",
+    "addr:postcode":"97202",
+    "addr:street":"Se Malden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621076,45.467829,-122.621076,45.467829",
     "geom:latitude":45.467829,
     "geom:longitude":-122.621076,
@@ -29,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715883,
+        102082213,
+        420536077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +53,29 @@
     "wof:geomhash":"56e1fbff4fef5a6abac37a9b572efffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
+            "region_id":85688513,
+            "venue_id":404158481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715883,
+            "neighbourhood_id":420536077,
             "region_id":85688513,
             "venue_id":404158481
         }
     ],
     "wof:id":404158481,
-    "wof:lastmodified":1466767387,
+    "wof:lastmodified":1486769935,
     "wof:name":"Southeast Soccer Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

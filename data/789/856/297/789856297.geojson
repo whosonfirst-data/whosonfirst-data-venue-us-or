@@ -2,9 +2,14 @@
   "id": 789856297,
   "type": "Feature",
   "properties": {
+    "addr:full":"4630 SE 26th Ave Portland OR 97202",
+    "addr:housenumber":"4630",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639358,45.489395,-122.639358,45.489395",
     "geom:latitude":45.489395,
     "geom:longitude":-122.639358,
@@ -41,12 +46,13 @@
     "sg:website":"www.blackcatplumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789856297
         }
     ],
     "wof:id":789856297,
-    "wof:lastmodified":1466770752,
+    "wof:lastmodified":1486767525,
     "wof:name":"Black Cat Plumbing",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

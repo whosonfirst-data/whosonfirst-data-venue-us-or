@@ -2,9 +2,14 @@
   "id": 790010887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2030 NE 44th Ave Portland OR 97213",
+    "addr:housenumber":"2030",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 44Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717933,45.50849,-122.717933,45.50849",
     "geom:latitude":45.50849,
     "geom:longitude":-122.717933,
@@ -29,12 +34,14 @@
     "sg:website":"www.whizkidsit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,25 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867153,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
+            "region_id":85688513,
+            "venue_id":790010887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":790010887
         }
     ],
     "wof:id":790010887,
-    "wof:lastmodified":1466767594,
+    "wof:lastmodified":1486772026,
     "wof:name":"WhizKids",
-    "wof:parent_id":85867153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

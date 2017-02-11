@@ -2,9 +2,14 @@
   "id": 789892519,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 SW 3rd Ave Ste 101 Portland OR 97204",
+    "addr:housenumber":"920",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 3Rd Ave Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676316,45.516552,-122.676316,45.516552",
     "geom:latitude":45.516552,
     "geom:longitude":-122.676316,
@@ -29,12 +34,13 @@
     "sg:website":"www.mindglo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789892519
         }
     ],
     "wof:id":789892519,
-    "wof:lastmodified":1466771803,
+    "wof:lastmodified":1486764151,
     "wof:name":"MindGlo",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

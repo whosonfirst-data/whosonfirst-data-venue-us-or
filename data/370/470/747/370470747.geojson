@@ -2,9 +2,14 @@
   "id": 370470747,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 SE 127th Ave Portland OR 97233",
+    "addr:housenumber":"124",
+    "addr:postcode":"97233",
+    "addr:street":"Se 127Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532603,45.519053,-122.532603,45.519053",
     "geom:latitude":45.519053,
     "geom:longitude":-122.532603,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"513aecddcacafc1678ee7a9e48a99db8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":370470747
         }
     ],
     "wof:id":370470747,
-    "wof:lastmodified":1466772026,
+    "wof:lastmodified":1486772232,
     "wof:name":"Survival Games Rest",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

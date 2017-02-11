@@ -2,9 +2,14 @@
   "id": 789830195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1535 SW Clay Portland OR 97201",
+    "addr:housenumber":"1535",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Clay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690742,45.516236,-122.690742,45.516236",
     "geom:latitude":45.516236,
     "geom:longitude":-122.690742,
@@ -29,12 +34,13 @@
     "sg:website":"portlandsbesttutoring.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789830195
         }
     ],
     "wof:id":789830195,
-    "wof:lastmodified":1466769688,
+    "wof:lastmodified":1486764145,
     "wof:name":"Portland's Best Tutoring Service",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

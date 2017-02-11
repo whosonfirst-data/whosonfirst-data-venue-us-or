@@ -2,9 +2,14 @@
   "id": 371018615,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 NW Vaughn St Portland OR 97210",
+    "addr:housenumber":"2600",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Vaughn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706873,45.53677,-122.706873,45.53677",
     "geom:latitude":45.53677,
     "geom:longitude":-122.706873,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e5c9ec4f509b1dff2f5ff590124b12af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":371018615
         }
     ],
     "wof:id":371018615,
-    "wof:lastmodified":1466767454,
+    "wof:lastmodified":1486763054,
     "wof:name":"Amatojohnson",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

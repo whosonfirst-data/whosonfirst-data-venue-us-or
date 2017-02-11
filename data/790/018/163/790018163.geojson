@@ -2,9 +2,14 @@
   "id": 790018163,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 SE Ash St Ste 11 Portland OR 97214",
+    "addr:housenumber":"537;11",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660014,45.521728,-122.660014,45.521728",
     "geom:latitude":45.521728,
     "geom:longitude":-122.660014,
@@ -30,12 +35,14 @@
     "sg:website":"www.art-etc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790018163
         }
     ],
     "wof:id":790018163,
-    "wof:lastmodified":1466767634,
+    "wof:lastmodified":1486773497,
     "wof:name":"Art Etc",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

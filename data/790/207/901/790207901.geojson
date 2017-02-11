@@ -2,9 +2,14 @@
   "id": 790207901,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 NE Glisan Street Portland OR 97232",
+    "addr:housenumber":"2828",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Glisan Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63667,45.52632,-122.63667,45.52632",
     "geom:latitude":45.52632,
     "geom:longitude":-122.63667,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790207901
         }
     ],
     "wof:id":790207901,
-    "wof:lastmodified":1466771809,
+    "wof:lastmodified":1486771004,
     "wof:name":"Decker's Radiator",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

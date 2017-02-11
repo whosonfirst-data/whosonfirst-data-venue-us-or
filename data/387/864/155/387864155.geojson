@@ -2,9 +2,14 @@
   "id": 387864155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4853 SE Rex Dr Portland OR 97206",
+    "addr:housenumber":"4853",
+    "addr:postcode":"97206",
+    "addr:street":"Se Rex Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612834,45.467767,-122.612834,45.467767",
     "geom:latitude":45.467767,
     "geom:longitude":-122.612834,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"9e973b743e7fbb948c4002a54d7cafaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":387864155
         }
     ],
     "wof:id":387864155,
-    "wof:lastmodified":1466775189,
+    "wof:lastmodified":1486772251,
     "wof:name":"Budget Appliance Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

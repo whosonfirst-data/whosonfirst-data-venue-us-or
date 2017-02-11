@@ -2,9 +2,14 @@
   "id": 370217013,
   "type": "Feature",
   "properties": {
+    "addr:full":"8305 SE Morrison St Portland OR 97216",
+    "addr:housenumber":"8305",
+    "addr:postcode":"97216",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.577787,45.51698,-122.577787,45.51698",
     "geom:latitude":45.51698,
     "geom:longitude":-122.577787,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"5c1a8c7240245ac19f60d60270f74513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":370217013
         }
     ],
     "wof:id":370217013,
-    "wof:lastmodified":1466768322,
+    "wof:lastmodified":1486766759,
     "wof:name":"Gerald Janes",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

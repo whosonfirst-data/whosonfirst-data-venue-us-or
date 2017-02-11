@@ -2,9 +2,14 @@
   "id": 403824219,
   "type": "Feature",
   "properties": {
+    "addr:full":"4139 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"4139",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62117,45.535624,-122.62117,45.535624",
     "geom:latitude":45.535624,
     "geom:longitude":-122.62117,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:brand_id":420574755,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"76dc98c52456cd4cc3596e732f49cfac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":403824219
         }
     ],
     "wof:id":403824219,
-    "wof:lastmodified":1466770201,
+    "wof:lastmodified":1486768868,
     "wof:name":"Western Union",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

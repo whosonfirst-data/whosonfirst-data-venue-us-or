@@ -2,9 +2,14 @@
   "id": 773135639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 NW Everett St Portland OR 97209",
+    "addr:housenumber":"1400",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Everett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686253,45.52502,-122.686253,45.52502",
     "geom:latitude":45.52502,
     "geom:longitude":-122.686253,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":773135639
         }
     ],
     "wof:id":773135639,
-    "wof:lastmodified":1466769165,
+    "wof:lastmodified":1486770312,
     "wof:name":"Cellars 33 LLC",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

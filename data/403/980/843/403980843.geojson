@@ -2,9 +2,14 @@
   "id": 403980843,
   "type": "Feature",
   "properties": {
+    "addr:full":"16630 SE Lillian Way Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16630;97236",
+    "addr:street":"Se Lillian Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.49217,45.490787,-122.49217,45.490787",
     "geom:latitude":45.490787,
     "geom:longitude":-122.49217,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"3924cc9aa33fdf3bdd56001348f70b70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":403980843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":403980843
         }
     ],
     "wof:id":403980843,
-    "wof:lastmodified":1466768808,
+    "wof:lastmodified":1486772202,
     "wof:name":"A Best Construction",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

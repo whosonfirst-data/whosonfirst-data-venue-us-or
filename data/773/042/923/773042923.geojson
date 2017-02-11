@@ -2,9 +2,14 @@
   "id": 773042923,
   "type": "Feature",
   "properties": {
+    "addr:full":"2714 NE 61st Ave Portland OR 97213",
+    "addr:housenumber":"2714",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600392,45.543549,-122.600392,45.543549",
     "geom:latitude":45.543549,
     "geom:longitude":-122.600392,
@@ -27,7 +32,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867145,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ClbRjyf9pbVA9g1EX53bU_45.543549_-122.600392@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462582686,
     "wof:geomhash":"677a390f80048b48f3678a72449875e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
+            "region_id":85688513,
+            "venue_id":773042923
+        }
+    ],
     "wof:id":773042923,
-    "wof:lastmodified":1466770852,
+    "wof:lastmodified":1486770372,
     "wof:name":"Haywood Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

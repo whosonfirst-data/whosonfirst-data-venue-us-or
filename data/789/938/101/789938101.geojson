@@ -2,9 +2,14 @@
   "id": 789938101,
   "type": "Feature",
   "properties": {
+    "addr:full":"5339 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"5339",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607737,45.495032,-122.607737,45.495032",
     "geom:latitude":45.495032,
     "geom:longitude":-122.607737,
@@ -29,12 +34,13 @@
     "sg:website":"www.fosterburger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789938101
         }
     ],
     "wof:id":789938101,
-    "wof:lastmodified":1466772370,
+    "wof:lastmodified":1486771651,
     "wof:name":"Foster Burger",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

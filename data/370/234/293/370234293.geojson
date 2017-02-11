@@ -2,9 +2,14 @@
   "id": 370234293,
   "type": "Feature",
   "properties": {
+    "addr:full":"8777 SE 156th Ave Portland OR 97086",
+    "addr:housenumber":"8777",
+    "addr:postcode":"97086",
+    "addr:street":"Se 156Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.501845,45.460658,-122.501845,45.460658",
     "geom:latitude":45.460658,
     "geom:longitude":-122.501845,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"7542878c05241d2966b1338dc1313ad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":-1,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":370234293
         }
     ],
     "wof:id":370234293,
-    "wof:lastmodified":1466768606,
+    "wof:lastmodified":1486772197,
     "wof:name":"Burbecks Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

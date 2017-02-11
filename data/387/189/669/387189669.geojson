@@ -2,9 +2,14 @@
   "id": 387189669,
   "type": "Feature",
   "properties": {
+    "addr:full":"6305 SE 97th Ave Portland OR 97266",
+    "addr:housenumber":"6305",
+    "addr:postcode":"97266",
+    "addr:street":"Se 97Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.56354,45.476863,-122.56354,45.476863",
     "geom:latitude":45.476863,
     "geom:longitude":-122.56354,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ca70c652bcf984bd35279dd634f46539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":387189669
         }
     ],
     "wof:id":387189669,
-    "wof:lastmodified":1466770572,
+    "wof:lastmodified":1486769568,
     "wof:name":"Futon Express",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

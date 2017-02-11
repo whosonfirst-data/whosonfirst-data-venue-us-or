@@ -2,9 +2,14 @@
   "id": 370360003,
   "type": "Feature",
   "properties": {
+    "addr:full":"1253 N Farragut St Portland OR 97217",
+    "addr:housenumber":"1253",
+    "addr:postcode":"97217",
+    "addr:street":"N Farragut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679774,45.579391,-122.679774,45.579391",
     "geom:latitude":45.579391,
     "geom:longitude":-122.679774,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513,
+        85828137,
+        1108714605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"db59ec56035613cababdef0bf5bdbede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":370360003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370360003
         }
     ],
     "wof:id":370360003,
-    "wof:lastmodified":1466771010,
+    "wof:lastmodified":1486769505,
     "wof:name":"Coles Painting & Remodeling",
-    "wof:parent_id":85841531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

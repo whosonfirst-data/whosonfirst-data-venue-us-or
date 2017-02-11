@@ -2,9 +2,14 @@
   "id": 354357863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3235 SE Ash St Portland OR 97214",
+    "addr:housenumber":"3235",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.630721,45.521781,-122.630721,45.521781",
     "geom:latitude":45.521781,
     "geom:longitude":-122.630721,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"9cd144db58e7a7d913242e5f1afab632",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":354357863
         }
     ],
     "wof:id":354357863,
-    "wof:lastmodified":1466770509,
+    "wof:lastmodified":1486769528,
     "wof:name":"Simpson James F Law Offices",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

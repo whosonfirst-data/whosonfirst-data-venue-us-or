@@ -2,9 +2,14 @@
   "id": 354326109,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 SE Oak St Portland OR 97214",
+    "addr:housenumber":"3310",
+    "addr:postcode":"97214",
+    "addr:street":"Se Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628451,45.520211,-122.628451,45.520211",
     "geom:latitude":45.520211,
     "geom:longitude":-122.628451,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b121951cec8708bb8ab459b22f8fd27d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":354326109
         }
     ],
     "wof:id":354326109,
-    "wof:lastmodified":1466769843,
+    "wof:lastmodified":1486769532,
     "wof:name":"Momentum Research",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

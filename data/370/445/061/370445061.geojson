@@ -2,9 +2,14 @@
   "id": 370445061,
   "type": "Feature",
   "properties": {
+    "addr:full":"3903 NE 34th Ave Portland OR 97212",
+    "addr:housenumber":"3903",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 34Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629747,45.550399,-122.629747,45.550399",
     "geom:latitude":45.550399,
     "geom:longitude":-122.629747,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"983212a6a39ec804d456f7aa004d7d8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827095,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":370445061
         }
     ],
     "wof:id":370445061,
-    "wof:lastmodified":1466771819,
+    "wof:lastmodified":1486771496,
     "wof:name":"Robyn Waters Ink",
-    "wof:parent_id":85827095,
+    "wof:parent_id":85893155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

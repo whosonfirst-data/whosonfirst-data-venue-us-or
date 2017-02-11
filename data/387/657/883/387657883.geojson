@@ -2,9 +2,14 @@
   "id": 387657883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3531 NE 15th Ave Portland OR 97212",
+    "addr:housenumber":"3531",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650462,45.549287,-122.650462,45.549287",
     "geom:latitude":45.549287,
     "geom:longitude":-122.650462,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893235
+        85688513
     ],
     "wof:brand_id":420574497,
     "wof:breaches":[],
@@ -45,19 +52,20 @@
     "wof:geomhash":"8406703aefa9f6f282272258293e2f63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893235,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":387657883
         }
     ],
     "wof:id":387657883,
-    "wof:lastmodified":1466774270,
+    "wof:lastmodified":1486771982,
     "wof:name":"Planned Parenthood",
-    "wof:parent_id":85893235,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

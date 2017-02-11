@@ -2,9 +2,14 @@
   "id": 790058625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1440 N Lombard St Portland OR 97217",
+    "addr:housenumber":"1440",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68125,45.577009,-122.68125,45.577009",
     "geom:latitude":45.577009,
     "geom:longitude":-122.68125,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":790058625
         }
     ],
     "wof:id":790058625,
-    "wof:lastmodified":1466768260,
+    "wof:lastmodified":1486772109,
     "wof:name":"Activate Cellular Sales",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387081647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2548 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"2548",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64041,45.522075,-122.64041,45.522075",
     "geom:latitude":45.522075,
     "geom:longitude":-122.64041,
@@ -29,11 +34,13 @@
     "sg:website":"www.valuecad.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"3f8b434b8127f89db304d1ece455f50d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387081647
         }
     ],
     "wof:id":387081647,
-    "wof:lastmodified":1466768500,
+    "wof:lastmodified":1486771417,
     "wof:name":"Valuecad",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

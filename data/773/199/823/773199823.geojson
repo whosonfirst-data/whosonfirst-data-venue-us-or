@@ -2,9 +2,14 @@
   "id": 773199823,
   "type": "Feature",
   "properties": {
+    "addr:full":"8959 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"8959",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.707248,45.460359,-122.707248,45.460359",
     "geom:latitude":45.460359,
     "geom:longitude":-122.707248,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513,
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":773199823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":773199823
         }
     ],
     "wof:id":773199823,
-    "wof:lastmodified":1466771663,
+    "wof:lastmodified":1486769630,
     "wof:name":"Impact Business Consultants",
-    "wof:parent_id":85871489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

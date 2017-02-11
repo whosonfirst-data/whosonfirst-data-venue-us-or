@@ -2,9 +2,14 @@
   "id": 371003133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 SE Larch Ave Portland OR 97214",
+    "addr:housenumber":"1905",
+    "addr:postcode":"97214",
+    "addr:street":"Se Larch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652563,45.508588,-122.652563,45.508588",
     "geom:latitude":45.508588,
     "geom:longitude":-122.652563,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"169dbe9d5f526626921c4731c118f247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":371003133
         }
     ],
     "wof:id":371003133,
-    "wof:lastmodified":1466767183,
+    "wof:lastmodified":1486773547,
     "wof:name":"James E Fries Consulting",
-    "wof:parent_id":85828991,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

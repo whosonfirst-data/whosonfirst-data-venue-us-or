@@ -2,9 +2,14 @@
   "id": 773847229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 NE 33rd Ave Portland OR 97212",
+    "addr:housenumber":"1915",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 33Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.630662,45.536534,-122.630662,45.536534",
     "geom:latitude":45.536534,
     "geom:longitude":-122.630662,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.pps.k12.or.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893189
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":773847229
         }
     ],
     "wof:id":773847229,
-    "wof:lastmodified":1466776038,
+    "wof:lastmodified":1486768763,
     "wof:name":"Fernwood Middle School",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",

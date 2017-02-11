@@ -2,9 +2,14 @@
   "id": 354295623,
   "type": "Feature",
   "properties": {
+    "addr:full":"11136 SW 64th Ave Portland OR 97219",
+    "addr:housenumber":"11136",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 64Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742583,45.443949,-122.742583,45.443949",
     "geom:latitude":45.443949,
     "geom:longitude":-122.742583,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
+        102191575,
+        1108714057,
         85633793,
-        101715823,
-        102082215,
-        85853819
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"13b47e361e773f467d748618f813fe1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101715823,
-            "neighbourhood_id":85853819,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":354295623
         }
     ],
     "wof:id":354295623,
-    "wof:lastmodified":1466769447,
+    "wof:lastmodified":1486772406,
     "wof:name":"Interactive Marketing Inc",
-    "wof:parent_id":85853819,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

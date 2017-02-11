@@ -2,9 +2,14 @@
   "id": 789949099,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 NW 6th Avenue Portland OR 97209",
+    "addr:housenumber":"800",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677002,45.5285,-122.677002,45.5285",
     "geom:latitude":45.5285,
     "geom:longitude":-122.677002,
@@ -26,12 +31,13 @@
     "sg:website":"www.amtrakcascades.com/Portland....",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867143,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789949099
         }
     ],
     "wof:id":789949099,
-    "wof:lastmodified":1466772473,
+    "wof:lastmodified":1486770701,
     "wof:name":"Union Station",
-    "wof:parent_id":85867143,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

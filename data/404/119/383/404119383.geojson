@@ -2,9 +2,14 @@
   "id": 404119383,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 NW Quimby St Portland OR 97210",
+    "addr:housenumber":"2433",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Quimby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702307,45.533366,-122.702307,45.533366",
     "geom:latitude":45.533366,
     "geom:longitude":-122.702307,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"80606cf4b8f0c08848af728c1a9fe233",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":404119383
         }
     ],
     "wof:id":404119383,
-    "wof:lastmodified":1466770969,
+    "wof:lastmodified":1486771150,
     "wof:name":"Michael C Houck",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354251283,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 NW 5th Ave Portland OR 97209",
+    "addr:housenumber":"322",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675585,45.52577,-122.675585,45.52577",
     "geom:latitude":45.52577,
     "geom:longitude":-122.675585,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5d4f1e4e9765ee55470913cea918ea5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":354251283
         }
     ],
     "wof:id":354251283,
-    "wof:lastmodified":1466768676,
+    "wof:lastmodified":1486763102,
     "wof:name":"Advocate",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

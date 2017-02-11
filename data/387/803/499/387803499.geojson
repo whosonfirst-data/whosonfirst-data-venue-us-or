@@ -2,9 +2,14 @@
   "id": 387803499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 NW Suffolk St Portland OR 97210",
+    "addr:housenumber":"2323",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Suffolk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69962,45.542059,-122.69962,45.542059",
     "geom:latitude":45.542059,
     "geom:longitude":-122.69962,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"70be5bb91e291b8ec897d7e5dcc0ecaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":387803499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":387803499
         }
     ],
     "wof:id":387803499,
-    "wof:lastmodified":1466775084,
+    "wof:lastmodified":1486771111,
     "wof:name":"Inchcape Shipping Svc",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

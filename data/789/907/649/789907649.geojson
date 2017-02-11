@@ -2,9 +2,14 @@
   "id": 789907649,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 SW 11th Ave Ste 304 Portland OR 97205",
+    "addr:housenumber":"521",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 11Th Ave Ste 304",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682492,45.52146,-122.682492,45.52146",
     "geom:latitude":45.52146,
     "geom:longitude":-122.682492,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789907649
         }
     ],
     "wof:id":789907649,
-    "wof:lastmodified":1466772041,
+    "wof:lastmodified":1486765285,
     "wof:name":"Harrington Square",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

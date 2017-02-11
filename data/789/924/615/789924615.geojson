@@ -2,9 +2,14 @@
   "id": 789924615,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 SW Washington Street Portland OR 97205",
+    "addr:housenumber":"720",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Washington Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679086,45.520732,-122.679086,45.520732",
     "geom:latitude":45.520732,
     "geom:longitude":-122.679086,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789924615
         }
     ],
     "wof:id":789924615,
-    "wof:lastmodified":1466772248,
+    "wof:lastmodified":1486764987,
     "wof:name":"Bellville Charles G Phy MD",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

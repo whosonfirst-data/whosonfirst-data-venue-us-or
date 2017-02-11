@@ -2,9 +2,14 @@
   "id": 403748041,
   "type": "Feature",
   "properties": {
+    "addr:full":"10706 NE Klickitat St Portland OR 97220",
+    "addr:housenumber":"10706",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Klickitat St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553287,45.546719,-122.553287,45.546719",
     "geom:latitude":45.546719,
     "geom:longitude":-122.553287,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"8ea8d0b500bd0d624a8660bfb8e1ba0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":403748041
         }
     ],
     "wof:id":403748041,
-    "wof:lastmodified":1466771455,
+    "wof:lastmodified":1486768801,
     "wof:name":"B P Young Enterprises",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

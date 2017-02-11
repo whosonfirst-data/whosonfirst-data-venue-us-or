@@ -2,9 +2,14 @@
   "id": 354297817,
   "type": "Feature",
   "properties": {
+    "addr:full":"2246 NW Roosevelt St Portland OR 97210",
+    "addr:housenumber":"2246",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696919,45.538306,-122.696919,45.538306",
     "geom:latitude":45.538306,
     "geom:longitude":-122.696919,
@@ -34,11 +39,13 @@
     "sg:website":"www.sherwinwilliams.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:brand_id":420573931,
     "wof:breaches":[],
@@ -49,17 +56,18 @@
     "wof:geomhash":"08f794c121445d52a38ad517c7ae81dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":354297817
         }
     ],
     "wof:id":354297817,
-    "wof:lastmodified":1466769473,
+    "wof:lastmodified":1486763320,
     "wof:name":"Sherwin-Williams Paints",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

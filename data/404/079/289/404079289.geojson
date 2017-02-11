@@ -2,9 +2,14 @@
   "id": 404079289,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 NE 60th Ave Portland OR 97213",
+    "addr:housenumber":"901",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.602223,45.529343,-122.602223,45.529343",
     "geom:latitude":45.529343,
     "geom:longitude":-122.602223,
@@ -31,11 +36,13 @@
     "sg:website":"www.graybar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"f9e8389fb17c4556103cb5bcb203f190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":404079289
         }
     ],
     "wof:id":404079289,
-    "wof:lastmodified":1466769918,
+    "wof:lastmodified":1486770372,
     "wof:name":"Graybar Electric Co",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

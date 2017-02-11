@@ -2,9 +2,14 @@
   "id": 789853601,
   "type": "Feature",
   "properties": {
+    "addr:full":"1514 SE Ramona St Portland OR 97202",
+    "addr:housenumber":"1514",
+    "addr:postcode":"97202",
+    "addr:street":"Se Ramona St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650571,45.480713,-122.650571,45.480713",
     "geom:latitude":45.480713,
     "geom:longitude":-122.650571,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789853601
         }
     ],
     "wof:id":789853601,
-    "wof:lastmodified":1466770638,
+    "wof:lastmodified":1486770487,
     "wof:name":"23 7 Locksmith",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

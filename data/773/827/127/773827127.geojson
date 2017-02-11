@@ -2,9 +2,14 @@
   "id": 773827127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3363 SE 20th Ave Portland OR 97202",
+    "addr:housenumber":"3363",
+    "addr:postcode":"97202",
+    "addr:street":"Se 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645664,45.498496,-122.645664,45.498496",
     "geom:latitude":45.498496,
     "geom:longitude":-122.645664,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513,
+        85807897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
+            "region_id":85688513,
+            "venue_id":773827127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":773827127
         }
     ],
     "wof:id":773827127,
-    "wof:lastmodified":1466776156,
+    "wof:lastmodified":1486769408,
     "wof:name":"Sunset Printing",
-    "wof:parent_id":85893193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

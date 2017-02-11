@@ -2,9 +2,14 @@
   "id": 370690469,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 SW Vista Ave Portland OR 97205",
+    "addr:housenumber":"733",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.698266,45.523381,-122.698266,45.523381",
     "geom:latitude":45.523381,
     "geom:longitude":-122.698266,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"910ed1fb6f339217db0f9554c608711e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":370690469
         }
     ],
     "wof:id":370690469,
-    "wof:lastmodified":1466773394,
+    "wof:lastmodified":1486770959,
     "wof:name":"Regional Financial Advisors",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

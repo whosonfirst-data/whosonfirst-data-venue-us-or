@@ -2,9 +2,14 @@
   "id": 790237037,
   "type": "Feature",
   "properties": {
+    "addr:full":"38322 PARADISE WAY Portland OR 97239",
+    "addr:housenumber":"38322",
+    "addr:postcode":"97239",
+    "addr:street":"Paradise Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674713,45.500397,-122.674713,45.500397",
     "geom:latitude":45.500397,
     "geom:longitude":-122.674713,
@@ -30,12 +35,14 @@
     "sg:website":"http://www.funjet.com/index.asp?plcode=38712461",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790237037
         }
     ],
     "wof:id":790237037,
-    "wof:lastmodified":1466772158,
+    "wof:lastmodified":1486773646,
     "wof:name":"The Travel Shop",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773692813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 N Portland Blvd Portland OR 97217",
+    "addr:housenumber":"2201",
+    "addr:postcode":"97217",
+    "addr:street":"N Portland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690143,45.569924,-122.690143,45.569924",
     "geom:latitude":45.569924,
     "geom:longitude":-122.690143,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773692813
         }
     ],
     "wof:id":773692813,
-    "wof:lastmodified":1466775744,
+    "wof:lastmodified":1486772117,
     "wof:name":"North Portland Music Acad",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

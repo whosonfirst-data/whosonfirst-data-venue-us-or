@@ -2,9 +2,14 @@
   "id": 790084405,
   "type": "Feature",
   "properties": {
+    "addr:full":"7739 SW 10th Ave Portland OR 97219",
+    "addr:housenumber":"7739",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688603,45.46864,-122.688603,45.46864",
     "geom:latitude":45.46864,
     "geom:longitude":-122.688603,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.superior-tel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":790084405
         }
     ],
     "wof:id":790084405,
-    "wof:lastmodified":1466767320,
+    "wof:lastmodified":1486764748,
     "wof:name":"Superior Tel",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

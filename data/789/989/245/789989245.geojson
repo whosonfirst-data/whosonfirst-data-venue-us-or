@@ -2,9 +2,14 @@
   "id": 789989245,
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 NE 29th Ave Portland OR 97211",
+    "addr:housenumber":"4702",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635876,45.557016,-122.635876,45.557016",
     "geom:latitude":45.557016,
     "geom:longitude":-122.635876,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789989245
         }
     ],
     "wof:id":789989245,
-    "wof:lastmodified":1466772940,
+    "wof:lastmodified":1486771559,
     "wof:name":"Solamor Energy Solutions",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790259395,
   "type": "Feature",
   "properties": {
+    "addr:full":"9333 SE Mount Scott Boulevard Portland OR 97266",
+    "addr:housenumber":"9333",
+    "addr:postcode":"97266",
+    "addr:street":"Se Mount Scott Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.56806,45.467786,-122.56806,45.467786",
     "geom:latitude":45.467786,
     "geom:longitude":-122.56806,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790259395
         }
     ],
     "wof:id":790259395,
-    "wof:lastmodified":1466772666,
+    "wof:lastmodified":1486769558,
     "wof:name":"Jehovah's Witnesses Mt Scott & Foster Rd",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

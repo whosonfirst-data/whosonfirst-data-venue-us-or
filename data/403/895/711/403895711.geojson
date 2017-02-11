@@ -2,9 +2,14 @@
   "id": 403895711,
   "type": "Feature",
   "properties": {
+    "addr:full":"9310 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"9310",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.718936,45.457545,-122.718936,45.457545",
     "geom:latitude":45.457545,
     "geom:longitude":-122.718936,
@@ -30,12 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85871471,
-        85871489
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +53,40 @@
     "wof:geomhash":"09fc744a1d39164b699de2b3d96765f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":403895711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871471,
             "region_id":85688513,
             "venue_id":403895711
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":403895711
         }
     ],
     "wof:id":403895711,
-    "wof:lastmodified":1466767293,
+    "wof:lastmodified":1486769632,
     "wof:name":"Anderson Door Mechanics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

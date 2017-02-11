@@ -2,9 +2,14 @@
   "id": 789985471,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 N Mississippi Ave Portland OR 97211",
+    "addr:housenumber":"3705",
+    "addr:postcode":"97211",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676003,45.549801,-122.676003,45.549801",
     "geom:latitude":45.549801,
     "geom:longitude":-122.676003,
@@ -30,12 +35,14 @@
     "sg:website":"www.pin-me-apparel.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":789985471
         }
     ],
     "wof:id":789985471,
-    "wof:lastmodified":1466773033,
+    "wof:lastmodified":1486773743,
     "wof:name":"Pin-Me Apparel",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

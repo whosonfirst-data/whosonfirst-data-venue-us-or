@@ -2,9 +2,14 @@
   "id": 403883011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 SW Buena Vista Pl Portland OR 97201",
+    "addr:housenumber":"2608",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Buena Vista Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704418,45.509456,-122.704418,45.509456",
     "geom:latitude":45.509456,
     "geom:longitude":-122.704418,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"8499fd8c1c52de9f2c95ad6ecdfb2f9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":403883011
         }
     ],
     "wof:id":403883011,
-    "wof:lastmodified":1466771387,
+    "wof:lastmodified":1486773811,
     "wof:name":"Hampton Woods Canoe Club",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

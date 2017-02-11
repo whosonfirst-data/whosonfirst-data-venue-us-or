@@ -2,9 +2,14 @@
   "id": 387100735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3557 SE Hawthorne Blvd Portland OR 97214",
+    "addr:housenumber":"3557",
+    "addr:postcode":"97214",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626828,45.51213,-122.626828,45.51213",
     "geom:latitude":45.51213,
     "geom:longitude":-122.626828,
@@ -30,11 +35,14 @@
     "sg:website":"www.hollywoodvideo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:brand_id":420573905,
     "wof:breaches":[],
@@ -45,19 +53,21 @@
     "wof:geomhash":"fe99fae0b8b5b19cc04f1279351f116c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387100735
         }
     ],
     "wof:id":387100735,
-    "wof:lastmodified":1466768820,
+    "wof:lastmodified":1486773689,
     "wof:name":"Hollywood Video",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

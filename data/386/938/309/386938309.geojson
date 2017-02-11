@@ -2,9 +2,14 @@
   "id": 386938309,
   "type": "Feature",
   "properties": {
+    "addr:full":"432 NE 10th Ave Portland OR 97232",
+    "addr:housenumber":"432",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655536,45.526302,-122.655536,45.526302",
     "geom:latitude":45.526302,
     "geom:longitude":-122.655536,
@@ -32,11 +37,14 @@
     "sg:website":"www.newsystem.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +54,21 @@
     "wof:geomhash":"a60d8a9ddde863b5b8ec7e140d05ae8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":386938309
         }
     ],
     "wof:id":386938309,
-    "wof:lastmodified":1466767200,
+    "wof:lastmodified":1486773489,
     "wof:name":"New System Laundry LLC",
-    "wof:parent_id":85871495,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

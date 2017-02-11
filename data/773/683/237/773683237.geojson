@@ -2,9 +2,14 @@
   "id": 773683237,
   "type": "Feature",
   "properties": {
+    "addr:full":"5184 SW Custer St Portland OR 97219",
+    "addr:housenumber":"5184",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Custer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73066,45.469959,-122.73066,45.469959",
     "geom:latitude":45.469959,
     "geom:longitude":-122.73066,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":773683237
         }
     ],
     "wof:id":773683237,
-    "wof:lastmodified":1466775702,
+    "wof:lastmodified":1486765568,
     "wof:name":"Woodlight",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

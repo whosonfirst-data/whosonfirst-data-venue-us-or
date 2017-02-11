@@ -2,9 +2,14 @@
   "id": 789588299,
   "type": "Feature",
   "properties": {
+    "addr:full":"11001 NE Halsey St Portland OR 97220",
+    "addr:housenumber":"11001",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549004,45.5336,-122.549004,45.5336",
     "geom:latitude":45.5336,
     "geom:longitude":-122.549004,
@@ -30,12 +35,13 @@
     "sg:website":"www.lily-market.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":789588299
         }
     ],
     "wof:id":789588299,
-    "wof:lastmodified":1466768080,
+    "wof:lastmodified":1486768272,
     "wof:name":"Lily Market Oriental Food & Gifts",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370229231,
   "type": "Feature",
   "properties": {
+    "addr:full":"4524 NE 89th Ave Portland OR 97220",
+    "addr:housenumber":"4524",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 89Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.571244,45.556453,-122.571244,45.556453",
     "geom:latitude":45.556453,
     "geom:longitude":-122.571244,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"53587209613fbf0cf2b657b7b41f8990",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":370229231
         }
     ],
     "wof:id":370229231,
-    "wof:lastmodified":1466768519,
+    "wof:lastmodified":1486768407,
     "wof:name":"Business Innovations",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773481453,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 N Alberta St Portland OR 97217",
+    "addr:housenumber":"914",
+    "addr:postcode":"97217",
+    "addr:street":"N Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676214,45.558933,-122.676214,45.558933",
     "geom:latitude":45.558933,
     "geom:longitude":-122.676214,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":773481453
         }
     ],
     "wof:id":773481453,
-    "wof:lastmodified":1466774736,
+    "wof:lastmodified":1486768391,
     "wof:name":"Cherokee Laser",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387719261,
   "type": "Feature",
   "properties": {
+    "addr:full":"6016 NE Glisan St Portland OR 97213",
+    "addr:housenumber":"6016",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601012,45.526414,-122.601012,45.526414",
     "geom:latitude":45.526414,
     "geom:longitude":-122.601012,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +54,20 @@
     "wof:geomhash":"43672a8ad1984e02b4f41c835f51daf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":387719261
         }
     ],
     "wof:id":387719261,
-    "wof:lastmodified":1466774520,
+    "wof:lastmodified":1486772428,
     "wof:name":"Dragon's Head Books & Gifts",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790231163,
   "type": "Feature",
   "properties": {
+    "addr:full":"12918 SE Foster Road Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12918;97236",
+    "addr:street":"Se Foster Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.530181,45.476631,-122.530181,45.476631",
     "geom:latitude":45.476631,
     "geom:longitude":-122.530181,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536095,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790231163
         }
     ],
     "wof:id":790231163,
-    "wof:lastmodified":1466772173,
+    "wof:lastmodified":1486772204,
     "wof:name":"Bc Foods",
-    "wof:parent_id":420536095,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

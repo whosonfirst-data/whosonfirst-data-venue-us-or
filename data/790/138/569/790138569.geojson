@@ -2,9 +2,14 @@
   "id": 790138569,
   "type": "Feature",
   "properties": {
+    "addr:full":"7451 SW Garden Home Road Portland OR 97223",
+    "addr:housenumber":"7451",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752643,45.465629,-122.752643,45.465629",
     "geom:latitude":45.465629,
     "geom:longitude":-122.752643,
@@ -24,7 +29,15 @@
     "sg:postcode":"97223",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xSVp1NQRWK3sTQxcY3PWb_45.465629_-122.752643@1303263424"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462593420,
     "wof:geomhash":"bf2ad4319defe9c59000900cf43ec75d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790138569
+        }
+    ],
     "wof:id":790138569,
-    "wof:lastmodified":1466769277,
+    "wof:lastmodified":1486772396,
     "wof:name":"Shari's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

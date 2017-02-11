@@ -2,9 +2,14 @@
   "id": 789954969,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 NW 6th Avenue Portland OR 97209",
+    "addr:housenumber":"550",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676538,45.527237,-122.676538,45.527237",
     "geom:latitude":45.527237,
     "geom:longitude":-122.676538,
@@ -26,12 +31,13 @@
     "sg:website":"www.greyhound.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789954969
         }
     ],
     "wof:id":789954969,
-    "wof:lastmodified":1466772451,
+    "wof:lastmodified":1486762816,
     "wof:name":"Greyhound Bus Station",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

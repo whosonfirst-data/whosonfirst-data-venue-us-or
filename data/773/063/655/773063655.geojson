@@ -2,9 +2,14 @@
   "id": 773063655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1935 SE 130th Ave Portland OR 97233",
+    "addr:housenumber":"1935",
+    "addr:postcode":"97233",
+    "addr:street":"Se 130Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.530046,45.508139,-122.530046,45.508139",
     "geom:latitude":45.508139,
     "geom:longitude":-122.530046,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773063655
         }
     ],
     "wof:id":773063655,
-    "wof:lastmodified":1466771305,
+    "wof:lastmodified":1486772214,
     "wof:name":"Star Janitorial Svc Inc",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

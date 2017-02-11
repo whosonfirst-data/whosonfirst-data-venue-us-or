@@ -2,9 +2,14 @@
   "id": 370182773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4329 NE Killingsworth St Portland OR 97218",
+    "addr:housenumber":"4329",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618396,45.562871,-122.618396,45.562871",
     "geom:latitude":45.562871,
     "geom:longitude":-122.618396,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"2449d61c369e47bd53e189bed8f54c67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370182773
         }
     ],
     "wof:id":370182773,
-    "wof:lastmodified":1466767729,
+    "wof:lastmodified":1486771583,
     "wof:name":"Trim-Flex Vinyl Co",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

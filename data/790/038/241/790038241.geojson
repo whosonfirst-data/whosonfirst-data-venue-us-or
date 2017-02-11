@@ -2,9 +2,14 @@
   "id": 790038241,
   "type": "Feature",
   "properties": {
+    "addr:full":"2805 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"2805",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637172,45.522149,-122.637172,45.522149",
     "geom:latitude":45.522149,
     "geom:longitude":-122.637172,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790038241
         }
     ],
     "wof:id":790038241,
-    "wof:lastmodified":1466767836,
+    "wof:lastmodified":1486771021,
     "wof:name":"ZimZim",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

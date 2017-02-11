@@ -2,9 +2,14 @@
   "id": 773590927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2775 NW Upshur St Portland OR 97210",
+    "addr:housenumber":"2775",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Upshur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709926,45.536,-122.709926,45.536",
     "geom:latitude":45.536,
     "geom:longitude":-122.709926,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":773590927
         }
     ],
     "wof:id":773590927,
-    "wof:lastmodified":1466775305,
+    "wof:lastmodified":1486771164,
     "wof:name":"Keith Garnett",
-    "wof:parent_id":85857791,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789855137,
   "type": "Feature",
   "properties": {
+    "addr:full":"1612 SE Brooklyn St Portland OR 97202",
+    "addr:housenumber":"1612",
+    "addr:postcode":"97202",
+    "addr:street":"Se Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649564,45.501339,-122.649564,45.501339",
     "geom:latitude":45.501339,
     "geom:longitude":-122.649564,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.advanceelectricmotors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789855137
         }
     ],
     "wof:id":789855137,
-    "wof:lastmodified":1466770702,
+    "wof:lastmodified":1486766568,
     "wof:name":"Advance Electric Motors And Compressor Rebuilders Inc",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386970515,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 SE 167th Ave Portland OR 97233",
+    "addr:housenumber":"1135",
+    "addr:postcode":"97233",
+    "addr:street":"Se 167Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.491476,45.513897,-122.491476,45.513897",
     "geom:latitude":45.513897,
     "geom:longitude":-122.491476,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"836d52285233d769d1ea7ec4a7ae6d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":386970515
         }
     ],
     "wof:id":386970515,
-    "wof:lastmodified":1466767369,
+    "wof:lastmodified":1486771558,
     "wof:name":"Cronk Trucking LLC",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

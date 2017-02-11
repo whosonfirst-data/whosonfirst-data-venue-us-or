@@ -2,9 +2,14 @@
   "id": 370197019,
   "type": "Feature",
   "properties": {
+    "addr:full":"4409 SE 89th Ave Portland OR 97266",
+    "addr:housenumber":"4409",
+    "addr:postcode":"97266",
+    "addr:street":"Se 89Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.571496,45.490592,-122.571496,45.490592",
     "geom:latitude":45.490592,
     "geom:longitude":-122.571496,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"db98bdd16630275bad816d271c41e6bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370197019
         }
     ],
     "wof:id":370197019,
-    "wof:lastmodified":1466767984,
+    "wof:lastmodified":1486769564,
     "wof:name":"Twin Furs Adult Foster Care",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

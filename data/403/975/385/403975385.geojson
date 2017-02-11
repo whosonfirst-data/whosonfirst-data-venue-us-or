@@ -2,9 +2,14 @@
   "id": 403975385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1943 N Skidmore Ct Portland OR 97217",
+    "addr:housenumber":"1943",
+    "addr:postcode":"97217",
+    "addr:street":"N Skidmore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687894,45.555153,-122.687894,45.555153",
     "geom:latitude":45.555153,
     "geom:longitude":-122.687894,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"f67fd6772f04bffa96cab4098f328802",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":403975385
         }
     ],
     "wof:id":403975385,
-    "wof:lastmodified":1466768713,
+    "wof:lastmodified":1486771876,
     "wof:name":"Bottner Enterprises",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

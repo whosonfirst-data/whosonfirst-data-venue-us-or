@@ -2,9 +2,14 @@
   "id": 789990357,
   "type": "Feature",
   "properties": {
+    "addr:full":"4806 NE 20th Ave Portland OR 97211",
+    "addr:housenumber":"4806",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644851,45.55772,-122.644851,45.55772",
     "geom:latitude":45.55772,
     "geom:longitude":-122.644851,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789990357
         }
     ],
     "wof:id":789990357,
-    "wof:lastmodified":1466772970,
+    "wof:lastmodified":1486772065,
     "wof:name":"R And B Maintenance",
-    "wof:parent_id":85893213,
+    "wof:parent_id":85893257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

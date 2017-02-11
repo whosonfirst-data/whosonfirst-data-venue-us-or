@@ -2,9 +2,14 @@
   "id": 790048757,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 SE 82nd Portland OR 97216",
+    "addr:housenumber":"322",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578739,45.520658,-122.578739,45.520658",
     "geom:latitude":45.520658,
     "geom:longitude":-122.578739,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790048757
         }
     ],
     "wof:id":790048757,
-    "wof:lastmodified":1466768035,
+    "wof:lastmodified":1486766726,
     "wof:name":"Aaron's Wine Cellar And Piano Bar",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

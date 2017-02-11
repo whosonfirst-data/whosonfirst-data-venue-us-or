@@ -2,9 +2,14 @@
   "id": 370852651,
   "type": "Feature",
   "properties": {
+    "addr:full":"4822 SE Division St Portland OR 97206",
+    "addr:housenumber":"4822",
+    "addr:postcode":"97206",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612171,45.505224,-122.612171,45.505224",
     "geom:latitude":45.505224,
     "geom:longitude":-122.612171,
@@ -30,12 +35,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +52,21 @@
     "wof:geomhash":"d92522baa3c9d2d5b2dae69e8748a439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":370852651
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370852651
         }
     ],
     "wof:id":370852651,
-    "wof:lastmodified":1466774419,
+    "wof:lastmodified":1486773668,
     "wof:name":"Happy Hour Enterprise Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

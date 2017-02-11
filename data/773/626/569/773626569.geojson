@@ -2,9 +2,14 @@
   "id": 773626569,
   "type": "Feature",
   "properties": {
+    "addr:full":"4011 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"4011",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621566,45.522706,-122.621566,45.522706",
     "geom:latitude":45.522706,
     "geom:longitude":-122.621566,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":773626569
         }
     ],
     "wof:id":773626569,
-    "wof:lastmodified":1466775561,
+    "wof:lastmodified":1486769529,
     "wof:name":"Zancanella Importing Co",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

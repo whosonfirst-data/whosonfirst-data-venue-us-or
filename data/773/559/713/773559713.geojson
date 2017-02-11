@@ -2,9 +2,14 @@
   "id": 773559713,
   "type": "Feature",
   "properties": {
+    "addr:full":"341 NW 5th Ave Portland OR 97209",
+    "addr:housenumber":"341",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675432,45.525643,-122.675432,45.525643",
     "geom:latitude":45.525643,
     "geom:longitude":-122.675432,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":773559713
         }
     ],
     "wof:id":773559713,
-    "wof:lastmodified":1466775309,
+    "wof:lastmodified":1486763145,
     "wof:name":"Jda Creative Color Prepress",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370876399,
   "type": "Feature",
   "properties": {
+    "addr:full":"7137 N Omaha Ave Portland OR 97217",
+    "addr:housenumber":"7137",
+    "addr:postcode":"97217",
+    "addr:street":"N Omaha Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69046,45.574085,-122.69046,45.574085",
     "geom:latitude":45.574085,
     "geom:longitude":-122.69046,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"29c858d35a75ebd3a2a8b0c71996d0c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":370876399
         }
     ],
     "wof:id":370876399,
-    "wof:lastmodified":1466774409,
+    "wof:lastmodified":1486772107,
     "wof:name":"Mastef Services LLC",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

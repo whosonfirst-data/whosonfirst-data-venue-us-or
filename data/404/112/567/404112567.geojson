@@ -2,9 +2,14 @@
   "id": 404112567,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 N Russet St Portland OR 97217",
+    "addr:housenumber":"2929",
+    "addr:postcode":"97217",
+    "addr:street":"N Russet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695961,45.577855,-122.695961,45.577855",
     "geom:latitude":45.577855,
     "geom:longitude":-122.695961,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"9d61ea9a73f5e0989b3eded4a19e0fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":404112567
         }
     ],
     "wof:id":404112567,
-    "wof:lastmodified":1466770837,
+    "wof:lastmodified":1486769512,
     "wof:name":"Mod Wash Laundromat",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

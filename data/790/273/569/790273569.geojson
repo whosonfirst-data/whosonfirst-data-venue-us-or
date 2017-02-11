@@ -2,9 +2,14 @@
   "id": 790273569,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 10558 Portland OR 97296",
+    "addr:housenumber":"po box 10558",
+    "addr:postcode":"97296",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700996,45.534801,-122.700996,45.534801",
     "geom:latitude":45.534801,
     "geom:longitude":-122.700996,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":790273569
         }
     ],
     "wof:id":790273569,
-    "wof:lastmodified":1466772889,
+    "wof:lastmodified":1486763626,
     "wof:name":"Pope Rigging Loft Inc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

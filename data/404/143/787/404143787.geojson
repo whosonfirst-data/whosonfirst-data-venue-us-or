@@ -2,9 +2,14 @@
   "id": 404143787,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 SE 7th Ave Portland OR 97214",
+    "addr:housenumber":"712",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658602,45.517306,-122.658602,45.517306",
     "geom:latitude":45.517306,
     "geom:longitude":-122.658602,
@@ -31,11 +36,14 @@
     "sg:website":"www.kruegerssupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"8a4b99bb3c4fb637435dab1979fb563e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":404143787
         }
     ],
     "wof:id":404143787,
-    "wof:lastmodified":1466767141,
+    "wof:lastmodified":1486773444,
     "wof:name":"Krueger's Supply",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

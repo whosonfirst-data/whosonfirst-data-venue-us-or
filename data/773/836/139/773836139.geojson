@@ -2,9 +2,14 @@
   "id": 773836139,
   "type": "Feature",
   "properties": {
+    "addr:full":"4270 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"4270",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728414,45.552952,-122.728414,45.552952",
     "geom:latitude":45.552952,
     "geom:longitude":-122.728414,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":773836139
         }
     ],
     "wof:id":773836139,
-    "wof:lastmodified":1466776093,
+    "wof:lastmodified":1486771109,
     "wof:name":"Laclede Chain Manufacturing Company",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

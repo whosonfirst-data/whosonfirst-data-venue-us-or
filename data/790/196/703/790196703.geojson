@@ -2,9 +2,14 @@
   "id": 790196703,
   "type": "Feature",
   "properties": {
+    "addr:full":"5541 NE 122nd Ste 330 Portland OR 97230",
+    "addr:housenumber":"5541",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ste 330",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535662,45.563615,-122.535662,45.563615",
     "geom:latitude":45.563615,
     "geom:longitude":-122.535662,
@@ -26,12 +31,13 @@
     "sg:website":"www.doublejmotorwerks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790196703
         }
     ],
     "wof:id":790196703,
-    "wof:lastmodified":1466771596,
+    "wof:lastmodified":1486768431,
     "wof:name":"Double J Motorwerks",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

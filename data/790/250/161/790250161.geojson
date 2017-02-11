@@ -2,9 +2,14 @@
   "id": 790250161,
   "type": "Feature",
   "properties": {
+    "addr:full":"9360 N Columbia Blvd Portland OR 97255",
+    "addr:housenumber":"9360",
+    "addr:postcode":"97255",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.758083,45.607069,-122.758083,45.607069",
     "geom:latitude":45.607069,
     "geom:longitude":-122.758083,
@@ -29,7 +34,15 @@
     "sg:province":"OR",
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QLJJKIzmPRgMyHe9hf4au_45.607069_-122.758083@1303263429"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462594340,
     "wof:geomhash":"1ddf11374afd80e9f95fd85175d1fd5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":790250161
+        }
+    ],
     "wof:id":790250161,
-    "wof:lastmodified":1466772413,
+    "wof:lastmodified":1486769736,
     "wof:name":"Chimney Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

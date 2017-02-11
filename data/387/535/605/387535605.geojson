@@ -2,9 +2,14 @@
   "id": 387535605,
   "type": "Feature",
   "properties": {
+    "addr:full":"5293 NE 53rd Ave Portland OR 97218",
+    "addr:housenumber":"5293",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 53Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608579,45.562501,-122.608579,45.562501",
     "geom:latitude":45.562501,
     "geom:longitude":-122.608579,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"7851f990a33c8f0519b663fd19ea2bad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387535605
         }
     ],
     "wof:id":387535605,
-    "wof:lastmodified":1466773532,
+    "wof:lastmodified":1486771620,
     "wof:name":"A & L Artistic",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

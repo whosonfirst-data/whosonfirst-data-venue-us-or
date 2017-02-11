@@ -2,9 +2,14 @@
   "id": 387075043,
   "type": "Feature",
   "properties": {
+    "addr:full":"5844 SW 45th Ave Portland OR 97221",
+    "addr:housenumber":"5844",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723084,45.481609,-122.723084,45.481609",
     "geom:latitude":45.481609,
     "geom:longitude":-122.723084,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d3b6d8f32e3e0291e1c7e94570bf1770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":387075043
         }
     ],
     "wof:id":387075043,
-    "wof:lastmodified":1466768391,
+    "wof:lastmodified":1486771050,
     "wof:name":"Donald Yarnell",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

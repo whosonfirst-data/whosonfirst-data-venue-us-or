@@ -2,9 +2,14 @@
   "id": 387036885,
   "type": "Feature",
   "properties": {
+    "addr:full":"9310 N Chase Ave Portland OR 97217",
+    "addr:housenumber":"9310",
+    "addr:postcode":"97217",
+    "addr:street":"N Chase Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704265,45.590316,-122.704265,45.590316",
     "geom:latitude":45.590316,
     "geom:longitude":-122.704265,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"edbf89b623e01dfc0119a66c13aec2b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":387036885
         }
     ],
     "wof:id":387036885,
-    "wof:lastmodified":1466767748,
+    "wof:lastmodified":1486769521,
     "wof:name":"R & T Auto Customizing",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

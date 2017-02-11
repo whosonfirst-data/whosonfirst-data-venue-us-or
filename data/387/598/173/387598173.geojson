@@ -2,9 +2,14 @@
   "id": 387598173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 SE Sherman St Portland OR 97214",
+    "addr:housenumber":"2502",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640158,45.506158,-122.640158,45.506158",
     "geom:latitude":45.506158,
     "geom:longitude":-122.640158,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713579,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"d63da89c161c4b65e7f99963cb12dd93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713579,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387598173
         }
     ],
     "wof:id":387598173,
-    "wof:lastmodified":1466773925,
+    "wof:lastmodified":1486773541,
     "wof:name":"Storz Consulting Group",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108713579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

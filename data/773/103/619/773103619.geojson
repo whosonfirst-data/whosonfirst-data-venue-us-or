@@ -2,9 +2,14 @@
   "id": 773103619,
   "type": "Feature",
   "properties": {
+    "addr:full":"4429 NE 148th Ave Portland OR 97230",
+    "addr:housenumber":"4429",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510375,45.556301,-122.510375,45.556301",
     "geom:latitude":45.556301,
     "geom:longitude":-122.510375,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":773103619
         }
     ],
     "wof:id":773103619,
-    "wof:lastmodified":1466768198,
+    "wof:lastmodified":1486768551,
     "wof:name":"Horner Trucking Inc",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

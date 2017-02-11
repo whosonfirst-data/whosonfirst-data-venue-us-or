@@ -2,9 +2,14 @@
   "id": 773845439,
   "type": "Feature",
   "properties": {
+    "addr:full":"8040 SE Stark St Portland OR 97215",
+    "addr:housenumber":"8040",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58106,45.519138,-122.58106,45.519138",
     "geom:latitude":45.519138,
     "geom:longitude":-122.58106,
@@ -33,12 +38,13 @@
     "sg:website":"http://a1foamrubber.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773845439
         }
     ],
     "wof:id":773845439,
-    "wof:lastmodified":1466775986,
+    "wof:lastmodified":1486766356,
     "wof:name":"A-1 Foam Rubber",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773178421,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 NE 28th Ave Portland OR 97232",
+    "addr:housenumber":"803",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637229,45.529148,-122.637229,45.529148",
     "geom:latitude":45.529148,
     "geom:longitude":-122.637229,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":773178421
         }
     ],
     "wof:id":773178421,
-    "wof:lastmodified":1466770741,
+    "wof:lastmodified":1486771003,
     "wof:name":"Delivered Dish Inc",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

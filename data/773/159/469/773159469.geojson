@@ -2,9 +2,14 @@
   "id": 773159469,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 SE Marion St Portland OR 97202",
+    "addr:housenumber":"600",
+    "addr:postcode":"97202",
+    "addr:street":"Se Marion St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659015,45.460427,-122.659015,45.460427",
     "geom:latitude":45.460427,
     "geom:longitude":-122.659015,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":773159469
         }
     ],
     "wof:id":773159469,
-    "wof:lastmodified":1466770016,
+    "wof:lastmodified":1486770536,
     "wof:name":"Waverly Yacht Club Condos",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

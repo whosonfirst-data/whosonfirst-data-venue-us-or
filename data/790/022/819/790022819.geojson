@@ -2,9 +2,14 @@
   "id": 790022819,
   "type": "Feature",
   "properties": {
+    "addr:full":"2045 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"2045",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645044,45.522172,-122.645044,45.522172",
     "geom:latitude":45.522172,
     "geom:longitude":-122.645044,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790022819
         }
     ],
     "wof:id":790022819,
-    "wof:lastmodified":1466767694,
+    "wof:lastmodified":1486771389,
     "wof:name":"Hood Development",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

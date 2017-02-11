@@ -2,9 +2,14 @@
   "id": 790193219,
   "type": "Feature",
   "properties": {
+    "addr:full":"15710 NE Glisan St Portland OR 97230",
+    "addr:housenumber":"15710",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.500999,45.526402,-122.500999,45.526402",
     "geom:latitude":45.526402,
     "geom:longitude":-122.500999,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":790193219
         }
     ],
     "wof:id":790193219,
-    "wof:lastmodified":1466771466,
+    "wof:lastmodified":1486766666,
     "wof:name":"Greater Portland Women's Bowling Assn",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

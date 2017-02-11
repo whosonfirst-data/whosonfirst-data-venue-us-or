@@ -2,9 +2,14 @@
   "id": 790064085,
   "type": "Feature",
   "properties": {
+    "addr:full":"6520 N Basin Ave Portland OR 97217",
+    "addr:housenumber":"6520",
+    "addr:postcode":"97217",
+    "addr:street":"N Basin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.714439,45.569712,-122.714439,45.569712",
     "geom:latitude":45.569712,
     "geom:longitude":-122.714439,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790064085
         }
     ],
     "wof:id":790064085,
-    "wof:lastmodified":1466768386,
+    "wof:lastmodified":1486771838,
     "wof:name":"Portland Screw Co",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

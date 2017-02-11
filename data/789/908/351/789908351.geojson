@@ -2,9 +2,14 @@
   "id": 789908351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SW Alder St Portland OR 97205",
+    "addr:housenumber":"1401",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Alder",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686451,45.522247,-122.686451,45.522247",
     "geom:latitude":45.522247,
     "geom:longitude":-122.686451,
@@ -29,12 +34,13 @@
     "sg:website":"www.invictusvires.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789908351
         }
     ],
     "wof:id":789908351,
-    "wof:lastmodified":1466772062,
+    "wof:lastmodified":1486770926,
     "wof:name":"Invictus Vires: Movement and Fitness Coaching",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

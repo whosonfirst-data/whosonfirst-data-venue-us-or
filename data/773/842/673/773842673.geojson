@@ -2,9 +2,14 @@
   "id": 773842673,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 N Bridgeton Rd Portland OR 97217",
+    "addr:housenumber":"207",
+    "addr:postcode":"97217",
+    "addr:street":"N Bridgeton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668212,45.603039,-122.668212,45.603039",
     "geom:latitude":45.603039,
     "geom:longitude":-122.668212,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.channels-edge.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QdvpRfN8CVCEbCu1FcVOZ_45.602759_-122.667441@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462588843,
     "wof:geomhash":"8fa599785c5b57ef2d14356897c55741",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":773842673
+        }
+    ],
     "wof:id":773842673,
-    "wof:lastmodified":1466776166,
+    "wof:lastmodified":1486769369,
     "wof:name":"Channels Edge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

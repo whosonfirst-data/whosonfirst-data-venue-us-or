@@ -2,9 +2,14 @@
   "id": 387139145,
   "type": "Feature",
   "properties": {
+    "addr:full":"5855 NE Prescott St Portland OR 97218",
+    "addr:housenumber":"5855",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Prescott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.602149,45.555542,-122.602149,45.555542",
     "geom:latitude":45.555542,
     "geom:longitude":-122.602149,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"2679f75c5cbded3f4ea1c2c54d7d06b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387139145
         }
     ],
     "wof:id":387139145,
-    "wof:lastmodified":1466769543,
+    "wof:lastmodified":1486771597,
     "wof:name":"Berry Acres Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

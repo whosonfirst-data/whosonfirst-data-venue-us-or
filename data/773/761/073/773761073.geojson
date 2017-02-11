@@ -2,9 +2,14 @@
   "id": 773761073,
   "type": "Feature",
   "properties": {
+    "addr:full":"4322 SE 28th Pl Portland OR 97202",
+    "addr:housenumber":"4322",
+    "addr:postcode":"97202",
+    "addr:street":"Se 28Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636536,45.490504,-122.636536,45.490504",
     "geom:latitude":45.490504,
     "geom:longitude":-122.636536,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871483,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":773761073
         }
     ],
     "wof:id":773761073,
-    "wof:lastmodified":1466775914,
+    "wof:lastmodified":1486772120,
     "wof:name":"L K Artworks",
-    "wof:parent_id":85871483,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790246613,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 SW Macadam Ave Portland OR 97239",
+    "addr:housenumber":"6600",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671796,45.476341,-122.671796,45.476341",
     "geom:latitude":45.476341,
     "geom:longitude":-122.671796,
@@ -29,12 +34,14 @@
     "sg:website":"www.portlandkayak.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85885301
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85885301,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790246613
         }
     ],
     "wof:id":790246613,
-    "wof:lastmodified":1466772376,
+    "wof:lastmodified":1486773613,
     "wof:name":"Portland Kayak Company",
-    "wof:parent_id":85885301,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

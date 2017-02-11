@@ -2,9 +2,14 @@
   "id": 371174761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2722 NE 15th Ave Portland OR 97212",
+    "addr:housenumber":"2722",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650354,45.543474,-122.650354,45.543474",
     "geom:latitude":45.543474,
     "geom:longitude":-122.650354,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"61829505c6f10b2fa92a37dd55f7392d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":371174761
         }
     ],
     "wof:id":371174761,
-    "wof:lastmodified":1466770178,
+    "wof:lastmodified":1486768697,
     "wof:name":"Legacies By Lee",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

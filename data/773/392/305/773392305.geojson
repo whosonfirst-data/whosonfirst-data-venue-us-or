@@ -2,9 +2,14 @@
   "id": 773392305,
   "type": "Feature",
   "properties": {
+    "addr:full":"7917 NW Blue Pointe Ln Portland OR 97229",
+    "addr:housenumber":"7917",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Blue Pointe Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.759331,45.532828,-122.759331,45.532828",
     "geom:latitude":45.532828,
     "geom:longitude":-122.759331,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85804571
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,20 @@
     "wof:geomhash":"d223bbf72b00fa390c02eb8a0a6357a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85804571,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":773392305
         }
     ],
     "wof:id":773392305,
-    "wof:lastmodified":1466773796,
+    "wof:lastmodified":1486770917,
     "wof:name":"Tiba Medical Inc",
-    "wof:parent_id":85804571,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

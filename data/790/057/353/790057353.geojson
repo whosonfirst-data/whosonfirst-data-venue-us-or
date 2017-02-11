@@ -2,9 +2,14 @@
   "id": 790057353,
   "type": "Feature",
   "properties": {
+    "addr:full":"3449 N Anchor St Ste 200 Portland OR 97217",
+    "addr:housenumber":"3449",
+    "addr:postcode":"97217",
+    "addr:street":"N Anchor St Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.703178,45.559643,-122.703178,45.559643",
     "geom:latitude":45.559643,
     "geom:longitude":-122.703178,
@@ -27,12 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +53,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790057353
         }
     ],
     "wof:id":790057353,
-    "wof:lastmodified":1466768228,
+    "wof:lastmodified":1486765754,
     "wof:name":"Pho An",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

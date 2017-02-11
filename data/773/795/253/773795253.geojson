@@ -2,9 +2,14 @@
   "id": 773795253,
   "type": "Feature",
   "properties": {
+    "addr:full":"8441 SE 45th Pl Portland OR 97222",
+    "addr:housenumber":"8441",
+    "addr:postcode":"97222",
+    "addr:street":"Se 45Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616463,45.462269,-122.616463,45.462269",
     "geom:latitude":45.462269,
     "geom:longitude":-122.616463,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85818221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818221,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":773795253
         }
     ],
     "wof:id":773795253,
-    "wof:lastmodified":1466776139,
+    "wof:lastmodified":1486769927,
     "wof:name":"Pacific Auto Trim",
-    "wof:parent_id":85818221,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

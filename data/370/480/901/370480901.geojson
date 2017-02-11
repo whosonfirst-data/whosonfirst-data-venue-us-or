@@ -2,9 +2,14 @@
   "id": 370480901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3264 NE 156th Ave Portland OR 97230",
+    "addr:housenumber":"3264",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 156Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.502051,45.547763,-122.502051,45.547763",
     "geom:latitude":45.547763,
     "geom:longitude":-122.502051,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"c4210118449b70b68dd4e0b54d24e052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370480901
         }
     ],
     "wof:id":370480901,
-    "wof:lastmodified":1466772338,
+    "wof:lastmodified":1486772079,
     "wof:name":"Total Energy Savers Inc",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

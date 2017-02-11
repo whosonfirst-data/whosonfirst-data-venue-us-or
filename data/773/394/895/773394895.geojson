@@ -2,9 +2,14 @@
   "id": 773394895,
   "type": "Feature",
   "properties": {
+    "addr:full":"5329 SE 80th Ave Portland OR 97206",
+    "addr:housenumber":"5329",
+    "addr:postcode":"97206",
+    "addr:street":"Se 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581104,45.483934,-122.581104,45.483934",
     "geom:latitude":45.483934,
     "geom:longitude":-122.581104,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":773394895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":773394895
         }
     ],
     "wof:id":773394895,
-    "wof:lastmodified":1466773946,
+    "wof:lastmodified":1486771648,
     "wof:name":"Transmattic Transmissions Inc",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

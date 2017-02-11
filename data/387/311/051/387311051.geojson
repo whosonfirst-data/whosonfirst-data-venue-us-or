@@ -2,9 +2,14 @@
   "id": 387311051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 NW 15th Ave Portland OR 97209",
+    "addr:housenumber":"1104",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68643,45.53141,-122.68643,45.53141",
     "geom:latitude":45.53141,
     "geom:longitude":-122.68643,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"07f896d0bc7a617707c5ca892b4c8781",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":387311051
         }
     ],
     "wof:id":387311051,
-    "wof:lastmodified":1466771982,
+    "wof:lastmodified":1486770312,
     "wof:name":"I Generator",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

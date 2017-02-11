@@ -2,9 +2,14 @@
   "id": 403893713,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 NE 116th Ct Portland OR 97220",
+    "addr:housenumber":"723",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 116Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.543208,45.526823,-122.543208,45.526823",
     "geom:latitude":45.526823,
     "geom:longitude":-122.543208,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ac988c328bcfb225d3aad4e9353e9ed2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":403893713
         }
     ],
     "wof:id":403893713,
-    "wof:lastmodified":1466767259,
+    "wof:lastmodified":1486766551,
     "wof:name":"Zen Rabbit",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

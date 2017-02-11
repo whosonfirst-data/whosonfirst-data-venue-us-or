@@ -2,9 +2,14 @@
   "id": 403967623,
   "type": "Feature",
   "properties": {
+    "addr:full":"13131 NE Airport Way Portland OR 97230",
+    "addr:housenumber":"13131",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.52166,45.562006,-122.52166,45.562006",
     "geom:latitude":45.562006,
     "geom:longitude":-122.52166,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85811205
+        85688513
     ],
     "wof:brand_id":420575691,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"4e72a2b9f601db088e79646cf5f86531",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85811205,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":403967623
         }
     ],
     "wof:id":403967623,
-    "wof:lastmodified":1466768574,
+    "wof:lastmodified":1486771475,
     "wof:name":"Mothers Against Drunk Driving",
-    "wof:parent_id":85811205,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

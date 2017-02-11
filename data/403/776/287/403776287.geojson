@@ -2,9 +2,14 @@
   "id": 403776287,
   "type": "Feature",
   "properties": {
+    "addr:full":"6230 SW Haines St Portland OR 97219",
+    "addr:housenumber":"6230",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Haines St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.743165,45.436849,-122.743165,45.436849",
     "geom:latitude":45.436849,
     "geom:longitude":-122.743165,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"ceb987b540ae084cb003d2eb46c85f4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":403776287
         }
     ],
     "wof:id":403776287,
-    "wof:lastmodified":1466769282,
+    "wof:lastmodified":1486771061,
     "wof:name":"E Cos Olv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

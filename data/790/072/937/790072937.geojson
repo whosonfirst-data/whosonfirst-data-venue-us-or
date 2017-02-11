@@ -2,9 +2,14 @@
   "id": 790072937,
   "type": "Feature",
   "properties": {
+    "addr:full":"11839 SW 26th Pl Portland OR 97219",
+    "addr:housenumber":"11839",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 26Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704066,45.439358,-122.704066,45.439358",
     "geom:latitude":45.439358,
     "geom:longitude":-122.704066,
@@ -28,7 +33,15 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781229,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zyJziU1o2pcWssPX02RFR_45.439358_-122.704066@1303263421"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592916,
     "wof:geomhash":"4f4d1a6ddd773312db1b415986d74dac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":790072937
+        }
+    ],
     "wof:id":790072937,
-    "wof:lastmodified":1466768620,
+    "wof:lastmodified":1486772262,
     "wof:name":"CS & Associates Home Inspection, LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

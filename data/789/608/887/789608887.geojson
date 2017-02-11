@@ -2,9 +2,14 @@
   "id": 789608887,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 SE Morrison St Portland OR 97214",
+    "addr:housenumber":"927",
+    "addr:postcode":"97214",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655998,45.5172,-122.655998,45.5172",
     "geom:latitude":45.5172,
     "geom:longitude":-122.655998,
@@ -33,12 +38,14 @@
     "sg:website":"www.sassysbar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789608887
         }
     ],
     "wof:id":789608887,
-    "wof:lastmodified":1466768573,
+    "wof:lastmodified":1486773441,
     "wof:name":"Sassy's Bar & Grill",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

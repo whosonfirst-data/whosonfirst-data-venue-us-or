@@ -2,9 +2,14 @@
   "id": 773482677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 SE 141st Ave Portland OR 97233",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97233",
+    "addr:street":"Se 141St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.518603,45.514722,-122.518603,45.514722",
     "geom:latitude":45.514722,
     "geom:longitude":-122.518603,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513,
+        85868947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":773482677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773482677
         }
     ],
     "wof:id":773482677,
-    "wof:lastmodified":1466774748,
+    "wof:lastmodified":1486770734,
     "wof:name":"Parttime Pawn",
-    "wof:parent_id":85893161,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387464771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3327 SE 50th Ave Portland OR 97206",
+    "addr:housenumber":"3327",
+    "addr:postcode":"97206",
+    "addr:street":"Se 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611427,45.498412,-122.611427,45.498412",
     "geom:latitude":45.498412,
     "geom:longitude":-122.611427,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"5d5886961f58ed0d90a45cebb29836f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":387464771
         }
     ],
     "wof:id":387464771,
-    "wof:lastmodified":1466773031,
+    "wof:lastmodified":1486770856,
     "wof:name":"Fairfield Financial",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

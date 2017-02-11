@@ -2,9 +2,14 @@
   "id": 789930575,
   "type": "Feature",
   "properties": {
+    "addr:full":"9291 SE 64th Ave Portland OR 97206",
+    "addr:housenumber":"9291",
+    "addr:postcode":"97206",
+    "addr:street":"Se 64Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597603,45.461457,-122.597603,45.461457",
     "geom:latitude":45.461457,
     "geom:longitude":-122.597603,
@@ -34,7 +39,15 @@
     ],
     "sg:website":"http://www.osmpi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781227,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jNqn9RN7CVSkzv3mKZ1JG_45.461457_-122.597603@1303263415"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462591714,
     "wof:geomhash":"da74dacb30315ee807c952f551f2f27d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
+            "region_id":85688513,
+            "venue_id":789930575
+        }
+    ],
     "wof:id":789930575,
-    "wof:lastmodified":1466772432,
+    "wof:lastmodified":1486772246,
     "wof:name":"Oregon Screw Machine Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

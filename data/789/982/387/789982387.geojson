@@ -2,9 +2,14 @@
   "id": 789982387,
   "type": "Feature",
   "properties": {
+    "addr:full":"2551 NW 30th Ave 97210 Portland OR 97210",
+    "addr:housenumber":"2551",
+    "addr:postcode":"97210;97210",
+    "addr:street":"Nw 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712442,45.540165,-122.712442,45.540165",
     "geom:latitude":45.540165,
     "geom:longitude":-122.712442,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789982387
         }
     ],
     "wof:id":789982387,
-    "wof:lastmodified":1466772999,
+    "wof:lastmodified":1486771108,
     "wof:name":"Paco-Pacific Pumping Co.",
-    "wof:parent_id":85857791,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

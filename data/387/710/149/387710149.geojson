@@ -2,9 +2,14 @@
   "id": 387710149,
   "type": "Feature",
   "properties": {
+    "addr:full":"14804 NE Newport St Portland OR 97230",
+    "addr:housenumber":"14804",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Newport St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508497,45.535999,-122.508497,45.535999",
     "geom:latitude":45.535999,
     "geom:longitude":-122.508497,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,18 @@
     "wof:geomhash":"cee9e5d8902f02c5ee4fff4057da82a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":387710149
         }
     ],
     "wof:id":387710149,
-    "wof:lastmodified":1466774463,
+    "wof:lastmodified":1486769233,
     "wof:name":"M & M Refrigeration Inc",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

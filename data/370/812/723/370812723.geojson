@@ -2,9 +2,14 @@
   "id": 370812723,
   "type": "Feature",
   "properties": {
+    "addr:full":"7220 SE 39th Ave Portland OR 97202",
+    "addr:housenumber":"7220",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622515,45.470641,-122.622515,45.470641",
     "geom:latitude":45.470641,
     "geom:longitude":-122.622515,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e02c634d9634ca6800c5669a0984f5d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85817069,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":370812723
         }
     ],
     "wof:id":370812723,
-    "wof:lastmodified":1466774280,
+    "wof:lastmodified":1486769936,
     "wof:name":"Holy Trinity Lutheran Church",
-    "wof:parent_id":85817069,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

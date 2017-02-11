@@ -2,9 +2,14 @@
   "id": 387364247,
   "type": "Feature",
   "properties": {
+    "addr:full":"4828 SW Julia St Portland OR 97221",
+    "addr:housenumber":"4828",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Julia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.727532,45.487872,-122.727532,45.487872",
     "geom:latitude":45.487872,
     "geom:longitude":-122.727532,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"b7580cecc695cb8922c678780dbe8f59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":387364247
         }
     ],
     "wof:id":387364247,
-    "wof:lastmodified":1466772364,
+    "wof:lastmodified":1486763965,
     "wof:name":"Interior Drywall Systems",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

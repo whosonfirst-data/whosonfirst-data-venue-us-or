@@ -2,9 +2,14 @@
   "id": 773031233,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 N Suttle Rd Portland OR 97217",
+    "addr:housenumber":"3610",
+    "addr:postcode":"97217",
+    "addr:street":"N Suttle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.715144,45.616003,-122.715144,45.616003",
     "geom:latitude":45.616003,
     "geom:longitude":-122.715144,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":773031233
         }
     ],
     "wof:id":773031233,
-    "wof:lastmodified":1466770578,
+    "wof:lastmodified":1486765807,
     "wof:name":"Franklin International",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

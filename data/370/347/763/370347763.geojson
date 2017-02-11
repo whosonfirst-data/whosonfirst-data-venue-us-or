@@ -2,9 +2,14 @@
   "id": 370347763,
   "type": "Feature",
   "properties": {
+    "addr:full":"11410 SE Stark St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"11410;97216",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54517,45.518911,-122.54517,45.518911",
     "geom:latitude":45.518911,
     "geom:longitude":-122.54517,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"0f5bcf15edc69bc2bc3f5744c4c8e6c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":370347763
         }
     ],
     "wof:id":370347763,
-    "wof:lastmodified":1466770756,
+    "wof:lastmodified":1486772219,
     "wof:name":"Eagle Fern Camp",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

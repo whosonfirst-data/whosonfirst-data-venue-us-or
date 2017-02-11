@@ -2,9 +2,14 @@
   "id": 789892633,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 SW 5th Ave Ste 2600 Portland OR 97204",
+    "addr:housenumber":"900",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 5Th Ave Ste 2600",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675003,45.5187,-122.675003,45.5187",
     "geom:latitude":45.5187,
     "geom:longitude":-122.675003,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789892633
         }
     ],
     "wof:id":789892633,
-    "wof:lastmodified":1466771701,
+    "wof:lastmodified":1486770044,
     "wof:name":"McMurchie Charles J Atty Stoel Rives Llp Attys",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

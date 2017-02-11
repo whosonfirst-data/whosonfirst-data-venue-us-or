@@ -2,9 +2,14 @@
   "id": 773372587,
   "type": "Feature",
   "properties": {
+    "addr:full":"6222 N Missouri Ave Portland OR 97217",
+    "addr:housenumber":"6222",
+    "addr:postcode":"97217",
+    "addr:street":"N Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678026,45.566957,-122.678026,45.566957",
     "geom:latitude":45.566957,
     "geom:longitude":-122.678026,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773372587
         }
     ],
     "wof:id":773372587,
-    "wof:lastmodified":1466773583,
+    "wof:lastmodified":1486768312,
     "wof:name":"Jose Gastelum Painting",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

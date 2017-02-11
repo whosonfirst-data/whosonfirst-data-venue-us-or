@@ -2,9 +2,14 @@
   "id": 387580871,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 SW 3rd Ave Portland OR 97204",
+    "addr:housenumber":"808",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676169,45.516948,-122.676169,45.516948",
     "geom:latitude":45.516948,
     "geom:longitude":-122.676169,
@@ -26,11 +31,13 @@
     "sg:website":"www.iiw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"2ce40ea02fc28683ad4be463a4a7bc6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387580871
         }
     ],
     "wof:id":387580871,
-    "wof:lastmodified":1466773821,
+    "wof:lastmodified":1486769980,
     "wof:name":"Independent Insurance Wholslrs",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

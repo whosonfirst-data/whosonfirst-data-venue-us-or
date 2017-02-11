@@ -2,9 +2,14 @@
   "id": 790190147,
   "type": "Feature",
   "properties": {
+    "addr:full":"18201 NE Portal Way # 102 Portland OR 97230",
+    "addr:housenumber":"18201",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Portal Way # 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.47599,45.551647,-122.47599,45.551647",
     "geom:latitude":45.551647,
     "geom:longitude":-122.47599,
@@ -30,12 +35,14 @@
     "sg:website":"http://www.vistarvsa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
         102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +56,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":790190147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790190147
         }
     ],
     "wof:id":790190147,
-    "wof:lastmodified":1466771384,
+    "wof:lastmodified":1486772076,
     "wof:name":"Samuel, Son & Co. Inc.",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

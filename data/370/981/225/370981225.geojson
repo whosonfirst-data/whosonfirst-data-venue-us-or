@@ -2,9 +2,14 @@
   "id": 370981225,
   "type": "Feature",
   "properties": {
+    "addr:full":"7119 N Portsmouth Ave Portland OR 97203",
+    "addr:housenumber":"7119",
+    "addr:postcode":"97203",
+    "addr:street":"N Portsmouth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.726356,45.579507,-122.726356,45.579507",
     "geom:latitude":45.579507,
     "geom:longitude":-122.726356,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536113,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"4057b01c5dfb12c265f73f6ec474ac5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893225,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536113,
             "region_id":85688513,
             "venue_id":370981225
         }
     ],
     "wof:id":370981225,
-    "wof:lastmodified":1466775043,
+    "wof:lastmodified":1486772142,
     "wof:name":"Cathedral Park Preschool",
-    "wof:parent_id":85893225,
+    "wof:parent_id":420536113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

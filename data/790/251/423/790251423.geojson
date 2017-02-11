@@ -2,9 +2,14 @@
   "id": 790251423,
   "type": "Feature",
   "properties": {
+    "addr:full":"8438 SE Woodstock Portland OR 97255",
+    "addr:housenumber":"8438",
+    "addr:postcode":"97255",
+    "addr:street":"Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.575866,45.479368,-122.575866,45.479368",
     "geom:latitude":45.479368,
     "geom:longitude":-122.575866,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790251423
         }
     ],
     "wof:id":790251423,
-    "wof:lastmodified":1466772674,
+    "wof:lastmodified":1486766313,
     "wof:name":"El Nutri Taco",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

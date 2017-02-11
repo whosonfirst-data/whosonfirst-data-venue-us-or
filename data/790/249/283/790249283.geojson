@@ -2,9 +2,14 @@
   "id": 790249283,
   "type": "Feature",
   "properties": {
+    "addr:full":"3747 N Mississippi Ave Portland OR 97253",
+    "addr:housenumber":"3747",
+    "addr:postcode":"97253",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675545,45.549923,-122.675545,45.549923",
     "geom:latitude":45.549923,
     "geom:longitude":-122.675545,
@@ -39,12 +44,14 @@
     "sg:website":"bluegardenia.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +66,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790249283
         }
     ],
     "wof:id":790249283,
-    "wof:lastmodified":1466772519,
+    "wof:lastmodified":1486773744,
     "wof:name":"Blue Gardenia",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

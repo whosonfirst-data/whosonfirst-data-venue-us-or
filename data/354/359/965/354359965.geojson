@@ -2,9 +2,14 @@
   "id": 354359965,
   "type": "Feature",
   "properties": {
+    "addr:full":"10921 NE 3rd Ave Portland OR 97211",
+    "addr:housenumber":"10921",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662527,45.601774,-122.662527,45.601774",
     "geom:latitude":45.601774,
     "geom:longitude":-122.662527,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807427,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"f8f2b5c451823cf683ddf84a2f05ac41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
             "region_id":85688513,
             "venue_id":354359965
         }
     ],
     "wof:id":354359965,
-    "wof:lastmodified":1466770545,
+    "wof:lastmodified":1486769368,
     "wof:name":"Shaws Yacht Rigging Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

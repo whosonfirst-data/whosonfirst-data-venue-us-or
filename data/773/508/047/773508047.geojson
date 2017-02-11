@@ -2,9 +2,14 @@
   "id": 773508047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3242 NE 82nd Ave Portland OR 97220",
+    "addr:housenumber":"3242",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578716,45.54503,-122.578716,45.54503",
     "geom:latitude":45.54503,
     "geom:longitude":-122.578716,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":773508047
         }
     ],
     "wof:id":773508047,
-    "wof:lastmodified":1466775038,
+    "wof:lastmodified":1486771767,
     "wof:name":"Azure Inc",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

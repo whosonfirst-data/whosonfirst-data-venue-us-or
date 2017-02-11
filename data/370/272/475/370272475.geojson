@@ -2,9 +2,14 @@
   "id": 370272475,
   "type": "Feature",
   "properties": {
+    "addr:full":"5612 SE 58th Ave Portland OR 97206",
+    "addr:housenumber":"5612",
+    "addr:postcode":"97206",
+    "addr:street":"Se 58Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603357,45.482519,-122.603357,45.482519",
     "geom:latitude":45.482519,
     "geom:longitude":-122.603357,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893209
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"c34bb8ca71ee76e82b1877eb7a34b407",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
+            "region_id":85688513,
+            "venue_id":370272475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":370272475
         }
     ],
     "wof:id":370272475,
-    "wof:lastmodified":1466769307,
+    "wof:lastmodified":1486769942,
     "wof:name":"Andys Concrete Pumping Svc",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789965597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1122 NW Glisan St Portland OR 97209",
+    "addr:housenumber":"1122",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682463,45.526388,-122.682463,45.526388",
     "geom:latitude":45.526388,
     "geom:longitude":-122.682463,
@@ -42,12 +47,13 @@
     "sg:website":"www.ewfmodern.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +68,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789965597
         }
     ],
     "wof:id":789965597,
-    "wof:lastmodified":1466772645,
+    "wof:lastmodified":1486770309,
     "wof:name":"EWF Modern",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

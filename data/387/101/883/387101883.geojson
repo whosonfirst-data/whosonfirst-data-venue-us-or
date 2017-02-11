@@ -2,9 +2,14 @@
   "id": 387101883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2341 SE 143rd Ave Portland OR 97233",
+    "addr:housenumber":"2341",
+    "addr:postcode":"97233",
+    "addr:street":"Se 143Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.515679,45.505113,-122.515679,45.505113",
     "geom:latitude":45.505113,
     "geom:longitude":-122.515679,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ca4d34590f6bdcdfe9a156c33e246676",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387101883
         }
     ],
     "wof:id":387101883,
-    "wof:lastmodified":1466768838,
+    "wof:lastmodified":1486766552,
     "wof:name":"Reynaldo G Mendoza",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387597745,
   "type": "Feature",
   "properties": {
+    "addr:full":"10535 SW 11th Dr Portland OR 97219",
+    "addr:housenumber":"10535",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 11Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691695,45.448117,-122.691695,45.448117",
     "geom:latitude":45.448117,
     "geom:longitude":-122.691695,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781233,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"efe4e170f1305a8c205c4fa39d05cd55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781233,
             "region_id":85688513,
             "venue_id":387597745
         }
     ],
     "wof:id":387597745,
-    "wof:lastmodified":1466773812,
+    "wof:lastmodified":1486772292,
     "wof:name":"Plummer Psychotherapy",
-    "wof:parent_id":85818135,
+    "wof:parent_id":420781233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

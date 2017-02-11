@@ -2,9 +2,14 @@
   "id": 790245481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 SW MacAdam Ave Ste 302 Portland OR 97239",
+    "addr:housenumber":"4700",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Ave Ste 302",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679001,45.492401,-122.679001,45.492401",
     "geom:latitude":45.492401,
     "geom:longitude":-122.679001,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":790245481
         }
     ],
     "wof:id":790245481,
-    "wof:lastmodified":1466772342,
+    "wof:lastmodified":1486772312,
     "wof:name":"Baker Aaron W Attorney At Law",
-    "wof:parent_id":420558713,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

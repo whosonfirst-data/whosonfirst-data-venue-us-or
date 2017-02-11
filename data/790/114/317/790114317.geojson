@@ -2,9 +2,14 @@
   "id": 790114317,
   "type": "Feature",
   "properties": {
+    "addr:full":"4427 SE Johnson Creek Road Portland OR 97222",
+    "addr:housenumber":"4427",
+    "addr:postcode":"97222",
+    "addr:street":"Se Johnson Creek Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61554,45.462062,-122.61554,45.462062",
     "geom:latitude":45.462062,
     "geom:longitude":-122.61554,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893151,
             "region_id":85688513,
             "venue_id":790114317
         }
     ],
     "wof:id":790114317,
-    "wof:lastmodified":1466768386,
+    "wof:lastmodified":1486771456,
     "wof:name":"Jumbo Restaraunt & Lounge",
     "wof:parent_id":85893151,
     "wof:placetype":"venue",

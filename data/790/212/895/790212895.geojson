@@ -2,9 +2,14 @@
   "id": 790212895,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 NE 39th Avenue Portland OR 97232",
+    "addr:housenumber":"601",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623146,45.527028,-122.623146,45.527028",
     "geom:latitude":45.527028,
     "geom:longitude":-122.623146,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790212895
         }
     ],
     "wof:id":790212895,
-    "wof:lastmodified":1466771924,
+    "wof:lastmodified":1486766403,
     "wof:name":"All Saints Parish",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

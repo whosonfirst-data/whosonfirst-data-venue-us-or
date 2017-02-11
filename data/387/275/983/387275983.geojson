@@ -2,9 +2,14 @@
   "id": 387275983,
   "type": "Feature",
   "properties": {
+    "addr:full":"7923 N Seward Ave Portland OR 97217",
+    "addr:housenumber":"7923",
+    "addr:postcode":"97217",
+    "addr:street":"N Seward Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704257,45.581874,-122.704257,45.581874",
     "geom:latitude":45.581874,
     "geom:longitude":-122.704257,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"38d98b0ca7e3506c31b67fb11b6209e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":387275983
         }
     ],
     "wof:id":387275983,
-    "wof:lastmodified":1466771751,
+    "wof:lastmodified":1486769513,
     "wof:name":"Peninsula Marketing Co",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

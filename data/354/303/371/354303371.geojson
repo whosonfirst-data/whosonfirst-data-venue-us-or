@@ -2,9 +2,14 @@
   "id": 354303371,
   "type": "Feature",
   "properties": {
+    "addr:full":"14862 NE Rose Pkwy Portland OR 97230",
+    "addr:housenumber":"14862",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Rose Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.509654,45.544998,-122.509654,45.544998",
     "geom:latitude":45.544998,
     "geom:longitude":-122.509654,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"d87f74e37e7c56a195b51dc2e73a2f3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":354303371
         }
     ],
     "wof:id":354303371,
-    "wof:lastmodified":1466769535,
+    "wof:lastmodified":1486768545,
     "wof:name":"Janes Trucking",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

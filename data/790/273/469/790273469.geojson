@@ -2,9 +2,14 @@
   "id": 790273469,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 14362 Portland OR 97293",
+    "addr:housenumber":"po box 14362",
+    "addr:postcode":"97293",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658321,45.514104,-122.658321,45.514104",
     "geom:latitude":45.514104,
     "geom:longitude":-122.658321,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790273469
         }
     ],
     "wof:id":790273469,
-    "wof:lastmodified":1466772745,
+    "wof:lastmodified":1486773461,
     "wof:name":"1st Class Reunions",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

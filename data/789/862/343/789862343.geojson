@@ -2,9 +2,14 @@
   "id": 789862343,
   "type": "Feature",
   "properties": {
+    "addr:full":"4714 SE 28th Pl Portland OR 97202",
+    "addr:housenumber":"4714",
+    "addr:postcode":"97202",
+    "addr:street":"Se 28Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636299,45.488876,-122.636299,45.488876",
     "geom:latitude":45.488876,
     "geom:longitude":-122.636299,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789862343
         }
     ],
     "wof:id":789862343,
-    "wof:lastmodified":1466770972,
+    "wof:lastmodified":1486767505,
     "wof:name":"Owen Carey Photographer",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

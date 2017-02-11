@@ -2,9 +2,14 @@
   "id": 789606547,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 SE 162nd Ave Portland OR 97236",
+    "addr:housenumber":"3645",
+    "addr:postcode":"97236",
+    "addr:street":"Se 162Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.496799,45.496436,-122.496799,45.496436",
     "geom:latitude":45.496436,
     "geom:longitude":-122.496799,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":789606547
         }
     ],
     "wof:id":789606547,
-    "wof:lastmodified":1466768524,
+    "wof:lastmodified":1486771536,
     "wof:name":"Rose Of Sharon Lutheran Brethren",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

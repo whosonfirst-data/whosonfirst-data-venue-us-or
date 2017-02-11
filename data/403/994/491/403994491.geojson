@@ -2,9 +2,14 @@
   "id": 403994491,
   "type": "Feature",
   "properties": {
+    "addr:full":"641 NE 79th Ave Portland OR 97213",
+    "addr:housenumber":"641",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582493,45.527473,-122.582493,45.527473",
     "geom:latitude":45.527473,
     "geom:longitude":-122.582493,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"4562fdad33ae7fa4984db1890b2fb857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":403994491
         }
     ],
     "wof:id":403994491,
-    "wof:lastmodified":1466769049,
+    "wof:lastmodified":1486769592,
     "wof:name":"Alliance For Choice",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354251755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2750 NW 31st Ave Portland OR 97210",
+    "addr:housenumber":"2750",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713762,45.538926,-122.713762,45.538926",
     "geom:latitude":45.538926,
     "geom:longitude":-122.713762,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"71786b6d20da2929b1c49aaeb6a74569",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":354251755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":354251755
         }
     ],
     "wof:id":354251755,
-    "wof:lastmodified":1466768683,
+    "wof:lastmodified":1486771091,
     "wof:name":"Ptp Inc",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

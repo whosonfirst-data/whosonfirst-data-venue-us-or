@@ -2,9 +2,14 @@
   "id": 773231089,
   "type": "Feature",
   "properties": {
+    "addr:full":"4044 N Suttle Rd Portland OR 97217",
+    "addr:housenumber":"4044",
+    "addr:postcode":"97217",
+    "addr:street":"N Suttle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712409,45.614523,-122.712409,45.614523",
     "geom:latitude":45.614523,
     "geom:longitude":-122.712409,
@@ -30,12 +35,13 @@
     "sg:website":"www.plcrecycling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":773231089
         }
     ],
     "wof:id":773231089,
-    "wof:lastmodified":1466771948,
+    "wof:lastmodified":1486765870,
     "wof:name":"Pacific Landclearing & Rcyclng",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

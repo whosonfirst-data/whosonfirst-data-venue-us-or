@@ -2,9 +2,14 @@
   "id": 404164015,
   "type": "Feature",
   "properties": {
+    "addr:full":"2022 SE 42nd Ave Portland OR 97215",
+    "addr:housenumber":"2022",
+    "addr:postcode":"97215",
+    "addr:street":"Se 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619003,45.508192,-122.619003,45.508192",
     "geom:latitude":45.508192,
     "geom:longitude":-122.619003,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"de25b8d32c8f578ebb43baf28e9a37f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":404164015
         }
     ],
     "wof:id":404164015,
-    "wof:lastmodified":1466767480,
+    "wof:lastmodified":1486770862,
     "wof:name":"Jasmine Patten",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

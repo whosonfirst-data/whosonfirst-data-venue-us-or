@@ -2,9 +2,14 @@
   "id": 370448927,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 NW 6th Ave Portland OR 97209",
+    "addr:housenumber":"520",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6765,45.527194,-122.6765,45.527194",
     "geom:latitude":45.527194,
     "geom:longitude":-122.6765,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"926a69eca0a7902b544511f3bed91570",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370448927
         }
     ],
     "wof:id":370448927,
-    "wof:lastmodified":1466771995,
+    "wof:lastmodified":1486763170,
     "wof:name":"Rick Klingbell PC",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

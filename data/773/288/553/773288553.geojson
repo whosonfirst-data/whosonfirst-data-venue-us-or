@@ -2,9 +2,14 @@
   "id": 773288553,
   "type": "Feature",
   "properties": {
+    "addr:full":"14200 SE Woodward St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"14200;97236",
+    "addr:street":"Se Woodward St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.517154,45.501473,-122.517154,45.501473",
     "geom:latitude":45.501473,
     "geom:longitude":-122.517154,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773288553
         }
     ],
     "wof:id":773288553,
-    "wof:lastmodified":1466772725,
+    "wof:lastmodified":1486771541,
     "wof:name":"Whiskey Creek Bed & Breakfast",
-    "wof:parent_id":85868947,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

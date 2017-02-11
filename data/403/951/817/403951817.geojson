@@ -2,9 +2,14 @@
   "id": 403951817,
   "type": "Feature",
   "properties": {
+    "addr:full":"5390 SW Illinois St Portland OR 97221",
+    "addr:housenumber":"5390",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Illinois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.729699,45.478964,-122.729699,45.478964",
     "geom:latitude":45.478964,
     "geom:longitude":-122.729699,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871499
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"98af0651de93f19054ae84b7ea9cae00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
             "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":403951817
         }
     ],
     "wof:id":403951817,
-    "wof:lastmodified":1466768289,
+    "wof:lastmodified":1486774193,
     "wof:name":"D M Armstrong Co Inc",
-    "wof:parent_id":85871499,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

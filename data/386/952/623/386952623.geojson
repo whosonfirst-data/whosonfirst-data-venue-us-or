@@ -2,9 +2,14 @@
   "id": 386952623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1703 NW 16th Ave Portland OR 97209",
+    "addr:housenumber":"1703",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687718,45.53495,-122.687718,45.53495",
     "geom:latitude":45.53495,
     "geom:longitude":-122.687718,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"57d9054577302cbea20614c8e70d007e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":386952623
         }
     ],
     "wof:id":386952623,
-    "wof:lastmodified":1466767285,
+    "wof:lastmodified":1486771150,
     "wof:name":"Land Cruiser North West Inc",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

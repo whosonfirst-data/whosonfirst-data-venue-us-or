@@ -2,9 +2,14 @@
   "id": 370518117,
   "type": "Feature",
   "properties": {
+    "addr:full":"5102 SW 45th Ave Portland OR 97221",
+    "addr:housenumber":"5102",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723148,45.486271,-122.723148,45.486271",
     "geom:latitude":45.486271,
     "geom:longitude":-122.723148,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"dd2a59e909aa83720fd491de41c0dd02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370518117
         }
     ],
     "wof:id":370518117,
-    "wof:lastmodified":1466772339,
+    "wof:lastmodified":1486769379,
     "wof:name":"Trauma & Grief Counseling Serv",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85807447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789861785,
   "type": "Feature",
   "properties": {
+    "addr:full":"8802 SE 12th Ave Portland OR 97202",
+    "addr:housenumber":"8802",
+    "addr:postcode":"97202",
+    "addr:street":"Se 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653992,45.459071,-122.653992,45.459071",
     "geom:latitude":45.459071,
     "geom:longitude":-122.653992,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789861785
         }
     ],
     "wof:id":789861785,
-    "wof:lastmodified":1466770948,
+    "wof:lastmodified":1486770514,
     "wof:name":"Parker Madigan Real Estate",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

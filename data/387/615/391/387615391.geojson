@@ -2,9 +2,14 @@
   "id": 387615391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2311 Lloyd Center Portland OR 97232",
+    "addr:housenumber":"2311",
+    "addr:postcode":"97232",
+    "addr:street":"Lloyd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654638,45.53163,-122.654638,45.53163",
     "geom:latitude":45.53163,
     "geom:longitude":-122.654638,
@@ -26,10 +31,13 @@
     "sg:website":"www.steakescape.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,20 @@
     "wof:geomhash":"5a586d1fa0d14e356b11e9490f4f9e35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":387615391
         }
     ],
     "wof:id":387615391,
-    "wof:lastmodified":1466774027,
+    "wof:lastmodified":1486771322,
     "wof:name":"Steak Escape",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

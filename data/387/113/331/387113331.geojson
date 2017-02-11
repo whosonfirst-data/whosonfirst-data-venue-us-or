@@ -2,9 +2,14 @@
   "id": 387113331,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 SE 81st Ave Portland OR 97215",
+    "addr:housenumber":"422",
+    "addr:postcode":"97215",
+    "addr:street":"Se 81St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580433,45.519294,-122.580433,45.519294",
     "geom:latitude":45.519294,
     "geom:longitude":-122.580433,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5fe277ae05ed10b8c6c715a9d0d7200b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387113331
         }
     ],
     "wof:id":387113331,
-    "wof:lastmodified":1466769039,
+    "wof:lastmodified":1486766241,
     "wof:name":"Serp Enterprises Inc",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

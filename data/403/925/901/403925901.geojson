@@ -2,9 +2,14 @@
   "id": 403925901,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 NW 17th Ave Portland OR 97209",
+    "addr:housenumber":"920",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688388,45.529832,-122.688388,45.529832",
     "geom:latitude":45.529832,
     "geom:longitude":-122.688388,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"65ef72d3119969e09ce3877cbf4a76f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":403925901
         }
     ],
     "wof:id":403925901,
-    "wof:lastmodified":1466767822,
+    "wof:lastmodified":1486771147,
     "wof:name":"Opsis Architecture",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

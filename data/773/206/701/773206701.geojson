@@ -2,9 +2,14 @@
   "id": 773206701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 SW 4th Ave Portland OR 97201",
+    "addr:housenumber":"2125",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681911,45.507962,-122.681911,45.507962",
     "geom:latitude":45.507962,
     "geom:longitude":-122.681911,
@@ -24,7 +29,15 @@
     "sg:postcode":"97201",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867131,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SXFqMKGD5FcktpdOXrQVG_45.507962_-122.681911@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462583975,
     "wof:geomhash":"df714e33728e9a6428f87614a48a4c69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
+            "region_id":85688513,
+            "venue_id":773206701
+        }
+    ],
     "wof:id":773206701,
-    "wof:lastmodified":1466771489,
+    "wof:lastmodified":1486770263,
     "wof:name":"Frank J Susak",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

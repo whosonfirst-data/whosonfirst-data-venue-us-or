@@ -2,9 +2,14 @@
   "id": 370750659,
   "type": "Feature",
   "properties": {
+    "addr:full":"3635 N Farragut St Portland OR 97217",
+    "addr:housenumber":"3635",
+    "addr:postcode":"97217",
+    "addr:street":"N Farragut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704538,45.579416,-122.704538,45.579416",
     "geom:latitude":45.579416,
     "geom:longitude":-122.704538,
@@ -30,11 +35,13 @@
     "sg:website":"www.chadcrowe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"bb2dd6a493fb8294d2d37be2a9e45450",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370750659
         }
     ],
     "wof:id":370750659,
-    "wof:lastmodified":1466773714,
+    "wof:lastmodified":1486769519,
     "wof:name":"Chad Crowe Illustration",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

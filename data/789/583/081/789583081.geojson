@@ -2,9 +2,14 @@
   "id": 789583081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 NE Russet St Portland OR 97211",
+    "addr:housenumber":"1008",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Russet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654398,45.577899,-122.654398,45.577899",
     "geom:latitude":45.577899,
     "geom:longitude":-122.654398,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":789583081
         }
     ],
     "wof:id":789583081,
-    "wof:lastmodified":1466768002,
+    "wof:lastmodified":1486769015,
     "wof:name":"A R Auto Sales",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

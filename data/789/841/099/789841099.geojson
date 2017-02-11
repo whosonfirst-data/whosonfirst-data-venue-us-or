@@ -2,9 +2,14 @@
   "id": 789841099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 SW 6th Ave Portland OR 97201",
+    "addr:housenumber":"2221",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684697,45.506899,-122.684697,45.506899",
     "geom:latitude":45.506899,
     "geom:longitude":-122.684697,
@@ -29,12 +34,13 @@
     "sg:website":"www.sixthavenuemotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789841099
         }
     ],
     "wof:id":789841099,
-    "wof:lastmodified":1466770143,
+    "wof:lastmodified":1486769884,
     "wof:name":"Sixth Avenue Motel",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85849969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

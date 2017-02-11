@@ -2,9 +2,14 @@
   "id": 370923109,
   "type": "Feature",
   "properties": {
+    "addr:full":"4233 NE Grand Ave Portland OR 97211",
+    "addr:housenumber":"4233",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660619,45.553719,-122.660619,45.553719",
     "geom:latitude":45.553719,
     "geom:longitude":-122.660619,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"21a3440f0848ebbb370e87b7f8d7cb18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":370923109
         }
     ],
     "wof:id":370923109,
-    "wof:lastmodified":1466774693,
+    "wof:lastmodified":1486768818,
     "wof:name":"Gesher Kitzler",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

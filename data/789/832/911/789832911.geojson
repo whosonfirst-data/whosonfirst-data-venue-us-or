@@ -2,9 +2,14 @@
   "id": 789832911,
   "type": "Feature",
   "properties": {
+    "addr:full":"122D NE Glisan Portland OR 97201",
+    "addr:housenumber":"122d",
+    "addr:postcode":"97201",
+    "addr:street":"Ne Glisan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684998,45.527901,-122.684998,45.527901",
     "geom:latitude":45.527901,
     "geom:longitude":-122.684998,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789832911
         }
     ],
     "wof:id":789832911,
-    "wof:lastmodified":1466769798,
+    "wof:lastmodified":1486763395,
     "wof:name":"Menlo Park Hardware",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

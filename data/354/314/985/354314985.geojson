@@ -2,9 +2,14 @@
   "id": 354314985,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"4242",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652036,45.492656,-122.652036,45.492656",
     "geom:latitude":45.492656,
     "geom:longitude":-122.652036,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"a843e350fdd2abba2934558f4510fd6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":354314985
         }
     ],
     "wof:id":354314985,
-    "wof:lastmodified":1466769702,
+    "wof:lastmodified":1486769402,
     "wof:name":"Global Events Group",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

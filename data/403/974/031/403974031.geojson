@@ -2,9 +2,14 @@
   "id": 403974031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 SE Ivon St Portland OR 97202",
+    "addr:housenumber":"1318",
+    "addr:postcode":"97202",
+    "addr:street":"Se Ivon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651839,45.504095,-122.651839,45.504095",
     "geom:latitude":45.504095,
     "geom:longitude":-122.651839,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"571620d0e2bd17711540c5a5ce37ecf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":403974031
         }
     ],
     "wof:id":403974031,
-    "wof:lastmodified":1466768688,
+    "wof:lastmodified":1486771721,
     "wof:name":"Innate Graphix",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

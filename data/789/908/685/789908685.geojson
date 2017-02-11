@@ -2,9 +2,14 @@
   "id": 789908685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 SW Taylor St Ste 446 Portland OR 97205",
+    "addr:housenumber":"1020",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Taylor St Ste 446",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683055,45.518742,-122.683055,45.518742",
     "geom:latitude":45.518742,
     "geom:longitude":-122.683055,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.mediathink.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789908685
         }
     ],
     "wof:id":789908685,
-    "wof:lastmodified":1466772166,
+    "wof:lastmodified":1486764304,
     "wof:name":"Northwest Media Literacy Cente",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

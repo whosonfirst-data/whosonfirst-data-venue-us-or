@@ -2,9 +2,14 @@
   "id": 404150389,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"3600",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648304,45.49603,-122.648304,45.49603",
     "geom:latitude":45.49603,
     "geom:longitude":-122.648304,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"d8c349f3f707e43f76226c2aba5bbbd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":404150389
         }
     ],
     "wof:id":404150389,
-    "wof:lastmodified":1466767254,
+    "wof:lastmodified":1486767061,
     "wof:name":"Pai Custom Cabinet Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

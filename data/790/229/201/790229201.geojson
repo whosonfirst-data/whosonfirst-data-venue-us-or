@@ -2,9 +2,14 @@
   "id": 790229201,
   "type": "Feature",
   "properties": {
+    "addr:full":"16043 SE Gaibler Lane Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16043;97236",
+    "addr:street":"Se Gaibler Lane",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498819,45.466366,-122.498819,45.466366",
     "geom:latitude":45.466366,
     "geom:longitude":-122.498819,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790229201
         }
     ],
     "wof:id":790229201,
-    "wof:lastmodified":1466772030,
+    "wof:lastmodified":1486768074,
     "wof:name":"Hardkor Sportsware",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

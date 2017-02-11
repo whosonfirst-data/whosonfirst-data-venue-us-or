@@ -2,9 +2,14 @@
   "id": 773240275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1040 NE Baldwin St Portland OR 97211",
+    "addr:housenumber":"1040",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Baldwin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653903,45.578484,-122.653903,45.578484",
     "geom:latitude":45.578484,
     "geom:longitude":-122.653903,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":773240275
         }
     ],
     "wof:id":773240275,
-    "wof:lastmodified":1466772158,
+    "wof:lastmodified":1486768716,
     "wof:name":"Truck Wholesale Co",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

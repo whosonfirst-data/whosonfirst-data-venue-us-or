@@ -2,9 +2,14 @@
   "id": 790083047,
   "type": "Feature",
   "properties": {
+    "addr:full":"11552 SW Lesser Rd Portland OR 97219",
+    "addr:housenumber":"11552",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Lesser Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73798,45.441239,-122.73798,45.441239",
     "geom:latitude":45.441239,
     "geom:longitude":-122.73798,
@@ -52,12 +57,13 @@
     "sg:website":"http://www.oswegospringsalf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +78,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":790083047
         }
     ],
     "wof:id":790083047,
-    "wof:lastmodified":1466767271,
+    "wof:lastmodified":1486764238,
     "wof:name":"Oswego Springs Retirement And Assisted Living Community",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

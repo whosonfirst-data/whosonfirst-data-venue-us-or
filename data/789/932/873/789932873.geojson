@@ -2,9 +2,14 @@
   "id": 789932873,
   "type": "Feature",
   "properties": {
+    "addr:full":"SE 67th and SE Division Portland OR 97206",
+    "addr:housenumber":"",
+    "addr:postcode":"97206",
+    "addr:street":"Se 67Th And Se Division",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59455,45.505351,-122.59455,45.505351",
     "geom:latitude":45.505351,
     "geom:longitude":-122.59455,
@@ -27,12 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +53,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":789932873
         }
     ],
     "wof:id":789932873,
-    "wof:lastmodified":1466772336,
+    "wof:lastmodified":1486766327,
     "wof:name":"Burrito Bandito",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

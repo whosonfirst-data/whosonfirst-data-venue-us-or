@@ -2,9 +2,14 @@
   "id": 370279349,
   "type": "Feature",
   "properties": {
+    "addr:full":"6508 N Delaware Ave Portland OR 97217",
+    "addr:housenumber":"6508",
+    "addr:postcode":"97217",
+    "addr:street":"N Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692428,45.571712,-122.692428,45.571712",
     "geom:latitude":45.571712,
     "geom:longitude":-122.692428,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"1a4d5ddd1703d3e7e187b1a18fe232cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":370279349
         }
     ],
     "wof:id":370279349,
-    "wof:lastmodified":1466769439,
+    "wof:lastmodified":1486772116,
     "wof:name":"Nho V Le",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

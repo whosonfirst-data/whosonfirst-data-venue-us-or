@@ -2,9 +2,14 @@
   "id": 790098603,
   "type": "Feature",
   "properties": {
+    "addr:full":"8515 NE Fremont St Portland OR 97220",
+    "addr:housenumber":"8515",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.575968,45.548119,-122.575968,45.548119",
     "geom:latitude":45.548119,
     "geom:longitude":-122.575968,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":790098603
         }
     ],
     "wof:id":790098603,
-    "wof:lastmodified":1466767845,
+    "wof:lastmodified":1486771780,
     "wof:name":"Financial Bookkeeping & Tax Service",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

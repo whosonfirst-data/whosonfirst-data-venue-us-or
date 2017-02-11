@@ -2,9 +2,14 @@
   "id": 370598685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1604 SW 10th Ave Portland OR 97201",
+    "addr:housenumber":"1604",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685633,45.51335,-122.685633,45.51335",
     "geom:latitude":45.51335,
     "geom:longitude":-122.685633,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d4c2667adb1c9581fdc69ce45b2882d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":370598685
         }
     ],
     "wof:id":370598685,
-    "wof:lastmodified":1466772900,
+    "wof:lastmodified":1486764336,
     "wof:name":"Population Research",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370157991,
   "type": "Feature",
   "properties": {
+    "addr:full":"4109 SW Idaho Ter Portland OR 97221",
+    "addr:housenumber":"4109",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Idaho Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.715984,45.476838,-122.715984,45.476838",
     "geom:latitude":45.476838,
     "geom:longitude":-122.715984,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"768d91130c7eb38c66cfc7a8b9e343a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":370157991
         }
     ],
     "wof:id":370157991,
-    "wof:lastmodified":1466767303,
+    "wof:lastmodified":1486771060,
     "wof:name":"Stafford Metallurgical Inc",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

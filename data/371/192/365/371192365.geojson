@@ -2,9 +2,14 @@
   "id": 371192365,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 SE 11th Ave Portland OR 97214",
+    "addr:housenumber":"125",
+    "addr:postcode":"97214",
+    "addr:street":"Se 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654704,45.521661,-122.654704,45.521661",
     "geom:latitude":45.521661,
     "geom:longitude":-122.654704,
@@ -37,11 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +59,21 @@
     "wof:geomhash":"5770b902b4b53c9e0da9bb95bd25a42c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":371192365
         }
     ],
     "wof:id":371192365,
-    "wof:lastmodified":1466770533,
+    "wof:lastmodified":1486773478,
     "wof:name":"Mc Cary Art Glass",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370378015,
   "type": "Feature",
   "properties": {
+    "addr:full":"7910 NE Failing St Portland OR 97213",
+    "addr:housenumber":"7910",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Failing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580794,45.550939,-122.580794,45.550939",
     "geom:latitude":45.550939,
     "geom:longitude":-122.580794,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"4b916fd053ec4b392298a685f6868771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":370378015
         }
     ],
     "wof:id":370378015,
-    "wof:lastmodified":1466771368,
+    "wof:lastmodified":1486771961,
     "wof:name":"William A Spisak MD",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

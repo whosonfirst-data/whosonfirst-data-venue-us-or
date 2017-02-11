@@ -2,9 +2,14 @@
   "id": 789831437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 SW 1st Avenue Suite 700 Portland OR 97201",
+    "addr:housenumber":"1500",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Avenue Suite 700",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676369,45.512393,-122.676369,45.512393",
     "geom:latitude":45.512393,
     "geom:longitude":-122.676369,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789831437
         }
     ],
     "wof:id":789831437,
-    "wof:lastmodified":1466769740,
+    "wof:lastmodified":1486765553,
     "wof:name":"Leineweber Gregory J",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

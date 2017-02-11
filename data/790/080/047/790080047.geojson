@@ -2,9 +2,14 @@
   "id": 790080047,
   "type": "Feature",
   "properties": {
+    "addr:full":"11318 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"11318",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73597,45.444502,-122.73597,45.444502",
     "geom:latitude":45.444502,
     "geom:longitude":-122.73597,
@@ -29,12 +34,13 @@
     "sg:website":"www.barburstorage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":790080047
         }
     ],
     "wof:id":790080047,
-    "wof:lastmodified":1466767164,
+    "wof:lastmodified":1486771061,
     "wof:name":"Barbur Storage",
-    "wof:parent_id":85853819,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

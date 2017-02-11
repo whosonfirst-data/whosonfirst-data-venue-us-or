@@ -2,9 +2,14 @@
   "id": 773231847,
   "type": "Feature",
   "properties": {
+    "addr:full":"6919 SE Brooklyn St Portland OR 97206",
+    "addr:housenumber":"6919",
+    "addr:postcode":"97206",
+    "addr:street":"Se Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59068,45.500714,-122.59068,45.500714",
     "geom:latitude":45.500714,
     "geom:longitude":-122.59068,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773231847
         }
     ],
     "wof:id":773231847,
-    "wof:lastmodified":1466771964,
+    "wof:lastmodified":1486766241,
     "wof:name":"Tina Tots",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789931915,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 SE 71st Ave Portland OR 97206",
+    "addr:housenumber":"5501",
+    "addr:postcode":"97206",
+    "addr:street":"Se 71St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.590476,45.483062,-122.590476,45.483062",
     "geom:latitude":45.483062,
     "geom:longitude":-122.590476,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789931915
         }
     ],
     "wof:id":789931915,
-    "wof:lastmodified":1466772327,
+    "wof:lastmodified":1486766585,
     "wof:name":"A Locksmith A 24 Hour",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

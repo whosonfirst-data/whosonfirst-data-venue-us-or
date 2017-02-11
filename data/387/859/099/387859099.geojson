@@ -2,9 +2,14 @@
   "id": 387859099,
   "type": "Feature",
   "properties": {
+    "addr:full":"3635 SE 72nd Ave Portland OR 97206",
+    "addr:housenumber":"3635",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589202,45.496225,-122.589202,45.496225",
     "geom:latitude":45.496225,
     "geom:longitude":-122.589202,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"14a9a8d726fedf8c8cd7f48d371d5eec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387859099
         }
     ],
     "wof:id":387859099,
-    "wof:lastmodified":1466775182,
+    "wof:lastmodified":1486771644,
     "wof:name":"Vietnamese Baptist Church",
-    "wof:parent_id":85871497,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

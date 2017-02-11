@@ -2,9 +2,14 @@
   "id": 790077419,
   "type": "Feature",
   "properties": {
+    "addr:full":"3540 SW California St Portland OR 97219",
+    "addr:housenumber":"3540",
+    "addr:postcode":"97219",
+    "addr:street":"Sw California St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713151,45.474789,-122.713151,45.474789",
     "geom:latitude":45.474789,
     "geom:longitude":-122.713151,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790077419
         }
     ],
     "wof:id":790077419,
-    "wof:lastmodified":1466768704,
+    "wof:lastmodified":1486769643,
     "wof:name":"Sadie's Dog Time",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85835959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

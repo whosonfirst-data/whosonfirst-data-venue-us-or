@@ -2,9 +2,14 @@
   "id": 387831019,
   "type": "Feature",
   "properties": {
+    "addr:full":"169 NE Lombard St Portland OR 97211",
+    "addr:housenumber":"169",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664152,45.577289,-122.664152,45.577289",
     "geom:latitude":45.577289,
     "geom:longitude":-122.664152,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"90e46c9e180f0f24f7624fc900da0d00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":387831019
         }
     ],
     "wof:id":387831019,
-    "wof:lastmodified":1466775104,
+    "wof:lastmodified":1486768283,
     "wof:name":"Function Video LLC",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

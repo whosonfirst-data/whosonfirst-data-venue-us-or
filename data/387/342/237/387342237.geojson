@@ -2,9 +2,14 @@
   "id": 387342237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1126 SW 18th Ave Portland OR 97205",
+    "addr:housenumber":"1126",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692205,45.518825,-122.692205,45.518825",
     "geom:latitude":45.518825,
     "geom:longitude":-122.692205,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a3356f4692af585eb7488a712b3a70ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387342237
         }
     ],
     "wof:id":387342237,
-    "wof:lastmodified":1466772077,
+    "wof:lastmodified":1486764080,
     "wof:name":"Saffron Indian Cuisine LLC",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

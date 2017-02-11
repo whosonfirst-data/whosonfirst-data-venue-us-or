@@ -2,9 +2,14 @@
   "id": 387618767,
   "type": "Feature",
   "properties": {
+    "addr:full":"6359 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"6359",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661462,45.568846,-122.661462,45.568846",
     "geom:latitude":45.568846,
     "geom:longitude":-122.661462,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:brand_id":420573809,
     "wof:breaches":[],
@@ -40,17 +47,18 @@
     "wof:geomhash":"0535cf61532f88ac6a87257a3f1a347e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":387618767
         }
     ],
     "wof:id":387618767,
-    "wof:lastmodified":1466774050,
+    "wof:lastmodified":1486769031,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773737153,
   "type": "Feature",
   "properties": {
+    "addr:full":"4034 SE Ash St Portland OR 97214",
+    "addr:housenumber":"4034",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621442,45.521633,-122.621442,45.521633",
     "geom:latitude":45.521633,
     "geom:longitude":-122.621442,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":773737153
         }
     ],
     "wof:id":773737153,
-    "wof:lastmodified":1466775830,
+    "wof:lastmodified":1486767151,
     "wof:name":"Karelian Folk Music Ensemble",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

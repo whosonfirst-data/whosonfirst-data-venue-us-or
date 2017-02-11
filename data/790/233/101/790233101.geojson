@@ -2,9 +2,14 @@
   "id": 790233101,
   "type": "Feature",
   "properties": {
+    "addr:full":"12512 SE Holgate Blvd Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12512;97236",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534629,45.489632,-122.534629,45.489632",
     "geom:latitude":45.489632,
     "geom:longitude":-122.534629,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536119
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536119,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790233101
         }
     ],
     "wof:id":790233101,
-    "wof:lastmodified":1466772088,
+    "wof:lastmodified":1486771951,
     "wof:name":"Custom Quality Homes",
-    "wof:parent_id":420536119,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370893911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4229 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"4229",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57886,45.491604,-122.57886,45.491604",
     "geom:latitude":45.491604,
     "geom:longitude":-122.57886,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"54689d2202c271a5d59b7d65396f60bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":370893911
         }
     ],
     "wof:id":370893911,
-    "wof:lastmodified":1466774531,
+    "wof:lastmodified":1486771645,
     "wof:name":"Temptations",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

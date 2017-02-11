@@ -2,9 +2,14 @@
   "id": 789947157,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 NW 19th Avenue Portland OR 97209",
+    "addr:housenumber":"811",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 19Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690443,45.528518,-122.690443,45.528518",
     "geom:latitude":45.528518,
     "geom:longitude":-122.690443,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789947157
         }
     ],
     "wof:id":789947157,
-    "wof:lastmodified":1466772462,
+    "wof:lastmodified":1486771146,
     "wof:name":"Sandy's Skin Care",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

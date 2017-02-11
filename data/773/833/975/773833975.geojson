@@ -2,9 +2,14 @@
   "id": 773833975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3919 SW Greenleaf Dr Portland OR 97221",
+    "addr:housenumber":"3919",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Greenleaf Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717425,45.501484,-122.717425,45.501484",
     "geom:latitude":45.501484,
     "geom:longitude":-122.717425,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":773833975
         }
     ],
     "wof:id":773833975,
-    "wof:lastmodified":1466776163,
+    "wof:lastmodified":1486770666,
     "wof:name":"Bauch Design Construction",
     "wof:parent_id":85867153,
     "wof:placetype":"venue",

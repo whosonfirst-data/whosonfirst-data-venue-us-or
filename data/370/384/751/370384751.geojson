@@ -2,9 +2,14 @@
   "id": 370384751,
   "type": "Feature",
   "properties": {
+    "addr:full":"3514 SE 76th Ave Portland OR 97206",
+    "addr:housenumber":"3514",
+    "addr:postcode":"97206",
+    "addr:street":"Se 76Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.584664,45.493936,-122.584664,45.493936",
     "geom:latitude":45.493936,
     "geom:longitude":-122.584664,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"47bed78cebb66b7f87e5b3760b6828a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":370384751
         }
     ],
     "wof:id":370384751,
-    "wof:lastmodified":1466771524,
+    "wof:lastmodified":1486766736,
     "wof:name":"Om Seafood Co Inc",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370195841,
   "type": "Feature",
   "properties": {
+    "addr:full":"10244 N Vancouver Way Portland OR 97217",
+    "addr:housenumber":"10244",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.670241,45.59714,-122.670241,45.59714",
     "geom:latitude":45.59714,
     "geom:longitude":-122.670241,
@@ -30,10 +35,13 @@
     "sg:website":"www.bluebeacon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"b064d25fff6d66e3c73c7b222991fd5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":370195841
         }
     ],
     "wof:id":370195841,
-    "wof:lastmodified":1466767962,
+    "wof:lastmodified":1486771632,
     "wof:name":"Blue Beacon Truck Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

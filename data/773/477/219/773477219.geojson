@@ -2,9 +2,14 @@
   "id": 773477219,
   "type": "Feature",
   "properties": {
+    "addr:full":"6638 SE 56th Ave Portland OR 97206",
+    "addr:housenumber":"6638",
+    "addr:postcode":"97206",
+    "addr:street":"Se 56Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605828,45.474614,-122.605828,45.474614",
     "geom:latitude":45.474614,
     "geom:longitude":-122.605828,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871485
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871485,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":773477219
         }
     ],
     "wof:id":773477219,
-    "wof:lastmodified":1466774593,
+    "wof:lastmodified":1486772250,
     "wof:name":"Pamela J Kriscunas",
-    "wof:parent_id":85871485,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

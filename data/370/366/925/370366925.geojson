@@ -2,9 +2,14 @@
   "id": 370366925,
   "type": "Feature",
   "properties": {
+    "addr:full":"5411 SW 54th Ave Portland OR 97221",
+    "addr:housenumber":"5411",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73272,45.484169,-122.73272,45.484169",
     "geom:latitude":45.484169,
     "geom:longitude":-122.73272,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871499
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"b5754257ef7ef902d895996fcc7112a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
             "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":370366925
         }
     ],
     "wof:id":370366925,
-    "wof:lastmodified":1466771147,
+    "wof:lastmodified":1486774194,
     "wof:name":"Andrew Spear",
-    "wof:parent_id":85871499,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

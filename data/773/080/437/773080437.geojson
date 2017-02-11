@@ -2,9 +2,14 @@
   "id": 773080437,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 NE 139th Ave Portland OR 97230",
+    "addr:housenumber":"360",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 139Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.52083,45.524619,-122.52083,45.524619",
     "geom:latitude":45.524619,
     "geom:longitude":-122.52083,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536087
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773080437
         }
     ],
     "wof:id":773080437,
-    "wof:lastmodified":1466767462,
+    "wof:lastmodified":1486770715,
     "wof:name":"Ana Pasc Residential Care",
-    "wof:parent_id":420536087,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

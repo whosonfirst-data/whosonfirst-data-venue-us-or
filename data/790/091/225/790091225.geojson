@@ -2,9 +2,14 @@
   "id": 790091225,
   "type": "Feature",
   "properties": {
+    "addr:full":"8931 NE Sumner St Portland OR 97220",
+    "addr:housenumber":"8931",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sumner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570919,45.561098,-122.570919,45.561098",
     "geom:latitude":45.561098,
     "geom:longitude":-122.570919,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.perkins-group.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":790091225
         }
     ],
     "wof:id":790091225,
-    "wof:lastmodified":1466767569,
+    "wof:lastmodified":1486768720,
     "wof:name":"Fj Designs",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

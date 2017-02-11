@@ -2,9 +2,14 @@
   "id": 370985249,
   "type": "Feature",
   "properties": {
+    "addr:full":"3350 SE Powell Blvd Portland OR 97202",
+    "addr:housenumber":"3350",
+    "addr:postcode":"97202",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629314,45.496841,-122.629314,45.496841",
     "geom:latitude":45.496841,
     "geom:longitude":-122.629314,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e523683911198acc9c68205fcb5a5fd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":370985249
         }
     ],
     "wof:id":370985249,
-    "wof:lastmodified":1466774961,
+    "wof:lastmodified":1486772137,
     "wof:name":"Specialty Moving",
-    "wof:parent_id":85893197,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

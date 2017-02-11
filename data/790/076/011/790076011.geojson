@@ -2,9 +2,14 @@
   "id": 790076011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 SW Multnomah Boulevard Portland OR 97219",
+    "addr:housenumber":"1641",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Multnomah Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694587,45.466203,-122.694587,45.466203",
     "geom:latitude":45.466203,
     "geom:longitude":-122.694587,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790076011
         }
     ],
     "wof:id":790076011,
-    "wof:lastmodified":1466771451,
+    "wof:lastmodified":1486769427,
     "wof:name":"Consolidated Auto Works of Oregon",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

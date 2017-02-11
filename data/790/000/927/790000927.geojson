@@ -2,9 +2,14 @@
   "id": 790000927,
   "type": "Feature",
   "properties": {
+    "addr:full":"3937 NE 13th Ave Portland OR 97212",
+    "addr:housenumber":"3937",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65274,45.55126,-122.65274,45.55126",
     "geom:latitude":45.55126,
     "geom:longitude":-122.65274,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893233
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":790000927
         }
     ],
     "wof:id":790000927,
-    "wof:lastmodified":1466767524,
+    "wof:lastmodified":1486768607,
     "wof:name":"Liz Richards",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",

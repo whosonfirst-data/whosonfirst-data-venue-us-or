@@ -2,9 +2,14 @@
   "id": 790043115,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 SE 76th Ave Portland OR 97215",
+    "addr:housenumber":"518",
+    "addr:postcode":"97215",
+    "addr:street":"Se 76Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585043,45.518803,-122.585043,45.518803",
     "geom:latitude":45.518803,
     "geom:longitude":-122.585043,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790043115
         }
     ],
     "wof:id":790043115,
-    "wof:lastmodified":1466767910,
+    "wof:lastmodified":1486767303,
     "wof:name":"24 7 Lockout Locksmith",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

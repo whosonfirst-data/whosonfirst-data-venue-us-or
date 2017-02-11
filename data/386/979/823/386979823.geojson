@@ -2,9 +2,14 @@
   "id": 386979823,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 SE Powell Blvd Portland OR 97266",
+    "addr:housenumber":"8201",
+    "addr:postcode":"97266",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576259,45.497403,-122.576259,45.497403",
     "geom:latitude":45.497403,
     "geom:longitude":-122.576259,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"98b3a60836875f59a2604675491394ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":386979823
         }
     ],
     "wof:id":386979823,
-    "wof:lastmodified":1466767411,
+    "wof:lastmodified":1486769546,
     "wof:name":"Affordable Construction Mntnc",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

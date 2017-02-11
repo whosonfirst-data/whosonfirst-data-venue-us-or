@@ -2,9 +2,14 @@
   "id": 387361041,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 SE Ash St Portland OR 97214",
+    "addr:housenumber":"306",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661812,45.521433,-122.661812,45.521433",
     "geom:latitude":45.521433,
     "geom:longitude":-122.661812,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"aecbfbe26ac2a0e2ff8fd20058a49eae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387361041
         }
     ],
     "wof:id":387361041,
-    "wof:lastmodified":1466772207,
+    "wof:lastmodified":1486773508,
     "wof:name":"Diesel Fuel Prints",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

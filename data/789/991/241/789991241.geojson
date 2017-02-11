@@ -2,9 +2,14 @@
   "id": 789991241,
   "type": "Feature",
   "properties": {
+    "addr:full":"5760 NE Cleveland Ave Portland OR 97211",
+    "addr:housenumber":"5760",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.665813,45.564652,-122.665813,45.564652",
     "geom:latitude":45.564652,
     "geom:longitude":-122.665813,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.piedmontpresbyterian.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":789991241
         }
     ],
     "wof:id":789991241,
-    "wof:lastmodified":1466773199,
+    "wof:lastmodified":1486768936,
     "wof:name":"Piedmont United Presbyterian",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

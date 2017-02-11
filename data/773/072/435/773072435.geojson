@@ -2,9 +2,14 @@
   "id": 773072435,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 SE 13th Ave Portland OR 97202",
+    "addr:housenumber":"3625",
+    "addr:postcode":"97202",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652433,45.49624,-122.652433,45.49624",
     "geom:latitude":45.49624,
     "geom:longitude":-122.652433,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":773072435
         }
     ],
     "wof:id":773072435,
-    "wof:lastmodified":1466767210,
+    "wof:lastmodified":1486769399,
     "wof:name":"Transflock Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

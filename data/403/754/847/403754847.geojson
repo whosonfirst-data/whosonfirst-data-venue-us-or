@@ -2,9 +2,14 @@
   "id": 403754847,
   "type": "Feature",
   "properties": {
+    "addr:full":"238 NE Mason St Portland OR 97211",
+    "addr:housenumber":"238",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Mason St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662913,45.553249,-122.662913,45.553249",
     "geom:latitude":45.553249,
     "geom:longitude":-122.662913,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"f490804d1bee1c3dd2f32cbaaa28e110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":403754847
         }
     ],
     "wof:id":403754847,
-    "wof:lastmodified":1466768935,
+    "wof:lastmodified":1486768800,
     "wof:name":"Philadelphia CMBC",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

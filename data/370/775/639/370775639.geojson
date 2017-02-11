@@ -2,9 +2,14 @@
   "id": 370775639,
   "type": "Feature",
   "properties": {
+    "addr:full":"16305 NE Airport Way Portland OR 97230",
+    "addr:housenumber":"16305",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.493436,45.5562,-122.493436,45.5562",
     "geom:latitude":45.5562,
     "geom:longitude":-122.493436,
@@ -29,11 +34,14 @@
     "sg:website":"www.aramark-uniform.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
+        102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"7d0ec7affd68e8aac1b81715454e4e51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":370775639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370775639
         }
     ],
     "wof:id":370775639,
-    "wof:lastmodified":1466773963,
+    "wof:lastmodified":1486772079,
     "wof:name":"Aramark Uniform Svc",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387068039,
   "type": "Feature",
   "properties": {
+    "addr:full":"10102 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"10102",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.558169,45.526197,-122.558169,45.526197",
     "geom:latitude":45.526197,
     "geom:longitude":-122.558169,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"aaff14e67eff5dd42200c78f4a0e5944",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387068039
         }
     ],
     "wof:id":387068039,
-    "wof:lastmodified":1466768270,
+    "wof:lastmodified":1486770755,
     "wof:name":"Kaiser Dental",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

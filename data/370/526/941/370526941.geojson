@@ -2,9 +2,14 @@
   "id": 370526941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 NW Upshur St Portland OR 97209",
+    "addr:housenumber":"1801",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Upshur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690497,45.536358,-122.690497,45.536358",
     "geom:latitude":45.536358,
     "geom:longitude":-122.690497,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b15b6efce295442f7eec60fb48afabdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370526941
         }
     ],
     "wof:id":370526941,
-    "wof:lastmodified":1466772522,
+    "wof:lastmodified":1486771253,
     "wof:name":"Precision Communication",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

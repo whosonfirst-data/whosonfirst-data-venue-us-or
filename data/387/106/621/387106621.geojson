@@ -2,9 +2,14 @@
   "id": 387106621,
   "type": "Feature",
   "properties": {
+    "addr:full":"3259 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"3259",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704762,45.544441,-122.704762,45.544441",
     "geom:latitude":45.544441,
     "geom:longitude":-122.704762,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"2505a2711c227aa9c5d1683a0a8448dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":387106621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":387106621
         }
     ],
     "wof:id":387106621,
-    "wof:lastmodified":1466768914,
+    "wof:lastmodified":1486771112,
     "wof:name":"Florida Tile",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

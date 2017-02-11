@@ -2,9 +2,14 @@
   "id": 354375287,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 NW 10th Ave Portland OR 97209",
+    "addr:housenumber":"404",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68115,45.526271,-122.68115,45.526271",
     "geom:latitude":45.526271,
     "geom:longitude":-122.68115,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"55c600c5c2472837bc5dc5eb5195bfdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":354375287
         }
     ],
     "wof:id":354375287,
-    "wof:lastmodified":1466770863,
+    "wof:lastmodified":1486763586,
     "wof:name":"Ambrosini Design Ltd Inc",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

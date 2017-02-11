@@ -2,9 +2,14 @@
   "id": 370833401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 NW Lovejoy St Portland OR 97209",
+    "addr:housenumber":"1350",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Lovejoy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685041,45.529965,-122.685041,45.529965",
     "geom:latitude":45.529965,
     "geom:longitude":-122.685041,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e3d4700caad2e46cd26f7ba5eb034fac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":370833401
         }
     ],
     "wof:id":370833401,
-    "wof:lastmodified":1466774403,
+    "wof:lastmodified":1486770361,
     "wof:name":"Solo Terrace Cafe",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

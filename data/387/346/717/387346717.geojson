@@ -2,9 +2,14 @@
   "id": 387346717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 SW Taylors Ferry Rd Portland OR 97219",
+    "addr:housenumber":"1103",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Taylors Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690347,45.462744,-122.690347,45.462744",
     "geom:latitude":45.462744,
     "geom:longitude":-122.690347,
@@ -31,11 +36,13 @@
     "sg:website":"www.contactoregon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"1d14d019a0c9c2e262d2b125fee40f67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":387346717
         }
     ],
     "wof:id":387346717,
-    "wof:lastmodified":1466772226,
+    "wof:lastmodified":1486770986,
     "wof:name":"CONTACTOREGON.COM",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85871489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

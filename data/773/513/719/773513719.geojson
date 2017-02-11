@@ -2,9 +2,14 @@
   "id": 773513719,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 N Commercial Ave Portland OR 97217",
+    "addr:housenumber":"4815",
+    "addr:postcode":"97217",
+    "addr:street":"N Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671243,45.558228,-122.671243,45.558228",
     "geom:latitude":45.558228,
     "geom:longitude":-122.671243,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":773513719
         }
     ],
     "wof:id":773513719,
-    "wof:lastmodified":1466774968,
+    "wof:lastmodified":1486768260,
     "wof:name":"Platycad",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

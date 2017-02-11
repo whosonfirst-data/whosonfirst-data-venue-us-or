@@ -2,9 +2,14 @@
   "id": 790250039,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tom McCall Waterfront Park July 2-5, 2009 Portland OR 97255",
+    "addr:housenumber":"2-5",
+    "addr:postcode":"2009;97255",
+    "addr:street":"Tom;July",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673203,45.515071,-122.673203,45.515071",
     "geom:latitude":45.515071,
     "geom:longitude":-122.673203,
@@ -35,12 +40,13 @@
     "sg:website":"www.waterfrontbluesfest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790250039
         }
     ],
     "wof:id":790250039,
-    "wof:lastmodified":1466772411,
+    "wof:lastmodified":1486764018,
     "wof:name":"Waterfront Blues Festival",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

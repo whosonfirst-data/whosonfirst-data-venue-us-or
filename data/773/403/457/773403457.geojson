@@ -2,9 +2,14 @@
   "id": 773403457,
   "type": "Feature",
   "properties": {
+    "addr:full":"921 SE 47th Ave Portland OR 97215",
+    "addr:housenumber":"921",
+    "addr:postcode":"97215",
+    "addr:street":"Se 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6145,45.516009,-122.6145,45.516009",
     "geom:latitude":45.516009,
     "geom:longitude":-122.6145,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773403457
         }
     ],
     "wof:id":773403457,
-    "wof:lastmodified":1466774107,
+    "wof:lastmodified":1486769898,
     "wof:name":"Marceau Assoc Pipe Organ Bldrs",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

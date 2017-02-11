@@ -2,9 +2,14 @@
   "id": 773415753,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 SE 73rd Ave Portland OR 97215",
+    "addr:housenumber":"520",
+    "addr:postcode":"97215",
+    "addr:street":"Se 73Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58769,45.518159,-122.58769,45.518159",
     "geom:latitude":45.518159,
     "geom:longitude":-122.58769,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85834889,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773415753
         }
     ],
     "wof:id":773415753,
-    "wof:lastmodified":1466774280,
+    "wof:lastmodified":1486771801,
     "wof:name":"Gregg & Ellis Designs",
-    "wof:parent_id":85834889,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

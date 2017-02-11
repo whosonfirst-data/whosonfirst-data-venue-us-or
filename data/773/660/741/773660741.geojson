@@ -2,9 +2,14 @@
   "id": 773660741,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 SE 13th Ave Portland OR 97214",
+    "addr:housenumber":"226",
+    "addr:postcode":"97214",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652529,45.520954,-122.652529,45.520954",
     "geom:latitude":45.520954,
     "geom:longitude":-122.652529,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773660741
         }
     ],
     "wof:id":773660741,
-    "wof:lastmodified":1466775665,
+    "wof:lastmodified":1486771385,
     "wof:name":"Steven E Benson",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

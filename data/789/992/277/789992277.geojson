@@ -2,9 +2,14 @@
   "id": 789992277,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 NE Wygant St Ste 203 Portland OR 97211",
+    "addr:housenumber":"323",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Wygant St Ste 203",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662334,45.557659,-122.662334,45.557659",
     "geom:latitude":45.557659,
     "geom:longitude":-122.662334,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.actorsinaction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789992277
         }
     ],
     "wof:id":789992277,
-    "wof:lastmodified":1466772999,
+    "wof:lastmodified":1486768300,
     "wof:name":"Actors In Action",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

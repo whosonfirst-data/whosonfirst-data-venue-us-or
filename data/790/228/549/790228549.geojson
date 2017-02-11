@@ -2,9 +2,14 @@
   "id": 790228549,
   "type": "Feature",
   "properties": {
+    "addr:full":"15012 SE Stark St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"15012;97233",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508714,45.519034,-122.508714,45.519034",
     "geom:latitude":45.519034,
     "geom:longitude":-122.508714,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":790228549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790228549
         }
     ],
     "wof:id":790228549,
-    "wof:lastmodified":1466772136,
+    "wof:lastmodified":1486771539,
     "wof:name":"Stanley W Bohnstedt, DMD",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

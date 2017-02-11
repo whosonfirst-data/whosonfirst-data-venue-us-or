@@ -2,9 +2,14 @@
   "id": 404030811,
   "type": "Feature",
   "properties": {
+    "addr:full":"2171 SE 130th Ave Portland OR 97233",
+    "addr:housenumber":"2171",
+    "addr:postcode":"97233",
+    "addr:street":"Se 130Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.530039,45.507265,-122.530039,45.507265",
     "geom:latitude":45.507265,
     "geom:longitude":-122.530039,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"9b6c62ecc0f80ebae9489cfcc2d21b4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":404030811
         }
     ],
     "wof:id":404030811,
-    "wof:lastmodified":1466768990,
+    "wof:lastmodified":1486772215,
     "wof:name":"De Corte Construction",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

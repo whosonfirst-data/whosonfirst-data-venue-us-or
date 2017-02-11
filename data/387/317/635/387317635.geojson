@@ -2,9 +2,14 @@
   "id": 387317635,
   "type": "Feature",
   "properties": {
+    "addr:full":"4990 SW Landing Dr Portland OR 97239",
+    "addr:housenumber":"4990",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Landing Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673915,45.487098,-122.673915,45.487098",
     "geom:latitude":45.487098,
     "geom:longitude":-122.673915,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"bc0caff1c027a33e323a0f61f7581a85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":387317635
         }
     ],
     "wof:id":387317635,
-    "wof:lastmodified":1466771891,
+    "wof:lastmodified":1486773590,
     "wof:name":"Imm LLC",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387597459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"1724",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537559,45.53616,-122.537559,45.53616",
     "geom:latitude":45.53616,
     "geom:longitude":-122.537559,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:brand_id":420573835,
     "wof:breaches":[],
@@ -44,19 +51,20 @@
     "wof:geomhash":"5dd1e287bf8c6ed53b648a2e7884f5cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893223,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":387597459
         }
     ],
     "wof:id":387597459,
-    "wof:lastmodified":1466773807,
+    "wof:lastmodified":1486771972,
     "wof:name":"Advance America",
-    "wof:parent_id":85893223,
+    "wof:parent_id":85893231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

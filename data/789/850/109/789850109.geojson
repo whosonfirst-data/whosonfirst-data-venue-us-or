@@ -2,9 +2,14 @@
   "id": 789850109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1414 SE Long St Portland OR 97202",
+    "addr:housenumber":"1414",
+    "addr:postcode":"97202",
+    "addr:street":"Se Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651311,45.488785,-122.651311,45.488785",
     "geom:latitude":45.488785,
     "geom:longitude":-122.651311,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789850109
         }
     ],
     "wof:id":789850109,
-    "wof:lastmodified":1466770526,
+    "wof:lastmodified":1486769394,
     "wof:name":"Keywording.Com",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

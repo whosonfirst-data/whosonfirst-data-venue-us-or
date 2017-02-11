@@ -2,9 +2,14 @@
   "id": 790018635,
   "type": "Feature",
   "properties": {
+    "addr:full":"2045 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"2045",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644582,45.516643,-122.644582,45.516643",
     "geom:latitude":45.516643,
     "geom:longitude":-122.644582,
@@ -41,12 +46,14 @@
     "sg:website":"www.globepdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +68,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871515,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790018635
         }
     ],
     "wof:id":790018635,
-    "wof:lastmodified":1466767652,
+    "wof:lastmodified":1486773384,
     "wof:name":"The Globe",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

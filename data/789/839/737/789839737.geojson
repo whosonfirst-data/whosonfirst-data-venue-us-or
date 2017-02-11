@@ -2,9 +2,14 @@
   "id": 789839737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 SW 1st Ave Apt 1021 Portland OR 97201",
+    "addr:housenumber":"2221;1021",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67899,45.507199,-122.67899,45.507199",
     "geom:latitude":45.507199,
     "geom:longitude":-122.67899,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789839737
         }
     ],
     "wof:id":789839737,
-    "wof:lastmodified":1466770071,
+    "wof:lastmodified":1486765546,
     "wof:name":"Albright Enterprises",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

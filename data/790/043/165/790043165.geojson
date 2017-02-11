@@ -2,9 +2,14 @@
   "id": 790043165,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 SE Belmont St Portland OR 97215",
+    "addr:housenumber":"6101",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601196,45.516762,-122.601196,45.516762",
     "geom:latitude":45.516762,
     "geom:longitude":-122.601196,
@@ -42,12 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +68,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790043165
         }
     ],
     "wof:id":790043165,
-    "wof:lastmodified":1466767912,
+    "wof:lastmodified":1486771803,
     "wof:name":"American Telephone Services",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

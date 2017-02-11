@@ -2,9 +2,14 @@
   "id": 370681831,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 NW 1st Ave Portland OR 97209",
+    "addr:housenumber":"53",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671434,45.523457,-122.671434,45.523457",
     "geom:latitude":45.523457,
     "geom:longitude":-122.671434,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"75e228459d263f4f3f91d5be0e071103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370681831
         }
     ],
     "wof:id":370681831,
-    "wof:lastmodified":1466773575,
+    "wof:lastmodified":1486770679,
     "wof:name":"Balzers Pub & Grill",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

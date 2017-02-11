@@ -2,9 +2,14 @@
   "id": 789862173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 SE Division St Portland OR 97202",
+    "addr:housenumber":"3719",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625197,45.504765,-122.625197,45.504765",
     "geom:latitude":45.504765,
     "geom:longitude":-122.625197,
@@ -53,12 +58,14 @@
     "sg:website":"www.eastsideguitarrepair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,15 +80,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789862173
         }
     ],
     "wof:id":789862173,
-    "wof:lastmodified":1466770965,
+    "wof:lastmodified":1486773660,
     "wof:name":"East Side Guitar Repair",
-    "wof:parent_id":85871465,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789864025,
   "type": "Feature",
   "properties": {
+    "addr:full":"5035 SE McLoughlin Boulevard Portland OR 97202",
+    "addr:housenumber":"5035",
+    "addr:postcode":"97202",
+    "addr:street":"Se Mcloughlin Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648515,45.486146,-122.648515,45.486146",
     "geom:latitude":45.486146,
     "geom:longitude":-122.648515,
@@ -60,12 +65,13 @@
     "sg:website":"www.smartwireless.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,15 +86,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807897,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789864025
         }
     ],
     "wof:id":789864025,
-    "wof:lastmodified":1466771024,
+    "wof:lastmodified":1486770515,
     "wof:name":"Smart Wireless",
-    "wof:parent_id":85807897,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

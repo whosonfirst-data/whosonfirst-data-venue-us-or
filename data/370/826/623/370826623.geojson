@@ -2,9 +2,14 @@
   "id": 370826623,
   "type": "Feature",
   "properties": {
+    "addr:full":"3242 SW Arrowood Dr Portland OR 97219",
+    "addr:housenumber":"3242",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Arrowood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710574,45.436194,-122.710574,45.436194",
     "geom:latitude":45.436194,
     "geom:longitude":-122.710574,
@@ -25,10 +30,16 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715835,
+        102082213,
+        420536081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +49,29 @@
     "wof:geomhash":"8037308ed3e2a4168c5719ee82651a8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":370826623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715835,
+            "neighbourhood_id":420536081,
             "region_id":85688513,
             "venue_id":370826623
         }
     ],
     "wof:id":370826623,
-    "wof:lastmodified":1466774267,
+    "wof:lastmodified":1486772260,
     "wof:name":"D A Mervyn & Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

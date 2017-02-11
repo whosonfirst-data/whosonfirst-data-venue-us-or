@@ -2,9 +2,14 @@
   "id": 789608765,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 NW 23rd Ave Portland OR 97210",
+    "addr:housenumber":"735",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.698548,45.527907,-122.698548,45.527907",
     "geom:latitude":45.527907,
     "geom:longitude":-122.698548,
@@ -32,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789608765
         }
     ],
     "wof:id":789608765,
-    "wof:lastmodified":1466768570,
+    "wof:lastmodified":1486773763,
     "wof:name":"Assistance League Thrift Shop",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

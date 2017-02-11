@@ -2,9 +2,14 @@
   "id": 387040199,
   "type": "Feature",
   "properties": {
+    "addr:full":"3316 N Saratoga St Portland OR 97217",
+    "addr:housenumber":"3316",
+    "addr:postcode":"97217",
+    "addr:street":"N Saratoga St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700875,45.572283,-122.700875,45.572283",
     "geom:latitude":45.572283,
     "geom:longitude":-122.700875,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"c54df239827a4620366627472a87bc61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":387040199
         }
     ],
     "wof:id":387040199,
-    "wof:lastmodified":1466767803,
+    "wof:lastmodified":1486772101,
     "wof:name":"Adorn Henna",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

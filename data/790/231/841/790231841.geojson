@@ -2,9 +2,14 @@
   "id": 790231841,
   "type": "Feature",
   "properties": {
+    "addr:full":"17112 SE Powell Boulevard Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17112;97236",
+    "addr:street":"Se Powell Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.511213,45.492528,-122.511213,45.492528",
     "geom:latitude":45.492528,
     "geom:longitude":-122.511213,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85858087
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85858087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790231841
         }
     ],
     "wof:id":790231841,
-    "wof:lastmodified":1466772193,
+    "wof:lastmodified":1486771543,
     "wof:name":"Joseph's Deli",
-    "wof:parent_id":85858087,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

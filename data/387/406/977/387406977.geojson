@@ -2,9 +2,14 @@
   "id": 387406977,
   "type": "Feature",
   "properties": {
+    "addr:full":"3111 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"3111",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578782,45.499257,-122.578782,45.499257",
     "geom:latitude":45.499257,
     "geom:longitude":-122.578782,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"86e419ff7adeb8c94eae6f6426babb58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":387406977
         }
     ],
     "wof:id":387406977,
-    "wof:lastmodified":1466772525,
+    "wof:lastmodified":1486767864,
     "wof:name":"Portland Car Co",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

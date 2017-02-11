@@ -2,9 +2,14 @@
   "id": 789957079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1094 NW Hoyt St. Portland OR 97209",
+    "addr:housenumber":"1094",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Hoyt St.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682241,45.527241,-122.682241,45.527241",
     "geom:latitude":45.527241,
     "geom:longitude":-122.682241,
@@ -43,12 +48,13 @@
     "sg:website":"http://www.steadymovers.com/portland-movers-or.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789957079
         }
     ],
     "wof:id":789957079,
-    "wof:lastmodified":1466772604,
+    "wof:lastmodified":1486762816,
     "wof:name":"Portland Steady Movers",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

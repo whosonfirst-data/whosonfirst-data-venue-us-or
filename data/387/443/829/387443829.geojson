@@ -2,9 +2,14 @@
   "id": 387443829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2883 SW Champlain Dr Portland OR 97205",
+    "addr:housenumber":"2883",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Champlain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.708315,45.521947,-122.708315,45.521947",
     "geom:latitude":45.521947,
     "geom:longitude":-122.708315,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871473
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e3a61371b9b9c523455e4af268f20d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":387443829
         }
     ],
     "wof:id":387443829,
-    "wof:lastmodified":1466772745,
+    "wof:lastmodified":1486765001,
     "wof:name":"Susan Marthens",
     "wof:parent_id":85871473,
     "wof:placetype":"venue",

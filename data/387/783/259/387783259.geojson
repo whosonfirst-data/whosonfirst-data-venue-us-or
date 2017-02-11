@@ -2,9 +2,14 @@
   "id": 387783259,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 SW Pendleton St Portland OR 97239",
+    "addr:housenumber":"1821",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Pendleton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69814,45.480926,-122.69814,45.480926",
     "geom:latitude":45.480926,
     "geom:longitude":-122.69814,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"64604e174a44a8b2d8c3e68a0c7f28f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":387783259
         }
     ],
     "wof:id":387783259,
-    "wof:lastmodified":1466774907,
+    "wof:lastmodified":1486764902,
     "wof:name":"Book Finds",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

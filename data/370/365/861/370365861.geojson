@@ -2,9 +2,14 @@
   "id": 370365861,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 NE Argyle St Portland OR 97211",
+    "addr:housenumber":"221",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Argyle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662813,45.58441,-122.662813,45.58441",
     "geom:latitude":45.58441,
     "geom:longitude":-122.662813,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"7f0c72f8844612f7b9585adf2969ff2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
+            "region_id":85688513,
+            "venue_id":370365861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":370365861
         }
     ],
     "wof:id":370365861,
-    "wof:lastmodified":1466771124,
+    "wof:lastmodified":1486772001,
     "wof:name":"Global Van Lines",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

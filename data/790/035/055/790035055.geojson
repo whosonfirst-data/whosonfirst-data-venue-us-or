@@ -2,9 +2,14 @@
   "id": 790035055,
   "type": "Feature",
   "properties": {
+    "addr:full":"3755 SE Grant Ct Portland OR 97214",
+    "addr:housenumber":"3755",
+    "addr:postcode":"97214",
+    "addr:street":"Se Grant Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.624727,45.506654,-122.624727,45.506654",
     "geom:latitude":45.506654,
     "geom:longitude":-122.624727,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":790035055
         }
     ],
     "wof:id":790035055,
-    "wof:lastmodified":1466767800,
+    "wof:lastmodified":1486766545,
     "wof:name":"Waxing Moon Candleworks",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

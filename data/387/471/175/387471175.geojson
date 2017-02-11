@@ -2,9 +2,14 @@
   "id": 387471175,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 SW 6th Ave Portland OR 97204",
+    "addr:housenumber":"309",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677566,45.521155,-122.677566,45.521155",
     "geom:latitude":45.521155,
     "geom:longitude":-122.677566,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"452415d159e77e210a1795aa79ca8cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":387471175
         }
     ],
     "wof:id":387471175,
-    "wof:lastmodified":1466773089,
+    "wof:lastmodified":1486764095,
     "wof:name":"John Beardsley Building Dev",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

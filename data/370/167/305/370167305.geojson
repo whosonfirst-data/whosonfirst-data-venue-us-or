@@ -2,9 +2,14 @@
   "id": 370167305,
   "type": "Feature",
   "properties": {
+    "addr:full":"3435 SE 13th Ave Portland OR 97202",
+    "addr:housenumber":"3435",
+    "addr:postcode":"97202",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65241,45.497739,-122.65241,45.497739",
     "geom:latitude":45.497739,
     "geom:longitude":-122.65241,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513,
+        85807897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"2bce070d8314bb4cbd1983537d66cd46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
+            "region_id":85688513,
+            "venue_id":370167305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":370167305
         }
     ],
     "wof:id":370167305,
-    "wof:lastmodified":1466767461,
+    "wof:lastmodified":1486769392,
     "wof:name":"Pacific Tradewind Inc",
-    "wof:parent_id":85893193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

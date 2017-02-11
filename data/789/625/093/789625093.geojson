@@ -2,9 +2,14 @@
   "id": 789625093,
   "type": "Feature",
   "properties": {
+    "addr:full":"6535 NE Prescott St Portland OR 97218",
+    "addr:housenumber":"6535",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Prescott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.595905,45.555446,-122.595905,45.555446",
     "geom:latitude":45.555446,
     "geom:longitude":-122.595905,
@@ -29,7 +34,15 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893229,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71PD5N4zLCJrqa5FLAp8i3_45.555524_-122.595497@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462589257,
     "wof:geomhash":"b0cebaaf451ffd06dced236195115764",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
+            "region_id":85688513,
+            "venue_id":789625093
+        }
+    ],
     "wof:id":789625093,
-    "wof:lastmodified":1466768923,
+    "wof:lastmodified":1486771963,
     "wof:name":"Wfj Towncar Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

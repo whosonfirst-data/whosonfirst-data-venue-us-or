@@ -2,9 +2,14 @@
   "id": 789858463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1657 SE Tacoma Street Portland OR 97202",
+    "addr:housenumber":"1657",
+    "addr:postcode":"97202",
+    "addr:street":"Se Tacoma Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647773,45.464544,-122.647773,45.464544",
     "geom:latitude":45.464544,
     "geom:longitude":-122.647773,
@@ -26,12 +31,13 @@
     "sg:website":"www.realdeals.net/AA/flash/index...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789858463
         }
     ],
     "wof:id":789858463,
-    "wof:lastmodified":1466770843,
+    "wof:lastmodified":1486770545,
     "wof:name":"Real Deals On Home Decor",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

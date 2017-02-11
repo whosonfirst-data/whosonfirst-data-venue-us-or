@@ -2,9 +2,14 @@
   "id": 790011627,
   "type": "Feature",
   "properties": {
+    "addr:full":"5115 NE Sandy Boulevard Portland OR 97213",
+    "addr:housenumber":"5115",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Sandy Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610567,45.539929,-122.610567,45.539929",
     "geom:latitude":45.539929,
     "geom:longitude":-122.610567,
@@ -24,7 +29,15 @@
     "sg:postcode":"97213",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867145,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lNtBzGE4Q4YVIH8ygKyCi_45.539929_-122.610567@1303263418"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462592419,
     "wof:geomhash":"5439423ffd79444854c586bd997f2bb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
+            "region_id":85688513,
+            "venue_id":790011627
+        }
+    ],
     "wof:id":790011627,
-    "wof:lastmodified":1466767587,
+    "wof:lastmodified":1486770384,
     "wof:name":"Sylvia's Italian Restaurant & Class Act Dinner Theater",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

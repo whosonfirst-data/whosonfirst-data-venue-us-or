@@ -2,9 +2,14 @@
   "id": 386955771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 NW Front Ave Portland OR 97209",
+    "addr:housenumber":"2151",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689339,45.538229,-122.689339,45.538229",
     "geom:latitude":45.538229,
     "geom:longitude":-122.689339,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"105322ad14801200093d939a8715eb3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":386955771
         }
     ],
     "wof:id":386955771,
-    "wof:lastmodified":1466767306,
+    "wof:lastmodified":1486771282,
     "wof:name":"Willimette Indus Federal Cr Un",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

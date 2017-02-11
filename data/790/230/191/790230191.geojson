@@ -2,9 +2,14 @@
   "id": 790230191,
   "type": "Feature",
   "properties": {
+    "addr:full":"7312 SE 133rd Place Portland OR 97236",
+    "addr:housenumber":"7312",
+    "addr:postcode":"97236",
+    "addr:street":"Se 133Rd Place",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.526746,45.469929,-122.526746,45.469929",
     "geom:latitude":45.469929,
     "geom:longitude":-122.526746,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821517,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790230191
         }
     ],
     "wof:id":790230191,
-    "wof:lastmodified":1466772056,
+    "wof:lastmodified":1486772198,
     "wof:name":"Schelling America",
-    "wof:parent_id":85821517,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

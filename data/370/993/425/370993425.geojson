@@ -2,9 +2,14 @@
   "id": 370993425,
   "type": "Feature",
   "properties": {
+    "addr:full":"8303 SW 10th Ave Portland OR 97219",
+    "addr:housenumber":"8303",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688603,45.464861,-122.688603,45.464861",
     "geom:latitude":45.464861,
     "geom:longitude":-122.688603,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,20 @@
     "wof:geomhash":"4cc12377cbd98447494041feb48ee138",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":370993425
         }
     ],
     "wof:id":370993425,
-    "wof:lastmodified":1466775166,
+    "wof:lastmodified":1486772153,
     "wof:name":"The Loft",
-    "wof:parent_id":85809397,
+    "wof:parent_id":420536125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

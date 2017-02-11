@@ -2,9 +2,14 @@
   "id": 789864967,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 SE Spokane St Ste 387 Portland OR 97202",
+    "addr:housenumber":"205",
+    "addr:postcode":"97202",
+    "addr:street":"Se Spokane St Ste 387",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663335,45.465281,-122.663335,45.465281",
     "geom:latitude":45.465281,
     "geom:longitude":-122.663335,
@@ -36,12 +41,13 @@
     "sg:website":"www.webranking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789864967
         }
     ],
     "wof:id":789864967,
-    "wof:lastmodified":1466771066,
+    "wof:lastmodified":1486770485,
     "wof:name":"Web Ranking",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

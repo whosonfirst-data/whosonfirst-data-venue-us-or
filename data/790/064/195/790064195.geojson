@@ -2,9 +2,14 @@
   "id": 790064195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1929 N Skidmore Ct Portland OR 97217",
+    "addr:housenumber":"1929",
+    "addr:postcode":"97217",
+    "addr:street":"N Skidmore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687523,45.55505,-122.687523,45.55505",
     "geom:latitude":45.55505,
     "geom:longitude":-122.687523,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790064195
         }
     ],
     "wof:id":790064195,
-    "wof:lastmodified":1466768390,
+    "wof:lastmodified":1486771834,
     "wof:name":"J & J Leather Refinshers",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773142015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 SE Pine St Portland OR 97214",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97214",
+    "addr:street":"Se Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653692,45.520844,-122.653692,45.520844",
     "geom:latitude":45.520844,
     "geom:longitude":-122.653692,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773142015
         }
     ],
     "wof:id":773142015,
-    "wof:lastmodified":1466769391,
+    "wof:lastmodified":1486773440,
     "wof:name":"Portland Precision Instr Repr",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

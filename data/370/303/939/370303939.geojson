@@ -2,9 +2,14 @@
   "id": 370303939,
   "type": "Feature",
   "properties": {
+    "addr:full":"13039 E Burnside St Portland OR 97233",
+    "addr:housenumber":"13039",
+    "addr:postcode":"97233",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528973,45.522499,-122.528973,45.522499",
     "geom:latitude":45.522499,
     "geom:longitude":-122.528973,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"295b43db249fe79733da50f4d8838ed2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":370303939
         }
     ],
     "wof:id":370303939,
-    "wof:lastmodified":1466769881,
+    "wof:lastmodified":1486767192,
     "wof:name":"A Personal Scribe",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

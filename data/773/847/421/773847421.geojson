@@ -2,9 +2,14 @@
   "id": 773847421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 SE Gideon St Portland OR 97202",
+    "addr:housenumber":"1339",
+    "addr:postcode":"97202",
+    "addr:street":"Se Gideon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652657,45.502207,-122.652657,45.502207",
     "geom:latitude":45.502207,
     "geom:longitude":-122.652657,
@@ -31,12 +36,13 @@
     "sg:website":"www.americanheating.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773847421
         }
     ],
     "wof:id":773847421,
-    "wof:lastmodified":1466776045,
+    "wof:lastmodified":1486767011,
     "wof:name":"American Heating Inc",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

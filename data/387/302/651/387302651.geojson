@@ -2,9 +2,14 @@
   "id": 387302651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1829 NE Alberta St Portland OR 97211",
+    "addr:housenumber":"1829",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646006,45.559152,-122.646006,45.559152",
     "geom:latitude":45.559152,
     "geom:longitude":-122.646006,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"646d3bcc0cfce21b80c0cfb1406fdb6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":387302651
         }
     ],
     "wof:id":387302651,
-    "wof:lastmodified":1466772085,
+    "wof:lastmodified":1486773374,
     "wof:name":"Barton Productions Catering",
-    "wof:parent_id":85893257,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

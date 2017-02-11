@@ -2,9 +2,14 @@
   "id": 790057919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 N Marine Dr Portland OR 97217",
+    "addr:housenumber":"1020",
+    "addr:postcode":"97217",
+    "addr:street":"N Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676409,45.602869,-122.676409,45.602869",
     "geom:latitude":45.602869,
     "geom:longitude":-122.676409,
@@ -27,7 +32,15 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0afOXelobTYf3FOowA1ss5_45.602869_-122.676409@1303263420"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462592801,
     "wof:geomhash":"428c7c74949320a05ddfa2aa6f54bc8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":790057919
+        }
+    ],
     "wof:id":790057919,
-    "wof:lastmodified":1466768246,
+    "wof:lastmodified":1486771630,
     "wof:name":"24 Hour & 7 Day Portland Emergency Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403715397,
   "type": "Feature",
   "properties": {
+    "addr:full":"12920 NE Shaver St Portland OR 97230",
+    "addr:housenumber":"12920",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Shaver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.529038,45.552078,-122.529038,45.552078",
     "geom:latitude":45.552078,
     "geom:longitude":-122.529038,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"5eef13163822f0dcc2f724ac3b1f57e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":403715397
         }
     ],
     "wof:id":403715397,
-    "wof:lastmodified":1466768078,
+    "wof:lastmodified":1486771475,
     "wof:name":"Top Green Landscape Design Inc",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

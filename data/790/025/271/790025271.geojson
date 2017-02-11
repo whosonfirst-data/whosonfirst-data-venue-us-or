@@ -2,9 +2,14 @@
   "id": 790025271,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 SE Belmont Portland OR 97214",
+    "addr:housenumber":"939",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655844,45.516524,-122.655844,45.516524",
     "geom:latitude":45.516524,
     "geom:longitude":-122.655844,
@@ -26,12 +31,14 @@
     "sg:website":"www.cascadebrewingbarrelhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790025271
         }
     ],
     "wof:id":790025271,
-    "wof:lastmodified":1466767703,
+    "wof:lastmodified":1486773523,
     "wof:name":"Cascade Brewing Barrel House",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

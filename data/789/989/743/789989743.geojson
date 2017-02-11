@@ -2,9 +2,14 @@
   "id": 789989743,
   "type": "Feature",
   "properties": {
+    "addr:full":"9325 NE Sunderland Ave Portland OR 97211",
+    "addr:housenumber":"9325",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Sunderland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635764,45.590847,-122.635764,45.590847",
     "geom:latitude":45.590847,
     "geom:longitude":-122.635764,
@@ -30,12 +35,13 @@
     "sg:website":"www.dignityvillage.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893249
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":789989743
         }
     ],
     "wof:id":789989743,
-    "wof:lastmodified":1466773093,
+    "wof:lastmodified":1486768654,
     "wof:name":"Dignity Village",
     "wof:parent_id":85893249,
     "wof:placetype":"venue",

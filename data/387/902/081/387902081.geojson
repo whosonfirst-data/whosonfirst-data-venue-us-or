@@ -2,9 +2,14 @@
   "id": 387902081,
   "type": "Feature",
   "properties": {
+    "addr:full":"838 SW Park Ave Portland OR 97205",
+    "addr:housenumber":"838",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68115,45.518478,-122.68115,45.518478",
     "geom:latitude":45.518478,
     "geom:longitude":-122.68115,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"716b8443853b503f29057a5d303f9305",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387902081
         }
     ],
     "wof:id":387902081,
-    "wof:lastmodified":1466775287,
+    "wof:lastmodified":1486763908,
     "wof:name":"Harrisons Commercial Interior",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

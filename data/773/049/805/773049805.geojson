@@ -2,9 +2,14 @@
   "id": 773049805,
   "type": "Feature",
   "properties": {
+    "addr:full":"4108 SE Lee Anna Way Portland OR 97236",
+    "addr:housenumber":"4108",
+    "addr:postcode":"97236",
+    "addr:street":"Se Lee Anna Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492573,45.491991,-122.492573,45.491991",
     "geom:latitude":45.491991,
     "geom:longitude":-122.492573,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773049805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773049805
         }
     ],
     "wof:id":773049805,
-    "wof:lastmodified":1466771015,
+    "wof:lastmodified":1486772203,
     "wof:name":"Premier Home Care",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

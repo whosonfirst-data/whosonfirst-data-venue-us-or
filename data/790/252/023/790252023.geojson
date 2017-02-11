@@ -2,9 +2,14 @@
   "id": 790252023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2850 SE 82nd Ave Portland OR 97255",
+    "addr:housenumber":"2850",
+    "addr:postcode":"97255",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578678,45.501899,-122.578678,45.501899",
     "geom:latitude":45.501899,
     "geom:longitude":-122.578678,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790252023
         }
     ],
     "wof:id":790252023,
-    "wof:lastmodified":1466772536,
+    "wof:lastmodified":1486771910,
     "wof:name":"Serenity Art",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

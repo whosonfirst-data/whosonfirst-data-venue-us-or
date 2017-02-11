@@ -2,9 +2,14 @@
   "id": 387870901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3098 SW Wilbard St Portland OR 97219",
+    "addr:housenumber":"3098",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Wilbard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.708128,45.452981,-122.708128,45.452981",
     "geom:latitude":45.452981,
     "geom:longitude":-122.708128,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a6da01c09956da84e05ec7b8dff551d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":387870901
         }
     ],
     "wof:id":387870901,
-    "wof:lastmodified":1466775288,
+    "wof:lastmodified":1486764030,
     "wof:name":"Quilting By Suzi",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

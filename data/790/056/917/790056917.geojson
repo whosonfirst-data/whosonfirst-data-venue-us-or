@@ -2,9 +2,14 @@
   "id": 790056917,
   "type": "Feature",
   "properties": {
+    "addr:full":"9920 N Vancouver Way Portland OR 97217",
+    "addr:housenumber":"9920",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666731,45.5946,-122.666731,45.5946",
     "geom:latitude":45.5946,
     "geom:longitude":-122.666731,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q95TEXn7fNt3dYKz0JRe7_45.594600_-122.666731@1303263420"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462592793,
     "wof:geomhash":"d283ffaf36a5bd46d582b1a20a6538e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":790056917
+        }
+    ],
     "wof:id":790056917,
-    "wof:lastmodified":1466768227,
+    "wof:lastmodified":1486771623,
     "wof:name":"Armac Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

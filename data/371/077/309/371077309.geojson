@@ -2,9 +2,14 @@
   "id": 371077309,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 NE Glisan St Portland OR 97213",
+    "addr:housenumber":"8101",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580138,45.526424,-122.580138,45.526424",
     "geom:latitude":45.526424,
     "geom:longitude":-122.580138,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"492251c42bc8b09db099296fa42e8ca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":371077309
         }
     ],
     "wof:id":371077309,
-    "wof:lastmodified":1466768422,
+    "wof:lastmodified":1486769588,
     "wof:name":"Lscb Inc",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

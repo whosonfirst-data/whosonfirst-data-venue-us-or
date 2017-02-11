@@ -2,9 +2,14 @@
   "id": 789874397,
   "type": "Feature",
   "properties": {
+    "addr:full":"7326 N Leavitt Ave Portland OR 97203",
+    "addr:housenumber":"7326",
+    "addr:postcode":"97203",
+    "addr:street":"N Leavitt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.754126,45.589411,-122.754126,45.589411",
     "geom:latitude":45.589411,
     "geom:longitude":-122.754126,
@@ -29,11 +34,13 @@
     "sg:website":"www.edwardjones.com/cgi/getHTML....",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,20 @@
     "wof:geomhash":"a3d836e6048dcb1bedfd4379e03eb02e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":789874397
         }
     ],
     "wof:id":789874397,
-    "wof:lastmodified":1466771508,
+    "wof:lastmodified":1486769712,
     "wof:name":"Trabucco Dave",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

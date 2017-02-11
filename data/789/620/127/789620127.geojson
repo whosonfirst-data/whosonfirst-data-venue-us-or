@@ -2,9 +2,14 @@
   "id": 789620127,
   "type": "Feature",
   "properties": {
+    "addr:full":"4415 NE Garfield Ave Portland OR 97211",
+    "addr:housenumber":"4415",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Garfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662609,45.555277,-122.662609,45.555277",
     "geom:latitude":45.555277,
     "geom:longitude":-122.662609,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789620127
         }
     ],
     "wof:id":789620127,
-    "wof:lastmodified":1466768836,
+    "wof:lastmodified":1486768800,
     "wof:name":"Under The Blood Ministries",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387005849,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 SE 7th Ave Portland OR 97214",
+    "addr:housenumber":"621",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658744,45.518081,-122.658744,45.518081",
     "geom:latitude":45.518081,
     "geom:longitude":-122.658744,
@@ -35,11 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +57,21 @@
     "wof:geomhash":"0f2f1e4851abd63c04e6d5075bcdf279",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387005849
         }
     ],
     "wof:id":387005849,
-    "wof:lastmodified":1466767226,
+    "wof:lastmodified":1486773491,
     "wof:name":"Digitype Imaging & Design Inc",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

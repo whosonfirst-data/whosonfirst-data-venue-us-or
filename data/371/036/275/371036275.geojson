@@ -2,9 +2,14 @@
   "id": 371036275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1566 SE Spokane St Portland OR 97202",
+    "addr:housenumber":"1566",
+    "addr:postcode":"97202",
+    "addr:street":"Se Spokane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649959,45.464959,-122.649959,45.464959",
     "geom:latitude":45.464959,
     "geom:longitude":-122.649959,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e14d8b794bd9379402d3342018e7873d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":371036275
         }
     ],
     "wof:id":371036275,
-    "wof:lastmodified":1466767753,
+    "wof:lastmodified":1486770492,
     "wof:name":"Closing Time LLC",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

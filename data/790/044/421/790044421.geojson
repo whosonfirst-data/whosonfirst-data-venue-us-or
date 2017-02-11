@@ -2,9 +2,14 @@
   "id": 790044421,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 NW 5th Ave Ste 306 Portland OR 97215",
+    "addr:housenumber":"322",
+    "addr:postcode":"97215",
+    "addr:street":"Nw 5Th Ave Ste 306",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675195,45.525724,-122.675195,45.525724",
     "geom:latitude":45.525724,
     "geom:longitude":-122.675195,
@@ -30,12 +35,13 @@
     "sg:website":"www.syncinteractive.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":790044421
         }
     ],
     "wof:id":790044421,
-    "wof:lastmodified":1466767928,
+    "wof:lastmodified":1486770693,
     "wof:name":"Sync Interactive, Inc",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

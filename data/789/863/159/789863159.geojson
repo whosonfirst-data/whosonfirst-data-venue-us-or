@@ -2,9 +2,14 @@
   "id": 789863159,
   "type": "Feature",
   "properties": {
+    "addr:full":"2837 SE Colt Dr Portland OR 97202",
+    "addr:housenumber":"2837",
+    "addr:postcode":"97202",
+    "addr:street":"Se Colt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636156,45.486474,-122.636156,45.486474",
     "geom:latitude":45.486474,
     "geom:longitude":-122.636156,
@@ -37,12 +42,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/8454523/portland_or/wimbledon_square.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789863159
         }
     ],
     "wof:id":789863159,
-    "wof:lastmodified":1466771005,
+    "wof:lastmodified":1486770977,
     "wof:name":"Wimbledon Square",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

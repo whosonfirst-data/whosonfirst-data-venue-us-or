@@ -2,9 +2,14 @@
   "id": 790024301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3212 SE Ankeny Street Portland OR 97214",
+    "addr:housenumber":"3212",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631958,45.522013,-122.631958,45.522013",
     "geom:latitude":45.522013,
     "geom:longitude":-122.631958,
@@ -34,12 +39,13 @@
     "sg:website":"www.oldlaurelhurstchurch.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790024301
         }
     ],
     "wof:id":790024301,
-    "wof:lastmodified":1466767700,
+    "wof:lastmodified":1486769533,
     "wof:name":"Old Laurelhurst Church",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789849767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 SE Holgate Blvd Portland OR 97202",
+    "addr:housenumber":"3909",
+    "addr:postcode":"97202",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622244,45.490311,-122.622244,45.490311",
     "geom:latitude":45.490311,
     "geom:longitude":-122.622244,
@@ -90,12 +95,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,13 +116,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789849767
         }
     ],
     "wof:id":789849767,
-    "wof:lastmodified":1466770511,
+    "wof:lastmodified":1486767503,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387135827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 SE Carlton St Portland OR 97202",
+    "addr:housenumber":"1423",
+    "addr:postcode":"97202",
+    "addr:street":"Se Carlton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650896,45.477963,-122.650896,45.477963",
     "geom:latitude":45.477963,
     "geom:longitude":-122.650896,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f778791b27c770c977f540f22ddd6373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387135827
         }
     ],
     "wof:id":387135827,
-    "wof:lastmodified":1466769478,
+    "wof:lastmodified":1486766341,
     "wof:name":"Mike Moore Recording",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

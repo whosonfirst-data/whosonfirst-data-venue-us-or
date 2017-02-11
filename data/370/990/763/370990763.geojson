@@ -2,9 +2,14 @@
   "id": 370990763,
   "type": "Feature",
   "properties": {
+    "addr:full":"6510 NE Portland Hwy Portland OR 97218",
+    "addr:housenumber":"6510",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Portland Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59332,45.563764,-122.59332,45.563764",
     "geom:latitude":45.563764,
     "geom:longitude":-122.59332,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"8b1c209d4f974ad7a882fa94ca12b903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370990763
         }
     ],
     "wof:id":370990763,
-    "wof:lastmodified":1466775073,
+    "wof:lastmodified":1486768803,
     "wof:name":"Plaid Pantry 53",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773592415,
   "type": "Feature",
   "properties": {
+    "addr:full":"7737 N Central St Portland OR 97203",
+    "addr:housenumber":"7737",
+    "addr:postcode":"97203",
+    "addr:street":"N Central St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.745551,45.590136,-122.745551,45.590136",
     "geom:latitude":45.590136,
     "geom:longitude":-122.745551,
@@ -27,7 +32,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o3IfAyxecr41Qlre16gMr_45.590136_-122.745551@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462586891,
     "wof:geomhash":"7e6a4da03c2269009fdf139cdbf90911",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":773592415
+        }
+    ],
     "wof:id":773592415,
-    "wof:lastmodified":1466775342,
+    "wof:lastmodified":1486769734,
     "wof:name":"Direct Labor Team",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

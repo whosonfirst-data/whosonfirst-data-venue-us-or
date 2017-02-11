@@ -2,9 +2,14 @@
   "id": 387691691,
   "type": "Feature",
   "properties": {
+    "addr:full":"9324 NE Colfax St Portland OR 97220",
+    "addr:housenumber":"9324",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Colfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.562485,45.567106,-122.562485,45.567106",
     "geom:latitude":45.567106,
     "geom:longitude":-122.562485,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"12f1fcd7e8880ea51562dd1d1fd0bbff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":387691691
         }
     ],
     "wof:id":387691691,
-    "wof:lastmodified":1466774420,
+    "wof:lastmodified":1486768685,
     "wof:name":"U S Alloy Co",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

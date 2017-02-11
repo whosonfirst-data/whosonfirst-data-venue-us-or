@@ -2,9 +2,14 @@
   "id": 789918223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2188 SW Park Pl Ste 103 Portland OR 97205",
+    "addr:housenumber":"2188",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Park Pl Ste 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696684,45.521308,-122.696684,45.521308",
     "geom:latitude":45.521308,
     "geom:longitude":-122.696684,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.slfollen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789918223
         }
     ],
     "wof:id":789918223,
-    "wof:lastmodified":1466772067,
+    "wof:lastmodified":1486764504,
     "wof:name":"S. L. Follen Company",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

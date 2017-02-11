@@ -2,9 +2,14 @@
   "id": 371098493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 NW Lovejoy St Portland OR 97209",
+    "addr:housenumber":"1720",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Lovejoy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689334,45.529885,-122.689334,45.529885",
     "geom:latitude":45.529885,
     "geom:longitude":-122.689334,
@@ -30,11 +35,13 @@
     "sg:website":"www.wildalchemy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"43543b1bb6d53b02edb3503fa03a42f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":371098493
         }
     ],
     "wof:id":371098493,
-    "wof:lastmodified":1466768769,
+    "wof:lastmodified":1486771161,
     "wof:name":"Wild Alchemy",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

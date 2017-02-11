@@ -2,9 +2,14 @@
   "id": 790099629,
   "type": "Feature",
   "properties": {
+    "addr:full":"5233 SW Hewett Blvd Portland OR 97221",
+    "addr:housenumber":"5233",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Hewett Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.729699,45.50349,-122.729699,45.50349",
     "geom:latitude":45.50349,
     "geom:longitude":-122.729699,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +57,20 @@
     "wof:geomhash":"53532e56c7f9558fd6f14c195f24b06b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":790099629
         }
     ],
     "wof:id":790099629,
-    "wof:lastmodified":1466767881,
+    "wof:lastmodified":1486770643,
     "wof:name":"Selecta Care Solutions",
-    "wof:parent_id":85807447,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

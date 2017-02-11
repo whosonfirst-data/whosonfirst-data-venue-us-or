@@ -2,9 +2,14 @@
   "id": 790242859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3838 SW Barbur Boulevard Portland OR 97239",
+    "addr:housenumber":"3838",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Barbur Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677717,45.495322,-122.677717,45.495322",
     "geom:latitude":45.495322,
     "geom:longitude":-122.677717,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85849969,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":790242859
         }
     ],
     "wof:id":790242859,
-    "wof:lastmodified":1466772279,
+    "wof:lastmodified":1486772299,
     "wof:name":"Boulevard Import Auto Repair",
-    "wof:parent_id":85849969,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

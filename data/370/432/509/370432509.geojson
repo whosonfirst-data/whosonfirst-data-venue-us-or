@@ -2,9 +2,14 @@
   "id": 370432509,
   "type": "Feature",
   "properties": {
+    "addr:full":"7435 NE Halsey St Portland OR 97213",
+    "addr:housenumber":"7435",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.586287,45.533673,-122.586287,45.533673",
     "geom:latitude":45.533673,
     "geom:longitude":-122.586287,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"fb89a2f5c645e3c73c436016301b2bbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":370432509
         }
     ],
     "wof:id":370432509,
-    "wof:lastmodified":1466771846,
+    "wof:lastmodified":1486769589,
     "wof:name":"Zoller & Associates",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85834889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

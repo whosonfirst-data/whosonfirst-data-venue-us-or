@@ -2,9 +2,14 @@
   "id": 387498263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1146 SE Sherrett St Portland OR 97202",
+    "addr:housenumber":"1146",
+    "addr:postcode":"97202",
+    "addr:street":"Se Sherrett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653325,45.461397,-122.653325,45.461397",
     "geom:latitude":45.461397,
     "geom:longitude":-122.653325,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"95c5e4d1370019cfe8d1fb39d191973f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387498263
         }
     ],
     "wof:id":387498263,
-    "wof:lastmodified":1466773227,
+    "wof:lastmodified":1486770489,
     "wof:name":"Unified Construction & Ldscp",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

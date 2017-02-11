@@ -2,9 +2,14 @@
   "id": 370941331,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 N Lombard St Portland OR 97217",
+    "addr:housenumber":"15",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668336,45.577292,-122.668336,45.577292",
     "geom:latitude":45.577292,
     "geom:longitude":-122.668336,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"0a75c179b5521c53637cf0edb124d6e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":370941331
         }
     ],
     "wof:id":370941331,
-    "wof:lastmodified":1466774878,
+    "wof:lastmodified":1486769129,
     "wof:name":"Hernandez Herlindo",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

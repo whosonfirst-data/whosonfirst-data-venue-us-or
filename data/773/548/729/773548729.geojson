@@ -2,9 +2,14 @@
   "id": 773548729,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 SW Vesta St Portland OR 97219",
+    "addr:housenumber":"4340",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Vesta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722789,45.441026,-122.722789,45.441026",
     "geom:latitude":45.441026,
     "geom:longitude":-122.722789,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871501,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":773548729
         }
     ],
     "wof:id":773548729,
-    "wof:lastmodified":1466775304,
+    "wof:lastmodified":1486772272,
     "wof:name":"Hessel's Design",
-    "wof:parent_id":85871501,
+    "wof:parent_id":420781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

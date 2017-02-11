@@ -2,9 +2,14 @@
   "id": 371126085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1948 SW Edgewood Rd Portland OR 97201",
+    "addr:housenumber":"1948",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Edgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699639,45.504507,-122.699639,45.504507",
     "geom:latitude":45.504507,
     "geom:longitude":-122.699639,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"9807992ee1d3dba0d0c4cc2c00eae210",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":371126085
         }
     ],
     "wof:id":371126085,
-    "wof:lastmodified":1466769267,
+    "wof:lastmodified":1486770642,
     "wof:name":"Denise Carty CPA",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

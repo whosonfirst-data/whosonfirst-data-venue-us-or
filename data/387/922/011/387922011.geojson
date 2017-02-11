@@ -2,9 +2,14 @@
   "id": 387922011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 SW 38th Ave Portland OR 97221",
+    "addr:housenumber":"3701",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.716294,45.49645,-122.716294,45.49645",
     "geom:latitude":45.49645,
     "geom:longitude":-122.716294,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -44,19 +52,30 @@
     "wof:geomhash":"d1b1907b63fcd145dfa51f324997586d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":387922011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":387922011
         }
     ],
     "wof:id":387922011,
-    "wof:lastmodified":1466775437,
+    "wof:lastmodified":1486770661,
     "wof:name":"Art Fx Painting and Murals",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

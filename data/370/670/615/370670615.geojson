@@ -2,9 +2,14 @@
   "id": 370670615,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 NE 87th Ave Portland OR 97220",
+    "addr:housenumber":"5901",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 87Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.573404,45.56428,-122.573404,45.56428",
     "geom:latitude":45.56428,
     "geom:longitude":-122.573404,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"36818b08bb7938046f2adbed1f0f037e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":370670615
         }
     ],
     "wof:id":370670615,
-    "wof:lastmodified":1466773418,
+    "wof:lastmodified":1486768411,
     "wof:name":"Suburban Propane Carboration",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

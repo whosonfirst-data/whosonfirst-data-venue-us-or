@@ -2,9 +2,14 @@
   "id": 354297761,
   "type": "Feature",
   "properties": {
+    "addr:full":"3425 NE 45th Ave Portland OR 97213",
+    "addr:housenumber":"3425",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616808,45.547458,-122.616808,45.547458",
     "geom:latitude":45.547458,
     "geom:longitude":-122.616808,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ee9f3b9f501e893fa5228cf9dfa96774",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":354297761
         }
     ],
     "wof:id":354297761,
-    "wof:lastmodified":1466769471,
+    "wof:lastmodified":1486768675,
     "wof:name":"Stress Arrest",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

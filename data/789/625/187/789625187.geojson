@@ -2,9 +2,14 @@
   "id": 789625187,
   "type": "Feature",
   "properties": {
+    "addr:full":"7030 N Polk Ave Portland OR 97203",
+    "addr:housenumber":"7030",
+    "addr:postcode":"97203",
+    "addr:street":"N Polk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.747573,45.585002,-122.747573,45.585002",
     "geom:latitude":45.585002,
     "geom:longitude":-122.747573,
@@ -29,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721333,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Wh3bnld1ejpgGEy6Cfns_45.585217_-122.747320@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462589258,
     "wof:geomhash":"cfcc1d5660033a065681eaa960fd961e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
+            "region_id":85688513,
+            "venue_id":789625187
+        }
+    ],
     "wof:id":789625187,
-    "wof:lastmodified":1466768926,
+    "wof:lastmodified":1486772385,
     "wof:name":"David Springer Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

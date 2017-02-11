@@ -2,9 +2,14 @@
   "id": 790004037,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 NE Tillamook St Portland OR 97213",
+    "addr:housenumber":"8000",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Tillamook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580902,45.537251,-122.580902,45.537251",
     "geom:latitude":45.537251,
     "geom:longitude":-122.580902,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":790004037
         }
     ],
     "wof:id":790004037,
-    "wof:lastmodified":1466767512,
+    "wof:lastmodified":1486771776,
     "wof:name":"Medical Management Intl",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

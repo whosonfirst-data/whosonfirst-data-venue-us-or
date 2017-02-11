@@ -2,9 +2,14 @@
   "id": 387483611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2089 SW Rose Ln Portland OR 97201",
+    "addr:housenumber":"2089",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Rose Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6744,45.508443,-122.6744,45.508443",
     "geom:latitude":45.508443,
     "geom:longitude":-122.6744,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"72869cdc64c68ec4b662e64366107d4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387483611
         }
     ],
     "wof:id":387483611,
-    "wof:lastmodified":1466773223,
+    "wof:lastmodified":1486763908,
     "wof:name":"EPT Corp",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

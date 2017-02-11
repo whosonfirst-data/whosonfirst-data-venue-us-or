@@ -2,9 +2,14 @@
   "id": 387094651,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 N Columbia Blvd Portland OR 97217",
+    "addr:housenumber":"310",
+    "addr:postcode":"97217",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.669506,45.583199,-122.669506,45.583199",
     "geom:latitude":45.583199,
     "geom:longitude":-122.669506,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"471d188d310c91e5ab44b1ceacc2ab28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":387094651
         }
     ],
     "wof:id":387094651,
-    "wof:lastmodified":1466768714,
+    "wof:lastmodified":1486768311,
     "wof:name":"Stericycle Inc",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

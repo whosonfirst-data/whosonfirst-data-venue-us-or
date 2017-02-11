@@ -2,9 +2,14 @@
   "id": 387338287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1116 NW 17th Ave Portland OR 97209",
+    "addr:housenumber":"1116",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688428,45.530901,-122.688428,45.530901",
     "geom:latitude":45.530901,
     "geom:longitude":-122.688428,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"302de97b5e819b2c2add6cbfc16fd4d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387338287
         }
     ],
     "wof:id":387338287,
-    "wof:lastmodified":1466772033,
+    "wof:lastmodified":1486771146,
     "wof:name":"Bid Brothers LLC",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

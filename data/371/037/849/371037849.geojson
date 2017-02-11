@@ -2,9 +2,14 @@
   "id": 371037849,
   "type": "Feature",
   "properties": {
+    "addr:full":"4356 SW Multnomah Blvd Portland OR 97219",
+    "addr:housenumber":"4356",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Multnomah Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722774,45.467382,-122.722774,45.467382",
     "geom:latitude":45.467382,
     "geom:longitude":-122.722774,
@@ -26,11 +31,13 @@
     "sg:website":"www.help-you-sell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"e4f478b8ead3e28f5b8b1bf11e8979cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":371037849
         }
     ],
     "wof:id":371037849,
-    "wof:lastmodified":1466767779,
+    "wof:lastmodified":1486764653,
     "wof:name":"Willamette Realtors",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790067995,
   "type": "Feature",
   "properties": {
+    "addr:full":"5640 NE Skyport Way Portland OR 97218",
+    "addr:housenumber":"5640",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Skyport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603902,45.574676,-122.603902,45.574676",
     "geom:latitude":45.574676,
     "geom:longitude":-122.603902,
@@ -34,12 +39,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/8474100/portland_or/sherwin_williams_prod_fnshng.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790067995
         }
     ],
     "wof:id":790067995,
-    "wof:lastmodified":1466768508,
+    "wof:lastmodified":1486768652,
     "wof:name":"Sherwin-Williams Prod Fnshng",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

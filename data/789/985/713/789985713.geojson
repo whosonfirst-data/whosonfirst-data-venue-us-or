@@ -2,9 +2,14 @@
   "id": 789985713,
   "type": "Feature",
   "properties": {
+    "addr:full":"5920 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"5920",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661333,45.565711,-122.661333,45.565711",
     "geom:latitude":45.565711,
     "geom:longitude":-122.661333,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.starbuckscoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789985713
         }
     ],
     "wof:id":789985713,
-    "wof:lastmodified":1466773038,
+    "wof:lastmodified":1486771753,
     "wof:name":"Starbucks Coffee",
-    "wof:parent_id":85841531,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

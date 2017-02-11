@@ -2,9 +2,14 @@
   "id": 370941259,
   "type": "Feature",
   "properties": {
+    "addr:full":"4324 N Vancouver Ave Portland OR 97217",
+    "addr:housenumber":"4324",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667972,45.555915,-122.667972,45.555915",
     "geom:latitude":45.555915,
     "geom:longitude":-122.667972,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5499ff7cfb46a62deacae1f9b75fe37f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":370941259
         }
     ],
     "wof:id":370941259,
-    "wof:lastmodified":1466774878,
+    "wof:lastmodified":1486768477,
     "wof:name":"Vertigo Ltd Special Events LLC",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

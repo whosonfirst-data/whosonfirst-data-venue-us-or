@@ -2,9 +2,14 @@
   "id": 773249407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2119 SE 122nd Ave Portland OR 97233",
+    "addr:housenumber":"2119",
+    "addr:postcode":"97233",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537742,45.507802,-122.537742,45.507802",
     "geom:latitude":45.507802,
     "geom:longitude":-122.537742,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773249407
         }
     ],
     "wof:id":773249407,
-    "wof:lastmodified":1466772036,
+    "wof:lastmodified":1486772217,
     "wof:name":"Maxim Graphic Services Inc",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

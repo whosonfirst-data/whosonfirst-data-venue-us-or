@@ -2,9 +2,14 @@
   "id": 790218723,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 NE M L King Blvd Portland OR 97232",
+    "addr:housenumber":"20",
+    "addr:postcode":"97232",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661766,45.522942,-122.661766,45.522942",
     "geom:latitude":45.522942,
     "geom:longitude":-122.661766,
@@ -45,12 +50,14 @@
     "sg:website":"http://www.centralcityconcern.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +72,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790218723
         }
     ],
     "wof:id":790218723,
-    "wof:lastmodified":1466772042,
+    "wof:lastmodified":1486773718,
     "wof:name":"David P Hooper Detox Ctr",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

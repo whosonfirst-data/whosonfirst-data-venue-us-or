@@ -2,9 +2,14 @@
   "id": 370425103,
   "type": "Feature",
   "properties": {
+    "addr:full":"7820 SE Cooper St Portland OR 97206",
+    "addr:housenumber":"7820",
+    "addr:postcode":"97206",
+    "addr:street":"Se Cooper St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581747,45.473449,-122.581747,45.473449",
     "geom:latitude":45.473449,
     "geom:longitude":-122.581747,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
-        102082213,
-        85827985
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"485517f8e4c3ecb2512d2a237c6b00fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":-1,
-            "neighbourhood_id":85827985,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":370425103
         }
     ],
     "wof:id":370425103,
-    "wof:lastmodified":1466771798,
+    "wof:lastmodified":1486772239,
     "wof:name":"Tabernacle Of Hope",
-    "wof:parent_id":85827985,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

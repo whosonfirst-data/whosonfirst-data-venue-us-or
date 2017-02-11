@@ -2,9 +2,14 @@
   "id": 773557599,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 N Baltimore Ave Portland OR 97203",
+    "addr:housenumber":"6600",
+    "addr:postcode":"97203",
+    "addr:street":"N Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.76086,45.588725,-122.76086,45.588725",
     "geom:latitude":45.588725,
     "geom:longitude":-122.76086,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721333,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,20 @@
     "wof:geomhash":"99930bc85af47a2b260abe50a09154f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
             "region_id":85688513,
             "venue_id":773557599
         }
     ],
     "wof:id":773557599,
-    "wof:lastmodified":1466775217,
+    "wof:lastmodified":1486772382,
     "wof:name":"Midway LLC",
-    "wof:parent_id":85830793,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

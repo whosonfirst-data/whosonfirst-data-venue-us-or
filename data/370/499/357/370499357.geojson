@@ -2,9 +2,14 @@
   "id": 370499357,
   "type": "Feature",
   "properties": {
+    "addr:full":"4932 NE Tillamook St Portland OR 97213",
+    "addr:housenumber":"4932",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Tillamook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612165,45.537696,-122.612165,45.537696",
     "geom:latitude":45.537696,
     "geom:longitude":-122.612165,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893189
+        85688513,
+        85867145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"40617071d712737ad39a6f892ed97f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
+            "region_id":85688513,
+            "venue_id":370499357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":370499357
         }
     ],
     "wof:id":370499357,
-    "wof:lastmodified":1466772322,
+    "wof:lastmodified":1486770369,
     "wof:name":"Sandys Designs",
-    "wof:parent_id":85893189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789943385,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 4854 Portland OR 97208",
+    "addr:housenumber":"po",
+    "addr:postcode":"97208",
+    "addr:street":"Box 4854",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678709,45.528707,-122.678709,45.528707",
     "geom:latitude":45.528707,
     "geom:longitude":-122.678709,
@@ -30,12 +35,13 @@
     "sg:website":"www.sahagunchocolates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789943385
         }
     ],
     "wof:id":789943385,
-    "wof:lastmodified":1466772312,
+    "wof:lastmodified":1486763352,
     "wof:name":"Sahag?n",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

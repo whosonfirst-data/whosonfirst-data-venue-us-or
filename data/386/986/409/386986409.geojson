@@ -2,9 +2,14 @@
   "id": 386986409,
   "type": "Feature",
   "properties": {
+    "addr:full":"5802 NE Mallory Ave Portland OR 97211",
+    "addr:housenumber":"5802",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Mallory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663591,45.566411,-122.663591,45.566411",
     "geom:latitude":45.566411,
     "geom:longitude":-122.663591,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"2cba55c29e368211fc0b595230e39835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":386986409
         }
     ],
     "wof:id":386986409,
-    "wof:lastmodified":1466767435,
+    "wof:lastmodified":1486771762,
     "wof:name":"Oregonsex",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

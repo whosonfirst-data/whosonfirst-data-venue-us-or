@@ -2,9 +2,14 @@
   "id": 386988865,
   "type": "Feature",
   "properties": {
+    "addr:full":"3955 SE 112th Ave Portland OR 97266",
+    "addr:housenumber":"3955",
+    "addr:postcode":"97266",
+    "addr:street":"Se 112Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.548057,45.494586,-122.548057,45.494586",
     "geom:latitude":45.494586,
     "geom:longitude":-122.548057,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893227
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"972acc82aedba7d4909112cd6e34e4ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":386988865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":386988865
         }
     ],
     "wof:id":386988865,
-    "wof:lastmodified":1466767451,
+    "wof:lastmodified":1486769550,
     "wof:name":"Skanska USA Builders",
-    "wof:parent_id":85893227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387958809,
   "type": "Feature",
   "properties": {
+    "addr:full":"5311 N Vancouver Ave Portland OR 97217",
+    "addr:housenumber":"5311",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668807,45.562644,-122.668807,45.562644",
     "geom:latitude":45.562644,
     "geom:longitude":-122.668807,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"948d1418aaf1dd843aba5b52135718b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387958809
         }
     ],
     "wof:id":387958809,
-    "wof:lastmodified":1466775480,
+    "wof:lastmodified":1486771744,
     "wof:name":"Mariah A Taylor Cpnp",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

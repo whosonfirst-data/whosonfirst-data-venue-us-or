@@ -2,9 +2,14 @@
   "id": 790072847,
   "type": "Feature",
   "properties": {
+    "addr:full":"6651 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"6651",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.703871,45.476217,-122.703871,45.476217",
     "geom:latitude":45.476217,
     "geom:longitude":-122.703871,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790072847
         }
     ],
     "wof:id":790072847,
-    "wof:lastmodified":1466768615,
+    "wof:lastmodified":1486769447,
     "wof:name":"24 7 A Locksmith",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

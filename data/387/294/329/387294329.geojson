@@ -2,9 +2,14 @@
   "id": 387294329,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 SE Powell Blvd Portland OR 97202",
+    "addr:housenumber":"2820",
+    "addr:postcode":"97202",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636979,45.497628,-122.636979,45.497628",
     "geom:latitude":45.497628,
     "geom:longitude":-122.636979,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"18d0b2844c1dd4c3381757e19fb4021a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":387294329
         }
     ],
     "wof:id":387294329,
-    "wof:lastmodified":1466771882,
+    "wof:lastmodified":1486772134,
     "wof:name":"Abbotts Water Garden Hdqtr",
-    "wof:parent_id":85893197,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

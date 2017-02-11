@@ -2,9 +2,14 @@
   "id": 790049613,
   "type": "Feature",
   "properties": {
+    "addr:full":"9901 SE Caruthers St Portland OR 97216",
+    "addr:housenumber":"9901",
+    "addr:postcode":"97216",
+    "addr:street":"Se Caruthers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.561464,45.505157,-122.561464,45.505157",
     "geom:latitude":45.505157,
     "geom:longitude":-122.561464,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.lds.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790049613
         }
     ],
     "wof:id":790049613,
-    "wof:lastmodified":1466768054,
+    "wof:lastmodified":1486770774,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

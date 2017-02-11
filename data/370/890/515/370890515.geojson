@@ -2,9 +2,14 @@
   "id": 370890515,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"1620",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648684,45.522103,-122.648684,45.522103",
     "geom:latitude":45.522103,
     "geom:longitude":-122.648684,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"cca5b51e25395f3e7ac6bf5fd6318051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370890515
         }
     ],
     "wof:id":370890515,
-    "wof:lastmodified":1466774597,
+    "wof:lastmodified":1486771403,
     "wof:name":"Dynamic Therapies",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

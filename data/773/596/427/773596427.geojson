@@ -2,9 +2,14 @@
   "id": 773596427,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 SE 117th Ave Portland OR 97216",
+    "addr:housenumber":"145",
+    "addr:postcode":"97216",
+    "addr:street":"Se 117Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542995,45.521378,-122.542995,45.521378",
     "geom:latitude":45.521378,
     "geom:longitude":-122.542995,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773596427
         }
     ],
     "wof:id":773596427,
-    "wof:lastmodified":1466775451,
+    "wof:lastmodified":1486767614,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

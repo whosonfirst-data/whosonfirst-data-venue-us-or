@@ -2,9 +2,14 @@
   "id": 789890955,
   "type": "Feature",
   "properties": {
+    "addr:full":"838 SW 1st Ave Ste 330 Portland OR 97204",
+    "addr:housenumber":"838",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 1St Ave Ste 330",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673928,45.516748,-122.673928,45.516748",
     "geom:latitude":45.516748,
     "geom:longitude":-122.673928,
@@ -31,12 +36,13 @@
     "sg:website":"www.bambuclinic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789890955
         }
     ],
     "wof:id":789890955,
-    "wof:lastmodified":1466771691,
+    "wof:lastmodified":1486770280,
     "wof:name":"Bambu Clinic",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

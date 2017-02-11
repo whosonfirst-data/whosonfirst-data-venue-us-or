@@ -2,9 +2,14 @@
   "id": 789931799,
   "type": "Feature",
   "properties": {
+    "addr:full":"6803 SE Foster Road Portland OR 97206",
+    "addr:housenumber":"6803",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.593392,45.488364,-122.593392,45.488364",
     "geom:latitude":45.488364,
     "geom:longitude":-122.593392,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789931799
         }
     ],
     "wof:id":789931799,
-    "wof:lastmodified":1466772175,
+    "wof:lastmodified":1486767507,
     "wof:name":"Buck's Stove Palace",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

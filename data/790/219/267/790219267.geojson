@@ -2,9 +2,14 @@
   "id": 790219267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 NE 7th Ave Apt 127 Portland OR 97232",
+    "addr:housenumber":"1425;127",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 7Th Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658592,45.533097,-122.658592,45.533097",
     "geom:latitude":45.533097,
     "geom:longitude":-122.658592,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":790219267
         }
     ],
     "wof:id":790219267,
-    "wof:lastmodified":1466772030,
+    "wof:lastmodified":1486771343,
     "wof:name":"Joe Sahli Promotions",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

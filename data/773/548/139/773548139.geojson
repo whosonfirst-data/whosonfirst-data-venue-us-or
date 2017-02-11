@@ -2,9 +2,14 @@
   "id": 773548139,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 SW 33rd Pl Portland OR 97239",
+    "addr:housenumber":"6024",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 33Rd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711225,45.480511,-122.711225,45.480511",
     "geom:latitude":45.480511,
     "geom:longitude":-122.711225,
@@ -30,12 +35,13 @@
     "sg:website":"www.69avenue.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773548139
         }
     ],
     "wof:id":773548139,
-    "wof:lastmodified":1466775296,
+    "wof:lastmodified":1486771060,
     "wof:name":"Costar Productions",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

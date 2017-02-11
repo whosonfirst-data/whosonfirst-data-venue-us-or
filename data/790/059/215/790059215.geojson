@@ -2,9 +2,14 @@
   "id": 790059215,
   "type": "Feature",
   "properties": {
+    "addr:full":"11995 N Center Ave Portland OR 97217",
+    "addr:housenumber":"11995",
+    "addr:postcode":"97217",
+    "addr:street":"N Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681629,45.610335,-122.681629,45.610335",
     "geom:latitude":45.610335,
     "geom:longitude":-122.681629,
@@ -30,12 +35,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":790059215
         }
     ],
     "wof:id":790059215,
-    "wof:lastmodified":1466768250,
+    "wof:lastmodified":1486772370,
     "wof:name":"Bradley's Bar & Grill",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

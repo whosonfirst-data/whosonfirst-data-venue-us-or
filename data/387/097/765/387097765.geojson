@@ -2,9 +2,14 @@
   "id": 387097765,
   "type": "Feature",
   "properties": {
+    "addr:full":"4350 NE 133rd Ave Portland OR 97230",
+    "addr:housenumber":"4350",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 133Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.525802,45.552584,-122.525802,45.552584",
     "geom:latitude":45.552584,
     "geom:longitude":-122.525802,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"bbe3e8533401aa5edb4e375aa72886e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":387097765
         }
     ],
     "wof:id":387097765,
-    "wof:lastmodified":1466768769,
+    "wof:lastmodified":1486768940,
     "wof:name":"Lao Senior Assoc of Orego",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

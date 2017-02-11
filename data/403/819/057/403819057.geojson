@@ -2,9 +2,14 @@
   "id": 403819057,
   "type": "Feature",
   "properties": {
+    "addr:full":"5235 N Minnesota Ave Portland OR 97217",
+    "addr:housenumber":"5235",
+    "addr:postcode":"97217",
+    "addr:street":"N Minnesota Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67912,45.560883,-122.67912,45.560883",
     "geom:latitude":45.560883,
     "geom:longitude":-122.67912,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"a54cb52194cfa6e7a9507107ea3c2161",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":403819057
         }
     ],
     "wof:id":403819057,
-    "wof:lastmodified":1466770072,
+    "wof:lastmodified":1486771852,
     "wof:name":"Conjun To Alegre",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

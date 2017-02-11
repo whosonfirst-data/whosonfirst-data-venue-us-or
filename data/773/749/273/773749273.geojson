@@ -2,9 +2,14 @@
   "id": 773749273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1806 SW High St Portland OR 97201",
+    "addr:housenumber":"1806",
+    "addr:postcode":"97201",
+    "addr:street":"Sw High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699251,45.506891,-122.699251,45.506891",
     "geom:latitude":45.506891,
     "geom:longitude":-122.699251,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":773749273
         }
     ],
     "wof:id":773749273,
-    "wof:lastmodified":1466775874,
+    "wof:lastmodified":1486773810,
     "wof:name":"Write Hard Die Free Writing",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371163173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 NW 23rd Ave Portland OR 97210",
+    "addr:housenumber":"1507",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.698842,45.534019,-122.698842,45.534019",
     "geom:latitude":45.534019,
     "geom:longitude":-122.698842,
@@ -30,11 +35,14 @@
     "sg:website":"www.ces-sys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"6ebd4cee5194aef5883f7affe30748df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":371163173
         }
     ],
     "wof:id":371163173,
-    "wof:lastmodified":1466769926,
+    "wof:lastmodified":1486773758,
     "wof:name":"CES Systems & Consulting",
-    "wof:parent_id":85871509,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

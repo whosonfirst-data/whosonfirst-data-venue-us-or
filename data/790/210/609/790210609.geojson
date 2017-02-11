@@ -2,9 +2,14 @@
   "id": 790210609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2119 NE Halsey St Portland OR 97232",
+    "addr:housenumber":"2119",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644483,45.533588,-122.644483,45.533588",
     "geom:latitude":45.533588,
     "geom:longitude":-122.644483,
@@ -39,12 +44,13 @@
     "sg:website":"http://portland.citysearch.com/profile/604276342/portland_or/city_of_roses_hypnosis.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871463,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871463,
             "region_id":85688513,
             "venue_id":790210609
         }
     ],
     "wof:id":790210609,
-    "wof:lastmodified":1466771767,
+    "wof:lastmodified":1486768527,
     "wof:name":"City of Roses Hypnosis",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",

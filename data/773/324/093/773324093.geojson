@@ -2,9 +2,14 @@
   "id": 773324093,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 SE Morrison St Portland OR 97215",
+    "addr:housenumber":"4225",
+    "addr:postcode":"97215",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618085,45.517355,-122.618085,45.517355",
     "geom:latitude":45.517355,
     "geom:longitude":-122.618085,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773324093
         }
     ],
     "wof:id":773324093,
-    "wof:lastmodified":1466773271,
+    "wof:lastmodified":1486773379,
     "wof:name":"Pioneer Seventh Day Baptist Ch",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

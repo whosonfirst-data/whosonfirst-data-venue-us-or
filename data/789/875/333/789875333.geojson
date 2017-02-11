@@ -2,9 +2,14 @@
   "id": 789875333,
   "type": "Feature",
   "properties": {
+    "addr:full":"9742 N Taft Ave Portland OR 97203",
+    "addr:housenumber":"9742",
+    "addr:postcode":"97203",
+    "addr:street":"N Taft Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728365,45.593373,-122.728365,45.593373",
     "geom:latitude":45.593373,
     "geom:longitude":-122.728365,
@@ -39,7 +44,15 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SGv7Oqltikpb93nXGh8cA_45.593373_-122.728365@1303263412"
@@ -47,11 +60,22 @@
     "wof:country":"US",
     "wof:created":1462591228,
     "wof:geomhash":"93805b03c4ccb772ff81e38bb5847e99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":789875333
+        }
+    ],
     "wof:id":789875333,
-    "wof:lastmodified":1466771525,
+    "wof:lastmodified":1486769725,
     "wof:name":"Eckert Sanitary Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

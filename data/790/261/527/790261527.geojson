@@ -2,9 +2,14 @@
   "id": 790261527,
   "type": "Feature",
   "properties": {
+    "addr:full":"9220 SE Holgate Blvd Portland OR 97266",
+    "addr:housenumber":"9220",
+    "addr:postcode":"97266",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.568345,45.489889,-122.568345,45.489889",
     "geom:latitude":45.489889,
     "geom:longitude":-122.568345,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790261527
         }
     ],
     "wof:id":790261527,
-    "wof:lastmodified":1466772689,
+    "wof:lastmodified":1486766884,
     "wof:name":"24 Hour 7 Day Emergency Locksmith",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

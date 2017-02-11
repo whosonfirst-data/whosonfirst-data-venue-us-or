@@ -2,9 +2,14 @@
   "id": 370347699,
   "type": "Feature",
   "properties": {
+    "addr:full":"16642 SE East View Ct Portland OR 97236",
+    "addr:housenumber":"16642",
+    "addr:postcode":"97236",
+    "addr:street":"Se East View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.491899,45.489548,-122.491899,45.489548",
     "geom:latitude":45.489548,
     "geom:longitude":-122.491899,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"c37e7f5610a41eb9b039ebeb1cf84b62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":370347699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":370347699
         }
     ],
     "wof:id":370347699,
-    "wof:lastmodified":1466770755,
+    "wof:lastmodified":1486772211,
     "wof:name":"V V Martinovs Construction",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

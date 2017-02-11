@@ -2,9 +2,14 @@
   "id": 789972691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2328 NW Westover Rd Portland OR 97210",
+    "addr:housenumber":"2328",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Westover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699039,45.524362,-122.699039,45.524362",
     "geom:latitude":45.524362,
     "geom:longitude":-122.699039,
@@ -30,12 +35,13 @@
     "sg:website":"http://portland.citysearch.com/profile/603670272/portland_or/cupcake_salon.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789972691
         }
     ],
     "wof:id":789972691,
-    "wof:lastmodified":1466772710,
+    "wof:lastmodified":1486771204,
     "wof:name":"Cupcake Salon",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

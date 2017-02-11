@@ -2,9 +2,14 @@
   "id": 386990967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4373 NE Wistaria Dr Portland OR 97213",
+    "addr:housenumber":"4373",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Wistaria Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616996,45.541853,-122.616996,45.541853",
     "geom:latitude":45.541853,
     "geom:longitude":-122.616996,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893189
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"c93a40fb859b46e84b7c25f171a526eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893155,
+            "region_id":85688513,
+            "venue_id":386990967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":386990967
         }
     ],
     "wof:id":386990967,
-    "wof:lastmodified":1466767459,
+    "wof:lastmodified":1486771502,
     "wof:name":"Wistaria Press",
-    "wof:parent_id":85893189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

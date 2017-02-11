@@ -2,9 +2,14 @@
   "id": 790236661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 SW Altadena Avenue Portland OR 97239",
+    "addr:housenumber":"4100",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Altadena Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.708955,45.493433,-122.708955,45.493433",
     "geom:latitude":45.493433,
     "geom:longitude":-122.708955,
@@ -29,11 +34,13 @@
     "sg:website":"www.abettermoving.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,20 @@
     "wof:geomhash":"d9eb947cca57bc11d0b59062a5cc4a1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790236661
         }
     ],
     "wof:id":790236661,
-    "wof:lastmodified":1466772149,
+    "wof:lastmodified":1486769426,
     "wof:name":"A Better Moving Company",
-    "wof:parent_id":85807447,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

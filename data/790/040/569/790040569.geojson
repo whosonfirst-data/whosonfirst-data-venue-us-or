@@ -2,9 +2,14 @@
   "id": 790040569,
   "type": "Feature",
   "properties": {
+    "addr:full":"7919 SE Stark St Portland OR 97215",
+    "addr:housenumber":"7919",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582245,45.519148,-122.582245,45.519148",
     "geom:latitude":45.519148,
     "geom:longitude":-122.582245,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790040569
         }
     ],
     "wof:id":790040569,
-    "wof:lastmodified":1466767876,
+    "wof:lastmodified":1486766357,
     "wof:name":"Infusion Salon",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

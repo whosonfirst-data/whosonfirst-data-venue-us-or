@@ -2,9 +2,14 @@
   "id": 354347939,
   "type": "Feature",
   "properties": {
+    "addr:full":"8383 NE Sandy Blvd Portland OR 97220",
+    "addr:housenumber":"8383",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57682,45.553115,-122.57682,45.553115",
     "geom:latitude":45.553115,
     "geom:longitude":-122.57682,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"048bd6a67e0750dee639ef8d4b1bd899",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":354347939
         }
     ],
     "wof:id":354347939,
-    "wof:lastmodified":1466770269,
+    "wof:lastmodified":1486771768,
     "wof:name":"Ellis Machinery",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

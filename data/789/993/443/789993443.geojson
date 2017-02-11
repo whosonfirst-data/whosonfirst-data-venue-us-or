@@ -2,9 +2,14 @@
   "id": 789993443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 NE Alberta St Ste C Portland OR 97211",
+    "addr:housenumber":"1330",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652352,45.559101,-122.652352,45.559101",
     "geom:latitude":45.559101,
     "geom:longitude":-122.652352,
@@ -31,12 +36,14 @@
     "sg:website":"http://portland.citysearch.com/profile/8466823/portland_or/the_terrell_brandon_barbershop_and_sports_apparel.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789993443
         }
     ],
     "wof:id":789993443,
-    "wof:lastmodified":1466773216,
+    "wof:lastmodified":1486773369,
     "wof:name":"The Terrell Brandon Barbershop and Sports Apparel",
-    "wof:parent_id":85893213,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

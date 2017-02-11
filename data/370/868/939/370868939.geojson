@@ -2,9 +2,14 @@
   "id": 370868939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3059 NW Montara Loop Portland OR 97229",
+    "addr:housenumber":"3059",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Montara Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.775051,45.544518,-122.775051,45.544518",
     "geom:latitude":45.544518,
     "geom:longitude":-122.775051,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b31d2c4394ce69cafeffa18de0da9cc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":370868939
         }
     ],
     "wof:id":370868939,
-    "wof:lastmodified":1466774505,
+    "wof:lastmodified":1486763306,
     "wof:name":"Access International Inc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

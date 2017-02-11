@@ -2,9 +2,14 @@
   "id": 404097379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 N Ainsworth St Portland OR 97217",
+    "addr:housenumber":"1515",
+    "addr:postcode":"97217",
+    "addr:street":"N Ainsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683922,45.566386,-122.683922,45.566386",
     "geom:latitude":45.566386,
     "geom:longitude":-122.683922,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +55,20 @@
     "wof:geomhash":"a65a708def12974a1f36748118638bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":404097379
         }
     ],
     "wof:id":404097379,
-    "wof:lastmodified":1466770458,
+    "wof:lastmodified":1486772108,
     "wof:name":"Ainsworth Court Apartments",
-    "wof:parent_id":85893195,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

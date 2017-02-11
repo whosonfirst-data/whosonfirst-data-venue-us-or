@@ -2,9 +2,14 @@
   "id": 789848295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 SE Clinton St Ste D Portland OR 97202",
+    "addr:housenumber":"2610",
+    "addr:postcode":"97202",
+    "addr:street":"Se Clinton St Ste D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639614,45.503484,-122.639614,45.503484",
     "geom:latitude":45.503484,
     "geom:longitude":-122.639614,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789848295
         }
     ],
     "wof:id":789848295,
-    "wof:lastmodified":1466770449,
+    "wof:lastmodified":1486771683,
     "wof:name":"Senior Protection Association",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

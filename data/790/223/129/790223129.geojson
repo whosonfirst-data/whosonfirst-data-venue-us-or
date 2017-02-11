@@ -2,9 +2,14 @@
   "id": 790223129,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 SE 148th Avenue Apt 6C Portland OR 97233",
+    "addr:housenumber":"340;6c",
+    "addr:postcode":"97233",
+    "addr:street":"Se 148Th Avenue Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.494835,45.516477,-122.494835,45.516477",
     "geom:latitude":45.516477,
     "geom:longitude":-122.494835,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":790223129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790223129
         }
     ],
     "wof:id":790223129,
-    "wof:lastmodified":1466771925,
+    "wof:lastmodified":1486771543,
     "wof:name":"Raven Apartments",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

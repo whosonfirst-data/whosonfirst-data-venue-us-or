@@ -2,9 +2,14 @@
   "id": 773036049,
   "type": "Feature",
   "properties": {
+    "addr:full":"4133 NE 20th Ave Portland OR 97211",
+    "addr:housenumber":"4133",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644946,45.553485,-122.644946,45.553485",
     "geom:latitude":45.553485,
     "geom:longitude":-122.644946,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893233
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":773036049
         }
     ],
     "wof:id":773036049,
-    "wof:lastmodified":1466770683,
+    "wof:lastmodified":1486768906,
     "wof:name":"New Viewpoint Educators",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",

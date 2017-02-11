@@ -2,9 +2,14 @@
   "id": 790102417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3940 SW Jerald Court Portland OR 97221",
+    "addr:housenumber":"3940",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Jerald Court",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717687,45.494396,-122.717687,45.494396",
     "geom:latitude":45.494396,
     "geom:longitude":-122.717687,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +47,18 @@
     "wof:geomhash":"9e0a057fc8b363abf227b2a1d75dc097",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790102417
         }
     ],
     "wof:id":790102417,
-    "wof:lastmodified":1466767979,
+    "wof:lastmodified":1486764059,
     "wof:name":"Kasameyer James Atty",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

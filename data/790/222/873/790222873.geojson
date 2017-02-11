@@ -2,9 +2,14 @@
   "id": 790222873,
   "type": "Feature",
   "properties": {
+    "addr:full":"12304 SE Sherman St Portland OR 97233",
+    "addr:housenumber":"12304",
+    "addr:postcode":"97233",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.536584,45.506029,-122.536584,45.506029",
     "geom:latitude":45.506029,
     "geom:longitude":-122.536584,
@@ -45,12 +50,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +71,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790222873
         }
     ],
     "wof:id":790222873,
-    "wof:lastmodified":1466772072,
+    "wof:lastmodified":1486772223,
     "wof:name":"A Bra Boutique Figurette Cameo",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

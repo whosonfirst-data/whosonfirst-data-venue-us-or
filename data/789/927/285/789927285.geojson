@@ -2,9 +2,14 @@
   "id": 789927285,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW Park Ave & Washington St Portland OR 97205",
+    "addr:housenumber":"",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Park Ave & Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679848,45.520946,-122.679848,45.520946",
     "geom:latitude":45.520946,
     "geom:longitude":-122.679848,
@@ -25,12 +30,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789927285
         }
     ],
     "wof:id":789927285,
-    "wof:lastmodified":1466772242,
+    "wof:lastmodified":1486770177,
     "wof:name":"O'Bryant Square",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

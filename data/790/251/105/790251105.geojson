@@ -2,9 +2,14 @@
   "id": 790251105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2nd Ave Downtown across from Hubers Portland OR 97255",
+    "addr:housenumber":"",
+    "addr:postcode":"97255",
+    "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679683,45.499434,-122.679683,45.499434",
     "geom:latitude":45.499434,
     "geom:longitude":-122.679683,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790251105
         }
     ],
     "wof:id":790251105,
-    "wof:lastmodified":1466772538,
+    "wof:lastmodified":1486773560,
     "wof:name":"Best Burrito",
-    "wof:parent_id":420558713,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

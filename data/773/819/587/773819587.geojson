@@ -2,9 +2,14 @@
   "id": 773819587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4813 N Borthwick Ave Portland OR 97217",
+    "addr:housenumber":"4813",
+    "addr:postcode":"97217",
+    "addr:street":"N Borthwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673919,45.557694,-122.673919,45.557694",
     "geom:latitude":45.557694,
     "geom:longitude":-122.673919,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":773819587
         }
     ],
     "wof:id":773819587,
-    "wof:lastmodified":1466776064,
+    "wof:lastmodified":1486769096,
     "wof:name":"Fam Medical Trans",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386956667,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 NE 141st Ave Portland OR 97230",
+    "addr:housenumber":"334",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 141St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.51825,45.524899,-122.51825,45.524899",
     "geom:latitude":45.524899,
     "geom:longitude":-122.51825,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"28e4b60c73d13bddaa26fd99a8624453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":386956667
         }
     ],
     "wof:id":386956667,
-    "wof:lastmodified":1466767307,
+    "wof:lastmodified":1486770791,
     "wof:name":"American Pioneer Innovations",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

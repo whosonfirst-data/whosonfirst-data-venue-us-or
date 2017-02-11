@@ -2,9 +2,14 @@
   "id": 790201007,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 NE 160th Ave Portland OR 97230",
+    "addr:housenumber":"350",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 160Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498958,45.525259,-122.498958,45.525259",
     "geom:latitude":45.525259,
     "geom:longitude":-122.498958,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":790201007
         }
     ],
     "wof:id":790201007,
-    "wof:lastmodified":1466771550,
+    "wof:lastmodified":1486766421,
     "wof:name":"Derrick J. Lozeau Enterprises",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

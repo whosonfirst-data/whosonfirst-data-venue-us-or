@@ -2,9 +2,14 @@
   "id": 404045333,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 NW 1st Ave Portland OR 97209",
+    "addr:housenumber":"10",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67145,45.523794,-122.67145,45.523794",
     "geom:latitude":45.523794,
     "geom:longitude":-122.67145,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"76a8cc87f582022931da5c9858ab3833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":404045333
         }
     ],
     "wof:id":404045333,
-    "wof:lastmodified":1466769270,
+    "wof:lastmodified":1486770677,
     "wof:name":"Made In Oregon",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

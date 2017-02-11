@@ -2,9 +2,14 @@
   "id": 387512769,
   "type": "Feature",
   "properties": {
+    "addr:full":"3020 NE 26th Ave Portland OR 97212",
+    "addr:housenumber":"3020",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63901,45.544227,-122.63901,45.544227",
     "geom:latitude":45.544227,
     "geom:longitude":-122.63901,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85802561,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85827095
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"3f370ef0ac7c85b522a448f411716d7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85802561,
+            "region_id":85688513,
+            "venue_id":387512769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":387512769
         }
     ],
     "wof:id":387512769,
-    "wof:lastmodified":1466773309,
+    "wof:lastmodified":1486769362,
     "wof:name":"Crestview Management",
-    "wof:parent_id":85827095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

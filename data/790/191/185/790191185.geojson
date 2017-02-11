@@ -2,9 +2,14 @@
   "id": 790191185,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 NE 122nd Avenue Portland OR 97230",
+    "addr:housenumber":"520",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537586,45.526818,-122.537586,45.526818",
     "geom:latitude":45.526818,
     "geom:longitude":-122.537586,
@@ -30,12 +35,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790191185
         }
     ],
     "wof:id":790191185,
-    "wof:lastmodified":1466771421,
+    "wof:lastmodified":1486768035,
     "wof:name":"Menlo Park 76",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773819689,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 SE Stephens St Portland OR 97214",
+    "addr:housenumber":"2828",
+    "addr:postcode":"97214",
+    "addr:street":"Se Stephens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637161,45.509773,-122.637161,45.509773",
     "geom:latitude":45.509773,
     "geom:longitude":-122.637161,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713579,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713579,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773819689
         }
     ],
     "wof:id":773819689,
-    "wof:lastmodified":1466776067,
+    "wof:lastmodified":1486773539,
     "wof:name":"Colonial Heights Presbyterian",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108713579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

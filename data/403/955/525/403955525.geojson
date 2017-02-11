@@ -2,9 +2,14 @@
   "id": 403955525,
   "type": "Feature",
   "properties": {
+    "addr:full":"5917 NE 17th Ave Portland OR 97211",
+    "addr:housenumber":"5917",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648021,45.566251,-122.648021,45.566251",
     "geom:latitude":45.566251,
     "geom:longitude":-122.648021,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"581999795a7bb81f4c8632fe7545350e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":403955525
         }
     ],
     "wof:id":403955525,
-    "wof:lastmodified":1466768358,
+    "wof:lastmodified":1486772065,
     "wof:name":"Ach Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

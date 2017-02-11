@@ -2,9 +2,14 @@
   "id": 370195571,
   "type": "Feature",
   "properties": {
+    "addr:full":"14447 SE Division St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"14447;97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.514542,45.504251,-122.514542,45.504251",
     "geom:latitude":45.504251,
     "geom:longitude":-122.514542,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:brand_id":420573835,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"de1ccf51a91f10bf4f07cb3cdcf230e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":370195571
         }
     ],
     "wof:id":370195571,
-    "wof:lastmodified":1466767958,
+    "wof:lastmodified":1486766550,
     "wof:name":"Advance America",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

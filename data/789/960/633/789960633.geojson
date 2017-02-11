@@ -2,9 +2,14 @@
   "id": 789960633,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 NW 4th Avenue Portland OR 97209",
+    "addr:housenumber":"22",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 4Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674246,45.523295,-122.674246,45.523295",
     "geom:latitude":45.523295,
     "geom:longitude":-122.674246,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789960633
         }
     ],
     "wof:id":789960633,
-    "wof:lastmodified":1466772554,
+    "wof:lastmodified":1486770690,
     "wof:name":"Vegetarian House In Chinatown",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

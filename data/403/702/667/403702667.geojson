@@ -2,9 +2,14 @@
   "id": 403702667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2816 SE Division St Portland OR 97202",
+    "addr:housenumber":"2816",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637111,45.504728,-122.637111,45.504728",
     "geom:latitude":45.504728,
     "geom:longitude":-122.637111,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"bf791d9fe1c2db186b36b89407d3a716",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":403702667
         }
     ],
     "wof:id":403702667,
-    "wof:lastmodified":1466767850,
+    "wof:lastmodified":1486773661,
     "wof:name":"Fabcraft Company",
-    "wof:parent_id":85893169,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370508867,
   "type": "Feature",
   "properties": {
+    "addr:full":"11524 SW Vacuna Ct Portland OR 97219",
+    "addr:housenumber":"11524",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Vacuna Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701461,45.441568,-122.701461,45.441568",
     "geom:latitude":45.441568,
     "geom:longitude":-122.701461,
@@ -33,10 +38,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715835,
+        102082213,
+        420536081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +57,29 @@
     "wof:geomhash":"fe2556bf095194c039fde008f7bfdf02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":370508867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715835,
+            "neighbourhood_id":420536081,
             "region_id":85688513,
             "venue_id":370508867
         }
     ],
     "wof:id":370508867,
-    "wof:lastmodified":1466772392,
+    "wof:lastmodified":1486772260,
     "wof:name":"Institute For Conflict Mgmt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

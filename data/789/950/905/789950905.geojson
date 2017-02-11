@@ -2,9 +2,14 @@
   "id": 789950905,
   "type": "Feature",
   "properties": {
+    "addr:full":"941 NW Naito Pkwy Portland OR 97209",
+    "addr:housenumber":"941",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Naito Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675177,45.529778,-122.675177,45.529778",
     "geom:latitude":45.529778,
     "geom:longitude":-122.675177,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789950905
         }
     ],
     "wof:id":789950905,
-    "wof:lastmodified":1466772406,
+    "wof:lastmodified":1486763607,
     "wof:name":"Art Institute of Portland",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

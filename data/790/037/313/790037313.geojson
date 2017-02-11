@@ -2,9 +2,14 @@
   "id": 790037313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1403 SE Stark St Portland OR 97214",
+    "addr:housenumber":"1403",
+    "addr:postcode":"97214",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65156,45.519341,-122.65156,45.519341",
     "geom:latitude":45.519341,
     "geom:longitude":-122.65156,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790037313
         }
     ],
     "wof:id":790037313,
-    "wof:lastmodified":1466767816,
+    "wof:lastmodified":1486766521,
     "wof:name":"The Bastasch Family Trust",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

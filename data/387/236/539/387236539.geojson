@@ -2,9 +2,14 @@
   "id": 387236539,
   "type": "Feature",
   "properties": {
+    "addr:full":"10101 SE Main St Portland OR 97216",
+    "addr:housenumber":"10101",
+    "addr:postcode":"97216",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.559648,45.514109,-122.559648,45.514109",
     "geom:latitude":45.514109,
     "geom:longitude":-122.559648,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b7868c1ef64948e75813f88c1510721e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387236539
         }
     ],
     "wof:id":387236539,
-    "wof:lastmodified":1466771539,
+    "wof:lastmodified":1486770768,
     "wof:name":"Rose City Breast Care",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

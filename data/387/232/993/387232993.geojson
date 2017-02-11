@@ -2,9 +2,14 @@
   "id": 387232993,
   "type": "Feature",
   "properties": {
+    "addr:full":"14661 SE Mill Ct Portland OR 97233",
+    "addr:housenumber":"14661",
+    "addr:postcode":"97233",
+    "addr:street":"Se Mill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.512341,45.511108,-122.512341,45.511108",
     "geom:latitude":45.511108,
     "geom:longitude":-122.512341,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"27d30e67252800a6ca7ee37cfcdc6ecd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387232993
         }
     ],
     "wof:id":387232993,
-    "wof:lastmodified":1466771435,
+    "wof:lastmodified":1486767631,
     "wof:name":"Roger Sharer",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

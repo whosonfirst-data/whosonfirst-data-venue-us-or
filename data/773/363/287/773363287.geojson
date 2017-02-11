@@ -2,9 +2,14 @@
   "id": 773363287,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 SE 40th Ave Portland OR 97202",
+    "addr:housenumber":"3640",
+    "addr:postcode":"97202",
+    "addr:street":"Se 40Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620692,45.4957,-122.620692,45.4957",
     "geom:latitude":45.4957,
     "geom:longitude":-122.620692,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":773363287
         }
     ],
     "wof:id":773363287,
-    "wof:lastmodified":1466773592,
+    "wof:lastmodified":1486772121,
     "wof:name":"Slanted Sytles LLC",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

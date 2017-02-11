@@ -2,9 +2,14 @@
   "id": 773435597,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 NE Walker St Portland OR 97211",
+    "addr:housenumber":"41",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667626,45.592696,-122.667626,45.592696",
     "geom:latitude":45.592696,
     "geom:longitude":-122.667626,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.potterwebster.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dyhJwNS71vXSOEVE3wUMz_45.592696_-122.667626@1294180530"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462585715,
     "wof:geomhash":"081ceee4b7ded7cffb9338d03bde4ec5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773435597
+        }
+    ],
     "wof:id":773435597,
-    "wof:lastmodified":1466774188,
+    "wof:lastmodified":1486771632,
     "wof:name":"Potter-Webster Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

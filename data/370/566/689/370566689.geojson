@@ -2,9 +2,14 @@
   "id": 370566689,
   "type": "Feature",
   "properties": {
+    "addr:full":"2514 SE 67th Ave Portland OR 97206",
+    "addr:housenumber":"2514",
+    "addr:postcode":"97206",
+    "addr:street":"Se 67Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594516,45.505055,-122.594516,45.505055",
     "geom:latitude":45.505055,
     "geom:longitude":-122.594516,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c93d95eabd56398d085ae3a37f1e2a6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":370566689
         }
     ],
     "wof:id":370566689,
-    "wof:lastmodified":1466772919,
+    "wof:lastmodified":1486766239,
     "wof:name":"Tan MAI Landscaping",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

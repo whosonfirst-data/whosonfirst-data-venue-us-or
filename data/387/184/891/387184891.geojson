@@ -2,9 +2,14 @@
   "id": 387184891,
   "type": "Feature",
   "properties": {
+    "addr:full":"6017 N Denver Ave Portland OR 97217",
+    "addr:housenumber":"6017",
+    "addr:postcode":"97217",
+    "addr:street":"N Denver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687548,45.568113,-122.687548,45.568113",
     "geom:latitude":45.568113,
     "geom:longitude":-122.687548,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"0f55ea80b6ce922c6170138012d278f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":387184891
         }
     ],
     "wof:id":387184891,
-    "wof:lastmodified":1466770474,
+    "wof:lastmodified":1486772111,
     "wof:name":"Simple Elegance",
-    "wof:parent_id":85893195,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

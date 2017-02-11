@@ -2,9 +2,14 @@
   "id": 370242087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 SE 39th Ave Portland OR 97214",
+    "addr:housenumber":"1523",
+    "addr:postcode":"97214",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622874,45.510976,-122.622874,45.510976",
     "geom:latitude":45.510976,
     "geom:longitude":-122.622874,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"28a86d4219e4c83b63f8cd61d29a2d38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370242087
         }
     ],
     "wof:id":370242087,
-    "wof:lastmodified":1466768743,
+    "wof:lastmodified":1486770876,
     "wof:name":"Hoy Yin Association",
-    "wof:parent_id":85867133,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789962345,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 NW 16th Avenue Portland OR 97209",
+    "addr:housenumber":"10",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 16Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687179,45.522892,-122.687179,45.522892",
     "geom:latitude":45.522892,
     "geom:longitude":-122.687179,
@@ -29,12 +34,13 @@
     "sg:website":"www.sahagunchocolates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871479,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789962345
         }
     ],
     "wof:id":789962345,
-    "wof:lastmodified":1466772709,
+    "wof:lastmodified":1486771233,
     "wof:name":"Sahagun Chocolates",
-    "wof:parent_id":85871479,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

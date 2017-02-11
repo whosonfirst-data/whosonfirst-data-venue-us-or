@@ -2,9 +2,14 @@
   "id": 354247439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2528 SE Holgate Blvd Portland OR 97202",
+    "addr:housenumber":"2528",
+    "addr:postcode":"97202",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639771,45.49022,-122.639771,45.49022",
     "geom:latitude":45.49022,
     "geom:longitude":-122.639771,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"ec1235bd5edd264c22fd1bce1de2ee86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":354247439
         }
     ],
     "wof:id":354247439,
-    "wof:lastmodified":1466768573,
+    "wof:lastmodified":1486766926,
     "wof:name":"Montag Oil Inc",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

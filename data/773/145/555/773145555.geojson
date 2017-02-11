@@ -2,9 +2,14 @@
   "id": 773145555,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 NE 39th Ave Portland OR 97232",
+    "addr:housenumber":"931",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623059,45.529816,-122.623059,45.529816",
     "geom:latitude":45.529816,
     "geom:longitude":-122.623059,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":773145555
         }
     ],
     "wof:id":773145555,
-    "wof:lastmodified":1466769514,
+    "wof:lastmodified":1486769529,
     "wof:name":"Gehr Schoen Creative",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789935633,
   "type": "Feature",
   "properties": {
+    "addr:full":"5327 SE Henry St Portland OR 97206",
+    "addr:housenumber":"5327",
+    "addr:postcode":"97206",
+    "addr:street":"Se Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607855,45.476677,-122.607855,45.476677",
     "geom:latitude":45.476677,
     "geom:longitude":-122.607855,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789935633
         }
     ],
     "wof:id":789935633,
-    "wof:lastmodified":1466772355,
+    "wof:lastmodified":1486769942,
     "wof:name":"A-1 Locksmith",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

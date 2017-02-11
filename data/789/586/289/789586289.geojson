@@ -2,9 +2,14 @@
   "id": 789586289,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 SE 57th Ave Portland OR 97215",
+    "addr:housenumber":"104",
+    "addr:postcode":"97215",
+    "addr:street":"Se 57Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.604958,45.522002,-122.604958,45.522002",
     "geom:latitude":45.522002,
     "geom:longitude":-122.604958,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":789586289
         }
     ],
     "wof:id":789586289,
-    "wof:lastmodified":1466768056,
+    "wof:lastmodified":1486771809,
     "wof:name":"Mediarites",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

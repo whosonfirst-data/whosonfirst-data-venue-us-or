@@ -2,9 +2,14 @@
   "id": 790200887,
   "type": "Feature",
   "properties": {
+    "addr:full":"5541 NE 122nd Ave Ste 310 Portland OR 97230",
+    "addr:housenumber":"5541",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave Ste 310",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534977,45.563565,-122.534977,45.563565",
     "geom:latitude":45.563565,
     "geom:longitude":-122.534977,
@@ -30,12 +35,13 @@
     "sg:website":"www.mosographics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790200887
         }
     ],
     "wof:id":790200887,
-    "wof:lastmodified":1466771544,
+    "wof:lastmodified":1486769686,
     "wof:name":"Moso Graphics",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

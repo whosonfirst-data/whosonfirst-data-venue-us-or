@@ -2,9 +2,14 @@
   "id": 370593457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 SW Rivington Dr Portland OR 97201",
+    "addr:housenumber":"1225",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Rivington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69004,45.509907,-122.69004,45.509907",
     "geom:latitude":45.509907,
     "geom:longitude":-122.69004,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"83a8c017bca2dc199942280b120de444",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":370593457
         }
     ],
     "wof:id":370593457,
-    "wof:lastmodified":1466772987,
+    "wof:lastmodified":1486773810,
     "wof:name":"TS Radiology Inc",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

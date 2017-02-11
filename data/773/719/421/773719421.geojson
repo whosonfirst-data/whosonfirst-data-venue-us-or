@@ -2,9 +2,14 @@
   "id": 773719421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3974 N Mississippi Ave Portland OR 97227",
+    "addr:housenumber":"3974",
+    "addr:postcode":"97227",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675539,45.550843,-122.675539,45.550843",
     "geom:latitude":45.550843,
     "geom:longitude":-122.675539,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":773719421
         }
     ],
     "wof:id":773719421,
-    "wof:lastmodified":1466775795,
+    "wof:lastmodified":1486773745,
     "wof:name":"Smartgirl Technologies",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

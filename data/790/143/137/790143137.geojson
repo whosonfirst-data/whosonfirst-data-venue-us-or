@@ -2,9 +2,14 @@
   "id": 790143137,
   "type": "Feature",
   "properties": {
+    "addr:full":"7289 SW Garden Home Road Portland OR 97223",
+    "addr:housenumber":"7289",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.751216,45.465611,-122.751216,45.465611",
     "geom:latitude":45.465611,
     "geom:longitude":-122.751216,
@@ -24,7 +29,15 @@
     "sg:postcode":"97223",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aY9CbAwM2cpBtWIJUdsU8_45.465611_-122.751216@1303263424"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462593454,
     "wof:geomhash":"a13c61c0793ba40962b695641e1c96f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790143137
+        }
+    ],
     "wof:id":790143137,
-    "wof:lastmodified":1466769442,
+    "wof:lastmodified":1486772398,
     "wof:name":"Garden Home Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

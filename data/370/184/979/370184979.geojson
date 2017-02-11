@@ -2,9 +2,14 @@
   "id": 370184979,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 N Mississippi Ave Portland OR 97217",
+    "addr:housenumber":"4115",
+    "addr:postcode":"97217",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675587,45.554532,-122.675587,45.554532",
     "geom:latitude":45.554532,
     "geom:longitude":-122.675587,
@@ -32,11 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +54,21 @@
     "wof:geomhash":"f71578e00cbe5d64e8d3bbb99639c2b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":370184979
         }
     ],
     "wof:id":370184979,
-    "wof:lastmodified":1466767772,
+    "wof:lastmodified":1486773742,
     "wof:name":"Marine & Environmental Testing",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

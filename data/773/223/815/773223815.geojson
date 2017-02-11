@@ -2,9 +2,14 @@
   "id": 773223815,
   "type": "Feature",
   "properties": {
+    "addr:full":"5504 NE Skidmore St Portland OR 97218",
+    "addr:housenumber":"5504",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Skidmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605759,45.553823,-122.605759,45.553823",
     "geom:latitude":45.553823,
     "geom:longitude":-122.605759,
@@ -34,7 +39,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RxsLwA0Q3wuMTTY8mKL5e_45.553823_-122.605759@1294180530"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462584101,
     "wof:geomhash":"c985d33c6ba9d9a52d97d5e8c47d9ad8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":773223815
+        }
+    ],
     "wof:id":773223815,
-    "wof:lastmodified":1466771853,
+    "wof:lastmodified":1486771599,
     "wof:name":"Confluence Design Build Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

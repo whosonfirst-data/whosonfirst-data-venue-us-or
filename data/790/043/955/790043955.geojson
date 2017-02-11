@@ -2,9 +2,14 @@
   "id": 790043955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 SE Stark St Portland OR 97215",
+    "addr:housenumber":"5110",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610001,45.519299,-122.610001,45.519299",
     "geom:latitude":45.519299,
     "geom:longitude":-122.610001,
@@ -26,12 +31,13 @@
     "sg:website":"www.1041thefish.com/about.aspx",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790043955
         }
     ],
     "wof:id":790043955,
-    "wof:lastmodified":1466767942,
+    "wof:lastmodified":1486771801,
     "wof:name":"104.1'the Fish'k F I S",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

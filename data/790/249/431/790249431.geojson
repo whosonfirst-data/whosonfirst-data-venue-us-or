@@ -2,9 +2,14 @@
   "id": 790249431,
   "type": "Feature",
   "properties": {
+    "addr:full":"6326 SW Capitol Hwy Portland OR 97253",
+    "addr:housenumber":"6326",
+    "addr:postcode":"97253",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694593,45.478212,-122.694593,45.478212",
     "geom:latitude":45.478212,
     "geom:longitude":-122.694593,
@@ -26,12 +31,13 @@
     "sg:website":"www.starbucks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790249431
         }
     ],
     "wof:id":790249431,
-    "wof:lastmodified":1466772521,
+    "wof:lastmodified":1486769431,
     "wof:name":"Starbucks",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

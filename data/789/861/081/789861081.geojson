@@ -2,9 +2,14 @@
   "id": 789861081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 SE Lafayette St Portland OR 97202",
+    "addr:housenumber":"1625",
+    "addr:postcode":"97202",
+    "addr:street":"Se Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649062,45.496745,-122.649062,45.496745",
     "geom:latitude":45.496745,
     "geom:longitude":-122.649062,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789861081
         }
     ],
     "wof:id":789861081,
-    "wof:lastmodified":1466770919,
+    "wof:lastmodified":1486767134,
     "wof:name":"Westmoreland's Union Manor",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

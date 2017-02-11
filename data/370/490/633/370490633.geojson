@@ -2,9 +2,14 @@
   "id": 370490633,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 NE Argyle St Portland OR 97211",
+    "addr:housenumber":"3101",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Argyle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641832,45.579309,-122.641832,45.579309",
     "geom:latitude":45.579309,
     "geom:longitude":-122.641832,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"13337b0b4c2ac86b5e47959b53a62c7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":370490633
         }
     ],
     "wof:id":370490633,
-    "wof:lastmodified":1466772281,
+    "wof:lastmodified":1486772005,
     "wof:name":"Division Auto Repair",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

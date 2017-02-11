@@ -2,9 +2,14 @@
   "id": 404115295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 NE Columbia Blvd Portland OR 97211",
+    "addr:housenumber":"1025",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654036,45.579086,-122.654036,45.579086",
     "geom:latitude":45.579086,
     "geom:longitude":-122.654036,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893263
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"02b4f4c850ce337b4735265bee9d7e54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
+            "region_id":85688513,
+            "venue_id":404115295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":404115295
         }
     ],
     "wof:id":404115295,
-    "wof:lastmodified":1466770893,
+    "wof:lastmodified":1486771996,
     "wof:name":"Clipper Exxpress Company",
-    "wof:parent_id":85893263,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

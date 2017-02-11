@@ -2,9 +2,14 @@
   "id": 387353775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 NE Lija Loop Portland OR 97211",
+    "addr:housenumber":"1001",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Lija Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654175,45.592122,-122.654175,45.592122",
     "geom:latitude":45.592122,
     "geom:longitude":-122.654175,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"168bae031d76e7ad5eb51aa3ab965034",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":387353775
         }
     ],
     "wof:id":387353775,
-    "wof:lastmodified":1466772152,
+    "wof:lastmodified":1486771622,
     "wof:name":"Craftech Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

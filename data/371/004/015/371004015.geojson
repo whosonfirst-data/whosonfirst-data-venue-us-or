@@ -2,9 +2,14 @@
   "id": 371004015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1530 SW Harrison St Portland OR 97201",
+    "addr:housenumber":"1530",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691243,45.513186,-122.691243,45.513186",
     "geom:latitude":45.513186,
     "geom:longitude":-122.691243,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"49a196b7d7fbc9d6c838f3af41604be0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":371004015
         }
     ],
     "wof:id":371004015,
-    "wof:lastmodified":1466767200,
+    "wof:lastmodified":1486773818,
     "wof:name":"Cod Harrison House Apartments",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

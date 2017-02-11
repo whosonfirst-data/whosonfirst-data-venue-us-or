@@ -2,9 +2,14 @@
   "id": 370331765,
   "type": "Feature",
   "properties": {
+    "addr:full":"8801 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"8801",
+    "addr:postcode":"97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.571332,45.480632,-122.571332,45.480632",
     "geom:latitude":45.480632,
     "geom:longitude":-122.571332,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"33972a6b4908b1ee8f69eaa3a8356618",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370331765
         }
     ],
     "wof:id":370331765,
-    "wof:lastmodified":1466770451,
+    "wof:lastmodified":1486766266,
     "wof:name":"C T Bauske Construction",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387913603,
   "type": "Feature",
   "properties": {
+    "addr:full":"5826 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"5826",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578916,45.480287,-122.578916,45.480287",
     "geom:latitude":45.480287,
     "geom:longitude":-122.578916,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893209
     ],
     "wof:breaches":[],
@@ -44,19 +52,30 @@
     "wof:geomhash":"61c3c6fa6ec93f8d50d0cd04bfb7ff40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":387913603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":387913603
         }
     ],
     "wof:id":387913603,
-    "wof:lastmodified":1466775315,
+    "wof:lastmodified":1486769557,
     "wof:name":"Bob's Auto Sales",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

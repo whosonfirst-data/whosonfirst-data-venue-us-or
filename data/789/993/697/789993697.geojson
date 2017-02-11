@@ -2,9 +2,14 @@
   "id": 789993697,
   "type": "Feature",
   "properties": {
+    "addr:full":"5406 NE 39th Avenue Portland OR 97211",
+    "addr:housenumber":"5406",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623292,45.562239,-122.623292,45.562239",
     "geom:latitude":45.562239,
     "geom:longitude":-122.623292,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789993697
         }
     ],
     "wof:id":789993697,
-    "wof:lastmodified":1466773133,
+    "wof:lastmodified":1486769189,
     "wof:name":"Our Place Preschool & Child Care",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

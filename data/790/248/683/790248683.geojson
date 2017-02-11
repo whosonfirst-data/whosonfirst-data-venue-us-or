@@ -2,9 +2,14 @@
   "id": 790248683,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 SW Kelly Ave Portland OR 97239",
+    "addr:housenumber":"4710",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Kelly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674713,45.489144,-122.674713,45.489144",
     "geom:latitude":45.489144,
     "geom:longitude":-122.674713,
@@ -19,12 +24,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +46,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790248683
         }
     ],
     "wof:id":790248683,
-    "wof:lastmodified":1466772529,
+    "wof:lastmodified":1486773617,
     "wof:name":"Engaging Media Inc",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

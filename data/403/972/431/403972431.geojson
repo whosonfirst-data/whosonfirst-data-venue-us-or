@@ -2,9 +2,14 @@
   "id": 403972431,
   "type": "Feature",
   "properties": {
+    "addr:full":"5156 SW Multnomah Blvd Portland OR 97219",
+    "addr:housenumber":"5156",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Multnomah Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.730824,45.467489,-122.730824,45.467489",
     "geom:latitude":45.467489,
     "geom:longitude":-122.730824,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"782e56d7f6eaeb4ca9d722351d8686b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":403972431
         }
     ],
     "wof:id":403972431,
-    "wof:lastmodified":1466768657,
+    "wof:lastmodified":1486763893,
     "wof:name":"Link Towncar",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

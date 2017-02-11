@@ -2,9 +2,14 @@
   "id": 790102969,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 SW Bridlemile Ln Portland OR 97221",
+    "addr:housenumber":"3500",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Bridlemile Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713058,45.493469,-122.713058,45.493469",
     "geom:latitude":45.493469,
     "geom:longitude":-122.713058,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +50,18 @@
     "wof:geomhash":"175dbe7e87eb5af342a276028eee1aeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790102969
         }
     ],
     "wof:id":790102969,
-    "wof:lastmodified":1466768000,
+    "wof:lastmodified":1486764628,
     "wof:name":"Aronora",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

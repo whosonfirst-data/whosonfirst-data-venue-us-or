@@ -2,9 +2,14 @@
   "id": 773013935,
   "type": "Feature",
   "properties": {
+    "addr:full":"7507 SE Yamhill St Portland OR 97215",
+    "addr:housenumber":"7507",
+    "addr:postcode":"97215",
+    "addr:street":"Se Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58583,45.516394,-122.58583,45.516394",
     "geom:latitude":45.516394,
     "geom:longitude":-122.58583,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85834889,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773013935
         }
     ],
     "wof:id":773013935,
-    "wof:lastmodified":1466770098,
+    "wof:lastmodified":1486771820,
     "wof:name":"L'Arche Nehalem Community Inc",
-    "wof:parent_id":85834889,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

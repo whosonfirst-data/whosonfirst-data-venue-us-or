@@ -2,9 +2,14 @@
   "id": 387718019,
   "type": "Feature",
   "properties": {
+    "addr:full":"8014 SE Morrison St Portland OR 97215",
+    "addr:housenumber":"8014",
+    "addr:postcode":"97215",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580412,45.516849,-122.580412,45.516849",
     "geom:latitude":45.516849,
     "geom:longitude":-122.580412,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"7c67411393095b88bb38e5bb2f64163b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387718019
         }
     ],
     "wof:id":387718019,
-    "wof:lastmodified":1466774719,
+    "wof:lastmodified":1486766230,
     "wof:name":"In Balance Svc",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

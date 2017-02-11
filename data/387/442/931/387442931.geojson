@@ -2,9 +2,14 @@
   "id": 387442931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"1631",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648674,45.535107,-122.648674,45.535107",
     "geom:latitude":45.535107,
     "geom:longitude":-122.648674,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"c95d7eb807ad61c9832d1acd7ba2af3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":387442931
         }
     ],
     "wof:id":387442931,
-    "wof:lastmodified":1466773007,
+    "wof:lastmodified":1486768611,
     "wof:name":"Tech Source NW Inc",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

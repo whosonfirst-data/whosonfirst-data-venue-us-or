@@ -2,9 +2,14 @@
   "id": 404084401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2917 SE 20th Ave Portland OR 97202",
+    "addr:housenumber":"2917",
+    "addr:postcode":"97202",
+    "addr:street":"Se 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645719,45.501448,-122.645719,45.501448",
     "geom:latitude":45.501448,
     "geom:longitude":-122.645719,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"d7eb362ed3a02301e6857435870bc09b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":404084401
         }
     ],
     "wof:id":404084401,
-    "wof:lastmodified":1466770017,
+    "wof:lastmodified":1486771728,
     "wof:name":"Oslund + Company/Dance",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

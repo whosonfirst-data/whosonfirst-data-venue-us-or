@@ -2,9 +2,14 @@
   "id": 789632517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1835 SE 114th Pl Portland OR 97216",
+    "addr:housenumber":"1835",
+    "addr:postcode":"97216",
+    "addr:street":"Se 114Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545548,45.51016,-122.545548,45.51016",
     "geom:latitude":45.51016,
     "geom:longitude":-122.545548,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":789632517
         }
     ],
     "wof:id":789632517,
-    "wof:lastmodified":1466769064,
+    "wof:lastmodified":1486772233,
     "wof:name":"Home For Our Parents",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

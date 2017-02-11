@@ -2,9 +2,14 @@
   "id": 773801581,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 NW 11th Ave Portland OR 97209",
+    "addr:housenumber":"514",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682255,45.526633,-122.682255,45.526633",
     "geom:latitude":45.526633,
     "geom:longitude":-122.682255,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.reinkecreative.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":773801581
         }
     ],
     "wof:id":773801581,
-    "wof:lastmodified":1466776141,
+    "wof:lastmodified":1486763143,
     "wof:name":"Reinke Creative",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

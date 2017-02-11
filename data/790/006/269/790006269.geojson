@@ -2,9 +2,14 @@
   "id": 790006269,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 NE 58th Ave Portland OR 97213",
+    "addr:housenumber":"305",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 58Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.60464,45.525121,-122.60464,45.525121",
     "geom:latitude":45.525121,
     "geom:longitude":-122.60464,
@@ -29,12 +34,13 @@
     "sg:website":"www.movingmomentum.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":790006269
         }
     ],
     "wof:id":790006269,
-    "wof:lastmodified":1466767537,
+    "wof:lastmodified":1486772425,
     "wof:name":"Moving Momentum",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

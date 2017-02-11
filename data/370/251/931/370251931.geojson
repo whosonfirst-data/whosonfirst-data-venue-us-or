@@ -2,9 +2,14 @@
   "id": 370251931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4440 SW Corbett Ave Portland OR 97239",
+    "addr:housenumber":"4440",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Corbett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676161,45.491921,-122.676161,45.491921",
     "geom:latitude":45.491921,
     "geom:longitude":-122.676161,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"2b5bf0fd066f4f872e4d2201c9522548",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":370251931
         }
     ],
     "wof:id":370251931,
-    "wof:lastmodified":1466768920,
+    "wof:lastmodified":1486773650,
     "wof:name":"Telcom Design & Service",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

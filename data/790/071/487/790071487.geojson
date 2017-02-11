@@ -2,9 +2,14 @@
   "id": 790071487,
   "type": "Feature",
   "properties": {
+    "addr:full":"0753 SW Miles St Portland OR 97219",
+    "addr:housenumber":"0753",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Miles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.670834,45.471321,-122.670834,45.471321",
     "geom:latitude":45.471321,
     "geom:longitude":-122.670834,
@@ -42,12 +47,14 @@
     "sg:website":"http://www.dowdarchitecture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85885301
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +69,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85885301,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790071487
         }
     ],
     "wof:id":790071487,
-    "wof:lastmodified":1466768578,
+    "wof:lastmodified":1486773624,
     "wof:name":"Dowd Architecture Inc",
-    "wof:parent_id":85885301,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

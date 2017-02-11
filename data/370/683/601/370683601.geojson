@@ -2,9 +2,14 @@
   "id": 370683601,
   "type": "Feature",
   "properties": {
+    "addr:full":"3378 N Baldwin St Portland OR 97217",
+    "addr:housenumber":"3378",
+    "addr:postcode":"97217",
+    "addr:street":"N Baldwin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702519,45.578439,-122.702519,45.578439",
     "geom:latitude":45.578439,
     "geom:longitude":-122.702519,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"641082cd624951f812d71a11e8b2d9c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370683601
         }
     ],
     "wof:id":370683601,
-    "wof:lastmodified":1466773474,
+    "wof:lastmodified":1486769505,
     "wof:name":"Stronghold Promotions Inc",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

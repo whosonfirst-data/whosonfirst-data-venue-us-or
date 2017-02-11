@@ -2,9 +2,14 @@
   "id": 790101867,
   "type": "Feature",
   "properties": {
+    "addr:full":"5226 SW Beaverton Hillsdale Hwy Portland OR 97221",
+    "addr:housenumber":"5226",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Beaverton Hillsdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73081,45.486902,-122.73081,45.486902",
     "geom:latitude":45.486902,
     "geom:longitude":-122.73081,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +51,21 @@
     "wof:geomhash":"353999ecd439906735a79c4b4c70fba3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790101867
         }
     ],
     "wof:id":790101867,
-    "wof:lastmodified":1466767958,
+    "wof:lastmodified":1486774198,
     "wof:name":"0 Waiting Time Locksmith Service",
-    "wof:parent_id":85807447,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

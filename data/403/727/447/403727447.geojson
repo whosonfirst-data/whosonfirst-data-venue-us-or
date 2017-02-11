@@ -2,9 +2,14 @@
   "id": 403727447,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 SE 30th Ave Portland OR 97232",
+    "addr:housenumber":"14",
+    "addr:postcode":"97232",
+    "addr:street":"Se 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63494,45.522121,-122.63494,45.522121",
     "geom:latitude":45.522121,
     "geom:longitude":-122.63494,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b407b3ff7b65998ad766e5f6cc241b4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":403727447
         }
     ],
     "wof:id":403727447,
-    "wof:lastmodified":1466768411,
+    "wof:lastmodified":1486771022,
     "wof:name":"Abraxas Hair Design",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

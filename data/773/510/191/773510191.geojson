@@ -2,9 +2,14 @@
   "id": 773510191,
   "type": "Feature",
   "properties": {
+    "addr:full":"12434 SE Steele St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12434;97236",
+    "addr:street":"Se Steele St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.533767,45.484614,-122.533767,45.484614",
     "geom:latitude":45.484614,
     "geom:longitude":-122.533767,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773510191
         }
     ],
     "wof:id":773510191,
-    "wof:lastmodified":1466774965,
+    "wof:lastmodified":1486771945,
     "wof:name":"Spencer Parking Lot Sweeping",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

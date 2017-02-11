@@ -2,9 +2,14 @@
   "id": 371133165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1831 NE Thompson St Portland OR 97212",
+    "addr:housenumber":"1831",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Thompson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646537,45.539044,-122.646537,45.539044",
     "geom:latitude":45.539044,
     "geom:longitude":-122.646537,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"90d0fa7ca61934ac14e17d24cb7df215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":371133165
         }
     ],
     "wof:id":371133165,
-    "wof:lastmodified":1466769391,
+    "wof:lastmodified":1486768815,
     "wof:name":"Building History",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

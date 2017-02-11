@@ -2,9 +2,14 @@
   "id": 404109631,
   "type": "Feature",
   "properties": {
+    "addr:full":"3429 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"3429",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62835,45.532696,-122.62835,45.532696",
     "geom:latitude":45.532696,
     "geom:longitude":-122.62835,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"fd3bc0f97ebd992e1d73d72a45716ffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":404109631
         }
     ],
     "wof:id":404109631,
-    "wof:lastmodified":1466770786,
+    "wof:lastmodified":1486766676,
     "wof:name":"Professional Mortgage Services",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

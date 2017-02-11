@@ -2,9 +2,14 @@
   "id": 790208817,
   "type": "Feature",
   "properties": {
+    "addr:full":"3737 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"3737",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.624298,45.535376,-122.624298,45.535376",
     "geom:latitude":45.535376,
     "geom:longitude":-122.624298,
@@ -31,12 +36,13 @@
     "sg:website":"www.mackinsab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":790208817
         }
     ],
     "wof:id":790208817,
-    "wof:lastmodified":1466771729,
+    "wof:lastmodified":1486768351,
     "wof:name":"Mackin's Auto Body",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

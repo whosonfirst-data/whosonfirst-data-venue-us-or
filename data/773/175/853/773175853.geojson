@@ -2,9 +2,14 @@
   "id": 773175853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 SE 39th Ave Portland OR 97214",
+    "addr:housenumber":"1800",
+    "addr:postcode":"97214",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622706,45.510597,-122.622706,45.510597",
     "geom:latitude":45.510597,
     "geom:longitude":-122.622706,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85851483,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":773175853
         }
     ],
     "wof:id":773175853,
-    "wof:lastmodified":1466770636,
+    "wof:lastmodified":1486770872,
     "wof:name":"Cornerstone Residential Option",
-    "wof:parent_id":85851483,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

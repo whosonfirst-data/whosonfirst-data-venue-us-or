@@ -2,9 +2,14 @@
   "id": 789933065,
   "type": "Feature",
   "properties": {
+    "addr:full":"4326 SE Woodstock Boulevard Portland OR 97206",
+    "addr:housenumber":"4326",
+    "addr:postcode":"97206",
+    "addr:street":"Se Woodstock Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.617812,45.479077,-122.617812,45.479077",
     "geom:latitude":45.479077,
     "geom:longitude":-122.617812,
@@ -26,12 +31,13 @@
     "sg:website":"www.woodstocktma.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789933065
         }
     ],
     "wof:id":789933065,
-    "wof:lastmodified":1466772340,
+    "wof:lastmodified":1486769941,
     "wof:name":"Woodstock Tan",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370666919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 SW 18th Ave Portland OR 97201",
+    "addr:housenumber":"1828",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694239,45.514498,-122.694239,45.514498",
     "geom:latitude":45.514498,
     "geom:longitude":-122.694239,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a29fec53f9e20a99d1731369a63e2f0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":370666919
         }
     ],
     "wof:id":370666919,
-    "wof:lastmodified":1466773389,
+    "wof:lastmodified":1486770947,
     "wof:name":"Contractors Construction",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

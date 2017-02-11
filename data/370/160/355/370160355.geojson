@@ -2,9 +2,14 @@
   "id": 370160355,
   "type": "Feature",
   "properties": {
+    "addr:full":"7430 SW Garden Home Rd Portland OR 97223",
+    "addr:housenumber":"7430",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.753128,45.465723,-122.753128,45.465723",
     "geom:latitude":45.465723,
     "geom:longitude":-122.753128,
@@ -25,7 +30,12 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
         85688513
     ],
     "wof:breaches":[],
@@ -36,18 +46,20 @@
     "wof:geomhash":"55c238d3533010b3f74fe7d7aac90590",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":370160355
         }
     ],
     "wof:id":370160355,
-    "wof:lastmodified":1466767340,
+    "wof:lastmodified":1486772406,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

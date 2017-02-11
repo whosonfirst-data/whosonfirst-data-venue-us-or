@@ -2,9 +2,14 @@
   "id": 773490367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3246 NE 54th Ave Portland OR 97213",
+    "addr:housenumber":"3246",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607537,45.54579,-122.607537,45.54579",
     "geom:latitude":45.54579,
     "geom:longitude":-122.607537,
@@ -27,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867145,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uo8jePZAJEMrN7i7j01gB_45.545790_-122.607537@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462586140,
     "wof:geomhash":"0e6cb1067d0de9bab8b7d883aece962a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
+            "region_id":85688513,
+            "venue_id":773490367
+        }
+    ],
     "wof:id":773490367,
-    "wof:lastmodified":1466774700,
+    "wof:lastmodified":1486770389,
     "wof:name":"Language Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

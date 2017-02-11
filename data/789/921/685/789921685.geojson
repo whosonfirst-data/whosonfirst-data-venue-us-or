@@ -2,9 +2,14 @@
   "id": 789921685,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 SW 14th Avenue Portland OR 97205",
+    "addr:housenumber":"919",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 14Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68713,45.519696,-122.68713,45.519696",
     "geom:latitude":45.519696,
     "geom:longitude":-122.68713,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789921685
         }
     ],
     "wof:id":789921685,
-    "wof:lastmodified":1466772198,
+    "wof:lastmodified":1486764879,
     "wof:name":"Westside Market",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790197911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4849 NE 138th Ave Portland OR 97230",
+    "addr:housenumber":"4849",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 138Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.521133,45.558271,-122.521133,45.558271",
     "geom:latitude":45.558271,
     "geom:longitude":-122.521133,
@@ -50,12 +55,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,13 +76,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":790197911
         }
     ],
     "wof:id":790197911,
-    "wof:lastmodified":1466771505,
+    "wof:lastmodified":1486768853,
     "wof:name":"T-Mobile",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

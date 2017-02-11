@@ -2,9 +2,14 @@
   "id": 790177443,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 N Broadway Street Portland OR 97227",
+    "addr:housenumber":"421",
+    "addr:postcode":"97227",
+    "addr:street":"N Broadway Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67094,45.533777,-122.67094,45.533777",
     "geom:latitude":45.533777,
     "geom:longitude":-122.67094,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790177443
         }
     ],
     "wof:id":790177443,
-    "wof:lastmodified":1466770892,
+    "wof:lastmodified":1486770804,
     "wof:name":"Q-Nail Care",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

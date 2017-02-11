@@ -2,9 +2,14 @@
   "id": 789984269,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 NE 7th Ave Portland OR 97211",
+    "addr:housenumber":"4815",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658557,45.557446,-122.658557,45.557446",
     "geom:latitude":45.557446,
     "geom:longitude":-122.658557,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789984269
         }
     ],
     "wof:id":789984269,
-    "wof:lastmodified":1466773026,
+    "wof:lastmodified":1486768483,
     "wof:name":"Northeast Neighborhoods Office",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

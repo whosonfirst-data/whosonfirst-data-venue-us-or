@@ -2,9 +2,14 @@
   "id": 790173123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 N Lewis Ave Portland OR 97227",
+    "addr:housenumber":"2150",
+    "addr:postcode":"97227",
+    "addr:street":"N Lewis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676727,45.53838,-122.676727,45.53838",
     "geom:latitude":45.53838,
     "geom:longitude":-122.676727,
@@ -49,12 +54,13 @@
     "sg:website":"http://www.braleygray.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +75,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790173123
         }
     ],
     "wof:id":790173123,
-    "wof:lastmodified":1466770698,
+    "wof:lastmodified":1486769086,
     "wof:name":"Braley-Gray & Associates, Inc.",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

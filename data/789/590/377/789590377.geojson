@@ -2,9 +2,14 @@
   "id": 789590377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1766 Jantzen Beach Center Portland OR 97217",
+    "addr:housenumber":"1766",
+    "addr:postcode":"97217",
+    "addr:street":"Jantzen Beach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686177,45.613127,-122.686177,45.613127",
     "geom:latitude":45.613127,
     "geom:longitude":-122.686177,
@@ -29,12 +34,13 @@
     "sg:website":"www.copelandsports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":789590377
         }
     ],
     "wof:id":789590377,
-    "wof:lastmodified":1466768122,
+    "wof:lastmodified":1486772365,
     "wof:name":"Copeland's Sports",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

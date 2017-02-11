@@ -2,9 +2,14 @@
   "id": 773824589,
   "type": "Feature",
   "properties": {
+    "addr:full":"4122 NE Sandy Blvd Portland OR 97212",
+    "addr:housenumber":"4122",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621002,45.5355,-122.621002,45.5355",
     "geom:latitude":45.5355,
     "geom:longitude":-122.621002,
@@ -30,12 +35,13 @@
     "sg:website":"www.filmaction.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":773824589
         }
     ],
     "wof:id":773824589,
-    "wof:lastmodified":1466776081,
+    "wof:lastmodified":1486769464,
     "wof:name":"Hollywood Theatre",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

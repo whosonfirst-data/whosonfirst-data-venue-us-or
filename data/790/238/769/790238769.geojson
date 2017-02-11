@@ -2,9 +2,14 @@
   "id": 790238769,
   "type": "Feature",
   "properties": {
+    "addr:full":"6327 SW Capitol Hwy # D Portland OR 97239",
+    "addr:housenumber":"6327",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Capitol Hwy # D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693001,45.478802,-122.693001,45.478802",
     "geom:latitude":45.478802,
     "geom:longitude":-122.693001,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790238769
         }
     ],
     "wof:id":790238769,
-    "wof:lastmodified":1466772204,
+    "wof:lastmodified":1486769425,
     "wof:name":"Liquor Stores",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

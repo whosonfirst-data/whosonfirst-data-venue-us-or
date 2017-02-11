@@ -2,9 +2,14 @@
   "id": 789945037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 NW Couch St Portland OR 97209",
+    "addr:housenumber":"1114",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Couch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682474,45.523314,-122.682474,45.523314",
     "geom:latitude":45.523314,
     "geom:longitude":-122.682474,
@@ -26,12 +31,13 @@
     "sg:website":"www.peets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789945037
         }
     ],
     "wof:id":789945037,
-    "wof:lastmodified":1466772553,
+    "wof:lastmodified":1486770356,
     "wof:name":"Peets Coffee & Tea",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

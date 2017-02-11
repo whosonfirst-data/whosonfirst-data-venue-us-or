@@ -2,9 +2,14 @@
   "id": 773208469,
   "type": "Feature",
   "properties": {
+    "addr:full":"9576 NW Marvin Ln Portland OR 97229",
+    "addr:housenumber":"9576",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Marvin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.775109,45.531853,-122.775109,45.531853",
     "geom:latitude":45.531853,
     "geom:longitude":-122.775109,
@@ -24,7 +29,15 @@
     "sg:postcode":"97229",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871477,
+        102191575,
+        1108714055,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WCToQ80DDtVHLljjZ58yK_45.531853_-122.775109@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462583986,
     "wof:geomhash":"2312de789cbd7bf526ee76425f9f02df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
+            "region_id":85688513,
+            "venue_id":773208469
+        }
+    ],
     "wof:id":773208469,
-    "wof:lastmodified":1466771621,
+    "wof:lastmodified":1486770923,
     "wof:name":"Leslie Rosenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

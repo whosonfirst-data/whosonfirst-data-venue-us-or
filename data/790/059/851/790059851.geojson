@@ -2,9 +2,14 @@
   "id": 790059851,
   "type": "Feature",
   "properties": {
+    "addr:full":"6713 n kerby Portland OR 97217",
+    "addr:housenumber":"6713",
+    "addr:postcode":"97217",
+    "addr:street":"N Kerby",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6731,45.571319,-122.6731,45.571319",
     "geom:latitude":45.571319,
     "geom:longitude":-122.6731,
@@ -30,12 +35,13 @@
     "sg:website":"www.punchportland.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790059851
         }
     ],
     "wof:id":790059851,
-    "wof:lastmodified":1466768272,
+    "wof:lastmodified":1486768587,
     "wof:name":"Punch",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404081625,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 NE Knott St Portland OR 97212",
+    "addr:housenumber":"120",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Knott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661717,45.541805,-122.661717,45.541805",
     "geom:latitude":45.541805,
     "geom:longitude":-122.661717,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"16c009d580329c506e7d6df9bc4edfde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":404081625
         }
     ],
     "wof:id":404081625,
-    "wof:lastmodified":1466769964,
+    "wof:lastmodified":1486768552,
     "wof:name":"St Philip's Episcopal Church",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404023029,
   "type": "Feature",
   "properties": {
+    "addr:full":"3560 SE Harold Ct Portland OR 97202",
+    "addr:housenumber":"3560",
+    "addr:postcode":"97202",
+    "addr:street":"Se Harold Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626208,45.483742,-122.626208,45.483742",
     "geom:latitude":45.483742,
     "geom:longitude":-122.626208,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"ac3bfad5cbc1eb6a381b46e1c3f6bf0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":404023029
         }
     ],
     "wof:id":404023029,
-    "wof:lastmodified":1466768858,
+    "wof:lastmodified":1486770977,
     "wof:name":"William J Marentette Co",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85871483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

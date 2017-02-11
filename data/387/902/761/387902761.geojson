@@ -2,9 +2,14 @@
   "id": 387902761,
   "type": "Feature",
   "properties": {
+    "addr:full":"7911 NE 33rd Dr Portland OR 97211",
+    "addr:housenumber":"7911",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 33Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632029,45.585918,-122.632029,45.585918",
     "geom:latitude":45.585918,
     "geom:longitude":-122.632029,
@@ -30,11 +35,13 @@
     "sg:website":"www.centimark.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893249
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"ba3929a8d93c2de488ee677de91d5097",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":387902761
         }
     ],
     "wof:id":387902761,
-    "wof:lastmodified":1466775223,
+    "wof:lastmodified":1486768873,
     "wof:name":"Centimark Roofing Co",
     "wof:parent_id":85893249,
     "wof:placetype":"venue",

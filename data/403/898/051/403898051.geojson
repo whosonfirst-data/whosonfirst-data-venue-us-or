@@ -2,9 +2,14 @@
   "id": 403898051,
   "type": "Feature",
   "properties": {
+    "addr:full":"17900 SE Marie St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17900;97236",
+    "addr:street":"Se Marie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.479814,45.494468,-122.479814,45.494468",
     "geom:latitude":45.494468,
     "geom:longitude":-122.479814,
@@ -29,10 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        85893161,
+        1108715281,
+        101715829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,29 @@
     "wof:geomhash":"90cbf9b0b26aa5f1b12971d401b366d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":403898051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":403898051
         }
     ],
     "wof:id":403898051,
-    "wof:lastmodified":1466767327,
+    "wof:lastmodified":1486771523,
     "wof:name":"Carranza Marble & Graniting",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

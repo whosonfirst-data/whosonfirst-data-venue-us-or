@@ -2,9 +2,14 @@
   "id": 387027229,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 NE Hoyt St Portland OR 97213",
+    "addr:housenumber":"5050",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Hoyt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611074,45.527144,-122.611074,45.527144",
     "geom:latitude":45.527144,
     "geom:longitude":-122.611074,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"08a7e58af37cf65dcb48c749feccda38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":387027229
         }
     ],
     "wof:id":387027229,
-    "wof:lastmodified":1466767575,
+    "wof:lastmodified":1486772419,
     "wof:name":"Rene L Andersoncowell MD",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

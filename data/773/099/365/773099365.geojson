@@ -2,9 +2,14 @@
   "id": 773099365,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"532",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659969,45.51644,-122.659969,45.51644",
     "geom:latitude":45.51644,
     "geom:longitude":-122.659969,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773099365
         }
     ],
     "wof:id":773099365,
-    "wof:lastmodified":1466768065,
+    "wof:lastmodified":1486773519,
     "wof:name":"Pathways",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790091429,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 NE 114th Ave Portland OR 97220",
+    "addr:housenumber":"821",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 114Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54464,45.528279,-122.54464,45.528279",
     "geom:latitude":45.528279,
     "geom:longitude":-122.54464,
@@ -44,12 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +70,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790091429
         }
     ],
     "wof:id":790091429,
-    "wof:lastmodified":1466767576,
+    "wof:lastmodified":1486766441,
     "wof:name":"Adrians Adult Care Home",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773051865,
   "type": "Feature",
   "properties": {
+    "addr:full":"9944 N Vancouver Way Portland OR 97217",
+    "addr:housenumber":"9944",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667315,45.594866,-122.667315,45.594866",
     "geom:latitude":45.594866,
     "geom:longitude":-122.667315,
@@ -24,7 +29,15 @@
     "sg:postcode":"97217",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45ukT1dLSln6dQfujYz6MY_45.594866_-122.667315@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462582772,
     "wof:geomhash":"9d76d716571f20c3f1fa64397b9227a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773051865
+        }
+    ],
     "wof:id":773051865,
-    "wof:lastmodified":1466771056,
+    "wof:lastmodified":1486771631,
     "wof:name":"Jbm Ent Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

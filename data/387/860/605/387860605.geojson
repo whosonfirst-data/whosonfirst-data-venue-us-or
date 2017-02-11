@@ -2,9 +2,14 @@
   "id": 387860605,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 SE Alder St Portland OR 97214",
+    "addr:housenumber":"618",
+    "addr:postcode":"97214",
+    "addr:street":"Se Alder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658808,45.517859,-122.658808,45.517859",
     "geom:latitude":45.517859,
     "geom:longitude":-122.658808,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"41db69ca11c77df62630226f2c4bd518",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387860605
         }
     ],
     "wof:id":387860605,
-    "wof:lastmodified":1466775189,
+    "wof:lastmodified":1486773444,
     "wof:name":"Metro Police Club",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

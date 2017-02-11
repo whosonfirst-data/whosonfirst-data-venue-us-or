@@ -2,9 +2,14 @@
   "id": 790177431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3940 N Williams Ave Portland OR 97227",
+    "addr:housenumber":"3940",
+    "addr:postcode":"97227",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666518,45.551315,-122.666518,45.551315",
     "geom:latitude":45.551315,
     "geom:longitude":-122.666518,
@@ -35,12 +40,13 @@
     "sg:website":"www.soapboxtheory.com/screwloose...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790177431
         }
     ],
     "wof:id":790177431,
-    "wof:lastmodified":1466770892,
+    "wof:lastmodified":1486769018,
     "wof:name":"Screw Loose Studio",
     "wof:parent_id":85893159,
     "wof:placetype":"venue",

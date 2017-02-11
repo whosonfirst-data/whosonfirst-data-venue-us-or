@@ -2,9 +2,14 @@
   "id": 370885945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Jantzen Beach Center Portland OR 97217",
+    "addr:housenumber":"1406",
+    "addr:postcode":"97217",
+    "addr:street":"Jantzen Beach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686545,45.613009,-122.686545,45.613009",
     "geom:latitude":45.613009,
     "geom:longitude":-122.686545,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"82d8fd9450561e754b04387ef47b73e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":370885945
         }
     ],
     "wof:id":370885945,
-    "wof:lastmodified":1466774476,
+    "wof:lastmodified":1486772369,
     "wof:name":"Magic-Fest",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

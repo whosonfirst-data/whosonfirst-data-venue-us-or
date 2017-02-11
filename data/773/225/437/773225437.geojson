@@ -2,9 +2,14 @@
   "id": 773225437,
   "type": "Feature",
   "properties": {
+    "addr:full":"6321 SW 35th Ave Portland OR 97221",
+    "addr:housenumber":"6321",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713214,45.478051,-122.713214,45.478051",
     "geom:latitude":45.478051,
     "geom:longitude":-122.713214,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773225437
         }
     ],
     "wof:id":773225437,
-    "wof:lastmodified":1466771858,
+    "wof:lastmodified":1486771052,
     "wof:name":"Ignite Advertising & Design",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

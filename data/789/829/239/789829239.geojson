@@ -2,9 +2,14 @@
   "id": 789829239,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 SW Harrison St Apt 1B Portland OR 97201",
+    "addr:housenumber":"255",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Harrison St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679448,45.510249,-122.679448,45.510249",
     "geom:latitude":45.510249,
     "geom:longitude":-122.679448,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789829239
         }
     ],
     "wof:id":789829239,
-    "wof:lastmodified":1466769646,
+    "wof:lastmodified":1486765545,
     "wof:name":"Opsahl Gerald F Chiroprctr",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

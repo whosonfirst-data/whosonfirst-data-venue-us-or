@@ -2,9 +2,14 @@
   "id": 790215691,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 NE 22nd Ave Portland OR 97232",
+    "addr:housenumber":"411",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643637,45.525811,-122.643637,45.525811",
     "geom:latitude":45.525811,
     "geom:longitude":-122.643637,
@@ -29,12 +34,13 @@
     "sg:website":"www.bristolequities.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790215691
         }
     ],
     "wof:id":790215691,
-    "wof:lastmodified":1466771977,
+    "wof:lastmodified":1486768043,
     "wof:name":"Bristol Equities",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

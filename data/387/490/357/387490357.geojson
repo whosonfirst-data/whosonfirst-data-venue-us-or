@@ -2,9 +2,14 @@
   "id": 387490357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2533 SE Salmon St Portland OR 97214",
+    "addr:housenumber":"2533",
+    "addr:postcode":"97214",
+    "addr:street":"Se Salmon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639376,45.514378,-122.639376,45.514378",
     "geom:latitude":45.514378,
     "geom:longitude":-122.639376,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"bd3133697d3b8896849a6ab8a2cbcac9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387490357
         }
     ],
     "wof:id":387490357,
-    "wof:lastmodified":1466773182,
+    "wof:lastmodified":1486771432,
     "wof:name":"Colombo Rchard Clssical Guitar",
-    "wof:parent_id":85893171,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

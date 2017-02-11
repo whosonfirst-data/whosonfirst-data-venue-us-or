@@ -2,9 +2,14 @@
   "id": 370711389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2053 NW Overton St Portland OR 97209",
+    "addr:housenumber":"2053",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Overton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693879,45.532097,-122.693879,45.532097",
     "geom:latitude":45.532097,
     "geom:longitude":-122.693879,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"5ed50d68a9b45a6c6023843e27aea543",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370711389
         }
     ],
     "wof:id":370711389,
-    "wof:lastmodified":1466773725,
+    "wof:lastmodified":1486771150,
     "wof:name":"Way of A Pilgrim Bookstore",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

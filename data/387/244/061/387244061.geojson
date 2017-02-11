@@ -2,9 +2,14 @@
   "id": 387244061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4113 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"4113",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620425,45.535203,-122.620425,45.535203",
     "geom:latitude":45.535203,
     "geom:longitude":-122.620425,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7a47df5d5cf5f31924a5ba6ab68f854a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":387244061
         }
     ],
     "wof:id":387244061,
-    "wof:lastmodified":1466771577,
+    "wof:lastmodified":1486769117,
     "wof:name":"Chinese Holistic Herbs",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

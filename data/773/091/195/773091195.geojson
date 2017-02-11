@@ -2,9 +2,14 @@
   "id": 773091195,
   "type": "Feature",
   "properties": {
+    "addr:full":"6214 N Williams Ave Portland OR 97217",
+    "addr:housenumber":"6214",
+    "addr:postcode":"97217",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666807,45.5668,-122.666807,45.5668",
     "geom:latitude":45.5668,
     "geom:longitude":-122.666807,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773091195
         }
     ],
     "wof:id":773091195,
-    "wof:lastmodified":1466767806,
+    "wof:lastmodified":1486768415,
     "wof:name":"Jay B Moskovitz",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404034771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1552 N Killingsworth St Portland OR 97217",
+    "addr:housenumber":"1552",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684342,45.562595,-122.684342,45.562595",
     "geom:latitude":45.562595,
     "geom:longitude":-122.684342,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"fbece29185611c141c72ece07328857b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":404034771
         }
     ],
     "wof:id":404034771,
-    "wof:lastmodified":1466769068,
+    "wof:lastmodified":1486771829,
     "wof:name":"Christ Memorial Church",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

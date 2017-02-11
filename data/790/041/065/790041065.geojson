@@ -2,9 +2,14 @@
   "id": 790041065,
   "type": "Feature",
   "properties": {
+    "addr:full":"5441 SE Belmont Portland OR 97215",
+    "addr:housenumber":"5441",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607353,45.516912,-122.607353,45.516912",
     "geom:latitude":45.516912,
     "geom:longitude":-122.607353,
@@ -26,12 +31,14 @@
     "sg:website":"taborspace.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893211,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790041065
         }
     ],
     "wof:id":790041065,
-    "wof:lastmodified":1466767868,
+    "wof:lastmodified":1486773377,
     "wof:name":"TaborSpace",
-    "wof:parent_id":85893211,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790043723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4726 SE Hawthorne Boulevard Suite B Portland OR 97215",
+    "addr:housenumber":"4726",
+    "addr:postcode":"97215",
+    "addr:street":"Se Hawthorne Boulevard Suite B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600233,45.517093,-122.600233,45.517093",
     "geom:latitude":45.517093,
     "geom:longitude":-122.600233,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790043723
         }
     ],
     "wof:id":790043723,
-    "wof:lastmodified":1466767933,
+    "wof:lastmodified":1486766426,
     "wof:name":"Timbuktunes World Music",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

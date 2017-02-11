@@ -2,9 +2,14 @@
   "id": 370809427,
   "type": "Feature",
   "properties": {
+    "addr:full":"3406 E Burnside St Portland OR 97214",
+    "addr:housenumber":"3406",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625361,45.523148,-122.625361,45.523148",
     "geom:latitude":45.523148,
     "geom:longitude":-122.625361,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2fad17b8183cad533f4baa818f8d2fdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":370809427
         }
     ],
     "wof:id":370809427,
-    "wof:lastmodified":1466774127,
+    "wof:lastmodified":1486768130,
     "wof:name":"Health Insurance On-Line",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

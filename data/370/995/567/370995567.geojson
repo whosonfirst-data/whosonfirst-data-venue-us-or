@@ -2,9 +2,14 @@
   "id": 370995567,
   "type": "Feature",
   "properties": {
+    "addr:full":"4575 N Channel Ave Portland OR 97217",
+    "addr:housenumber":"4575",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710692,45.559366,-122.710692,45.559366",
     "geom:latitude":45.559366,
     "geom:longitude":-122.710692,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"86633613f7153b93c271b464a36654ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370995567
         }
     ],
     "wof:id":370995567,
-    "wof:lastmodified":1466775168,
+    "wof:lastmodified":1486765786,
     "wof:name":"Shenanigans",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790255769,
   "type": "Feature",
   "properties": {
+    "addr:full":"6802 SE 84th Ave Portland OR 97266",
+    "addr:housenumber":"6802",
+    "addr:postcode":"97266",
+    "addr:street":"Se 84Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576824,45.473408,-122.576824,45.473408",
     "geom:latitude":45.473408,
     "geom:longitude":-122.576824,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790255769
         }
     ],
     "wof:id":790255769,
-    "wof:lastmodified":1466772610,
+    "wof:lastmodified":1486766397,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

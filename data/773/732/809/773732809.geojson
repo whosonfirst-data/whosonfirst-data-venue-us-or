@@ -2,9 +2,14 @@
   "id": 773732809,
   "type": "Feature",
   "properties": {
+    "addr:full":"7433 N Chicago Ave Portland OR 97203",
+    "addr:housenumber":"7433",
+    "addr:postcode":"97203",
+    "addr:street":"N Chicago Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.756003,45.591655,-122.756003,45.591655",
     "geom:latitude":45.591655,
     "geom:longitude":-122.756003,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,20 @@
     "wof:geomhash":"94499af5eff4a5d2a99e9448db309fbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":773732809
         }
     ],
     "wof:id":773732809,
-    "wof:lastmodified":1466775848,
+    "wof:lastmodified":1486769770,
     "wof:name":"Companion Pet Clinics",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

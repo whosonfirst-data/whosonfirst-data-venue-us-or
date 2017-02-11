@@ -2,9 +2,14 @@
   "id": 790080449,
   "type": "Feature",
   "properties": {
+    "addr:full":"8025 SW 10th Ave Portland OR 97219",
+    "addr:housenumber":"8025",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688635,45.466663,-122.688635,45.466663",
     "geom:latitude":45.466663,
     "geom:longitude":-122.688635,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":790080449
         }
     ],
     "wof:id":790080449,
-    "wof:lastmodified":1466767178,
+    "wof:lastmodified":1486772155,
     "wof:name":"Heidi's Catering",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

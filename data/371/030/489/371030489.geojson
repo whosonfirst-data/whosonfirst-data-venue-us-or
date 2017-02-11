@@ -2,9 +2,14 @@
   "id": 371030489,
   "type": "Feature",
   "properties": {
+    "addr:full":"3753 N Mississippi Ave Portland OR 97227",
+    "addr:housenumber":"3753",
+    "addr:postcode":"97227",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675616,45.550513,-122.675616,45.550513",
     "geom:latitude":45.550513,
     "geom:longitude":-122.675616,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"3f1600599f0d8195c4e405ff5b808c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":371030489
         }
     ],
     "wof:id":371030489,
-    "wof:lastmodified":1466767655,
+    "wof:lastmodified":1486773744,
     "wof:name":"A G Nome",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

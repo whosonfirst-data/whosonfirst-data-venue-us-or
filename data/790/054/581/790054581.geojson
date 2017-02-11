@@ -2,9 +2,14 @@
   "id": 790054581,
   "type": "Feature",
   "properties": {
+    "addr:full":"5406 N Albina Avenue Portland OR 97217",
+    "addr:housenumber":"5406",
+    "addr:postcode":"97217",
+    "addr:street":"N Albina Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674816,45.562144,-122.674816,45.562144",
     "geom:latitude":45.562144,
     "geom:longitude":-122.674816,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":790054581
         }
     ],
     "wof:id":790054581,
-    "wof:lastmodified":1466768165,
+    "wof:lastmodified":1486771743,
     "wof:name":"M & M Balloon Company",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790215545,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 NE Sandy Blvd Ste 202 Portland OR 97232",
+    "addr:housenumber":"3800",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd Ste 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623899,45.534103,-122.623899,45.534103",
     "geom:latitude":45.534103,
     "geom:longitude":-122.623899,
@@ -30,12 +35,13 @@
     "sg:website":"www.DunlapMortgage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":790215545
         }
     ],
     "wof:id":790215545,
-    "wof:lastmodified":1466771974,
+    "wof:lastmodified":1486768352,
     "wof:name":"Dunlap Mortgage",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

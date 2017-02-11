@@ -2,9 +2,14 @@
   "id": 773564053,
   "type": "Feature",
   "properties": {
+    "addr:full":"9620 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"9620",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717294,45.455067,-122.717294,45.455067",
     "geom:latitude":45.455067,
     "geom:longitude":-122.717294,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85871471,
-        85871489
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":773564053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871471,
             "region_id":85688513,
             "venue_id":773564053
@@ -58,15 +76,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":773564053
         }
     ],
     "wof:id":773564053,
-    "wof:lastmodified":1466775312,
+    "wof:lastmodified":1486769644,
     "wof:name":"Fasco Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

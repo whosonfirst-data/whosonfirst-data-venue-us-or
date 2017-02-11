@@ -2,9 +2,14 @@
   "id": 387621605,
   "type": "Feature",
   "properties": {
+    "addr:full":"5016 N Channel Ave Portland OR 97217",
+    "addr:housenumber":"5016",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711753,45.560277,-122.711753,45.560277",
     "geom:latitude":45.560277,
     "geom:longitude":-122.711753,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"97c558a0ff3a9863941d4bf95aa24203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387621605
         }
     ],
     "wof:id":387621605,
-    "wof:lastmodified":1466774057,
+    "wof:lastmodified":1486766110,
     "wof:name":"Temp Control Mechanical",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

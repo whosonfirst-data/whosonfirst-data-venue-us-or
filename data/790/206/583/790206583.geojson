@@ -2,9 +2,14 @@
   "id": 790206583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 NE 37th Avenue Portland OR 97232",
+    "addr:housenumber":"1516",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 37Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644442,45.527946,-122.644442,45.527946",
     "geom:latitude":45.527946,
     "geom:longitude":-122.644442,
@@ -30,12 +35,13 @@
     "sg:website":"www.liquidbook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790206583
         }
     ],
     "wof:id":790206583,
-    "wof:lastmodified":1466771672,
+    "wof:lastmodified":1486766294,
     "wof:name":"Liquidbook",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

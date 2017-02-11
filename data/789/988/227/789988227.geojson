@@ -2,9 +2,14 @@
   "id": 789988227,
   "type": "Feature",
   "properties": {
+    "addr:full":"4829 NE Martin Luther King Blvd #103 Portland OR 97211",
+    "addr:housenumber":"4829",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Martin Luther King Blvd # 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661797,45.522175,-122.661797,45.522175",
     "geom:latitude":45.522175,
     "geom:longitude":-122.661797,
@@ -42,12 +47,14 @@
     "sg:website":"www.upperechelonfitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +69,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789988227
         }
     ],
     "wof:id":789988227,
-    "wof:lastmodified":1466772919,
+    "wof:lastmodified":1486773432,
     "wof:name":"Upper Echelon Fitness, LLC",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

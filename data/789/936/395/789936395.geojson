@@ -2,9 +2,14 @@
   "id": 789936395,
   "type": "Feature",
   "properties": {
+    "addr:full":"5434 SE 72nd Ave Portland OR 97206",
+    "addr:housenumber":"5434",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589015,45.483318,-122.589015,45.483318",
     "geom:latitude":45.483318,
     "geom:longitude":-122.589015,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789936395
         }
     ],
     "wof:id":789936395,
-    "wof:lastmodified":1466772379,
+    "wof:lastmodified":1486771789,
     "wof:name":"Reliable Locksmith",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

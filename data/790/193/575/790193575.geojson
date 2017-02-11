@@ -2,9 +2,14 @@
   "id": 790193575,
   "type": "Feature",
   "properties": {
+    "addr:full":"4248 NE 148 St Portland OR 97230",
+    "addr:housenumber":"4248",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 148 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.509785,45.553975,-122.509785,45.553975",
     "geom:latitude":45.553975,
     "geom:longitude":-122.509785,
@@ -26,12 +31,13 @@
     "sg:website":"www.fastwaterheater.com/oregon.asp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893153,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790193575
         }
     ],
     "wof:id":790193575,
-    "wof:lastmodified":1466771573,
+    "wof:lastmodified":1486772080,
     "wof:name":"Fast Water Heater Company",
-    "wof:parent_id":85893153,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

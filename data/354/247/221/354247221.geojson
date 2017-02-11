@@ -2,9 +2,14 @@
   "id": 354247221,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 SW Madison St Portland OR 97204",
+    "addr:housenumber":"510",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680364,45.515639,-122.680364,45.515639",
     "geom:latitude":45.515639,
     "geom:longitude":-122.680364,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"09b8680374b5d0438b3792bc4d9d6a9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":354247221
         }
     ],
     "wof:id":354247221,
-    "wof:lastmodified":1466768570,
+    "wof:lastmodified":1486764692,
     "wof:name":"Pac West Hair Design",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

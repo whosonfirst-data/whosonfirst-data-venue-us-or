@@ -2,9 +2,14 @@
   "id": 773508349,
   "type": "Feature",
   "properties": {
+    "addr:full":"5011 NE 26th Ave Portland OR 97211",
+    "addr:housenumber":"5011",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.638966,45.560235,-122.638966,45.560235",
     "geom:latitude":45.560235,
     "geom:longitude":-122.638966,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":773508349
         }
     ],
     "wof:id":773508349,
-    "wof:lastmodified":1466775043,
+    "wof:lastmodified":1486771562,
     "wof:name":"Byron's Paper Salvage",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

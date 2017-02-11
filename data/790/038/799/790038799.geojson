@@ -2,9 +2,14 @@
   "id": 790038799,
   "type": "Feature",
   "properties": {
+    "addr:full":"632 SE Madison Street Portland OR 97214",
+    "addr:housenumber":"632",
+    "addr:postcode":"97214",
+    "addr:street":"Se Madison Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659507,45.512814,-122.659507,45.512814",
     "geom:latitude":45.512814,
     "geom:longitude":-122.659507,
@@ -29,12 +34,14 @@
     "sg:website":"www.portlandofficefurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790038799
         }
     ],
     "wof:id":790038799,
-    "wof:lastmodified":1466767858,
+    "wof:lastmodified":1486773486,
     "wof:name":"Portland Office Furniture",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790241917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4819 SW Stonebrook Ct Portland OR 97239",
+    "addr:housenumber":"4819",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Stonebrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712055,45.487773,-122.712055,45.487773",
     "geom:latitude":45.487773,
     "geom:longitude":-122.712055,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790241917
         }
     ],
     "wof:id":790241917,
-    "wof:lastmodified":1466772258,
+    "wof:lastmodified":1486769386,
     "wof:name":"Raymond Landis",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85807447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

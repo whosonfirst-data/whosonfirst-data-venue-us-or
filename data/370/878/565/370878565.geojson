@@ -2,9 +2,14 @@
   "id": 370878565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2254 NW Irving St Portland OR 97210",
+    "addr:housenumber":"2254",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Irving St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697744,45.527596,-122.697744,45.527596",
     "geom:latitude":45.527596,
     "geom:longitude":-122.697744,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"155bf54d5859a37a58b928f57a671cba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370878565
         }
     ],
     "wof:id":370878565,
-    "wof:lastmodified":1466774630,
+    "wof:lastmodified":1486773792,
     "wof:name":"Signature Marble Inc",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

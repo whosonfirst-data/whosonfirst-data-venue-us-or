@@ -2,9 +2,14 @@
   "id": 370429017,
   "type": "Feature",
   "properties": {
+    "addr:full":"5848 NE Emerson St Portland OR 97218",
+    "addr:housenumber":"5848",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Emerson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600934,45.561586,-122.600934,45.561586",
     "geom:latitude":45.561586,
     "geom:longitude":-122.600934,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"b2e2d3ea396c457009af5d5127e24e92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370429017
         }
     ],
     "wof:id":370429017,
-    "wof:lastmodified":1466771978,
+    "wof:lastmodified":1486771618,
     "wof:name":"Emery & Assoc",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

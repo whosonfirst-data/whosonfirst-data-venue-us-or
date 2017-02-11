@@ -2,9 +2,14 @@
   "id": 387053099,
   "type": "Feature",
   "properties": {
+    "addr:full":"3135 SE 160th Ave Portland OR 97236",
+    "addr:housenumber":"3135",
+    "addr:postcode":"97236",
+    "addr:street":"Se 160Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499026,45.499564,-122.499026,45.499564",
     "geom:latitude":45.499564,
     "geom:longitude":-122.499026,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"6f3a333bf86db7ee6e89d2bf9ae421d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387053099
         }
     ],
     "wof:id":387053099,
-    "wof:lastmodified":1466768029,
+    "wof:lastmodified":1486766316,
     "wof:name":"Liviu Ispas Adult Foster Home",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

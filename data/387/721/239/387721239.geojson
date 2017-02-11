@@ -2,9 +2,14 @@
   "id": 387721239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 N Sumner St Portland OR 97217",
+    "addr:housenumber":"1540",
+    "addr:postcode":"97217",
+    "addr:street":"N Sumner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68447,45.560456,-122.68447,45.560456",
     "geom:latitude":45.560456,
     "geom:longitude":-122.68447,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"99be366650810b1c2b84c604b1cc1818",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387721239
         }
     ],
     "wof:id":387721239,
-    "wof:lastmodified":1466774531,
+    "wof:lastmodified":1486771873,
     "wof:name":"J L A Enterprises",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

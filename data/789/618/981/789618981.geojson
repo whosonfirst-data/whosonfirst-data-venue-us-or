@@ -2,9 +2,14 @@
   "id": 789618981,
   "type": "Feature",
   "properties": {
+    "addr:full":"5315 SW 53rd Ct Portland OR 97221",
+    "addr:housenumber":"5315",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 53Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732002,45.48875,-122.732002,45.48875",
     "geom:latitude":45.48875,
     "geom:longitude":-122.732002,
@@ -30,11 +35,13 @@
     "sg:website":"www.whiteglovephotography.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +52,18 @@
     "wof:geomhash":"f70759b8cb9bc50d569aa81973928f34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":789618981
         }
     ],
     "wof:id":789618981,
-    "wof:lastmodified":1466768830,
+    "wof:lastmodified":1486769389,
     "wof:name":"White Glove Photography",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

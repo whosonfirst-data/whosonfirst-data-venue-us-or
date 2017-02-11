@@ -2,9 +2,14 @@
   "id": 371195485,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 SW Campus Dr Portland OR 97239",
+    "addr:housenumber":"611",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Campus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686462,45.498045,-122.686462,45.498045",
     "geom:latitude":45.498045,
     "geom:longitude":-122.686462,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718535,
+        420781235,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"73a3d910346123c09da2c0b4aa7a4a8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832591,
+            "macrohood_id":1108714057,
+            "microhood_id":1108718535,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":371195485
         }
     ],
     "wof:id":371195485,
-    "wof:lastmodified":1466770600,
+    "wof:lastmodified":1486773739,
     "wof:name":"Oral and Facial Surgery",
-    "wof:parent_id":85832591,
+    "wof:parent_id":1108718535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

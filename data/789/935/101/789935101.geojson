@@ -2,9 +2,14 @@
   "id": 789935101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 SE 79th Ave Portland OR 97206",
+    "addr:housenumber":"2404",
+    "addr:postcode":"97206",
+    "addr:street":"Se 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581665,45.505303,-122.581665,45.505303",
     "geom:latitude":45.505303,
     "geom:longitude":-122.581665,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":789935101
         }
     ],
     "wof:id":789935101,
-    "wof:lastmodified":1466772216,
+    "wof:lastmodified":1486766243,
     "wof:name":"Division Market",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

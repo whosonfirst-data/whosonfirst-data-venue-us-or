@@ -2,9 +2,14 @@
   "id": 790031347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 SE 13th Ave Apt C Portland OR 97214",
+    "addr:housenumber":"1315",
+    "addr:postcode":"97214",
+    "addr:street":"Se 13Th Ave Apt C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652642,45.51354,-122.652642,45.51354",
     "geom:latitude":45.51354,
     "geom:longitude":-122.652642,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790031347
         }
     ],
     "wof:id":790031347,
-    "wof:lastmodified":1466767770,
+    "wof:lastmodified":1486766571,
     "wof:name":"Queen Size Clothing",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773686317,
   "type": "Feature",
   "properties": {
+    "addr:full":"8511 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"8511",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684853,45.463415,-122.684853,45.463415",
     "geom:latitude":45.463415,
     "geom:longitude":-122.684853,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":773686317
         }
     ],
     "wof:id":773686317,
-    "wof:lastmodified":1466775731,
+    "wof:lastmodified":1486764688,
     "wof:name":"Salon Sazzy",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

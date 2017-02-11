@@ -2,9 +2,14 @@
   "id": 773736691,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 SW Harrison St Portland OR 97201",
+    "addr:housenumber":"222",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679681,45.510124,-122.679681,45.510124",
     "geom:latitude":45.510124,
     "geom:longitude":-122.679681,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773736691
         }
     ],
     "wof:id":773736691,
-    "wof:lastmodified":1466775845,
+    "wof:lastmodified":1486763844,
     "wof:name":"Pouppirt Enterprises Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

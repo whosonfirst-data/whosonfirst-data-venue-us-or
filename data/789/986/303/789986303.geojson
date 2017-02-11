@@ -2,9 +2,14 @@
   "id": 789986303,
   "type": "Feature",
   "properties": {
+    "addr:full":"10360 N Vancouver Way Portland OR 97211",
+    "addr:housenumber":"10360",
+    "addr:postcode":"97211",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.669879,45.598313,-122.669879,45.598313",
     "geom:latitude":45.598313,
     "geom:longitude":-122.669879,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.nwnavigatorofor.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LxG4cCNhF4PIRPySqCBmC_45.598313_-122.669879@1303263417"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592220,
     "wof:geomhash":"637ca5b4523860f06a6b2c8d4979bd4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789986303
+        }
+    ],
     "wof:id":789986303,
-    "wof:lastmodified":1466773029,
+    "wof:lastmodified":1486771632,
     "wof:name":"NW Navigator Luxury Coaches",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

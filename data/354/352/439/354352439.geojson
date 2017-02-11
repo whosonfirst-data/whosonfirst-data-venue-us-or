@@ -2,9 +2,14 @@
   "id": 354352439,
   "type": "Feature",
   "properties": {
+    "addr:full":"3551 SW Macadam Ave Portland OR 97219",
+    "addr:housenumber":"3551",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Macadam Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672945,45.49742,-122.672945,45.49742",
     "geom:latitude":45.49742,
     "geom:longitude":-122.672945,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"3eaf41015852af238c6db109f2dd3483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":354352439
         }
     ],
     "wof:id":354352439,
-    "wof:lastmodified":1466770383,
+    "wof:lastmodified":1486773565,
     "wof:name":"Margaretta Eakin",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

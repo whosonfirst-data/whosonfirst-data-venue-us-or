@@ -2,9 +2,14 @@
   "id": 387362767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1816 NE 132nd Ave Portland OR 97230",
+    "addr:housenumber":"1816",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 132Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.527073,45.536228,-122.527073,45.536228",
     "geom:latitude":45.536228,
     "geom:longitude":-122.527073,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"37264b9fbdba3fd7c98f9d186cb814bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":387362767
         }
     ],
     "wof:id":387362767,
-    "wof:lastmodified":1466772348,
+    "wof:lastmodified":1486771974,
     "wof:name":"Living Systems",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

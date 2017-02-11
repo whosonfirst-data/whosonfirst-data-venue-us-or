@@ -2,9 +2,14 @@
   "id": 790045589,
   "type": "Feature",
   "properties": {
+    "addr:full":"9321 SE Stark St Portland OR 97216",
+    "addr:housenumber":"9321",
+    "addr:postcode":"97216",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.56725,45.519301,-122.56725,45.519301",
     "geom:latitude":45.519301,
     "geom:longitude":-122.56725,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Portland-OR-97216/016251",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790045589
         }
     ],
     "wof:id":790045589,
-    "wof:lastmodified":1466767964,
+    "wof:lastmodified":1486766502,
     "wof:name":"Affordable Car Care",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

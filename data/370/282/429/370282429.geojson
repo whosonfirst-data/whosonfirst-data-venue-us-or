@@ -2,9 +2,14 @@
   "id": 370282429,
   "type": "Feature",
   "properties": {
+    "addr:full":"6517 SE 93rd Ave Portland OR 97266",
+    "addr:housenumber":"6517",
+    "addr:postcode":"97266",
+    "addr:street":"Se 93Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.567708,45.474041,-122.567708,45.474041",
     "geom:latitude":45.474041,
     "geom:longitude":-122.567708,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"217db38a6fab80954c8ef806ea6ac1d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370282429
         }
     ],
     "wof:id":370282429,
-    "wof:lastmodified":1466769496,
+    "wof:lastmodified":1486766273,
     "wof:name":"Van Nguyen Troug",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

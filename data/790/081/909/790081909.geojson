@@ -2,9 +2,14 @@
   "id": 790081909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304A SW Bertha Blvd Portland OR 97219",
+    "addr:housenumber":"1304a",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Bertha Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692135,45.470741,-122.692135,45.470741",
     "geom:latitude":45.470741,
     "geom:longitude":-122.692135,
@@ -29,12 +34,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000277022024",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790081909
         }
     ],
     "wof:id":790081909,
-    "wof:lastmodified":1466767231,
+    "wof:lastmodified":1486769420,
     "wof:name":"Allstate Insurance Company - Mike Gopsha",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

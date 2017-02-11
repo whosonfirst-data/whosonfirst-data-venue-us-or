@@ -2,9 +2,14 @@
   "id": 789857175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3827 SE Gladstone Portland OR 97202",
+    "addr:housenumber":"3827",
+    "addr:postcode":"97202",
+    "addr:street":"Se Gladstone",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623182,45.493584,-122.623182,45.493584",
     "geom:latitude":45.493584,
     "geom:longitude":-122.623182,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789857175
         }
     ],
     "wof:id":789857175,
-    "wof:lastmodified":1466770790,
+    "wof:lastmodified":1486772134,
     "wof:name":"Wise Buy Market",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

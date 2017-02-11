@@ -2,9 +2,14 @@
   "id": 387456501,
   "type": "Feature",
   "properties": {
+    "addr:full":"7634 SE Main St Portland OR 97215",
+    "addr:housenumber":"7634",
+    "addr:postcode":"97215",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583491,45.513603,-122.583491,45.513603",
     "geom:latitude":45.513603,
     "geom:longitude":-122.583491,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"07eb70c82286531078510ded0d2568b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387456501
         }
     ],
     "wof:id":387456501,
-    "wof:lastmodified":1466772960,
+    "wof:lastmodified":1486767403,
     "wof:name":"Paradise Homes In Washington",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

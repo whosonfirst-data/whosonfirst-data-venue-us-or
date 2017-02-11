@@ -2,9 +2,14 @@
   "id": 789983587,
   "type": "Feature",
   "properties": {
+    "addr:full":"5517 NE 18th Ave Portland OR 97211",
+    "addr:housenumber":"5517",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64704,45.562807,-122.64704,45.562807",
     "geom:latitude":45.562807,
     "geom:longitude":-122.64704,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85802561
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802561,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789983587
         }
     ],
     "wof:id":789983587,
-    "wof:lastmodified":1466772893,
+    "wof:lastmodified":1486772060,
     "wof:name":"Building Roots",
-    "wof:parent_id":85802561,
+    "wof:parent_id":85893257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

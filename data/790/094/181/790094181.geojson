@@ -2,9 +2,14 @@
   "id": 790094181,
   "type": "Feature",
   "properties": {
+    "addr:full":"11954 NE Glisan Portland OR 97220",
+    "addr:housenumber":"11954",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539627,45.526294,-122.539627,45.526294",
     "geom:latitude":45.526294,
     "geom:longitude":-122.539627,
@@ -30,12 +35,13 @@
     "sg:website":"www.fishingwithbear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790094181
         }
     ],
     "wof:id":790094181,
-    "wof:lastmodified":1466767684,
+    "wof:lastmodified":1486768042,
     "wof:name":"Fishing With Bear",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

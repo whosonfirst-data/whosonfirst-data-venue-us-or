@@ -2,9 +2,14 @@
   "id": 773776409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"1410",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650679,45.516405,-122.650679,45.516405",
     "geom:latitude":45.516405,
     "geom:longitude":-122.650679,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773776409
         }
     ],
     "wof:id":773776409,
-    "wof:lastmodified":1466775964,
+    "wof:lastmodified":1486766927,
     "wof:name":"Belmont Court Apartments",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

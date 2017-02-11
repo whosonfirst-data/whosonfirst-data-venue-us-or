@@ -2,9 +2,14 @@
   "id": 370400631,
   "type": "Feature",
   "properties": {
+    "addr:full":"6868 SE Division St Portland OR 97206",
+    "addr:housenumber":"6868",
+    "addr:postcode":"97206",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.592839,45.505301,-122.592839,45.505301",
     "geom:latitude":45.505301,
     "geom:longitude":-122.592839,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"88896034b77c8a550b655d865076cc48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":370400631
         }
     ],
     "wof:id":370400631,
-    "wof:lastmodified":1466771652,
+    "wof:lastmodified":1486771043,
     "wof:name":"Special Concerns Ministries",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

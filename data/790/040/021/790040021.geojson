@@ -2,9 +2,14 @@
   "id": 790040021,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 SE 50th Avenue Portland OR 97215",
+    "addr:housenumber":"2204",
+    "addr:postcode":"97215",
+    "addr:street":"Se 50Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611228,45.506915,-122.611228,45.506915",
     "geom:latitude":45.506915,
     "geom:longitude":-122.611228,
@@ -29,13 +34,13 @@
     "sg:website":"www.oregonacupuncture.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871465,
-            "region_id":85688513,
-            "venue_id":790040021
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790040021
         }
     ],
     "wof:id":790040021,
-    "wof:lastmodified":1466767856,
+    "wof:lastmodified":1486771819,
     "wof:name":"Oregon Acupuncture Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

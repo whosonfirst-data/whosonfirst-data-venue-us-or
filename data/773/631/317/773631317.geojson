@@ -2,9 +2,14 @@
   "id": 773631317,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 SW Miles St Portland OR 97219",
+    "addr:housenumber":"125",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Miles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680445,45.471338,-122.680445,45.471338",
     "geom:latitude":45.471338,
     "geom:longitude":-122.680445,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85808507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85808507,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":773631317
         }
     ],
     "wof:id":773631317,
-    "wof:lastmodified":1466775558,
+    "wof:lastmodified":1486769848,
     "wof:name":"Burlingame Baptist Church",
-    "wof:parent_id":85808507,
+    "wof:parent_id":85849969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

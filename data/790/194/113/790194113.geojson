@@ -2,9 +2,14 @@
   "id": 790194113,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 NE 127th Ave Portland OR 97230",
+    "addr:housenumber":"2700",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 127Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532069,45.541657,-122.532069,45.541657",
     "geom:latitude":45.541657,
     "geom:longitude":-122.532069,
@@ -26,12 +31,13 @@
     "sg:website":"www.parkrose.k12.or.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":790194113
         }
     ],
     "wof:id":790194113,
-    "wof:lastmodified":1466771586,
+    "wof:lastmodified":1486771975,
     "wof:name":"Schools Public",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

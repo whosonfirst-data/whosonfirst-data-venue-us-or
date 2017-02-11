@@ -2,9 +2,14 @@
   "id": 403723625,
   "type": "Feature",
   "properties": {
+    "addr:full":"2728 N Farragut St Portland OR 97217",
+    "addr:housenumber":"2728",
+    "addr:postcode":"97217",
+    "addr:street":"N Farragut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697081,45.57908,-122.697081,45.57908",
     "geom:latitude":45.57908,
     "geom:longitude":-122.697081,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e6e6de4619ef9cc5ee6b1a3df5615cb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":403723625
         }
     ],
     "wof:id":403723625,
-    "wof:lastmodified":1466768289,
+    "wof:lastmodified":1486769514,
     "wof:name":"Irvington Flowers",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

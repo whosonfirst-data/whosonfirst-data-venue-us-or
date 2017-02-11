@@ -2,9 +2,14 @@
   "id": 370148629,
   "type": "Feature",
   "properties": {
+    "addr:full":"8501 N Albina Ave Portland OR 97217",
+    "addr:housenumber":"8501",
+    "addr:postcode":"97217",
+    "addr:street":"N Albina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674341,45.585487,-122.674341,45.585487",
     "geom:latitude":45.585487,
     "geom:longitude":-122.674341,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721309,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:brand_id":420574227,
     "wof:breaches":[],
@@ -39,19 +47,20 @@
     "wof:geomhash":"b3d226eb7d7be23902f05d6b18ace431",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721309,
             "region_id":85688513,
             "venue_id":370148629
         }
     ],
     "wof:id":370148629,
-    "wof:lastmodified":1466767149,
+    "wof:lastmodified":1486772350,
     "wof:name":"Fastenal Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

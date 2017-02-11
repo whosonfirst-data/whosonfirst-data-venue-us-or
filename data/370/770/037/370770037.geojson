@@ -2,9 +2,14 @@
   "id": 370770037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4927 SE Haig St Portland OR 97206",
+    "addr:housenumber":"4927",
+    "addr:postcode":"97206",
+    "addr:street":"Se Haig St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611579,45.498305,-122.611579,45.498305",
     "geom:latitude":45.498305,
     "geom:longitude":-122.611579,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"20781d7a569dcc6541ad669eff6b0b39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370770037
         }
     ],
     "wof:id":370770037,
-    "wof:lastmodified":1466773805,
+    "wof:lastmodified":1486770865,
     "wof:name":"Fairfield Enterprises Inc",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

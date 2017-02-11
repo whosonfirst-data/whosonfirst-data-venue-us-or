@@ -2,9 +2,14 @@
   "id": 387511953,
   "type": "Feature",
   "properties": {
+    "addr:full":"4956 NE 9th Ave Portland OR 97211",
+    "addr:housenumber":"4956",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656495,45.558613,-122.656495,45.558613",
     "geom:latitude":45.558613,
     "geom:longitude":-122.656495,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f5527043d1d31e23151a3e2ceb99a762",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":387511953
         }
     ],
     "wof:id":387511953,
-    "wof:lastmodified":1466773310,
+    "wof:lastmodified":1486768715,
     "wof:name":"Ruff Diamond Inc",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

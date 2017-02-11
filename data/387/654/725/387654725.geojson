@@ -2,9 +2,14 @@
   "id": 387654725,
   "type": "Feature",
   "properties": {
+    "addr:full":"4547 NE Buffalo St Portland OR 97218",
+    "addr:housenumber":"4547",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Buffalo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.614452,45.575317,-122.614452,45.575317",
     "geom:latitude":45.575317,
     "geom:longitude":-122.614452,
@@ -29,11 +34,13 @@
     "sg:website":"www.portlandtruss.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"6ebfbf0ac0220f653ff9f6f2dbd053ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387654725
         }
     ],
     "wof:id":387654725,
-    "wof:lastmodified":1466774105,
+    "wof:lastmodified":1486771598,
     "wof:name":"Portland Truss Mfg LLC",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

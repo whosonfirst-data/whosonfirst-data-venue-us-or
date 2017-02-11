@@ -2,9 +2,14 @@
   "id": 790066347,
   "type": "Feature",
   "properties": {
+    "addr:full":"7025 NE Alderwood Rd Portland OR 97218",
+    "addr:housenumber":"7025",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Alderwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582483,45.573807,-122.582483,45.573807",
     "geom:latitude":45.573807,
     "geom:longitude":-122.582483,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.countryinns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790066347
         }
     ],
     "wof:id":790066347,
-    "wof:lastmodified":1466768466,
+    "wof:lastmodified":1486772336,
     "wof:name":"Country Inn & Suites Portland Airport",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

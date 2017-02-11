@@ -2,9 +2,14 @@
   "id": 370257851,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 N Killingsworth St Portland OR 97217",
+    "addr:housenumber":"105",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668719,45.562781,-122.668719,45.562781",
     "geom:latitude":45.562781,
     "geom:longitude":-122.668719,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"9489cf46d055d73efb0af3a1393a51da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":370257851
         }
     ],
     "wof:id":370257851,
-    "wof:lastmodified":1466769033,
+    "wof:lastmodified":1486769057,
     "wof:name":"Cafe Solei",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370613993,
   "type": "Feature",
   "properties": {
+    "addr:full":"7830 SW 40th Ave Portland OR 97219",
+    "addr:housenumber":"7830",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 40Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717961,45.468909,-122.717961,45.468909",
     "geom:latitude":45.468909,
     "geom:longitude":-122.717961,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"57eb70de8be6fd7d3f5c58d978268252",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":370613993
         }
     ],
     "wof:id":370613993,
-    "wof:lastmodified":1466773104,
+    "wof:lastmodified":1486769655,
     "wof:name":"Beek Co Mfrs Reps",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

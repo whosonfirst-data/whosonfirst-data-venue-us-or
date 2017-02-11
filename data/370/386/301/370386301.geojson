@@ -2,9 +2,14 @@
   "id": 370386301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2120 SW Jefferson St Portland OR 97201",
+    "addr:housenumber":"2120",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695461,45.518576,-122.695461,45.518576",
     "geom:latitude":45.518576,
     "geom:longitude":-122.695461,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2c82e37b6894862b26590bfc045c14c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":370386301
         }
     ],
     "wof:id":370386301,
-    "wof:lastmodified":1466771529,
+    "wof:lastmodified":1486770945,
     "wof:name":"Verinform Systems Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790072085,
   "type": "Feature",
   "properties": {
+    "addr:full":"9400 SW Barbur Boulevard Portland OR 97219",
+    "addr:housenumber":"9400",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711943,45.45755,-122.711943,45.45755",
     "geom:latitude":45.45755,
     "geom:longitude":-122.711943,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513,
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":790072085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790072085
         }
     ],
     "wof:id":790072085,
-    "wof:lastmodified":1466768584,
+    "wof:lastmodified":1486769648,
     "wof:name":"Whitaker Ellis",
-    "wof:parent_id":85871489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

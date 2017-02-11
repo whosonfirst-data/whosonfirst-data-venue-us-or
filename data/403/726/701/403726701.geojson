@@ -2,9 +2,14 @@
   "id": 403726701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2027 Lloyd Center Portland OR 97232",
+    "addr:housenumber":"2027",
+    "addr:postcode":"97232",
+    "addr:street":"Lloyd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65358,45.531958,-122.65358,45.531958",
     "geom:latitude":45.531958,
     "geom:longitude":-122.65358,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:brand_id":420574701,
     "wof:breaches":[],
@@ -44,19 +52,20 @@
     "wof:geomhash":"2942e774181d79f2ab4084a73a6e579c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":403726701
         }
     ],
     "wof:id":403726701,
-    "wof:lastmodified":1466768377,
+    "wof:lastmodified":1486771338,
     "wof:name":"HealthSouth",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

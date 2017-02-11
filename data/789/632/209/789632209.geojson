@@ -2,9 +2,14 @@
   "id": 789632209,
   "type": "Feature",
   "properties": {
+    "addr:full":"7110 SE 29th Ave Portland OR 97202",
+    "addr:housenumber":"7110",
+    "addr:postcode":"97202",
+    "addr:street":"Se 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63372,45.472599,-122.63372,45.472599",
     "geom:latitude":45.472599,
     "geom:longitude":-122.63372,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":789632209
         }
     ],
     "wof:id":789632209,
-    "wof:lastmodified":1466769051,
+    "wof:lastmodified":1486769414,
     "wof:name":"Stock Circle Investment C",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

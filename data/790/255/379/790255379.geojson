@@ -2,9 +2,14 @@
   "id": 790255379,
   "type": "Feature",
   "properties": {
+    "addr:full":"4765 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"4765",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57903,45.487742,-122.57903,45.487742",
     "geom:latitude":45.487742,
     "geom:longitude":-122.57903,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":790255379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":790255379
         }
     ],
     "wof:id":790255379,
-    "wof:lastmodified":1466772598,
+    "wof:lastmodified":1486771642,
     "wof:name":"Oregon Computer Power 1",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

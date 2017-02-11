@@ -2,9 +2,14 @@
   "id": 789986803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2921 NE KIllingsworth St Portland OR 97211",
+    "addr:housenumber":"2921",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635428,45.562704,-122.635428,45.562704",
     "geom:latitude":45.562704,
     "geom:longitude":-122.635428,
@@ -26,12 +31,13 @@
     "sg:website":"extractocoffeehouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789986803
         }
     ],
     "wof:id":789986803,
-    "wof:lastmodified":1466773046,
+    "wof:lastmodified":1486768903,
     "wof:name":"Extracto Coffeehouse",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

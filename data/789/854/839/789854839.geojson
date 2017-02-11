@@ -2,9 +2,14 @@
   "id": 789854839,
   "type": "Feature",
   "properties": {
+    "addr:full":"8427 SE 7th Ave Portland OR 97202",
+    "addr:housenumber":"8427",
+    "addr:postcode":"97202",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658995,45.462,-122.658995,45.462",
     "geom:latitude":45.462,
     "geom:longitude":-122.658995,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789854839
         }
     ],
     "wof:id":789854839,
-    "wof:lastmodified":1466770690,
+    "wof:lastmodified":1486770494,
     "wof:name":"Olson Industries",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

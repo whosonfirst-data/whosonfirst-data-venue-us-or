@@ -2,9 +2,14 @@
   "id": 387860407,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 NW Royal Blvd Portland OR 97210",
+    "addr:housenumber":"330",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Royal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742453,45.521426,-122.742453,45.521426",
     "geom:latitude":45.521426,
     "geom:longitude":-122.742453,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893251,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85851719,
+        1108714057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +51,30 @@
     "wof:geomhash":"fb3307c7b2619d41f32a44c38a411850",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893251,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":387860407
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":387860407
         }
     ],
     "wof:id":387860407,
-    "wof:lastmodified":1466775186,
+    "wof:lastmodified":1486772187,
     "wof:name":"Isure Healthcare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

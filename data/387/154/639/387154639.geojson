@@ -2,9 +2,14 @@
   "id": 387154639,
   "type": "Feature",
   "properties": {
+    "addr:full":"4117 SE Division St Portland OR 97202",
+    "addr:housenumber":"4117",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619074,45.505054,-122.619074,45.505054",
     "geom:latitude":45.505054,
     "geom:longitude":-122.619074,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"b242af1e6058e2a5922f526b965440f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":387154639
         }
     ],
     "wof:id":387154639,
-    "wof:lastmodified":1466769852,
+    "wof:lastmodified":1486773667,
     "wof:name":"Tiffany and Oshea LLC",
-    "wof:parent_id":85871465,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

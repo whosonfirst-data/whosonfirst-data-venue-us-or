@@ -2,9 +2,14 @@
   "id": 789991913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1880 NE Elrod Dr Portland OR 97211",
+    "addr:housenumber":"1880",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Elrod Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643646,45.584439,-122.643646,45.584439",
     "geom:latitude":45.584439,
     "geom:longitude":-122.643646,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.mcdd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893263,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":789991913
         }
     ],
     "wof:id":789991913,
-    "wof:lastmodified":1466773207,
+    "wof:lastmodified":1486772002,
     "wof:name":"Multnomah County Drainage District 1",
-    "wof:parent_id":85893263,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

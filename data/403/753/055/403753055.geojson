@@ -2,9 +2,14 @@
   "id": 403753055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4444 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"4444",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732171,45.554384,-122.732171,45.554384",
     "geom:latitude":45.554384,
     "geom:longitude":-122.732171,
@@ -36,11 +41,13 @@
     "sg:website":"www.mthoodchem.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +57,20 @@
     "wof:geomhash":"b15be52e99d1f5612abb782abf8d8bfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":403753055
         }
     ],
     "wof:id":403753055,
-    "wof:lastmodified":1466768902,
+    "wof:lastmodified":1486771091,
     "wof:name":"Mt Hood Chemical Corporation",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

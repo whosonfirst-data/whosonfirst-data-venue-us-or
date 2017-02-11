@@ -2,9 +2,14 @@
   "id": 773228173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3918 SE 10th Ave Portland OR 97202",
+    "addr:housenumber":"3918",
+    "addr:postcode":"97202",
+    "addr:street":"Se 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655383,45.494596,-122.655383,45.494596",
     "geom:latitude":45.494596,
     "geom:longitude":-122.655383,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":773228173
         }
     ],
     "wof:id":773228173,
-    "wof:lastmodified":1466771798,
+    "wof:lastmodified":1486767974,
     "wof:name":"Martha Bueche Contractor",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386983191,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 SW Oak St Portland OR 97205",
+    "addr:housenumber":"917",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680962,45.522828,-122.680962,45.522828",
     "geom:latitude":45.522828,
     "geom:longitude":-122.680962,
@@ -32,10 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,19 @@
     "wof:geomhash":"fe111c0e947ee46d2ec2b27b198d7ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":386983191
         }
     ],
     "wof:id":386983191,
-    "wof:lastmodified":1466767418,
+    "wof:lastmodified":1486765025,
     "wof:name":"Studio 209",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

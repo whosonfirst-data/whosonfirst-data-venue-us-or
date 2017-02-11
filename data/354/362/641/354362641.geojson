@@ -2,9 +2,14 @@
   "id": 354362641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 SE 130th Ave Portland OR 97233",
+    "addr:housenumber":"1000",
+    "addr:postcode":"97233",
+    "addr:street":"Se 130Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.52992,45.514981,-122.52992,45.514981",
     "geom:latitude":45.514981,
     "geom:longitude":-122.52992,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"323325556d3ffbf6690db0c2c32f9430",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":354362641
         }
     ],
     "wof:id":354362641,
-    "wof:lastmodified":1466770623,
+    "wof:lastmodified":1486770711,
     "wof:name":"Filimon Adult Care Home",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

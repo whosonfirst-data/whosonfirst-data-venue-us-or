@@ -2,9 +2,14 @@
   "id": 790059131,
   "type": "Feature",
   "properties": {
+    "addr:full":"5022 N Albina Ave Portland OR 97217",
+    "addr:housenumber":"5022",
+    "addr:postcode":"97217",
+    "addr:street":"N Albina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675006,45.55918,-122.675006,45.55918",
     "geom:latitude":45.55918,
     "geom:longitude":-122.675006,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":790059131
         }
     ],
     "wof:id":790059131,
-    "wof:lastmodified":1466768247,
+    "wof:lastmodified":1486769097,
     "wof:name":"Nicaragua Imports",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

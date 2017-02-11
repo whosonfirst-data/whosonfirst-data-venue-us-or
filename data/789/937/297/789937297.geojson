@@ -2,9 +2,14 @@
   "id": 789937297,
   "type": "Feature",
   "properties": {
+    "addr:full":"6276 SE Reedway St Portland OR 97206",
+    "addr:housenumber":"6276",
+    "addr:postcode":"97206",
+    "addr:street":"Se Reedway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598154,45.481683,-122.598154,45.481683",
     "geom:latitude":45.481683,
     "geom:longitude":-122.598154,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789937297
         }
     ],
     "wof:id":789937297,
-    "wof:lastmodified":1466772376,
+    "wof:lastmodified":1486766311,
     "wof:name":"A Locksmith 1 24 7",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

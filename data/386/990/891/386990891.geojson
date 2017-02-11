@@ -2,9 +2,14 @@
   "id": 386990891,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 N Burr Ave Portland OR 97203",
+    "addr:housenumber":"10000",
+    "addr:postcode":"97203",
+    "addr:street":"N Burr Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737034,45.596852,-122.737034,45.596852",
     "geom:latitude":45.596852,
     "geom:longitude":-122.737034,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"a89651c042cafb881303aafcac38ff25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":386990891
         }
     ],
     "wof:id":386990891,
-    "wof:lastmodified":1466767458,
+    "wof:lastmodified":1486766065,
     "wof:name":"Multnomah County Health Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

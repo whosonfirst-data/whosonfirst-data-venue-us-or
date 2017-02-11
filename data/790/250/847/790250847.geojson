@@ -2,9 +2,14 @@
   "id": 790250847,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 SW Arthur Blvd Portland OR 97255",
+    "addr:housenumber":"30",
+    "addr:postcode":"97255",
+    "addr:street":"Sw Arthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675771,45.503664,-122.675771,45.503664",
     "geom:latitude":45.503664,
     "geom:longitude":-122.675771,
@@ -25,12 +30,14 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714043,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714043,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790250847
         }
     ],
     "wof:id":790250847,
-    "wof:lastmodified":1466772424,
+    "wof:lastmodified":1486773553,
     "wof:name":"7-Eleven",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

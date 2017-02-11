@@ -2,9 +2,14 @@
   "id": 370556989,
   "type": "Feature",
   "properties": {
+    "addr:full":"4034 NE Hazelfern Pl Portland OR 97232",
+    "addr:housenumber":"4034",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Hazelfern Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622726,45.52996,-122.622726,45.52996",
     "geom:latitude":45.52996,
     "geom:longitude":-122.622726,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"04456846b0a42bef356afde3bed1c05e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":370556989
         }
     ],
     "wof:id":370556989,
-    "wof:lastmodified":1466772637,
+    "wof:lastmodified":1486766867,
     "wof:name":"Judy Ellen Nelson",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

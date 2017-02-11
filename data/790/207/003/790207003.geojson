@@ -2,9 +2,14 @@
   "id": 790207003,
   "type": "Feature",
   "properties": {
+    "addr:full":"3515 NE Hassalo St Portland OR 97232",
+    "addr:housenumber":"3515",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Hassalo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626422,45.53078,-122.626422,45.53078",
     "geom:latitude":45.53078,
     "geom:longitude":-122.626422,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790207003
         }
     ],
     "wof:id":790207003,
-    "wof:lastmodified":1466771685,
+    "wof:lastmodified":1486766386,
     "wof:name":"Far West Book Service, Inc",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

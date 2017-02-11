@@ -2,9 +2,14 @@
   "id": 773444873,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 SE 155th Pl Portland OR 97233",
+    "addr:housenumber":"130",
+    "addr:postcode":"97233",
+    "addr:street":"Se 155Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.503604,45.519955,-122.503604,45.519955",
     "geom:latitude":45.519955,
     "geom:longitude":-122.503604,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":773444873
         }
     ],
     "wof:id":773444873,
-    "wof:lastmodified":1466774289,
+    "wof:lastmodified":1486771660,
     "wof:name":"Trioriffic",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

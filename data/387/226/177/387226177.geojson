@@ -2,9 +2,14 @@
   "id": 387226177,
   "type": "Feature",
   "properties": {
+    "addr:full":"4005 N Michigan Ave Portland OR 97227",
+    "addr:housenumber":"4005",
+    "addr:postcode":"97227",
+    "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676668,45.553315,-122.676668,45.553315",
     "geom:latitude":45.553315,
     "geom:longitude":-122.676668,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b823596af119890f6b5b5ffbcf9c625b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":387226177
         }
     ],
     "wof:id":387226177,
-    "wof:lastmodified":1466771320,
+    "wof:lastmodified":1486771512,
     "wof:name":"Jade Gallery",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

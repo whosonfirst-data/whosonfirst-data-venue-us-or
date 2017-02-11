@@ -2,9 +2,14 @@
   "id": 773391017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 N Killingsworth St Portland OR 97217",
+    "addr:housenumber":"2515",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693485,45.562818,-122.693485,45.562818",
     "geom:latitude":45.562818,
     "geom:longitude":-122.693485,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773391017
         }
     ],
     "wof:id":773391017,
-    "wof:lastmodified":1466774003,
+    "wof:lastmodified":1486766015,
     "wof:name":"Dragons Lear Properties",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

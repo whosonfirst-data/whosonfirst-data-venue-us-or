@@ -2,9 +2,14 @@
   "id": 387238569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2032 SE Pine St Portland OR 97214",
+    "addr:housenumber":"2032",
+    "addr:postcode":"97214",
+    "addr:street":"Se Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644654,45.520663,-122.644654,45.520663",
     "geom:latitude":45.520663,
     "geom:longitude":-122.644654,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c58b53e4afffd35aa306a087e927b4c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387238569
         }
     ],
     "wof:id":387238569,
-    "wof:lastmodified":1466771544,
+    "wof:lastmodified":1486768079,
     "wof:name":"John Crossgrove Construction",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

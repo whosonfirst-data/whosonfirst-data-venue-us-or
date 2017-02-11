@@ -2,9 +2,14 @@
   "id": 789603985,
   "type": "Feature",
   "properties": {
+    "addr:full":"10931 SW 53rd Ave Portland OR 97219",
+    "addr:housenumber":"10931",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 53Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.731242,45.446311,-122.731242,45.446311",
     "geom:latitude":45.446311,
     "geom:longitude":-122.731242,
@@ -30,13 +35,14 @@
     "sg:website":"www.secretpleasures.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713515,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819,
-        85871471
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
-            "region_id":85688513,
-            "venue_id":789603985
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871471,
+            "macrohood_id":1108714057,
+            "microhood_id":1108713515,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":789603985
         }
     ],
     "wof:id":789603985,
-    "wof:lastmodified":1466768473,
+    "wof:lastmodified":1486773412,
     "wof:name":"Private Pleasures",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

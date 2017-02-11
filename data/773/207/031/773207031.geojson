@@ -2,9 +2,14 @@
   "id": 773207031,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 NE Middlefield Rd Portland OR 97211",
+    "addr:housenumber":"225",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Middlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666905,45.596353,-122.666905,45.596353",
     "geom:latitude":45.596353,
     "geom:longitude":-122.666905,
@@ -24,7 +29,15 @@
     "sg:postcode":"97211",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bEG5RqoKtOooFVWz8NVI9_45.596353_-122.666905@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462583977,
     "wof:geomhash":"e8e8889547d49b40e798b509a3146784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773207031
+        }
+    ],
     "wof:id":773207031,
-    "wof:lastmodified":1466771608,
+    "wof:lastmodified":1486771622,
     "wof:name":"C E Snodgrass Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

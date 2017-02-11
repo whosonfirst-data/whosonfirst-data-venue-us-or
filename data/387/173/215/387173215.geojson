@@ -2,9 +2,14 @@
   "id": 387173215,
   "type": "Feature",
   "properties": {
+    "addr:full":"6103 N Albina Ave Portland OR 97217",
+    "addr:housenumber":"6103",
+    "addr:postcode":"97217",
+    "addr:street":"N Albina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674974,45.567748,-122.674974,45.567748",
     "geom:latitude":45.567748,
     "geom:longitude":-122.674974,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893195
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"7064aa8c5400794dec3bc7e191f4d62c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":387173215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387173215
         }
     ],
     "wof:id":387173215,
-    "wof:lastmodified":1466770236,
+    "wof:lastmodified":1486769702,
     "wof:name":"House of Change",
-    "wof:parent_id":85893195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

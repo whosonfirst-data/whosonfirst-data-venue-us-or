@@ -2,9 +2,14 @@
   "id": 387046437,
   "type": "Feature",
   "properties": {
+    "addr:full":"14830 NW Ash St Portland OR 97231",
+    "addr:housenumber":"14830",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.828649,45.59767,-122.828649,45.59767",
     "geom:latitude":45.59767,
     "geom:longitude":-122.828649,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"a332652793bfead9a3a214e9075a8c76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":387046437
         }
     ],
     "wof:id":387046437,
-    "wof:lastmodified":1466767909,
+    "wof:lastmodified":1486772190,
     "wof:name":"Custom Framing & Home Building",
-    "wof:parent_id":85868975,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

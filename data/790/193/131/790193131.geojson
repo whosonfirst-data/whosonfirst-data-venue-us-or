@@ -2,9 +2,14 @@
   "id": 790193131,
   "type": "Feature",
   "properties": {
+    "addr:full":"1019 NE 122nd Avenue Portland OR 97230",
+    "addr:housenumber":"1019",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537854,45.530153,-122.537854,45.530153",
     "geom:latitude":45.530153,
     "geom:longitude":-122.537854,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790193131
         }
     ],
     "wof:id":790193131,
-    "wof:lastmodified":1466771465,
+    "wof:lastmodified":1486770719,
     "wof:name":"Balsiger Chiropractic Center",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

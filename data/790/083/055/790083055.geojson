@@ -2,9 +2,14 @@
   "id": 790083055,
   "type": "Feature",
   "properties": {
+    "addr:full":"1155 SW Chestnut Dr Portland OR 97219",
+    "addr:housenumber":"1155",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Chestnut Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690819,45.474858,-122.690819,45.474858",
     "geom:latitude":45.474858,
     "geom:longitude":-122.690819,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790083055
         }
     ],
     "wof:id":790083055,
-    "wof:lastmodified":1466767271,
+    "wof:lastmodified":1486769428,
     "wof:name":"Far West Food Associates",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387346127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2436 SE 12th Ave Portland OR 97214",
+    "addr:housenumber":"2436",
+    "addr:postcode":"97214",
+    "addr:street":"Se 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653645,45.505007,-122.653645,45.505007",
     "geom:latitude":45.505007,
     "geom:longitude":-122.653645,
@@ -36,11 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +58,21 @@
     "wof:geomhash":"870a754159d21478dc97cec1023a19c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387346127
         }
     ],
     "wof:id":387346127,
-    "wof:lastmodified":1466772354,
+    "wof:lastmodified":1486773551,
     "wof:name":"J H Custom Tools",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

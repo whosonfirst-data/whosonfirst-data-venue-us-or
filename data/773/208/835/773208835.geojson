@@ -2,9 +2,14 @@
   "id": 773208835,
   "type": "Feature",
   "properties": {
+    "addr:full":"10929 N Vancouver Ave Portland OR 97217",
+    "addr:housenumber":"10929",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668111,45.602744,-122.668111,45.602744",
     "geom:latitude":45.602744,
     "geom:longitude":-122.668111,
@@ -27,7 +32,15 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vme7EOxTW98iZ8FgKcamV_45.602744_-122.668111@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462583989,
     "wof:geomhash":"f6fdf6e0cd7f9a07ddda4bd8c76d4af0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":773208835
+        }
+    ],
     "wof:id":773208835,
-    "wof:lastmodified":1466771632,
+    "wof:lastmodified":1486769368,
     "wof:name":"Fleet Truck Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403973813,
   "type": "Feature",
   "properties": {
+    "addr:full":"6005 N Mississippi Ave Portland OR 97217",
+    "addr:housenumber":"6005",
+    "addr:postcode":"97217",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675981,45.568412,-122.675981,45.568412",
     "geom:latitude":45.568412,
     "geom:longitude":-122.675981,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893195
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"c3f8af7fcec6e4067b09d100853b6ccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":403973813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":403973813
         }
     ],
     "wof:id":403973813,
-    "wof:lastmodified":1466768683,
+    "wof:lastmodified":1486769698,
     "wof:name":"Going Nowhere Productions",
-    "wof:parent_id":85893195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

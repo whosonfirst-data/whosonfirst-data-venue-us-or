@@ -2,9 +2,14 @@
   "id": 789976045,
   "type": "Feature",
   "properties": {
+    "addr:full":"3014 NW Monte Vista Ter Portland OR 97210",
+    "addr:housenumber":"3014",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Monte Vista Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712134,45.526277,-122.712134,45.526277",
     "geom:latitude":45.526277,
     "geom:longitude":-122.712134,
@@ -42,12 +47,14 @@
     "sg:website":"http://www.catwalksolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +69,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":789976045
         }
     ],
     "wof:id":789976045,
-    "wof:lastmodified":1466772790,
+    "wof:lastmodified":1486773704,
     "wof:name":"Catwalk Solutions",
-    "wof:parent_id":85871503,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

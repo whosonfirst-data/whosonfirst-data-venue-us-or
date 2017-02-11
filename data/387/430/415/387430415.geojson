@@ -2,9 +2,14 @@
   "id": 387430415,
   "type": "Feature",
   "properties": {
+    "addr:full":"12937 NE Airport Way Portland OR 97220",
+    "addr:housenumber":"12937",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532557,45.565446,-122.532557,45.565446",
     "geom:latitude":45.565446,
     "geom:longitude":-122.532557,
@@ -26,11 +31,13 @@
     "sg:website":"www.ebbradley.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85811205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"10e0fdf2d6e28a309b6e6bd27a0b83cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85811205,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":387430415
         }
     ],
     "wof:id":387430415,
-    "wof:lastmodified":1466772772,
+    "wof:lastmodified":1486771463,
     "wof:name":"E B Bradley Co",
-    "wof:parent_id":85811205,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

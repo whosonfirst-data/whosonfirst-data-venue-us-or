@@ -2,9 +2,14 @@
   "id": 789976121,
   "type": "Feature",
   "properties": {
+    "addr:full":"2187 NW Reed St Portland OR 97210",
+    "addr:housenumber":"2187",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Reed St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696701,45.54007,-122.696701,45.54007",
     "geom:latitude":45.54007,
     "geom:longitude":-122.696701,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.gangoeditions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789976121
         }
     ],
     "wof:id":789976121,
-    "wof:lastmodified":1466772793,
+    "wof:lastmodified":1486771235,
     "wof:name":"Gango Editions, Inc.",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

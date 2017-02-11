@@ -2,9 +2,14 @@
   "id": 370285499,
   "type": "Feature",
   "properties": {
+    "addr:full":"8070 NE Airtrans Way Portland OR 97218",
+    "addr:housenumber":"8070",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Airtrans Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605944,45.583463,-122.605944,45.583463",
     "geom:latitude":45.583463,
     "geom:longitude":-122.605944,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871491
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"85ffc8e2877f384c3af823575a9c575d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871491,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":370285499
         }
     ],
     "wof:id":370285499,
-    "wof:lastmodified":1466769557,
+    "wof:lastmodified":1486772343,
     "wof:name":"Horizon Air Industries Inc",
-    "wof:parent_id":85871491,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

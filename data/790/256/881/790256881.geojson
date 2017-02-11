@@ -2,9 +2,14 @@
   "id": 790256881,
   "type": "Feature",
   "properties": {
+    "addr:full":"12105 SE Holgate Boulevard Apt 134 Portland OR 97266",
+    "addr:housenumber":"134",
+    "addr:postcode":"12105;97266",
+    "addr:street":"Se Holgate Boulevard Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.538497,45.489639,-122.538497,45.489639",
     "geom:latitude":45.489639,
     "geom:longitude":-122.538497,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790256881
         }
     ],
     "wof:id":790256881,
-    "wof:lastmodified":1466772485,
+    "wof:lastmodified":1486771939,
     "wof:name":"Holgate Commons Apartments",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

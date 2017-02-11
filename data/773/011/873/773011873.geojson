@@ -2,9 +2,14 @@
   "id": 773011873,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 SW 6th Ave Portland OR 97204",
+    "addr:housenumber":"514",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678152,45.519809,-122.678152,45.519809",
     "geom:latitude":45.519809,
     "geom:longitude":-122.678152,
@@ -33,12 +38,13 @@
     "sg:website":"www.columbiacoin.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773011873
         }
     ],
     "wof:id":773011873,
-    "wof:lastmodified":1466769996,
+    "wof:lastmodified":1486769986,
     "wof:name":"Columbia Coin Co Inc",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

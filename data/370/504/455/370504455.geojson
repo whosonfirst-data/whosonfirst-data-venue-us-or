@@ -2,9 +2,14 @@
   "id": 370504455,
   "type": "Feature",
   "properties": {
+    "addr:full":"4310 SW Fairview Circus Portland OR 97221",
+    "addr:housenumber":"4310",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Fairview Circus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722881,45.515843,-122.722881,45.515843",
     "geom:latitude":45.515843,
     "geom:longitude":-122.722881,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d1ce63085fcfc94c03849f20af2e0135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370504455,
-    "wof:lastmodified":1466772363,
+    "wof:lastmodified":1486772022,
     "wof:name":"Early Family Foundation",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

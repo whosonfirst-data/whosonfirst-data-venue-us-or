@@ -2,9 +2,14 @@
   "id": 773653237,
   "type": "Feature",
   "properties": {
+    "addr:full":"5721 N Bowdoin St Portland OR 97203",
+    "addr:housenumber":"5721",
+    "addr:postcode":"97203",
+    "addr:street":"N Bowdoin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728723,45.583301,-122.728723,45.583301",
     "geom:latitude":45.583301,
     "geom:longitude":-122.728723,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536113,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893225,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536113,
             "region_id":85688513,
             "venue_id":773653237
         }
     ],
     "wof:id":773653237,
-    "wof:lastmodified":1466775629,
+    "wof:lastmodified":1486772144,
     "wof:name":"Take A Peek",
-    "wof:parent_id":85893225,
+    "wof:parent_id":420536113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

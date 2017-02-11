@@ -2,9 +2,14 @@
   "id": 773665617,
   "type": "Feature",
   "properties": {
+    "addr:full":"3145 SW Maricara St Portland OR 97219",
+    "addr:housenumber":"3145",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Maricara St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711766,45.44925,-122.711766,45.44925",
     "geom:latitude":45.44925,
     "geom:longitude":-122.711766,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":773665617
         }
     ],
     "wof:id":773665617,
-    "wof:lastmodified":1466775666,
+    "wof:lastmodified":1486764564,
     "wof:name":"Streit Smart Consulting Inc",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790057531,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 N Bridgeton Rd Portland OR 97217",
+    "addr:housenumber":"531",
+    "addr:postcode":"97217",
+    "addr:street":"N Bridgeton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672542,45.603787,-122.672542,45.603787",
     "geom:latitude":45.603787,
     "geom:longitude":-122.672542,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.portlandinspector.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yNpG3yyM5m8xkPmzJkwvE_45.603787_-122.672542@1303263420"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462592798,
     "wof:geomhash":"47ca3f3b17feb64778d0e010442e8f1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":790057531
+        }
+    ],
     "wof:id":790057531,
-    "wof:lastmodified":1466768236,
+    "wof:lastmodified":1486769367,
     "wof:name":"Pacific NW Home Inspections",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

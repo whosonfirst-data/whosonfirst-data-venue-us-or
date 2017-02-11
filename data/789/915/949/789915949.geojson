@@ -2,9 +2,14 @@
   "id": 789915949,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 SW Washington, Suite 750 Portland OR 97205",
+    "addr:housenumber":"720;suite 750",
+    "addr:postcode":"97205",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679522,45.520616,-122.679522,45.520616",
     "geom:latitude":45.520616,
     "geom:longitude":-122.679522,
@@ -33,12 +38,13 @@
     "sg:website":"www.suephillipslaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789915949
         }
     ],
     "wof:id":789915949,
-    "wof:lastmodified":1466772062,
+    "wof:lastmodified":1486770092,
     "wof:name":"Law Office of Susan Phillips Hammann",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

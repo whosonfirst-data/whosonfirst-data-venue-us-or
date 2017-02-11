@@ -2,9 +2,14 @@
   "id": 790177911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 NW Skyline Blvd Portland OR 97229",
+    "addr:housenumber":"4101",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.775389,45.552702,-122.775389,45.552702",
     "geom:latitude":45.552702,
     "geom:longitude":-122.775389,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +45,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":790177911
         }
     ],
     "wof:id":790177911,
-    "wof:lastmodified":1466770912,
+    "wof:lastmodified":1486772185,
     "wof:name":"Skyline Memorial Gardens",
-    "wof:parent_id":85893259,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

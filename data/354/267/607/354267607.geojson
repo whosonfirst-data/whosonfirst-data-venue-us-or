@@ -2,9 +2,14 @@
   "id": 354267607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 NE Marine Dr Portland OR 97211",
+    "addr:housenumber":"1825",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646032,45.600339,-122.646032,45.600339",
     "geom:latitude":45.600339,
     "geom:longitude":-122.646032,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"1784b48a2b485be4d39a6414b40be4b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":354267607
         }
     ],
     "wof:id":354267607,
-    "wof:lastmodified":1466768931,
+    "wof:lastmodified":1486771625,
     "wof:name":"Gillage Gearhearts Little Bch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

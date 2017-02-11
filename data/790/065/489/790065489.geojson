@@ -2,9 +2,14 @@
   "id": 790065489,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 N Lombard St Portland OR 97217",
+    "addr:housenumber":"835",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675533,45.577472,-122.675533,45.577472",
     "geom:latitude":45.577472,
     "geom:longitude":-122.675533,
@@ -26,12 +31,13 @@
     "sg:website":"www.eagleportland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790065489
         }
     ],
     "wof:id":790065489,
-    "wof:lastmodified":1466768436,
+    "wof:lastmodified":1486768937,
     "wof:name":"Eagle Portland",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

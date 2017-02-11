@@ -2,9 +2,14 @@
   "id": 370301303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 SE 32nd Pl Portland OR 97214",
+    "addr:housenumber":"1601",
+    "addr:postcode":"97214",
+    "addr:street":"Se 32Nd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631659,45.512063,-122.631659,45.512063",
     "geom:latitude":45.512063,
     "geom:longitude":-122.631659,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"ad9e78ad7ecffd0f86eb6fb93869cb61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370301303
         }
     ],
     "wof:id":370301303,
-    "wof:lastmodified":1466769837,
+    "wof:lastmodified":1486773674,
     "wof:name":"J H Marsh McLennan",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

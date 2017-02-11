@@ -2,9 +2,14 @@
   "id": 790040545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 SE 50th Ave Portland OR 97215",
+    "addr:housenumber":"2315",
+    "addr:postcode":"97215",
+    "addr:street":"Se 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611247,45.506465,-122.611247,45.506465",
     "geom:latitude":45.506465,
     "geom:longitude":-122.611247,
@@ -32,13 +37,13 @@
     "sg:website":"http://www.rsafoodservicedesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":790040545
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871465,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790040545
         }
     ],
     "wof:id":790040545,
-    "wof:lastmodified":1466767875,
+    "wof:lastmodified":1486771810,
     "wof:name":"Ray Soucie Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

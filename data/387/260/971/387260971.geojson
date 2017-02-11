@@ -2,9 +2,14 @@
   "id": 387260971,
   "type": "Feature",
   "properties": {
+    "addr:full":"8113 NE Holman St Portland OR 97218",
+    "addr:housenumber":"8113",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Holman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579199,45.568349,-122.579199,45.568349",
     "geom:latitude":45.568349,
     "geom:longitude":-122.579199,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"a6c2ddbf827ef01c47d00bbebe9769ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387260971
         }
     ],
     "wof:id":387260971,
-    "wof:lastmodified":1466771687,
+    "wof:lastmodified":1486771601,
     "wof:name":"Accord Construction Inc",
-    "wof:parent_id":85819307,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773820995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1975 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"1975",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678533,45.508783,-122.678533,45.508783",
     "geom:latitude":45.508783,
     "geom:longitude":-122.678533,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773820995
         }
     ],
     "wof:id":773820995,
-    "wof:lastmodified":1466776084,
+    "wof:lastmodified":1486764649,
     "wof:name":"Hot Pot City",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

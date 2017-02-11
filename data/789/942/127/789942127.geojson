@@ -2,9 +2,14 @@
   "id": 789942127,
   "type": "Feature",
   "properties": {
+    "addr:full":"6011 SE 72nd Avenue Portland OR 97206",
+    "addr:housenumber":"6011",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589142,45.479131,-122.589142,45.479131",
     "geom:latitude":45.479131,
     "geom:longitude":-122.589142,
@@ -34,12 +39,13 @@
     "sg:website":"www.hisbakery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789942127
         }
     ],
     "wof:id":789942127,
-    "wof:lastmodified":1466772281,
+    "wof:lastmodified":1486771800,
     "wof:name":"His Bakery",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

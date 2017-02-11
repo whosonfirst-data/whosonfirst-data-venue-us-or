@@ -2,9 +2,14 @@
   "id": 790042487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 SE Stark St Portland OR 97215",
+    "addr:housenumber":"4500",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616045,45.519197,-122.616045,45.519197",
     "geom:latitude":45.519197,
     "geom:longitude":-122.616045,
@@ -39,12 +44,14 @@
     "sg:website":"www.belmont-station.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +66,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790042487
         }
     ],
     "wof:id":790042487,
-    "wof:lastmodified":1466767895,
+    "wof:lastmodified":1486773378,
     "wof:name":"Belmont Station",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354280011,
   "type": "Feature",
   "properties": {
+    "addr:full":"8880 N Columbia Blvd Portland OR 97203",
+    "addr:housenumber":"8880",
+    "addr:postcode":"97203",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.750067,45.603916,-122.750067,45.603916",
     "geom:latitude":45.603916,
     "geom:longitude":-122.750067,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"daa3d5dab0a651e3d7e7a500b0486602",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":354280011
         }
     ],
     "wof:id":354280011,
-    "wof:lastmodified":1466771462,
+    "wof:lastmodified":1486765962,
     "wof:name":"Raymund Jones Home Inspector",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

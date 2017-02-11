@@ -2,9 +2,14 @@
   "id": 370965333,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 SE Glenwood St Portland OR 97202",
+    "addr:housenumber":"4010",
+    "addr:postcode":"97202",
+    "addr:street":"Se Glenwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620687,45.47461,-122.620687,45.47461",
     "geom:latitude":45.47461,
     "geom:longitude":-122.620687,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e5a290cc39a04ff8ed042b1f67d1e0d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85817069,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":370965333
         }
     ],
     "wof:id":370965333,
-    "wof:lastmodified":1466774997,
+    "wof:lastmodified":1486769924,
     "wof:name":"Sentaur Inc",
-    "wof:parent_id":85817069,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

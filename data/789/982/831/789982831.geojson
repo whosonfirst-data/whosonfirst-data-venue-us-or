@@ -2,9 +2,14 @@
   "id": 789982831,
   "type": "Feature",
   "properties": {
+    "addr:full":"3556 NW Front Ave Ste 360 Portland OR 97210",
+    "addr:housenumber":"3556",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Front Ave Ste 360",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705615,45.548328,-122.705615,45.548328",
     "geom:latitude":45.548328,
     "geom:longitude":-122.705615,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.ssamarine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789982831
         }
     ],
     "wof:id":789982831,
-    "wof:lastmodified":1466773012,
+    "wof:lastmodified":1486771120,
     "wof:name":"Ssa Marine",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403879073,
   "type": "Feature",
   "properties": {
+    "addr:full":"14972 NE Rose Pkwy Portland OR 97230",
+    "addr:housenumber":"14972",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Rose Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508766,45.544982,-122.508766,45.544982",
     "geom:latitude":45.544982,
     "geom:longitude":-122.508766,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b5bf703f44793f2000a803fc72517166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":403879073
         }
     ],
     "wof:id":403879073,
-    "wof:lastmodified":1466771504,
+    "wof:lastmodified":1486772080,
     "wof:name":"Jasper Heights Condo Assn",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

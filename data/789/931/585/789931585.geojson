@@ -2,9 +2,14 @@
   "id": 789931585,
   "type": "Feature",
   "properties": {
+    "addr:full":"6911 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6911",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.592497,45.487868,-122.592497,45.487868",
     "geom:latitude":45.487868,
     "geom:longitude":-122.592497,
@@ -39,12 +44,13 @@
     "sg:website":"N/A",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893185,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789931585
         }
     ],
     "wof:id":789931585,
-    "wof:lastmodified":1466772170,
+    "wof:lastmodified":1486771790,
     "wof:name":"Russian Elegance Food",
-    "wof:parent_id":85893185,
+    "wof:parent_id":85893209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

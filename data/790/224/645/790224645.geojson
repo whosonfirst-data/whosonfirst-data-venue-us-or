@@ -2,9 +2,14 @@
   "id": 790224645,
   "type": "Feature",
   "properties": {
+    "addr:full":"13333 SE Mill St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"13333;97233",
+    "addr:street":"Se Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.525705,45.510472,-122.525705,45.510472",
     "geom:latitude":45.510472,
     "geom:longitude":-122.525705,
@@ -26,12 +31,13 @@
     "sg:website":"www.angels-nest.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790224645
         }
     ],
     "wof:id":790224645,
-    "wof:lastmodified":1466772092,
+    "wof:lastmodified":1486767053,
     "wof:name":"Angel's Nest Bed & Breakfast",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403747201,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 NW Industrial St Portland OR 97210",
+    "addr:housenumber":"2625",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Industrial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70749,45.54121,-122.70749,45.54121",
     "geom:latitude":45.54121,
     "geom:longitude":-122.70749,
@@ -31,11 +36,14 @@
     "sg:website":"www.pinzgauers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,30 @@
     "wof:geomhash":"89b192e71b7fa6fd692fb36ca60901e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":403747201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":403747201
         }
     ],
     "wof:id":403747201,
-    "wof:lastmodified":1466768811,
+    "wof:lastmodified":1486771091,
     "wof:name":"Griffith Rubber Mills",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

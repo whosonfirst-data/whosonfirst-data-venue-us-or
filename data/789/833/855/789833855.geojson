@@ -2,9 +2,14 @@
   "id": 789833855,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 SW Clay St Portland OR 97201",
+    "addr:housenumber":"516",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680631,45.513515,-122.680631,45.513515",
     "geom:latitude":45.513515,
     "geom:longitude":-122.680631,
@@ -32,12 +37,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/649902790/portland_or/law_office_of_chris_roy_llc.html?publisher=yellowpages&reference_id=7&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789833855
         }
     ],
     "wof:id":789833855,
-    "wof:lastmodified":1466769833,
+    "wof:lastmodified":1486770252,
     "wof:name":"Law Office of Chris Roy LLC",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

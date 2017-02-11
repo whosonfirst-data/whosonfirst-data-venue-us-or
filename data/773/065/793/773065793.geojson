@@ -2,9 +2,14 @@
   "id": 773065793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Orchard Hill Pl Lake Oswego OR 97035",
+    "addr:housenumber":"2911",
+    "addr:postcode":"97035",
+    "addr:street":"Orchard Hill Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706808,45.436131,-122.706808,45.436131",
     "geom:latitude":45.436131,
     "geom:longitude":-122.706808,
@@ -28,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715835,
         102082213,
         420536081
@@ -46,6 +55,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":773065793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715835,
             "neighbourhood_id":420536081,
@@ -54,9 +73,9 @@
         }
     ],
     "wof:id":773065793,
-    "wof:lastmodified":1466771352,
+    "wof:lastmodified":1486772263,
     "wof:name":"Safe Child Foundation",
-    "wof:parent_id":420536081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

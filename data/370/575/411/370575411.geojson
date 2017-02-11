@@ -2,9 +2,14 @@
   "id": 370575411,
   "type": "Feature",
   "properties": {
+    "addr:full":"12132 SE Foster Pl Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"12132;97266",
+    "addr:street":"Se Foster Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540676,45.475873,-122.540676,45.475873",
     "geom:latitude":45.475873,
     "geom:longitude":-122.540676,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"6b1d4ca5a4c65faa4c01d3c496ee8f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":370575411
         }
     ],
     "wof:id":370575411,
-    "wof:lastmodified":1466772720,
+    "wof:lastmodified":1486772203,
     "wof:name":"Esi Communications",
-    "wof:parent_id":85821523,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

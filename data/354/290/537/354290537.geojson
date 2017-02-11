@@ -2,9 +2,14 @@
   "id": 354290537,
   "type": "Feature",
   "properties": {
+    "addr:full":"5706 N Maryland Ave Portland OR 97217",
+    "addr:housenumber":"5706",
+    "addr:postcode":"97217",
+    "addr:street":"N Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681114,45.564752,-122.681114,45.564752",
     "geom:latitude":45.564752,
     "geom:longitude":-122.681114,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"f1bdb750030c8a184181cec65193788f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":354290537
         }
     ],
     "wof:id":354290537,
-    "wof:lastmodified":1466769399,
+    "wof:lastmodified":1486771872,
     "wof:name":"Red Salmon Catering",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

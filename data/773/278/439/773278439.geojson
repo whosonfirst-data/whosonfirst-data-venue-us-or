@@ -2,9 +2,14 @@
   "id": 773278439,
   "type": "Feature",
   "properties": {
+    "addr:full":"5510 NE Courier Ct Portland OR 97218",
+    "addr:housenumber":"5510",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Courier Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608587,45.583279,-122.608587,45.583279",
     "geom:latitude":45.583279,
     "geom:longitude":-122.608587,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871491
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871491,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":773278439
         }
     ],
     "wof:id":773278439,
-    "wof:lastmodified":1466772574,
+    "wof:lastmodified":1486772332,
     "wof:name":"Bax Global PDX",
-    "wof:parent_id":85871491,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790263965,
   "type": "Feature",
   "properties": {
+    "addr:full":"6011 SE 92nd Ave Portland OR 97266",
+    "addr:housenumber":"6011",
+    "addr:postcode":"97266",
+    "addr:street":"Se 92Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.568612,45.479038,-122.568612,45.479038",
     "geom:latitude":45.479038,
     "geom:longitude":-122.568612,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790263965
         }
     ],
     "wof:id":790263965,
-    "wof:lastmodified":1466772732,
+    "wof:lastmodified":1486766587,
     "wof:name":"Tidee-Didee Diaper Svc",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

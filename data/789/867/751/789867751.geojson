@@ -2,9 +2,14 @@
   "id": 789867751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2802 SE Steele St Ste 3 Portland OR 97202",
+    "addr:housenumber":"2802",
+    "addr:postcode":"97202",
+    "addr:street":"Se Steele St Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637443,45.484699,-122.637443,45.484699",
     "geom:latitude":45.484699,
     "geom:longitude":-122.637443,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.localstdtesting.com/11",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789867751
         }
     ],
     "wof:id":789867751,
-    "wof:lastmodified":1466771174,
+    "wof:lastmodified":1486770982,
     "wof:name":"Local HIV / STD Testing of Portland 97202",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

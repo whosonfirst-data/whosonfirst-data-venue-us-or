@@ -2,9 +2,14 @@
   "id": 387735571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2850 NW Savier St Portland OR 97210",
+    "addr:housenumber":"2850",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Savier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710176,45.534502,-122.710176,45.534502",
     "geom:latitude":45.534502,
     "geom:longitude":-122.710176,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"47437bba62c332b440fe00d4b1f33736",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387735571
         }
     ],
     "wof:id":387735571,
-    "wof:lastmodified":1466774712,
+    "wof:lastmodified":1486763051,
     "wof:name":"Zone Portland",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

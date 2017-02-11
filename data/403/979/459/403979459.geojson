@@ -2,9 +2,14 @@
   "id": 403979459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1723 SW Joshua St Portland OR 97219",
+    "addr:housenumber":"1723",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Joshua St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695389,45.438073,-122.695389,45.438073",
     "geom:latitude":45.438073,
     "geom:longitude":-122.695389,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"360fda7fb3a412c6b1fd061a69ef9f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
             "region_id":85688513,
             "venue_id":403979459
         }
     ],
     "wof:id":403979459,
-    "wof:lastmodified":1466768783,
+    "wof:lastmodified":1486772261,
     "wof:name":"Advanced Power Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

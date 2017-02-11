@@ -2,9 +2,14 @@
   "id": 387058701,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 NW Everett St Portland OR 97209",
+    "addr:housenumber":"830",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Everett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679949,45.525065,-122.679949,45.525065",
     "geom:latitude":45.525065,
     "geom:longitude":-122.679949,
@@ -29,10 +34,13 @@
     "sg:website":"www.officesinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
+        85688513,
         85867303
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"378ca55d3b4706e38cf6c1d6ae64e162",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
+            "region_id":85688513,
+            "venue_id":387058701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":387058701
         }
     ],
     "wof:id":387058701,
-    "wof:lastmodified":1466768119,
+    "wof:lastmodified":1486770341,
     "wof:name":"Offices Inc",
-    "wof:parent_id":85867303,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

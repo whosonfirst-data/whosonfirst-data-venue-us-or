@@ -2,9 +2,14 @@
   "id": 371188591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2275 NW Johnson St Portland OR 97210",
+    "addr:housenumber":"2275",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697485,45.528466,-122.697485,45.528466",
     "geom:latitude":45.528466,
     "geom:longitude":-122.697485,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"8f9062feb1cb4bf182d134e3108d8fc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":371188591
         }
     ],
     "wof:id":371188591,
-    "wof:lastmodified":1466770453,
+    "wof:lastmodified":1486773777,
     "wof:name":"Conrad Stevens For Hair",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

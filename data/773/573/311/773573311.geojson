@@ -2,9 +2,14 @@
   "id": 773573311,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 SW 11th Ave Portland OR 97205",
+    "addr:housenumber":"614",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683016,45.520351,-122.683016,45.520351",
     "geom:latitude":45.520351,
     "geom:longitude":-122.683016,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773573311
         }
     ],
     "wof:id":773573311,
-    "wof:lastmodified":1466775345,
+    "wof:lastmodified":1486769999,
     "wof:name":"Sas Institute Inc",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

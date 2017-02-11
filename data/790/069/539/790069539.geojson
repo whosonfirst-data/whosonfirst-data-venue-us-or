@@ -2,9 +2,14 @@
   "id": 790069539,
   "type": "Feature",
   "properties": {
+    "addr:full":"6750 NE Emerson St Portland OR 97218",
+    "addr:housenumber":"6750",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Emerson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.593379,45.561086,-122.593379,45.561086",
     "geom:latitude":45.561086,
     "geom:longitude":-122.593379,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790069539
         }
     ],
     "wof:id":790069539,
-    "wof:lastmodified":1466768528,
+    "wof:lastmodified":1486768397,
     "wof:name":"Enquist William",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

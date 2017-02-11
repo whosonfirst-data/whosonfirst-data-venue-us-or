@@ -2,9 +2,14 @@
   "id": 789589475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2878 SE Gladstone St Portland OR 97202",
+    "addr:housenumber":"2878",
+    "addr:postcode":"97202",
+    "addr:street":"Se Gladstone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636002,45.493301,-122.636002,45.493301",
     "geom:latitude":45.493301,
     "geom:longitude":-122.636002,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789589475
         }
     ],
     "wof:id":789589475,
-    "wof:lastmodified":1466768112,
+    "wof:lastmodified":1486772136,
     "wof:name":"Yoko's Japanese Restaurant",
-    "wof:parent_id":85893197,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

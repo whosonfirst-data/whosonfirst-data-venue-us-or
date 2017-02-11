@@ -2,9 +2,14 @@
   "id": 789874717,
   "type": "Feature",
   "properties": {
+    "addr:full":"7741 N Lombard Street Portland OR 97203",
+    "addr:housenumber":"7741",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.745307,45.588581,-122.745307,45.588581",
     "geom:latitude":45.588581,
     "geom:longitude":-122.745307,
@@ -25,7 +30,15 @@
     "sg:province":"OR",
     "sg:website":"www.honda.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U579UhDKRGnOfGtB1Ze8V_45.588581_-122.745307@1303263412"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462591222,
     "wof:geomhash":"51a8f52457b549390f7e0ae2bb55b286",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":789874717
+        }
+    ],
     "wof:id":789874717,
-    "wof:lastmodified":1466771435,
+    "wof:lastmodified":1486769711,
     "wof:name":"Honda of St Johns",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

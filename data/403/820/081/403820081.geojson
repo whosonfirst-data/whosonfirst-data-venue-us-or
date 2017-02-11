@@ -2,9 +2,14 @@
   "id": 403820081,
   "type": "Feature",
   "properties": {
+    "addr:full":"3570 SW Troy St Portland OR 97219",
+    "addr:housenumber":"3570",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Troy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713422,45.468162,-122.713422,45.468162",
     "geom:latitude":45.468162,
     "geom:longitude":-122.713422,
@@ -26,11 +31,13 @@
     "sg:website":"www.portlandhadassah.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"f4d63ca255da5c39471c5ede1e04e9ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":403820081
         }
     ],
     "wof:id":403820081,
-    "wof:lastmodified":1466770096,
+    "wof:lastmodified":1486769636,
     "wof:name":"Hadassah Organization",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

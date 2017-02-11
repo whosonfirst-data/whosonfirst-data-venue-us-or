@@ -2,9 +2,14 @@
   "id": 387753355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 SE Market St Portland OR 97214",
+    "addr:housenumber":"1123",
+    "addr:postcode":"97214",
+    "addr:street":"Se Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653845,45.510861,-122.653845,45.510861",
     "geom:latitude":45.510861,
     "geom:longitude":-122.653845,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"5d5b878f9ecb820eb4a86ba6dced377a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387753355
         }
     ],
     "wof:id":387753355,
-    "wof:lastmodified":1466774795,
+    "wof:lastmodified":1486773526,
     "wof:name":"Zeno",
-    "wof:parent_id":85828991,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

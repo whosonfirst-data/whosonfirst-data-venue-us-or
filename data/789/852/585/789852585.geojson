@@ -2,9 +2,14 @@
   "id": 789852585,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 SE Division Pl Portland OR 97202",
+    "addr:housenumber":"820",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657582,45.504875,-122.657582,45.504875",
     "geom:latitude":45.504875,
     "geom:longitude":-122.657582,
@@ -36,12 +41,14 @@
     "sg:website":"http://www.DesksIncPDX.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789852585
         }
     ],
     "wof:id":789852585,
-    "wof:lastmodified":1466770604,
+    "wof:lastmodified":1486773438,
     "wof:name":"Desks Inc.",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370892379,
   "type": "Feature",
   "properties": {
+    "addr:full":"9528 NE Wygant St Portland OR 97220",
+    "addr:housenumber":"9528",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Wygant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.564064,45.557121,-122.564064,45.557121",
     "geom:latitude":45.557121,
     "geom:longitude":-122.564064,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893247
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"030838d67bbeb73130b59157778a798f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85840687,
+            "region_id":85688513,
+            "venue_id":370892379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":370892379
         }
     ],
     "wof:id":370892379,
-    "wof:lastmodified":1466774512,
+    "wof:lastmodified":1486769694,
     "wof:name":"D&G Painting",
-    "wof:parent_id":85893247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

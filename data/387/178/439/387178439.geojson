@@ -2,9 +2,14 @@
   "id": 387178439,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 SE Stark St Portland OR 97214",
+    "addr:housenumber":"640",
+    "addr:postcode":"97214",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650605,45.519257,-122.650605,45.519257",
     "geom:latitude":45.519257,
     "geom:longitude":-122.650605,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"58c20ad0b41bbebac257fe22c1a79634",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871515,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387178439
         }
     ],
     "wof:id":387178439,
-    "wof:lastmodified":1466770340,
+    "wof:lastmodified":1486773377,
     "wof:name":"Kennedy Rentals Inc",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

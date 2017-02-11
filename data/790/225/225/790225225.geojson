@@ -2,9 +2,14 @@
   "id": 790225225,
   "type": "Feature",
   "properties": {
+    "addr:full":"2403 SE 143rd Ave Portland OR 97233",
+    "addr:housenumber":"2403",
+    "addr:postcode":"97233",
+    "addr:street":"Se 143Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.51561,45.504914,-122.51561,45.504914",
     "geom:latitude":45.504914,
     "geom:longitude":-122.51561,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790225225
         }
     ],
     "wof:id":790225225,
-    "wof:lastmodified":1466772219,
+    "wof:lastmodified":1486771540,
     "wof:name":"Nw Book Works",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387586757,
   "type": "Feature",
   "properties": {
+    "addr:full":"5930 SW Nevada Ct Portland OR 97219",
+    "addr:housenumber":"5930",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Nevada Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.735458,45.473028,-122.735458,45.473028",
     "geom:latitude":45.473028,
     "geom:longitude":-122.735458,
@@ -30,11 +35,13 @@
     "sg:website":"www.regenesis.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5a155503f51c51e0d157df219383f8b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":387586757
         }
     ],
     "wof:id":387586757,
-    "wof:lastmodified":1466773849,
+    "wof:lastmodified":1486764648,
     "wof:name":"Regenesis",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

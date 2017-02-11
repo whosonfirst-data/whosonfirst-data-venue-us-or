@@ -2,9 +2,14 @@
   "id": 789857059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 S.W. Taylor Street Suite 230 Portland OR 97202",
+    "addr:housenumber":"1020",
+    "addr:postcode":"97202",
+    "addr:street":"S.W. Taylor Street Suite 230",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683442,45.518614,-122.683442,45.518614",
     "geom:latitude":45.518614,
     "geom:longitude":-122.683442,
@@ -26,12 +31,13 @@
     "sg:website":"www.lojjr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789857059
         }
     ],
     "wof:id":789857059,
-    "wof:lastmodified":1466770785,
+    "wof:lastmodified":1486764819,
     "wof:name":"Law Offices of Joseph Justin Rollin",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789916011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2898 SW Champlain Dr Portland OR 97205",
+    "addr:housenumber":"2898",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Champlain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709412,45.522362,-122.709412,45.522362",
     "geom:latitude":45.522362,
     "geom:longitude":-122.709412,
@@ -29,12 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513,
+        85871473,
+        1108714057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871503,
+            "region_id":85688513,
+            "venue_id":789916011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":789916011
         }
     ],
     "wof:id":789916011,
-    "wof:lastmodified":1466772303,
+    "wof:lastmodified":1486770892,
     "wof:name":"Lifecourse Coaching & Consulting",
-    "wof:parent_id":85871503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370427771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 NE Glisan St Portland OR 97232",
+    "addr:housenumber":"2710",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637261,45.526391,-122.637261,45.526391",
     "geom:latitude":45.526391,
     "geom:longitude":-122.637261,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:brand_id":420573779,
     "wof:breaches":[],
@@ -43,19 +50,20 @@
     "wof:geomhash":"79d14d4a61f88ca254926b0562bab33f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":370427771
         }
     ],
     "wof:id":370427771,
-    "wof:lastmodified":1466771727,
+    "wof:lastmodified":1486771029,
     "wof:name":"Edward Jones Co",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

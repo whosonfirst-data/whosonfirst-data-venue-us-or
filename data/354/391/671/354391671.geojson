@@ -2,9 +2,14 @@
   "id": 354391671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 NE 65th Ave Portland OR 97213",
+    "addr:housenumber":"1725",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.596777,45.535982,-122.596777,45.535982",
     "geom:latitude":45.535982,
     "geom:longitude":-122.596777,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"702a3d14ce3d34547393198a43f1c444",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":354391671
         }
     ],
     "wof:id":354391671,
-    "wof:lastmodified":1466771162,
+    "wof:lastmodified":1486770382,
     "wof:name":"Eric Leatha Rpt",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

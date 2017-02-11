@@ -2,9 +2,14 @@
   "id": 387431985,
   "type": "Feature",
   "properties": {
+    "addr:full":"6717 N Borthwick Ave Portland OR 97217",
+    "addr:housenumber":"6717",
+    "addr:postcode":"97217",
+    "addr:street":"N Borthwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673872,45.570427,-122.673872,45.570427",
     "geom:latitude":45.570427,
     "geom:longitude":-122.673872,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"98b794abc37d64d6ed8f60a01560cffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":387431985
         }
     ],
     "wof:id":387431985,
-    "wof:lastmodified":1466772665,
+    "wof:lastmodified":1486768800,
     "wof:name":"Esque Design Inc",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

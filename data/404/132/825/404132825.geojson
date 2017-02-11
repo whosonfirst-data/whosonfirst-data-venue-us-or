@@ -2,9 +2,14 @@
   "id": 404132825,
   "type": "Feature",
   "properties": {
+    "addr:full":"6719 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"6719",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661443,45.570464,-122.661443,45.570464",
     "geom:latitude":45.570464,
     "geom:longitude":-122.661443,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893263
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"421be7d8f1b38e9ea1c5b53ce3d945d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":404132825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":404132825
         }
     ],
     "wof:id":404132825,
-    "wof:lastmodified":1466771232,
+    "wof:lastmodified":1486769701,
     "wof:name":"Scvp Inc",
-    "wof:parent_id":85893263,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387440247,
   "type": "Feature",
   "properties": {
+    "addr:full":"6541 SE 16th Ave Portland OR 97202",
+    "addr:housenumber":"6541",
+    "addr:postcode":"97202",
+    "addr:street":"Se 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650093,45.475445,-122.650093,45.475445",
     "geom:latitude":45.475445,
     "geom:longitude":-122.650093,
@@ -30,11 +35,13 @@
     "sg:website":"www.garywilsonphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"8dfdbb41287f3a0b60f878a4c4255fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387440247
         }
     ],
     "wof:id":387440247,
-    "wof:lastmodified":1466772722,
+    "wof:lastmodified":1486766720,
     "wof:name":"Gary Wilson Photo/Graphic",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

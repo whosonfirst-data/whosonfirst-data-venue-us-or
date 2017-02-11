@@ -2,9 +2,14 @@
   "id": 354410503,
   "type": "Feature",
   "properties": {
+    "addr:full":"4717 NW Barnes Rd Portland OR 97210",
+    "addr:housenumber":"4717",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Barnes Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723319,45.521515,-122.723319,45.521515",
     "geom:latitude":45.521515,
     "geom:longitude":-122.723319,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871503,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7811f1fd0809a52acf20e6c21301d166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":354410503
         }
     ],
     "wof:id":354410503,
-    "wof:lastmodified":1466767186,
+    "wof:lastmodified":1486763320,
     "wof:name":"Charles G Bellville MD",
     "wof:parent_id":85871503,
     "wof:placetype":"venue",

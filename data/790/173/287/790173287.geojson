@@ -2,9 +2,14 @@
   "id": 790173287,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Graham St Ste 525 Portland OR 97227",
+    "addr:housenumber":"501",
+    "addr:postcode":"97227",
+    "addr:street":"N Graham St Ste 525",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672997,45.550201,-122.672997,45.550201",
     "geom:latitude":45.550201,
     "geom:longitude":-122.672997,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790173287
         }
     ],
     "wof:id":790173287,
-    "wof:lastmodified":1466770705,
+    "wof:lastmodified":1486771508,
     "wof:name":"Women's Clinic PC",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

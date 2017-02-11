@@ -2,9 +2,14 @@
   "id": 789877459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 SW Fifth Ave Ste 1100 Portland OR 97204",
+    "addr:housenumber":"1001",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Fifth Ave Ste 1100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679745,45.516542,-122.679745,45.516542",
     "geom:latitude":45.516542,
     "geom:longitude":-122.679745,
@@ -30,12 +35,13 @@
     "sg:website":"eportlandcounselor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789877459
         }
     ],
     "wof:id":789877459,
-    "wof:lastmodified":1466771483,
+    "wof:lastmodified":1486764144,
     "wof:name":"ePortland Counselor",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

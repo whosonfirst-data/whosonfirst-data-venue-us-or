@@ -2,9 +2,14 @@
   "id": 790002283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1427 NE Fremont St Portland OR 97212",
+    "addr:housenumber":"1427",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651032,45.548259,-122.651032,45.548259",
     "geom:latitude":45.548259,
     "geom:longitude":-122.651032,
@@ -36,12 +41,13 @@
     "sg:website":"www.irvingtonveterinary.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893235
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893235,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":790002283
         }
     ],
     "wof:id":790002283,
-    "wof:lastmodified":1466767502,
+    "wof:lastmodified":1486771985,
     "wof:name":"Irvington Veterinary Clinic",
-    "wof:parent_id":85893235,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773510843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1203 NE Sumner St Portland OR 97211",
+    "addr:housenumber":"1203",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Sumner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652636,45.560609,-122.652636,45.560609",
     "geom:latitude":45.560609,
     "geom:longitude":-122.652636,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":773510843
         }
     ],
     "wof:id":773510843,
-    "wof:lastmodified":1466775058,
+    "wof:lastmodified":1486772059,
     "wof:name":"Grays Carpet Care",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

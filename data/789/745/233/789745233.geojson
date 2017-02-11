@@ -2,9 +2,14 @@
   "id": 789745233,
   "type": "Feature",
   "properties": {
+    "addr:full":"174th Ave and SE Division Gresham OR 97030",
+    "addr:housenumber":"",
+    "addr:postcode":"97030",
+    "addr:street":"174Th Ave And Se Division",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484664,45.504585,-122.484664,45.504585",
     "geom:latitude":45.504585,
     "geom:longitude":-122.484664,
@@ -25,12 +30,13 @@
     "sg:website":"www.dutchbros.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":789745233
         }
     ],
     "wof:id":789745233,
-    "wof:lastmodified":1466771215,
+    "wof:lastmodified":1486771537,
     "wof:name":"Dutch Brothers",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

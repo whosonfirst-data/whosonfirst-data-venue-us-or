@@ -2,9 +2,14 @@
   "id": 371113455,
   "type": "Feature",
   "properties": {
+    "addr:full":"3442 NE Flanders St Portland OR 97232",
+    "addr:housenumber":"3442",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Flanders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628214,45.525004,-122.628214,45.525004",
     "geom:latitude":45.525004,
     "geom:longitude":-122.628214,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"fa7a5ad55ca6e8491cba69af9b19cfa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":371113455
         }
     ],
     "wof:id":371113455,
-    "wof:lastmodified":1466769026,
+    "wof:lastmodified":1486769533,
     "wof:name":"Purple Cow Retro Exchange",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

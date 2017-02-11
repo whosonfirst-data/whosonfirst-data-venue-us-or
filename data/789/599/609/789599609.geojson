@@ -2,9 +2,14 @@
   "id": 789599609,
   "type": "Feature",
   "properties": {
+    "addr:full":"10121 N Oregonian Ave Portland OR 97203",
+    "addr:housenumber":"10121",
+    "addr:postcode":"97203",
+    "addr:street":"N Oregonian Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732423,45.596236,-122.732423,45.596236",
     "geom:latitude":45.596236,
     "geom:longitude":-122.732423,
@@ -28,7 +33,15 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HTPlNNkEQpokWPiNh13RW_45.596288_-122.732510@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462589065,
     "wof:geomhash":"5ffb46413a58863abd57e183fdeb60d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":789599609
+        }
+    ],
     "wof:id":789599609,
-    "wof:lastmodified":1466768340,
+    "wof:lastmodified":1486769760,
     "wof:name":"All Vac Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

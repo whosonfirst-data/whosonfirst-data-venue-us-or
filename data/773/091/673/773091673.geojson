@@ -2,9 +2,14 @@
   "id": 773091673,
   "type": "Feature",
   "properties": {
+    "addr:full":"6404 SW 30th Ave Portland OR 97239",
+    "addr:housenumber":"6404",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.707651,45.477578,-122.707651,45.477578",
     "geom:latitude":45.477578,
     "geom:longitude":-122.707651,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":773091673
         }
     ],
     "wof:id":773091673,
-    "wof:lastmodified":1466767823,
+    "wof:lastmodified":1486769427,
     "wof:name":"I T Profusion",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

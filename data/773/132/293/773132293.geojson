@@ -2,9 +2,14 @@
   "id": 773132293,
   "type": "Feature",
   "properties": {
+    "addr:full":"16520 SE Crest Ct Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16520;97236",
+    "addr:street":"Se Crest Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.494001,45.486816,-122.494001,45.486816",
     "geom:latitude":45.486816,
     "geom:longitude":-122.494001,
@@ -29,12 +34,14 @@
     "sg:website":"www.wfjjanitorial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773132293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773132293
         }
     ],
     "wof:id":773132293,
-    "wof:lastmodified":1466769049,
+    "wof:lastmodified":1486772202,
     "wof:name":"WFJ Janitorial Svc Inc",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

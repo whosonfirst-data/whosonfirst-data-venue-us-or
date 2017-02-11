@@ -2,9 +2,14 @@
   "id": 403978755,
   "type": "Feature",
   "properties": {
+    "addr:full":"10402 SE Holgate Blvd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"10402;97266",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554504,45.489693,-122.554504,45.489693",
     "geom:latitude":45.489693,
     "geom:longitude":-122.554504,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"bd1f7453f96c33167350bcc4daadbb9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":403978755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":403978755
         }
     ],
     "wof:id":403978755,
-    "wof:lastmodified":1466768773,
+    "wof:lastmodified":1486771920,
     "wof:name":"Discount Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

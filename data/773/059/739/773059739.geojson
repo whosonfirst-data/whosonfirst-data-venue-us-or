@@ -2,9 +2,14 @@
   "id": 773059739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3630 SE 39th Ave Portland OR 97202",
+    "addr:housenumber":"3630",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622539,45.496899,-122.622539,45.496899",
     "geom:latitude":45.496899,
     "geom:longitude":-122.622539,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":773059739
         }
     ],
     "wof:id":773059739,
-    "wof:lastmodified":1466771217,
+    "wof:lastmodified":1486772130,
     "wof:name":"House-Pet Sitter",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

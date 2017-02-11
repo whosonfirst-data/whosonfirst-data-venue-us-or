@@ -2,9 +2,14 @@
   "id": 773682681,
   "type": "Feature",
   "properties": {
+    "addr:full":"6337 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"6337",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649156,45.476724,-122.649156,45.476724",
     "geom:latitude":45.476724,
     "geom:longitude":-122.649156,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":773682681
         }
     ],
     "wof:id":773682681,
-    "wof:lastmodified":1466775714,
+    "wof:lastmodified":1486766899,
     "wof:name":"Actors Avenue",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

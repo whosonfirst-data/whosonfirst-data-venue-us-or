@@ -2,9 +2,14 @@
   "id": 403846603,
   "type": "Feature",
   "properties": {
+    "addr:full":"7010 SE Deardorff Rd Portland OR 97236",
+    "addr:housenumber":"7010",
+    "addr:postcode":"97236",
+    "addr:street":"Se Deardorff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523298,45.469379,-122.523298,45.469379",
     "geom:latitude":45.469379,
     "geom:longitude":-122.523298,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"9d9fd3fd2bd57fb6e9bfba3a57040745",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":403846603
         }
     ],
     "wof:id":403846603,
-    "wof:lastmodified":1466770708,
+    "wof:lastmodified":1486772200,
     "wof:name":"James Boom",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

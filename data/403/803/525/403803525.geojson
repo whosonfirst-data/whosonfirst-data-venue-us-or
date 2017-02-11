@@ -2,9 +2,14 @@
   "id": 403803525,
   "type": "Feature",
   "properties": {
+    "addr:full":"16244 SE Brooklyn St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16244;97236",
+    "addr:street":"Se Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.495256,45.500818,-122.495256,45.500818",
     "geom:latitude":45.500818,
     "geom:longitude":-122.495256,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"3cfcd245f4d6f5f06c5850731411fb96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":403803525
         }
     ],
     "wof:id":403803525,
-    "wof:lastmodified":1466769693,
+    "wof:lastmodified":1486771533,
     "wof:name":"Northwest Marble & Tile Inc",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

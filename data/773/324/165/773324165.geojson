@@ -2,9 +2,14 @@
   "id": 773324165,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 NE 80th Ave Portland OR 97213",
+    "addr:housenumber":"104",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581385,45.524583,-122.581385,45.524583",
     "geom:latitude":45.524583,
     "geom:longitude":-122.581385,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773324165
         }
     ],
     "wof:id":773324165,
-    "wof:lastmodified":1466773371,
+    "wof:lastmodified":1486767980,
     "wof:name":"Wilkerson Bill Automotive LLC",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

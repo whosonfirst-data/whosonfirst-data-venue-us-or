@@ -2,9 +2,14 @@
   "id": 404152037,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 NW 1st Ave Portland OR 97209",
+    "addr:housenumber":"34",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671441,45.523606,-122.671441,45.523606",
     "geom:latitude":45.523606,
     "geom:longitude":-122.671441,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"5c090af84124bda4bc372393d1c736e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":404152037
         }
     ],
     "wof:id":404152037,
-    "wof:lastmodified":1466767282,
+    "wof:lastmodified":1486770692,
     "wof:name":"United Corporate Housing",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

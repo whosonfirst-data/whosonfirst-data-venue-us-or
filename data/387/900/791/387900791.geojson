@@ -2,9 +2,14 @@
   "id": 387900791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 SE Flavel St Portland OR 97202",
+    "addr:housenumber":"1204",
+    "addr:postcode":"97202",
+    "addr:street":"Se Flavel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653751,45.470663,-122.653751,45.470663",
     "geom:latitude":45.470663,
     "geom:longitude":-122.653751,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"a4cf2e4038eceff74953708ec88f2b19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387900791
         }
     ],
     "wof:id":387900791,
-    "wof:lastmodified":1466775196,
+    "wof:lastmodified":1486770494,
     "wof:name":"Jeffrey Adam Young",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

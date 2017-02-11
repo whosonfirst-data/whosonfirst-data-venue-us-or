@@ -2,9 +2,14 @@
   "id": 403780061,
   "type": "Feature",
   "properties": {
+    "addr:full":"7315 SE Clay St Portland OR 97215",
+    "addr:housenumber":"7315",
+    "addr:postcode":"97215",
+    "addr:street":"Se Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.587809,45.511663,-122.587809,45.511663",
     "geom:latitude":45.511663,
     "geom:longitude":-122.587809,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"d534569f6d419c15310b0e9d3ad6d31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":403780061
         }
     ],
     "wof:id":403780061,
-    "wof:lastmodified":1466769336,
+    "wof:lastmodified":1486771816,
     "wof:name":"Suzuki Piano Studio",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790060861,
   "type": "Feature",
   "properties": {
+    "addr:full":"N Killingsworth & N Greeley Portland OR 97217",
+    "addr:housenumber":"",
+    "addr:postcode":"97217",
+    "addr:street":"N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695611,45.562745,-122.695611,45.562745",
     "geom:latitude":45.562745,
     "geom:longitude":-122.695611,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790060861
         }
     ],
     "wof:id":790060861,
-    "wof:lastmodified":1466768301,
+    "wof:lastmodified":1486765714,
     "wof:name":"Savvy J's",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

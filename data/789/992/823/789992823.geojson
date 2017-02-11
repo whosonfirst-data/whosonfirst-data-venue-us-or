@@ -2,9 +2,14 @@
   "id": 789992823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Concordia Wellness 25th and Alberta Portland OR 97211",
+    "addr:housenumber":"",
+    "addr:postcode":"97211",
+    "addr:street":"25Th And",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639916,45.559055,-122.639916,45.559055",
     "geom:latitude":45.559055,
     "geom:longitude":-122.639916,
@@ -29,12 +34,14 @@
     "sg:website":"ConcordiaNatural.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789992823
         }
     ],
     "wof:id":789992823,
-    "wof:lastmodified":1466773120,
+    "wof:lastmodified":1486773365,
     "wof:name":"Gillian Casey, LAC",
-    "wof:parent_id":85893149,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

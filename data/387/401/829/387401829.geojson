@@ -2,9 +2,14 @@
   "id": 387401829,
   "type": "Feature",
   "properties": {
+    "addr:full":"1217 SW Stark St Portland OR 97205",
+    "addr:housenumber":"1217",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683939,45.522867,-122.683939,45.522867",
     "geom:latitude":45.522867,
     "geom:longitude":-122.683939,
@@ -30,11 +35,13 @@
     "sg:website":"www.silveradopdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"ada515ed521e0f7af5d85928b7382126",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387401829
         }
     ],
     "wof:id":387401829,
-    "wof:lastmodified":1466772625,
+    "wof:lastmodified":1486770076,
     "wof:name":"Silverado",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387450655,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 SE Brooklyn St Portland OR 97202",
+    "addr:housenumber":"3011",
+    "addr:postcode":"97202",
+    "addr:street":"Se Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634344,45.501308,-122.634344,45.501308",
     "geom:latitude":45.501308,
     "geom:longitude":-122.634344,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"e107c5957e9c920468462b069a4d3c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":387450655
         }
     ],
     "wof:id":387450655,
-    "wof:lastmodified":1466772809,
+    "wof:lastmodified":1486770845,
     "wof:name":"Essential Construction",
-    "wof:parent_id":85893169,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

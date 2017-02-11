@@ -2,9 +2,14 @@
   "id": 790250705,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 E Burnside St Portland OR 97255",
+    "addr:housenumber":"811",
+    "addr:postcode":"97255",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657351,45.52323,-122.657351,45.52323",
     "geom:latitude":45.52323,
     "geom:longitude":-122.657351,
@@ -26,12 +31,14 @@
     "sg:website":"www.shopstandingup.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790250705
         }
     ],
     "wof:id":790250705,
-    "wof:lastmodified":1466772532,
+    "wof:lastmodified":1486773719,
     "wof:name":"Stand Up Comedy",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

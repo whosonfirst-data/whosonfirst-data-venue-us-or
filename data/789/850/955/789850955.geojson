@@ -2,9 +2,14 @@
   "id": 789850955,
   "type": "Feature",
   "properties": {
+    "addr:full":"3377 SE Division St Ste 103 Portland OR 97202",
+    "addr:housenumber":"3377",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St Ste 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629996,45.504799,-122.629996,45.504799",
     "geom:latitude":45.504799,
     "geom:longitude":-122.629996,
@@ -55,12 +60,14 @@
     "sg:website":"http://portland.citysearch.com/profile/external/41655580/portland_or/bliss_salon_day_spa.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +82,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789850955
         }
     ],
     "wof:id":789850955,
-    "wof:lastmodified":1466770559,
+    "wof:lastmodified":1486773656,
     "wof:name":"Bliss Salon & Day Spa",
-    "wof:parent_id":85893169,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

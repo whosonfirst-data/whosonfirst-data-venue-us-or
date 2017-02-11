@@ -2,9 +2,14 @@
   "id": 403916235,
   "type": "Feature",
   "properties": {
+    "addr:full":"2838 Orchard Hill Ln Lake Oswego OR 97035",
+    "addr:housenumber":"2838",
+    "addr:postcode":"97035",
+    "addr:street":"Orchard Hill Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705135,45.435167,-122.705135,45.435167",
     "geom:latitude":45.435167,
     "geom:longitude":-122.705135,
@@ -28,10 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715835,
+        102082213,
+        420536081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +52,29 @@
     "wof:geomhash":"3f40639869127aa1820100fe0e4aff22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":403916235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715835,
+            "neighbourhood_id":420536081,
             "region_id":85688513,
             "venue_id":403916235
         }
     ],
     "wof:id":403916235,
-    "wof:lastmodified":1466767648,
+    "wof:lastmodified":1486772263,
     "wof:name":"Learning Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

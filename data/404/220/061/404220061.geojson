@@ -2,9 +2,14 @@
   "id": 404220061,
   "type": "Feature",
   "properties": {
+    "addr:full":"12209 SE Carlton St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12209;97236",
+    "addr:street":"Se Carlton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535549,45.477903,-122.535549,45.477903",
     "geom:latitude":45.477903,
     "geom:longitude":-122.535549,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513,
+        420536131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"10177e8e7bd5a251d7b52a84e0d842b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
+            "region_id":85688513,
+            "venue_id":404220061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":404220061
         }
     ],
     "wof:id":404220061,
-    "wof:lastmodified":1466768456,
+    "wof:lastmodified":1486772198,
     "wof:name":"AOIT Consulting",
-    "wof:parent_id":85821523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

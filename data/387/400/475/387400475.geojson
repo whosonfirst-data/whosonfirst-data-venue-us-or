@@ -2,9 +2,14 @@
   "id": 387400475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 SE 85th Ave Portland OR 97216",
+    "addr:housenumber":"2203",
+    "addr:postcode":"97216",
+    "addr:street":"Se 85Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57574,45.505362,-122.57574,45.505362",
     "geom:latitude":45.505362,
     "geom:longitude":-122.57574,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"313f6c967b0358fd2d81895fc8b08a92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387400475
         }
     ],
     "wof:id":387400475,
-    "wof:lastmodified":1466772616,
+    "wof:lastmodified":1486769600,
     "wof:name":"Cascade Concrete Pumping Inc",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85834889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

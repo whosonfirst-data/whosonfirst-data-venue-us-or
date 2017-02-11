@@ -2,9 +2,14 @@
   "id": 773493377,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 SW Rose Garden Way Portland OR 97205",
+    "addr:housenumber":"850",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Rose Garden Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706656,45.518133,-122.706656,45.518133",
     "geom:latitude":45.518133,
     "geom:longitude":-122.706656,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871473
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":773493377
         }
     ],
     "wof:id":773493377,
-    "wof:lastmodified":1466774818,
+    "wof:lastmodified":1486764701,
     "wof:name":"Rose Garden Store",
     "wof:parent_id":85871473,
     "wof:placetype":"venue",

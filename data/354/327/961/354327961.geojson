@@ -2,9 +2,14 @@
   "id": 354327961,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 SE Caruthers St Portland OR 97214",
+    "addr:housenumber":"403",
+    "addr:postcode":"97214",
+    "addr:street":"Se Caruthers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660965,45.50593,-122.660965,45.50593",
     "geom:latitude":45.50593,
     "geom:longitude":-122.660965,
@@ -30,11 +35,14 @@
     "sg:website":"www.stacywitbeck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"0922f0f8f37e9e28e4b3e26797a249a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":354327961
         }
     ],
     "wof:id":354327961,
-    "wof:lastmodified":1466769870,
+    "wof:lastmodified":1486773478,
     "wof:name":"Stacy & Witbeck Inc",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

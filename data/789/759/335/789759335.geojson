@@ -2,9 +2,14 @@
   "id": 789759335,
   "type": "Feature",
   "properties": {
+    "addr:full":"16455 SW Boones Ferry Rd Lake Oswego OR 97035",
+    "addr:housenumber":"16455",
+    "addr:postcode":"97035",
+    "addr:street":"Sw Boones Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702007,45.433076,-122.702007,45.433076",
     "geom:latitude":45.433076,
     "geom:longitude":-122.702007,
@@ -26,9 +31,13 @@
     "sg:website":"www.dentaldynamicsonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715835,
         102082213,
         420536081
@@ -44,6 +53,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":789759335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715835,
             "neighbourhood_id":420536081,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":789759335,
-    "wof:lastmodified":1466767175,
+    "wof:lastmodified":1486772263,
     "wof:name":"Dental Dynamics",
-    "wof:parent_id":420536081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790234073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 SE 136th Avenue Portland OR 97236",
+    "addr:housenumber":"2515",
+    "addr:postcode":"97236",
+    "addr:street":"Se 136Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523504,45.503765,-122.523504,45.503765",
     "geom:latitude":45.503765,
     "geom:longitude":-122.523504,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790234073
         }
     ],
     "wof:id":790234073,
-    "wof:lastmodified":1466772112,
+    "wof:lastmodified":1486771952,
     "wof:name":"Cruiser's Drive-In",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

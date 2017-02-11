@@ -2,9 +2,14 @@
   "id": 404207625,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 N Cutter Cir Portland OR 97217",
+    "addr:housenumber":"6400",
+    "addr:postcode":"97217",
+    "addr:street":"N Cutter Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702508,45.570004,-122.702508,45.570004",
     "geom:latitude":45.570004,
     "geom:longitude":-122.702508,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"a98b6599360ffcb529c55d6fa64f11f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":404207625
         }
     ],
     "wof:id":404207625,
-    "wof:lastmodified":1466768240,
+    "wof:lastmodified":1486771862,
     "wof:name":"Portland Motor Pool",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

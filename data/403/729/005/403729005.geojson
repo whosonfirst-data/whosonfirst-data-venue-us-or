@@ -2,9 +2,14 @@
   "id": 403729005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 SE Belmont St Portland OR 97215",
+    "addr:housenumber":"4701",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.613501,45.516559,-122.613501,45.516559",
     "geom:latitude":45.516559,
     "geom:longitude":-122.613501,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"5983a4b7defbda3aa19b2127f5ecd33f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":403729005
         }
     ],
     "wof:id":403729005,
-    "wof:lastmodified":1466771448,
+    "wof:lastmodified":1486773392,
     "wof:name":"Hagood Hughes Custom Furniture",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

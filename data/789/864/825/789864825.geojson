@@ -2,9 +2,14 @@
   "id": 789864825,
   "type": "Feature",
   "properties": {
+    "addr:full":"4030 SE 39th Avenue Portland OR 97202",
+    "addr:housenumber":"4030",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622755,45.493559,-122.622755,45.493559",
     "geom:latitude":45.493559,
     "geom:longitude":-122.622755,
@@ -26,12 +31,13 @@
     "sg:website":"www.plaidpantry.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789864825
         }
     ],
     "wof:id":789864825,
-    "wof:lastmodified":1466771061,
+    "wof:lastmodified":1486772129,
     "wof:name":"Plaid Pantry Markets",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

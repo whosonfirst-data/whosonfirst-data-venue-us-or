@@ -2,9 +2,14 @@
   "id": 773057783,
   "type": "Feature",
   "properties": {
+    "addr:full":"12419 NE Marx St Portland OR 97230",
+    "addr:housenumber":"12419",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marx St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.533888,45.558825,-122.533888,45.558825",
     "geom:latitude":45.558825,
     "geom:longitude":-122.533888,
@@ -26,12 +31,13 @@
     "sg:website":"www.terminaltransfer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":773057783
         }
     ],
     "wof:id":773057783,
-    "wof:lastmodified":1466771180,
+    "wof:lastmodified":1486771483,
     "wof:name":"Terminal Transfer",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

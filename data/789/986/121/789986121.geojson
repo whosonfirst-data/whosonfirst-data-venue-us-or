@@ -2,9 +2,14 @@
   "id": 789986121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1478 NE Killingsworth St Portland OR 97211",
+    "addr:housenumber":"1478",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650375,45.562593,-122.650375,45.562593",
     "geom:latitude":45.562593,
     "geom:longitude":-122.650375,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789986121
         }
     ],
     "wof:id":789986121,
-    "wof:lastmodified":1466773022,
+    "wof:lastmodified":1486772059,
     "wof:name":"AAA Locksmith",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

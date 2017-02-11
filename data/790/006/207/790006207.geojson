@@ -2,9 +2,14 @@
   "id": 790006207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 NE Fremont St # 103 Portland OR 97213",
+    "addr:housenumber":"4605",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Fremont St # 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615723,45.54829,-122.615723,45.54829",
     "geom:latitude":45.54829,
     "geom:longitude":-122.615723,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":790006207
         }
     ],
     "wof:id":790006207,
-    "wof:lastmodified":1466767535,
+    "wof:lastmodified":1486769192,
     "wof:name":"Green Dog Pet Supply",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

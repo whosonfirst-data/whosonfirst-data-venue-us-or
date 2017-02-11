@@ -2,9 +2,14 @@
   "id": 387704533,
   "type": "Feature",
   "properties": {
+    "addr:full":"7015 SE Yamhill St Portland OR 97215",
+    "addr:housenumber":"7015",
+    "addr:postcode":"97215",
+    "addr:street":"Se Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589851,45.51624,-122.589851,45.51624",
     "geom:latitude":45.51624,
     "geom:longitude":-122.589851,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"822cd64e671b0319f628d614d3c87d11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":387704533
         }
     ],
     "wof:id":387704533,
-    "wof:lastmodified":1466774409,
+    "wof:lastmodified":1486771820,
     "wof:name":"First Hrvest Chrstn Fellowship",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

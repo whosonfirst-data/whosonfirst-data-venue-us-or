@@ -2,9 +2,14 @@
   "id": 789958159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1991 NW Upshur St Unit G Portland OR 97209",
+    "addr:housenumber":"1991",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Upshur St Unit G",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692391,45.536654,-122.692391,45.536654",
     "geom:latitude":45.536654,
     "geom:longitude":-122.692391,
@@ -26,12 +31,13 @@
     "sg:website":"www.inkbrigade.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789958159
         }
     ],
     "wof:id":789958159,
-    "wof:lastmodified":1466772494,
+    "wof:lastmodified":1486771175,
     "wof:name":"Ink Brigade",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387679011,
   "type": "Feature",
   "properties": {
+    "addr:full":"11917 SE Stark St Portland OR 97216",
+    "addr:housenumber":"11917",
+    "addr:postcode":"97216",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537877,45.519097,-122.537877,45.519097",
     "geom:latitude":45.519097,
     "geom:longitude":-122.537877,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"0939600052fbb135ce90bf0771f1ebfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387679011
         }
     ],
     "wof:id":387679011,
-    "wof:lastmodified":1466774484,
+    "wof:lastmodified":1486766859,
     "wof:name":"ANW Window & Siding",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

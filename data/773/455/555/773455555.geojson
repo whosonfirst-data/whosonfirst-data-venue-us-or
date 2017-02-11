@@ -2,9 +2,14 @@
   "id": 773455555,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 NE 30th Ave Portland OR 97212",
+    "addr:housenumber":"2211",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63553,45.538845,-122.63553,45.538845",
     "geom:latitude":45.538845,
     "geom:longitude":-122.63553,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":773455555
         }
     ],
     "wof:id":773455555,
-    "wof:lastmodified":1466774506,
+    "wof:lastmodified":1486771670,
     "wof:name":"Real Estate Group",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85893189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

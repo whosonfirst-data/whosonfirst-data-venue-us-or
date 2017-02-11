@@ -2,9 +2,14 @@
   "id": 404029659,
   "type": "Feature",
   "properties": {
+    "addr:full":"8918 N Woolsey Ct Portland OR 97203",
+    "addr:housenumber":"8918",
+    "addr:postcode":"97203",
+    "addr:street":"N Woolsey Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.714401,45.587821,-122.714401,45.587821",
     "geom:latitude":45.587821,
     "geom:longitude":-122.714401,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:brand_id":420575639,
     "wof:breaches":[],
@@ -46,17 +53,18 @@
     "wof:geomhash":"6c43b331badc76ec278887be748279bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":404029659
         }
     ],
     "wof:id":404029659,
-    "wof:lastmodified":1466768970,
+    "wof:lastmodified":1486766064,
     "wof:name":"Health Dept",
     "wof:parent_id":85893225,
     "wof:placetype":"venue",

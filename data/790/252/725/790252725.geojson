@@ -2,9 +2,14 @@
   "id": 790252725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 SW Columbia St Ste 915 Portland OR 97258",
+    "addr:housenumber":"1",
+    "addr:postcode":"97258",
+    "addr:street":"Sw;St Ste 915",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675003,45.512699,-122.675003,45.512699",
     "geom:latitude":45.512699,
     "geom:longitude":-122.675003,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790252725
         }
     ],
     "wof:id":790252725,
-    "wof:lastmodified":1466772556,
+    "wof:lastmodified":1486765586,
     "wof:name":"Vision Capital Management Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

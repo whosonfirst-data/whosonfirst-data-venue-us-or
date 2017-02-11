@@ -2,9 +2,14 @@
   "id": 790211373,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 NE Flanders St Apt 7 Portland OR 97232",
+    "addr:housenumber":"2325;7",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Flanders St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642162,45.525742,-122.642162,45.525742",
     "geom:latitude":45.525742,
     "geom:longitude":-122.642162,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790211373
         }
     ],
     "wof:id":790211373,
-    "wof:lastmodified":1466771888,
+    "wof:lastmodified":1486770993,
     "wof:name":"D R Shaw & Associates",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

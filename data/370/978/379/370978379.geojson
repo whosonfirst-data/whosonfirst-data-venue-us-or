@@ -2,9 +2,14 @@
   "id": 370978379,
   "type": "Feature",
   "properties": {
+    "addr:full":"5507 NE Garfield Ave Portland OR 97211",
+    "addr:housenumber":"5507",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Garfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662687,45.563836,-122.662687,45.563836",
     "geom:latitude":45.563836,
     "geom:longitude":-122.662687,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +54,20 @@
     "wof:geomhash":"8340a05dca5ec929b6375b32ff4ae0fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":370978379
         }
     ],
     "wof:id":370978379,
-    "wof:lastmodified":1466775037,
+    "wof:lastmodified":1486771759,
     "wof:name":"Rasheed's World Of Herbs",
-    "wof:parent_id":85841531,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

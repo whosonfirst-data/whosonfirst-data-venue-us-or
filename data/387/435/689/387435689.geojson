@@ -2,9 +2,14 @@
   "id": 387435689,
   "type": "Feature",
   "properties": {
+    "addr:full":"5411 NE Ainsworth St Portland OR 97218",
+    "addr:housenumber":"5411",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Ainsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607864,45.566501,-122.607864,45.566501",
     "geom:latitude":45.566501,
     "geom:longitude":-122.607864,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"9192448d96cf6f03f92c65611b68a5dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387435689
         }
     ],
     "wof:id":387435689,
-    "wof:lastmodified":1466772686,
+    "wof:lastmodified":1486771593,
     "wof:name":"Extra Ordinary Errands",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

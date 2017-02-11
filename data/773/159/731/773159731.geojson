@@ -2,9 +2,14 @@
   "id": 773159731,
   "type": "Feature",
   "properties": {
+    "addr:full":"4404 NE 56th Ave Portland OR 97218",
+    "addr:housenumber":"4404",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 56Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605254,45.554651,-122.605254,45.554651",
     "geom:latitude":45.554651,
     "geom:longitude":-122.605254,
@@ -24,7 +29,15 @@
     "sg:postcode":"97218",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tb2IL5ZJIcueQKM745NND_45.554651_-122.605254@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462583588,
     "wof:geomhash":"de6553e018ca9bee571617bf2db968bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":773159731
+        }
+    ],
     "wof:id":773159731,
-    "wof:lastmodified":1466770027,
+    "wof:lastmodified":1486771599,
     "wof:name":"RCD Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

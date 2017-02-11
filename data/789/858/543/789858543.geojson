@@ -2,9 +2,14 @@
   "id": 789858543,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 SE 39th Ave Portland OR 97202",
+    "addr:housenumber":"3625",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623082,45.496394,-122.623082,45.496394",
     "geom:latitude":45.496394,
     "geom:longitude":-122.623082,
@@ -26,12 +31,13 @@
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789858543
         }
     ],
     "wof:id":789858543,
-    "wof:lastmodified":1466770846,
+    "wof:lastmodified":1486772123,
     "wof:name":"Wells Fargo",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

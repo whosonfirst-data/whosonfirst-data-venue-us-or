@@ -2,9 +2,14 @@
   "id": 789862843,
   "type": "Feature",
   "properties": {
+    "addr:full":"5840 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"5840",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64819,45.480499,-122.64819,45.480499",
     "geom:latitude":45.480499,
     "geom:longitude":-122.64819,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789862843
         }
     ],
     "wof:id":789862843,
-    "wof:lastmodified":1466770993,
+    "wof:lastmodified":1486767505,
     "wof:name":"Battery Express",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

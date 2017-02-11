@@ -2,9 +2,14 @@
   "id": 403819419,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Graham St Portland OR 97227",
+    "addr:housenumber":"501",
+    "addr:postcode":"97227",
+    "addr:street":"N Graham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671963,45.542837,-122.671963,45.542837",
     "geom:latitude":45.542837,
     "geom:longitude":-122.671963,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a7d65f80da37bcf761bc7ed61cf95613",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":403819419
         }
     ],
     "wof:id":403819419,
-    "wof:lastmodified":1466770079,
+    "wof:lastmodified":1486768304,
     "wof:name":"Northwest New Born Spclists PC",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

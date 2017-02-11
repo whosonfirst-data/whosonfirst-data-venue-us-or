@@ -2,9 +2,14 @@
   "id": 790247715,
   "type": "Feature",
   "properties": {
+    "addr:full":"4109 SW Condor Ave Portland OR 97239",
+    "addr:housenumber":"4109",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Condor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679001,45.493698,-122.679001,45.493698",
     "geom:latitude":45.493698,
     "geom:longitude":-122.679001,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":790247715
         }
     ],
     "wof:id":790247715,
-    "wof:lastmodified":1466772405,
+    "wof:lastmodified":1486772320,
     "wof:name":"Koach Tony Arch",
-    "wof:parent_id":420558713,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

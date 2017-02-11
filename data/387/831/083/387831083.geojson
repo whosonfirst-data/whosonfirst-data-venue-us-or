@@ -2,9 +2,14 @@
   "id": 387831083,
   "type": "Feature",
   "properties": {
+    "addr:full":"10710 NE Morris St Portland OR 97220",
+    "addr:housenumber":"10710",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Morris St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.555671,45.543488,-122.555671,45.543488",
     "geom:latitude":45.543488,
     "geom:longitude":-122.555671,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"2e72ac80ca31d95de9f974d1b6b8bd63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":387831083
         }
     ],
     "wof:id":387831083,
-    "wof:lastmodified":1466775105,
+    "wof:lastmodified":1486771881,
     "wof:name":"Agape Land Survey Co",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

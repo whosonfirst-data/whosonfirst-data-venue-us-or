@@ -2,9 +2,14 @@
   "id": 773377831,
   "type": "Feature",
   "properties": {
+    "addr:full":"7824 SE Division St Portland OR 97206",
+    "addr:housenumber":"7824",
+    "addr:postcode":"97206",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582285,45.505306,-122.582285,45.505306",
     "geom:latitude":45.505306,
     "geom:longitude":-122.582285,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773377831
         }
     ],
     "wof:id":773377831,
-    "wof:lastmodified":1466773642,
+    "wof:lastmodified":1486771039,
     "wof:name":"Ld Consultant Group",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

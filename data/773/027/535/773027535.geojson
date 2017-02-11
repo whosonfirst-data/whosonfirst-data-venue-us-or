@@ -2,9 +2,14 @@
   "id": 773027535,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 SW Harrison St Portland OR 97201",
+    "addr:housenumber":"220",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679695,45.510128,-122.679695,45.510128",
     "geom:latitude":45.510128,
     "geom:longitude":-122.679695,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773027535
         }
     ],
     "wof:id":773027535,
-    "wof:lastmodified":1466770473,
+    "wof:lastmodified":1486764812,
     "wof:name":"Cafe 220",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370542899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2934 SW Montgomery Dr Portland OR 97201",
+    "addr:housenumber":"2934",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Montgomery Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.7074,45.501743,-122.7074,45.501743",
     "geom:latitude":45.501743,
     "geom:longitude":-122.7074,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"8b471daef764a3d60950a79a3e11c756",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":370542899
         }
     ],
     "wof:id":370542899,
-    "wof:lastmodified":1466772637,
+    "wof:lastmodified":1486764676,
     "wof:name":"Peggy C Hoag",
     "wof:parent_id":85867153,
     "wof:placetype":"venue",

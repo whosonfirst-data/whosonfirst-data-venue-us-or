@@ -2,9 +2,14 @@
   "id": 387361765,
   "type": "Feature",
   "properties": {
+    "addr:full":"13611 NE Rose Pkwy Portland OR 97230",
+    "addr:housenumber":"13611",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Rose Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519038,45.544718,-122.519038,45.544718",
     "geom:latitude":45.544718,
     "geom:longitude":-122.519038,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893231
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"9ba35ffdfa09b28e7c43b1f61e76719c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
+            "region_id":85688513,
+            "venue_id":387361765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":387361765
         }
     ],
     "wof:id":387361765,
-    "wof:lastmodified":1466772337,
+    "wof:lastmodified":1486771457,
     "wof:name":"Wright Express",
-    "wof:parent_id":85893231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

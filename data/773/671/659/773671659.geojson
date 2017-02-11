@@ -2,9 +2,14 @@
   "id": 773671659,
   "type": "Feature",
   "properties": {
+    "addr:full":"11933 SE Stark St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"11933;97216",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537975,45.519097,-122.537975,45.519097",
     "geom:latitude":45.519097,
     "geom:longitude":-122.537975,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773671659
         }
     ],
     "wof:id":773671659,
-    "wof:lastmodified":1466775590,
+    "wof:lastmodified":1486770759,
     "wof:name":"Bonnie & Clyde",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

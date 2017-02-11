@@ -2,9 +2,14 @@
   "id": 387931555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 N Williams Ave Portland OR 97217",
+    "addr:housenumber":"5211",
+    "addr:postcode":"97217",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666987,45.560959,-122.666987,45.560959",
     "geom:latitude":45.560959,
     "geom:longitude":-122.666987,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"4367f54d4c81e07a0871a713416fd860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387931555
         }
     ],
     "wof:id":387931555,
-    "wof:lastmodified":1466775415,
+    "wof:lastmodified":1486771744,
     "wof:name":"Grooming Lounge",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

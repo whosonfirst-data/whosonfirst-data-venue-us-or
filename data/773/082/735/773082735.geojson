@@ -2,9 +2,14 @@
   "id": 773082735,
   "type": "Feature",
   "properties": {
+    "addr:full":"13035 SE Claybourne St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13035;97236",
+    "addr:street":"Se Claybourne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.530217,45.474855,-122.530217,45.474855",
     "geom:latitude":45.474855,
     "geom:longitude":-122.530217,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536095,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773082735
         }
     ],
     "wof:id":773082735,
-    "wof:lastmodified":1466767553,
+    "wof:lastmodified":1486772199,
     "wof:name":"A S K Design Corporation",
-    "wof:parent_id":420536095,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

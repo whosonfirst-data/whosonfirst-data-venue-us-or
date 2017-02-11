@@ -2,9 +2,14 @@
   "id": 370914811,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 SE 24th Ave Portland OR 97214",
+    "addr:housenumber":"2216",
+    "addr:postcode":"97214",
+    "addr:street":"Se 24Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641156,45.506366,-122.641156,45.506366",
     "geom:latitude":45.506366,
     "geom:longitude":-122.641156,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713579,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"919bbcb1136c836655c6ea927df16895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713579,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":370914811
         }
     ],
     "wof:id":370914811,
-    "wof:lastmodified":1466774749,
+    "wof:lastmodified":1486773539,
     "wof:name":"John H Romish Architect",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108713579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

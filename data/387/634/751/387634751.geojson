@@ -2,9 +2,14 @@
   "id": 387634751,
   "type": "Feature",
   "properties": {
+    "addr:full":"4399 SW Vermont St Portland OR 97219",
+    "addr:housenumber":"4399",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Vermont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722401,45.4763,-122.722401,45.4763",
     "geom:latitude":45.4763,
     "geom:longitude":-122.722401,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"ae5409d44adf14c069a2f4acc0bd9c9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":387634751
         }
     ],
     "wof:id":387634751,
-    "wof:lastmodified":1466774118,
+    "wof:lastmodified":1486771055,
     "wof:name":"Edward Jones 16476",
-    "wof:parent_id":85853645,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

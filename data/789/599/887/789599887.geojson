@@ -2,9 +2,14 @@
   "id": 789599887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1877 NE 7th Ave Portland OR 97212",
+    "addr:housenumber":"1877",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658587,45.536338,-122.658587,45.536338",
     "geom:latitude":45.536338,
     "geom:longitude":-122.658587,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.caremedical.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":789599887
         }
     ],
     "wof:id":789599887,
-    "wof:lastmodified":1466768349,
+    "wof:lastmodified":1486769494,
     "wof:name":"Care Medical Equipment Inc",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85827095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

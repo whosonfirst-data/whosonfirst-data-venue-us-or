@@ -2,9 +2,14 @@
   "id": 789921287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 SW Morrison Portland OR 97205",
+    "addr:housenumber":"1013",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682344,45.520263,-122.682344,45.520263",
     "geom:latitude":45.520263,
     "geom:longitude":-122.682344,
@@ -30,12 +35,13 @@
     "sg:website":"www.fatfancyfashions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789921287
         }
     ],
     "wof:id":789921287,
-    "wof:lastmodified":1466772186,
+    "wof:lastmodified":1486769959,
     "wof:name":"Fat Fancy",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

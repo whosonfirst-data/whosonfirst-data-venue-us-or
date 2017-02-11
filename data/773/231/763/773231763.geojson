@@ -2,9 +2,14 @@
   "id": 773231763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3974 N Massachusetts Ave Portland OR 97227",
+    "addr:housenumber":"3974",
+    "addr:postcode":"97227",
+    "addr:street":"N Massachusetts Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681998,45.551185,-122.681998,45.551185",
     "geom:latitude":45.551185,
     "geom:longitude":-122.681998,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773231763
         }
     ],
     "wof:id":773231763,
-    "wof:lastmodified":1466771960,
+    "wof:lastmodified":1486771880,
     "wof:name":"Over Top Salon Services",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

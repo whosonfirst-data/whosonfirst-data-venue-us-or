@@ -2,9 +2,14 @@
   "id": 789932919,
   "type": "Feature",
   "properties": {
+    "addr:full":"7609 SE Powell Blvd Apt 4 Portland OR 97206",
+    "addr:housenumber":"7609;4",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.584781,45.497421,-122.584781,45.497421",
     "geom:latitude":45.497421,
     "geom:longitude":-122.584781,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789932919
         }
     ],
     "wof:id":789932919,
-    "wof:lastmodified":1466772211,
+    "wof:lastmodified":1486766739,
     "wof:name":"Value Car Mart",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

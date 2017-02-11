@@ -2,9 +2,14 @@
   "id": 789909945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 SW Broadway Ste 1000 Portland OR 97205",
+    "addr:housenumber":"1000",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Broadway Ste 1000",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680672,45.517342,-122.680672,45.517342",
     "geom:latitude":45.517342,
     "geom:longitude":-122.680672,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.homesteadcap.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789909945
         }
     ],
     "wof:id":789909945,
-    "wof:lastmodified":1466771923,
+    "wof:lastmodified":1486765542,
     "wof:name":"Homestead Capital",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

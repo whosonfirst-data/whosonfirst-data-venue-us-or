@@ -2,9 +2,14 @@
   "id": 789984283,
   "type": "Feature",
   "properties": {
+    "addr:full":"5030 NE 41st Ave Portland OR 97211",
+    "addr:housenumber":"5030",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621428,45.559121,-122.621428,45.559121",
     "geom:latitude":45.559121,
     "geom:longitude":-122.621428,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789984283
         }
     ],
     "wof:id":789984283,
-    "wof:lastmodified":1466773026,
+    "wof:lastmodified":1486771580,
     "wof:name":"Hoard Harold R",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

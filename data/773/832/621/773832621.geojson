@@ -2,9 +2,14 @@
   "id": 773832621,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 SW College St Portland OR 97201",
+    "addr:housenumber":"420",
+    "addr:postcode":"97201",
+    "addr:street":"Sw College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682248,45.509211,-122.682248,45.509211",
     "geom:latitude":45.509211,
     "geom:longitude":-122.682248,
@@ -30,12 +35,13 @@
     "sg:website":"alexandriamediterraneancuisine.w...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773832621
         }
     ],
     "wof:id":773832621,
-    "wof:lastmodified":1466776158,
+    "wof:lastmodified":1486764649,
     "wof:name":"Alexandria Mediterranean Cuisine",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

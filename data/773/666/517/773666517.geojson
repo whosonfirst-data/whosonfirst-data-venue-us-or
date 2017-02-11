@@ -2,9 +2,14 @@
   "id": 773666517,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 NE 49th Ave Portland OR 97213",
+    "addr:housenumber":"2825",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 49Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612787,45.542842,-122.612787,45.542842",
     "geom:latitude":45.542842,
     "geom:longitude":-122.612787,
@@ -24,7 +29,15 @@
     "sg:postcode":"97213",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867145,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cLlQdF1vHtB9P9rqFoTsK_45.542842_-122.612787@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462587443,
     "wof:geomhash":"7823bca17b4a44e83400457851ab6191",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
+            "region_id":85688513,
+            "venue_id":773666517
+        }
+    ],
     "wof:id":773666517,
-    "wof:lastmodified":1466775665,
+    "wof:lastmodified":1486770370,
     "wof:name":"Pamela Britton & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

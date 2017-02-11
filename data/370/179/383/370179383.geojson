@@ -2,9 +2,14 @@
   "id": 370179383,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 SE 53rd Ave Portland OR 97215",
+    "addr:housenumber":"335",
+    "addr:postcode":"97215",
+    "addr:street":"Se 53Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608931,45.521692,-122.608931,45.521692",
     "geom:latitude":45.521692,
     "geom:longitude":-122.608931,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"46601fb3f74ade0947519389d5328e60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":370179383
         }
     ],
     "wof:id":370179383,
-    "wof:lastmodified":1466767667,
+    "wof:lastmodified":1486771821,
     "wof:name":"Experience Dynamics",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

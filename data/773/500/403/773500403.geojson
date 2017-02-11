@@ -2,9 +2,14 @@
   "id": 773500403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2626 SW Hamilton St Portland OR 97201",
+    "addr:housenumber":"2626",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705192,45.490502,-122.705192,45.490502",
     "geom:latitude":45.490502,
     "geom:longitude":-122.705192,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":773500403
         }
     ],
     "wof:id":773500403,
-    "wof:lastmodified":1466774863,
+    "wof:lastmodified":1486764533,
     "wof:name":"Lloyd Hayne & Assoc",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

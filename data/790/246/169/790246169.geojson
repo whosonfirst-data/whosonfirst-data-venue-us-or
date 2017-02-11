@@ -2,9 +2,14 @@
   "id": 790246169,
   "type": "Feature",
   "properties": {
+    "addr:full":"2925 SW Sunset Blvd Portland OR 97239",
+    "addr:housenumber":"2925",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Sunset Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706844,45.488841,-122.706844,45.488841",
     "geom:latitude":45.488841,
     "geom:longitude":-122.706844,
@@ -29,12 +34,13 @@
     "sg:website":"www.cartridge-network.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790246169
         }
     ],
     "wof:id":790246169,
-    "wof:lastmodified":1466772363,
+    "wof:lastmodified":1486769425,
     "wof:name":"Cartridge Network",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

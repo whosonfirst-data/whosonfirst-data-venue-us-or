@@ -2,9 +2,14 @@
   "id": 790231883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4506 SE Anderegg Lp Portland OR 97236",
+    "addr:housenumber":"4506",
+    "addr:postcode":"97236",
+    "addr:street":"Se Anderegg Lp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.493168,45.490025,-122.493168,45.490025",
     "geom:latitude":45.490025,
     "geom:longitude":-122.493168,
@@ -36,12 +41,14 @@
     "sg:website":"www.astralimo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790231883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790231883
         }
     ],
     "wof:id":790231883,
-    "wof:lastmodified":1466772193,
+    "wof:lastmodified":1486772205,
     "wof:name":"Astra Limousine and Town Car Service",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

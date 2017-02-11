@@ -2,9 +2,14 @@
   "id": 404109467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1229 Lloyd Center Portland OR 97232",
+    "addr:housenumber":"1229",
+    "addr:postcode":"97232",
+    "addr:street":"Lloyd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652374,45.531973,-122.652374,45.531973",
     "geom:latitude":45.531973,
     "geom:longitude":-122.652374,
@@ -29,10 +34,13 @@
     "sg:website":"www.spencergifts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:brand_id":420575475,
     "wof:breaches":[],
@@ -43,19 +51,20 @@
     "wof:geomhash":"16fd60685404c84e7509c0af7b9878c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":404109467
         }
     ],
     "wof:id":404109467,
-    "wof:lastmodified":1466770781,
+    "wof:lastmodified":1486771302,
     "wof:name":"Spencer Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

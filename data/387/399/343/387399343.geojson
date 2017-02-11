@@ -2,9 +2,14 @@
   "id": 387399343,
   "type": "Feature",
   "properties": {
+    "addr:full":"3931 SW Cullen Blvd Portland OR 97221",
+    "addr:housenumber":"3931",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Cullen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717599,45.483295,-122.717599,45.483295",
     "geom:latitude":45.483295,
     "geom:longitude":-122.717599,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"3e8fabe62f9cf0041c81a68359162d98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":387399343
         }
     ],
     "wof:id":387399343,
-    "wof:lastmodified":1466772470,
+    "wof:lastmodified":1486771054,
     "wof:name":"Nabla Technology Incorporated",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

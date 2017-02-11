@@ -2,9 +2,14 @@
   "id": 354293719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3822 SE Nehalem St Portland OR 97202",
+    "addr:housenumber":"3822",
+    "addr:postcode":"97202",
+    "addr:street":"Se Nehalem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623281,45.465625,-122.623281,45.465625",
     "geom:latitude":45.465625,
     "geom:longitude":-122.623281,
@@ -30,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715883,
+        102082213,
+        420536077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +54,29 @@
     "wof:geomhash":"1bdbd79621dec1c0b9c88966fa20af57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85817069,
+            "region_id":85688513,
+            "venue_id":354293719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715883,
+            "neighbourhood_id":420536077,
             "region_id":85688513,
             "venue_id":354293719
         }
     ],
     "wof:id":354293719,
-    "wof:lastmodified":1466769431,
+    "wof:lastmodified":1486769415,
     "wof:name":"Nightingales Rbr Stamps & Cds",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

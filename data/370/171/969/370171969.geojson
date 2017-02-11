@@ -2,9 +2,14 @@
   "id": 370171969,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 NE 40th Ave Portland OR 97212",
+    "addr:housenumber":"1926",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 40Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621879,45.53761,-122.621879,45.53761",
     "geom:latitude":45.53761,
     "geom:longitude":-122.621879,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7739926658c9266b2d64051037478eb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":370171969
         }
     ],
     "wof:id":370171969,
-    "wof:lastmodified":1466767528,
+    "wof:lastmodified":1486769459,
     "wof:name":"Hollywood Tan & Hair",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

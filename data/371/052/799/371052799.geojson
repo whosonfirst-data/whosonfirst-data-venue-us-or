@@ -2,9 +2,14 @@
   "id": 371052799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1865 NE Davis St Portland OR 97232",
+    "addr:housenumber":"1865",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646933,45.524388,-122.646933,45.524388",
     "geom:latitude":45.524388,
     "geom:longitude":-122.646933,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"f7930d0236c2f22f27fb39c91a9e1528",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":371052799
         }
     ],
     "wof:id":371052799,
-    "wof:lastmodified":1466768032,
+    "wof:lastmodified":1486767481,
     "wof:name":"Ruth V Russell",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

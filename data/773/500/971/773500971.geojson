@@ -2,9 +2,14 @@
   "id": 773500971,
   "type": "Feature",
   "properties": {
+    "addr:full":"3209 SE Knapp St Portland OR 97202",
+    "addr:housenumber":"3209",
+    "addr:postcode":"97202",
+    "addr:street":"Se Knapp St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629459,45.471099,-122.629459,45.471099",
     "geom:latitude":45.471099,
     "geom:longitude":-122.629459,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":773500971
         }
     ],
     "wof:id":773500971,
-    "wof:lastmodified":1466774947,
+    "wof:lastmodified":1486767598,
     "wof:name":"Lord Cheryl",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

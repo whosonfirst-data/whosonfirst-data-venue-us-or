@@ -2,9 +2,14 @@
   "id": 790007161,
   "type": "Feature",
   "properties": {
+    "addr:full":"7112 NE Glisan St Portland OR 97213",
+    "addr:housenumber":"7112",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589427,45.526441,-122.589427,45.526441",
     "geom:latitude":45.526441,
     "geom:longitude":-122.589427,
@@ -42,12 +47,13 @@
     "sg:website":"www.homegrowngardensupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790007161
         }
     ],
     "wof:id":790007161,
-    "wof:lastmodified":1466767534,
+    "wof:lastmodified":1486768041,
     "wof:name":"Homegrown Garden Supply",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

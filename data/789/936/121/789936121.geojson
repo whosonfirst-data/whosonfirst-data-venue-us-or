@@ -2,9 +2,14 @@
   "id": 789936121,
   "type": "Feature",
   "properties": {
+    "addr:full":"6845 SE 47th Ave Portland OR 97206",
+    "addr:housenumber":"6845",
+    "addr:postcode":"97206",
+    "addr:street":"Se 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.614555,45.473328,-122.614555,45.473328",
     "geom:latitude":45.473328,
     "geom:longitude":-122.614555,
@@ -29,12 +34,13 @@
     "sg:website":"www.pepsilconcrete.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85859031
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85859031,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":789936121
         }
     ],
     "wof:id":789936121,
-    "wof:lastmodified":1466772370,
+    "wof:lastmodified":1486772241,
     "wof:name":"Pepsil Concrete Services",
-    "wof:parent_id":85859031,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

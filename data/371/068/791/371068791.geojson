@@ -2,9 +2,14 @@
   "id": 371068791,
   "type": "Feature",
   "properties": {
+    "addr:full":"16916 SE Main St Portland OR 97233",
+    "addr:housenumber":"16916",
+    "addr:postcode":"97233",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.488926,45.513587,-122.488926,45.513587",
     "geom:latitude":45.513587,
     "geom:longitude":-122.488926,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"00ac0a86aa16cbea34234e3a5fbd4ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":371068791
         }
     ],
     "wof:id":371068791,
-    "wof:lastmodified":1466768288,
+    "wof:lastmodified":1486771522,
     "wof:name":"Win Win Real Estate Investment",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

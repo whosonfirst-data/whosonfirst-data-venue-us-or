@@ -2,9 +2,14 @@
   "id": 789602289,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 SE 135th Ave Portland OR 97233",
+    "addr:housenumber":"1001",
+    "addr:postcode":"97233",
+    "addr:street":"Se 135Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524836,45.515814,-122.524836,45.515814",
     "geom:latitude":45.515814,
     "geom:longitude":-122.524836,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.arthuracademy.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":789602289
         }
     ],
     "wof:id":789602289,
-    "wof:lastmodified":1466768423,
+    "wof:lastmodified":1486770722,
     "wof:name":"David Douglas High School",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

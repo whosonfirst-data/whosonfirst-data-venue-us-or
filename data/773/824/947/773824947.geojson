@@ -2,9 +2,14 @@
   "id": 773824947,
   "type": "Feature",
   "properties": {
+    "addr:full":"6423 N Interstate Ave Portland OR 97217",
+    "addr:housenumber":"6423",
+    "addr:postcode":"97217",
+    "addr:street":"N Interstate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681999,45.569401,-122.681999,45.569401",
     "geom:latitude":45.569401,
     "geom:longitude":-122.681999,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773824947
         }
     ],
     "wof:id":773824947,
-    "wof:lastmodified":1466776155,
+    "wof:lastmodified":1486772114,
     "wof:name":"Night Hawk Cafe & Lounge",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

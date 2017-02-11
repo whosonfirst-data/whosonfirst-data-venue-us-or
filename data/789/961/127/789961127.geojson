@@ -2,9 +2,14 @@
   "id": 789961127,
   "type": "Feature",
   "properties": {
+    "addr:full":"Urban ID 319 NW 9th Ave Portland OR 97209",
+    "addr:housenumber":"319",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680193,45.525243,-122.680193,45.525243",
     "geom:latitude":45.525243,
     "geom:longitude":-122.680193,
@@ -36,12 +41,13 @@
     "sg:website":"www.brockdesigns.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789961127
         }
     ],
     "wof:id":789961127,
-    "wof:lastmodified":1466772685,
+    "wof:lastmodified":1486763425,
     "wof:name":"Brock Designs",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

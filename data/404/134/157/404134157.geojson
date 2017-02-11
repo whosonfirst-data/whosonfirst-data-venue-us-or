@@ -2,9 +2,14 @@
   "id": 404134157,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 NW Davis St Portland OR 97209",
+    "addr:housenumber":"925",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680984,45.524482,-122.680984,45.524482",
     "geom:latitude":45.524482,
     "geom:longitude":-122.680984,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f6258477c130720180e4d55a8b1154ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":404134157
         }
     ],
     "wof:id":404134157,
-    "wof:lastmodified":1466771267,
+    "wof:lastmodified":1486763084,
     "wof:name":"Blossoming Lotus",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370255613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3859 NE 149th Ave Portland OR 97230",
+    "addr:housenumber":"3859",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 149Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508389,45.550862,-122.508389,45.550862",
     "geom:latitude":45.550862,
     "geom:longitude":-122.508389,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"f67c2bc575a32b8b42853baa2e66ef15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893153,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370255613
         }
     ],
     "wof:id":370255613,
-    "wof:lastmodified":1466768991,
+    "wof:lastmodified":1486772071,
     "wof:name":"Donald Schmidt",
-    "wof:parent_id":85893153,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

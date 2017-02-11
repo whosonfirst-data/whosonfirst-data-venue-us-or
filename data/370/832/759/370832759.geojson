@@ -2,9 +2,14 @@
   "id": 370832759,
   "type": "Feature",
   "properties": {
+    "addr:full":"9604 SW Kelly Ave Portland OR 97219",
+    "addr:housenumber":"9604",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Kelly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675596,45.454917,-122.675596,45.454917",
     "geom:latitude":45.454917,
     "geom:longitude":-122.675596,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"bf3acb554e6752430c6e54b3c7f574e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":370832759
         }
     ],
     "wof:id":370832759,
-    "wof:lastmodified":1466774188,
+    "wof:lastmodified":1486764928,
     "wof:name":"Interventions Inc",
     "wof:parent_id":85871517,
     "wof:placetype":"venue",

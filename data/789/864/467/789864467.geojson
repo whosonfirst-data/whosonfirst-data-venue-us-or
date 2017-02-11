@@ -2,9 +2,14 @@
   "id": 789864467,
   "type": "Feature",
   "properties": {
+    "addr:full":"2623 SE Raymond St Portland OR 97202",
+    "addr:housenumber":"2623",
+    "addr:postcode":"97202",
+    "addr:street":"Se Raymond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639306,45.487052,-122.639306,45.487052",
     "geom:latitude":45.487052,
     "geom:longitude":-122.639306,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789864467
         }
     ],
     "wof:id":789864467,
-    "wof:lastmodified":1466771046,
+    "wof:lastmodified":1486767071,
     "wof:name":"Mc Bride Sheet Metal",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

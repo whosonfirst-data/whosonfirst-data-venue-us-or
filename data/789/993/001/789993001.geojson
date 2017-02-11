@@ -2,9 +2,14 @@
   "id": 789993001,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 NE Columbia Boulevard Portland OR 97211",
+    "addr:housenumber":"3610",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626602,45.572788,-122.626602,45.572788",
     "geom:latitude":45.572788,
     "geom:longitude":-122.626602,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789993001
         }
     ],
     "wof:id":789993001,
-    "wof:lastmodified":1466773209,
+    "wof:lastmodified":1486768300,
     "wof:name":"The Toy Man",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

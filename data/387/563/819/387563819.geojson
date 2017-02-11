@@ -2,9 +2,14 @@
   "id": 387563819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 SW 16th Ave Portland OR 97201",
+    "addr:housenumber":"1303",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690736,45.517002,-122.690736,45.517002",
     "geom:latitude":45.517002,
     "geom:longitude":-122.690736,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"4b1adcb0bc24480b397d2145eab72cb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387563819
         }
     ],
     "wof:id":387563819,
-    "wof:lastmodified":1466773717,
+    "wof:lastmodified":1486770925,
     "wof:name":"Mc Kinney Johnson",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

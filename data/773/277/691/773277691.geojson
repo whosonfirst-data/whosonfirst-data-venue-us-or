@@ -2,9 +2,14 @@
   "id": 773277691,
   "type": "Feature",
   "properties": {
+    "addr:full":"1241 NE Marine Dr Portland OR 97211",
+    "addr:housenumber":"1241",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654758,45.600809,-122.654758,45.600809",
     "geom:latitude":45.600809,
     "geom:longitude":-122.654758,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.portlandyc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721327,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZTcy51XTxbUluxc908KnY_45.600809_-122.654758@1294180530"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462584498,
     "wof:geomhash":"ed5152f14e9f08df49526530b4f7f15c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721327,
+            "region_id":85688513,
+            "venue_id":773277691
+        }
+    ],
     "wof:id":773277691,
-    "wof:lastmodified":1466772584,
+    "wof:lastmodified":1486772374,
     "wof:name":"Portland Yacht Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371123675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1888 SW Madison St Portland OR 97205",
+    "addr:housenumber":"1888",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692749,45.518626,-122.692749,45.518626",
     "geom:latitude":45.518626,
     "geom:longitude":-122.692749,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"f391cfcf6938284ad2446e709dc8ba5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":371123675
         }
     ],
     "wof:id":371123675,
-    "wof:lastmodified":1466769219,
+    "wof:lastmodified":1486763945,
     "wof:name":"Oregon Sports Authority",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

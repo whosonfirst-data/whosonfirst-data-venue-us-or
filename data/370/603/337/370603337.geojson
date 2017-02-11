@@ -2,9 +2,14 @@
   "id": 370603337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1846 N Farragut St Portland OR 97217",
+    "addr:housenumber":"1846",
+    "addr:postcode":"97217",
+    "addr:street":"N Farragut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686536,45.578752,-122.686536,45.578752",
     "geom:latitude":45.578752,
     "geom:longitude":-122.686536,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513,
+        85828137,
+        1108714605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"c446369ad450024d398de0cbe781f340",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":370603337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370603337
         }
     ],
     "wof:id":370603337,
-    "wof:lastmodified":1466773057,
+    "wof:lastmodified":1486769514,
     "wof:name":"Executive Coaching Services",
-    "wof:parent_id":85841531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

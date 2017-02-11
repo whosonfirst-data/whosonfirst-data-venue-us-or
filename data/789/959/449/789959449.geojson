@@ -2,9 +2,14 @@
   "id": 789959449,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 NW 2nd Ave Suite 850 Portland OR 97209",
+    "addr:housenumber":"221",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 2Nd Ave Suite 850",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672524,45.524736,-122.672524,45.524736",
     "geom:latitude":45.524736,
     "geom:longitude":-122.672524,
@@ -30,12 +35,13 @@
     "sg:website":"www.nwhf.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789959449
         }
     ],
     "wof:id":789959449,
-    "wof:lastmodified":1466772525,
+    "wof:lastmodified":1486763370,
     "wof:name":"Northwest Health Foundation",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

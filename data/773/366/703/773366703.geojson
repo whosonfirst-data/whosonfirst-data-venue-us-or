@@ -2,9 +2,14 @@
   "id": 773366703,
   "type": "Feature",
   "properties": {
+    "addr:full":"8439 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"8439",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684932,45.463168,-122.684932,45.463168",
     "geom:latitude":45.463168,
     "geom:longitude":-122.684932,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":773366703
         }
     ],
     "wof:id":773366703,
-    "wof:lastmodified":1466773648,
+    "wof:lastmodified":1486763919,
     "wof:name":"Barber Shop",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

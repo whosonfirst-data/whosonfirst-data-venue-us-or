@@ -2,9 +2,14 @@
   "id": 789587053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1431 SE 23rd Ave Portland OR 97214",
+    "addr:housenumber":"1431",
+    "addr:postcode":"97214",
+    "addr:street":"Se 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641998,45.512299,-122.641998,45.512299",
     "geom:latitude":45.512299,
     "geom:longitude":-122.641998,
@@ -31,12 +36,14 @@
     "sg:website":"http://www.hawthornevet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":789587053
         }
     ],
     "wof:id":789587053,
-    "wof:lastmodified":1466768069,
+    "wof:lastmodified":1486773673,
     "wof:name":"Hawthorne Veterinary Clinic",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

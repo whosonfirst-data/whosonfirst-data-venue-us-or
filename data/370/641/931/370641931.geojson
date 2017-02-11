@@ -2,9 +2,14 @@
   "id": 370641931,
   "type": "Feature",
   "properties": {
+    "addr:full":"10726 SW 63rd Pl Portland OR 97219",
+    "addr:housenumber":"10726",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 63Rd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.741832,45.447996,-122.741832,45.447996",
     "geom:latitude":45.447996,
     "geom:longitude":-122.741832,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
+        102191575,
+        1108714057,
         85633793,
-        101715823,
-        102082215,
-        85853819
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"afce04de3ef4a7c6d188068d81cd91d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101715823,
-            "neighbourhood_id":85853819,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":370641931
         }
     ],
     "wof:id":370641931,
-    "wof:lastmodified":1466773350,
+    "wof:lastmodified":1486772398,
     "wof:name":"Ken Bergmann Concrete Cnstr",
-    "wof:parent_id":85853819,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387960749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 SW Park Pl Portland OR 97205",
+    "addr:housenumber":"2400",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700703,45.521304,-122.700703,45.521304",
     "geom:latitude":45.521304,
     "geom:longitude":-122.700703,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"2b9bd30ed67f7c51129b63d81c865615",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":387960749
         }
     ],
     "wof:id":387960749,
-    "wof:lastmodified":1466775476,
+    "wof:lastmodified":1486770890,
     "wof:name":"N&B Properties LLC",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

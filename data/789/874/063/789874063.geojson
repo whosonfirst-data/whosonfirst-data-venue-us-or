@@ -2,9 +2,14 @@
   "id": 789874063,
   "type": "Feature",
   "properties": {
+    "addr:full":"8330 N Ivanhoe Street Portland OR 97203",
+    "addr:housenumber":"8330",
+    "addr:postcode":"97203",
+    "addr:street":"N Ivanhoe Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.753088,45.588994,-122.753088,45.588994",
     "geom:latitude":45.588994,
     "geom:longitude":-122.753088,
@@ -30,11 +35,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +52,20 @@
     "wof:geomhash":"a56d94c1b53d9b5c3c9dd18393d60f01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":789874063
         }
     ],
     "wof:id":789874063,
-    "wof:lastmodified":1466771416,
+    "wof:lastmodified":1486769738,
     "wof:name":"Safeway Food & Drug",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

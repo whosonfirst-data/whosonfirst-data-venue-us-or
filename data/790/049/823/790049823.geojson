@@ -2,9 +2,14 @@
   "id": 790049823,
   "type": "Feature",
   "properties": {
+    "addr:full":"9699 SE Stark Street Portland OR 97216",
+    "addr:housenumber":"9699",
+    "addr:postcode":"97216",
+    "addr:street":"Se Stark Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563823,45.519143,-122.563823,45.519143",
     "geom:latitude":45.519143,
     "geom:longitude":-122.563823,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790049823
         }
     ],
     "wof:id":790049823,
-    "wof:lastmodified":1466768062,
+    "wof:lastmodified":1486770770,
     "wof:name":"Chestnut Tree Inn",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

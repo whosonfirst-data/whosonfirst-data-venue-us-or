@@ -2,9 +2,14 @@
   "id": 387242089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 SW Heather Ln Portland OR 97201",
+    "addr:housenumber":"3333",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Heather Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712794,45.502611,-122.712794,45.502611",
     "geom:latitude":45.502611,
     "geom:longitude":-122.712794,
@@ -30,11 +35,13 @@
     "sg:website":"www.sellingselling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5ce69d99999d57e8fc74bd889644dc82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":387242089
         }
     ],
     "wof:id":387242089,
-    "wof:lastmodified":1466771559,
+    "wof:lastmodified":1486763955,
     "wof:name":"Alan J Zell Ambassador-Selling",
     "wof:parent_id":85867153,
     "wof:placetype":"venue",

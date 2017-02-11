@@ -2,9 +2,14 @@
   "id": 773288449,
   "type": "Feature",
   "properties": {
+    "addr:full":"12050 SE Holgate Blvd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"12050;97266",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.538867,45.489554,-122.538867,45.489554",
     "geom:latitude":45.489554,
     "geom:longitude":-122.538867,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773288449
         }
     ],
     "wof:id":773288449,
-    "wof:lastmodified":1466772626,
+    "wof:lastmodified":1486767633,
     "wof:name":"Denise G Dallmann  ND",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

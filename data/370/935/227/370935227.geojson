@@ -2,9 +2,14 @@
   "id": 370935227,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 NW Hilltop Rd Portland OR 97210",
+    "addr:housenumber":"230",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Hilltop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.725748,45.52352,-122.725748,45.52352",
     "geom:latitude":45.52352,
     "geom:longitude":-122.725748,
@@ -31,14 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85871503,
-        101716333,
-        102082215,
-        85851719
+        1108714055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +54,30 @@
     "wof:geomhash":"5b0aa691e0119d35cdf690f084837076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871503,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":370935227
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
-            "neighbourhood_id":85851719,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":370935227
         }
     ],
     "wof:id":370935227,
-    "wof:lastmodified":1466774859,
+    "wof:lastmodified":1486771073,
     "wof:name":"Hoffman Hubbard Interior",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

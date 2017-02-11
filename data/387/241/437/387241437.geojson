@@ -2,9 +2,14 @@
   "id": 387241437,
   "type": "Feature",
   "properties": {
+    "addr:full":"6312 SW 50th Ave Portland OR 97221",
+    "addr:housenumber":"6312",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728231,45.478051,-122.728231,45.478051",
     "geom:latitude":45.478051,
     "geom:longitude":-122.728231,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"dd177816d711f8500fe0a6928ffb125d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":387241437
         }
     ],
     "wof:id":387241437,
-    "wof:lastmodified":1466771557,
+    "wof:lastmodified":1486774192,
     "wof:name":"Integrate Inc",
-    "wof:parent_id":85853645,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

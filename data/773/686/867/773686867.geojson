@@ -2,9 +2,14 @@
   "id": 773686867,
   "type": "Feature",
   "properties": {
+    "addr:full":"15812 NE Stanton St Portland OR 97230",
+    "addr:housenumber":"15812",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Stanton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499137,45.543947,-122.499137,45.543947",
     "geom:latitude":45.543947,
     "geom:longitude":-122.499137,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":773686867
         }
     ],
     "wof:id":773686867,
-    "wof:lastmodified":1466775746,
+    "wof:lastmodified":1486768802,
     "wof:name":"Rick Myron Bulldozing & Bldg",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

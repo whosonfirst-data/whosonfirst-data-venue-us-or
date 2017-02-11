@@ -2,9 +2,14 @@
   "id": 790223955,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 SE 148th Ave Portland OR 97233",
+    "addr:housenumber":"606",
+    "addr:postcode":"97233",
+    "addr:street":"Se 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510727,45.51835,-122.510727,45.51835",
     "geom:latitude":45.51835,
     "geom:longitude":-122.510727,
@@ -48,12 +53,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +75,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":790223955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790223955
         }
     ],
     "wof:id":790223955,
-    "wof:lastmodified":1466771943,
+    "wof:lastmodified":1486771555,
     "wof:name":"Allstate Insurance Company - Joel Phillips",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

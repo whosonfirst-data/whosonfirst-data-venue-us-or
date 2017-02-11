@@ -2,9 +2,14 @@
   "id": 387343909,
   "type": "Feature",
   "properties": {
+    "addr:full":"10615 SE Knight St Portland OR 97266",
+    "addr:housenumber":"10615",
+    "addr:postcode":"97266",
+    "addr:street":"Se Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552338,45.479714,-122.552338,45.479714",
     "geom:latitude":45.479714,
     "geom:longitude":-122.552338,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"30f3fcc324f4e4b218f1679593a34c7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":387343909
         }
     ],
     "wof:id":387343909,
-    "wof:lastmodified":1466772199,
+    "wof:lastmodified":1486769541,
     "wof:name":"Q B Fabrication & Welding",
-    "wof:parent_id":85830297,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

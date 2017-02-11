@@ -2,9 +2,14 @@
   "id": 773285183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2477 SW Arden Rd Portland OR 97201",
+    "addr:housenumber":"2477",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Arden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702282,45.50237,-122.702282,45.50237",
     "geom:latitude":45.50237,
     "geom:longitude":-122.702282,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":773285183
         }
     ],
     "wof:id":773285183,
-    "wof:lastmodified":1466772556,
+    "wof:lastmodified":1486770642,
     "wof:name":"Marilyn Podemski Attorney",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

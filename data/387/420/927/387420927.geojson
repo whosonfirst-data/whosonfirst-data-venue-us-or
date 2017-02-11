@@ -2,9 +2,14 @@
   "id": 387420927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2546 SW Sherwood Dr Portland OR 97201",
+    "addr:housenumber":"2546",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Sherwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699311,45.501575,-122.699311,45.501575",
     "geom:latitude":45.501575,
     "geom:longitude":-122.699311,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"83a7e2e12caba5d52345c919f8a2a291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":387420927
         }
     ],
     "wof:id":387420927,
-    "wof:lastmodified":1466772596,
+    "wof:lastmodified":1486770604,
     "wof:name":"Stewart Group Ltd",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

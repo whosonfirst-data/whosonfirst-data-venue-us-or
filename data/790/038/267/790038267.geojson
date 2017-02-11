@@ -2,9 +2,14 @@
   "id": 790038267,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 SE Alder Portland OR 97214",
+    "addr:housenumber":"939",
+    "addr:postcode":"97214",
+    "addr:street":"Se Alder",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655983,45.517998,-122.655983,45.517998",
     "geom:latitude":45.517998,
     "geom:longitude":-122.655983,
@@ -27,12 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +54,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790038267
         }
     ],
     "wof:id":790038267,
-    "wof:lastmodified":1466767837,
+    "wof:lastmodified":1486773461,
     "wof:name":"The Plant",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

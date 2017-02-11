@@ -2,9 +2,14 @@
   "id": 370599575,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 NW Royal Blvd Portland OR 97210",
+    "addr:housenumber":"311",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Royal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.743527,45.522083,-122.743527,45.522083",
     "geom:latitude":45.522083,
     "geom:longitude":-122.743527,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85804571,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85851719,
+        1108714057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +52,30 @@
     "wof:geomhash":"478cc799e0d89c3001cb205cb9e7d23e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85804571,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":370599575
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":370599575
         }
     ],
     "wof:id":370599575,
-    "wof:lastmodified":1466773047,
+    "wof:lastmodified":1486772185,
     "wof:name":"Timmerman & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

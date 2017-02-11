@@ -2,9 +2,14 @@
   "id": 370588251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 SW Plum Ct Portland OR 97219",
+    "addr:housenumber":"2625",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Plum Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.703642,45.456346,-122.703642,45.456346",
     "geom:latitude":45.456346,
     "geom:longitude":-122.703642,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"3cc376f8f04b7ac37de7cb91b958d3c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":370588251
         }
     ],
     "wof:id":370588251,
-    "wof:lastmodified":1466772943,
+    "wof:lastmodified":1486764420,
     "wof:name":"Progressive Air",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

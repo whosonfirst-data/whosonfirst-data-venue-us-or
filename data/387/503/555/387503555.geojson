@@ -2,9 +2,14 @@
   "id": 387503555,
   "type": "Feature",
   "properties": {
+    "addr:full":"4716 NE 77th Ave Portland OR 97218",
+    "addr:housenumber":"4716",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 77Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583781,45.557389,-122.583781,45.557389",
     "geom:latitude":45.557389,
     "geom:longitude":-122.583781,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"c07f0d538a46df8502b3b5d09a6b3c7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387503555
         }
     ],
     "wof:id":387503555,
-    "wof:lastmodified":1466773256,
+    "wof:lastmodified":1486771603,
     "wof:name":"Tom Cagle",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

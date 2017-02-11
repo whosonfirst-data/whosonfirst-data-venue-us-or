@@ -2,9 +2,14 @@
   "id": 790116675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1750 SE Ochoco St Milwaukie OR 97222",
+    "addr:housenumber":"1750",
+    "addr:postcode":"97222",
+    "addr:street":"Se Ochoco St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644982,45.458676,-122.644982,45.458676",
     "geom:latitude":45.458676,
     "geom:longitude":-122.644982,
@@ -33,7 +38,15 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867151,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dfPxJI8WReXctlFtiOTb1_45.458676_-122.644982@1303263423"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462593263,
     "wof:geomhash":"4ce2b3643b4817b9aafb95646c1f2404",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
+            "region_id":85688513,
+            "venue_id":790116675
+        }
+    ],
     "wof:id":790116675,
-    "wof:lastmodified":1466768470,
+    "wof:lastmodified":1486770531,
     "wof:name":"Goodwill Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

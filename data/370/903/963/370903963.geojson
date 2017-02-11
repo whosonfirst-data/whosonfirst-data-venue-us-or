@@ -2,9 +2,14 @@
   "id": 370903963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2421 SE Orange Ave Portland OR 97214",
+    "addr:housenumber":"2421",
+    "addr:postcode":"97214",
+    "addr:street":"Se Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651383,45.505532,-122.651383,45.505532",
     "geom:latitude":45.505532,
     "geom:longitude":-122.651383,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"13d1daf3c7b593c4ec1336e3672fdb7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":370903963
         }
     ],
     "wof:id":370903963,
-    "wof:lastmodified":1466774580,
+    "wof:lastmodified":1486773551,
     "wof:name":"Childswork Learning Ctr",
-    "wof:parent_id":85893193,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

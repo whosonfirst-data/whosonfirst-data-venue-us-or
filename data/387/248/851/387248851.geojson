@@ -2,9 +2,14 @@
   "id": 387248851,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"823",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656731,45.535134,-122.656731,45.535134",
     "geom:latitude":45.535134,
     "geom:longitude":-122.656731,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"524df6cd6c12fcd671a3e10a3ddeb4b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":387248851
         }
     ],
     "wof:id":387248851,
-    "wof:lastmodified":1466771636,
+    "wof:lastmodified":1486769489,
     "wof:name":"Donnell Gaby Lcsw",
-    "wof:parent_id":-1,
+    "wof:parent_id":85827095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

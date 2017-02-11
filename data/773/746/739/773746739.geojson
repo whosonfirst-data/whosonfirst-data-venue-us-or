@@ -2,9 +2,14 @@
   "id": 773746739,
   "type": "Feature",
   "properties": {
+    "addr:full":"14426 NE Morris Ct Portland OR 97230",
+    "addr:housenumber":"14426",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Morris Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.514384,45.544841,-122.514384,45.544841",
     "geom:latitude":45.544841,
     "geom:longitude":-122.514384,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513,
+        85893153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
+            "region_id":85688513,
+            "venue_id":773746739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":773746739
         }
     ],
     "wof:id":773746739,
-    "wof:lastmodified":1466775863,
+    "wof:lastmodified":1486771490,
     "wof:name":"Jdj Industries LLC",
-    "wof:parent_id":85893261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403946105,
   "type": "Feature",
   "properties": {
+    "addr:full":"6523 SE Powell Blvd Portland OR 97206",
+    "addr:housenumber":"6523",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.595691,45.497528,-122.595691,45.497528",
     "geom:latitude":45.497528,
     "geom:longitude":-122.595691,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b79d9a1cd23854b586f6f1b451292605",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":403946105
         }
     ],
     "wof:id":403946105,
-    "wof:lastmodified":1466768186,
+    "wof:lastmodified":1486766970,
     "wof:name":"Independent 32 Year Old Blonde",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

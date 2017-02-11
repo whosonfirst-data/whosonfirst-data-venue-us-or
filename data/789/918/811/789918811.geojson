@@ -2,9 +2,14 @@
   "id": 789918811,
   "type": "Feature",
   "properties": {
+    "addr:full":"511 SW 10th Avenue Suite 810 Portland OR 97205",
+    "addr:housenumber":"511",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 10Th Avenue Suite 810",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692616,45.520333,-122.692616,45.520333",
     "geom:latitude":45.520333,
     "geom:longitude":-122.692616,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789918811
         }
     ],
     "wof:id":789918811,
-    "wof:lastmodified":1466772176,
+    "wof:lastmodified":1486764308,
     "wof:name":"Paulson Duane R DDS",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

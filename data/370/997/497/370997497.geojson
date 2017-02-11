@@ -2,9 +2,14 @@
   "id": 370997497,
   "type": "Feature",
   "properties": {
+    "addr:full":"9400 NW Saint Helens Rd Portland OR 97231",
+    "addr:housenumber":"9400",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.778789,45.590567,-122.778789,45.590567",
     "geom:latitude":45.590567,
     "geom:longitude":-122.778789,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830793,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857649
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"051a250d4cf82fb76c81cef08fe9f2c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857649,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":370997497
         }
     ],
     "wof:id":370997497,
-    "wof:lastmodified":1466775079,
+    "wof:lastmodified":1486769579,
     "wof:name":"Shore Terminals LLC",
-    "wof:parent_id":85857649,
+    "wof:parent_id":85830793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

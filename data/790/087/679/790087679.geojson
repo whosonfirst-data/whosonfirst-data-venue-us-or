@@ -2,9 +2,14 @@
   "id": 790087679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 NE 106th Ave Portland OR 97220",
+    "addr:housenumber":"1515",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 106Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554001,45.533699,-122.554001,45.533699",
     "geom:latitude":45.533699,
     "geom:longitude":-122.554001,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":790087679
         }
     ],
     "wof:id":790087679,
-    "wof:lastmodified":1466767439,
+    "wof:lastmodified":1486771885,
     "wof:name":"Little Chaper of the Chimes-Gateway",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

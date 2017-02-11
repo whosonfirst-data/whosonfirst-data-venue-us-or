@@ -2,9 +2,14 @@
   "id": 790046593,
   "type": "Feature",
   "properties": {
+    "addr:full":"2442 SE 101st Avenue Suite 307 Portland OR 97216",
+    "addr:housenumber":"2442",
+    "addr:postcode":"97216",
+    "addr:street":"Se 101St Avenue Suite 307",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.559545,45.504849,-122.559545,45.504849",
     "geom:latitude":45.504849,
     "geom:longitude":-122.559545,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790046593
         }
     ],
     "wof:id":790046593,
-    "wof:lastmodified":1466767993,
+    "wof:lastmodified":1486770764,
     "wof:name":"Manual Therapy Associates",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

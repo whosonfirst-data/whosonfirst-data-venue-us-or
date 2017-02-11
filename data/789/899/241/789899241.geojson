@@ -2,9 +2,14 @@
   "id": 789899241,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 SW 3rd Avenue Ste 201 Portland OR 97204",
+    "addr:housenumber":"501",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 3Rd Avenue Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674819,45.519585,-122.674819,45.519585",
     "geom:latitude":45.519585,
     "geom:longitude":-122.674819,
@@ -29,12 +34,13 @@
     "sg:website":"www.pdx-acupuncture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789899241
         }
     ],
     "wof:id":789899241,
-    "wof:lastmodified":1466771904,
+    "wof:lastmodified":1486770046,
     "wof:name":"PDX Acupuncture",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

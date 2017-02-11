@@ -2,9 +2,14 @@
   "id": 790198577,
   "type": "Feature",
   "properties": {
+    "addr:full":"13446 NE Whitaker Way Portland OR 97230",
+    "addr:housenumber":"13446",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Whitaker Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524598,45.557468,-122.524598,45.557468",
     "geom:latitude":45.557468,
     "geom:longitude":-122.524598,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":790198577
         }
     ],
     "wof:id":790198577,
-    "wof:lastmodified":1466771507,
+    "wof:lastmodified":1486769292,
     "wof:name":"I L H",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

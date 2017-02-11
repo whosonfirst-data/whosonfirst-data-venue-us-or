@@ -2,9 +2,14 @@
   "id": 773200475,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 SE 26th Pl Portland OR 97202",
+    "addr:housenumber":"8400",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636589,45.462951,-122.636589,45.462951",
     "geom:latitude":45.462951,
     "geom:longitude":-122.636589,
@@ -33,12 +38,13 @@
     "sg:website":"www.eastsideplating.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803429
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85803429,
             "region_id":85688513,
             "venue_id":773200475
         }
     ],
     "wof:id":773200475,
-    "wof:lastmodified":1466771435,
+    "wof:lastmodified":1486769366,
     "wof:name":"East Side Plating Inc",
     "wof:parent_id":85803429,
     "wof:placetype":"venue",

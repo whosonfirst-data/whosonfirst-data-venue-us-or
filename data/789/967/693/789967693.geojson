@@ -2,9 +2,14 @@
   "id": 789967693,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 NW York Street Portland OR 97210",
+    "addr:housenumber":"2121",
+    "addr:postcode":"97210",
+    "addr:street":"Nw York Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695231,45.53902,-122.695231,45.53902",
     "geom:latitude":45.53902,
     "geom:longitude":-122.695231,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789967693
         }
     ],
     "wof:id":789967693,
-    "wof:lastmodified":1466772794,
+    "wof:lastmodified":1486771259,
     "wof:name":"Architectural Signing Northwest",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

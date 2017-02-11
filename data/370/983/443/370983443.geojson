@@ -2,9 +2,14 @@
   "id": 370983443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1431 SE 37th Ave Portland OR 97214",
+    "addr:housenumber":"1431",
+    "addr:postcode":"97214",
+    "addr:street":"Se 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625944,45.512302,-122.625944,45.512302",
     "geom:latitude":45.512302,
     "geom:longitude":-122.625944,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"9ee3192b4a382f04c64cdb56a4050f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370983443
         }
     ],
     "wof:id":370983443,
-    "wof:lastmodified":1466775128,
+    "wof:lastmodified":1486773674,
     "wof:name":"Imelda's Designer Shoes",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

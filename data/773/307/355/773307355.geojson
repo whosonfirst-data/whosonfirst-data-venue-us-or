@@ -2,9 +2,14 @@
   "id": 773307355,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 NE 11th Ave Portland OR 97232",
+    "addr:housenumber":"911",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654652,45.529977,-122.654652,45.529977",
     "geom:latitude":45.529977,
     "geom:longitude":-122.654652,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":773307355
         }
     ],
     "wof:id":773307355,
-    "wof:lastmodified":1466773016,
+    "wof:lastmodified":1486771314,
     "wof:name":"Pacific Northwest Federal CU",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789986013,
   "type": "Feature",
   "properties": {
+    "addr:full":"6530 NE Martin Luther King Blvd Portland OR 97211",
+    "addr:housenumber":"6530",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Martin Luther King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66105,45.570518,-122.66105,45.570518",
     "geom:latitude":45.570518,
     "geom:longitude":-122.66105,
@@ -29,12 +34,13 @@
     "sg:website":"www.relevantyellow.com/Roofing-i...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":789986013
         }
     ],
     "wof:id":789986013,
-    "wof:lastmodified":1466773017,
+    "wof:lastmodified":1486768454,
     "wof:name":"George A Ellis Roofing Inc.",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

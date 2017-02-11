@@ -2,9 +2,14 @@
   "id": 387300201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 SE 82nd Ave Portland OR 97216",
+    "addr:housenumber":"1409",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578789,45.512662,-122.578789,45.512662",
     "geom:latitude":45.512662,
     "geom:longitude":-122.578789,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"21d1be0e2dd8b0d5a798d7a14e68dc21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387300201
         }
     ],
     "wof:id":387300201,
-    "wof:lastmodified":1466771927,
+    "wof:lastmodified":1486766877,
     "wof:name":"US West Coast Tae Kwon Do Assn",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

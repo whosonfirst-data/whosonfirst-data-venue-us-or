@@ -2,9 +2,14 @@
   "id": 789890479,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 SW Washington Portland OR 97204",
+    "addr:housenumber":"232",
+    "addr:postcode":"97204",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67417,45.519384,-122.67417,45.519384",
     "geom:latitude":45.519384,
     "geom:longitude":-122.67417,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789890479
         }
     ],
     "wof:id":789890479,
-    "wof:lastmodified":1466771687,
+    "wof:lastmodified":1486765235,
     "wof:name":"Korean Twist",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

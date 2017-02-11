@@ -2,9 +2,14 @@
   "id": 790030677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1437 SE 40th Ave Portland OR 97214",
+    "addr:housenumber":"1437",
+    "addr:postcode":"97214",
+    "addr:street":"Se 40Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621561,45.512354,-122.621561,45.512354",
     "geom:latitude":45.512354,
     "geom:longitude":-122.621561,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790030677
         }
     ],
     "wof:id":790030677,
-    "wof:lastmodified":1466767770,
+    "wof:lastmodified":1486773699,
     "wof:name":"Lauren Hair Design",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

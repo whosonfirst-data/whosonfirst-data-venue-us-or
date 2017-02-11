@@ -2,9 +2,14 @@
   "id": 404069801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"1212",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.53759,45.532291,-122.53759,45.532291",
     "geom:latitude":45.532291,
     "geom:longitude":-122.53759,
@@ -30,11 +35,15 @@
     "sg:website":"www.tonkin.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"3480a05368524bd327185a88ef79d4ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":404069801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":404069801
         }
     ],
     "wof:id":404069801,
-    "wof:lastmodified":1466769720,
+    "wof:lastmodified":1486770747,
     "wof:name":"Ron Tonkin Nissan",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

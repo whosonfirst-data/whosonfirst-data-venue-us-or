@@ -2,9 +2,14 @@
   "id": 790001309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1909 NE M L King Blvd Portland OR 97212",
+    "addr:housenumber":"1909",
+    "addr:postcode":"97212",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661876,45.53692,-122.661876,45.53692",
     "geom:latitude":45.53692,
     "geom:longitude":-122.661876,
@@ -29,12 +34,13 @@
     "sg:website":"www.strutsalonportland.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790001309
         }
     ],
     "wof:id":790001309,
-    "wof:lastmodified":1466767502,
+    "wof:lastmodified":1486768382,
     "wof:name":"Strut Salon",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

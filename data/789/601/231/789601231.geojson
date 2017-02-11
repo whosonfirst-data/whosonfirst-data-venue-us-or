@@ -2,9 +2,14 @@
   "id": 789601231,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 SE Morrison St Portland OR 97214",
+    "addr:housenumber":"735",
+    "addr:postcode":"97214",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657938,45.517292,-122.657938,45.517292",
     "geom:latitude":45.517292,
     "geom:longitude":-122.657938,
@@ -23,12 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789601231
         }
     ],
     "wof:id":789601231,
-    "wof:lastmodified":1466768377,
+    "wof:lastmodified":1486773511,
     "wof:name":"Gold Star Restaurant Equipment",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

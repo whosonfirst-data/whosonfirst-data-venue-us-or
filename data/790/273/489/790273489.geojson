@@ -2,9 +2,14 @@
   "id": 790273489,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 30717 Portland OR 97294",
+    "addr:housenumber":"po box 30717",
+    "addr:postcode":"97294",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612,45.540001,-122.612,45.540001",
     "geom:latitude":45.540001,
     "geom:longitude":-122.612,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893189
+        85688513,
+        85867145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
+            "region_id":85688513,
+            "venue_id":790273489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":790273489
         }
     ],
     "wof:id":790273489,
-    "wof:lastmodified":1466772747,
+    "wof:lastmodified":1486770380,
     "wof:name":"Metropolitan Printing Company",
-    "wof:parent_id":85893189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387963255,
   "type": "Feature",
   "properties": {
+    "addr:full":"9115 NE Hoyt St Portland OR 97220",
+    "addr:housenumber":"9115",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Hoyt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569497,45.527142,-122.569497,45.527142",
     "geom:latitude":45.527142,
     "geom:longitude":-122.569497,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0ba16d529a10bcc114d8686f5ff719e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387963255
         }
     ],
     "wof:id":387963255,
-    "wof:lastmodified":1466775481,
+    "wof:lastmodified":1486769600,
     "wof:name":"Lion of Judah Congregation",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

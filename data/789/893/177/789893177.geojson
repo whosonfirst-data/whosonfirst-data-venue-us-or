@@ -2,9 +2,14 @@
   "id": 789893177,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 SW 6th Avenue Portland OR 97204",
+    "addr:housenumber":"900",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 6Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679324,45.517746,-122.679324,45.517746",
     "geom:latitude":45.517746,
     "geom:longitude":-122.679324,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789893177
         }
     ],
     "wof:id":789893177,
-    "wof:lastmodified":1466771717,
+    "wof:lastmodified":1486763864,
     "wof:name":"U S Bank",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

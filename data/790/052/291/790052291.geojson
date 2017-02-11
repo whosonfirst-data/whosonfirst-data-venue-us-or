@@ -2,9 +2,14 @@
   "id": 790052291,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 N Ainsworth St Portland OR 97217",
+    "addr:housenumber":"660",
+    "addr:postcode":"97217",
+    "addr:street":"N Ainsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673507,45.566434,-122.673507,45.566434",
     "geom:latitude":45.566434,
     "geom:longitude":-122.673507,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790052291
         }
     ],
     "wof:id":790052291,
-    "wof:lastmodified":1466768109,
+    "wof:lastmodified":1486768307,
     "wof:name":"Polaris Puppet Theatre",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

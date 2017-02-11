@@ -2,9 +2,14 @@
   "id": 773717993,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 SW Iowa St Portland OR 97239",
+    "addr:housenumber":"2121",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Iowa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700545,45.479903,-122.700545,45.479903",
     "geom:latitude":45.479903,
     "geom:longitude":-122.700545,
@@ -30,12 +35,13 @@
     "sg:website":"www.encorewoodworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":773717993
         }
     ],
     "wof:id":773717993,
-    "wof:lastmodified":1466775801,
+    "wof:lastmodified":1486764523,
     "wof:name":"Encore Woodworks",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

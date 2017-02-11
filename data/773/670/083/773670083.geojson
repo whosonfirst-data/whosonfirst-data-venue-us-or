@@ -2,9 +2,14 @@
   "id": 773670083,
   "type": "Feature",
   "properties": {
+    "addr:full":"6815 SE 114th Ave Portland OR 97266",
+    "addr:housenumber":"6815",
+    "addr:postcode":"97266",
+    "addr:street":"Se 114Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545346,45.473133,-122.545346,45.473133",
     "geom:latitude":45.473133,
     "geom:longitude":-122.545346,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773670083
         }
     ],
     "wof:id":773670083,
-    "wof:lastmodified":1466775652,
+    "wof:lastmodified":1486772200,
     "wof:name":"Davis Productions",
-    "wof:parent_id":85830297,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

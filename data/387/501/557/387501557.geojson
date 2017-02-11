@@ -2,9 +2,14 @@
   "id": 387501557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 SE Water Ave Portland OR 97214",
+    "addr:housenumber":"1430",
+    "addr:postcode":"97214",
+    "addr:street":"Se Water Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.665767,45.512497,-122.665767,45.512497",
     "geom:latitude":45.512497,
     "geom:longitude":-122.665767,
@@ -29,11 +34,14 @@
     "sg:website":"www.markshallmark.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"89b822dabddc2b971c9e6ee7c4350e0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387501557
         }
     ],
     "wof:id":387501557,
-    "wof:lastmodified":1466773255,
+    "wof:lastmodified":1486773528,
     "wof:name":"Mark's Hallmark",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

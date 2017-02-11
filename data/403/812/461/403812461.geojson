@@ -2,9 +2,14 @@
   "id": 403812461,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 SE 28th Ave Portland OR 97214",
+    "addr:housenumber":"345",
+    "addr:postcode":"97214",
+    "addr:street":"Se 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637384,45.520331,-122.637384,45.520331",
     "geom:latitude":45.520331,
     "geom:longitude":-122.637384,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"cfd73537c43361a82c6cb7f1258d0d37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":403812461
         }
     ],
     "wof:id":403812461,
-    "wof:lastmodified":1466769858,
+    "wof:lastmodified":1486771355,
     "wof:name":"Ism Studio",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

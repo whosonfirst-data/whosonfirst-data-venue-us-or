@@ -2,9 +2,14 @@
   "id": 790071593,
   "type": "Feature",
   "properties": {
+    "addr:full":"9429 SW 8th Dr Portland OR 97219",
+    "addr:housenumber":"9429",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 8Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688829,45.457045,-122.688829,45.457045",
     "geom:latitude":45.457045,
     "geom:longitude":-122.688829,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809669
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809669,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":790071593
         }
     ],
     "wof:id":790071593,
-    "wof:lastmodified":1466768582,
+    "wof:lastmodified":1486771454,
     "wof:name":"Northwest Pool Tile And Brick",
-    "wof:parent_id":85809669,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

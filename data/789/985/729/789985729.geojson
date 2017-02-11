@@ -2,9 +2,14 @@
   "id": 789985729,
   "type": "Feature",
   "properties": {
+    "addr:full":"9020 NE Vancouver Way A Portland OR 97211",
+    "addr:housenumber":"9020",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Vancouver Way A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661869,45.587938,-122.661869,45.587938",
     "geom:latitude":45.587938,
     "geom:longitude":-122.661869,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.islandlandscape.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893179
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":789985729
         }
     ],
     "wof:id":789985729,
-    "wof:lastmodified":1466773039,
+    "wof:lastmodified":1486771632,
     "wof:name":"Island Landscape Company",
     "wof:parent_id":85893179,
     "wof:placetype":"venue",

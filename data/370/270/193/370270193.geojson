@@ -2,9 +2,14 @@
   "id": 370270193,
   "type": "Feature",
   "properties": {
+    "addr:full":"13932 NE Milton St Portland OR 97230",
+    "addr:housenumber":"13932",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Milton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519274,45.548496,-122.519274,45.548496",
     "geom:latitude":45.548496,
     "geom:longitude":-122.519274,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"326fba91af2b01b0f7eb3e2e777692cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":370270193
         }
     ],
     "wof:id":370270193,
-    "wof:lastmodified":1466769262,
+    "wof:lastmodified":1486768938,
     "wof:name":"Df Management Inc",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370272549,
   "type": "Feature",
   "properties": {
+    "addr:full":"6235 N Greeley Ave Portland OR 97217",
+    "addr:housenumber":"6235",
+    "addr:postcode":"97217",
+    "addr:street":"N Greeley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695648,45.566762,-122.695648,45.566762",
     "geom:latitude":45.566762,
     "geom:longitude":-122.695648,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"50ba3f39873e96a983879db7cfe49b11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893221,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":370272549
         }
     ],
     "wof:id":370272549,
-    "wof:lastmodified":1466771465,
+    "wof:lastmodified":1486772106,
     "wof:name":"Architectural Recovery",
-    "wof:parent_id":85893221,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

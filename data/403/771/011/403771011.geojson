@@ -2,9 +2,14 @@
   "id": 403771011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2617 NE Columbia Blvd Portland OR 97211",
+    "addr:housenumber":"2617",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639735,45.57584,-122.639735,45.57584",
     "geom:latitude":45.57584,
     "geom:longitude":-122.639735,
@@ -29,11 +34,13 @@
     "sg:website":"www.pacificcontrol.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"2dff7f7dbf8eda8a68c9297a3e220b63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":403771011
         }
     ],
     "wof:id":403771011,
-    "wof:lastmodified":1466771463,
+    "wof:lastmodified":1486772003,
     "wof:name":"Pacific Control Supply Inc",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

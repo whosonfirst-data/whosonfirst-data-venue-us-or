@@ -2,9 +2,14 @@
   "id": 790192643,
   "type": "Feature",
   "properties": {
+    "addr:full":"5205 NE 158th Ave Portland OR 97230",
+    "addr:housenumber":"5205",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 158Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.500416,45.560188,-122.500416,45.560188",
     "geom:latitude":45.560188,
     "geom:longitude":-122.500416,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893153,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790192643
         }
     ],
     "wof:id":790192643,
-    "wof:lastmodified":1466771456,
+    "wof:lastmodified":1486772087,
     "wof:name":"Abbe Locks 24 Locksmith",
-    "wof:parent_id":85893153,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

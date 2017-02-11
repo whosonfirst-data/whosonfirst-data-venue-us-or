@@ -2,9 +2,14 @@
   "id": 789839279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2468 SW Arden Rd Portland OR 97201",
+    "addr:housenumber":"2468",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Arden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701884,45.503931,-122.701884,45.503931",
     "geom:latitude":45.503931,
     "geom:longitude":-122.701884,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":789839279
         }
     ],
     "wof:id":789839279,
-    "wof:lastmodified":1466770049,
+    "wof:lastmodified":1486770604,
     "wof:name":"Patrick Shawn",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

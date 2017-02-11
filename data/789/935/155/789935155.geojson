@@ -2,9 +2,14 @@
   "id": 789935155,
   "type": "Feature",
   "properties": {
+    "addr:full":"5311 SE Powell Blvd Ste 202 Portland OR 97206",
+    "addr:housenumber":"5311",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd Ste 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607819,45.497727,-122.607819,45.497727",
     "geom:latitude":45.497727,
     "geom:longitude":-122.607819,
@@ -31,12 +36,13 @@
     "sg:website":"everyfamilyneedsmusic.vpweb.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":789935155
         }
     ],
     "wof:id":789935155,
-    "wof:lastmodified":1466772217,
+    "wof:lastmodified":1486771044,
     "wof:name":"Every Family Needs Music, Piano Studios Learning Center",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85871497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

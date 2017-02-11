@@ -2,9 +2,14 @@
   "id": 387490557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2322 SE Clinton St Portland OR 97202",
+    "addr:housenumber":"2322",
+    "addr:postcode":"97202",
+    "addr:street":"Se Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640423,45.503378,-122.640423,45.503378",
     "geom:latitude":45.503378,
     "geom:longitude":-122.640423,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"c2dd47b9e14eb1909ecc40039f41aced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387490557
         }
     ],
     "wof:id":387490557,
-    "wof:lastmodified":1466773185,
+    "wof:lastmodified":1486771729,
     "wof:name":"Don Marr Photography",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

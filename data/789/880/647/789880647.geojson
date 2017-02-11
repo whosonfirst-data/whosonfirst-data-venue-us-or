@@ -2,9 +2,14 @@
   "id": 789880647,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 SW 5th Avenue Portland OR 97204",
+    "addr:housenumber":"888",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 5Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678342,45.517444,-122.678342,45.517444",
     "geom:latitude":45.517444,
     "geom:longitude":-122.678342,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789880647
         }
     ],
     "wof:id":789880647,
-    "wof:lastmodified":1466771634,
+    "wof:lastmodified":1486765033,
     "wof:name":"Hagan Kelly T Atty Attys",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

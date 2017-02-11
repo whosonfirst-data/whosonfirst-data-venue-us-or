@@ -2,9 +2,14 @@
   "id": 773591603,
   "type": "Feature",
   "properties": {
+    "addr:full":"15747 NE Halsey St Portland OR 97230",
+    "addr:housenumber":"15747",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499265,45.53374,-122.499265,45.53374",
     "geom:latitude":45.53374,
     "geom:longitude":-122.499265,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":773591603
         }
     ],
     "wof:id":773591603,
-    "wof:lastmodified":1466775318,
+    "wof:lastmodified":1486768264,
     "wof:name":"Wild Spirit Enterprises",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

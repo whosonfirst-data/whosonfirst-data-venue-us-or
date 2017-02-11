@@ -2,9 +2,14 @@
   "id": 387827755,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 SE 63rd Ave Portland OR 97215",
+    "addr:housenumber":"417",
+    "addr:postcode":"97215",
+    "addr:street":"Se 63Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598557,45.520357,-122.598557,45.520357",
     "geom:latitude":45.520357,
     "geom:longitude":-122.598557,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"266ad9ff9010ee48b0b3fb961dc6452b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":387827755
         }
     ],
     "wof:id":387827755,
-    "wof:lastmodified":1466775108,
+    "wof:lastmodified":1486771818,
     "wof:name":"Richard Mayea Construction",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

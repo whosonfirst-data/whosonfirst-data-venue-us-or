@@ -2,9 +2,14 @@
   "id": 773388851,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 SW Kingston Ave Portland OR 97205",
+    "addr:housenumber":"226",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Kingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706674,45.521619,-122.706674,45.521619",
     "geom:latitude":45.521619,
     "geom:longitude":-122.706674,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871473
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":773388851
         }
     ],
     "wof:id":773388851,
-    "wof:lastmodified":1466773883,
+    "wof:lastmodified":1486770891,
     "wof:name":"Berg",
     "wof:parent_id":85871473,
     "wof:placetype":"venue",

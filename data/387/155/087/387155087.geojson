@@ -2,9 +2,14 @@
   "id": 387155087,
   "type": "Feature",
   "properties": {
+    "addr:full":"5510 SE McLoughlin Blvd Portland OR 97202",
+    "addr:housenumber":"5510",
+    "addr:postcode":"97202",
+    "addr:street":"Se Mcloughlin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642844,45.482556,-122.642844,45.482556",
     "geom:latitude":45.482556,
     "geom:longitude":-122.642844,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"16d4d12aa9a6d9a33108f94d5a48cae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":387155087
         }
     ],
     "wof:id":387155087,
-    "wof:lastmodified":1466769858,
+    "wof:lastmodified":1486766416,
     "wof:name":"Air Purification Systems",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

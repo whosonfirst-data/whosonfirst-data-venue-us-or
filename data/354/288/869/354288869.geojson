@@ -2,9 +2,14 @@
   "id": 354288869,
   "type": "Feature",
   "properties": {
+    "addr:full":"14327 SE Crystal Springs Blvd Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"14327;97236",
+    "addr:street":"Se Crystal Springs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.51595,45.464036,-122.51595,45.464036",
     "geom:latitude":45.464036,
     "geom:longitude":-122.51595,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"5e82b37df8ea6b0bfcfda714290665a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":354288869
         }
     ],
     "wof:id":354288869,
-    "wof:lastmodified":1466769383,
+    "wof:lastmodified":1486772208,
     "wof:name":"Ronald K Schaffner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

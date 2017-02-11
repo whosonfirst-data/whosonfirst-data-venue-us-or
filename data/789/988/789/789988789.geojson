@@ -2,9 +2,14 @@
   "id": 789988789,
   "type": "Feature",
   "properties": {
+    "addr:full":"5011 NE 13th Ave Portland OR 97211",
+    "addr:housenumber":"5011",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652954,45.55934,-122.652954,45.55934",
     "geom:latitude":45.55934,
     "geom:longitude":-122.652954,
@@ -29,12 +34,14 @@
     "sg:website":"redmagnoliasalon.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893199,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789988789
         }
     ],
     "wof:id":789988789,
-    "wof:lastmodified":1466772932,
+    "wof:lastmodified":1486773369,
     "wof:name":"Red Magnolia Salon",
-    "wof:parent_id":85893199,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

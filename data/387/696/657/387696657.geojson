@@ -2,9 +2,14 @@
   "id": 387696657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4019 SW Downs View Ct Portland OR 97221",
+    "addr:housenumber":"4019",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Downs View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720255,45.497828,-122.720255,45.497828",
     "geom:latitude":45.497828,
     "geom:longitude":-122.720255,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -44,19 +52,30 @@
     "wof:geomhash":"9967fa26b44ba0561bf4592453126a05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":387696657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":387696657
         }
     ],
     "wof:id":387696657,
-    "wof:lastmodified":1466774355,
+    "wof:lastmodified":1486770609,
     "wof:name":"Saxer Brewing Company Inc",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

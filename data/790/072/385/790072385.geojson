@@ -2,9 +2,14 @@
   "id": 790072385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 SW Stephenson St Portland OR 97219",
+    "addr:housenumber":"1821",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Stephenson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696875,45.440032,-122.696875,45.440032",
     "geom:latitude":45.440032,
     "geom:longitude":-122.696875,
@@ -33,7 +38,15 @@
         "churches-community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781229,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rhe4Hg3LOfC1f18fJC0lP_45.440032_-122.696875@1303263421"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462592911,
     "wof:geomhash":"ffa46471ded4c34ef0eca9a3ea236e85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":790072385
+        }
+    ],
     "wof:id":790072385,
-    "wof:lastmodified":1466768596,
+    "wof:lastmodified":1486772264,
     "wof:name":"Cathedral Of Praise Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

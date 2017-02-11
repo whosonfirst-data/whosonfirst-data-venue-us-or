@@ -2,9 +2,14 @@
   "id": 386940353,
   "type": "Feature",
   "properties": {
+    "addr:full":"3569 NE Simpson St Portland OR 97211",
+    "addr:housenumber":"3569",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Simpson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.627089,45.565193,-122.627089,45.565193",
     "geom:latitude":45.565193,
     "geom:longitude":-122.627089,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,18 @@
     "wof:geomhash":"adf875c18a3744db0002e01560a0b4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":386940353
         }
     ],
     "wof:id":386940353,
-    "wof:lastmodified":1466767206,
+    "wof:lastmodified":1486771567,
     "wof:name":"Sandra Johnson DVM",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

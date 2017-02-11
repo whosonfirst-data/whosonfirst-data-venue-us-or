@@ -2,9 +2,14 @@
   "id": 370965953,
   "type": "Feature",
   "properties": {
+    "addr:full":"10360 N Vancouver Way Portland OR 97217",
+    "addr:housenumber":"10360",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671564,45.598015,-122.671564,45.598015",
     "geom:latitude":45.598015,
     "geom:longitude":-122.671564,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"db9d684d6d47533aefc177ccb3e66253",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":370965953
         }
     ],
     "wof:id":370965953,
-    "wof:lastmodified":1466775004,
+    "wof:lastmodified":1486771625,
     "wof:name":"Coast Transit Refrigeration",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

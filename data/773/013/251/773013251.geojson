@@ -2,9 +2,14 @@
   "id": 773013251,
   "type": "Feature",
   "properties": {
+    "addr:full":"4550 NE 60th Ave Portland OR 97218",
+    "addr:housenumber":"4550",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600809,45.556047,-122.600809,45.556047",
     "geom:latitude":45.556047,
     "geom:longitude":-122.600809,
@@ -29,7 +34,15 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eOjSE2DsxXbKFjihjxjay_45.556047_-122.600809@1294180530"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462582368,
     "wof:geomhash":"5acda1b1652e79bc45bd03f6f3ccd003",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":773013251
+        }
+    ],
     "wof:id":773013251,
-    "wof:lastmodified":1466770033,
+    "wof:lastmodified":1486771619,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

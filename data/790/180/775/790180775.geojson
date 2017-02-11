@@ -2,9 +2,14 @@
   "id": 790180775,
   "type": "Feature",
   "properties": {
+    "addr:full":"475 NW Saltzman Rd Portland OR 97229",
+    "addr:housenumber":"475",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Saltzman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.77272,45.562481,-122.77272,45.562481",
     "geom:latitude":45.562481,
     "geom:longitude":-122.77272,
@@ -56,12 +61,14 @@
     "sg:website":"http://www.tomfishback.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513,
+        85830793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +83,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
+            "region_id":85688513,
+            "venue_id":790180775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":790180775
         }
     ],
     "wof:id":790180775,
-    "wof:lastmodified":1466771033,
+    "wof:lastmodified":1486772191,
     "wof:name":"American Family Insurance - HARVEY BRIAN AGENCY INC",
-    "wof:parent_id":85893259,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

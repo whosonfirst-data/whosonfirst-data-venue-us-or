@@ -2,9 +2,14 @@
   "id": 789994797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2440 NE MLK Blvd Ste 101 Portland OR 97212",
+    "addr:housenumber":"2440",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Mlk Blvd Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661302,45.537707,-122.661302,45.537707",
     "geom:latitude":45.537707,
     "geom:longitude":-122.661302,
@@ -26,12 +31,13 @@
     "sg:website":"www.sideshowalleytattoo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":789994797
         }
     ],
     "wof:id":789994797,
-    "wof:lastmodified":1466773036,
+    "wof:lastmodified":1486768382,
     "wof:name":"Sideshow Alley Tattoo Odditorium",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371133833,
   "type": "Feature",
   "properties": {
+    "addr:full":"4909 SW Vesta St Portland OR 97219",
+    "addr:housenumber":"4909",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Vesta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.72902,45.441177,-122.72902,45.441177",
     "geom:latitude":45.441177,
     "geom:longitude":-122.72902,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
+        102191575,
+        1108714057,
         85633793,
-        101715835,
-        102082213,
-        85871501
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3fc04006fe0c6f0e085cc8265b7cfe15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":371133833
         }
     ],
     "wof:id":371133833,
-    "wof:lastmodified":1466769402,
+    "wof:lastmodified":1486764043,
     "wof:name":"Avon Delivers Andrea Stellar",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387100013,
   "type": "Feature",
   "properties": {
+    "addr:full":"647 NE Royal Ct Portland OR 97232",
+    "addr:housenumber":"647",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Royal Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625646,45.527603,-122.625646,45.527603",
     "geom:latitude":45.527603,
     "geom:longitude":-122.625646,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b2ec10f848f3f5b5ddbf5ee2d297dc40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":387100013
         }
     ],
     "wof:id":387100013,
-    "wof:lastmodified":1466768806,
+    "wof:lastmodified":1486766871,
     "wof:name":"Soup Media",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

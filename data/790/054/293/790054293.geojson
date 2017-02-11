@@ -2,9 +2,14 @@
   "id": 790054293,
   "type": "Feature",
   "properties": {
+    "addr:full":"3841 N Columbia Blvd Portland OR 97217",
+    "addr:housenumber":"3841",
+    "addr:postcode":"97217",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705779,45.591301,-122.705779,45.591301",
     "geom:latitude":45.591301,
     "geom:longitude":-122.705779,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":790054293
         }
     ],
     "wof:id":790054293,
-    "wof:lastmodified":1466768154,
+    "wof:lastmodified":1486771900,
     "wof:name":"John Platt Truck Repair",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85893225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

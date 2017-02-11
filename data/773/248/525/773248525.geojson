@@ -2,9 +2,14 @@
   "id": 773248525,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 N Columbia Blvd Portland OR 97217",
+    "addr:housenumber":"900",
+    "addr:postcode":"97217",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676345,45.584146,-122.676345,45.584146",
     "geom:latitude":45.584146,
     "geom:longitude":-122.676345,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773248525
         }
     ],
     "wof:id":773248525,
-    "wof:lastmodified":1466772012,
+    "wof:lastmodified":1486769703,
     "wof:name":"Carco",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

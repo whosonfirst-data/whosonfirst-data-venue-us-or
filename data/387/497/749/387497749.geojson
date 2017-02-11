@@ -2,9 +2,14 @@
   "id": 387497749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3945 SE Powell Blvd Portland OR 97202",
+    "addr:housenumber":"3945",
+    "addr:postcode":"97202",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621346,45.497469,-122.621346,45.497469",
     "geom:latitude":45.497469,
     "geom:longitude":-122.621346,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        420536085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"e56b8601dd4347085c8ee7a2b07a1ca1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
+            "region_id":85688513,
+            "venue_id":387497749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":387497749
         }
     ],
     "wof:id":387497749,
-    "wof:lastmodified":1466773230,
+    "wof:lastmodified":1486770883,
     "wof:name":"Human Services Oregon Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

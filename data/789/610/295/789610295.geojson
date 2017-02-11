@@ -2,9 +2,14 @@
   "id": 789610295,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 NW Miller Rd Portland OR 97229",
+    "addr:housenumber":"735",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Miller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.761948,45.5285,-122.761948,45.5285",
     "geom:latitude":45.5285,
     "geom:longitude":-122.761948,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85804571
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +54,20 @@
     "wof:geomhash":"359551d1a37e72cdb9f46baf6b615e91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85804571,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":789610295
         }
     ],
     "wof:id":789610295,
-    "wof:lastmodified":1466768603,
+    "wof:lastmodified":1486772193,
     "wof:name":"Steven Stoltenburg",
-    "wof:parent_id":85804571,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

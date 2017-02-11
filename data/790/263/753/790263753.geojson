@@ -2,9 +2,14 @@
   "id": 790263753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3580 SE 82nd Avenue Portland OR 97266",
+    "addr:housenumber":"3580",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578894,45.496362,-122.578894,45.496362",
     "geom:latitude":45.496362,
     "geom:longitude":-122.578894,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":790263753
         }
     ],
     "wof:id":790263753,
-    "wof:lastmodified":1466772727,
+    "wof:lastmodified":1486771642,
     "wof:name":"Northwest Dental Associates P C",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790199895,
   "type": "Feature",
   "properties": {
+    "addr:full":"4630 NE 166th Ave Ste 100 Portland OR 97230",
+    "addr:housenumber":"4630",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 166Th Ave Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492242,45.555896,-122.492242,45.555896",
     "geom:latitude":45.555896,
     "geom:longitude":-122.492242,
@@ -35,12 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
         102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,16 +61,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":790199895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790199895
         }
     ],
     "wof:id":790199895,
-    "wof:lastmodified":1466771680,
+    "wof:lastmodified":1486772087,
     "wof:name":"Moulding & Millwork, Inc.",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

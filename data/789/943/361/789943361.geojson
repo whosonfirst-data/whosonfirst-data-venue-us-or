@@ -2,9 +2,14 @@
   "id": 789943361,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 8775 Portland OR 97207",
+    "addr:housenumber":"po",
+    "addr:postcode":"97207",
+    "addr:street":"Box 8775",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68,45.521,-122.68,45.521",
     "geom:latitude":45.521,
     "geom:longitude":-122.68,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789943361
         }
     ],
     "wof:id":789943361,
-    "wof:lastmodified":1466772311,
+    "wof:lastmodified":1486770242,
     "wof:name":"Hamid's Persian Rugs",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773632511,
   "type": "Feature",
   "properties": {
+    "addr:full":"5606 SW California St Portland OR 97219",
+    "addr:housenumber":"5606",
+    "addr:postcode":"97219",
+    "addr:street":"Sw California St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737826,45.474606,-122.737826,45.474606",
     "geom:latitude":45.474606,
     "geom:longitude":-122.737826,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":773632511
         }
     ],
     "wof:id":773632511,
-    "wof:lastmodified":1466775573,
+    "wof:lastmodified":1486769580,
     "wof:name":"Rick Thorpe Incorporated",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

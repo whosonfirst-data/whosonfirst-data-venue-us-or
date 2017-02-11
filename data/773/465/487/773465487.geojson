@@ -2,9 +2,14 @@
   "id": 773465487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 NE 56th Ave Portland OR 97218",
+    "addr:housenumber":"4115",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 56Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605421,45.553797,-122.605421,45.553797",
     "geom:latitude":45.553797,
     "geom:longitude":-122.605421,
@@ -24,7 +29,15 @@
     "sg:postcode":"97218",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G1CRs2yaGPlMKBQ7ozvca_45.553797_-122.605421@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462585955,
     "wof:geomhash":"56c9767ec23660292f78f21c26d04213",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":773465487
+        }
+    ],
     "wof:id":773465487,
-    "wof:lastmodified":1466774495,
+    "wof:lastmodified":1486771594,
     "wof:name":"Appliance Repair Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

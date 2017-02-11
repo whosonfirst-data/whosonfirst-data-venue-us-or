@@ -2,9 +2,14 @@
   "id": 790194539,
   "type": "Feature",
   "properties": {
+    "addr:full":"15009 NE Siskiyou Ct Portland OR 97230",
+    "addr:housenumber":"15009",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Siskiyou Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508369,45.546829,-122.508369,45.546829",
     "geom:latitude":45.546829,
     "geom:longitude":-122.508369,
@@ -47,12 +52,13 @@
     "sg:website":"http://www.farmersagent.com/jturino/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +73,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790194539
         }
     ],
     "wof:id":790194539,
-    "wof:lastmodified":1466771597,
+    "wof:lastmodified":1486768641,
     "wof:name":"Jon Turino - Farmers Insurance",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

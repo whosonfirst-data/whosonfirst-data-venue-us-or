@@ -2,9 +2,14 @@
   "id": 789853627,
   "type": "Feature",
   "properties": {
+    "addr:full":"3608 SE 40th Avenue Apt 2 Portland OR 97202",
+    "addr:housenumber":"3608;2",
+    "addr:postcode":"97202",
+    "addr:street":"Se 40Th Avenue Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620738,45.497367,-122.620738,45.497367",
     "geom:latitude":45.497367,
     "geom:longitude":-122.620738,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789853627
         }
     ],
     "wof:id":789853627,
-    "wof:lastmodified":1466770640,
+    "wof:lastmodified":1486772123,
     "wof:name":"Creston Villa Apartments",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

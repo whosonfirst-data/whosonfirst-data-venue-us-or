@@ -2,9 +2,14 @@
   "id": 773588553,
   "type": "Feature",
   "properties": {
+    "addr:full":"8523 SW 64th Ave Portland OR 97219",
+    "addr:housenumber":"8523",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 64Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742369,45.463775,-122.742369,45.463775",
     "geom:latitude":45.463775,
     "geom:longitude":-122.742369,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832347,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":773588553
         }
     ],
     "wof:id":773588553,
-    "wof:lastmodified":1466775408,
+    "wof:lastmodified":1486772400,
     "wof:name":"Bifano Consulting",
-    "wof:parent_id":85832347,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

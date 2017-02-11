@@ -2,9 +2,14 @@
   "id": 404059701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4993 SE 30th Ave Portland OR 97202",
+    "addr:housenumber":"4993",
+    "addr:postcode":"97202",
+    "addr:street":"Se 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634414,45.487534,-122.634414,45.487534",
     "geom:latitude":45.487534,
     "geom:longitude":-122.634414,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"462829248622f4a3e660991c0d3f10e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":404059701
         }
     ],
     "wof:id":404059701,
-    "wof:lastmodified":1466769449,
+    "wof:lastmodified":1486766824,
     "wof:name":"Roe & Associates LLC",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

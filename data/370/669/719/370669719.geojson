@@ -2,9 +2,14 @@
   "id": 370669719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3268 SE Sherman St Portland OR 97214",
+    "addr:housenumber":"3268",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632295,45.506197,-122.632295,45.506197",
     "geom:latitude":45.506197,
     "geom:longitude":-122.632295,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"023fd88c33f310b7718ff3677fbbf7c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370669719
         }
     ],
     "wof:id":370669719,
-    "wof:lastmodified":1466773419,
+    "wof:lastmodified":1486770853,
     "wof:name":"Louies Restaurant",
-    "wof:parent_id":85893169,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773834111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2056 SE 122nd Ave Portland OR 97233",
+    "addr:housenumber":"2056",
+    "addr:postcode":"97233",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.538002,45.508499,-122.538002,45.508499",
     "geom:latitude":45.508499,
     "geom:longitude":-122.538002,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773834111
         }
     ],
     "wof:id":773834111,
-    "wof:lastmodified":1466776096,
+    "wof:lastmodified":1486772235,
     "wof:name":"Stop'n Go Market",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

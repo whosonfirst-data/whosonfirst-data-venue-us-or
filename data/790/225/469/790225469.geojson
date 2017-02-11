@@ -2,9 +2,14 @@
   "id": 790225469,
   "type": "Feature",
   "properties": {
+    "addr:full":"14154 SE Stark St Portland OR 97233",
+    "addr:housenumber":"14154",
+    "addr:postcode":"97233",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.517731,45.519119,-122.517731,45.519119",
     "geom:latitude":45.519119,
     "geom:longitude":-122.517731,
@@ -26,12 +31,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=37969E",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536087
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790225469
         }
     ],
     "wof:id":790225469,
-    "wof:lastmodified":1466772112,
+    "wof:lastmodified":1486770763,
     "wof:name":"State Farm Insurance Agent-Will McCreery",
-    "wof:parent_id":420536087,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

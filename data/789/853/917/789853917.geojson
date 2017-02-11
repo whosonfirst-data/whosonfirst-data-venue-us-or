@@ -2,9 +2,14 @@
   "id": 789853917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4947 Se 26th Ave Portland OR 97202",
+    "addr:housenumber":"4947",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639585,45.487307,-122.639585,45.487307",
     "geom:latitude":45.487307,
     "geom:longitude":-122.639585,
@@ -41,12 +46,13 @@
     "sg:website":"www.2brothersboxes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789853917
         }
     ],
     "wof:id":789853917,
-    "wof:lastmodified":1466770652,
+    "wof:lastmodified":1486770979,
     "wof:name":"2 Brothers Box & Supply",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370332761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2257 NW Raleigh St Portland OR 97210",
+    "addr:housenumber":"2257",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Raleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696886,45.534177,-122.696886,45.534177",
     "geom:latitude":45.534177,
     "geom:longitude":-122.696886,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"927046b874c6259d1daa635aeb334741",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370332761
         }
     ],
     "wof:id":370332761,
-    "wof:lastmodified":1466770472,
+    "wof:lastmodified":1486773792,
     "wof:name":"Neighbors West/Northwest",
-    "wof:parent_id":85871509,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

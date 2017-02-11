@@ -2,9 +2,14 @@
   "id": 387511619,
   "type": "Feature",
   "properties": {
+    "addr:full":"4949 NE Alberta Ct Portland OR 97218",
+    "addr:housenumber":"4949",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Alberta Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612968,45.558508,-122.612968,45.558508",
     "geom:latitude":45.558508,
     "geom:longitude":-122.612968,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"06563121021cbde0cf47a7fa3a35f527",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387511619
         }
     ],
     "wof:id":387511619,
-    "wof:lastmodified":1466773428,
+    "wof:lastmodified":1486771592,
     "wof:name":"Doug Wolfe Trucking",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

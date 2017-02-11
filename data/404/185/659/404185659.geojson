@@ -2,9 +2,14 @@
   "id": 404185659,
   "type": "Feature",
   "properties": {
+    "addr:full":"6036 N Cutter Cir Portland OR 97217",
+    "addr:housenumber":"6036",
+    "addr:postcode":"97217",
+    "addr:street":"N Cutter Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.703469,45.567273,-122.703469,45.567273",
     "geom:latitude":45.567273,
     "geom:longitude":-122.703469,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"663948f361eb3ab44e0e8d34f75779d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":404185659
         }
     ],
     "wof:id":404185659,
-    "wof:lastmodified":1466767866,
+    "wof:lastmodified":1486771859,
     "wof:name":"Mid Valley Delivery Service",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

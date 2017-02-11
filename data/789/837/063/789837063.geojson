@@ -2,9 +2,14 @@
   "id": 789837063,
   "type": "Feature",
   "properties": {
+    "addr:full":"0315 Montgomery St Suite 200 Portland OR 97201",
+    "addr:housenumber":"0315",
+    "addr:postcode":"97201",
+    "addr:street":"Montgomery St Suite 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674059,45.510665,-122.674059,45.510665",
     "geom:latitude":45.510665,
     "geom:longitude":-122.674059,
@@ -26,12 +31,13 @@
     "sg:website":"www.beanandtree.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789837063
         }
     ],
     "wof:id":789837063,
-    "wof:lastmodified":1466769959,
+    "wof:lastmodified":1486770252,
     "wof:name":"Bean and Tree",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

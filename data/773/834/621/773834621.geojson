@@ -2,9 +2,14 @@
   "id": 773834621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2653 N Lombard St Portland OR 97217",
+    "addr:housenumber":"2653",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694,45.577,-122.694,45.577",
     "geom:latitude":45.577,
     "geom:longitude":-122.694,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773834621
         }
     ],
     "wof:id":773834621,
-    "wof:lastmodified":1466776112,
+    "wof:lastmodified":1486772111,
     "wof:name":"Peninsula Baptist Church",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

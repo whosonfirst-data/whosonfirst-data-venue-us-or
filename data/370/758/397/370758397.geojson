@@ -2,9 +2,14 @@
   "id": 370758397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1309 SE 55th Ave Portland OR 97215",
+    "addr:housenumber":"1309",
+    "addr:postcode":"97215",
+    "addr:street":"Se 55Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.606837,45.512945,-122.606837,45.512945",
     "geom:latitude":45.512945,
     "geom:longitude":-122.606837,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cab78b7fb9a05aef6014dc43a3b3126d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":370758397
         }
     ],
     "wof:id":370758397,
-    "wof:lastmodified":1466773738,
+    "wof:lastmodified":1486767272,
     "wof:name":"Balthazar Properties Inc",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

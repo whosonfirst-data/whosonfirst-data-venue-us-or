@@ -2,9 +2,14 @@
   "id": 773699015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1249 NW Slocum Way Portland OR 97229",
+    "addr:housenumber":"1249",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Slocum Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.778163,45.532477,-122.778163,45.532477",
     "geom:latitude":45.532477,
     "geom:longitude":-122.778163,
@@ -24,7 +29,15 @@
     "sg:postcode":"97229",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871477,
+        102191575,
+        1108714055,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nCe1R5lX0sHun2tK0SOSx_45.532477_-122.778163@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462587720,
     "wof:geomhash":"45cc631739d005fe0a50a1b52f018a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
+            "region_id":85688513,
+            "venue_id":773699015
+        }
+    ],
     "wof:id":773699015,
-    "wof:lastmodified":1466775749,
+    "wof:lastmodified":1486770923,
     "wof:name":"Coho Institutional LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

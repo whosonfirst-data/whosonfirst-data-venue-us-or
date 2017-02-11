@@ -2,9 +2,14 @@
   "id": 354314049,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 NE Rodney Ave Portland OR 97212",
+    "addr:housenumber":"3033",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Rodney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664185,45.545099,-122.664185,45.545099",
     "geom:latitude":45.545099,
     "geom:longitude":-122.664185,
@@ -30,11 +35,14 @@
     "sg:website":"www.mentornetwork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513,
+        85871461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"6158490ee8af4544f32ddb5986aafe91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
+            "region_id":85688513,
+            "venue_id":354314049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":354314049
         }
     ],
     "wof:id":354314049,
-    "wof:lastmodified":1466769682,
+    "wof:lastmodified":1486770807,
     "wof:name":"Developmental Systems Inc",
-    "wof:parent_id":85893159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

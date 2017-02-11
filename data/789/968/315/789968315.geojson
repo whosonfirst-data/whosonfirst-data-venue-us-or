@@ -2,9 +2,14 @@
   "id": 789968315,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"3330",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.707169,45.545447,-122.707169,45.545447",
     "geom:latitude":45.545447,
     "geom:longitude":-122.707169,
@@ -41,12 +46,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +68,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":789968315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789968315
         }
     ],
     "wof:id":789968315,
-    "wof:lastmodified":1466772785,
+    "wof:lastmodified":1486771114,
     "wof:name":"Tubby's Deli",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

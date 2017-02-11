@@ -2,9 +2,14 @@
   "id": 403773547,
   "type": "Feature",
   "properties": {
+    "addr:full":"14811 NE Airport Way Portland OR 97230",
+    "addr:housenumber":"14811",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.505506,45.558903,-122.505506,45.558903",
     "geom:latitude":45.558903,
     "geom:longitude":-122.505506,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"0fcc7c7d66cd346df91117085055b0c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893153,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":403773547
         }
     ],
     "wof:id":403773547,
-    "wof:lastmodified":1466769229,
+    "wof:lastmodified":1486772078,
     "wof:name":"Hunter Douglas Window Fashions",
-    "wof:parent_id":85893153,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

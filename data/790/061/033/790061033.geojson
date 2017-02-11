@@ -2,9 +2,14 @@
   "id": 790061033,
   "type": "Feature",
   "properties": {
+    "addr:full":"8238 N Denver Avenue Portland OR 97217",
+    "addr:housenumber":"8238",
+    "addr:postcode":"97217",
+    "addr:street":"N Denver Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686731,45.582968,-122.686731,45.582968",
     "geom:latitude":45.582968,
     "geom:longitude":-122.686731,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":790061033
         }
     ],
     "wof:id":790061033,
-    "wof:lastmodified":1466768296,
+    "wof:lastmodified":1486769518,
     "wof:name":"G & H Meat Market",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

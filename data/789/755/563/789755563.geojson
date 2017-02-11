@@ -2,9 +2,14 @@
   "id": 789755563,
   "type": "Feature",
   "properties": {
+    "addr:full":"12434 27th Pl Lake Oswego OR 97035",
+    "addr:housenumber":"12434",
+    "addr:postcode":"97035",
+    "addr:street":"27Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704325,45.435549,-122.704325,45.435549",
     "geom:latitude":45.435549,
     "geom:longitude":-122.704325,
@@ -28,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715835,
         102082213,
         420536081
@@ -46,6 +55,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":789755563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715835,
             "neighbourhood_id":420536081,
@@ -54,9 +73,9 @@
         }
     ],
     "wof:id":789755563,
-    "wof:lastmodified":1466771399,
+    "wof:lastmodified":1486772263,
     "wof:name":"7 Locksmith",
-    "wof:parent_id":420536081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

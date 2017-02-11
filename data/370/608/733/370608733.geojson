@@ -2,9 +2,14 @@
   "id": 370608733,
   "type": "Feature",
   "properties": {
+    "addr:full":"12938 SE Long St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12938;97236",
+    "addr:street":"Se Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528213,45.487866,-122.528213,45.487866",
     "geom:latitude":45.487866,
     "geom:longitude":-122.528213,
@@ -33,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +54,20 @@
     "wof:geomhash":"050e7438001cd0d35a5a15edbb9d933e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":370608733
         }
     ],
     "wof:id":370608733,
-    "wof:lastmodified":1466772940,
+    "wof:lastmodified":1486771928,
     "wof:name":"Dream Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

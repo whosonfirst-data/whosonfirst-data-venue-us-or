@@ -2,9 +2,14 @@
   "id": 790249733,
   "type": "Feature",
   "properties": {
+    "addr:full":"SE 39th and SE Stark Portland OR 97255",
+    "addr:housenumber":"",
+    "addr:postcode":"97255",
+    "addr:street":"Se 39Th And Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62304,45.5193,-122.62304,45.5193",
     "geom:latitude":45.5193,
     "geom:longitude":-122.62304,
@@ -25,12 +30,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790249733
         }
     ],
     "wof:id":790249733,
-    "wof:lastmodified":1466772529,
+    "wof:lastmodified":1486769527,
     "wof:name":"Laurelhurst Park",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

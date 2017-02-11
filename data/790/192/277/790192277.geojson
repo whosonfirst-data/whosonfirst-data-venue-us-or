@@ -2,9 +2,14 @@
   "id": 790192277,
   "type": "Feature",
   "properties": {
+    "addr:full":"12820 NE Marx St Portland OR 97230",
+    "addr:housenumber":"12820",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marx St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532614,45.558813,-122.532614,45.558813",
     "geom:latitude":45.558813,
     "geom:longitude":-122.532614,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.wcnx.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":790192277
         }
     ],
     "wof:id":790192277,
-    "wof:lastmodified":1466771526,
+    "wof:lastmodified":1486771476,
     "wof:name":"Waste Connections Transportation Company",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

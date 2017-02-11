@@ -2,9 +2,14 @@
   "id": 387653275,
   "type": "Feature",
   "properties": {
+    "addr:full":"16361 NE Cameron Blvd Portland OR 97230",
+    "addr:housenumber":"16361",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Cameron Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492564,45.558075,-122.492564,45.558075",
     "geom:latitude":45.558075,
     "geom:longitude":-122.492564,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
+        102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"a60df975c745fa458de2e6650844bf4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":387653275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":387653275
         }
     ],
     "wof:id":387653275,
-    "wof:lastmodified":1466774320,
+    "wof:lastmodified":1486772086,
     "wof:name":"Community Blood Center",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 404162475,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 SE 7th Ave Portland OR 97214",
+    "addr:housenumber":"234",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658618,45.521033,-122.658618,45.521033",
     "geom:latitude":45.521033,
     "geom:longitude":-122.658618,
@@ -30,11 +35,14 @@
     "sg:website":"www.voaor.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"4adff864c1a7d8b8e598f504c73cb5cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":404162475
         }
     ],
     "wof:id":404162475,
-    "wof:lastmodified":1466767453,
+    "wof:lastmodified":1486773483,
     "wof:name":"Child Development Ctr",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

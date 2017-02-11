@@ -2,9 +2,14 @@
   "id": 370862447,
   "type": "Feature",
   "properties": {
+    "addr:full":"15730 NE Weidler St Portland OR 97230",
+    "addr:housenumber":"15730",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Weidler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.50045,45.53435,-122.50045,45.53435",
     "geom:latitude":45.53435,
     "geom:longitude":-122.50045,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e078d84eae6fceaf8632b8110e05f14c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370862447
         }
     ],
     "wof:id":370862447,
-    "wof:lastmodified":1466774470,
+    "wof:lastmodified":1486768939,
     "wof:name":"Jancraft Visual Productio",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

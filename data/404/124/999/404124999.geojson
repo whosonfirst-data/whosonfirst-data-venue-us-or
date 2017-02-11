@@ -2,9 +2,14 @@
   "id": 404124999,
   "type": "Feature",
   "properties": {
+    "addr:full":"6122 SE 47th Ave Portland OR 97206",
+    "addr:housenumber":"6122",
+    "addr:postcode":"97206",
+    "addr:street":"Se 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61436,45.477882,-122.61436,45.477882",
     "geom:latitude":45.477882,
     "geom:longitude":-122.61436,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85859031
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"007175185528702d5205228a3673a3f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":404124999
         }
     ],
     "wof:id":404124999,
-    "wof:lastmodified":1466771079,
+    "wof:lastmodified":1486766693,
     "wof:name":"Western Home Supplier",
     "wof:parent_id":85859031,
     "wof:placetype":"venue",

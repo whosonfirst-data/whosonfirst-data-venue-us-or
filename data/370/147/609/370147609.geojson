@@ -2,9 +2,14 @@
   "id": 370147609,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 NW Davis St Portland OR 97209",
+    "addr:housenumber":"222",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673272,45.524473,-122.673272,45.524473",
     "geom:latitude":45.524473,
     "geom:longitude":-122.673272,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"1fb82c2978c3c5a23b82f09825b7b14a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370147609
         }
     ],
     "wof:id":370147609,
-    "wof:lastmodified":1466767131,
+    "wof:lastmodified":1486770690,
     "wof:name":"Merge Presentation Info Design",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

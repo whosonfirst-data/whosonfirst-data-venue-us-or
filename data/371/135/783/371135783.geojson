@@ -2,9 +2,14 @@
   "id": 371135783,
   "type": "Feature",
   "properties": {
+    "addr:full":"10144 SE Holgate Blvd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"10144;97266",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.558775,45.48973,-122.558775,45.48973",
     "geom:latitude":45.48973,
     "geom:longitude":-122.558775,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"962cd189b79ebcc1fbbd1400de511b91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":371135783
         }
     ],
     "wof:id":371135783,
-    "wof:lastmodified":1466769436,
+    "wof:lastmodified":1486769567,
     "wof:name":"Gooding Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

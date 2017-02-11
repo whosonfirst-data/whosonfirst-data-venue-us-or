@@ -2,9 +2,14 @@
   "id": 370833531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2258 NE 153rd Ave Portland OR 97230",
+    "addr:housenumber":"2258",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 153Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.504672,45.539427,-122.504672,45.539427",
     "geom:latitude":45.539427,
     "geom:longitude":-122.504672,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"f481d1067ffc712e2dfcbe659af53da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370833531
         }
     ],
     "wof:id":370833531,
-    "wof:lastmodified":1466774312,
+    "wof:lastmodified":1486772074,
     "wof:name":"Leeding Family LLC",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

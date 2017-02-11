@@ -2,9 +2,14 @@
   "id": 790228295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 SE 139th Avenue Portland OR 97233",
+    "addr:housenumber":"1740",
+    "addr:postcode":"97233",
+    "addr:street":"Se 139Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.521148,45.510717,-122.521148,45.510717",
     "geom:latitude":45.510717,
     "geom:longitude":-122.521148,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790228295
         }
     ],
     "wof:id":790228295,
-    "wof:lastmodified":1466772006,
+    "wof:lastmodified":1486766318,
     "wof:name":"Harmony Montessori School",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

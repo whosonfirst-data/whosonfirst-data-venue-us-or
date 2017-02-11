@@ -2,9 +2,14 @@
   "id": 371032669,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 SE Main St Portland OR 97214",
+    "addr:housenumber":"1220",
+    "addr:postcode":"97214",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652799,45.513561,-122.652799,45.513561",
     "geom:latitude":45.513561,
     "geom:longitude":-122.652799,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"f0aab3408ab1da62be1371adab84066a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":371032669
         }
     ],
     "wof:id":371032669,
-    "wof:lastmodified":1466767695,
+    "wof:lastmodified":1486771445,
     "wof:name":"Waddell & Reed Inc Portland",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

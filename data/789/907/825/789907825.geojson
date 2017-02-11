@@ -2,9 +2,14 @@
   "id": 789907825,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 SW Morrison St Suite 1300 Portland OR 97205",
+    "addr:housenumber":"621",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison St Suite 1300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678823,45.519123,-122.678823,45.519123",
     "geom:latitude":45.519123,
     "geom:longitude":-122.678823,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.meyerwyse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789907825
         }
     ],
     "wof:id":789907825,
-    "wof:lastmodified":1466771894,
+    "wof:lastmodified":1486764173,
     "wof:name":"Rives Pruitt, Helen - Meyer & Wyse",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

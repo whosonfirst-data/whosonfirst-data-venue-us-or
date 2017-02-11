@@ -2,9 +2,14 @@
   "id": 773372027,
   "type": "Feature",
   "properties": {
+    "addr:full":"6303 SE Powell Blvd Portland OR 97206",
+    "addr:housenumber":"6303",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597837,45.497462,-122.597837,45.497462",
     "geom:latitude":45.497462,
     "geom:longitude":-122.597837,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":773372027
         }
     ],
     "wof:id":773372027,
-    "wof:lastmodified":1466773671,
+    "wof:lastmodified":1486771647,
     "wof:name":"United Store Inc",
-    "wof:parent_id":85871497,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

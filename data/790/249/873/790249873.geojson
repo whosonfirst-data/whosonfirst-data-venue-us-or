@@ -2,9 +2,14 @@
   "id": 790249873,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW 45th Ave & Vermont St Portland OR 97255",
+    "addr:housenumber":"",
+    "addr:postcode":"97255",
+    "addr:street":"Sw 45Th Ave & Vermont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723141,45.476241,-122.723141,45.476241",
     "geom:latitude":45.476241,
     "geom:longitude":-122.723141,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790249873
         }
     ],
     "wof:id":790249873,
-    "wof:lastmodified":1466772534,
+    "wof:lastmodified":1486774192,
     "wof:name":"Gabriel Park Skatepark",
-    "wof:parent_id":85853645,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

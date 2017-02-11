@@ -2,9 +2,14 @@
   "id": 773507617,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 N Hancock St Portland OR 97227",
+    "addr:housenumber":"285",
+    "addr:postcode":"97227",
+    "addr:street":"N Hancock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668817,45.536581,-122.668817,45.536581",
     "geom:latitude":45.536581,
     "geom:longitude":-122.668817,
@@ -36,12 +41,13 @@
     "sg:website":"www.cornerstonefencing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":773507617
         }
     ],
     "wof:id":773507617,
-    "wof:lastmodified":1466774927,
+    "wof:lastmodified":1486769062,
     "wof:name":"Cornerstone Fencing Co",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

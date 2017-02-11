@@ -2,9 +2,14 @@
   "id": 403799681,
   "type": "Feature",
   "properties": {
+    "addr:full":"5757 SW Salmon St Portland OR 97221",
+    "addr:housenumber":"5757",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Salmon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.735278,45.515656,-122.735278,45.515656",
     "geom:latitude":45.515656,
     "geom:longitude":-122.735278,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,29 @@
     "wof:geomhash":"cd1183db8d1b754b4508e0fc79da5412",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
+            "region_id":85688513,
+            "venue_id":403799681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":403799681
         }
     ],
     "wof:id":403799681,
-    "wof:lastmodified":1466769623,
+    "wof:lastmodified":1486772019,
     "wof:name":"Smith Associates Inc",
-    "wof:parent_id":85851719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

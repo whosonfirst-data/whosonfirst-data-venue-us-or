@@ -2,9 +2,14 @@
   "id": 370386421,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 NE Dekum St Portland OR 97211",
+    "addr:housenumber":"700",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Dekum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657333,45.571777,-122.657333,45.571777",
     "geom:latitude":45.571777,
     "geom:longitude":-122.657333,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"11731cbf30804dd656061e5b14b5f9b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":370386421
         }
     ],
     "wof:id":370386421,
-    "wof:lastmodified":1466771530,
+    "wof:lastmodified":1486768647,
     "wof:name":"JBM Svc",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371112117,
   "type": "Feature",
   "properties": {
+    "addr:full":"2917 SE Clay St Portland OR 97214",
+    "addr:housenumber":"2917",
+    "addr:postcode":"97214",
+    "addr:street":"Se Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634919,45.51127,-122.634919,45.51127",
     "geom:latitude":45.51127,
     "geom:longitude":-122.634919,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"d99f66ec97ca43629b86712ac967a20c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":371112117
         }
     ],
     "wof:id":371112117,
-    "wof:lastmodified":1466769001,
+    "wof:lastmodified":1486773688,
     "wof:name":"Susan Fitzgerald",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

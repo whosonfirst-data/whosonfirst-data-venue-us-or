@@ -2,9 +2,14 @@
   "id": 404034267,
   "type": "Feature",
   "properties": {
+    "addr:full":"4579 NE Cully Blvd Portland OR 97218",
+    "addr:housenumber":"4579",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Cully Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600177,45.55625,-122.600177,45.55625",
     "geom:latitude":45.55625,
     "geom:longitude":-122.600177,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"de16b56fe6cda30df16b0476b7d6fee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":404034267
         }
     ],
     "wof:id":404034267,
-    "wof:lastmodified":1466769060,
+    "wof:lastmodified":1486771594,
     "wof:name":"Backswing Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790073215,
   "type": "Feature",
   "properties": {
+    "addr:full":"12215 SW 60th Ave Portland OR 97219",
+    "addr:housenumber":"12215",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73863,45.437475,-122.73863,45.437475",
     "geom:latitude":45.437475,
     "geom:longitude":-122.73863,
@@ -30,7 +35,15 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871501,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mRKf1px4W2nDldfsghicd_45.437475_-122.738630@1303263421"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462592918,
     "wof:geomhash":"c25cd240ca5a336b46cab2aec94017e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
+            "region_id":85688513,
+            "venue_id":790073215
+        }
+    ],
     "wof:id":790073215,
-    "wof:lastmodified":1466768623,
+    "wof:lastmodified":1486771061,
     "wof:name":"Coronado Steel Fabrication",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

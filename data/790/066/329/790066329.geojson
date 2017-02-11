@@ -2,9 +2,14 @@
   "id": 790066329,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 NE Alderwood Road Portland OR 97218",
+    "addr:housenumber":"7201",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Alderwood Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579407,45.575735,-122.579407,45.575735",
     "geom:latitude":45.575735,
     "geom:longitude":-122.579407,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790066329
         }
     ],
     "wof:id":790066329,
-    "wof:lastmodified":1466768465,
+    "wof:lastmodified":1486772348,
     "wof:name":"Sky Chefs Flight Kitchen",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

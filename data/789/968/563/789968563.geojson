@@ -2,9 +2,14 @@
   "id": 789968563,
   "type": "Feature",
   "properties": {
+    "addr:full":"2314 NW Savier Street Portland OR 97210",
+    "addr:housenumber":"2314",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Savier Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700152,45.534869,-122.700152,45.534869",
     "geom:latitude":45.534869,
     "geom:longitude":-122.700152,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789968563
         }
     ],
     "wof:id":789968563,
-    "wof:lastmodified":1466772792,
+    "wof:lastmodified":1486771287,
     "wof:name":"Jdl Development",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

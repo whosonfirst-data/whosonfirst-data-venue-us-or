@@ -2,9 +2,14 @@
   "id": 370660569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 N Vancouver Ave Portland OR 97227",
+    "addr:housenumber":"2800",
+    "addr:postcode":"97227",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668135,45.543726,-122.668135,45.543726",
     "geom:latitude":45.543726,
     "geom:longitude":-122.668135,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85871461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"a7e1ec3b8f40bc36c6a705279c55d220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
+            "region_id":85688513,
+            "venue_id":370660569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":370660569
         }
     ],
     "wof:id":370660569,
-    "wof:lastmodified":1466773351,
+    "wof:lastmodified":1486768818,
     "wof:name":"Pediatrics Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

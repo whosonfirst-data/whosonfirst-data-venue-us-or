@@ -2,9 +2,14 @@
   "id": 789629239,
   "type": "Feature",
   "properties": {
+    "addr:full":"11114 SE Main St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"11114;97216",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.548909,45.513713,-122.548909,45.513713",
     "geom:latitude":45.513713,
     "geom:longitude":-122.548909,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":789629239
         }
     ],
     "wof:id":789629239,
-    "wof:lastmodified":1466769002,
+    "wof:lastmodified":1486772224,
     "wof:name":"Johnson's Machinery Co",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

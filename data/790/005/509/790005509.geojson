@@ -2,9 +2,14 @@
   "id": 790005509,
   "type": "Feature",
   "properties": {
+    "addr:full":"4911 NE Couch Street Portland OR 97213",
+    "addr:housenumber":"4911",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Couch Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.613016,45.523812,-122.613016,45.523812",
     "geom:latitude":45.523812,
     "geom:longitude":-122.613016,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":790005509
         }
     ],
     "wof:id":790005509,
-    "wof:lastmodified":1466767545,
+    "wof:lastmodified":1486772412,
     "wof:name":"Montessori-Providence Montessori",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

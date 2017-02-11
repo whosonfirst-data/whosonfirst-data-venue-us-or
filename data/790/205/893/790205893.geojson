@@ -2,9 +2,14 @@
   "id": 790205893,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 NE 11th Avenue Portland OR 97232",
+    "addr:housenumber":"111",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 11Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654616,45.523701,-122.654616,45.523701",
     "geom:latitude":45.523701,
     "geom:longitude":-122.654616,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790205893
         }
     ],
     "wof:id":790205893,
-    "wof:lastmodified":1466771771,
+    "wof:lastmodified":1486773724,
     "wof:name":"Susan's Social Dance Studio",
-    "wof:parent_id":85871495,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

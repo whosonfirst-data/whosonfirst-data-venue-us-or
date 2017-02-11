@@ -2,9 +2,14 @@
   "id": 790068507,
   "type": "Feature",
   "properties": {
+    "addr:full":"7110 NE 42nd Ave Portland OR 97218",
+    "addr:housenumber":"7110",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6204,45.573549,-122.6204,45.573549",
     "geom:latitude":45.573549,
     "geom:longitude":-122.6204,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":790068507
         }
     ],
     "wof:id":790068507,
-    "wof:lastmodified":1466768509,
+    "wof:lastmodified":1486772005,
     "wof:name":"Twenty-First Century Towing",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

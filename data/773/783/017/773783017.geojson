@@ -2,9 +2,14 @@
   "id": 773783017,
   "type": "Feature",
   "properties": {
+    "addr:full":"15707 SE Stark St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"15707;97233",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.500773,45.519229,-122.500773,45.519229",
     "geom:latitude":45.519229,
     "geom:longitude":-122.500773,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":773783017
         }
     ],
     "wof:id":773783017,
-    "wof:lastmodified":1466775969,
+    "wof:lastmodified":1486766717,
     "wof:name":"Mocha Master",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

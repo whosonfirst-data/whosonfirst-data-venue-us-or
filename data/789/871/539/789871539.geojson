@@ -2,9 +2,14 @@
   "id": 789871539,
   "type": "Feature",
   "properties": {
+    "addr:full":"9504 N Edison St Portland OR 97203",
+    "addr:housenumber":"9504",
+    "addr:postcode":"97203",
+    "addr:street":"N Edison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.762971,45.593465,-122.762971,45.593465",
     "geom:latitude":45.593465,
     "geom:longitude":-122.762971,
@@ -31,13 +36,13 @@
     "sg:website":"http://www.gracedesigns.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721333,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85857649,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,23 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857649,
-            "region_id":85688513,
-            "venue_id":789871539
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
             "region_id":85688513,
             "venue_id":789871539
         }
     ],
     "wof:id":789871539,
-    "wof:lastmodified":1466771325,
+    "wof:lastmodified":1486772383,
     "wof:name":"Chistopher & Grace Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

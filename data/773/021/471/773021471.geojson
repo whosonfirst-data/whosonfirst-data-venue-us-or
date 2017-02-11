@@ -2,9 +2,14 @@
   "id": 773021471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1732 SE Ash St Portland OR 97214",
+    "addr:housenumber":"1732",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647763,45.521387,-122.647763,45.521387",
     "geom:latitude":45.521387,
     "geom:longitude":-122.647763,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773021471
         }
     ],
     "wof:id":773021471,
-    "wof:lastmodified":1466770297,
+    "wof:lastmodified":1486766688,
     "wof:name":"Larry Thorntonjones Msw",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

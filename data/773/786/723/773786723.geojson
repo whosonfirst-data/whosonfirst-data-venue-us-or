@@ -2,9 +2,14 @@
   "id": 773786723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"1200",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65251,45.535041,-122.65251,45.535041",
     "geom:latitude":45.535041,
     "geom:longitude":-122.65251,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":773786723
         }
     ],
     "wof:id":773786723,
-    "wof:lastmodified":1466775988,
+    "wof:lastmodified":1486771345,
     "wof:name":"Lloyd Glimcher Venture",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

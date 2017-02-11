@@ -2,9 +2,14 @@
   "id": 773527105,
   "type": "Feature",
   "properties": {
+    "addr:full":"11912 SW 25th Ave Portland OR 97219",
+    "addr:housenumber":"11912",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 25Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702872,45.439575,-122.702872,45.439575",
     "geom:latitude":45.439575,
     "geom:longitude":-122.702872,
@@ -24,7 +29,15 @@
     "sg:postcode":"97219",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781229,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NUnusVXp6i90RDwVOxRXd_45.439575_-122.702872@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462586392,
     "wof:geomhash":"3c1aef847a4433b66a900ec388a569ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":773527105
+        }
+    ],
     "wof:id":773527105,
-    "wof:lastmodified":1466775097,
+    "wof:lastmodified":1486772263,
     "wof:name":"Tgf Productions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

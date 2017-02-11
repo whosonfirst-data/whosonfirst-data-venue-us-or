@@ -2,9 +2,14 @@
   "id": 370364771,
   "type": "Feature",
   "properties": {
+    "addr:full":"4743 NE Campaign St Portland OR 97218",
+    "addr:housenumber":"4743",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Campaign St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612616,45.554696,-122.612616,45.554696",
     "geom:latitude":45.554696,
     "geom:longitude":-122.612616,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"1088fbee9305dbef15478038d2070022",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370364771
         }
     ],
     "wof:id":370364771,
-    "wof:lastmodified":1466771105,
+    "wof:lastmodified":1486771589,
     "wof:name":"KLC Vending",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

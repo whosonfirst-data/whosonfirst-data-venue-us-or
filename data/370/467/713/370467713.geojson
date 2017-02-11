@@ -2,9 +2,14 @@
   "id": 370467713,
   "type": "Feature",
   "properties": {
+    "addr:full":"11816 SE Flavel St Portland OR 97266",
+    "addr:housenumber":"11816",
+    "addr:postcode":"97266",
+    "addr:street":"Se Flavel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540285,45.468387,-122.540285,45.468387",
     "geom:latitude":45.468387,
     "geom:longitude":-122.540285,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85803591
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"46a3fdfb433ffc4688144046beb60c76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85803591,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":370467713
         }
     ],
     "wof:id":370467713,
-    "wof:lastmodified":1466772002,
+    "wof:lastmodified":1486772207,
     "wof:name":"GK Enterprises",
-    "wof:parent_id":85803591,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

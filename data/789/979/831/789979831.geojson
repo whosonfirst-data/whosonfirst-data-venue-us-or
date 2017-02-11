@@ -2,9 +2,14 @@
   "id": 789979831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2390 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2390",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700702,45.535442,-122.700702,45.535442",
     "geom:latitude":45.535442,
     "geom:longitude":-122.700702,
@@ -48,12 +53,13 @@
     "sg:website":"www.beezooexchange.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +74,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789979831
         }
     ],
     "wof:id":789979831,
-    "wof:lastmodified":1466773101,
+    "wof:lastmodified":1486762849,
     "wof:name":"Beezoo Exchange",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

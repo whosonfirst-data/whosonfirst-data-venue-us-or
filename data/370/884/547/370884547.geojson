@@ -2,9 +2,14 @@
   "id": 370884547,
   "type": "Feature",
   "properties": {
+    "addr:full":"8611 NW Skyline Blvd Portland OR 97231",
+    "addr:housenumber":"8611",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.803712,45.585122,-122.803712,45.585122",
     "geom:latitude":45.585122,
     "geom:longitude":-122.803712,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"320728a722486ae17ea013a23672c2ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":370884547
         }
     ],
     "wof:id":370884547,
-    "wof:lastmodified":1466774681,
+    "wof:lastmodified":1486772186,
     "wof:name":"Fairbank Construction",
-    "wof:parent_id":85868975,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789924713,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 SW Taylor St Portland OR 97205",
+    "addr:housenumber":"808",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681335,45.518273,-122.681335,45.518273",
     "geom:latitude":45.518273,
     "geom:longitude":-122.681335,
@@ -30,12 +35,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/604214742/portland_or/translators_usa_llc.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789924713
         }
     ],
     "wof:id":789924713,
-    "wof:lastmodified":1466772251,
+    "wof:lastmodified":1486765544,
     "wof:name":"Translators USA, LLC",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

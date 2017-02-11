@@ -2,9 +2,14 @@
   "id": 773286969,
   "type": "Feature",
   "properties": {
+    "addr:full":"5914 N Basin Ave Portland OR 97217",
+    "addr:housenumber":"5914",
+    "addr:postcode":"97217",
+    "addr:street":"N Basin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.707504,45.565264,-122.707504,45.565264",
     "geom:latitude":45.565264,
     "geom:longitude":-122.707504,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773286969
         }
     ],
     "wof:id":773286969,
-    "wof:lastmodified":1466772587,
+    "wof:lastmodified":1486765917,
     "wof:name":"Aladdin Manufacturing Corp",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

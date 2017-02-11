@@ -2,9 +2,14 @@
   "id": 790035755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"3525",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.627578,45.516474,-122.627578,45.516474",
     "geom:latitude":45.516474,
     "geom:longitude":-122.627578,
@@ -31,12 +36,14 @@
     "sg:website":"www.bareonbelmont.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790035755
         }
     ],
     "wof:id":790035755,
-    "wof:lastmodified":1466767826,
+    "wof:lastmodified":1486773383,
     "wof:name":"Bare Waxing + Skin + Body",
-    "wof:parent_id":85893157,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

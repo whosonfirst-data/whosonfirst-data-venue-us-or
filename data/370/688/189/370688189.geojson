@@ -2,9 +2,14 @@
   "id": 370688189,
   "type": "Feature",
   "properties": {
+    "addr:full":"11704 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"11704",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540922,45.526289,-122.540922,45.526289",
     "geom:latitude":45.526289,
     "geom:longitude":-122.540922,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e5433e62bd9704e3927037772965c00a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":370688189
         }
     ],
     "wof:id":370688189,
-    "wof:lastmodified":1466773385,
+    "wof:lastmodified":1486770715,
     "wof:name":"Sandy Dental Lab",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

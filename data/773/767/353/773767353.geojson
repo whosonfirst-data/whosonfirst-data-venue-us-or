@@ -2,9 +2,14 @@
   "id": 773767353,
   "type": "Feature",
   "properties": {
+    "addr:full":"2631 NE Alberta St Portland OR 97211",
+    "addr:housenumber":"2631",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.638615,45.559127,-122.638615,45.559127",
     "geom:latitude":45.559127,
     "geom:longitude":-122.638615,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":773767353
         }
     ],
     "wof:id":773767353,
-    "wof:lastmodified":1466775938,
+    "wof:lastmodified":1486773376,
     "wof:name":"Rid Inc",
-    "wof:parent_id":85893149,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

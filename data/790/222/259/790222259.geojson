@@ -2,9 +2,14 @@
   "id": 790222259,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 SE 157th Ave. Portland OR 97233",
+    "addr:housenumber":"328",
+    "addr:postcode":"97233",
+    "addr:street":"Se 157Th Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.501261,45.520082,-122.501261,45.520082",
     "geom:latitude":45.520082,
     "geom:longitude":-122.501261,
@@ -28,12 +33,13 @@
     "sg:website":"adrianasdaycare.webs.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":790222259
         }
     ],
     "wof:id":790222259,
-    "wof:lastmodified":1466771907,
+    "wof:lastmodified":1486766923,
     "wof:name":"Adriana's Daycare",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

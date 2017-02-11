@@ -2,9 +2,14 @@
   "id": 387504371,
   "type": "Feature",
   "properties": {
+    "addr:full":"8215 SW 10th Ave Portland OR 97219",
+    "addr:housenumber":"8215",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688608,45.464301,-122.688608,45.464301",
     "geom:latitude":45.464301,
     "geom:longitude":-122.688608,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"f6e7645397e3cf321a87c5e1105e336d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":387504371
         }
     ],
     "wof:id":387504371,
-    "wof:lastmodified":1466773158,
+    "wof:lastmodified":1486772154,
     "wof:name":"Kelly Michael Graphic Design",
-    "wof:parent_id":85809397,
+    "wof:parent_id":420536125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

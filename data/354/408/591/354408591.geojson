@@ -2,9 +2,14 @@
   "id": 354408591,
   "type": "Feature",
   "properties": {
+    "addr:full":"9500 NE Sandy Blvd Portland OR 97220",
+    "addr:housenumber":"9500",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563862,45.558389,-122.563862,45.558389",
     "geom:latitude":45.558389,
     "geom:longitude":-122.563862,
@@ -38,10 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893247
     ],
     "wof:breaches":[],
@@ -52,19 +60,30 @@
     "wof:geomhash":"82c6e5970823cb5485fbd10c85cb8cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85840687,
+            "region_id":85688513,
+            "venue_id":354408591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":354408591
         }
     ],
     "wof:id":354408591,
-    "wof:lastmodified":1466767155,
+    "wof:lastmodified":1486769689,
     "wof:name":"Parkrose Glass Company",
-    "wof:parent_id":85893247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

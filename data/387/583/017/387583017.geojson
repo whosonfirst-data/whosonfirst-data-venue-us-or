@@ -2,9 +2,14 @@
   "id": 387583017,
   "type": "Feature",
   "properties": {
+    "addr:full":"8005 NW Hawkins Blvd Portland OR 97229",
+    "addr:housenumber":"8005",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Hawkins Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.759655,45.533625,-122.759655,45.533625",
     "geom:latitude":45.533625,
     "geom:longitude":-122.759655,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b482d3a28fd97d98ee64c112c1606d7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":387583017
         }
     ],
     "wof:id":387583017,
-    "wof:lastmodified":1466773927,
+    "wof:lastmodified":1486763617,
     "wof:name":"Lewis Sternberg",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

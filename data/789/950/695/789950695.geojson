@@ -2,9 +2,14 @@
   "id": 789950695,
   "type": "Feature",
   "properties": {
+    "addr:full":"736 NW 12th Ave Ste 100 Portland OR 97209",
+    "addr:housenumber":"736",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 12Th Ave Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683352,45.528195,-122.683352,45.528195",
     "geom:latitude":45.528195,
     "geom:longitude":-122.683352,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.mikegferguson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789950695
         }
     ],
     "wof:id":789950695,
-    "wof:lastmodified":1466772495,
+    "wof:lastmodified":1486770333,
     "wof:name":"State Farm Insurance Agent-Michael G Ferguson Insurance Agency Inc",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773377513,
   "type": "Feature",
   "properties": {
+    "addr:full":"8015 N Tyler Ave Portland OR 97203",
+    "addr:housenumber":"8015",
+    "addr:postcode":"97203",
+    "addr:street":"N Tyler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.745923,45.590221,-122.745923,45.590221",
     "geom:latitude":45.590221,
     "geom:longitude":-122.745923,
@@ -24,7 +29,15 @@
     "sg:postcode":"97203",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EdTREaLPJYH7P9BRh4H47_45.590221_-122.745923@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462585234,
     "wof:geomhash":"2c0a1a556a6fc0a2083f1a734e473c2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":773377513
+        }
+    ],
     "wof:id":773377513,
-    "wof:lastmodified":1466773633,
+    "wof:lastmodified":1486769779,
     "wof:name":"Unique Events LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

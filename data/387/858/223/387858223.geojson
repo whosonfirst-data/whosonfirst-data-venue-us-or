@@ -2,9 +2,14 @@
   "id": 387858223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1617 NW Potters Ct Portland OR 97229",
+    "addr:housenumber":"1617",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Potters Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.780889,45.535158,-122.780889,45.535158",
     "geom:latitude":45.535158,
     "geom:longitude":-122.780889,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7da7a0de826025af2a22b0e75869aae3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":387858223
         }
     ],
     "wof:id":387858223,
-    "wof:lastmodified":1466775183,
+    "wof:lastmodified":1486763432,
     "wof:name":"Optimal Network Technologies L",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

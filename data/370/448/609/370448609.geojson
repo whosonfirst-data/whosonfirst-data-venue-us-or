@@ -2,9 +2,14 @@
   "id": 370448609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 NE Portland Hwy Portland OR 97218",
+    "addr:housenumber":"4300",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Portland Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616652,45.569752,-122.616652,45.569752",
     "geom:latitude":45.569752,
     "geom:longitude":-122.616652,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"538e73024e7aa6d15a7ad76742b4f8e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370448609
         }
     ],
     "wof:id":370448609,
-    "wof:lastmodified":1466771856,
+    "wof:lastmodified":1486771595,
     "wof:name":"Sunflower Creations Inc",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

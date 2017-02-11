@@ -2,9 +2,14 @@
   "id": 790259329,
   "type": "Feature",
   "properties": {
+    "addr:full":"4526 SE 115th Ave Portland OR 97266",
+    "addr:housenumber":"4526",
+    "addr:postcode":"97266",
+    "addr:street":"Se 115Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54448,45.489502,-122.54448,45.489502",
     "geom:latitude":45.489502,
     "geom:longitude":-122.54448,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790259329
         }
     ],
     "wof:id":790259329,
-    "wof:lastmodified":1466772664,
+    "wof:lastmodified":1486771921,
     "wof:name":"Lena Transport",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

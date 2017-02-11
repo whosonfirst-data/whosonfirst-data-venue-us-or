@@ -2,9 +2,14 @@
   "id": 403777645,
   "type": "Feature",
   "properties": {
+    "addr:full":"11456 NE Knott St Portland OR 97220",
+    "addr:housenumber":"11456",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Knott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.546097,45.541998,-122.546097,45.541998",
     "geom:latitude":45.541998,
     "geom:longitude":-122.546097,
@@ -29,11 +34,13 @@
     "sg:website":"www.morrisonkids.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c7f082baeca6efa9b66914627667b5d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":403777645
         }
     ],
     "wof:id":403777645,
-    "wof:lastmodified":1466769292,
+    "wof:lastmodified":1486768321,
     "wof:name":"Morrison Child & Family Svc",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

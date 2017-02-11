@@ -2,9 +2,14 @@
   "id": 386950089,
   "type": "Feature",
   "properties": {
+    "addr:full":"4411 SE Woodstock Blvd Portland OR 97206",
+    "addr:housenumber":"4411",
+    "addr:postcode":"97206",
+    "addr:street":"Se Woodstock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616529,45.479253,-122.616529,45.479253",
     "geom:latitude":45.479253,
     "geom:longitude":-122.616529,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"d95e22e71e88b350edca98c6f5bd7a20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":386950089
         }
     ],
     "wof:id":386950089,
-    "wof:lastmodified":1466767264,
+    "wof:lastmodified":1486769942,
     "wof:name":"A & L Mobile Locksmith",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

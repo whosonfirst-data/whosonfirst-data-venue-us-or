@@ -2,9 +2,14 @@
   "id": 789643285,
   "type": "Feature",
   "properties": {
+    "addr:full":"9816 N Whitaker Rd Portland OR 97217",
+    "addr:housenumber":"9816",
+    "addr:postcode":"97217",
+    "addr:street":"N Whitaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681417,45.593731,-122.681417,45.593731",
     "geom:latitude":45.593731,
     "geom:longitude":-122.681417,
@@ -29,7 +34,15 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u5nlqkjwCdyRTO9snkuj3_45.593731_-122.681417@1299784598"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462589397,
     "wof:geomhash":"a13836b2a799d2a1ecfd7326b03f7bc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789643285
+        }
+    ],
     "wof:id":789643285,
-    "wof:lastmodified":1466769234,
+    "wof:lastmodified":1486771631,
     "wof:name":"Burger King",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

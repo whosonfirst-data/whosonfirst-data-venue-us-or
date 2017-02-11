@@ -2,9 +2,14 @@
   "id": 387822449,
   "type": "Feature",
   "properties": {
+    "addr:full":"7415 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"7415",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.586699,45.485739,-122.586699,45.485739",
     "geom:latitude":45.485739,
     "geom:longitude":-122.586699,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"7e02d32ee13c04674fc9c5dc261bc485",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":387822449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387822449
         }
     ],
     "wof:id":387822449,
-    "wof:lastmodified":1466775019,
+    "wof:lastmodified":1486771653,
     "wof:name":"Perfect Salon",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

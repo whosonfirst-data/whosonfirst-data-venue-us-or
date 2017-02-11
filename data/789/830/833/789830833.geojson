@@ -2,9 +2,14 @@
   "id": 789830833,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW 4th and College St Portland OR 97201",
+    "addr:housenumber":"",
+    "addr:postcode":"97201",
+    "addr:street":"Sw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68161,45.509201,-122.68161,45.509201",
     "geom:latitude":45.509201,
     "geom:longitude":-122.68161,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789830833
         }
     ],
     "wof:id":789830833,
-    "wof:lastmodified":1466769715,
+    "wof:lastmodified":1486763878,
     "wof:name":"Pepe's Mexican Food",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

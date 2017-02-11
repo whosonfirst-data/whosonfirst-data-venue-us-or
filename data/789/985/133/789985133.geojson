@@ -2,9 +2,14 @@
   "id": 789985133,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 NE 14th Ave Portland OR 97211",
+    "addr:housenumber":"5005",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65168,45.559137,-122.65168,45.559137",
     "geom:latitude":45.559137,
     "geom:longitude":-122.65168,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789985133
         }
     ],
     "wof:id":789985133,
-    "wof:lastmodified":1466773021,
+    "wof:lastmodified":1486773368,
     "wof:name":"A Burns Painting And Sndblstng",
-    "wof:parent_id":85893257,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

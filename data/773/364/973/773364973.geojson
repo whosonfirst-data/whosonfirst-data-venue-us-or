@@ -2,9 +2,14 @@
   "id": 773364973,
   "type": "Feature",
   "properties": {
+    "addr:full":"5051 N Lagoon Ave Portland OR 97217",
+    "addr:housenumber":"5051",
+    "addr:postcode":"97217",
+    "addr:street":"N Lagoon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70758,45.560234,-122.70758,45.560234",
     "geom:latitude":45.560234,
     "geom:longitude":-122.70758,
@@ -31,12 +36,13 @@
     "sg:website":"www.stagecraftindustries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773364973
         }
     ],
     "wof:id":773364973,
-    "wof:lastmodified":1466773617,
+    "wof:lastmodified":1486765751,
     "wof:name":"Stagecraft Industries Inc",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

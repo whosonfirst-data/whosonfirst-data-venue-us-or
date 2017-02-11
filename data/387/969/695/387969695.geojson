@@ -2,9 +2,14 @@
   "id": 387969695,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 SE 94th Ave Portland OR 97216",
+    "addr:housenumber":"415",
+    "addr:postcode":"97216",
+    "addr:street":"Se 94Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.566917,45.522084,-122.566917,45.522084",
     "geom:latitude":45.522084,
     "geom:longitude":-122.566917,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"e7d9a518adf5f5d5ae33677344289197",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387969695
         }
     ],
     "wof:id":387969695,
-    "wof:lastmodified":1466775493,
+    "wof:lastmodified":1486766499,
     "wof:name":"Lunceford Trucking",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

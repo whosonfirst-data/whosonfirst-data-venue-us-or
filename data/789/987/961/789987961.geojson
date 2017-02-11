@@ -2,9 +2,14 @@
   "id": 789987961,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 NE Alberta St Ste B Portland OR 97211",
+    "addr:housenumber":"2225",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642633,45.559059,-122.642633,45.559059",
     "geom:latitude":45.559059,
     "geom:longitude":-122.642633,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789987961
         }
     ],
     "wof:id":789987961,
-    "wof:lastmodified":1466773058,
+    "wof:lastmodified":1486773375,
     "wof:name":"Bodyaware Massage",
-    "wof:parent_id":85893213,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

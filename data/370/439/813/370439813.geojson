@@ -2,9 +2,14 @@
   "id": 370439813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 NW Raleigh St Portland OR 97210",
+    "addr:housenumber":"2911",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Raleigh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712093,45.533899,-122.712093,45.533899",
     "geom:latitude":45.533899,
     "geom:longitude":-122.712093,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"fa86907bed9f53162ed763474baf2f61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370439813
         }
     ],
     "wof:id":370439813,
-    "wof:lastmodified":1466771785,
+    "wof:lastmodified":1486771260,
     "wof:name":"Julantru LP",
-    "wof:parent_id":85857791,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

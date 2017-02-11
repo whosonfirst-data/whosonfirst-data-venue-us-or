@@ -2,9 +2,14 @@
   "id": 387120081,
   "type": "Feature",
   "properties": {
+    "addr:full":"8071 SE 13th Ave Portland OR 97202",
+    "addr:housenumber":"8071",
+    "addr:postcode":"97202",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653072,45.464637,-122.653072,45.464637",
     "geom:latitude":45.464637,
     "geom:longitude":-122.653072,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"a946b4f5bf28361759be14105a0b601c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387120081
         }
     ],
     "wof:id":387120081,
-    "wof:lastmodified":1466769178,
+    "wof:lastmodified":1486770508,
     "wof:name":"Reflections-Hair & Nail Design",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

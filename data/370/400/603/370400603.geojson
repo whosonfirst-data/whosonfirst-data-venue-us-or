@@ -2,9 +2,14 @@
   "id": 370400603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1632 SW Hawthorne Ter Portland OR 97201",
+    "addr:housenumber":"1632",
+    "addr:postcode":"97201",
+    "addr:street":"Sw;Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696875,45.507078,-122.696875,45.507078",
     "geom:latitude":45.507078,
     "geom:longitude":-122.696875,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"e5ec9b851ab56d4548554c2f7aa0dfa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":370400603
         }
     ],
     "wof:id":370400603,
-    "wof:lastmodified":1466771652,
+    "wof:lastmodified":1486773807,
     "wof:name":"Western Viewpoint Inc",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

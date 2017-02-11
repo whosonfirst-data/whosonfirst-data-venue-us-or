@@ -2,9 +2,14 @@
   "id": 386991451,
   "type": "Feature",
   "properties": {
+    "addr:full":"2332 NW Pinnacle Dr Portland OR 97229",
+    "addr:housenumber":"2332",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Pinnacle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.770303,45.539597,-122.770303,45.539597",
     "geom:latitude":45.539597,
     "geom:longitude":-122.770303,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c32bbb396096c6f16ce9d1828fe77e18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":386991451
         }
     ],
     "wof:id":386991451,
-    "wof:lastmodified":1466767451,
+    "wof:lastmodified":1486763548,
     "wof:name":"Heyworth & Associates Inc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

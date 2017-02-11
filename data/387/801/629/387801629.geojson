@@ -2,9 +2,14 @@
   "id": 387801629,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 SE 13th Ave Portland OR 97214",
+    "addr:housenumber":"924",
+    "addr:postcode":"97214",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652563,45.515948,-122.652563,45.515948",
     "geom:latitude":45.515948,
     "geom:longitude":-122.652563,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"29713c56a46bb1e401d674da05ba664f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387801629
         }
     ],
     "wof:id":387801629,
-    "wof:lastmodified":1466775012,
+    "wof:lastmodified":1486766961,
     "wof:name":"Building Bridges Behavioral",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

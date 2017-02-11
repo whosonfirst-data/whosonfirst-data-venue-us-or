@@ -2,9 +2,14 @@
   "id": 789867389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2713 SE 21st Ave Portland OR 97202",
+    "addr:housenumber":"2713",
+    "addr:postcode":"97202",
+    "addr:street":"Se 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644624,45.503304,-122.644624,45.503304",
     "geom:latitude":45.503304,
     "geom:longitude":-122.644624,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +45,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789867389
         }
     ],
     "wof:id":789867389,
-    "wof:lastmodified":1466771159,
+    "wof:lastmodified":1486771708,
     "wof:name":"Loyly Sauna",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

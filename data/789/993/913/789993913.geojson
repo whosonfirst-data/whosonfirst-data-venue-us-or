@@ -2,9 +2,14 @@
   "id": 789993913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3409 NE Marine Drive Portland OR 97211",
+    "addr:housenumber":"3409",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Marine Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.627295,45.60059,-122.627295,45.60059",
     "geom:latitude":45.60059,
     "geom:longitude":-122.627295,
@@ -35,12 +40,13 @@
     "sg:website":"www.skwatercraftrentals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871491
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871491,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":789993913
         }
     ],
     "wof:id":789993913,
-    "wof:lastmodified":1466773220,
+    "wof:lastmodified":1486772331,
     "wof:name":"S K Watercraft Rentals",
-    "wof:parent_id":85871491,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

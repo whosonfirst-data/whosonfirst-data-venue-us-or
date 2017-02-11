@@ -2,9 +2,14 @@
   "id": 370788797,
   "type": "Feature",
   "properties": {
+    "addr:full":"3707 SW Lyle Ct Portland OR 97221",
+    "addr:housenumber":"3707",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Lyle Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.716225,45.492045,-122.716225,45.492045",
     "geom:latitude":45.492045,
     "geom:longitude":-122.716225,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"5ef7a79e21a7f58e3cd30f8ad1d02ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370788797
         }
     ],
     "wof:id":370788797,
-    "wof:lastmodified":1466774031,
+    "wof:lastmodified":1486769386,
     "wof:name":"Tallian Consulting Corp",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85807447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

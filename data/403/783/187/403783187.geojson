@@ -2,9 +2,14 @@
   "id": 403783187,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 NW 81st Pl Portland OR 97229",
+    "addr:housenumber":"2606",
+    "addr:postcode":"97229",
+    "addr:street":"Nw 81St Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.76162,45.542055,-122.76162,45.542055",
     "geom:latitude":45.542055,
     "geom:longitude":-122.76162,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"7ab6dad4dd61b890914313fb016b3aff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871477,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":403783187
         }
     ],
     "wof:id":403783187,
-    "wof:lastmodified":1466769374,
+    "wof:lastmodified":1486772187,
     "wof:name":"Richard G Mann",
-    "wof:parent_id":85871477,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

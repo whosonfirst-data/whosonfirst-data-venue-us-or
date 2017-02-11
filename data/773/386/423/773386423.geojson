@@ -2,9 +2,14 @@
   "id": 773386423,
   "type": "Feature",
   "properties": {
+    "addr:full":"4630 N Maryland Ave Portland OR 97217",
+    "addr:housenumber":"4630",
+    "addr:postcode":"97217",
+    "addr:street":"N Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681119,45.556224,-122.681119,45.556224",
     "geom:latitude":45.556224,
     "geom:longitude":-122.681119,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773386423
         }
     ],
     "wof:id":773386423,
-    "wof:lastmodified":1466773850,
+    "wof:lastmodified":1486771853,
     "wof:name":"Catholic Mission Of Portland",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

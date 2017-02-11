@@ -2,9 +2,14 @@
   "id": 370913653,
   "type": "Feature",
   "properties": {
+    "addr:full":"4106 SW 43rd Ave Portland OR 97221",
+    "addr:housenumber":"4106",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.721045,45.493751,-122.721045,45.493751",
     "geom:latitude":45.493751,
     "geom:longitude":-122.721045,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"c2166180d77c3820625b41844329198e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370913653
         }
     ],
     "wof:id":370913653,
-    "wof:lastmodified":1466774643,
+    "wof:lastmodified":1486764674,
     "wof:name":"Markiz Group LLC",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

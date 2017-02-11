@@ -2,9 +2,14 @@
   "id": 789932717,
   "type": "Feature",
   "properties": {
+    "addr:full":"8111 SE Foster Road Portland OR 97206",
+    "addr:housenumber":"8111",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579494,45.483132,-122.579494,45.483132",
     "geom:latitude":45.483132,
     "geom:longitude":-122.579494,
@@ -26,12 +31,14 @@
     "sg:website":"www.arbys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":789932717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789932717
         }
     ],
     "wof:id":789932717,
-    "wof:lastmodified":1466772205,
+    "wof:lastmodified":1486771647,
     "wof:name":"Arby's Roast Beef Restaurants",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

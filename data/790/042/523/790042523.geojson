@@ -2,9 +2,14 @@
   "id": 790042523,
   "type": "Feature",
   "properties": {
+    "addr:full":"State Farm Insurance 5048A SE Hawthorne Blvd Portland OR 97215",
+    "addr:housenumber":"5048a",
+    "addr:postcode":"97215",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610616,45.512022,-122.610616,45.512022",
     "geom:latitude":45.512022,
     "geom:longitude":-122.610616,
@@ -26,13 +31,14 @@
     "sg:website":"www.marikolocke.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893211,
-            "region_id":85688513,
-            "venue_id":790042523
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790042523
         }
     ],
     "wof:id":790042523,
-    "wof:lastmodified":1466767897,
+    "wof:lastmodified":1486773687,
     "wof:name":"Mariko Locke",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

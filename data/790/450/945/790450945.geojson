@@ -2,9 +2,14 @@
   "id": 790450945,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 SW Washington Street, 7th Floor Portland OR 97205",
+    "addr:housenumber":"707;7th floor",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Washington Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70424,45.52229,-122.70424,45.52229",
     "geom:latitude":45.52229,
     "geom:longitude":-122.70424,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.signacert.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893191
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893191,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":790450945
         }
     ],
     "wof:id":790450945,
-    "wof:lastmodified":1466774823,
+    "wof:lastmodified":1486770891,
     "wof:name":"SignaCert",
-    "wof:parent_id":85893191,
+    "wof:parent_id":85871473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

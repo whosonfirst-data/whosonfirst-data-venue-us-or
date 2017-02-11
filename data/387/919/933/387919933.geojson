@@ -2,9 +2,14 @@
   "id": 387919933,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 SW Flower Pl Portland OR 97221",
+    "addr:housenumber":"4660",
+    "addr:postcode":"pl;97221",
+    "addr:street":"Sw Flower",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723204,45.482814,-122.723204,45.482814",
     "geom:latitude":45.482814,
     "geom:longitude":-122.723204,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"3d51748da2d8f72222fe96d15ab14d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":387919933
         }
     ],
     "wof:id":387919933,
-    "wof:lastmodified":1466775369,
+    "wof:lastmodified":1486774198,
     "wof:name":"Jedco Consulting Company",
-    "wof:parent_id":85821817,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

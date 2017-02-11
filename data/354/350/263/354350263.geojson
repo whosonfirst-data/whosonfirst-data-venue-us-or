@@ -2,9 +2,14 @@
   "id": 354350263,
   "type": "Feature",
   "properties": {
+    "addr:full":"13604 SE Claybourne St Portland OR 97236",
+    "addr:housenumber":"13604",
+    "addr:postcode":"97236",
+    "addr:street":"Se Claybourne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523757,45.474729,-122.523757,45.474729",
     "geom:latitude":45.474729,
     "geom:longitude":-122.523757,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"2c70bd0994ca3bd99eff7c7281676082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":354350263
         }
     ],
     "wof:id":354350263,
-    "wof:lastmodified":1466770334,
+    "wof:lastmodified":1486772196,
     "wof:name":"Perius Micheal",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

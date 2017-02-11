@@ -2,9 +2,14 @@
   "id": 403868915,
   "type": "Feature",
   "properties": {
+    "addr:full":"16045 NE Holladay St Portland OR 97230",
+    "addr:housenumber":"16045",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Holladay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.496829,45.530003,-122.496829,45.530003",
     "geom:latitude":45.530003,
     "geom:longitude":-122.496829,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
+        85688513,
+        101716277,
         85845549
     ],
     "wof:breaches":[],
@@ -43,7 +52,17 @@
     "wof:geomhash":"1292f2200b856fcbc2c9dcd850356f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
+            "region_id":85688513,
+            "venue_id":403868915
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
@@ -53,9 +72,9 @@
         }
     ],
     "wof:id":403868915,
-    "wof:lastmodified":1466771129,
+    "wof:lastmodified":1486772081,
     "wof:name":"Calcagno Construction",
-    "wof:parent_id":85845549,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

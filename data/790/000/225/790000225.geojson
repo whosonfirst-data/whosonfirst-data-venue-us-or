@@ -2,9 +2,14 @@
   "id": 790000225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3523 NE 15th Ave Portland OR 97212",
+    "addr:housenumber":"3523",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650422,45.548434,-122.650422,45.548434",
     "geom:latitude":45.548434,
     "geom:longitude":-122.650422,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893235
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893235,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":790000225
         }
     ],
     "wof:id":790000225,
-    "wof:lastmodified":1466767499,
+    "wof:lastmodified":1486771981,
     "wof:name":"Papa Murphys",
-    "wof:parent_id":85893235,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

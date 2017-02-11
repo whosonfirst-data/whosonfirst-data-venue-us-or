@@ -2,9 +2,14 @@
   "id": 790089521,
   "type": "Feature",
   "properties": {
+    "addr:full":"11942 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"11942",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539345,45.526283,-122.539345,45.526283",
     "geom:latitude":45.526283,
     "geom:longitude":-122.539345,
@@ -26,12 +31,13 @@
     "sg:website":"www.adecco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790089521
         }
     ],
     "wof:id":790089521,
-    "wof:lastmodified":1466767506,
+    "wof:lastmodified":1486767614,
     "wof:name":"Adecco Employment Services",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

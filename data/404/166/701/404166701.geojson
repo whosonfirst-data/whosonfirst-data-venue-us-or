@@ -2,9 +2,14 @@
   "id": 404166701,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 NE 8th Ave Portland OR 97232",
+    "addr:housenumber":"217",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657725,45.524945,-122.657725,45.524945",
     "geom:latitude":45.524945,
     "geom:longitude":-122.657725,
@@ -29,11 +34,14 @@
     "sg:website":"www.sticky.tv",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"42f8f4155d6e02a221cdce0448f1c439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":404166701
         }
     ],
     "wof:id":404166701,
-    "wof:lastmodified":1466767528,
+    "wof:lastmodified":1486773484,
     "wof:name":"Sticky",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790034267,
   "type": "Feature",
   "properties": {
+    "addr:full":"824 SE 16th Ave A Portland OR 97214",
+    "addr:housenumber":"824",
+    "addr:postcode":"97214",
+    "addr:street":"Se 16Th Ave A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649565,45.517029,-122.649565,45.517029",
     "geom:latitude":45.517029,
     "geom:longitude":-122.649565,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871515,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790034267
         }
     ],
     "wof:id":790034267,
-    "wof:lastmodified":1466767792,
+    "wof:lastmodified":1486773395,
     "wof:name":"Professional Air Balance Svc",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371031837,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 SW 5th Ave Portland OR 97204",
+    "addr:housenumber":"900",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678665,45.516802,-122.678665,45.516802",
     "geom:latitude":45.516802,
     "geom:longitude":-122.678665,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"07f87b2a11839507a24ba0e5151c988d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":371031837
         }
     ],
     "wof:id":371031837,
-    "wof:lastmodified":1466767680,
+    "wof:lastmodified":1486764411,
     "wof:name":"Krages II BRT P Attrny At Law",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789834925,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 SW Columbia St # 1500 Portland OR 97201",
+    "addr:housenumber":"111;# 1500",
+    "addr:postcode":"97201",
+    "addr:street":"Sw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676214,45.513087,-122.676214,45.513087",
     "geom:latitude":45.513087,
     "geom:longitude":-122.676214,
@@ -43,12 +48,13 @@
     "sg:website":"http://www.brwinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789834925
         }
     ],
     "wof:id":789834925,
-    "wof:lastmodified":1466769872,
+    "wof:lastmodified":1486764184,
     "wof:name":"Urs",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

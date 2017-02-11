@@ -2,9 +2,14 @@
   "id": 790081123,
   "type": "Feature",
   "properties": {
+    "addr:full":"12000 SW 49th Ave Portland OR 97219",
+    "addr:housenumber":"12000",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 49Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728722,45.439176,-122.728722,45.439176",
     "geom:latitude":45.439176,
     "geom:longitude":-122.728722,
@@ -34,12 +39,13 @@
     "sg:website":"www.pcc.edu/library",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":790081123
         }
     ],
     "wof:id":790081123,
-    "wof:lastmodified":1466767202,
+    "wof:lastmodified":1486764202,
     "wof:name":"Portland Community College Sylvania Library",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

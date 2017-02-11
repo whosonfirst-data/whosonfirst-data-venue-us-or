@@ -2,9 +2,14 @@
   "id": 789990241,
   "type": "Feature",
   "properties": {
+    "addr:full":"4745 NE 15th Ave Portland OR 97211",
+    "addr:housenumber":"4745",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649727,45.557344,-122.649727,45.557344",
     "geom:latitude":45.557344,
     "geom:longitude":-122.649727,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":789990241
         }
     ],
     "wof:id":789990241,
-    "wof:lastmodified":1466773099,
+    "wof:lastmodified":1486771983,
     "wof:name":"Hnh Properties",
-    "wof:parent_id":85893213,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

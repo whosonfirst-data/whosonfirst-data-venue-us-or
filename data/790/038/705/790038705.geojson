@@ -2,9 +2,14 @@
   "id": 790038705,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 E Burnside Portland OR 97214",
+    "addr:housenumber":"1001",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655584,45.522932,-122.655584,45.522932",
     "geom:latitude":45.522932,
     "geom:longitude":-122.655584,
@@ -26,12 +31,14 @@
     "sg:website":"www.jackalopetattoo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790038705
         }
     ],
     "wof:id":790038705,
-    "wof:lastmodified":1466767855,
+    "wof:lastmodified":1486773721,
     "wof:name":"Jackalope Custom Tattoo",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

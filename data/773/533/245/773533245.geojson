@@ -2,9 +2,14 @@
   "id": 773533245,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 NW 6th Ave Portland OR 97209",
+    "addr:housenumber":"232",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67645,45.525832,-122.67645,45.525832",
     "geom:latitude":45.525832,
     "geom:longitude":-122.67645,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":773533245
         }
     ],
     "wof:id":773533245,
-    "wof:lastmodified":1466775133,
+    "wof:lastmodified":1486770695,
     "wof:name":"Central City Janitorial",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

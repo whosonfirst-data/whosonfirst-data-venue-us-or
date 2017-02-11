@@ -2,9 +2,14 @@
   "id": 789599379,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 SW Alder St Portland OR 97205",
+    "addr:housenumber":"813",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Alder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680603,45.520428,-122.680603,45.520428",
     "geom:latitude":45.520428,
     "geom:longitude":-122.680603,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789599379
         }
     ],
     "wof:id":789599379,
-    "wof:lastmodified":1466768332,
+    "wof:lastmodified":1486765580,
     "wof:name":"Acupuncture Center of Portland",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

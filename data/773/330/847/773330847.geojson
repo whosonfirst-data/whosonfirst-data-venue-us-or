@@ -2,9 +2,14 @@
   "id": 773330847,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 NE 21st Ave Portland OR 97211",
+    "addr:housenumber":"6200",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644553,45.568239,-122.644553,45.568239",
     "geom:latitude":45.568239,
     "geom:longitude":-122.644553,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":773330847
         }
     ],
     "wof:id":773330847,
-    "wof:lastmodified":1466773334,
+    "wof:lastmodified":1486772095,
     "wof:name":"Sharon Baggett",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790255371,
   "type": "Feature",
   "properties": {
+    "addr:full":"11944 SE Brookside Dr Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"11944;97266",
+    "addr:street":"Se Brookside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539656,45.472298,-122.539656,45.472298",
     "geom:latitude":45.472298,
     "geom:longitude":-122.539656,
@@ -30,12 +35,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10326251%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85803591,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790255371
         }
     ],
     "wof:id":790255371,
-    "wof:lastmodified":1466772598,
+    "wof:lastmodified":1486772200,
     "wof:name":"Sleep Sound Property Management",
-    "wof:parent_id":85803591,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

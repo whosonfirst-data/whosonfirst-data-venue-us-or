@@ -2,9 +2,14 @@
   "id": 790247837,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 SW Corbett Ave # 110 Portland OR 97239",
+    "addr:housenumber":"3535",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Corbett Ave # 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675883,45.497694,-122.675883,45.497694",
     "geom:latitude":45.497694,
     "geom:longitude":-122.675883,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790247837
         }
     ],
     "wof:id":790247837,
-    "wof:lastmodified":1466772407,
+    "wof:lastmodified":1486773649,
     "wof:name":"Andrew Brorson Design Services",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

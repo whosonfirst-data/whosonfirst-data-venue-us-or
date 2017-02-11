@@ -2,9 +2,14 @@
   "id": 371119287,
   "type": "Feature",
   "properties": {
+    "addr:full":"6310 SW Burlingame Ave Portland OR 97239",
+    "addr:housenumber":"6310",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Burlingame Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687907,45.477824,-122.687907,45.477824",
     "geom:latitude":45.477824,
     "geom:longitude":-122.687907,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"ab39bb487fdcc5b7b772d3c594565e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":371119287
         }
     ],
     "wof:id":371119287,
-    "wof:lastmodified":1466769138,
+    "wof:lastmodified":1486769445,
     "wof:name":"Wedge Investment",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403808755,
   "type": "Feature",
   "properties": {
+    "addr:full":"7020 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"7020",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.590471,45.486975,-122.590471,45.486975",
     "geom:latitude":45.486975,
     "geom:longitude":-122.590471,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"c2c4ad7906f73284aace524b1df07a22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":403808755
         }
     ],
     "wof:id":403808755,
-    "wof:lastmodified":1466769797,
+    "wof:lastmodified":1486767437,
     "wof:name":"Dukes",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

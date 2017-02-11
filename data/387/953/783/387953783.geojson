@@ -2,9 +2,14 @@
   "id": 387953783,
   "type": "Feature",
   "properties": {
+    "addr:full":"6360 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6360",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598176,45.49018,-122.598176,45.49018",
     "geom:latitude":45.49018,
     "geom:longitude":-122.598176,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"7b996f0f84bf9de31d682b9dc94b7ead",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893185,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":387953783
         }
     ],
     "wof:id":387953783,
-    "wof:lastmodified":1466775610,
+    "wof:lastmodified":1486771792,
     "wof:name":"It's Fran's Vintage Advantage",
-    "wof:parent_id":85893185,
+    "wof:parent_id":85893209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789867253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 SE Martins St Portland OR 97202",
+    "addr:housenumber":"1533",
+    "addr:postcode":"97202",
+    "addr:street":"Se Martins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650281,45.478632,-122.650281,45.478632",
     "geom:latitude":45.478632,
     "geom:longitude":-122.650281,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789867253
         }
     ],
     "wof:id":789867253,
-    "wof:lastmodified":1466771153,
+    "wof:lastmodified":1486766464,
     "wof:name":"Terrapin Arts",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790100557,
   "type": "Feature",
   "properties": {
+    "addr:full":"4911 SW Hamilton St Portland OR 97221",
+    "addr:housenumber":"4911",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.727531,45.490877,-122.727531,45.490877",
     "geom:latitude":45.490877,
     "geom:longitude":-122.727531,
@@ -38,11 +43,13 @@
     "sg:website":"www.skylightsnw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +60,18 @@
     "wof:geomhash":"d41f3b19d5e35ce660776ae0919a5eb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790100557
         }
     ],
     "wof:id":790100557,
-    "wof:lastmodified":1466767914,
+    "wof:lastmodified":1486769379,
     "wof:name":"Skylights NW",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

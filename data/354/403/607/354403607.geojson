@@ -2,9 +2,14 @@
   "id": 354403607,
   "type": "Feature",
   "properties": {
+    "addr:full":"2023 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"2023",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689799,45.562051,-122.689799,45.562051",
     "geom:latitude":45.562051,
     "geom:longitude":-122.689799,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a3bc1860b24b990b8dbb24864fc8d2e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":354403607
         }
     ],
     "wof:id":354403607,
-    "wof:lastmodified":1466771369,
+    "wof:lastmodified":1486766024,
     "wof:name":"Aperion Solutions LLC",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370840429,
   "type": "Feature",
   "properties": {
+    "addr:full":"7495 NE Airport Way Portland OR 97218",
+    "addr:housenumber":"7495",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.584088,45.585858,-122.584088,45.585858",
     "geom:latitude":45.585858,
     "geom:longitude":-122.584088,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        102532251,
+        1108721307,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871491
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"e83c0364379107d5aa3631d900024af4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102532251,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871491,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":370840429
         }
     ],
     "wof:id":370840429,
-    "wof:lastmodified":1466774346,
+    "wof:lastmodified":1486772341,
     "wof:name":"Air Oregon",
-    "wof:parent_id":85871491,
+    "wof:parent_id":102532251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

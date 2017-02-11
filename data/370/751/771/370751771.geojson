@@ -2,9 +2,14 @@
   "id": 370751771,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 NW 14th Ave Portland OR 97209",
+    "addr:housenumber":"600",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685345,45.527893,-122.685345,45.527893",
     "geom:latitude":45.527893,
     "geom:longitude":-122.685345,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"c2b9b10ae896175112fb46925de41291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":370751771
         }
     ],
     "wof:id":370751771,
-    "wof:lastmodified":1466773934,
+    "wof:lastmodified":1486763341,
     "wof:name":"Mangan Partners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

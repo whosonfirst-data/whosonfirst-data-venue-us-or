@@ -2,9 +2,14 @@
   "id": 404183557,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 SE 75th Ave Portland OR 97206",
+    "addr:housenumber":"4815",
+    "addr:postcode":"97206",
+    "addr:street":"Se 75Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.586165,45.488629,-122.586165,45.488629",
     "geom:latitude":45.488629,
     "geom:longitude":-122.586165,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"259874120fecf530871d82ef5813d938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":404183557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":404183557
         }
     ],
     "wof:id":404183557,
-    "wof:lastmodified":1466767830,
+    "wof:lastmodified":1486771652,
     "wof:name":"Roger & Linda Andrews Trucking",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

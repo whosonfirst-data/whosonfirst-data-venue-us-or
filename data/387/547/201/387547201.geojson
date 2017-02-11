@@ -2,9 +2,14 @@
   "id": 387547201,
   "type": "Feature",
   "properties": {
+    "addr:full":"6416 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6416",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597727,45.489996,-122.597727,45.489996",
     "geom:latitude":45.489996,
     "geom:longitude":-122.597727,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"daa1a6b3f01230992fbb28face3de8b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893185,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":387547201
         }
     ],
     "wof:id":387547201,
-    "wof:lastmodified":1466773579,
+    "wof:lastmodified":1486771787,
     "wof:name":"Moyers Family Bookstore Inc",
-    "wof:parent_id":85893185,
+    "wof:parent_id":85893209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

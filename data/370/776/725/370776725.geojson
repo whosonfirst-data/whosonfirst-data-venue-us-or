@@ -2,9 +2,14 @@
   "id": 370776725,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 N Greeley Ave Portland OR 97217",
+    "addr:housenumber":"6024",
+    "addr:postcode":"97217",
+    "addr:street":"N Greeley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695489,45.568037,-122.695489,45.568037",
     "geom:latitude":45.568037,
     "geom:longitude":-122.695489,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"320fe48ad51698dafa9b88e7132c6979",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893221,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":370776725
         }
     ],
     "wof:id":370776725,
-    "wof:lastmodified":1466773962,
+    "wof:lastmodified":1486772108,
     "wof:name":"Bowers Installations",
-    "wof:parent_id":85893221,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

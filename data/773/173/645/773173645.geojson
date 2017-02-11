@@ -2,9 +2,14 @@
   "id": 773173645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 SE Mulberry Ave Portland OR 97214",
+    "addr:housenumber":"1817",
+    "addr:postcode":"97214",
+    "addr:street":"Se Mulberry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652675,45.509866,-122.652675,45.509866",
     "geom:latitude":45.509866,
     "geom:longitude":-122.652675,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773173645
         }
     ],
     "wof:id":773173645,
-    "wof:lastmodified":1466770555,
+    "wof:lastmodified":1486773546,
     "wof:name":"Eco Speed Electric Bicycle",
-    "wof:parent_id":85828991,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

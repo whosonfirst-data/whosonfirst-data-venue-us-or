@@ -2,9 +2,14 @@
   "id": 370404109,
   "type": "Feature",
   "properties": {
+    "addr:full":"2234 SE 20th Ave Portland OR 97214",
+    "addr:housenumber":"2234",
+    "addr:postcode":"97214",
+    "addr:street":"Se 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645027,45.506566,-122.645027,45.506566",
     "geom:latitude":45.506566,
     "geom:longitude":-122.645027,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713579,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"54dc3355a2e3e4ec2bde3c2ae470a413",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713579,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":370404109
         }
     ],
     "wof:id":370404109,
-    "wof:lastmodified":1466771682,
+    "wof:lastmodified":1486773541,
     "wof:name":"Nurpu",
-    "wof:parent_id":85893239,
+    "wof:parent_id":1108713579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 386930515,
   "type": "Feature",
   "properties": {
+    "addr:full":"4338 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"4338",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.733026,45.554891,-122.733026,45.554891",
     "geom:latitude":45.554891,
     "geom:longitude":-122.733026,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717057,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"9dacd4ca2ed6c1866e8ba50fbda1d08f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717057,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":386930515
         }
     ],
     "wof:id":386930515,
-    "wof:lastmodified":1466767150,
+    "wof:lastmodified":1486773714,
     "wof:name":"Pcs",
-    "wof:parent_id":85868951,
+    "wof:parent_id":1108717057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

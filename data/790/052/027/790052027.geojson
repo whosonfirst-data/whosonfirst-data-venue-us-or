@@ -2,9 +2,14 @@
   "id": 790052027,
   "type": "Feature",
   "properties": {
+    "addr:full":"433 SE 91st Avenue Portland OR 97216",
+    "addr:housenumber":"433",
+    "addr:postcode":"97216",
+    "addr:street":"Se 91St Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569988,45.519291,-122.569988,45.519291",
     "geom:latitude":45.519291,
     "geom:longitude":-122.569988,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790052027
         }
     ],
     "wof:id":790052027,
-    "wof:lastmodified":1466768099,
+    "wof:lastmodified":1486766434,
     "wof:name":"Gary's Auto Repair",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

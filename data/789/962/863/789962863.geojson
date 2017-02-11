@@ -2,9 +2,14 @@
   "id": 789962863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1849 NW Kearney St # 200 Portland OR 97209",
+    "addr:housenumber":"1849",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Kearney St # 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689966,45.529181,-122.689966,45.529181",
     "geom:latitude":45.529181,
     "geom:longitude":-122.689966,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789962863
         }
     ],
     "wof:id":789962863,
-    "wof:lastmodified":1466772615,
+    "wof:lastmodified":1486771236,
     "wof:name":"Sterling Hodgson, Md",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

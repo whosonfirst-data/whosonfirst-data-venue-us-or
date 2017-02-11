@@ -2,9 +2,14 @@
   "id": 789843631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 SW Park Ave Suite 100-B Portland OR 97201",
+    "addr:housenumber":"1511",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Park Ave Suite 100-B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684021,45.514341,-122.684021,45.514341",
     "geom:latitude":45.514341,
     "geom:longitude":-122.684021,
@@ -51,12 +56,13 @@
     "sg:website":"http://www.theeyeclinicpc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +77,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789843631
         }
     ],
     "wof:id":789843631,
-    "wof:lastmodified":1466770256,
+    "wof:lastmodified":1486764257,
     "wof:name":"The Eye Clinic PC",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

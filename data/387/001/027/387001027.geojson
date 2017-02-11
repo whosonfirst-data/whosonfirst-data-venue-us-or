@@ -2,9 +2,14 @@
   "id": 387001027,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 SW Sherman St Portland OR 97201",
+    "addr:housenumber":"605",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685862,45.506969,-122.685862,45.506969",
     "geom:latitude":45.506969,
     "geom:longitude":-122.685862,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"91d36eb093e0eebd073d88487eba612f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":387001027
         }
     ],
     "wof:id":387001027,
-    "wof:lastmodified":1466767145,
+    "wof:lastmodified":1486769801,
     "wof:name":"Balzer Pacific Equipment Co",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85849969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790224049,
   "type": "Feature",
   "properties": {
+    "addr:full":"15948 E Burnside Street Portland OR 97233",
+    "addr:housenumber":"15948",
+    "addr:postcode":"97233",
+    "addr:street":"E Burnside Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499425,45.522004,-122.499425,45.522004",
     "geom:latitude":45.522004,
     "geom:longitude":-122.499425,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":790224049
         }
     ],
     "wof:id":790224049,
-    "wof:lastmodified":1466771945,
+    "wof:lastmodified":1486767003,
     "wof:name":"Morgan Place Apartments",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

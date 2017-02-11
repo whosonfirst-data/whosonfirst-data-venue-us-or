@@ -2,9 +2,14 @@
   "id": 790073945,
   "type": "Feature",
   "properties": {
+    "addr:full":"8422 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"8422",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683998,45.4641,-122.683998,45.4641",
     "geom:latitude":45.4641,
     "geom:longitude":-122.683998,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":790073945
         }
     ],
     "wof:id":790073945,
-    "wof:lastmodified":1466768650,
+    "wof:lastmodified":1486764227,
     "wof:name":"Burlingame Chiropractic Clinic",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

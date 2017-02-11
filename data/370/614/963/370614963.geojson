@@ -2,9 +2,14 @@
   "id": 370614963,
   "type": "Feature",
   "properties": {
+    "addr:full":"3616 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"3616",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62613,45.533434,-122.62613,45.533434",
     "geom:latitude":45.533434,
     "geom:longitude":-122.62613,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"69f44047374ee4a55c1b6382de9aee0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85826019,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":370614963
         }
     ],
     "wof:id":370614963,
-    "wof:lastmodified":1466772992,
+    "wof:lastmodified":1486769525,
     "wof:name":"Kahl International Inc",
-    "wof:parent_id":85826019,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

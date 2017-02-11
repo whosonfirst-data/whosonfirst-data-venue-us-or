@@ -2,9 +2,14 @@
   "id": 789942099,
   "type": "Feature",
   "properties": {
+    "addr:full":"5215 SE Duke Street Portland OR 97206",
+    "addr:housenumber":"5215",
+    "addr:postcode":"97206",
+    "addr:street":"Se Duke Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608386,45.475943,-122.608386,45.475943",
     "geom:latitude":45.475943,
     "geom:longitude":-122.608386,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789942099
         }
     ],
     "wof:id":789942099,
-    "wof:lastmodified":1466772280,
+    "wof:lastmodified":1486769936,
     "wof:name":"Rose Community Development Corporation",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

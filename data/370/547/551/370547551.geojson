@@ -2,9 +2,14 @@
   "id": 370547551,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 N Gantenbein Ave Portland OR 97227",
+    "addr:housenumber":"3001",
+    "addr:postcode":"97227",
+    "addr:street":"N Gantenbein Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.669443,45.545352,-122.669443,45.545352",
     "geom:latitude":45.545352,
     "geom:longitude":-122.669443,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513,
+        85871461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,30 @@
     "wof:geomhash":"3c310d6eaed93cf0fb55a99788fdc26f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
+            "region_id":85688513,
+            "venue_id":370547551
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":370547551
         }
     ],
     "wof:id":370547551,
-    "wof:lastmodified":1466772675,
+    "wof:lastmodified":1486770807,
     "wof:name":"Legacy Rehabilitation Services",
-    "wof:parent_id":85893159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

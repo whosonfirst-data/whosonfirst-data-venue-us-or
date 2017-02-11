@@ -2,9 +2,14 @@
   "id": 789583625,
   "type": "Feature",
   "properties": {
+    "addr:full":"9304 SW 51st Ave Portland OR 97219",
+    "addr:housenumber":"9304",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 51St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.72935,45.458155,-122.72935,45.458155",
     "geom:latitude":45.458155,
     "geom:longitude":-122.72935,
@@ -29,13 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85856197,
-        85871471
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85856197,
-            "region_id":85688513,
-            "venue_id":789583625
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871471,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":789583625
         }
     ],
     "wof:id":789583625,
-    "wof:lastmodified":1466768021,
+    "wof:lastmodified":1486772406,
     "wof:name":"Enstrom Landscape Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789932597,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 SE Evergreen St Portland OR 97206",
+    "addr:housenumber":"4231",
+    "addr:postcode":"97206",
+    "addr:street":"Se Evergreen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619126,45.47327,-122.619126,45.47327",
     "geom:latitude":45.47327,
     "geom:longitude":-122.619126,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85859031
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789932597
         }
     ],
     "wof:id":789932597,
-    "wof:lastmodified":1466772201,
+    "wof:lastmodified":1486767287,
     "wof:name":"Ted Culvers Paperhanging",
     "wof:parent_id":85859031,
     "wof:placetype":"venue",

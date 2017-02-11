@@ -2,9 +2,14 @@
   "id": 773193553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2305 SE 50th Ave Portland OR 97215",
+    "addr:housenumber":"2305",
+    "addr:postcode":"97215",
+    "addr:street":"Se 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611297,45.506062,-122.611297,45.506062",
     "geom:latitude":45.506062,
     "geom:longitude":-122.611297,
@@ -30,13 +35,13 @@
     "sg:website":"www.omniinteriors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
-            "region_id":85688513,
-            "venue_id":773193553
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
             "region_id":85688513,
             "venue_id":773193553
         }
     ],
     "wof:id":773193553,
-    "wof:lastmodified":1466771235,
+    "wof:lastmodified":1486767320,
     "wof:name":"Omni Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370194409,
   "type": "Feature",
   "properties": {
+    "addr:full":"7537 N Brandon Ave Portland OR 97217",
+    "addr:housenumber":"7537",
+    "addr:postcode":"97217",
+    "addr:street":"N Brandon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689109,45.578518,-122.689109,45.578518",
     "geom:latitude":45.578518,
     "geom:longitude":-122.689109,
@@ -31,11 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513,
+        85828137,
+        1108714605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +54,30 @@
     "wof:geomhash":"cba05b39a289e6ad861b38dd72fe5001",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":370194409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370194409
         }
     ],
     "wof:id":370194409,
-    "wof:lastmodified":1466767939,
+    "wof:lastmodified":1486769518,
     "wof:name":"Cherub Ship Supply & Gen Mdse",
-    "wof:parent_id":85841531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

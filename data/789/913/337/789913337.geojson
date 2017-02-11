@@ -2,9 +2,14 @@
   "id": 789913337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 SW Morrison St Ste 450 Portland OR 97205",
+    "addr:housenumber":"1130",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison St Ste 450",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683441,45.520357,-122.683441,45.520357",
     "geom:latitude":45.520357,
     "geom:longitude":-122.683441,
@@ -33,12 +38,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/8460414/portland_or/leslie_robert_milfred_dds_beautiful_smiles.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789913337
         }
     ],
     "wof:id":789913337,
-    "wof:lastmodified":1466772016,
+    "wof:lastmodified":1486764290,
     "wof:name":"Leslie Robert Milfred DDS- Beautiful Smiles",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

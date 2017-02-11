@@ -2,9 +2,14 @@
   "id": 790078525,
   "type": "Feature",
   "properties": {
+    "addr:full":"7106 SW 12th Dr Portland OR 97219",
+    "addr:housenumber":"7106",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 12Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689711,45.472879,-122.689711,45.472879",
     "geom:latitude":45.472879,
     "geom:longitude":-122.689711,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790078525
         }
     ],
     "wof:id":790078525,
-    "wof:lastmodified":1466768728,
+    "wof:lastmodified":1486769430,
     "wof:name":"Wilhelm M Rabbi",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

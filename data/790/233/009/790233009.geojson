@@ -2,9 +2,14 @@
   "id": 790233009,
   "type": "Feature",
   "properties": {
+    "addr:full":"17112 SE Powell Blvd Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17112;97236",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.486978,45.492629,-122.486978,45.492629",
     "geom:latitude":45.492629,
     "geom:longitude":-122.486978,
@@ -33,7 +38,11 @@
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +60,32 @@
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":790233009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790233009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":790233009
         }
     ],
     "wof:id":790233009,
-    "wof:lastmodified":1466772087,
+    "wof:lastmodified":1486772202,
     "wof:name":"Or Locksmith",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

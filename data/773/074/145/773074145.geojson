@@ -2,9 +2,14 @@
   "id": 773074145,
   "type": "Feature",
   "properties": {
+    "addr:full":"5709 SE Madison St Portland OR 97215",
+    "addr:housenumber":"5709",
+    "addr:postcode":"97215",
+    "addr:street":"Se Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603681,45.512963,-122.603681,45.512963",
     "geom:latitude":45.512963,
     "geom:longitude":-122.603681,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773074145
         }
     ],
     "wof:id":773074145,
-    "wof:lastmodified":1466767266,
+    "wof:lastmodified":1486766642,
     "wof:name":"Larkspur Group LLC",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

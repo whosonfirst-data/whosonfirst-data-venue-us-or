@@ -2,9 +2,14 @@
   "id": 773725585,
   "type": "Feature",
   "properties": {
+    "addr:full":"15838 SE Bybee Dr Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"15838;97236",
+    "addr:street":"Se Bybee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499464,45.470397,-122.499464,45.470397",
     "geom:latitude":45.470397,
     "geom:longitude":-122.499464,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773725585
         }
     ],
     "wof:id":773725585,
-    "wof:lastmodified":1466775897,
+    "wof:lastmodified":1486772205,
     "wof:name":"KIRK Capital Management Inc",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

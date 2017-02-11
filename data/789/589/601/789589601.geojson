@@ -2,9 +2,14 @@
   "id": 789589601,
   "type": "Feature",
   "properties": {
+    "addr:full":"5910 SW Hamilton St Portland OR 97221",
+    "addr:housenumber":"5910",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737948,45.490787,-122.737948,45.490787",
     "geom:latitude":45.490787,
     "geom:longitude":-122.737948,
@@ -31,11 +36,13 @@
     "sg:website":"http://www.honeyhillfarmsnursery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +53,18 @@
     "wof:geomhash":"8f1c0fd744addc64d3a11bdbc7e51a9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":789589601
         }
     ],
     "wof:id":789589601,
-    "wof:lastmodified":1466768117,
+    "wof:lastmodified":1486769389,
     "wof:name":"Honeyhill Farms",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

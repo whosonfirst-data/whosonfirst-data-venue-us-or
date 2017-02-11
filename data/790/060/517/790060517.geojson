@@ -2,9 +2,14 @@
   "id": 790060517,
   "type": "Feature",
   "properties": {
+    "addr:full":"3449 N Anchor Street Suite 300 Portland OR 97217",
+    "addr:housenumber":"3449",
+    "addr:postcode":"97217",
+    "addr:street":"N Anchor Street Suite 300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.665929,45.593972,-122.665929,45.593972",
     "geom:latitude":45.593972,
     "geom:longitude":-122.665929,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.concentra.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24lBZo6rchRrNBHvXfkGq2_45.593972_-122.665929@1303263421"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462592825,
     "wof:geomhash":"1b7f74e08a6af5a9bb0493466472f92b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":790060517
+        }
+    ],
     "wof:id":790060517,
-    "wof:lastmodified":1466768289,
+    "wof:lastmodified":1486771629,
     "wof:name":"Concentra Medical Centers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

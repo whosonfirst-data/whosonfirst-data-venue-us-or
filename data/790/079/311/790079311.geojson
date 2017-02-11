@@ -2,9 +2,14 @@
   "id": 790079311,
   "type": "Feature",
   "properties": {
+    "addr:full":"11905 SW 60th Ave Portland OR 97219",
+    "addr:housenumber":"11905",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.738872,45.439565,-122.738872,45.439565",
     "geom:latitude":45.439565,
     "geom:longitude":-122.738872,
@@ -35,7 +40,15 @@
     ],
     "sg:website":"www.businesspsychologynw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871501,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MPQEGWUOipB2V95pP1wSi_45.439565_-122.738872@1303263421"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462592967,
     "wof:geomhash":"db86689b99eba50fc9fe6c43bb10e503",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
+            "region_id":85688513,
+            "venue_id":790079311
+        }
+    ],
     "wof:id":790079311,
-    "wof:lastmodified":1466767137,
+    "wof:lastmodified":1486771062,
     "wof:name":"Von Schlumperger Birgitta PHD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370254635,
   "type": "Feature",
   "properties": {
+    "addr:full":"11679 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"11679",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542837,45.526361,-122.542837,45.526361",
     "geom:latitude":45.526361,
     "geom:longitude":-122.542837,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"d1ed27a286b008a056281f4ac38b83ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":370254635
         }
     ],
     "wof:id":370254635,
-    "wof:lastmodified":1466768973,
+    "wof:lastmodified":1486766496,
     "wof:name":"Progrssive Chiropractic Clinic",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

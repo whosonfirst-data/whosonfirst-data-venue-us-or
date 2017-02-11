@@ -2,9 +2,14 @@
   "id": 790240629,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 SW Council Crest Dr Portland OR 97239",
+    "addr:housenumber":"4700",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Council Crest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696678,45.489583,-122.696678,45.489583",
     "geom:latitude":45.489583,
     "geom:longitude":-122.696678,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.skytel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790240629
         }
     ],
     "wof:id":790240629,
-    "wof:lastmodified":1466772364,
+    "wof:lastmodified":1486769442,
     "wof:name":"Skytel",
-    "wof:parent_id":85847775,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

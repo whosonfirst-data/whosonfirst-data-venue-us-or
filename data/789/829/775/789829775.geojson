@@ -2,9 +2,14 @@
   "id": 789829775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1437 SW Columbia St 200 Portland OR 97201",
+    "addr:housenumber":"1437",
+    "addr:postcode":"97201",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689098,45.516544,-122.689098,45.516544",
     "geom:latitude":45.516544,
     "geom:longitude":-122.689098,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789829775
         }
     ],
     "wof:id":789829775,
-    "wof:lastmodified":1466769668,
+    "wof:lastmodified":1486764480,
     "wof:name":"Taylor Technical Services Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

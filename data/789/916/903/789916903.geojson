@@ -2,9 +2,14 @@
   "id": 789916903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 SW Alder Street Portland OR 97205",
+    "addr:housenumber":"1419",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Alder Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686053,45.521729,-122.686053,45.521729",
     "geom:latitude":45.521729,
     "geom:longitude":-122.686053,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789916903
         }
     ],
     "wof:id":789916903,
-    "wof:lastmodified":1466772170,
+    "wof:lastmodified":1486765594,
     "wof:name":"Webb and Associates",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

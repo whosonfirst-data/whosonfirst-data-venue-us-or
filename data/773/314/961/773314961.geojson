@@ -2,9 +2,14 @@
   "id": 773314961,
   "type": "Feature",
   "properties": {
+    "addr:full":"6840 SE 135th Ave Portland OR 97236",
+    "addr:housenumber":"6840",
+    "addr:postcode":"97236",
+    "addr:street":"Se 135Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524376,45.473846,-122.524376,45.473846",
     "geom:latitude":45.473846,
     "geom:longitude":-122.524376,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773314961
         }
     ],
     "wof:id":773314961,
-    "wof:lastmodified":1466773046,
+    "wof:lastmodified":1486772210,
     "wof:name":"Seal-TEC Inc",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790202627,
   "type": "Feature",
   "properties": {
+    "addr:full":"9360 NW Harbor Blvd Portland OR 97231",
+    "addr:housenumber":"9360",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Harbor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.778,45.5895,-122.778,45.5895",
     "geom:latitude":45.5895,
     "geom:longitude":-122.778,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108720801,
+        85830793,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857649,
-        85850801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857649,
-            "region_id":85688513,
-            "venue_id":790202627
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85850801,
+            "macrohood_id":1108714055,
+            "microhood_id":1108720801,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":790202627
         }
     ],
     "wof:id":790202627,
-    "wof:lastmodified":1466771596,
+    "wof:lastmodified":1486774217,
     "wof:name":"Kreuz Keith & Lynn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108720801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

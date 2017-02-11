@@ -2,9 +2,14 @@
   "id": 773027071,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 NE 19th Ave Portland OR 97232",
+    "addr:housenumber":"316",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646415,45.525462,-122.646415,45.525462",
     "geom:latitude":45.525462,
     "geom:longitude":-122.646415,
@@ -26,12 +31,13 @@
     "sg:website":"www.ehspdx.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":773027071
         }
     ],
     "wof:id":773027071,
-    "wof:lastmodified":1466770455,
+    "wof:lastmodified":1486768038,
     "wof:name":"Early Head Start Family Ctr",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

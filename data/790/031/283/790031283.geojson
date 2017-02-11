@@ -2,9 +2,14 @@
   "id": 790031283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2236 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"2236",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643123,45.516319,-122.643123,45.516319",
     "geom:latitude":45.516319,
     "geom:longitude":-122.643123,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790031283
         }
     ],
     "wof:id":790031283,
-    "wof:lastmodified":1466767767,
+    "wof:lastmodified":1486766373,
     "wof:name":"Vibrant Table Catering & Events",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

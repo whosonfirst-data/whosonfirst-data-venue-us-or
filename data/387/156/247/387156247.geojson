@@ -2,9 +2,14 @@
   "id": 387156247,
   "type": "Feature",
   "properties": {
+    "addr:full":"6446 NE Portland Hwy Portland OR 97218",
+    "addr:housenumber":"6446",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Portland Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597673,45.566171,-122.597673,45.566171",
     "geom:latitude":45.566171,
     "geom:longitude":-122.597673,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"b70adef613f36233aea3635e4434bd28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387156247
         }
     ],
     "wof:id":387156247,
-    "wof:lastmodified":1466769880,
+    "wof:lastmodified":1486771618,
     "wof:name":"Baseline Industrial Constr",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

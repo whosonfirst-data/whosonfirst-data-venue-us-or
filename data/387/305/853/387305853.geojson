@@ -2,9 +2,14 @@
   "id": 387305853,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 NE 18th Ave Portland OR 97232",
+    "addr:housenumber":"627",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647488,45.526558,-122.647488,45.526558",
     "geom:latitude":45.526558,
     "geom:longitude":-122.647488,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"469bc2abfab075043af629ae444b0d5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":387305853
         }
     ],
     "wof:id":387305853,
-    "wof:lastmodified":1466771951,
+    "wof:lastmodified":1486768038,
     "wof:name":"Laviolette Richard & Assoc",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

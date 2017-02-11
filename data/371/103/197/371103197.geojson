@@ -2,9 +2,14 @@
   "id": 371103197,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"340",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537672,45.525237,-122.537672,45.525237",
     "geom:latitude":45.525237,
     "geom:longitude":-122.537672,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"dc0486d77ed82a2b880dbc6da6db7f3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":371103197
         }
     ],
     "wof:id":371103197,
-    "wof:lastmodified":1466768848,
+    "wof:lastmodified":1486767476,
     "wof:name":"Ring Fire Chrstn Cunseling Ctr",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

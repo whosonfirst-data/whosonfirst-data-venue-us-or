@@ -2,9 +2,14 @@
   "id": 403748985,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 NE 23rd Ave Portland OR 97232",
+    "addr:housenumber":"623",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642483,45.527716,-122.642483,45.527716",
     "geom:latitude":45.527716,
     "geom:longitude":-122.642483,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7aac2bb68ab090f4ba08c8bbe7455279",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":403748985
         }
     ],
     "wof:id":403748985,
-    "wof:lastmodified":1466768838,
+    "wof:lastmodified":1486767024,
     "wof:name":"Suran Sign & Graphics",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370925641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4750 N Channel Ave Portland OR 97217",
+    "addr:housenumber":"4750",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.715649,45.562374,-122.715649,45.562374",
     "geom:latitude":45.562374,
     "geom:longitude":-122.715649,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"9ec5c18bf8baa9b49b090d29ec06b849",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370925641
         }
     ],
     "wof:id":370925641,
-    "wof:lastmodified":1466774714,
+    "wof:lastmodified":1486765788,
     "wof:name":"Temp-Control Mechanical Svc",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

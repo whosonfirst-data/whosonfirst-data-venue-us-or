@@ -2,9 +2,14 @@
   "id": 789924749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 SW 10th Ave Portland OR 97205",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683951,45.516956,-122.683951,45.516956",
     "geom:latitude":45.516956,
     "geom:longitude":-122.683951,
@@ -34,12 +39,13 @@
     "sg:website":"www.gemcuisine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789924749
         }
     ],
     "wof:id":789924749,
-    "wof:lastmodified":1466772252,
+    "wof:lastmodified":1486770190,
     "wof:name":"Klassic Gem Cuisine",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

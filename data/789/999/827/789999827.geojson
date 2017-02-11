@@ -2,9 +2,14 @@
   "id": 789999827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 NE Brazee St Portland OR 97212",
+    "addr:housenumber":"1610",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Brazee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649123,45.540369,-122.649123,45.540369",
     "geom:latitude":45.540369,
     "geom:longitude":-122.649123,
@@ -26,12 +31,13 @@
     "sg:website":"www.arippleandasong.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":789999827
         }
     ],
     "wof:id":789999827,
-    "wof:lastmodified":1466773102,
+    "wof:lastmodified":1486768356,
     "wof:name":"A Ripple and A Song",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

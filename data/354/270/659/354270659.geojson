@@ -2,9 +2,14 @@
   "id": 354270659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1975 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"1975",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678747,45.50817,-122.678747,45.50817",
     "geom:latitude":45.50817,
     "geom:longitude":-122.678747,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"70683a84ce9430ef42a22bb7a003368f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":354270659
         }
     ],
     "wof:id":354270659,
-    "wof:lastmodified":1466768989,
+    "wof:lastmodified":1486770149,
     "wof:name":"Matt Wagner",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

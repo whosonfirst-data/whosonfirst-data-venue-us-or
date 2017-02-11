@@ -2,9 +2,14 @@
   "id": 790074665,
   "type": "Feature",
   "properties": {
+    "addr:full":"12530 SW 64th Ave Portland OR 97219",
+    "addr:housenumber":"12530",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 64Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742399,45.435048,-122.742399,45.435048",
     "geom:latitude":45.435048,
     "geom:longitude":-122.742399,
@@ -28,7 +33,15 @@
         "salons-equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871501,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36zz2nQuQEEb0Wkw39Hm2N_45.435048_-122.742399@1303263421"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592930,
     "wof:geomhash":"a6e1338a29cab8f80eefce3f655be3e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
+            "region_id":85688513,
+            "venue_id":790074665
+        }
+    ],
     "wof:id":790074665,
-    "wof:lastmodified":1466768650,
+    "wof:lastmodified":1486771064,
     "wof:name":"Cunningham Enterprises Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

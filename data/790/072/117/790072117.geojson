@@ -2,9 +2,14 @@
   "id": 790072117,
   "type": "Feature",
   "properties": {
+    "addr:full":"11432 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"11432",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.739924,45.442334,-122.739924,45.442334",
     "geom:latitude":45.442334,
     "geom:longitude":-122.739924,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":790072117
         }
     ],
     "wof:id":790072117,
-    "wof:lastmodified":1466768586,
+    "wof:lastmodified":1486771064,
     "wof:name":"Grimson Company Inc",
-    "wof:parent_id":85853819,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

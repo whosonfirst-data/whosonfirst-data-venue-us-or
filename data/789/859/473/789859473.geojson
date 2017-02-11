@@ -2,9 +2,14 @@
   "id": 789859473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 SE Center St Portland OR 97202",
+    "addr:housenumber":"1830",
+    "addr:postcode":"97202",
+    "addr:street":"Se Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647191,45.493961,-122.647191,45.493961",
     "geom:latitude":45.493961,
     "geom:longitude":-122.647191,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.tpfreight.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789859473
         }
     ],
     "wof:id":789859473,
-    "wof:lastmodified":1466770866,
+    "wof:lastmodified":1486768155,
     "wof:name":"Tp Freight Lines, Inc.",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

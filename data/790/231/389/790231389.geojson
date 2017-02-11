@@ -2,9 +2,14 @@
   "id": 790231389,
   "type": "Feature",
   "properties": {
+    "addr:full":"6127 SE 128th Avenue Portland OR 97236",
+    "addr:housenumber":"6127",
+    "addr:postcode":"97236",
+    "addr:street":"Se 128Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.531991,45.477886,-122.531991,45.477886",
     "geom:latitude":45.477886,
     "geom:longitude":-122.531991,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536095
+        85688513,
+        420536131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536095,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
+            "region_id":85688513,
+            "venue_id":790231389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790231389
         }
     ],
     "wof:id":790231389,
-    "wof:lastmodified":1466772178,
+    "wof:lastmodified":1486772200,
     "wof:name":"Foster Firs Apartments",
-    "wof:parent_id":420536095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

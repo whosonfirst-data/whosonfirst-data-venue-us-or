@@ -2,9 +2,14 @@
   "id": 404199985,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 NW Couch St Portland OR 97209",
+    "addr:housenumber":"208",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Couch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673347,45.523757,-122.673347,45.523757",
     "geom:latitude":45.523757,
     "geom:longitude":-122.673347,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d0e6514c7f7b8d32f6ff27f2eeb7bf4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":404199985
         }
     ],
     "wof:id":404199985,
-    "wof:lastmodified":1466768112,
+    "wof:lastmodified":1486770680,
     "wof:name":"Olive Branch Cafe",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

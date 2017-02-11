@@ -2,9 +2,14 @@
   "id": 773586511,
   "type": "Feature",
   "properties": {
+    "addr:full":"1192 N Hayden Meadows Dr Portland OR 97217",
+    "addr:housenumber":"1192",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679046,45.592971,-122.679046,45.592971",
     "geom:latitude":45.592971,
     "geom:longitude":-122.679046,
@@ -27,7 +32,15 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PGDwhDNU8iilA2gvyJz0N_45.592971_-122.679046@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462586848,
     "wof:geomhash":"19568d54cdb3882e8964035328496729",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773586511
+        }
+    ],
     "wof:id":773586511,
-    "wof:lastmodified":1466775393,
+    "wof:lastmodified":1486771630,
     "wof:name":"Bedrooms West Delta Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

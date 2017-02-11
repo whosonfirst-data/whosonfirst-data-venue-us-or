@@ -2,9 +2,14 @@
   "id": 354239031,
   "type": "Feature",
   "properties": {
+    "addr:full":"12604 SW 61st Pl Portland OR 97219",
+    "addr:housenumber":"12604",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 61St Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.739563,45.434245,-122.739563,45.434245",
     "geom:latitude":45.434245,
     "geom:longitude":-122.739563,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
+        102191575,
+        1108714057,
         85633793,
-        101715835,
-        102082213,
-        85871501
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0edd321415bb5242778a41b35392ec41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":354239031
         }
     ],
     "wof:id":354239031,
-    "wof:lastmodified":1466768419,
+    "wof:lastmodified":1486764687,
     "wof:name":"Terri Gunness Insurance",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

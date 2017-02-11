@@ -2,9 +2,14 @@
   "id": 790216225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 NE 2nd Avenue Portland OR 97232",
+    "addr:housenumber":"1225",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 2Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663688,45.53312,-122.663688,45.53312",
     "geom:latitude":45.53312,
     "geom:longitude":-122.663688,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871513
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":790216225
         }
     ],
     "wof:id":790216225,
-    "wof:lastmodified":1466771850,
+    "wof:lastmodified":1486768527,
     "wof:name":"Balance & Hearing Center NW",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",

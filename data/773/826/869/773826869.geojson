@@ -2,9 +2,14 @@
   "id": 773826869,
   "type": "Feature",
   "properties": {
+    "addr:full":"7238 N Leonard St Portland OR 97203",
+    "addr:housenumber":"7238",
+    "addr:postcode":"97203",
+    "addr:street":"N Leonard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.741033,45.58828,-122.741033,45.58828",
     "geom:latitude":45.58828,
     "geom:longitude":-122.741033,
@@ -31,7 +36,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pVtptHXeyK4dGlpOhpsnX_45.588051_-122.740733@1293134755"
@@ -39,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1462588694,
     "wof:geomhash":"bc055da9b70f27d44f023fb0eb1aebdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":773826869
+        }
+    ],
     "wof:id":773826869,
-    "wof:lastmodified":1466776087,
+    "wof:lastmodified":1486769726,
     "wof:name":"Free Hauling By Juan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

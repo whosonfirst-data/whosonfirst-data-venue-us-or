@@ -2,9 +2,14 @@
   "id": 789942153,
   "type": "Feature",
   "properties": {
+    "addr:full":"7449 SE 72nd Avenue Portland OR 97206",
+    "addr:housenumber":"7449",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589156,45.469103,-122.589156,45.469103",
     "geom:latitude":45.469103,
     "geom:longitude":-122.589156,
@@ -24,7 +29,15 @@
     "sg:postcode":"97206",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781227,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X0TZyOgrCAOA6HIFFjASI_45.469103_-122.589156@1303263415"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462591803,
     "wof:geomhash":"143dabc384dbfd2078654fbbfcc75e9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
+            "region_id":85688513,
+            "venue_id":789942153
+        }
+    ],
     "wof:id":789942153,
-    "wof:lastmodified":1466772413,
+    "wof:lastmodified":1486772249,
     "wof:name":"Stonewalls Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

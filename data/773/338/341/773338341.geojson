@@ -2,9 +2,14 @@
   "id": 773338341,
   "type": "Feature",
   "properties": {
+    "addr:full":"7550 SE 32nd Ave Portland OR 97202",
+    "addr:housenumber":"7550",
+    "addr:postcode":"97202",
+    "addr:street":"Se 32Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63031,45.471176,-122.63031,45.471176",
     "geom:latitude":45.471176,
     "geom:longitude":-122.63031,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":773338341
         }
     ],
     "wof:id":773338341,
-    "wof:lastmodified":1466773529,
+    "wof:lastmodified":1486769416,
     "wof:name":"Jared Seger Photography",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

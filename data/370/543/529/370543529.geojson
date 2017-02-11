@@ -2,9 +2,14 @@
   "id": 370543529,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 SE Grant St Portland OR 97214",
+    "addr:housenumber":"624",
+    "addr:postcode":"97214",
+    "addr:street":"Se Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658924,45.507163,-122.658924,45.507163",
     "geom:latitude":45.507163,
     "geom:longitude":-122.658924,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"2bc027b5e5fc353afef9919569f6092e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370543529
         }
     ],
     "wof:id":370543529,
-    "wof:lastmodified":1466772641,
+    "wof:lastmodified":1486773435,
     "wof:name":"J & M Auto Import Rebuilding",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

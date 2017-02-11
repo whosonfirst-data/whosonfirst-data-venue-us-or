@@ -2,9 +2,14 @@
   "id": 387672107,
   "type": "Feature",
   "properties": {
+    "addr:full":"3065 NW Front Ave Portland OR 97210",
+    "addr:housenumber":"3065",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701993,45.545778,-122.701993,45.545778",
     "geom:latitude":45.545778,
     "geom:longitude":-122.701993,
@@ -29,11 +34,13 @@
     "sg:website":"www.emersonhardwoodfloors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"ab7f51e465ec2bbd8f1d4a003a186456",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":387672107
         }
     ],
     "wof:id":387672107,
-    "wof:lastmodified":1466774252,
+    "wof:lastmodified":1486771112,
     "wof:name":"Emerson Hardwood Co",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

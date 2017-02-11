@@ -2,9 +2,14 @@
   "id": 387201859,
   "type": "Feature",
   "properties": {
+    "addr:full":"9317 N Peninsular Ave Portland OR 97217",
+    "addr:housenumber":"9317",
+    "addr:postcode":"97217",
+    "addr:street":"N Peninsular Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697291,45.588648,-122.697291,45.588648",
     "geom:latitude":45.588648,
     "geom:longitude":-122.697291,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"492bd041068e9cdb4f83290d6e75d7ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":387201859
         }
     ],
     "wof:id":387201859,
-    "wof:lastmodified":1466770827,
+    "wof:lastmodified":1486769512,
     "wof:name":"Brouillette Larrie",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

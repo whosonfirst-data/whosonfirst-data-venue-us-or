@@ -2,9 +2,14 @@
   "id": 370436937,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 SW 2nd Ave Portland OR 97204",
+    "addr:housenumber":"133",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672736,45.52157,-122.672736,45.52157",
     "geom:latitude":45.52157,
     "geom:longitude":-122.672736,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d0a0bed2cc2d7291d4668ddaf566788e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370436937
         }
     ],
     "wof:id":370436937,
-    "wof:lastmodified":1466771881,
+    "wof:lastmodified":1486770689,
     "wof:name":"P C Svc",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

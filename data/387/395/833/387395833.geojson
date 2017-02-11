@@ -2,9 +2,14 @@
   "id": 387395833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Jantzen Beach Center Portland OR 97217",
+    "addr:housenumber":"1206",
+    "addr:postcode":"97217",
+    "addr:street":"Jantzen Beach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68693,45.613218,-122.68693,45.613218",
     "geom:latitude":45.613218,
     "geom:longitude":-122.68693,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"8abb996e28ef639d8d61fae55031d649",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":387395833
         }
     ],
     "wof:id":387395833,
-    "wof:lastmodified":1466772585,
+    "wof:lastmodified":1486772354,
     "wof:name":"Consumer Opinion Services Inc",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

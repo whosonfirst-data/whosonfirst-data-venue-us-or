@@ -2,9 +2,14 @@
   "id": 790053065,
   "type": "Feature",
   "properties": {
+    "addr:full":"9209 N Vancouver Ave A Portland OR 97217",
+    "addr:housenumber":"9209",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666587,45.58822,-122.666587,45.58822",
     "geom:latitude":45.58822,
     "geom:longitude":-122.666587,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.altustraffic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893179
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":790053065
         }
     ],
     "wof:id":790053065,
-    "wof:lastmodified":1466768132,
+    "wof:lastmodified":1486768683,
     "wof:name":"Altus Traffic Management",
     "wof:parent_id":85893179,
     "wof:placetype":"venue",

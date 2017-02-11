@@ -2,9 +2,14 @@
   "id": 789918431,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 SW Morrison St Portland OR 97205",
+    "addr:housenumber":"1017",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682206,45.520197,-122.682206,45.520197",
     "geom:latitude":45.520197,
     "geom:longitude":-122.682206,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789918431
         }
     ],
     "wof:id":789918431,
-    "wof:lastmodified":1466772167,
+    "wof:lastmodified":1486770105,
     "wof:name":"Marcella Petersons Antiques",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

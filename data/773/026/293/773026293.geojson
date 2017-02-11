@@ -2,9 +2,14 @@
   "id": 773026293,
   "type": "Feature",
   "properties": {
+    "addr:full":"7625 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"7625",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661406,45.578783,-122.661406,45.578783",
     "geom:latitude":45.578783,
     "geom:longitude":-122.661406,
@@ -30,12 +35,13 @@
     "sg:website":"www.vol-techinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773026293
         }
     ],
     "wof:id":773026293,
-    "wof:lastmodified":1466770450,
+    "wof:lastmodified":1486768298,
     "wof:name":"Vol Tech Inc",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

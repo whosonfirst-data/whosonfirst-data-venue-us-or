@@ -2,9 +2,14 @@
   "id": 790101445,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 SW Beaverton Hillsdale Hwy Portland OR 97221",
+    "addr:housenumber":"4711",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Beaverton Hillsdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.726038,45.486228,-122.726038,45.486228",
     "geom:latitude":45.486228,
     "geom:longitude":-122.726038,
@@ -36,11 +41,14 @@
     "sg:website":"http://www.chrismanpictureframe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,18 +59,21 @@
     "wof:geomhash":"841bd6d679b21bdcd48d0b98fd756d92",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790101445
         }
     ],
     "wof:id":790101445,
-    "wof:lastmodified":1466767944,
+    "wof:lastmodified":1486774192,
     "wof:name":"Chrisman Picture Frame & Gallery",
-    "wof:parent_id":85807447,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

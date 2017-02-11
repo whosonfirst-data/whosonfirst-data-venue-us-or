@@ -2,9 +2,14 @@
   "id": 773848061,
   "type": "Feature",
   "properties": {
+    "addr:full":"6230 SE Stark St Portland OR 97215",
+    "addr:housenumber":"",
+    "addr:postcode":"6230;97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.599602,45.519272,-122.599602,45.519272",
     "geom:latitude":45.519272,
     "geom:longitude":-122.599602,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773848061
         }
     ],
     "wof:id":773848061,
-    "wof:lastmodified":1466776065,
+    "wof:lastmodified":1486766482,
     "wof:name":"Pluma",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

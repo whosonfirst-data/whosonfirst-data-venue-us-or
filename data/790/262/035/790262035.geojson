@@ -2,9 +2,14 @@
   "id": 790262035,
   "type": "Feature",
   "properties": {
+    "addr:full":"11827 SE Rhone St Portland OR 97266",
+    "addr:housenumber":"11827",
+    "addr:postcode":"97266",
+    "addr:street":"Se Rhone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.541,45.495399,-122.541,45.495399",
     "geom:latitude":45.495399,
     "geom:longitude":-122.541,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790262035
         }
     ],
     "wof:id":790262035,
-    "wof:lastmodified":1466772581,
+    "wof:lastmodified":1486767258,
     "wof:name":"Currey Debra J",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370972661,
   "type": "Feature",
   "properties": {
+    "addr:full":"5147 SW Maplewood Rd Portland OR 97219",
+    "addr:housenumber":"5147",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Maplewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.729667,45.470242,-122.729667,45.470242",
     "geom:latitude":45.470242,
     "geom:longitude":-122.729667,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"1966e287ab950f535e34f8256639aaec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":370972661
         }
     ],
     "wof:id":370972661,
-    "wof:lastmodified":1466775028,
+    "wof:lastmodified":1486764060,
     "wof:name":"Bob Staggenborg Drywall Co",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

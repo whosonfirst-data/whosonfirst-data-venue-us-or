@@ -2,9 +2,14 @@
   "id": 773750517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 SE Powell Blvd Portland OR 97202",
+    "addr:housenumber":"1509",
+    "addr:postcode":"97202",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650563,45.500366,-122.650563,45.500366",
     "geom:latitude":45.500366,
     "geom:longitude":-122.650563,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773750517
         }
     ],
     "wof:id":773750517,
-    "wof:lastmodified":1466775881,
+    "wof:lastmodified":1486767094,
     "wof:name":"Mos Properties Inc",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

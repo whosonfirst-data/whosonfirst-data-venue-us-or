@@ -2,9 +2,14 @@
   "id": 773802367,
   "type": "Feature",
   "properties": {
+    "addr:full":"4927 NE 55th Ave Portland OR 97218",
+    "addr:housenumber":"4927",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 55Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.606975,45.558676,-122.606975,45.558676",
     "geom:latitude":45.558676,
     "geom:longitude":-122.606975,
@@ -29,7 +34,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xDzkfFR4tOGZSu5bV3Mtp_45.558349_-122.607058@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462588489,
     "wof:geomhash":"96f6006d9bf87b2620b7aa6e4d76c96b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":773802367
+        }
+    ],
     "wof:id":773802367,
-    "wof:lastmodified":1466776015,
+    "wof:lastmodified":1486771596,
     "wof:name":"Central Evangelical",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

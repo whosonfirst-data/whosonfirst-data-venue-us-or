@@ -2,9 +2,14 @@
   "id": 371054711,
   "type": "Feature",
   "properties": {
+    "addr:full":"10647 SE Lexington St Portland OR 97266",
+    "addr:housenumber":"10647",
+    "addr:postcode":"97266",
+    "addr:street":"Se Lexington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.55427,45.466287,-122.55427,45.466287",
     "geom:latitude":45.466287,
     "geom:longitude":-122.55427,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"5e0ff0608d3838b774498d8826f05d48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":371054711
         }
     ],
     "wof:id":371054711,
-    "wof:lastmodified":1466768061,
+    "wof:lastmodified":1486769539,
     "wof:name":"T W T Enterprises",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

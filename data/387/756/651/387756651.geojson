@@ -2,9 +2,14 @@
   "id": 387756651,
   "type": "Feature",
   "properties": {
+    "addr:full":"13641 SE Steele St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13641;97236",
+    "addr:street":"Se Steele St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.522715,45.484831,-122.522715,45.484831",
     "geom:latitude":45.484831,
     "geom:longitude":-122.522715,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"ea3c7d96295c5f6cb50d55d813c83405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":387756651
         }
     ],
     "wof:id":387756651,
-    "wof:lastmodified":1466774889,
+    "wof:lastmodified":1486771927,
     "wof:name":"Clean O Magic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

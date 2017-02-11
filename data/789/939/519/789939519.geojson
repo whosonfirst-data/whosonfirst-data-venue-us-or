@@ -2,9 +2,14 @@
   "id": 789939519,
   "type": "Feature",
   "properties": {
+    "addr:full":"4703 SE 65th Ave Portland OR 97206",
+    "addr:housenumber":"4703",
+    "addr:postcode":"97206",
+    "addr:street":"Se 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.596106,45.488827,-122.596106,45.488827",
     "geom:latitude":45.488827,
     "geom:longitude":-122.596106,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893185,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789939519
         }
     ],
     "wof:id":789939519,
-    "wof:lastmodified":1466772393,
+    "wof:lastmodified":1486771790,
     "wof:name":"Green Energy Specialists",
-    "wof:parent_id":85893185,
+    "wof:parent_id":85893209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

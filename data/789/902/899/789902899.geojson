@@ -2,9 +2,14 @@
   "id": 789902899,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 SW Fourth Portland OR 97204",
+    "addr:housenumber":"900",
+    "addr:postcode":"97204",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677029,45.51697,-122.677029,45.51697",
     "geom:latitude":45.51697,
     "geom:longitude":-122.677029,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789902899
         }
     ],
     "wof:id":789902899,
-    "wof:lastmodified":1466771807,
+    "wof:lastmodified":1486764398,
     "wof:name":"7-Eleven",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

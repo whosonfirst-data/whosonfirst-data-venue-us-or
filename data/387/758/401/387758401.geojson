@@ -2,9 +2,14 @@
   "id": 387758401,
   "type": "Feature",
   "properties": {
+    "addr:full":"12311 NE Halsey St Portland OR 97230",
+    "addr:housenumber":"12311",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535907,45.53364,-122.535907,45.53364",
     "geom:latitude":45.53364,
     "geom:longitude":-122.535907,
@@ -31,11 +36,13 @@
     "sg:website":"www.carpet-kingdom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"830e8bbfb4dbc06e47eddc258099c418",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893223,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":387758401
         }
     ],
     "wof:id":387758401,
-    "wof:lastmodified":1466774726,
+    "wof:lastmodified":1486771971,
     "wof:name":"Carpet Kingdom",
-    "wof:parent_id":85893223,
+    "wof:parent_id":85893231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

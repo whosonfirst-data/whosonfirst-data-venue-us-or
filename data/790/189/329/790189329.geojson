@@ -2,9 +2,14 @@
   "id": 790189329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1122 NE 122nd Avenue Suite C118 Portland OR 97230",
+    "addr:housenumber":"1122",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Avenue Suite C118",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537672,45.530481,-122.537672,45.530481",
     "geom:latitude":45.530481,
     "geom:longitude":-122.537672,
@@ -25,12 +30,15 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513,
+        85893231,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":790189329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":790189329
         }
     ],
     "wof:id":790189329,
-    "wof:lastmodified":1466771351,
+    "wof:lastmodified":1486770790,
     "wof:name":"Era Freeman & Associates Realtors",
-    "wof:parent_id":85893231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

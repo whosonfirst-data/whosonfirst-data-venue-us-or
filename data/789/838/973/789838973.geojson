@@ -2,9 +2,14 @@
   "id": 789838973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 SW 4th Ave Ste 104 Portland OR 97201",
+    "addr:housenumber":"1700",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 4Th Ave Ste 104",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680066,45.511659,-122.680066,45.511659",
     "geom:latitude":45.511659,
     "geom:longitude":-122.680066,
@@ -26,12 +31,13 @@
     "sg:website":"www.homestreetbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789838973
         }
     ],
     "wof:id":789838973,
-    "wof:lastmodified":1466770040,
+    "wof:lastmodified":1486763885,
     "wof:name":"Homestreet Bank",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

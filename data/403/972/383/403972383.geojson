@@ -2,9 +2,14 @@
   "id": 403972383,
   "type": "Feature",
   "properties": {
+    "addr:full":"16100 SE Stark St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"16100;97233",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.497476,45.519082,-122.497476,45.519082",
     "geom:latitude":45.519082,
     "geom:longitude":-122.497476,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:brand_id":420575141,
     "wof:breaches":[],
@@ -40,19 +48,30 @@
     "wof:geomhash":"6b5402ec0fd9b5b8dda1b67779f21fbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":403972383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":403972383
         }
     ],
     "wof:id":403972383,
-    "wof:lastmodified":1466768656,
+    "wof:lastmodified":1486771523,
     "wof:name":"Dolex Dollar Express",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

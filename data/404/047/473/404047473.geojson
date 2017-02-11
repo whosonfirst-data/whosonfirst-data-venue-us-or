@@ -2,9 +2,14 @@
   "id": 404047473,
   "type": "Feature",
   "properties": {
+    "addr:full":"2675 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2675",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705427,45.535449,-122.705427,45.535449",
     "geom:latitude":45.535449,
     "geom:longitude":-122.705427,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"5f45f40d0a5aba352d1a2495e3aac767",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":404047473
         }
     ],
     "wof:id":404047473,
-    "wof:lastmodified":1466769298,
+    "wof:lastmodified":1486763198,
     "wof:name":"Highland Property Nw LLC",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

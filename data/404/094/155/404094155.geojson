@@ -2,9 +2,14 @@
   "id": 404094155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4523 SE 23rd Ave Portland OR 97202",
+    "addr:housenumber":"4523",
+    "addr:postcode":"97202",
+    "addr:street":"Se 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642592,45.490039,-122.642592,45.490039",
     "geom:latitude":45.490039,
     "geom:longitude":-122.642592,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"6c2f17a71d630e079e2ac065458890b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":404094155
         }
     ],
     "wof:id":404094155,
-    "wof:lastmodified":1466770395,
+    "wof:lastmodified":1486766280,
     "wof:name":"Juno Glass LLC",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

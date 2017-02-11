@@ -2,9 +2,14 @@
   "id": 370658091,
   "type": "Feature",
   "properties": {
+    "addr:full":"4061 SW Chesapeake Ave Portland OR 97239",
+    "addr:housenumber":"4061",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Chesapeake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70673,45.494848,-122.70673,45.494848",
     "geom:latitude":45.494848,
     "geom:longitude":-122.70673,
@@ -31,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        420536089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"1787bb191e235dfaae66f152818cc8a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":370658091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536089,
             "region_id":85688513,
             "venue_id":370658091
         }
     ],
     "wof:id":370658091,
-    "wof:lastmodified":1466773339,
+    "wof:lastmodified":1486770626,
     "wof:name":"SS Papadopulos & Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

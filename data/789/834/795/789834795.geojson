@@ -2,9 +2,14 @@
   "id": 789834795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"2525",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678956,45.50428,-122.678956,45.50428",
     "geom:latitude":45.50428,
     "geom:longitude":-122.678956,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789834795
         }
     ],
     "wof:id":789834795,
-    "wof:lastmodified":1466769868,
+    "wof:lastmodified":1486773556,
     "wof:name":"Locksmith and Lockout Service Portland",
-    "wof:parent_id":420558713,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

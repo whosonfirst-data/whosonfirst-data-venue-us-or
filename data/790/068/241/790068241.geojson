@@ -2,9 +2,14 @@
   "id": 790068241,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 NE Columbia Blvd Portland OR 97218",
+    "addr:housenumber":"5220",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.609007,45.57002,-122.609007,45.57002",
     "geom:latitude":45.57002,
     "geom:longitude":-122.609007,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.mayawning.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790068241
         }
     ],
     "wof:id":790068241,
-    "wof:lastmodified":1466768499,
+    "wof:lastmodified":1486771612,
     "wof:name":"May Awning & Patio Co.",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

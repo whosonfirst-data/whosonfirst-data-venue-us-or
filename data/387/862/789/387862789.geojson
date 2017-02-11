@@ -2,9 +2,14 @@
   "id": 387862789,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 SW 1st Ave Portland OR 97204",
+    "addr:housenumber":"126",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67144,45.521735,-122.67144,45.521735",
     "geom:latitude":45.521735,
     "geom:longitude":-122.67144,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"11e910e49a3b37dd319a7d7b461e4323",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":387862789
         }
     ],
     "wof:id":387862789,
-    "wof:lastmodified":1466775186,
+    "wof:lastmodified":1486770699,
     "wof:name":"Countrysport Limited",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370807279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1134 SE 165th Ave Portland OR 97233",
+    "addr:housenumber":"1134",
+    "addr:postcode":"97233",
+    "addr:street":"Se 165Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492541,45.514825,-122.492541,45.514825",
     "geom:latitude":45.514825,
     "geom:longitude":-122.492541,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b151b7f055e672c305e0ac8d3d11290b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":370807279
         }
     ],
     "wof:id":370807279,
-    "wof:lastmodified":1466774125,
+    "wof:lastmodified":1486771531,
     "wof:name":"Richs Clock Repair",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

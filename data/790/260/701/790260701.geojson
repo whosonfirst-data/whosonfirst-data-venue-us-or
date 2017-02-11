@@ -2,9 +2,14 @@
   "id": 790260701,
   "type": "Feature",
   "properties": {
+    "addr:full":"5762 SE 82nd Avenue Portland OR 97266",
+    "addr:housenumber":"5762",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579136,45.480731,-122.579136,45.480731",
     "geom:latitude":45.480731,
     "geom:longitude":-122.579136,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":790260701
         }
     ],
     "wof:id":790260701,
-    "wof:lastmodified":1466772550,
+    "wof:lastmodified":1486766471,
     "wof:name":"Dale Brothers' Barber Shop",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

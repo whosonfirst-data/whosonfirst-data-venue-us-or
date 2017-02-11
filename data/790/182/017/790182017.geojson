@@ -2,9 +2,14 @@
   "id": 790182017,
   "type": "Feature",
   "properties": {
+    "addr:full":"9931 NW Skyline Heights Dr Portland OR 97229",
+    "addr:housenumber":"9931",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Skyline Heights Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.77873,45.550894,-122.77873,45.550894",
     "geom:latitude":45.550894,
     "geom:longitude":-122.77873,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":790182017
         }
     ],
     "wof:id":790182017,
-    "wof:lastmodified":1466771082,
+    "wof:lastmodified":1486770919,
     "wof:name":"Immersion Magic",
-    "wof:parent_id":85893259,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

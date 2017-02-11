@@ -2,9 +2,14 @@
   "id": 790018323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 SE Stark Street Portland OR 97214",
+    "addr:housenumber":"1421",
+    "addr:postcode":"97214",
+    "addr:street":"Se Stark Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650996,45.519558,-122.650996,45.519558",
     "geom:latitude":45.519558,
     "geom:longitude":-122.650996,
@@ -29,12 +34,13 @@
     "sg:website":"www.lesliepaintedglass.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790018323
         }
     ],
     "wof:id":790018323,
-    "wof:lastmodified":1466767640,
+    "wof:lastmodified":1486766518,
     "wof:name":"Leslie Hand Painted Glass",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

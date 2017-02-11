@@ -2,9 +2,14 @@
   "id": 790191173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1818 NE 140th Ave Portland OR 97230",
+    "addr:housenumber":"1818",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 140Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519219,45.536041,-122.519219,45.536041",
     "geom:latitude":45.536041,
     "geom:longitude":-122.519219,
@@ -46,12 +51,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +72,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":790191173
         }
     ],
     "wof:id":790191173,
-    "wof:lastmodified":1466771420,
+    "wof:lastmodified":1486771976,
     "wof:name":"Inday",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

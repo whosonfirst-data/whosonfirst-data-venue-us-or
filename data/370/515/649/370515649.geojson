@@ -2,9 +2,14 @@
   "id": 370515649,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 NW Everett St Portland OR 97209",
+    "addr:housenumber":"707",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Everett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676845,45.525274,-122.676845,45.525274",
     "geom:latitude":45.525274,
     "geom:longitude":-122.676845,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5bf7188a86452a9264a8d930b165479f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370515649
         }
     ],
     "wof:id":370515649,
-    "wof:lastmodified":1466772315,
+    "wof:lastmodified":1486763010,
     "wof:name":"Golden West Building",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

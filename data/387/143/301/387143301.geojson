@@ -2,9 +2,14 @@
   "id": 387143301,
   "type": "Feature",
   "properties": {
+    "addr:full":"4306 NE 114th Ave Portland OR 97220",
+    "addr:housenumber":"4306",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 114Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545128,45.554068,-122.545128,45.554068",
     "geom:latitude":45.554068,
     "geom:longitude":-122.545128,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"f6697203b4b9bf3493562bd43a7a6b65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":387143301
         }
     ],
     "wof:id":387143301,
-    "wof:lastmodified":1466769630,
+    "wof:lastmodified":1486768941,
     "wof:name":"B&V Crafts",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

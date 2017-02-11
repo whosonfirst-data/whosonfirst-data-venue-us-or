@@ -2,9 +2,14 @@
   "id": 790000651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2808 NE M L King Blvd Portland OR 97212",
+    "addr:housenumber":"2808",
+    "addr:postcode":"97212",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66153,45.543042,-122.66153,45.543042",
     "geom:latitude":45.543042,
     "geom:longitude":-122.66153,
@@ -48,12 +53,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +74,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790000651
         }
     ],
     "wof:id":790000651,
-    "wof:lastmodified":1466767514,
+    "wof:lastmodified":1486768371,
     "wof:name":"Allstate Insurance Company - Anthony Armstrong",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

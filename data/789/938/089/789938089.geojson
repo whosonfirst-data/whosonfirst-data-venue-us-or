@@ -2,9 +2,14 @@
   "id": 789938089,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 SE Duke St Portland OR 97206",
+    "addr:housenumber":"5601",
+    "addr:postcode":"97206",
+    "addr:street":"Se Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605911,45.47583,-122.605911,45.47583",
     "geom:latitude":45.47583,
     "geom:longitude":-122.605911,
@@ -34,7 +39,15 @@
     ],
     "sg:website":"http://www.apostolicfaith.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781227,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lbTsZnux2umtdBmyWUtsN_45.475830_-122.605911@1303263415"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462591774,
     "wof:geomhash":"cc2365638e648afa3e9fbbc33413a1af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
+            "region_id":85688513,
+            "venue_id":789938089
+        }
+    ],
     "wof:id":789938089,
-    "wof:lastmodified":1466772370,
+    "wof:lastmodified":1486772250,
     "wof:name":"Apostolic Faith Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

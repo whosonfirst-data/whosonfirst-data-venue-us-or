@@ -2,9 +2,14 @@
   "id": 790096271,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 NE Win Sivers Dr Ste A Portland OR 97220",
+    "addr:housenumber":"6001",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Win Sivers Dr Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537788,45.565722,-122.537788,45.565722",
     "geom:latitude":45.565722,
     "geom:longitude":-122.537788,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.sidelinespdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790096271
         }
     ],
     "wof:id":790096271,
-    "wof:lastmodified":1466767760,
+    "wof:lastmodified":1486769686,
     "wof:name":"Sidelines Restaurant & Sports",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

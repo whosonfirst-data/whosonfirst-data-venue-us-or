@@ -2,9 +2,14 @@
   "id": 789866467,
   "type": "Feature",
   "properties": {
+    "addr:full":"6312 SE 14th Ave Portland OR 97202",
+    "addr:housenumber":"6312",
+    "addr:postcode":"97202",
+    "addr:street":"Se 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651779,45.477077,-122.651779,45.477077",
     "geom:latitude":45.477077,
     "geom:longitude":-122.651779,
@@ -47,12 +52,13 @@
     "sg:website":"http://www.allservicemoving.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +73,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789866467
         }
     ],
     "wof:id":789866467,
-    "wof:lastmodified":1466771127,
+    "wof:lastmodified":1486767600,
     "wof:name":"All Service Moving - Moving Service Portland OR",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387903323,
   "type": "Feature",
   "properties": {
+    "addr:full":"5525 SW Jefferson St Portland OR 97221",
+    "addr:housenumber":"5525",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.73518,45.513548,-122.73518,45.513548",
     "geom:latitude":45.513548,
     "geom:longitude":-122.73518,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9ef5715f2054ae41de4b0ca116c7fbb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387903323,
-    "wof:lastmodified":1466775293,
+    "wof:lastmodified":1486772052,
     "wof:name":"Blomquist Consulting",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

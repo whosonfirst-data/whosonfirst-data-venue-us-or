@@ -2,9 +2,14 @@
   "id": 370520803,
   "type": "Feature",
   "properties": {
+    "addr:full":"15810 SE Main St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"15810;97233",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499698,45.51373,-122.499698,45.51373",
     "geom:latitude":45.51373,
     "geom:longitude":-122.499698,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"2a5dc29f2495619c972a50ab403aaf82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":370520803
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":370520803
         }
     ],
     "wof:id":370520803,
-    "wof:lastmodified":1466772479,
+    "wof:lastmodified":1486771549,
     "wof:name":"Holladay & Son Wire Produ",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

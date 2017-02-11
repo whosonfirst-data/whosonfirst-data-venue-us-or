@@ -2,9 +2,14 @@
   "id": 370461597,
   "type": "Feature",
   "properties": {
+    "addr:full":"4521 N Commercial Ave Portland OR 97217",
+    "addr:housenumber":"4521",
+    "addr:postcode":"97217",
+    "addr:street":"N Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671275,45.554796,-122.671275,45.554796",
     "geom:latitude":45.554796,
     "geom:longitude":-122.671275,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ae14e3a7f3142c7269d59e43570b887c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":370461597
         }
     ],
     "wof:id":370461597,
-    "wof:lastmodified":1466772087,
+    "wof:lastmodified":1486768388,
     "wof:name":"Monkey Fur",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

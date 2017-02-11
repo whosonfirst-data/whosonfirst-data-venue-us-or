@@ -2,9 +2,14 @@
   "id": 789899065,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 SW 2nd Ave Ste 950 Portland OR 97204",
+    "addr:housenumber":"601",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 2Nd Ave Ste 950",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674202,45.518681,-122.674202,45.518681",
     "geom:latitude":45.518681,
     "geom:longitude":-122.674202,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.sbaonline.sba.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789899065
         }
     ],
     "wof:id":789899065,
-    "wof:lastmodified":1466771899,
+    "wof:lastmodified":1486770054,
     "wof:name":"Portland District Office",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

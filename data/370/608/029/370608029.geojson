@@ -2,9 +2,14 @@
   "id": 370608029,
   "type": "Feature",
   "properties": {
+    "addr:full":"3654 NE 44th Ave Portland OR 97213",
+    "addr:housenumber":"3654",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 44Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618297,45.548702,-122.618297,45.548702",
     "geom:latitude":45.548702,
     "geom:longitude":-122.618297,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"51cbc8e206e4b9c59dd4ce9a6c99b525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":370608029
         }
     ],
     "wof:id":370608029,
-    "wof:lastmodified":1466772934,
+    "wof:lastmodified":1486769260,
     "wof:name":"Nevilles Yard Maintenance",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370862963,
   "type": "Feature",
   "properties": {
+    "addr:full":"5124 SE 39th Ave Portland OR 97202",
+    "addr:housenumber":"5124",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622567,45.48626,-122.622567,45.48626",
     "geom:latitude":45.48626,
     "geom:longitude":-122.622567,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"6db4e47e3cc79ab84c4df2433c1eef89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":370862963
         }
     ],
     "wof:id":370862963,
-    "wof:lastmodified":1466774362,
+    "wof:lastmodified":1486769926,
     "wof:name":"Ito Capital Solutions",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

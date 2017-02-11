@@ -2,9 +2,14 @@
   "id": 790102913,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 SW Beaverton Hillsdale Hwy Portland OR 97221",
+    "addr:housenumber":"4325",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Beaverton Hillsdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.72154,45.485627,-122.72154,45.485627",
     "geom:latitude":45.485627,
     "geom:longitude":-122.72154,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +45,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790102913
         }
     ],
     "wof:id":790102913,
-    "wof:lastmodified":1466767998,
+    "wof:lastmodified":1486771051,
     "wof:name":"West Hills Animal Clinic",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

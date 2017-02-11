@@ -2,9 +2,14 @@
   "id": 370288145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1732 SE Ash St Portland OR 97214",
+    "addr:housenumber":"1732",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647763,45.521387,-122.647763,45.521387",
     "geom:latitude":45.521387,
     "geom:longitude":-122.647763,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"7afcfe23747b1299ea46ce0c37d77cb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370288145
         }
     ],
     "wof:id":370288145,
-    "wof:lastmodified":1466769606,
+    "wof:lastmodified":1486767732,
     "wof:name":"Cynthia Calvert",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

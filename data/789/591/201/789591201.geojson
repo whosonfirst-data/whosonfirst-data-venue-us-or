@@ -2,9 +2,14 @@
   "id": 789591201,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 NE 45th Ave Portland OR 97213",
+    "addr:housenumber":"107",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61615,45.523972,-122.61615,45.523972",
     "geom:latitude":45.523972,
     "geom:longitude":-122.61615,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.firstcov.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":789591201
         }
     ],
     "wof:id":789591201,
-    "wof:lastmodified":1466768130,
+    "wof:lastmodified":1486772414,
     "wof:name":"First Covenant Church",
-    "wof:parent_id":85829959,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387803643,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 NE 144th Ave Portland OR 97230",
+    "addr:housenumber":"2525",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 144Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.513998,45.541763,-122.513998,45.541763",
     "geom:latitude":45.541763,
     "geom:longitude":-122.513998,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"99e4cff514635ffe8b754bfd6f33956c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893231,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":387803643
         }
     ],
     "wof:id":387803643,
-    "wof:lastmodified":1466775012,
+    "wof:lastmodified":1486772078,
     "wof:name":"McCabe Enterprises Inc",
-    "wof:parent_id":85893231,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

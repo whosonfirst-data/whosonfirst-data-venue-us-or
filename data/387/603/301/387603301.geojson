@@ -2,9 +2,14 @@
   "id": 387603301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2447 NW Savier St Portland OR 97210",
+    "addr:housenumber":"2447",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Savier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70216,45.534797,-122.70216,45.534797",
     "geom:latitude":45.534797,
     "geom:longitude":-122.70216,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c66450e1fdcf6c01ecf81461b7f3cfdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387603301
         }
     ],
     "wof:id":387603301,
-    "wof:lastmodified":1466773948,
+    "wof:lastmodified":1486763577,
     "wof:name":"J Comerford",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

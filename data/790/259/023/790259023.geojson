@@ -2,9 +2,14 @@
   "id": 790259023,
   "type": "Feature",
   "properties": {
+    "addr:full":"7766 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"7766",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579071,45.467155,-122.579071,45.467155",
     "geom:latitude":45.467155,
     "geom:longitude":-122.579071,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85827985
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827985,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":790259023
         }
     ],
     "wof:id":790259023,
-    "wof:lastmodified":1466772785,
+    "wof:lastmodified":1486772254,
     "wof:name":"Eagle Trailer & Mfg",
-    "wof:parent_id":85827985,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790054253,
   "type": "Feature",
   "properties": {
+    "addr:full":"2037 N Winchell St Portland OR 97217",
+    "addr:housenumber":"2037",
+    "addr:postcode":"97217",
+    "addr:street":"N Winchell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68727,45.58025,-122.68727,45.58025",
     "geom:latitude":45.58025,
     "geom:longitude":-122.68727,
@@ -30,12 +35,15 @@
     "sg:website":"http://www.brianolsenart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513,
+        85828137,
+        1108714605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":790054253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":790054253
         }
     ],
     "wof:id":790054253,
-    "wof:lastmodified":1466768153,
+    "wof:lastmodified":1486769511,
     "wof:name":"Brian J Olsen",
-    "wof:parent_id":85841531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

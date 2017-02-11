@@ -2,9 +2,14 @@
   "id": 403826497,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 SW Dosch Rd Portland OR 97239",
+    "addr:housenumber":"4408",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Dosch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710264,45.490692,-122.710264,45.490692",
     "geom:latitude":45.490692,
     "geom:longitude":-122.710264,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"0cb7b2eb36dd24ce397459e1fbe69d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":403826497
         }
     ],
     "wof:id":403826497,
-    "wof:lastmodified":1466770260,
+    "wof:lastmodified":1486763898,
     "wof:name":"Hilton",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

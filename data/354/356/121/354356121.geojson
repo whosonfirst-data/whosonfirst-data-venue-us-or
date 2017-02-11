@@ -2,9 +2,14 @@
   "id": 354356121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 NW 26th Ave Portland OR 97210",
+    "addr:housenumber":"1105",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704643,45.529869,-122.704643,45.529869",
     "geom:latitude":45.529869,
     "geom:longitude":-122.704643,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
+        102191575,
+        1108714055,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,21 @@
     "wof:geomhash":"20ef197585584a5c8d83bd7e100a9fd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
+            "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":354356121
         }
     ],
     "wof:id":354356121,
-    "wof:lastmodified":1466770464,
+    "wof:lastmodified":1486773709,
     "wof:name":"Anita Archer",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

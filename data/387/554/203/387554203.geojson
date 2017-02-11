@@ -2,9 +2,14 @@
   "id": 387554203,
   "type": "Feature",
   "properties": {
+    "addr:full":"3924 SE 42nd Ave Portland OR 97206",
+    "addr:housenumber":"3924",
+    "addr:postcode":"97206",
+    "addr:street":"Se 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618856,45.494279,-122.618856,45.494279",
     "geom:latitude":45.494279,
     "geom:longitude":-122.618856,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"0fd4026220ed48f37f92836130885ca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":387554203
         }
     ],
     "wof:id":387554203,
-    "wof:lastmodified":1466773543,
+    "wof:lastmodified":1486766720,
     "wof:name":"Sp Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

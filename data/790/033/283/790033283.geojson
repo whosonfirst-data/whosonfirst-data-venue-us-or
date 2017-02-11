@@ -2,9 +2,14 @@
   "id": 790033283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 SE 26th Ave Portland OR 97214",
+    "addr:housenumber":"2401",
+    "addr:postcode":"97214",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639526,45.505501,-122.639526,45.505501",
     "geom:latitude":45.505501,
     "geom:longitude":-122.639526,
@@ -32,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":790033283
         }
     ],
     "wof:id":790033283,
-    "wof:lastmodified":1466767778,
+    "wof:lastmodified":1486773656,
     "wof:name":"David A. Jeffery, Md, Pc",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

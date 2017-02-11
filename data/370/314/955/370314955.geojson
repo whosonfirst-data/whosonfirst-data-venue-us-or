@@ -2,9 +2,14 @@
   "id": 370314955,
   "type": "Feature",
   "properties": {
+    "addr:full":"8324 SE Glenwood St Portland OR 97266",
+    "addr:housenumber":"8324",
+    "addr:postcode":"97266",
+    "addr:street":"Se Glenwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.577207,45.473957,-122.577207,45.473957",
     "geom:latitude":45.473957,
     "geom:longitude":-122.577207,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
-        102082213,
-        85827985
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"074b218615100f09d6be6d5140a08f2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":-1,
-            "neighbourhood_id":85827985,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370314955
         }
     ],
     "wof:id":370314955,
-    "wof:lastmodified":1466770115,
+    "wof:lastmodified":1486769548,
     "wof:name":"Brymar Lumping Services",
-    "wof:parent_id":85827985,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

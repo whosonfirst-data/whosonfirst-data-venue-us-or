@@ -2,9 +2,14 @@
   "id": 773434159,
   "type": "Feature",
   "properties": {
+    "addr:full":"6146 SE 111th Ave Portland OR 97266",
+    "addr:housenumber":"6146",
+    "addr:postcode":"97266",
+    "addr:street":"Se 111Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549229,45.476323,-122.549229,45.476323",
     "geom:latitude":45.476323,
     "geom:longitude":-122.549229,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773434159
         }
     ],
     "wof:id":773434159,
-    "wof:lastmodified":1466774160,
+    "wof:lastmodified":1486771919,
     "wof:name":"Inter Communication",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

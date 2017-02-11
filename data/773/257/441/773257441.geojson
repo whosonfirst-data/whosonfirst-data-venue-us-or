@@ -2,9 +2,14 @@
   "id": 773257441,
   "type": "Feature",
   "properties": {
+    "addr:full":"9705 N Taft Ave Portland OR 97203",
+    "addr:housenumber":"9705",
+    "addr:postcode":"97203",
+    "addr:street":"N Taft Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728517,45.59401,-122.728517,45.59401",
     "geom:latitude":45.59401,
     "geom:longitude":-122.728517,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jcs0O7c8m7ofnTUaQ4MgZ_45.594010_-122.728517@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462584345,
     "wof:geomhash":"96316b4b4f24ae23226fb66bb22d06da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":773257441
+        }
+    ],
     "wof:id":773257441,
-    "wof:lastmodified":1466772306,
+    "wof:lastmodified":1486769719,
     "wof:name":"Jehovah's Witnesses",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

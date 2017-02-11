@@ -2,9 +2,14 @@
   "id": 387831017,
   "type": "Feature",
   "properties": {
+    "addr:full":"12010 SE Brookside Dr Portland OR 97266",
+    "addr:housenumber":"12010",
+    "addr:postcode":"97266",
+    "addr:street":"Se Brookside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540979,45.472747,-122.540979,45.472747",
     "geom:latitude":45.472747,
     "geom:longitude":-122.540979,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85803591
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"994a23aeaf70c03f393f340f0c823007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85803591,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":387831017
         }
     ],
     "wof:id":387831017,
-    "wof:lastmodified":1466775224,
+    "wof:lastmodified":1486772196,
     "wof:name":"Remember When",
-    "wof:parent_id":85803591,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

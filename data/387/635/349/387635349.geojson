@@ -2,9 +2,14 @@
   "id": 387635349,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 SW 48th Dr Portland OR 97221",
+    "addr:housenumber":"702",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 48Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.726938,45.518469,-122.726938,45.518469",
     "geom:latitude":45.518469,
     "geom:longitude":-122.726938,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -39,7 +45,7 @@
     "wof:geomhash":"364d4533f6f59236c63ebe5fe8d6216f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387635349,
-    "wof:lastmodified":1466774262,
+    "wof:lastmodified":1486772044,
     "wof:name":"Discovery Toys",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

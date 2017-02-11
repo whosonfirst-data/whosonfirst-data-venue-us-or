@@ -2,9 +2,14 @@
   "id": 790080595,
   "type": "Feature",
   "properties": {
+    "addr:full":"6121 SW Orchid Dr Portland OR 97219",
+    "addr:housenumber":"6121",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Orchid Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740513,45.460746,-122.740513,45.460746",
     "geom:latitude":45.460746,
     "geom:longitude":-122.740513,
@@ -28,7 +33,15 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CHVBxykPyHTjHNp181Oba_45.460746_-122.740513@1303263422"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592974,
     "wof:geomhash":"8a199ffceeff35bf8c5df53f2ce558ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790080595
+        }
+    ],
     "wof:id":790080595,
-    "wof:lastmodified":1466767184,
+    "wof:lastmodified":1486772403,
     "wof:name":"Meltings",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

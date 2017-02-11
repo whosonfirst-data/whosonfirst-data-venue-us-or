@@ -2,9 +2,14 @@
   "id": 789843653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 SW Montgomery Street Portland OR 97201",
+    "addr:housenumber":"1400",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Montgomery Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690474,45.513975,-122.690474,45.513975",
     "geom:latitude":45.513975,
     "geom:longitude":-122.690474,
@@ -26,12 +31,13 @@
     "sg:website":"www.stankelaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789843653
         }
     ],
     "wof:id":789843653,
-    "wof:lastmodified":1466770257,
+    "wof:lastmodified":1486764964,
     "wof:name":"Stanke Samuel T Atty",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

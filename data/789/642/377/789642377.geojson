@@ -2,9 +2,14 @@
   "id": 789642377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1338 NW Hoyt St Portland OR 97209",
+    "addr:housenumber":"1338",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Hoyt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684726,45.527201,-122.684726,45.527201",
     "geom:latitude":45.527201,
     "geom:longitude":-122.684726,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789642377
         }
     ],
     "wof:id":789642377,
-    "wof:lastmodified":1466769222,
+    "wof:lastmodified":1486770353,
     "wof:name":"Olea",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

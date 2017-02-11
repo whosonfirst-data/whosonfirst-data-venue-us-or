@@ -2,9 +2,14 @@
   "id": 370223671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2348 NW Lovejoy St Portland OR 97210",
+    "addr:housenumber":"2348",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Lovejoy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699939,45.529695,-122.699939,45.529695",
     "geom:latitude":45.529695,
     "geom:longitude":-122.699939,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"8bae10302306fb066c06816253a73d93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370223671
         }
     ],
     "wof:id":370223671,
-    "wof:lastmodified":1466768434,
+    "wof:lastmodified":1486771211,
     "wof:name":"An Hao Clinic",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

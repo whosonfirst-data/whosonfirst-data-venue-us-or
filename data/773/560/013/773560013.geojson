@@ -2,9 +2,14 @@
   "id": 773560013,
   "type": "Feature",
   "properties": {
+    "addr:full":"11021 SW 62nd Ave Portland OR 97219",
+    "addr:housenumber":"11021",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 62Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740682,45.445512,-122.740682,45.445512",
     "geom:latitude":45.445512,
     "geom:longitude":-122.740682,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":773560013
         }
     ],
     "wof:id":773560013,
-    "wof:lastmodified":1466775417,
+    "wof:lastmodified":1486772399,
     "wof:name":"R Griffes Consulting",
-    "wof:parent_id":85853819,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

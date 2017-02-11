@@ -2,9 +2,14 @@
   "id": 370522057,
   "type": "Feature",
   "properties": {
+    "addr:full":"6336 NE Garfield Ave Portland OR 97211",
+    "addr:housenumber":"6336",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Garfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6625,45.568507,-122.6625,45.568507",
     "geom:latitude":45.568507,
     "geom:longitude":-122.6625,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"3c66a965ed9ecc764d15ac26c7459183",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":370522057
         }
     ],
     "wof:id":370522057,
-    "wof:lastmodified":1466772380,
+    "wof:lastmodified":1486769705,
     "wof:name":"Information Illustrated",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

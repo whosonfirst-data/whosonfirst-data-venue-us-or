@@ -2,9 +2,14 @@
   "id": 387122233,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 NE Liberty St Portland OR 97211",
+    "addr:housenumber":"707",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658102,45.571114,-122.658102,45.571114",
     "geom:latitude":45.571114,
     "geom:longitude":-122.658102,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e5adca22e021e0b29f1d901b75a9445c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":387122233
         }
     ],
     "wof:id":387122233,
-    "wof:lastmodified":1466769219,
+    "wof:lastmodified":1486768289,
     "wof:name":"Ascent Tree and Yard Care",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

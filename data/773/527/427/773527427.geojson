@@ -2,9 +2,14 @@
   "id": 773527427,
   "type": "Feature",
   "properties": {
+    "addr:full":"7103 N Mississippi Ave Portland OR 97217",
+    "addr:housenumber":"7103",
+    "addr:postcode":"97217",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676416,45.575108,-122.676416,45.575108",
     "geom:latitude":45.575108,
     "geom:longitude":-122.676416,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773527427
         }
     ],
     "wof:id":773527427,
-    "wof:lastmodified":1466775103,
+    "wof:lastmodified":1486768587,
     "wof:name":"Mark Akita Construction",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

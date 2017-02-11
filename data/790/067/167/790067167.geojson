@@ -2,9 +2,14 @@
   "id": 790067167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4437 NE 64th Avenue Portland OR 97218",
+    "addr:housenumber":"4437",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 64Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597442,45.555142,-122.597442,45.555142",
     "geom:latitude":45.555142,
     "geom:longitude":-122.597442,
@@ -27,7 +32,15 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893229,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7USAHnUDY7Qee8e7Bz4vB2_45.555142_-122.597442@1303263421"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462592871,
     "wof:geomhash":"9e59316795e5e9311b5fbf66d973ca6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
+            "region_id":85688513,
+            "venue_id":790067167
+        }
+    ],
     "wof:id":790067167,
-    "wof:lastmodified":1466768478,
+    "wof:lastmodified":1486771966,
     "wof:name":"Stolt Mary E CPA PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

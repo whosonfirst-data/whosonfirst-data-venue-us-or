@@ -2,9 +2,14 @@
   "id": 387941483,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 N Russell St Portland OR 97227",
+    "addr:housenumber":"28",
+    "addr:postcode":"97227",
+    "addr:street":"N Russell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667812,45.540951,-122.667812,45.540951",
     "geom:latitude":45.540951,
     "geom:longitude":-122.667812,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"7782e4bdf3070c54a4682c0944e33235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":387941483
         }
     ],
     "wof:id":387941483,
-    "wof:lastmodified":1466775433,
+    "wof:lastmodified":1486768722,
     "wof:name":"Philbin Manufacturing Co",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387466585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3925 SE 80th Ave Portland OR 97206",
+    "addr:housenumber":"3925",
+    "addr:postcode":"97206",
+    "addr:street":"Se 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581032,45.493502,-122.581032,45.493502",
     "geom:latitude":45.493502,
     "geom:longitude":-122.581032,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"e4794f1b57ede35545abcce2c8c14c37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":387466585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387466585
         }
     ],
     "wof:id":387466585,
-    "wof:lastmodified":1466773038,
+    "wof:lastmodified":1486771657,
     "wof:name":"Village Enterprises",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790101769,
   "type": "Feature",
   "properties": {
+    "addr:full":"5134 SW Beaverton Hilldale Hwy Portland OR 97221",
+    "addr:housenumber":"5134",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Beaverton Hilldale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.729806,45.487044,-122.729806,45.487044",
     "geom:latitude":45.487044,
     "geom:longitude":-122.729806,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +47,18 @@
     "wof:geomhash":"83b35753625909bb3d09eabc21d6b106",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790101769
         }
     ],
     "wof:id":790101769,
-    "wof:lastmodified":1466767955,
+    "wof:lastmodified":1486769381,
     "wof:name":"The Clubhouse Bar & Grill",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

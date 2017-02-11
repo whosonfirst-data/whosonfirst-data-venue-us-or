@@ -2,9 +2,14 @@
   "id": 789873397,
   "type": "Feature",
   "properties": {
+    "addr:full":"9423 N Polk Ave Portland OR 97203",
+    "addr:housenumber":"9423",
+    "addr:postcode":"97203",
+    "addr:street":"N Polk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742669,45.59412,-122.742669,45.59412",
     "geom:latitude":45.59412,
     "geom:longitude":-122.742669,
@@ -27,7 +32,15 @@
         "shuttle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85846673,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VcRpBGiI6brrj7aMVnMrX_45.594120_-122.742669@1303263412"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462591212,
     "wof:geomhash":"d66239e41573da2238c4347db13e4bd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
+            "region_id":85688513,
+            "venue_id":789873397
+        }
+    ],
     "wof:id":789873397,
-    "wof:lastmodified":1466771393,
+    "wof:lastmodified":1486769764,
     "wof:name":"Better Shuttle Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387117865,
   "type": "Feature",
   "properties": {
+    "addr:full":"7060 N Borthwick Ave Portland OR 97217",
+    "addr:housenumber":"7060",
+    "addr:postcode":"97217",
+    "addr:street":"N Borthwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673728,45.573785,-122.673728,45.573785",
     "geom:latitude":45.573785,
     "geom:longitude":-122.673728,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"57033f57d690f5c97ad6192b5252314d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":387117865
         }
     ],
     "wof:id":387117865,
-    "wof:lastmodified":1466769131,
+    "wof:lastmodified":1486768935,
     "wof:name":"Beckett Publishing Co",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

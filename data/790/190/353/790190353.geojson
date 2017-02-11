@@ -2,9 +2,14 @@
   "id": 790190353,
   "type": "Feature",
   "properties": {
+    "addr:full":"18415 NE Marine Dr Portland OR 97230",
+    "addr:housenumber":"18415",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.473758,45.558778,-122.473758,45.558778",
     "geom:latitude":45.558778,
     "geom:longitude":-122.473758,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
         102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +54,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":790190353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790190353
         }
     ],
     "wof:id":790190353,
-    "wof:lastmodified":1466771391,
+    "wof:lastmodified":1486772087,
     "wof:name":"Mixon S",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790065371,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 N Suttle Rd Bldg 1 Portland OR 97217",
+    "addr:housenumber":"3610",
+    "addr:postcode":"97217",
+    "addr:street":"N Suttle Rd Bldg 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705093,45.612371,-122.705093,45.612371",
     "geom:latitude":45.612371,
     "geom:longitude":-122.705093,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.vivioninc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":790065371
         }
     ],
     "wof:id":790065371,
-    "wof:lastmodified":1466768431,
+    "wof:lastmodified":1486765905,
     "wof:name":"Vivion, Inc.",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773423129,
   "type": "Feature",
   "properties": {
+    "addr:full":"6751 SE Kelly St Portland OR 97206",
+    "addr:housenumber":"6751",
+    "addr:postcode":"97206",
+    "addr:street":"Se Kelly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.593782,45.49964,-122.593782,45.49964",
     "geom:latitude":45.49964,
     "geom:longitude":-122.593782,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773423129
         }
     ],
     "wof:id":773423129,
-    "wof:lastmodified":1466774193,
+    "wof:lastmodified":1486766847,
     "wof:name":"Sparrows Nest",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

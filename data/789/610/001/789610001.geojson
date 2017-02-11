@@ -2,9 +2,14 @@
   "id": 789610001,
   "type": "Feature",
   "properties": {
+    "addr:full":"7214 N Philadelphia Ave Portland OR 97251",
+    "addr:housenumber":"7214",
+    "addr:postcode":"97251",
+    "addr:street":"N Philadelphia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.755772,45.589023,-122.755772,45.589023",
     "geom:latitude":45.589023,
     "geom:longitude":-122.755772,
@@ -29,11 +34,13 @@
     "sg:website":"www.portlandonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721333,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,20 @@
     "wof:geomhash":"c297009ea86fd422b0ebf5264d6735d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
             "region_id":85688513,
             "venue_id":789610001
         }
     ],
     "wof:id":789610001,
-    "wof:lastmodified":1466771450,
+    "wof:lastmodified":1486772387,
     "wof:name":"Portland Police Department",
-    "wof:parent_id":85830793,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

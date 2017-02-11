@@ -2,9 +2,14 @@
   "id": 403868213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 SE Sherman St Portland OR 97214",
+    "addr:housenumber":"1010",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654803,45.506435,-122.654803,45.506435",
     "geom:latitude":45.506435,
     "geom:longitude":-122.654803,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"465802af5738fe56a74d9606ec1e8cf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":403868213
         }
     ],
     "wof:id":403868213,
-    "wof:lastmodified":1466771114,
+    "wof:lastmodified":1486773468,
     "wof:name":"Commercial Air Filtration",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

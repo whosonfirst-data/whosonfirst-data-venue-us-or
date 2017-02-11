@@ -2,9 +2,14 @@
   "id": 789843701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 SW Myrtle Dr Portland OR 97201",
+    "addr:housenumber":"1033",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Myrtle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689982,45.507222,-122.689982,45.507222",
     "geom:latitude":45.507222,
     "geom:longitude":-122.689982,
@@ -38,12 +43,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +65,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":789843701
         }
     ],
     "wof:id":789843701,
-    "wof:lastmodified":1466770259,
+    "wof:lastmodified":1486773814,
     "wof:name":"Service D Anthony Dmd",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773457387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 N Basin Ave Portland OR 97217",
+    "addr:housenumber":"5000",
+    "addr:postcode":"97217",
+    "addr:street":"N Basin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702281,45.560745,-122.702281,45.560745",
     "geom:latitude":45.560745,
     "geom:longitude":-122.702281,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773457387
         }
     ],
     "wof:id":773457387,
-    "wof:lastmodified":1466774527,
+    "wof:lastmodified":1486765781,
     "wof:name":"Qw Express",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

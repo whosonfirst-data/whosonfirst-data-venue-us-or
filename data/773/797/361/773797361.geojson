@@ -2,9 +2,14 @@
   "id": 773797361,
   "type": "Feature",
   "properties": {
+    "addr:full":"16921 SE Main St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"16921;97233",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.488973,45.51366,-122.488973,45.51366",
     "geom:latitude":45.51366,
     "geom:longitude":-122.488973,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773797361
         }
     ],
     "wof:id":773797361,
-    "wof:lastmodified":1466776013,
+    "wof:lastmodified":1486771532,
     "wof:name":"Michelle & Steve Ach",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

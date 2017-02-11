@@ -2,9 +2,14 @@
   "id": 403752985,
   "type": "Feature",
   "properties": {
+    "addr:full":"7737 NE Killingsworth St Portland OR 97218",
+    "addr:housenumber":"7737",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.577771,45.562747,-122.577771,45.562747",
     "geom:latitude":45.562747,
     "geom:longitude":-122.577771,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"cda332bad1a51a8f6af13cdedaaa838b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":403752985
         }
     ],
     "wof:id":403752985,
-    "wof:lastmodified":1466768900,
+    "wof:lastmodified":1486771583,
     "wof:name":"Gentech Surplus",
-    "wof:parent_id":85819307,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

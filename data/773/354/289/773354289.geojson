@@ -2,9 +2,14 @@
   "id": 773354289,
   "type": "Feature",
   "properties": {
+    "addr:full":"4105 NE 73rd Ave Portland OR 97218",
+    "addr:housenumber":"4105",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 73Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.587841,45.55383,-122.587841,45.55383",
     "geom:latitude":45.55383,
     "geom:longitude":-122.587841,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":773354289
         }
     ],
     "wof:id":773354289,
-    "wof:lastmodified":1466773619,
+    "wof:lastmodified":1486771968,
     "wof:name":"Brushing Beauties",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773040649,
   "type": "Feature",
   "properties": {
+    "addr:full":"6045 SE Stephens St Portland OR 97215",
+    "addr:housenumber":"6045",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stephens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598131,45.509507,-122.598131,45.509507",
     "geom:latitude":45.509507,
     "geom:longitude":-122.598131,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773040649
         }
     ],
     "wof:id":773040649,
-    "wof:lastmodified":1466770791,
+    "wof:lastmodified":1486771804,
     "wof:name":"Sean Evans Svc Maint & Repr",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

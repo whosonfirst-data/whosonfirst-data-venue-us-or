@@ -2,9 +2,14 @@
   "id": 370274945,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 SE 122nd Ave Portland OR 97233",
+    "addr:housenumber":"605",
+    "addr:postcode":"97233",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537822,45.517669,-122.537822,45.517669",
     "geom:latitude":45.517669,
     "geom:longitude":-122.537822,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"876ee958fe0bb60df0c41a635c2d20f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":370274945
         }
     ],
     "wof:id":370274945,
-    "wof:lastmodified":1466769357,
+    "wof:lastmodified":1486772223,
     "wof:name":"AYQ Auto Repair",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

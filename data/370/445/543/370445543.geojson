@@ -2,9 +2,14 @@
   "id": 370445543,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 NE Alberta St Portland OR 97211",
+    "addr:housenumber":"1533",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64896,45.559163,-122.64896,45.559163",
     "geom:latitude":45.559163,
     "geom:longitude":-122.64896,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"ab7c526430df620e5b22c2dc1a2ba812",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":370445543
         }
     ],
     "wof:id":370445543,
-    "wof:lastmodified":1466771823,
+    "wof:lastmodified":1486773370,
     "wof:name":"Bantu Towing & Trucking Inc",
-    "wof:parent_id":85893213,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

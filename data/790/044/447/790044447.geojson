@@ -2,9 +2,14 @@
   "id": 790044447,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 SE 80th Ave Portland OR 97215",
+    "addr:housenumber":"101",
+    "addr:postcode":"97215",
+    "addr:street":"Se 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581486,45.521743,-122.581486,45.521743",
     "geom:latitude":45.521743,
     "geom:longitude":-122.581486,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790044447
         }
     ],
     "wof:id":790044447,
-    "wof:lastmodified":1466767929,
+    "wof:lastmodified":1486767154,
     "wof:name":"Liberty Upholstery",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

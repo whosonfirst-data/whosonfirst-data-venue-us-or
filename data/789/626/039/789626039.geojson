@@ -2,9 +2,14 @@
   "id": 789626039,
   "type": "Feature",
   "properties": {
+    "addr:full":"10002 N Vancouver Way Portland OR 97217",
+    "addr:housenumber":"10002",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667379,45.595037,-122.667379,45.595037",
     "geom:latitude":45.595037,
     "geom:longitude":-122.667379,
@@ -32,7 +37,15 @@
         "propeller"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75kbc4XI3efekYwrhaKdYy_45.594563_-122.667023@1293134755"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462589264,
     "wof:geomhash":"4784014feab4edfee46a17dd3842fc6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789626039
+        }
+    ],
     "wof:id":789626039,
-    "wof:lastmodified":1466768938,
+    "wof:lastmodified":1486771632,
     "wof:name":"Sheffield Marine Propeller Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

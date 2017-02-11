@@ -2,9 +2,14 @@
   "id": 773377089,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 SW Hamilton St Portland OR 97201",
+    "addr:housenumber":"112",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680925,45.490913,-122.680925,45.490913",
     "geom:latitude":45.490913,
     "geom:longitude":-122.680925,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":773377089
         }
     ],
     "wof:id":773377089,
-    "wof:lastmodified":1466773624,
+    "wof:lastmodified":1486772313,
     "wof:name":"Sharon Stahly Msw",
-    "wof:parent_id":420558713,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790034617,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 SE Clinton Portland OR 97214",
+    "addr:housenumber":"2021",
+    "addr:postcode":"97214",
+    "addr:street":"Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645063,45.5037,-122.645063,45.5037",
     "geom:latitude":45.5037,
     "geom:longitude":-122.645063,
@@ -31,12 +36,13 @@
     "sg:website":"www.ibexstudios.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":790034617
         }
     ],
     "wof:id":790034617,
-    "wof:lastmodified":1466767806,
+    "wof:lastmodified":1486771683,
     "wof:name":"Ibex Studios: Adventures in Creative Writing",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403849635,
   "type": "Feature",
   "properties": {
+    "addr:full":"7204 N Mississippi Ave Portland OR 97217",
+    "addr:housenumber":"7204",
+    "addr:postcode":"97217",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676264,45.575779,-122.676264,45.575779",
     "geom:latitude":45.575779,
     "geom:longitude":-122.676264,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5473d083ae4d0e26c682bc0cfc721eef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":403849635
         }
     ],
     "wof:id":403849635,
-    "wof:lastmodified":1466770766,
+    "wof:lastmodified":1486768799,
     "wof:name":"WMD Investments",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

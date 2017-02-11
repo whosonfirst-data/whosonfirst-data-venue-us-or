@@ -2,9 +2,14 @@
   "id": 386965121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1214 SE 60th Ave Portland OR 97215",
+    "addr:housenumber":"1214",
+    "addr:postcode":"97215",
+    "addr:street":"Se 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601816,45.513373,-122.601816,45.513373",
     "geom:latitude":45.513373,
     "geom:longitude":-122.601816,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"d2444c9cfec216fae27755adebbf2b32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":386965121
         }
     ],
     "wof:id":386965121,
-    "wof:lastmodified":1466767339,
+    "wof:lastmodified":1486771817,
     "wof:name":"Pretzels Plus",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370208555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1213 SE 82nd Ave Portland OR 97216",
+    "addr:housenumber":"1213",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578825,45.51359,-122.578825,45.51359",
     "geom:latitude":45.51359,
     "geom:longitude":-122.578825,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:brand_id":420575421,
     "wof:breaches":[],
@@ -43,17 +50,18 @@
     "wof:geomhash":"cb8233933f86464a779ec6f95be7667c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":370208555
         }
     ],
     "wof:id":370208555,
-    "wof:lastmodified":1466768179,
+    "wof:lastmodified":1486769590,
     "wof:name":"New Image",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

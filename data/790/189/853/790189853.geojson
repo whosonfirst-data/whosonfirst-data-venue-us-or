@@ -2,9 +2,14 @@
   "id": 790189853,
   "type": "Feature",
   "properties": {
+    "addr:full":"13030 NE Whitaker Way Portland OR 97230",
+    "addr:housenumber":"13030",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Whitaker Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528523,45.558265,-122.528523,45.558265",
     "geom:latitude":45.558265,
     "geom:longitude":-122.528523,
@@ -30,12 +35,13 @@
     "sg:website":"www.oregonwireproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":790189853
         }
     ],
     "wof:id":790189853,
-    "wof:lastmodified":1466771373,
+    "wof:lastmodified":1486768410,
     "wof:name":"Oregon Wire Products",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

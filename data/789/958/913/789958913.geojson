@@ -2,9 +2,14 @@
   "id": 789958913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 NW 9th Ave Ste 13 Portland OR 97209",
+    "addr:housenumber":"1255;13",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 9Th Ave Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680427,45.531942,-122.680427,45.531942",
     "geom:latitude":45.531942,
     "geom:longitude":-122.680427,
@@ -34,12 +39,13 @@
     "sg:website":"www.pearldistricttattoo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789958913
         }
     ],
     "wof:id":789958913,
-    "wof:lastmodified":1466772513,
+    "wof:lastmodified":1486763353,
     "wof:name":"Pearl District Tattoo",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

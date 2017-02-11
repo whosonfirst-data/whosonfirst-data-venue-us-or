@@ -2,9 +2,14 @@
   "id": 790084835,
   "type": "Feature",
   "properties": {
+    "addr:full":"11321 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"11321",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675114,45.443207,-122.675114,45.443207",
     "geom:latitude":45.443207,
     "geom:longitude":-122.675114,
@@ -26,12 +31,13 @@
     "sg:website":"tryonfriends.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721341,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721341,
             "region_id":85688513,
             "venue_id":790084835
         }
     ],
     "wof:id":790084835,
-    "wof:lastmodified":1466767336,
+    "wof:lastmodified":1486772393,
     "wof:name":"Friends of Tryon Creek State Park",
-    "wof:parent_id":85818135,
+    "wof:parent_id":1108721341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

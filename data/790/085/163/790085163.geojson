@@ -2,9 +2,14 @@
   "id": 790085163,
   "type": "Feature",
   "properties": {
+    "addr:full":"4526 SW Freeman St Portland OR 97219",
+    "addr:housenumber":"4526",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Freeman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.72354,45.462915,-122.72354,45.462915",
     "geom:latitude":45.462915,
     "geom:longitude":-122.72354,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790085163
         }
     ],
     "wof:id":790085163,
-    "wof:lastmodified":1466767347,
+    "wof:lastmodified":1486769634,
     "wof:name":"Inspired Pet Solutions",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

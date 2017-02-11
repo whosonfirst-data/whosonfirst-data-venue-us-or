@@ -2,9 +2,14 @@
   "id": 790207289,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 NE Broadway Street Portland OR 97232",
+    "addr:housenumber":"633",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659286,45.53518,-122.659286,45.53518",
     "geom:latitude":45.53518,
     "geom:longitude":-122.659286,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790207289
         }
     ],
     "wof:id":790207289,
-    "wof:lastmodified":1466771793,
+    "wof:lastmodified":1486770815,
     "wof:name":"Armstrong Enterprises",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85871461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

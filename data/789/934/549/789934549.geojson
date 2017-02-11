@@ -2,9 +2,14 @@
   "id": 789934549,
   "type": "Feature",
   "properties": {
+    "addr:full":"5535 SE Rhone St Portland OR 97206",
+    "addr:housenumber":"5535",
+    "addr:postcode":"97206",
+    "addr:street":"Se Rhone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605957,45.496127,-122.605957,45.496127",
     "geom:latitude":45.496127,
     "geom:longitude":-122.605957,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.nazarene.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789934549
         }
     ],
     "wof:id":789934549,
-    "wof:lastmodified":1466772352,
+    "wof:lastmodified":1486771648,
     "wof:name":"Southeast Community Church Of The Nazarene",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

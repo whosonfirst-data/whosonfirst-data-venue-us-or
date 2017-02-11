@@ -2,9 +2,14 @@
   "id": 789956563,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 NW 6th Ave Ste 335 Portland OR 97209",
+    "addr:housenumber":"800",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Ave Ste 335",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676923,45.528922,-122.676923,45.528922",
     "geom:latitude":45.528922,
     "geom:longitude":-122.676923,
@@ -26,12 +31,13 @@
     "sg:website":"www.galescreek.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867143,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789956563
         }
     ],
     "wof:id":789956563,
-    "wof:lastmodified":1466772620,
+    "wof:lastmodified":1486770703,
     "wof:name":"Gales Creek Insurance Services",
-    "wof:parent_id":85867143,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

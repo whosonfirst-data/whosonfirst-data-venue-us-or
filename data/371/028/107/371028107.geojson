@@ -2,9 +2,14 @@
   "id": 371028107,
   "type": "Feature",
   "properties": {
+    "addr:full":"6238 SW Barnes Rd Portland OR 97221",
+    "addr:housenumber":"6238",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Barnes Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740716,45.516491,-122.740716,45.516491",
     "geom:latitude":45.516491,
     "geom:longitude":-122.740716,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,29 @@
     "wof:geomhash":"5cf45d554e9e5978c8993d6653641295",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
+            "region_id":85688513,
+            "venue_id":371028107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":371028107
         }
     ],
     "wof:id":371028107,
-    "wof:lastmodified":1466767614,
+    "wof:lastmodified":1486772029,
     "wof:name":"Neff Consulting",
-    "wof:parent_id":85851719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

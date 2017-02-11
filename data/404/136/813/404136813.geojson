@@ -2,9 +2,14 @@
   "id": 404136813,
   "type": "Feature",
   "properties": {
+    "addr:full":"13503 SE Division St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13503;97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523742,45.504145,-122.523742,45.504145",
     "geom:latitude":45.504145,
     "geom:longitude":-122.523742,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"32145be9e05e93b7bbe2c7e5f925fde7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":404136813
         }
     ],
     "wof:id":404136813,
-    "wof:lastmodified":1466771322,
+    "wof:lastmodified":1486770706,
     "wof:name":"Luckys",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

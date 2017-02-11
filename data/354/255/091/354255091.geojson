@@ -2,9 +2,14 @@
   "id": 354255091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10558 SW 35th Ave Portland OR 97219",
+    "addr:housenumber":"10558",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712743,45.450263,-122.712743,45.450263",
     "geom:latitude":45.450263,
     "geom:longitude":-122.712743,
@@ -29,12 +34,13 @@
     "sg:website":"www.kinkarama.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,20 @@
     "wof:geomhash":"8943671c86078ba7ca89bf4addebf73c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":354255091
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":354255091
         }
     ],
     "wof:id":354255091,
-    "wof:lastmodified":1466768744,
+    "wof:lastmodified":1486770985,
     "wof:name":"Jackson Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

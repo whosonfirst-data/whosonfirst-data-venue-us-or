@@ -2,9 +2,14 @@
   "id": 387018211,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 SW Broadway Portland OR 97201",
+    "addr:housenumber":"1503",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682939,45.513389,-122.682939,45.513389",
     "geom:latitude":45.513389,
     "geom:longitude":-122.682939,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ea0db7b2cc012e471f093e4f368bf3e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387018211
         }
     ],
     "wof:id":387018211,
-    "wof:lastmodified":1466767432,
+    "wof:lastmodified":1486765007,
     "wof:name":"Hair To Dye For",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

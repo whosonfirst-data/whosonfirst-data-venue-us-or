@@ -2,9 +2,14 @@
   "id": 370329227,
   "type": "Feature",
   "properties": {
+    "addr:full":"17016 SE Bush St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17016;97236",
+    "addr:street":"Se Bush St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.486392,45.494815,-122.486392,45.494815",
     "geom:latitude":45.494815,
     "geom:longitude":-122.486392,
@@ -26,10 +31,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        85893161,
+        1108715281,
+        101715829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,29 @@
     "wof:geomhash":"fb49cb593f647e54e611a73ab2cefa0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":370329227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":370329227
         }
     ],
     "wof:id":370329227,
-    "wof:lastmodified":1466770409,
+    "wof:lastmodified":1486771555,
     "wof:name":"Julia Farman",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

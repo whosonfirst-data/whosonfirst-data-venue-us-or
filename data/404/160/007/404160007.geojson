@@ -2,9 +2,14 @@
   "id": 404160007,
   "type": "Feature",
   "properties": {
+    "addr:full":"2320 NW 21st Ave Portland OR 97210",
+    "addr:housenumber":"2320",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694822,45.539176,-122.694822,45.539176",
     "geom:latitude":45.539176,
     "geom:longitude":-122.694822,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"ed8591c205d758c91fab872a3cb79d10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":404160007
         }
     ],
     "wof:id":404160007,
-    "wof:lastmodified":1466767412,
+    "wof:lastmodified":1486771148,
     "wof:name":"North County Vending",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

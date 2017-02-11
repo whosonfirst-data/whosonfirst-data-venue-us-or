@@ -2,9 +2,14 @@
   "id": 790057993,
   "type": "Feature",
   "properties": {
+    "addr:full":"11945 N Center Ave Portland OR 97217",
+    "addr:housenumber":"11945",
+    "addr:postcode":"97217",
+    "addr:street":"N Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681142,45.609056,-122.681142,45.609056",
     "geom:latitude":45.609056,
     "geom:longitude":-122.681142,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":790057993
         }
     ],
     "wof:id":790057993,
-    "wof:lastmodified":1466768249,
+    "wof:lastmodified":1486772361,
     "wof:name":"Paddy's",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

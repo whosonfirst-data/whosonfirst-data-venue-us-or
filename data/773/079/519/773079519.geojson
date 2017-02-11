@@ -2,9 +2,14 @@
   "id": 773079519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 NE 19th Ave Portland OR 97212",
+    "addr:housenumber":"3311",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646331,45.548158,-122.646331,45.548158",
     "geom:latitude":45.548158,
     "geom:longitude":-122.646331,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893235
+        85688513,
+        85893233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893235,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85827095,
+            "region_id":85688513,
+            "venue_id":773079519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":773079519
         }
     ],
     "wof:id":773079519,
-    "wof:lastmodified":1466767434,
+    "wof:lastmodified":1486771981,
     "wof:name":"Jerry Levy Associates",
-    "wof:parent_id":85893235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

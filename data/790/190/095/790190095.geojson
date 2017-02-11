@@ -2,9 +2,14 @@
   "id": 790190095,
   "type": "Feature",
   "properties": {
+    "addr:full":"12301 NE Glisan Street Portland OR 97230",
+    "addr:housenumber":"12301",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Glisan Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537153,45.526415,-122.537153,45.526415",
     "geom:latitude":45.526415,
     "geom:longitude":-122.537153,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790190095
         }
     ],
     "wof:id":790190095,
-    "wof:lastmodified":1466771382,
+    "wof:lastmodified":1486768135,
     "wof:name":"Staples",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

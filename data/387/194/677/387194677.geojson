@@ -2,9 +2,14 @@
   "id": 387194677,
   "type": "Feature",
   "properties": {
+    "addr:full":"9334 SW Boones Ferry Rd Portland OR 97219",
+    "addr:housenumber":"9334",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Boones Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683004,45.458734,-122.683004,45.458734",
     "geom:latitude":45.458734,
     "geom:longitude":-122.683004,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809669
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"bbc71c5be01f15a28c072f3e277b3dfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809669,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":387194677
         }
     ],
     "wof:id":387194677,
-    "wof:lastmodified":1466770675,
+    "wof:lastmodified":1486771455,
     "wof:name":"D P I Design",
-    "wof:parent_id":85809669,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

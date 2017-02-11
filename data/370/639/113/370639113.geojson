@@ -2,9 +2,14 @@
   "id": 370639113,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 SW Downs View Ct Portland OR 97221",
+    "addr:housenumber":"4300",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Downs View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.71988,45.498069,-122.71988,45.498069",
     "geom:latitude":45.498069,
     "geom:longitude":-122.71988,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"049dd929cf324228d1778c26b88fea67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":370639113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370639113
         }
     ],
     "wof:id":370639113,
-    "wof:lastmodified":1466773215,
+    "wof:lastmodified":1486770609,
     "wof:name":"Marleo Inc",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

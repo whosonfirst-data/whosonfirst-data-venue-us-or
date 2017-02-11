@@ -2,9 +2,14 @@
   "id": 371132367,
   "type": "Feature",
   "properties": {
+    "addr:full":"5006 N Denver Ave Portland OR 97217",
+    "addr:housenumber":"5006",
+    "addr:postcode":"97217",
+    "addr:street":"N Denver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687353,45.559771,-122.687353,45.559771",
     "geom:latitude":45.559771,
     "geom:longitude":-122.687353,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"db1a6eada9142b20e1819f1b80e848e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":371132367
         }
     ],
     "wof:id":371132367,
-    "wof:lastmodified":1466769377,
+    "wof:lastmodified":1486765831,
     "wof:name":"Ships Store",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

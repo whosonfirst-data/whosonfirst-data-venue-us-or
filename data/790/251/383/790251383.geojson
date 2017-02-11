@@ -2,9 +2,14 @@
   "id": 790251383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5135 NE 42nd Ave Portland OR 97255",
+    "addr:housenumber":"5135",
+    "addr:postcode":"97255",
+    "addr:street":"Ne 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620398,45.559806,-122.620398,45.559806",
     "geom:latitude":45.559806,
     "geom:longitude":-122.620398,
@@ -25,12 +30,13 @@
     "sg:website":"www.rererato.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790251383
         }
     ],
     "wof:id":790251383,
-    "wof:lastmodified":1466772547,
+    "wof:lastmodified":1486771611,
     "wof:name":"Rererato",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354349153,
   "type": "Feature",
   "properties": {
+    "addr:full":"4552 NE 32nd Ave Portland OR 97211",
+    "addr:housenumber":"4552",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 32Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632702,45.555817,-122.632702,45.555817",
     "geom:latitude":45.555817,
     "geom:longitude":-122.632702,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"45d7d1a052323b80dc204afa6a4ba7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":354349153
         }
     ],
     "wof:id":354349153,
-    "wof:lastmodified":1466770291,
+    "wof:lastmodified":1486771570,
     "wof:name":"Cottage Garden Montessori",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

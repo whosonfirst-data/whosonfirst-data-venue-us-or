@@ -2,9 +2,14 @@
   "id": 773590699,
   "type": "Feature",
   "properties": {
+    "addr:full":"11918 NE Davis St Portland OR 97220",
+    "addr:housenumber":"11918",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537806,45.523971,-122.537806,45.523971",
     "geom:latitude":45.523971,
     "geom:longitude":-122.537806,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773590699
         }
     ],
     "wof:id":773590699,
-    "wof:lastmodified":1466775299,
+    "wof:lastmodified":1486766689,
     "wof:name":"Wireless Security & Alarm Inc",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

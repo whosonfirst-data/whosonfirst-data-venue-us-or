@@ -2,9 +2,14 @@
   "id": 790182877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1906 NW Norfolk Ct Portland OR 97229",
+    "addr:housenumber":"1906",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Norfolk Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.769666,45.537024,-122.769666,45.537024",
     "geom:latitude":45.537024,
     "geom:longitude":-122.769666,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":790182877
         }
     ],
     "wof:id":790182877,
-    "wof:lastmodified":1466771124,
+    "wof:lastmodified":1486763276,
     "wof:name":"Ann Terry Esvelt",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

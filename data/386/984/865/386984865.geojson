@@ -2,9 +2,14 @@
   "id": 386984865,
   "type": "Feature",
   "properties": {
+    "addr:full":"5122 SE 26th Ave Portland OR 97202",
+    "addr:housenumber":"5122",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639571,45.486982,-122.639571,45.486982",
     "geom:latitude":45.486982,
     "geom:longitude":-122.639571,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5d827f6953da44ebae4cc35a2569c7b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":386984865
         }
     ],
     "wof:id":386984865,
-    "wof:lastmodified":1466767437,
+    "wof:lastmodified":1486767059,
     "wof:name":"Portland Self Storage",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

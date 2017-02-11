@@ -2,9 +2,14 @@
   "id": 773000365,
   "type": "Feature",
   "properties": {
+    "addr:full":"2733 SE Grant St Portland OR 97214",
+    "addr:housenumber":"2733",
+    "addr:postcode":"97214",
+    "addr:street":"Se Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637779,45.50711,-122.637779,45.50711",
     "geom:latitude":45.50711,
     "geom:longitude":-122.637779,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713579,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713579,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773000365
         }
     ],
     "wof:id":773000365,
-    "wof:lastmodified":1466769658,
+    "wof:lastmodified":1486773541,
     "wof:name":"Underhill Training & Dvlpmnt",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108713579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

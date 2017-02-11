@@ -2,9 +2,14 @@
   "id": 789831479,
   "type": "Feature",
   "properties": {
+    "addr:full":"8002 N Burlingame Ave Portland OR 97201",
+    "addr:housenumber":"8002",
+    "addr:postcode":"97201",
+    "addr:street":"N Burlingame Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685814,45.46664,-122.685814,45.46664",
     "geom:latitude":45.46664,
     "geom:longitude":-122.685814,
@@ -26,12 +31,13 @@
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":789831479
         }
     ],
     "wof:id":789831479,
-    "wof:lastmodified":1466769742,
+    "wof:lastmodified":1486764631,
     "wof:name":"Wells Fargo",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790092865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 NE 99th Ave Ste 301 Portland OR 97220",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 99Th Ave Ste 301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.562427,45.530694,-122.562427,45.530694",
     "geom:latitude":45.530694,
     "geom:longitude":-122.562427,
@@ -26,12 +31,13 @@
     "sg:website":"www.oregonclinic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790092865
         }
     ],
     "wof:id":790092865,
-    "wof:lastmodified":1466767631,
+    "wof:lastmodified":1486770751,
     "wof:name":"Phillips Michael G MD",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

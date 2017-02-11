@@ -2,9 +2,14 @@
   "id": 371073327,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 NE M L King Blvd Portland OR 97232",
+    "addr:housenumber":"110",
+    "addr:postcode":"97232",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661659,45.524286,-122.661659,45.524286",
     "geom:latitude":45.524286,
     "geom:longitude":-122.661659,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"24d9e86a3c29b6ce144fcc5c26080d48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":371073327
         }
     ],
     "wof:id":371073327,
-    "wof:lastmodified":1466768356,
+    "wof:lastmodified":1486773720,
     "wof:name":"Starks Vacuum Cleaner Sales",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

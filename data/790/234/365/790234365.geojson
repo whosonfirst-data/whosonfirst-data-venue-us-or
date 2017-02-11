@@ -2,9 +2,14 @@
   "id": 790234365,
   "type": "Feature",
   "properties": {
+    "addr:full":"17437 SE Kendall Ct Portland OR 97236",
+    "addr:housenumber":"17437",
+    "addr:postcode":"97236",
+    "addr:street":"Se Kendall Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484204,45.490773,-122.484204,45.490773",
     "geom:latitude":45.490773,
     "geom:longitude":-122.484204,
@@ -49,7 +54,11 @@
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,12 +76,32 @@
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":790234365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790234365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":790234365
         }
     ],
     "wof:id":790234365,
-    "wof:lastmodified":1466772116,
+    "wof:lastmodified":1486772206,
     "wof:name":"J & S RV Service",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

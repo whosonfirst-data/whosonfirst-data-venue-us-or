@@ -2,9 +2,14 @@
   "id": 773199967,
   "type": "Feature",
   "properties": {
+    "addr:full":"3844 SW Jerald Way Portland OR 97221",
+    "addr:housenumber":"3844",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Jerald Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713039,45.49382,-122.713039,45.49382",
     "geom:latitude":45.49382,
     "geom:longitude":-122.713039,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +50,18 @@
     "wof:geomhash":"611ec878ad8ba3ebae29b6d0b1d23812",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":773199967
         }
     ],
     "wof:id":773199967,
-    "wof:lastmodified":1466771524,
+    "wof:lastmodified":1486764907,
     "wof:name":"Far Corner Books",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

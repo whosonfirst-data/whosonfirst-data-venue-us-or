@@ -2,9 +2,14 @@
   "id": 773277863,
   "type": "Feature",
   "properties": {
+    "addr:full":"4309 SE 66th Ave Portland OR 97206",
+    "addr:housenumber":"4309",
+    "addr:postcode":"97206",
+    "addr:street":"Se 66Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.595401,45.490946,-122.595401,45.490946",
     "geom:latitude":45.490946,
     "geom:longitude":-122.595401,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":773277863
         }
     ],
     "wof:id":773277863,
-    "wof:lastmodified":1466772590,
+    "wof:lastmodified":1486771655,
     "wof:name":"S Ganos Trucking Inc",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

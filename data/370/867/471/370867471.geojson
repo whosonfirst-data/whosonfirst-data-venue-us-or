@@ -2,9 +2,14 @@
   "id": 370867471,
   "type": "Feature",
   "properties": {
+    "addr:full":"12550 NE Marx St Portland OR 97230",
+    "addr:housenumber":"12550",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marx St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.53495,45.558893,-122.53495,45.558893",
     "geom:latitude":45.558893,
     "geom:longitude":-122.53495,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"6eb552b6ab6db49b114dd7a1dd5c7dde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":370867471
         }
     ],
     "wof:id":370867471,
-    "wof:lastmodified":1466774490,
+    "wof:lastmodified":1486771482,
     "wof:name":"Interstate Battery System",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354297715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3409 SE Main St Portland OR 97214",
+    "addr:housenumber":"3409",
+    "addr:postcode":"97214",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628282,45.513672,-122.628282,45.513672",
     "geom:latitude":45.513672,
     "geom:longitude":-122.628282,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"9a65901c383e25dcbb93881e7df15246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":354297715
         }
     ],
     "wof:id":354297715,
-    "wof:lastmodified":1466769469,
+    "wof:lastmodified":1486769900,
     "wof:name":"Knights Of Pythias Retirement",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85851483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

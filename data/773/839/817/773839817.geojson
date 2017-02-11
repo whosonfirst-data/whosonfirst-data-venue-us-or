@@ -2,9 +2,14 @@
   "id": 773839817,
   "type": "Feature",
   "properties": {
+    "addr:full":"16517 SE Crest Ct Portland OR 97236",
+    "addr:housenumber":"16517",
+    "addr:postcode":"97236",
+    "addr:street":"Se Crest Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.493828,45.486684,-122.493828,45.486684",
     "geom:latitude":45.486684,
     "geom:longitude":-122.493828,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773839817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773839817
         }
     ],
     "wof:id":773839817,
-    "wof:lastmodified":1466776163,
+    "wof:lastmodified":1486772214,
     "wof:name":"Murphy's Custom Lamp Shade Design",
-    "wof:parent_id":85805545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

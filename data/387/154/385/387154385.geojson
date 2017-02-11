@@ -2,9 +2,14 @@
   "id": 387154385,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 NW 6th Ave Portland OR 97209",
+    "addr:housenumber":"325",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676598,45.525737,-122.676598,45.525737",
     "geom:latitude":45.525737,
     "geom:longitude":-122.676598,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"efe3c05b60ff093a682f1f116975a5ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":387154385
         }
     ],
     "wof:id":387154385,
-    "wof:lastmodified":1466769848,
+    "wof:lastmodified":1486763012,
     "wof:name":"Needful Things",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

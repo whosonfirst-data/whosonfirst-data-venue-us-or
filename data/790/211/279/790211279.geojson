@@ -2,9 +2,14 @@
   "id": 790211279,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 NE 28th Ave Portland OR 97232",
+    "addr:housenumber":"18",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6371,45.523109,-122.6371,45.523109",
     "geom:latitude":45.523109,
     "geom:longitude":-122.6371,
@@ -34,12 +39,13 @@
     "sg:website":"www.myspace.com/chinyen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790211279
         }
     ],
     "wof:id":790211279,
-    "wof:lastmodified":1466771887,
+    "wof:lastmodified":1486771024,
     "wof:name":"Chin Yen Lounge",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354369319,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 SW Broadway Dr Portland OR 97201",
+    "addr:housenumber":"911",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Broadway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685856,45.504321,-122.685856,45.504321",
     "geom:latitude":45.504321,
     "geom:longitude":-122.685856,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"bb464b06df613263bc72eddc55a6d9f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832591,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":354369319
         }
     ],
     "wof:id":354369319,
-    "wof:lastmodified":1466770751,
+    "wof:lastmodified":1486773820,
     "wof:name":"Ruby Mountain Bakery",
-    "wof:parent_id":85832591,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

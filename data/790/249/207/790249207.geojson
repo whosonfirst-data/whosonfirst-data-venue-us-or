@@ -2,9 +2,14 @@
   "id": 790249207,
   "type": "Feature",
   "properties": {
+    "addr:full":"SE 28th Ave & Woodstock Blvd Portland OR 97253",
+    "addr:housenumber":"",
+    "addr:postcode":"97253",
+    "addr:street":"Se 28Th Ave & Woodstock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63443,45.47876,-122.63443,45.47876",
     "geom:latitude":45.47876,
     "geom:longitude":-122.63443,
@@ -26,12 +31,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":790249207
         }
     ],
     "wof:id":790249207,
-    "wof:lastmodified":1466772647,
+    "wof:lastmodified":1486767410,
     "wof:name":"Crystal Springs Rhododendron Garden",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

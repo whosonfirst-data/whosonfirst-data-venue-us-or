@@ -2,9 +2,14 @@
   "id": 790219495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"1620",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649357,45.524451,-122.649357,45.524451",
     "geom:latitude":45.524451,
     "geom:longitude":-122.649357,
@@ -38,12 +43,13 @@
     "sg:website":"www.publicstorage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790219495
         }
     ],
     "wof:id":790219495,
-    "wof:lastmodified":1466772036,
+    "wof:lastmodified":1486767982,
     "wof:name":"Public Storage",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

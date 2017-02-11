@@ -2,9 +2,14 @@
   "id": 789892719,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 SW 1st Ave Portland OR 97204",
+    "addr:housenumber":"235",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671908,45.520833,-122.671908,45.520833",
     "geom:latitude":45.520833,
     "geom:longitude":-122.671908,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.mccormickandschmicks.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789892719
         }
     ],
     "wof:id":789892719,
-    "wof:lastmodified":1466771704,
+    "wof:lastmodified":1486770697,
     "wof:name":"McCormick & Schmick's",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

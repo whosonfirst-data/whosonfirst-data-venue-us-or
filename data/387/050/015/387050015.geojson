@@ -2,9 +2,14 @@
   "id": 387050015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 SW 61st Ct Portland OR 97221",
+    "addr:housenumber":"1220",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 61St Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740691,45.513797,-122.740691,45.513797",
     "geom:latitude":45.513797,
     "geom:longitude":-122.740691,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893251,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +51,29 @@
     "wof:geomhash":"8a358b894f478b25e45be44e1e82472a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85851719,
+            "region_id":85688513,
+            "venue_id":387050015
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
             "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":387050015
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
-            "neighbourhood_id":85851719,
-            "region_id":85688513,
-            "venue_id":387050015
         }
     ],
     "wof:id":387050015,
-    "wof:lastmodified":1466767975,
+    "wof:lastmodified":1486772052,
     "wof:name":"Lightrix",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370431775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"3300",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629558,45.516451,-122.629558,45.516451",
     "geom:latitude":45.516451,
     "geom:longitude":-122.629558,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"4c6ef4f24fda8045a78e17d4e8136ea8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370431775
         }
     ],
     "wof:id":370431775,
-    "wof:lastmodified":1466771847,
+    "wof:lastmodified":1486773379,
     "wof:name":"Hexafoo",
-    "wof:parent_id":85893157,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

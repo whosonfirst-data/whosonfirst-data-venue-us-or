@@ -2,9 +2,14 @@
   "id": 370638723,
   "type": "Feature",
   "properties": {
+    "addr:full":"8585 NW Johnson St Portland OR 97229",
+    "addr:housenumber":"8585",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.764172,45.528831,-122.764172,45.528831",
     "geom:latitude":45.528831,
     "geom:longitude":-122.764172,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85804571
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"180e558ffb478dc01b5daeced7984db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85804571,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":370638723
         }
     ],
     "wof:id":370638723,
-    "wof:lastmodified":1466773212,
+    "wof:lastmodified":1486772188,
     "wof:name":"Cornell Road Department",
-    "wof:parent_id":85804571,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

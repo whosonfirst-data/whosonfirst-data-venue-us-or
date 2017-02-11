@@ -2,9 +2,14 @@
   "id": 354330793,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 NW Monte Vista Ter Portland OR 97210",
+    "addr:housenumber":"3120",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Monte Vista Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713554,45.525924,-122.713554,45.525924",
     "geom:latitude":45.525924,
     "geom:longitude":-122.713554,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"0862e0c1b76cc94f30091a4f454bddfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":354330793
         }
     ],
     "wof:id":354330793,
-    "wof:lastmodified":1466769905,
+    "wof:lastmodified":1486773708,
     "wof:name":"Prosser Enterprises Inc",
-    "wof:parent_id":85871503,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

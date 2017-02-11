@@ -2,9 +2,14 @@
   "id": 789835055,
   "type": "Feature",
   "properties": {
+    "addr:full":"10365 SE Sunnyside Road Suite Suite Portland OR 97201",
+    "addr:housenumber":"",
+    "addr:postcode":"10365;97201",
+    "addr:street":"Se Sunnyside Road Suite Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689333,45.511105,-122.689333,45.511105",
     "geom:latitude":45.511105,
     "geom:longitude":-122.689333,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":789835055
         }
     ],
     "wof:id":789835055,
-    "wof:lastmodified":1466769873,
+    "wof:lastmodified":1486773817,
     "wof:name":"AAA Oregon",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

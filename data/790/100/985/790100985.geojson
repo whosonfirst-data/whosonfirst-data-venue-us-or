@@ -2,9 +2,14 @@
   "id": 790100985,
   "type": "Feature",
   "properties": {
+    "addr:full":"4821 SW 35th Pl Portland OR 97221",
+    "addr:housenumber":"4821",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 35Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713961,45.487841,-122.713961,45.487841",
     "geom:latitude":45.487841,
     "geom:longitude":-122.713961,
@@ -29,12 +34,13 @@
     "sg:website":"www.allaboutremodeling.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790100985
         }
     ],
     "wof:id":790100985,
-    "wof:lastmodified":1466767928,
+    "wof:lastmodified":1486769388,
     "wof:name":"All About Remodeling, LLC",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85807447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790101507,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 SW Canyon Rd Portland OR 97221",
+    "addr:housenumber":"4000",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Canyon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717582,45.508845,-122.717582,45.508845",
     "geom:latitude":45.508845,
     "geom:longitude":-122.717582,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,25 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867153,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
+            "region_id":85688513,
+            "venue_id":790101507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":790101507
         }
     ],
     "wof:id":790101507,
-    "wof:lastmodified":1466767946,
+    "wof:lastmodified":1486772010,
     "wof:name":"Vietnam Veterans of Oregon Memorial",
-    "wof:parent_id":85867153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

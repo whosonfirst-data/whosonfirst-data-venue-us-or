@@ -2,9 +2,14 @@
   "id": 790034977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 SE Ladd Ave Portland OR 97214",
+    "addr:housenumber":"2404",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ladd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645837,45.505462,-122.645837,45.505462",
     "geom:latitude":45.505462,
     "geom:longitude":-122.645837,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":790034977
         }
     ],
     "wof:id":790034977,
-    "wof:lastmodified":1466767818,
+    "wof:lastmodified":1486773547,
     "wof:name":"Wallmark & Son Painting",
-    "wof:parent_id":85893239,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

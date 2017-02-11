@@ -2,9 +2,14 @@
   "id": 789870857,
   "type": "Feature",
   "properties": {
+    "addr:full":"6913 N Amherst St Portland OR 97203",
+    "addr:housenumber":"6913",
+    "addr:postcode":"97203",
+    "addr:street":"N Amherst St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740877,45.583018,-122.740877,45.583018",
     "geom:latitude":45.583018,
     "geom:longitude":-122.740877,
@@ -27,7 +32,15 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721333,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TDxW1AehI1MGcvz7NotIn_45.583018_-122.740877@1303263412"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462591195,
     "wof:geomhash":"89ecd3c49f6601166420150b12439c0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
+            "region_id":85688513,
+            "venue_id":789870857
+        }
+    ],
     "wof:id":789870857,
-    "wof:lastmodified":1466771298,
+    "wof:lastmodified":1486772381,
     "wof:name":"Oak Bridge Billing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

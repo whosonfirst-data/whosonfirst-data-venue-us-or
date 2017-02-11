@@ -2,9 +2,14 @@
   "id": 387306379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 SW Cheltenham St Portland OR 97239",
+    "addr:housenumber":"1117",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Cheltenham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684249,45.480847,-122.684249,45.480847",
     "geom:latitude":45.480847,
     "geom:longitude":-122.684249,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"e248d97f23cdf710974ca4d6254f5d31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":387306379
         }
     ],
     "wof:id":387306379,
-    "wof:lastmodified":1466771960,
+    "wof:lastmodified":1486769449,
     "wof:name":"Cardinal Trading LTD",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773308425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 SW Taylor St Portland OR 97205",
+    "addr:housenumber":"1020",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68372,45.518824,-122.68372,45.518824",
     "geom:latitude":45.518824,
     "geom:longitude":-122.68372,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773308425
         }
     ],
     "wof:id":773308425,
-    "wof:lastmodified":1466772905,
+    "wof:lastmodified":1486764819,
     "wof:name":"Arland Carol Psyd Licensed PS",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

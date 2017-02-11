@@ -2,9 +2,14 @@
   "id": 387289725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1661 SE Holly St Portland OR 97214",
+    "addr:housenumber":"1661",
+    "addr:postcode":"97214",
+    "addr:street":"Se Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648534,45.511361,-122.648534,45.511361",
     "geom:latitude":45.511361,
     "geom:longitude":-122.648534,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"213f8f3eec801aa4cd33a414a4aa85e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387289725
         }
     ],
     "wof:id":387289725,
-    "wof:lastmodified":1466771831,
+    "wof:lastmodified":1486773548,
     "wof:name":"Parent As Coach",
-    "wof:parent_id":85828991,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370209351,
   "type": "Feature",
   "properties": {
+    "addr:full":"7821 NE 33rd Dr Portland OR 97211",
+    "addr:housenumber":"7821",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 33Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633292,45.581759,-122.633292,45.581759",
     "geom:latitude":45.581759,
     "geom:longitude":-122.633292,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,20 @@
     "wof:geomhash":"e93c4494d39e565bbf55ef6a920f0cb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":370209351
         }
     ],
     "wof:id":370209351,
-    "wof:lastmodified":1466768194,
+    "wof:lastmodified":1486772005,
     "wof:name":"Gerlock Towing & Heavy Haul",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

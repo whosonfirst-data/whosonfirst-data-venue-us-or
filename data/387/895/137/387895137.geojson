@@ -2,9 +2,14 @@
   "id": 387895137,
   "type": "Feature",
   "properties": {
+    "addr:full":"2444 SE Hawthorne Blvd Portland OR 97214",
+    "addr:housenumber":"2444",
+    "addr:postcode":"97214",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640611,45.512002,-122.640611,45.512002",
     "geom:latitude":45.512002,
     "geom:longitude":-122.640611,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"b0366f3359bd31487c2fad46d1eb3586",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387895137
         }
     ],
     "wof:id":387895137,
-    "wof:lastmodified":1466775371,
+    "wof:lastmodified":1486773690,
     "wof:name":"Nakayama Butsudans",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

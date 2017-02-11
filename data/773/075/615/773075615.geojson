@@ -2,9 +2,14 @@
   "id": 773075615,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 NE 75th Ave Portland OR 97218",
+    "addr:housenumber":"5600",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 75Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585788,45.563084,-122.585788,45.563084",
     "geom:latitude":45.563084,
     "geom:longitude":-122.585788,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":773075615
         }
     ],
     "wof:id":773075615,
-    "wof:lastmodified":1466767314,
+    "wof:lastmodified":1486771617,
     "wof:name":"Escada Motors",
-    "wof:parent_id":85819307,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

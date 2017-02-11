@@ -2,9 +2,14 @@
   "id": 773815075,
   "type": "Feature",
   "properties": {
+    "addr:full":"12311 NE Brazee St Portland OR 97230",
+    "addr:housenumber":"12311",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Brazee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.536537,45.539897,-122.536537,45.539897",
     "geom:latitude":45.539897,
     "geom:longitude":-122.536537,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.teachinghome.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":773815075
         }
     ],
     "wof:id":773815075,
-    "wof:lastmodified":1466776039,
+    "wof:lastmodified":1486771972,
     "wof:name":"The Teaching Home",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

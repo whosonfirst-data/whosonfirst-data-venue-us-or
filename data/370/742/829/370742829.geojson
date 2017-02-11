@@ -2,9 +2,14 @@
   "id": 370742829,
   "type": "Feature",
   "properties": {
+    "addr:full":"7941 SW 54th Ave Portland OR 97219",
+    "addr:housenumber":"7941",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732393,45.464782,-122.732393,45.464782",
     "geom:latitude":45.464782,
     "geom:longitude":-122.732393,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"cc9f0fbfd123a00e7d5198c314cf5a69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832347,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":370742829
         }
     ],
     "wof:id":370742829,
-    "wof:lastmodified":1466773767,
+    "wof:lastmodified":1486772395,
     "wof:name":"Kasch S Remodeling",
-    "wof:parent_id":85832347,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

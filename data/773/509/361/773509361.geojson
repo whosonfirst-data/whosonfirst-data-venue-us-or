@@ -2,9 +2,14 @@
   "id": 773509361,
   "type": "Feature",
   "properties": {
+    "addr:full":"8103 SE Clay St Portland OR 97215",
+    "addr:housenumber":"8103",
+    "addr:postcode":"97215",
+    "addr:street":"Se Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579575,45.511591,-122.579575,45.511591",
     "geom:latitude":45.511591,
     "geom:longitude":-122.579575,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773509361
         }
     ],
     "wof:id":773509361,
-    "wof:lastmodified":1466774863,
+    "wof:lastmodified":1486766242,
     "wof:name":"A Alstate Roofing & Parking",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

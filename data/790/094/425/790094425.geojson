@@ -2,9 +2,14 @@
   "id": 790094425,
   "type": "Feature",
   "properties": {
+    "addr:full":"11011 NE Holman Street Portland OR 97220",
+    "addr:housenumber":"11011",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Holman Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.547998,45.568292,-122.547998,45.568292",
     "geom:latitude":45.568292,
     "geom:longitude":-122.547998,
@@ -26,12 +31,13 @@
     "sg:website":"www.super8.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790094425
         }
     ],
     "wof:id":790094425,
-    "wof:lastmodified":1466767692,
+    "wof:lastmodified":1486768409,
     "wof:name":"Super 8 Motel-Portland",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

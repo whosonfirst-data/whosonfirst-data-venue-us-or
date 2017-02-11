@@ -2,9 +2,14 @@
   "id": 773526707,
   "type": "Feature",
   "properties": {
+    "addr:full":"5708 SE 136th Ave Portland OR 97236",
+    "addr:housenumber":"5708",
+    "addr:postcode":"97236",
+    "addr:street":"Se 136Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523505,45.480902,-122.523505,45.480902",
     "geom:latitude":45.480902,
     "geom:longitude":-122.523505,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536095
+        85688513,
+        420536131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536095,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
+            "region_id":85688513,
+            "venue_id":773526707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773526707
         }
     ],
     "wof:id":773526707,
-    "wof:lastmodified":1466775112,
+    "wof:lastmodified":1486772201,
     "wof:name":"Kip's Hardwood Flooring Inc",
-    "wof:parent_id":420536095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

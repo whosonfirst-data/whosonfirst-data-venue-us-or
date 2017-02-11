@@ -2,9 +2,14 @@
   "id": 370788233,
   "type": "Feature",
   "properties": {
+    "addr:full":"5333 N Denver Ave Portland OR 97217",
+    "addr:housenumber":"5333",
+    "addr:postcode":"97217",
+    "addr:street":"N Denver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687485,45.561732,-122.687485,45.561732",
     "geom:latitude":45.561732,
     "geom:longitude":-122.687485,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b049634f25a87d7ac7010088fec61e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370788233
         }
     ],
     "wof:id":370788233,
-    "wof:lastmodified":1466773921,
+    "wof:lastmodified":1486765785,
     "wof:name":"Rose City Imprinting",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

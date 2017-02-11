@@ -2,9 +2,14 @@
   "id": 789832517,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 SW Broadway Suite 130 Portland OR 97201",
+    "addr:housenumber":"2121",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Broadway Suite 130",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685046,45.507703,-122.685046,45.507703",
     "geom:latitude":45.507703,
     "geom:longitude":-122.685046,
@@ -33,12 +38,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/607832640/portland_or/robert_g_crow_pc.html?publisher=yellowpages&reference_id=7&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789832517
         }
     ],
     "wof:id":789832517,
-    "wof:lastmodified":1466769783,
+    "wof:lastmodified":1486769798,
     "wof:name":"Robert G Crow PC",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85849969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

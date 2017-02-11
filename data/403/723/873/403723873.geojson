@@ -2,9 +2,14 @@
   "id": 403723873,
   "type": "Feature",
   "properties": {
+    "addr:full":"10429 NW Mayer Ct Portland OR 97229",
+    "addr:housenumber":"10429",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Mayer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.78415,45.538054,-122.78415,45.538054",
     "geom:latitude":45.538054,
     "geom:longitude":-122.78415,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"8542c5ca0ce26ef709db1f7d5bf82ec0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":403723873
         }
     ],
     "wof:id":403723873,
-    "wof:lastmodified":1466768293,
+    "wof:lastmodified":1486762836,
     "wof:name":"O'Connell Greeting Cards",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

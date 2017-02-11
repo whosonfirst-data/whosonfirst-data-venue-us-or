@@ -2,9 +2,14 @@
   "id": 789997125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 N Killingsworth St Portland OR 97212",
+    "addr:housenumber":"2205",
+    "addr:postcode":"97212",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689581,45.56272,-122.689581,45.56272",
     "geom:latitude":45.56272,
     "geom:longitude":-122.689581,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":789997125
         }
     ],
     "wof:id":789997125,
-    "wof:lastmodified":1466773164,
+    "wof:lastmodified":1486766035,
     "wof:name":"Rearview Mirror",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

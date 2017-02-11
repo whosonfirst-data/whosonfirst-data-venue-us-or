@@ -2,9 +2,14 @@
   "id": 403941239,
   "type": "Feature",
   "properties": {
+    "addr:full":"4525 SW Lee St Portland OR 97221",
+    "addr:housenumber":"4525",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723804,45.4868,-122.723804,45.4868",
     "geom:latitude":45.4868,
     "geom:longitude":-122.723804,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7f5b97979365fde45907f37ef0381923",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":403941239
         }
     ],
     "wof:id":403941239,
-    "wof:lastmodified":1466768106,
+    "wof:lastmodified":1486763963,
     "wof:name":"Wholesale Displays",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

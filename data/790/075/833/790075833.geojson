@@ -2,9 +2,14 @@
   "id": 790075833,
   "type": "Feature",
   "properties": {
+    "addr:full":"5909 SW Southview Pl Portland OR 97219",
+    "addr:housenumber":"5909",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Southview Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737938,45.435013,-122.737938,45.435013",
     "geom:latitude":45.435013,
     "geom:longitude":-122.737938,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":790075833
         }
     ],
     "wof:id":790075833,
-    "wof:lastmodified":1466768680,
+    "wof:lastmodified":1486771063,
     "wof:name":"Russian Language Services",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

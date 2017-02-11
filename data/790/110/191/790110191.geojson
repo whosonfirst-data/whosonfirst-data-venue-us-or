@@ -2,9 +2,14 @@
   "id": 790110191,
   "type": "Feature",
   "properties": {
+    "addr:full":"8409 SE 45th Ave Portland OR 97222",
+    "addr:housenumber":"8409",
+    "addr:postcode":"97222",
+    "addr:street":"Se 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616053,45.462965,-122.616053,45.462965",
     "geom:latitude":45.462965,
     "geom:longitude":-122.616053,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85818221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818221,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":790110191
         }
     ],
     "wof:id":790110191,
-    "wof:lastmodified":1466768236,
+    "wof:lastmodified":1486769935,
     "wof:name":"Giovannes",
-    "wof:parent_id":85818221,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

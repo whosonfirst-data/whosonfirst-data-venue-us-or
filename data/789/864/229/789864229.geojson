@@ -2,9 +2,14 @@
   "id": 789864229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 SE Division Street Suite 107 Portland OR 97202",
+    "addr:housenumber":"1235",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division Street Suite 107",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652961,45.505136,-122.652961,45.505136",
     "geom:latitude":45.505136,
     "geom:longitude":-122.652961,
@@ -35,12 +40,14 @@
     "sg:website":"www.solo-flamenco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789864229
         }
     ],
     "wof:id":789864229,
-    "wof:lastmodified":1466771033,
+    "wof:lastmodified":1486773543,
     "wof:name":"Solo Flamenco Arts Academy",
-    "wof:parent_id":85893193,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

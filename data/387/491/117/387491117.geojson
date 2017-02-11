@@ -2,9 +2,14 @@
   "id": 387491117,
   "type": "Feature",
   "properties": {
+    "addr:full":"13140 SE Blackberry Cir Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13140;97236",
+    "addr:street":"Se Blackberry Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.527733,45.472337,-122.527733,45.472337",
     "geom:latitude":45.472337,
     "geom:longitude":-122.527733,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85821517
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"09bae81b43ea04e08d441e411eb37296",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85821517,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":387491117
         }
     ],
     "wof:id":387491117,
-    "wof:lastmodified":1466773098,
+    "wof:lastmodified":1486772208,
     "wof:name":"Al Bunnell Construction",
-    "wof:parent_id":85821517,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

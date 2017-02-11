@@ -2,9 +2,14 @@
   "id": 371116063,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 SW Buddington St Portland OR 97219",
+    "addr:housenumber":"5000",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Buddington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728118,45.443163,-122.728118,45.443163",
     "geom:latitude":45.443163,
     "geom:longitude":-122.728118,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871501,
+        102191575,
+        1108714057,
         85633793,
-        101715835,
-        102082213,
-        85871501
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a408969f0b9a25d2f263b4458cd9d3a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871501,
             "region_id":85688513,
             "venue_id":371116063
         }
     ],
     "wof:id":371116063,
-    "wof:lastmodified":1466769079,
+    "wof:lastmodified":1486764043,
     "wof:name":"Burlingame Janitorial & Maint",
     "wof:parent_id":85871501,
     "wof:placetype":"venue",

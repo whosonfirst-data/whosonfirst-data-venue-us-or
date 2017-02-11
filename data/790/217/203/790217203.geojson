@@ -2,9 +2,14 @@
   "id": 790217203,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 NE Laurelhurst Pl Portland OR 97232",
+    "addr:housenumber":"11",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Laurelhurst Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625259,45.523292,-122.625259,45.523292",
     "geom:latitude":45.523292,
     "geom:longitude":-122.625259,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.wellsconsult.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790217203
         }
     ],
     "wof:id":790217203,
-    "wof:lastmodified":1466771873,
+    "wof:lastmodified":1486766403,
     "wof:name":"Wells Consulting",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

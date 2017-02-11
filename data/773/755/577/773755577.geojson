@@ -2,9 +2,14 @@
   "id": 773755577,
   "type": "Feature",
   "properties": {
+    "addr:full":"9848 NW Mackay Ave Portland OR 97231",
+    "addr:housenumber":"9848",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Mackay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.782735,45.592323,-122.782735,45.592323",
     "geom:latitude":45.592323,
     "geom:longitude":-122.782735,
@@ -25,13 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108720799,
+        85830793,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857649,
-        85844911
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857649,
-            "region_id":85688513,
-            "venue_id":773755577
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85844911,
+            "macrohood_id":1108714055,
+            "microhood_id":1108720799,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":773755577
         }
     ],
     "wof:id":773755577,
-    "wof:lastmodified":1466775905,
+    "wof:lastmodified":1486774209,
     "wof:name":"Ridgeview Business Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108720799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

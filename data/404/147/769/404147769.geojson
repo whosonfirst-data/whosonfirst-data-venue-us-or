@@ -2,9 +2,14 @@
   "id": 404147769,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 SE 12th Ave Portland OR 97214",
+    "addr:housenumber":"231",
+    "addr:postcode":"97214",
+    "addr:street":"Se 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653694,45.520988,-122.653694,45.520988",
     "geom:latitude":45.520988,
     "geom:longitude":-122.653694,
@@ -26,11 +31,14 @@
     "sg:website":"www.catholiccharitiesoregon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:brand_id":420574609,
     "wof:breaches":[],
@@ -41,19 +49,21 @@
     "wof:geomhash":"ac1ce7a0d248cbe2b15c97416722ed0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":404147769
         }
     ],
     "wof:id":404147769,
-    "wof:lastmodified":1466767209,
+    "wof:lastmodified":1486773458,
     "wof:name":"Catholic Charities",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

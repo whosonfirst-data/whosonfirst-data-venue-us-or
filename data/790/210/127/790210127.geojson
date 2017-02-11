@@ -2,9 +2,14 @@
   "id": 790210127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3331 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"3331",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629979,45.532022,-122.629979,45.532022",
     "geom:latitude":45.532022,
     "geom:longitude":-122.629979,
@@ -33,12 +38,13 @@
     "sg:website":"full-lifepdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790210127
         }
     ],
     "wof:id":790210127,
-    "wof:lastmodified":1466771758,
+    "wof:lastmodified":1486767983,
     "wof:name":"Full Life Coffee Shop",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

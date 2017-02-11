@@ -2,9 +2,14 @@
   "id": 789985501,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 NE Columbia Blvd Portland OR 97211",
+    "addr:housenumber":"100",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664776,45.582094,-122.664776,45.582094",
     "geom:latitude":45.582094,
     "geom:longitude":-122.664776,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721309,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721309,
             "region_id":85688513,
             "venue_id":789985501
         }
     ],
     "wof:id":789985501,
-    "wof:lastmodified":1466773126,
+    "wof:lastmodified":1486772351,
     "wof:name":"Ufcw Northwest Fcu",
-    "wof:parent_id":85841531,
+    "wof:parent_id":1108721309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

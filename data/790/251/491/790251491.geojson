@@ -2,9 +2,14 @@
   "id": 790251491,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW 12th Ave & Falcon St Portland OR 97255",
+    "addr:housenumber":"",
+    "addr:postcode":"97255",
+    "addr:street":"Sw 12Th Ave & Falcon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690475,45.466258,-122.690475,45.466258",
     "geom:latitude":45.466258,
     "geom:longitude":-122.690475,
@@ -25,12 +30,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536125
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":790251491
         }
     ],
     "wof:id":790251491,
-    "wof:lastmodified":1466772549,
+    "wof:lastmodified":1486764671,
     "wof:name":"Burlingame Park",
     "wof:parent_id":420536125,
     "wof:placetype":"venue",

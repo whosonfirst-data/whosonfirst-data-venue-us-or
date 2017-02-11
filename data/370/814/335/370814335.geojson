@@ -2,9 +2,14 @@
   "id": 370814335,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 NW 17th Ave Portland OR 97209",
+    "addr:housenumber":"210",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688205,45.524915,-122.688205,45.524915",
     "geom:latitude":45.524915,
     "geom:longitude":-122.688205,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:brand_id":420575169,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"c63ad162f84e4517bc06fef322f80e03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370814335
         }
     ],
     "wof:id":370814335,
-    "wof:lastmodified":1466774155,
+    "wof:lastmodified":1486771158,
     "wof:name":"SCI",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

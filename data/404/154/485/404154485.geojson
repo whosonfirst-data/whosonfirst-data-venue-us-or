@@ -2,9 +2,14 @@
   "id": 404154485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4832 NE 24th Ave Portland OR 97211",
+    "addr:housenumber":"4832",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 24Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640857,45.558834,-122.640857,45.558834",
     "geom:latitude":45.558834,
     "geom:longitude":-122.640857,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"f0c492594943705320f414188733a4fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":404154485
         }
     ],
     "wof:id":404154485,
-    "wof:lastmodified":1466767318,
+    "wof:lastmodified":1486773369,
     "wof:name":"Intel Corp",
-    "wof:parent_id":85893149,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

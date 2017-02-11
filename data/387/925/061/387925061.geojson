@@ -2,9 +2,14 @@
   "id": 387925061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4915 N Interstate Ave Portland OR 97217",
+    "addr:housenumber":"4915",
+    "addr:postcode":"97217",
+    "addr:street":"N Interstate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68234,45.558939,-122.68234,45.558939",
     "geom:latitude":45.558939,
     "geom:longitude":-122.68234,
@@ -26,11 +31,13 @@
     "sg:website":"www.recast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"c1f17ef68bf3dcb053cd88420a887816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387925061
         }
     ],
     "wof:id":387925061,
-    "wof:lastmodified":1466775392,
+    "wof:lastmodified":1486771846,
     "wof:name":"Scott Trahan Realty Brokerage",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

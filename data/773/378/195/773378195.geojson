@@ -2,9 +2,14 @@
   "id": 773378195,
   "type": "Feature",
   "properties": {
+    "addr:full":"10640 NE Halsey St Portland OR 97220",
+    "addr:housenumber":"10640",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552087,45.533426,-122.552087,45.533426",
     "geom:latitude":45.533426,
     "geom:longitude":-122.552087,
@@ -26,12 +31,15 @@
     "sg:website":"www.homesellingpartners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":773378195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":773378195
         }
     ],
     "wof:id":773378195,
-    "wof:lastmodified":1466773649,
+    "wof:lastmodified":1486770735,
     "wof:name":"Home Selling Partners",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

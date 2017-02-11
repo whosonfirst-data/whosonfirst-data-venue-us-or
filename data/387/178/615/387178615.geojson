@@ -2,9 +2,14 @@
   "id": 387178615,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 NW 8th Ave Portland OR 97209",
+    "addr:housenumber":"300",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678558,45.525877,-122.678558,45.525877",
     "geom:latitude":45.525877,
     "geom:longitude":-122.678558,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85867303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"d92539ad946ffa7d61ee1e2b8de4b83a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
+            "region_id":85688513,
+            "venue_id":387178615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":387178615
         }
     ],
     "wof:id":387178615,
-    "wof:lastmodified":1466770343,
+    "wof:lastmodified":1486763454,
     "wof:name":"North Park Loft Hoa Excelsior",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

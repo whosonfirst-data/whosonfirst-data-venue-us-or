@@ -2,9 +2,14 @@
   "id": 790233933,
   "type": "Feature",
   "properties": {
+    "addr:full":"4805 SE 128th Ave Portland OR 97236",
+    "addr:housenumber":"4805",
+    "addr:postcode":"97236",
+    "addr:street":"Se 128Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532406,45.48727,-122.532406,45.48727",
     "geom:latitude":45.48727,
     "geom:longitude":-122.532406,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790233933
         }
     ],
     "wof:id":790233933,
-    "wof:lastmodified":1466772221,
+    "wof:lastmodified":1486771952,
     "wof:name":"Locksmith A 24 Hour",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

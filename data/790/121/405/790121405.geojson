@@ -2,9 +2,14 @@
   "id": 790121405,
   "type": "Feature",
   "properties": {
+    "addr:full":"7170 SW Garden Home Rd Portland OR 97223",
+    "addr:housenumber":"7170",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.750548,45.465701,-122.750548,45.465701",
     "geom:latitude":45.465701,
     "geom:longitude":-122.750548,
@@ -53,7 +58,15 @@
     ],
     "sg:website":"http://www.farmersagent.com/jfroman",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iBua31BMaSrCpQlYUDQqx_45.465701_-122.750548@1303263423"
@@ -61,11 +74,22 @@
     "wof:country":"US",
     "wof:created":1462593299,
     "wof:geomhash":"e047bdb9d43f75bc0bb306cba7abee10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790121405
+        }
+    ],
     "wof:id":790121405,
-    "wof:lastmodified":1466768638,
+    "wof:lastmodified":1486772397,
     "wof:name":"Joseph Froman - Farmers Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

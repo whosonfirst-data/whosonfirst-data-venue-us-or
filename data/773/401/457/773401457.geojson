@@ -2,9 +2,14 @@
   "id": 773401457,
   "type": "Feature",
   "properties": {
+    "addr:full":"4624 N Commercial Ave Portland OR 97217",
+    "addr:housenumber":"4624",
+    "addr:postcode":"97217",
+    "addr:street":"N Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671115,45.556465,-122.671115,45.556465",
     "geom:latitude":45.556465,
     "geom:longitude":-122.671115,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":773401457
         }
     ],
     "wof:id":773401457,
-    "wof:lastmodified":1466774004,
+    "wof:lastmodified":1486768953,
     "wof:name":"Millennium Toys & Collect",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

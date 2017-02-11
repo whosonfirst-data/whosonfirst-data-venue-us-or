@@ -2,9 +2,14 @@
   "id": 387679853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1448 SE 148th Ave Portland OR 97233",
+    "addr:housenumber":"1448",
+    "addr:postcode":"97233",
+    "addr:street":"Se 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510646,45.512904,-122.510646,45.512904",
     "geom:latitude":45.512904,
     "geom:longitude":-122.510646,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"8244f324c59c921c9c9c3862ad7a97ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":387679853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387679853
         }
     ],
     "wof:id":387679853,
-    "wof:lastmodified":1466774489,
+    "wof:lastmodified":1486771547,
     "wof:name":"Vorobets General Contractor",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

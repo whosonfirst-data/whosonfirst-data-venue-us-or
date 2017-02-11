@@ -2,9 +2,14 @@
   "id": 403724973,
   "type": "Feature",
   "properties": {
+    "addr:full":"8337 NE Alderwood Rd Portland OR 97220",
+    "addr:housenumber":"8337",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Alderwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.577303,45.576023,-122.577303,45.576023",
     "geom:latitude":45.576023,
     "geom:longitude":-122.577303,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"93189cfc2dcc53bbb9d69594f0b4b14e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":403724973
         }
     ],
     "wof:id":403724973,
-    "wof:lastmodified":1466768321,
+    "wof:lastmodified":1486772344,
     "wof:name":"US District Director Office",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

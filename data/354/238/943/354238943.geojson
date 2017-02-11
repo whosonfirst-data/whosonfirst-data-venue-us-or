@@ -2,9 +2,14 @@
   "id": 354238943,
   "type": "Feature",
   "properties": {
+    "addr:full":"5257 SE 69th Ave Portland OR 97206",
+    "addr:housenumber":"5257",
+    "addr:postcode":"97206",
+    "addr:street":"Se 69Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.592331,45.483168,-122.592331,45.483168",
     "geom:latitude":45.483168,
     "geom:longitude":-122.592331,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"cec298e7ba278a81575bb8379164f733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":354238943
         }
     ],
     "wof:id":354238943,
-    "wof:lastmodified":1466768413,
+    "wof:lastmodified":1486766459,
     "wof:name":"Ro On Go Word Processing",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

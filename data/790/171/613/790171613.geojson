@@ -2,9 +2,14 @@
   "id": 790171613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 N Williams Avenue Portland OR 97227",
+    "addr:housenumber":"1825",
+    "addr:postcode":"97227",
+    "addr:street":"N Williams Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666878,45.535969,-122.666878,45.535969",
     "geom:latitude":45.535969,
     "geom:longitude":-122.666878,
@@ -30,12 +35,13 @@
     "sg:website":"www.reidandyatespt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790171613
         }
     ],
     "wof:id":790171613,
-    "wof:lastmodified":1466770650,
+    "wof:lastmodified":1486769086,
     "wof:name":"Orthopedic and Sports Physical Therapy",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

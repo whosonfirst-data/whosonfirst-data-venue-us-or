@@ -2,9 +2,14 @@
   "id": 387795289,
   "type": "Feature",
   "properties": {
+    "addr:full":"16500 SE Salmon St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"16500;97233",
+    "addr:street":"Se Salmon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492715,45.514977,-122.492715,45.514977",
     "geom:latitude":45.514977,
     "geom:longitude":-122.492715,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"3acdd877cb5fe5491d98d8479a8d18ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387795289
         }
     ],
     "wof:id":387795289,
-    "wof:lastmodified":1466774881,
+    "wof:lastmodified":1486771542,
     "wof:name":"Sand River Guide Service",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

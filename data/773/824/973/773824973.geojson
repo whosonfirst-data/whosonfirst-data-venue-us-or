@@ -2,9 +2,14 @@
   "id": 773824973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 N Terry St Portland OR 97217",
+    "addr:housenumber":"1616",
+    "addr:postcode":"97217",
+    "addr:street":"N Terry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68316,45.579536,-122.68316,45.579536",
     "geom:latitude":45.579536,
     "geom:longitude":-122.68316,
@@ -30,12 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513,
+        85828137,
+        1108714605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":773824973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":773824973
         }
     ],
     "wof:id":773824973,
-    "wof:lastmodified":1466776089,
+    "wof:lastmodified":1486769519,
     "wof:name":"Cookies By Courtland Inc",
-    "wof:parent_id":85841531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790020015,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 SE Sandy Blvd Portland OR 97214",
+    "addr:housenumber":"930",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655863,45.521065,-122.655863,45.521065",
     "geom:latitude":45.521065,
     "geom:longitude":-122.655863,
@@ -30,12 +35,14 @@
     "sg:website":"www.negativeperfection.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790020015
         }
     ],
     "wof:id":790020015,
-    "wof:lastmodified":1466767646,
+    "wof:lastmodified":1486773512,
     "wof:name":"Negative Perfection Printers",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790033911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"1415",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651428,45.522179,-122.651428,45.522179",
     "geom:latitude":45.522179,
     "geom:longitude":-122.651428,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790033911
         }
     ],
     "wof:id":790033911,
-    "wof:lastmodified":1466767801,
+    "wof:lastmodified":1486771386,
     "wof:name":"Portland General Electric Company Underground Wire Locating",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

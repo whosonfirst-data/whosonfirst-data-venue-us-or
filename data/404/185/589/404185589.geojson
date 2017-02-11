@@ -2,9 +2,14 @@
   "id": 404185589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1739 SE 46th Ave Portland OR 97215",
+    "addr:housenumber":"1739",
+    "addr:postcode":"97215",
+    "addr:street":"Se 46Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615209,45.509635,-122.615209,45.509635",
     "geom:latitude":45.509635,
     "geom:longitude":-122.615209,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,20 @@
     "wof:geomhash":"b6bc46fd133b7dcd3bc1723cd74d4508",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":404185589
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85851483,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":404185589
         }
     ],
     "wof:id":404185589,
-    "wof:lastmodified":1466767865,
+    "wof:lastmodified":1486770873,
     "wof:name":"Intuit Real Estate Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

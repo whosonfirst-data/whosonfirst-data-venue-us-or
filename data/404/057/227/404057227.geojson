@@ -2,9 +2,14 @@
   "id": 404057227,
   "type": "Feature",
   "properties": {
+    "addr:full":"7439 SE 72nd Ave Portland OR 97206",
+    "addr:housenumber":"7439",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589425,45.469462,-122.589425,45.469462",
     "geom:latitude":45.469462,
     "geom:longitude":-122.589425,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871469
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"23fcdac065713e7ef6e1125bb67b5e83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871469,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":404057227
         }
     ],
     "wof:id":404057227,
-    "wof:lastmodified":1466769417,
+    "wof:lastmodified":1486772256,
     "wof:name":"French Quarter Linens",
-    "wof:parent_id":85871469,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

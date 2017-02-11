@@ -2,9 +2,14 @@
   "id": 789989977,
   "type": "Feature",
   "properties": {
+    "addr:full":"5918 NE 31st Ave Portland OR 97211",
+    "addr:housenumber":"5918",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633858,45.565544,-122.633858,45.565544",
     "geom:latitude":45.565544,
     "geom:longitude":-122.633858,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789989977
         }
     ],
     "wof:id":789989977,
-    "wof:lastmodified":1466772959,
+    "wof:lastmodified":1486771565,
     "wof:name":"Rear Gear",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

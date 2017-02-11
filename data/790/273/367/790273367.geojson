@@ -2,9 +2,14 @@
   "id": 790273367,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 66381 Portland OR 97290",
+    "addr:housenumber":"po box 66381",
+    "addr:postcode":"97290",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659006,45.56259,-122.659006,45.56259",
     "geom:latitude":45.56259,
     "geom:longitude":-122.659006,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":790273367
         }
     ],
     "wof:id":790273367,
-    "wof:lastmodified":1466772883,
+    "wof:lastmodified":1486769018,
     "wof:name":"Haywire Studios",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

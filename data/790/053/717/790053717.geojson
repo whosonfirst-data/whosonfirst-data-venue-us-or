@@ -2,9 +2,14 @@
   "id": 790053717,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 N Harbour Dr Unit 3 Portland OR 97217",
+    "addr:housenumber":"905;3",
+    "addr:postcode":"97217",
+    "addr:street":"N Harbour Dr Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674721,45.603804,-122.674721,45.603804",
     "geom:latitude":45.603804,
     "geom:longitude":-122.674721,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"http://www.stewartmarketinggroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HTFpfZQKO1eeer8rL8VSG_45.603804_-122.674721@1303263420"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462592754,
     "wof:geomhash":"a1f97f72723bd7ef5da4c83ae03e0851",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":790053717
+        }
+    ],
     "wof:id":790053717,
-    "wof:lastmodified":1466768155,
+    "wof:lastmodified":1486769369,
     "wof:name":"Stewart Marketing Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790020317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1170 SE 15th Ave Portland OR 97214",
+    "addr:housenumber":"1170",
+    "addr:postcode":"97214",
+    "addr:street":"Se 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650612,45.514557,-122.650612,45.514557",
     "geom:latitude":45.514557,
     "geom:longitude":-122.650612,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790020317
         }
     ],
     "wof:id":790020317,
-    "wof:lastmodified":1466767659,
+    "wof:lastmodified":1486767216,
     "wof:name":"Specialty Rents & Events Inc",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

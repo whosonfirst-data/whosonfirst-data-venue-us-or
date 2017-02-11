@@ -2,9 +2,14 @@
   "id": 387380515,
   "type": "Feature",
   "properties": {
+    "addr:full":"1122 NE 107th Pl Portland OR 97220",
+    "addr:housenumber":"1122",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 107Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552307,45.531933,-122.552307,45.531933",
     "geom:latitude":45.531933,
     "geom:longitude":-122.552307,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"85dce4e36ebc5c4a8e35f63d66664731",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":387380515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":387380515
         }
     ],
     "wof:id":387380515,
-    "wof:lastmodified":1466772385,
+    "wof:lastmodified":1486770743,
     "wof:name":"Blasen Family LLC",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

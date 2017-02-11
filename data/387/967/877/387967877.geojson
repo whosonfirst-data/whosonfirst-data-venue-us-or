@@ -2,9 +2,14 @@
   "id": 387967877,
   "type": "Feature",
   "properties": {
+    "addr:full":"5307 NE 39th Ave Portland OR 97211",
+    "addr:housenumber":"5307",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623524,45.562733,-122.623524,45.562733",
     "geom:latitude":45.562733,
     "geom:longitude":-122.623524,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +55,20 @@
     "wof:geomhash":"ed3af5cec90c54afe6b871c66d164e60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":387967877
         }
     ],
     "wof:id":387967877,
-    "wof:lastmodified":1466775486,
+    "wof:lastmodified":1486771567,
     "wof:name":"Princess House Krystal",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

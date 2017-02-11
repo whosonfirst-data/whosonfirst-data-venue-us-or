@@ -2,9 +2,14 @@
   "id": 790260061,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 SE 90th Pl Portland OR 97266",
+    "addr:housenumber":"3125",
+    "addr:postcode":"97266",
+    "addr:street":"Se 90Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569703,45.500584,-122.569703,45.500584",
     "geom:latitude":45.500584,
     "geom:longitude":-122.569703,
@@ -43,12 +48,13 @@
     "sg:website":"http://www.alleagleroofing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +69,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790260061
         }
     ],
     "wof:id":790260061,
-    "wof:lastmodified":1466772534,
+    "wof:lastmodified":1486771910,
     "wof:name":"All Roofing Eagle Construction Services",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

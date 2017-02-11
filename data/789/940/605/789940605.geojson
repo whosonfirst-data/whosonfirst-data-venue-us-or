@@ -2,9 +2,14 @@
   "id": 789940605,
   "type": "Feature",
   "properties": {
+    "addr:full":"6701 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6701",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594245,45.488827,-122.594245,45.488827",
     "geom:latitude":45.488827,
     "geom:longitude":-122.594245,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789940605
         }
     ],
     "wof:id":789940605,
-    "wof:lastmodified":1466772269,
+    "wof:lastmodified":1486771641,
     "wof:name":"Studio 2 Tattoo",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

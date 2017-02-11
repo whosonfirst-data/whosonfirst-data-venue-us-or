@@ -2,9 +2,14 @@
   "id": 370295103,
   "type": "Feature",
   "properties": {
+    "addr:full":"649 SE 141st Ave Portland OR 97233",
+    "addr:housenumber":"649",
+    "addr:postcode":"97233",
+    "addr:street":"Se 141St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.518485,45.515654,-122.518485,45.515654",
     "geom:latitude":45.515654,
     "geom:longitude":-122.518485,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85868947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"ab49fe8c13549fb9e58927bb1a859857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":370295103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":370295103
         }
     ],
     "wof:id":370295103,
-    "wof:lastmodified":1466769734,
+    "wof:lastmodified":1486770771,
     "wof:name":"Tmk Industrial Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

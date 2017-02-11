@@ -2,9 +2,14 @@
   "id": 371146585,
   "type": "Feature",
   "properties": {
+    "addr:full":"7225 SW Burlingame Ave Portland OR 97219",
+    "addr:housenumber":"7225",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Burlingame Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687675,45.473417,-122.687675,45.473417",
     "geom:latitude":45.473417,
     "geom:longitude":-122.687675,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85808507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"560c7817e080061288ac5f661f186f94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85808507,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":371146585
         }
     ],
     "wof:id":371146585,
-    "wof:lastmodified":1466769642,
+    "wof:lastmodified":1486769432,
     "wof:name":"Susan E Jewell",
-    "wof:parent_id":85808507,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

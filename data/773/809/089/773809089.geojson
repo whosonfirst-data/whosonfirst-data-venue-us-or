@@ -2,9 +2,14 @@
   "id": 773809089,
   "type": "Feature",
   "properties": {
+    "addr:full":"2304 N Killingsworth St Portland OR 97217",
+    "addr:housenumber":"2304",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690369,45.562722,-122.690369,45.562722",
     "geom:latitude":45.562722,
     "geom:longitude":-122.690369,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.advancedfinishing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773809089
         }
     ],
     "wof:id":773809089,
-    "wof:lastmodified":1466776031,
+    "wof:lastmodified":1486766112,
     "wof:name":"Advanced Finishing Systems",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790052421,
   "type": "Feature",
   "properties": {
+    "addr:full":"4810 N Lagoon Ave Portland OR 97217",
+    "addr:housenumber":"4810",
+    "addr:postcode":"97217",
+    "addr:street":"N Lagoon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70321,45.557895,-122.70321,45.557895",
     "geom:latitude":45.557895,
     "geom:longitude":-122.70321,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.portdecor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790052421
         }
     ],
     "wof:id":790052421,
-    "wof:lastmodified":1466768114,
+    "wof:lastmodified":1486766043,
     "wof:name":"Port Decor",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

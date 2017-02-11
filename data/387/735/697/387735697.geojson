@@ -2,9 +2,14 @@
   "id": 387735697,
   "type": "Feature",
   "properties": {
+    "addr:full":"5922 N Moore Ave Portland OR 97217",
+    "addr:housenumber":"5922",
+    "addr:postcode":"97217",
+    "addr:street":"N Moore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66789,45.565646,-122.66789,45.565646",
     "geom:latitude":45.565646,
     "geom:longitude":-122.66789,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"7ce1e8da08dce163bd600474f82de3a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387735697
         }
     ],
     "wof:id":387735697,
-    "wof:lastmodified":1466774606,
+    "wof:lastmodified":1486771742,
     "wof:name":"ARA Construction",
-    "wof:parent_id":85841531,
+    "wof:parent_id":85893195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

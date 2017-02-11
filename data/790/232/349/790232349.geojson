@@ -2,9 +2,14 @@
   "id": 790232349,
   "type": "Feature",
   "properties": {
+    "addr:full":"8243 SE Pineridge Ct Portland OR 97236",
+    "addr:housenumber":"8243",
+    "addr:postcode":"97236",
+    "addr:street":"Se Pineridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.520496,45.463168,-122.520496,45.463168",
     "geom:latitude":45.463168,
     "geom:longitude":-122.520496,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790232349
         }
     ],
     "wof:id":790232349,
-    "wof:lastmodified":1466772174,
+    "wof:lastmodified":1486772197,
     "wof:name":"Princess And The Toads",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

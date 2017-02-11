@@ -2,9 +2,14 @@
   "id": 387313477,
   "type": "Feature",
   "properties": {
+    "addr:full":"13235 NE Failing Ct Portland OR 97230",
+    "addr:housenumber":"13235",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Failing Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.526051,45.551532,-122.526051,45.551532",
     "geom:latitude":45.551532,
     "geom:longitude":-122.526051,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"9f7b35561e61c246ee8afe8b8a9d8aa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":387313477
         }
     ],
     "wof:id":387313477,
-    "wof:lastmodified":1466771987,
+    "wof:lastmodified":1486771479,
     "wof:name":"Quality Touch Co",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

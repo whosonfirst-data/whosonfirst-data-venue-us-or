@@ -2,9 +2,14 @@
   "id": 354407675,
   "type": "Feature",
   "properties": {
+    "addr:full":"10941 NE Halsey St Portland OR 97220",
+    "addr:housenumber":"10941",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549408,45.533548,-122.549408,45.533548",
     "geom:latitude":45.533548,
     "geom:longitude":-122.549408,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"8d971743c6e986bf5bec8df77cac7a2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":354407675
         }
     ],
     "wof:id":354407675,
-    "wof:lastmodified":1466767139,
+    "wof:lastmodified":1486768524,
     "wof:name":"Gateway Radio & TV",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

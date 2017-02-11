@@ -2,9 +2,14 @@
   "id": 387239093,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 SW Morrison St Portland OR 97204",
+    "addr:housenumber":"50",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673241,45.517528,-122.673241,45.517528",
     "geom:latitude":45.517528,
     "geom:longitude":-122.673241,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ebb234765a5e1ab8c62fe7c734d9ffbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387239093
         }
     ],
     "wof:id":387239093,
-    "wof:lastmodified":1466771551,
+    "wof:lastmodified":1486764831,
     "wof:name":"Automatedtech Machines",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

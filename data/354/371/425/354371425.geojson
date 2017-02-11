@@ -2,9 +2,14 @@
   "id": 354371425,
   "type": "Feature",
   "properties": {
+    "addr:full":"2922 NW Pinnacle Dr Portland OR 97229",
+    "addr:housenumber":"2922",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Pinnacle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.763072,45.542438,-122.763072,45.542438",
     "geom:latitude":45.542438,
     "geom:longitude":-122.763072,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f1efb2441dd2ef8ed50517f33b54337c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":354371425
         }
     ],
     "wof:id":354371425,
-    "wof:lastmodified":1466770791,
+    "wof:lastmodified":1486763549,
     "wof:name":"Cma & Assoc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

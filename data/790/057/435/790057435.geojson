@@ -2,9 +2,14 @@
   "id": 790057435,
   "type": "Feature",
   "properties": {
+    "addr:full":"6823 N Missouri Ave Portland OR 97217",
+    "addr:housenumber":"6823",
+    "addr:postcode":"97217",
+    "addr:street":"N Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677688,45.571942,-122.677688,45.571942",
     "geom:latitude":45.571942,
     "geom:longitude":-122.677688,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790057435
         }
     ],
     "wof:id":790057435,
-    "wof:lastmodified":1466768231,
+    "wof:lastmodified":1486769700,
     "wof:name":"Inner City Steppers",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387689713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3930 SW Macadam Ave Portland OR 97219",
+    "addr:housenumber":"3930",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Macadam Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67289,45.494532,-122.67289,45.494532",
     "geom:latitude":45.494532,
     "geom:longitude":-122.67289,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"d30357fe46baf374bff1ff02fc75d561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":387689713
         }
     ],
     "wof:id":387689713,
-    "wof:lastmodified":1466774421,
+    "wof:lastmodified":1486773567,
     "wof:name":"Ohsu",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

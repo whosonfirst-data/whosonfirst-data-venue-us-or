@@ -2,9 +2,14 @@
   "id": 790068467,
   "type": "Feature",
   "properties": {
+    "addr:full":"5838 NE Columbia Blvd Portland OR 97218",
+    "addr:housenumber":"5838",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.60166,45.568949,-122.60166,45.568949",
     "geom:latitude":45.568949,
     "geom:longitude":-122.60166,
@@ -32,12 +37,13 @@
     "sg:website":"http://www-davey-com.netsolads.com/home/local-arborist/portland-oregon.aspx?_nsag=45588",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790068467
         }
     ],
     "wof:id":790068467,
-    "wof:lastmodified":1466768508,
+    "wof:lastmodified":1486771586,
     "wof:name":"The Davey Tree Expert Company",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

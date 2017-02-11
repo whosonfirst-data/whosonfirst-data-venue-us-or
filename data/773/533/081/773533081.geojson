@@ -2,9 +2,14 @@
   "id": 773533081,
   "type": "Feature",
   "properties": {
+    "addr:full":"4417 SW Vermont St Portland OR 97219",
+    "addr:housenumber":"4417",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Vermont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722266,45.476298,-122.722266,45.476298",
     "geom:latitude":45.476298,
     "geom:longitude":-122.722266,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773533081
         }
     ],
     "wof:id":773533081,
-    "wof:lastmodified":1466775130,
+    "wof:lastmodified":1486771050,
     "wof:name":"Multnomah Chiropractic Clinic",
-    "wof:parent_id":85853645,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773339249,
   "type": "Feature",
   "properties": {
+    "addr:full":"6261 SW 47th Pl Portland OR 97221",
+    "addr:housenumber":"6261",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 47Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.727323,45.476891,-122.727323,45.476891",
     "geom:latitude":45.476891,
     "geom:longitude":-122.727323,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773339249
         }
     ],
     "wof:id":773339249,
-    "wof:lastmodified":1466773398,
+    "wof:lastmodified":1486774195,
     "wof:name":"Smyth Marita Envmtl Conslt",
-    "wof:parent_id":85853645,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

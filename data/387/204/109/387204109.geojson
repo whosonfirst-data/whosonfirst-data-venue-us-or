@@ -2,9 +2,14 @@
   "id": 387204109,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 SW Broadway Portland OR 97205",
+    "addr:housenumber":"326",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678401,45.521496,-122.678401,45.521496",
     "geom:latitude":45.521496,
     "geom:longitude":-122.678401,
@@ -36,11 +41,13 @@
     "sg:website":"www.tripwire.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +57,20 @@
     "wof:geomhash":"718c563b1ac1016b2abd40e492ee6e42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387204109
         }
     ],
     "wof:id":387204109,
-    "wof:lastmodified":1466770871,
+    "wof:lastmodified":1486770135,
     "wof:name":"Tripwire Security Systems",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

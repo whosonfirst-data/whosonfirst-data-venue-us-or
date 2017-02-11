@@ -2,9 +2,14 @@
   "id": 370595551,
   "type": "Feature",
   "properties": {
+    "addr:full":"7115 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"7115",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647647,45.472665,-122.647647,45.472665",
     "geom:latitude":45.472665,
     "geom:longitude":-122.647647,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"54ed9bd76e5be156f22a41777d0ccb7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370595551
         }
     ],
     "wof:id":370595551,
-    "wof:lastmodified":1466773007,
+    "wof:lastmodified":1486770515,
     "wof:name":"Russells Handyman Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

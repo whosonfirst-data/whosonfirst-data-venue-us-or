@@ -2,9 +2,14 @@
   "id": 789854941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2032 SE Clinton Portland OR 97202",
+    "addr:housenumber":"2032",
+    "addr:postcode":"97202",
+    "addr:street":"Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64493,45.503181,-122.64493,45.503181",
     "geom:latitude":45.503181,
     "geom:longitude":-122.64493,
@@ -24,12 +29,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789854941
         }
     ],
     "wof:id":789854941,
-    "wof:lastmodified":1466770693,
+    "wof:lastmodified":1486771735,
     "wof:name":"Compote",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

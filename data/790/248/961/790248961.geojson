@@ -2,9 +2,14 @@
   "id": 790248961,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 NW Davis St Portland OR 97253",
+    "addr:housenumber":"212",
+    "addr:postcode":"97253",
+    "addr:street":"Nw Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672551,45.524565,-122.672551,45.524565",
     "geom:latitude":45.524565,
     "geom:longitude":-122.672551,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":790248961
         }
     ],
     "wof:id":790248961,
-    "wof:lastmodified":1466772658,
+    "wof:lastmodified":1486763216,
     "wof:name":"Old Town Gelato",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

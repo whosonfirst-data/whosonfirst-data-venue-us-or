@@ -2,9 +2,14 @@
   "id": 354334911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2742 NE Dekum St Portland OR 97211",
+    "addr:housenumber":"2742",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Dekum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636305,45.571804,-122.636305,45.571804",
     "geom:latitude":45.571804,
     "geom:longitude":-122.636305,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"2982b2a1b41047f1da9ae07d892885c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":354334911
         }
     ],
     "wof:id":354334911,
-    "wof:lastmodified":1466770037,
+    "wof:lastmodified":1486771564,
     "wof:name":"Maucy LLC Cleaning Svc",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

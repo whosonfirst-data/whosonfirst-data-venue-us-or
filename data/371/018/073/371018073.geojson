@@ -2,9 +2,14 @@
   "id": 371018073,
   "type": "Feature",
   "properties": {
+    "addr:full":"6422 NE 25th Ave Portland OR 97211",
+    "addr:housenumber":"6422",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 25Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640201,45.570348,-122.640201,45.570348",
     "geom:latitude":45.570348,
     "geom:longitude":-122.640201,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"2ccdebd7c82f3fdfa85568fc1a485edb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":371018073
         }
     ],
     "wof:id":371018073,
-    "wof:lastmodified":1466767445,
+    "wof:lastmodified":1486771561,
     "wof:name":"Rennie Produce Co",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

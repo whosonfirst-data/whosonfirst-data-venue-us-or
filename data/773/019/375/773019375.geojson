@@ -2,9 +2,14 @@
   "id": 773019375,
   "type": "Feature",
   "properties": {
+    "addr:full":"3605 SE 22nd Ave Portland OR 97202",
+    "addr:housenumber":"3605",
+    "addr:postcode":"97202",
+    "addr:street":"Se 22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643569,45.496317,-122.643569,45.496317",
     "geom:latitude":45.496317,
     "geom:longitude":-122.643569,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":773019375
         }
     ],
     "wof:id":773019375,
-    "wof:lastmodified":1466770237,
+    "wof:lastmodified":1486767093,
     "wof:name":"Portland Cremation Center Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

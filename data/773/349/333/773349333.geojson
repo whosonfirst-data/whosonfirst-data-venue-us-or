@@ -2,9 +2,14 @@
   "id": 773349333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1046 SW Palatine St Portland OR 97219",
+    "addr:housenumber":"1046",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Palatine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695154,45.444354,-122.695154,45.444354",
     "geom:latitude":45.444354,
     "geom:longitude":-122.695154,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
             "region_id":85688513,
             "venue_id":773349333
         }
     ],
     "wof:id":773349333,
-    "wof:lastmodified":1466773466,
+    "wof:lastmodified":1486772259,
     "wof:name":"Indigo Endeavors Incorporated",
-    "wof:parent_id":85818135,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

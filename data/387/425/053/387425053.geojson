@@ -2,9 +2,14 @@
   "id": 387425053,
   "type": "Feature",
   "properties": {
+    "addr:full":"5312 NE 27th Ave Portland OR 97211",
+    "addr:housenumber":"5312",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637858,45.562697,-122.637858,45.562697",
     "geom:latitude":45.562697,
     "geom:longitude":-122.637858,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"8b009095be3ac0b06fc75bd844d25db0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":387425053
         }
     ],
     "wof:id":387425053,
-    "wof:lastmodified":1466772630,
+    "wof:lastmodified":1486771572,
     "wof:name":"Doras Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790072795,
   "type": "Feature",
   "properties": {
+    "addr:full":"9912 SW Quail Post Rd Portland OR 97219",
+    "addr:housenumber":"9912",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Quail Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704957,45.453294,-122.704957,45.453294",
     "geom:latitude":45.453294,
     "geom:longitude":-122.704957,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":790072795
         }
     ],
     "wof:id":790072795,
-    "wof:lastmodified":1466768612,
+    "wof:lastmodified":1486770989,
     "wof:name":"Citywide Locksmith",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

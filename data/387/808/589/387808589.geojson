@@ -2,9 +2,14 @@
   "id": 387808589,
   "type": "Feature",
   "properties": {
+    "addr:full":"9635 NW Bartholomew Dr Portland OR 97229",
+    "addr:housenumber":"9635",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Bartholomew Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.777524,45.538787,-122.777524,45.538787",
     "geom:latitude":45.538787,
     "geom:longitude":-122.777524,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"4c6f238071070e7a8209dea2e3f0ca77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":387808589
         }
     ],
     "wof:id":387808589,
-    "wof:lastmodified":1466775027,
+    "wof:lastmodified":1486763452,
     "wof:name":"Reed Mk Marketing",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

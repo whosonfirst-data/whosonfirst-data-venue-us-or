@@ -2,9 +2,14 @@
   "id": 789895997,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Southwest Salmon Street 11th Floor Portland OR 97204",
+    "addr:housenumber":"121;11th",
+    "addr:postcode":"97204",
+    "addr:street":"Southwest Salmon Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674893,45.5158,-122.674893,45.5158",
     "geom:latitude":45.5158,
     "geom:longitude":-122.674893,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.digitalreporting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789895997
         }
     ],
     "wof:id":789895997,
-    "wof:lastmodified":1466771750,
+    "wof:lastmodified":1486763891,
     "wof:name":"Digital Court Reporting and Video, LLC.",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

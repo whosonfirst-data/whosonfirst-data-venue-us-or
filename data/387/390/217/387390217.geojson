@@ -2,9 +2,14 @@
   "id": 387390217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2376 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2376",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700467,45.535389,-122.700467,45.535389",
     "geom:latitude":45.535389,
     "geom:longitude":-122.700467,
@@ -38,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +59,18 @@
     "wof:geomhash":"247fdc275813d58954020069c04cdf48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387390217
         }
     ],
     "wof:id":387390217,
-    "wof:lastmodified":1466772531,
+    "wof:lastmodified":1486763527,
     "wof:name":"Schmeer Sheet Metal Works Inc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

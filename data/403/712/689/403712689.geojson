@@ -2,9 +2,14 @@
   "id": 403712689,
   "type": "Feature",
   "properties": {
+    "addr:full":"12480 NE Marx St Portland OR 97230",
+    "addr:housenumber":"12480",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marx St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534399,45.558768,-122.534399,45.558768",
     "geom:latitude":45.558768,
     "geom:longitude":-122.534399,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"1d85c1fdf29a2520fa73c59080b41989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":403712689
         }
     ],
     "wof:id":403712689,
-    "wof:lastmodified":1466767999,
+    "wof:lastmodified":1486771481,
     "wof:name":"N I Logistics American Corp",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

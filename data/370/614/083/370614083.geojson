@@ -2,9 +2,14 @@
   "id": 370614083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 SW Dolph St Portland OR 97219",
+    "addr:housenumber":"1423",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Dolph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69505,45.462199,-122.69505,45.462199",
     "geom:latitude":45.462199,
     "geom:longitude":-122.69505,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"97bad1e8f75721d73d433ce88f1ed5d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":370614083
         }
     ],
     "wof:id":370614083,
-    "wof:lastmodified":1466772982,
+    "wof:lastmodified":1486770986,
     "wof:name":"Priority Systems Inc",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85871489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

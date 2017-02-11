@@ -2,9 +2,14 @@
   "id": 789953669,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 NW 4th Ave Portland OR 97209",
+    "addr:housenumber":"205",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674768,45.524744,-122.674768,45.524744",
     "geom:latitude":45.524744,
     "geom:longitude":-122.674768,
@@ -46,12 +51,13 @@
     "sg:website":"www.thecrownroom.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +72,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789953669
         }
     ],
     "wof:id":789953669,
-    "wof:lastmodified":1466772553,
+    "wof:lastmodified":1486763520,
     "wof:name":"The Crown Room",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

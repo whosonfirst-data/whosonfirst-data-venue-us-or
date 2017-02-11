@@ -2,9 +2,14 @@
   "id": 371054443,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 SW 2nd Ave Portland OR 97204",
+    "addr:housenumber":"601",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674477,45.518128,-122.674477,45.518128",
     "geom:latitude":45.518128,
     "geom:longitude":-122.674477,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"57b64db13c17bcc6b675b74c4f69ddbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":371054443
         }
     ],
     "wof:id":371054443,
-    "wof:lastmodified":1466768057,
+    "wof:lastmodified":1486769979,
     "wof:name":"Lane Powell Spears",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

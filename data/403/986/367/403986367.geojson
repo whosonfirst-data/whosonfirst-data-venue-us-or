@@ -2,9 +2,14 @@
   "id": 403986367,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 NW 13th Ave Portland OR 97209",
+    "addr:housenumber":"202",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684124,45.524366,-122.684124,45.524366",
     "geom:latitude":45.524366,
     "geom:longitude":-122.684124,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"cbfb828c9906badd75e98790aa2b2115",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":403986367
         }
     ],
     "wof:id":403986367,
-    "wof:lastmodified":1466768899,
+    "wof:lastmodified":1486770317,
     "wof:name":"Widney Moore Gallery",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

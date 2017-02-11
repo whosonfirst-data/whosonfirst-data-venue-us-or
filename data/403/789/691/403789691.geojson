@@ -2,9 +2,14 @@
   "id": 403789691,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 SW 17th Ave Portland OR 97201",
+    "addr:housenumber":"1310",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691567,45.517255,-122.691567,45.517255",
     "geom:latitude":45.517255,
     "geom:longitude":-122.691567,
@@ -26,11 +31,13 @@
     "sg:website":"www.coltonfettig.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"dcc18547c668c6bfb533e9443c762830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":403789691
         }
     ],
     "wof:id":403789691,
-    "wof:lastmodified":1466769483,
+    "wof:lastmodified":1486764896,
     "wof:name":"Colton Fettig Co LLC",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790054397,
   "type": "Feature",
   "properties": {
+    "addr:full":"6872 N Fathom Street Portland OR 97217",
+    "addr:housenumber":"6872",
+    "addr:postcode":"97217",
+    "addr:street":"N Fathom Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.7169,45.572391,-122.7169,45.572391",
     "geom:latitude":45.572391,
     "geom:longitude":-122.7169,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790054397
         }
     ],
     "wof:id":790054397,
-    "wof:lastmodified":1466768158,
+    "wof:lastmodified":1486771856,
     "wof:name":"Footwear Specialties Intl",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

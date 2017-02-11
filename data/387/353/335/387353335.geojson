@@ -2,9 +2,14 @@
   "id": 387353335,
   "type": "Feature",
   "properties": {
+    "addr:full":"2819 NE Irving St Portland OR 97232",
+    "addr:housenumber":"2819",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Irving St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636066,45.527971,-122.636066,45.527971",
     "geom:latitude":45.527971,
     "geom:longitude":-122.636066,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"bd52e95f7780c4d62bfd4e69e7434e8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":387353335
         }
     ],
     "wof:id":387353335,
-    "wof:lastmodified":1466772147,
+    "wof:lastmodified":1486771022,
     "wof:name":"Mwa Inc",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

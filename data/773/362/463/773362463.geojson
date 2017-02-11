@@ -2,9 +2,14 @@
   "id": 773362463,
   "type": "Feature",
   "properties": {
+    "addr:full":"8431 SE 36th Ave Portland OR 97222",
+    "addr:housenumber":"8431",
+    "addr:postcode":"97222",
+    "addr:street":"Se 36Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626352,45.461648,-122.626352,45.461648",
     "geom:latitude":45.461648,
     "geom:longitude":-122.626352,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803429
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85803429,
             "region_id":85688513,
             "venue_id":773362463
         }
     ],
     "wof:id":773362463,
-    "wof:lastmodified":1466773706,
+    "wof:lastmodified":1486769366,
     "wof:name":"Spell To Write & Read",
     "wof:parent_id":85803429,
     "wof:placetype":"venue",

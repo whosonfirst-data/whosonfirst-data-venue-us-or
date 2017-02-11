@@ -2,9 +2,14 @@
   "id": 387460735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3721 SE 79th Ave Portland OR 97206",
+    "addr:housenumber":"3721",
+    "addr:postcode":"97206",
+    "addr:street":"Se 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582621,45.496262,-122.582621,45.496262",
     "geom:latitude":45.496262,
     "geom:longitude":-122.582621,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"3e915d5579d7f5db231b5a6f1e0e84ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387460735
         }
     ],
     "wof:id":387460735,
-    "wof:lastmodified":1466772993,
+    "wof:lastmodified":1486766843,
     "wof:name":"YY&l Inc",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790234379,
   "type": "Feature",
   "properties": {
+    "addr:full":"17310 SE Naegeli Drive Apt 1 Portland OR 97236",
+    "addr:housenumber":"1",
+    "addr:postcode":"17310;97236",
+    "addr:street":"Se Naegeli Drive Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.485673,45.490472,-122.485673,45.490472",
     "geom:latitude":45.490472,
     "geom:longitude":-122.485673,
@@ -33,7 +38,11 @@
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +60,32 @@
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":790234379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790234379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":790234379
         }
     ],
     "wof:id":790234379,
-    "wof:lastmodified":1466772117,
+    "wof:lastmodified":1486772206,
     "wof:name":"Meadowland Apartments",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

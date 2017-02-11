@@ -2,9 +2,14 @@
   "id": 387695893,
   "type": "Feature",
   "properties": {
+    "addr:full":"3205 N Webster St Portland OR 97217",
+    "addr:housenumber":"3205",
+    "addr:postcode":"97217",
+    "addr:street":"N Webster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701675,45.560889,-122.701675,45.560889",
     "geom:latitude":45.560889,
     "geom:longitude":-122.701675,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"6a2e5b2b2be0bd7cd5f3b3276e8d7a1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387695893
         }
     ],
     "wof:id":387695893,
-    "wof:lastmodified":1466774345,
+    "wof:lastmodified":1486765830,
     "wof:name":"LTI Inc",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

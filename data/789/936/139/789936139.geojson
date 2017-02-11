@@ -2,9 +2,14 @@
   "id": 789936139,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 SE 42nd Ave Portland OR 97206",
+    "addr:housenumber":"5220",
+    "addr:postcode":"97206",
+    "addr:street":"Se 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619219,45.48526,-122.619219,45.48526",
     "geom:latitude":45.48526,
     "geom:longitude":-122.619219,
@@ -36,12 +41,13 @@
     "sg:website":"www.bigyogayoga.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789936139
         }
     ],
     "wof:id":789936139,
-    "wof:lastmodified":1466772370,
+    "wof:lastmodified":1486769931,
     "wof:name":"Big Yoga Yoga",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

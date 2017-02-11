@@ -2,9 +2,14 @@
   "id": 387253409,
   "type": "Feature",
   "properties": {
+    "addr:full":"3712 SE 76th Ave Portland OR 97206",
+    "addr:housenumber":"3712",
+    "addr:postcode":"97206",
+    "addr:street":"Se 76Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.584658,45.495368,-122.584658,45.495368",
     "geom:latitude":45.495368,
     "geom:longitude":-122.584658,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fdffec17e76ac7a552ce49f3711f1c6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387253409
         }
     ],
     "wof:id":387253409,
-    "wof:lastmodified":1466771509,
+    "wof:lastmodified":1486766558,
     "wof:name":"A Woman's Way Midwifery Svc",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

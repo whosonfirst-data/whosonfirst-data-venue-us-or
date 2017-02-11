@@ -2,9 +2,14 @@
   "id": 790189219,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"555",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537727,45.52687,-122.537727,45.52687",
     "geom:latitude":45.52687,
     "geom:longitude":-122.537727,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.oreillyauto.com?utm_source=yellowpages&utm_medium=iyp&utm_campaign=2950",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790189219
         }
     ],
     "wof:id":790189219,
-    "wof:lastmodified":1466771347,
+    "wof:lastmodified":1486770752,
     "wof:name":"Schuck's O'Reilly Auto Parts",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

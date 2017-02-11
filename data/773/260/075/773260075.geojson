@@ -2,9 +2,14 @@
   "id": 773260075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1746 NW 31st Ave Portland OR 97210",
+    "addr:housenumber":"1746",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713559,45.534976,-122.713559,45.534976",
     "geom:latitude":45.534976,
     "geom:longitude":-122.713559,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":773260075
         }
     ],
     "wof:id":773260075,
-    "wof:lastmodified":1466772208,
+    "wof:lastmodified":1486772189,
     "wof:name":"Trusec Solutions",
-    "wof:parent_id":85857791,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

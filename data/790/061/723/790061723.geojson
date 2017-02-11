@@ -2,9 +2,14 @@
   "id": 790061723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 N Kilpatrick Street Portland OR 97217",
+    "addr:housenumber":"1926",
+    "addr:postcode":"97217",
+    "addr:street":"N Kilpatrick Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686752,45.582507,-122.686752,45.582507",
     "geom:latitude":45.582507,
     "geom:longitude":-122.686752,
@@ -26,12 +31,13 @@
     "sg:website":"www.laborready.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":790061723
         }
     ],
     "wof:id":790061723,
-    "wof:lastmodified":1466768320,
+    "wof:lastmodified":1486769505,
     "wof:name":"Labor Ready",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

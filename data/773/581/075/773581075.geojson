@@ -2,9 +2,14 @@
   "id": 773581075,
   "type": "Feature",
   "properties": {
+    "addr:full":"5725 SE 117th Ave Portland OR 97266",
+    "addr:housenumber":"5725",
+    "addr:postcode":"97266",
+    "addr:street":"Se 117Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.543037,45.480016,-122.543037,45.480016",
     "geom:latitude":45.480016,
     "geom:longitude":-122.543037,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773581075
         }
     ],
     "wof:id":773581075,
-    "wof:lastmodified":1466775373,
+    "wof:lastmodified":1486771956,
     "wof:name":"Johnnys Trucking Co",
-    "wof:parent_id":85830297,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

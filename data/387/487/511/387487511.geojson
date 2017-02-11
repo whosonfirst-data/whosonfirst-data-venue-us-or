@@ -2,9 +2,14 @@
   "id": 387487511,
   "type": "Feature",
   "properties": {
+    "addr:full":"5920 NW Saltzman Rd Portland OR 97210",
+    "addr:housenumber":"5920",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saltzman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752053,45.565886,-122.752053,45.565886",
     "geom:latitude":45.565886,
     "geom:longitude":-122.752053,
@@ -33,11 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513,
+        85830793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +55,30 @@
     "wof:geomhash":"78eb4246949ee851a115f7028731862a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
+            "region_id":85688513,
+            "venue_id":387487511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":387487511
         }
     ],
     "wof:id":387487511,
-    "wof:lastmodified":1466773159,
+    "wof:lastmodified":1486772189,
     "wof:name":"Beaver State Scaffolding Equip",
-    "wof:parent_id":85857801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

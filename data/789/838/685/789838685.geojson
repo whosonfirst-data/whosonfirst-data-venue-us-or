@@ -2,9 +2,14 @@
   "id": 789838685,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 SW Moody Ave Ste 270 Portland OR 97201",
+    "addr:housenumber":"3030",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Moody Ave Ste 270",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671493,45.500335,-122.671493,45.500335",
     "geom:latitude":45.500335,
     "geom:longitude":-122.671493,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789838685
         }
     ],
     "wof:id":789838685,
-    "wof:lastmodified":1466770026,
+    "wof:lastmodified":1486773565,
     "wof:name":"Obie Media Corp",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

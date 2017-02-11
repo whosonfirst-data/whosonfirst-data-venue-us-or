@@ -2,9 +2,14 @@
   "id": 790238711,
   "type": "Feature",
   "properties": {
+    "addr:full":"5520 Sw Macadam Ave Ste 270 Portland OR 97239",
+    "addr:housenumber":"5520",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Ave Ste 270",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674043,45.483114,-122.674043,45.483114",
     "geom:latitude":45.483114,
     "geom:longitude":-122.674043,
@@ -26,12 +31,14 @@
     "sg:website":"www.tcs-insurance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790238711
         }
     ],
     "wof:id":790238711,
-    "wof:lastmodified":1466772202,
+    "wof:lastmodified":1486773586,
     "wof:name":"TCS Northwest",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370528067,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 N Lagoon Ave Portland OR 97217",
+    "addr:housenumber":"5001",
+    "addr:postcode":"97217",
+    "addr:street":"N Lagoon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.7081,45.560539,-122.7081,45.560539",
     "geom:latitude":45.560539,
     "geom:longitude":-122.7081,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c3d3521c74b96108da2e90a4d4ecb884",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370528067
         }
     ],
     "wof:id":370528067,
-    "wof:lastmodified":1466772524,
+    "wof:lastmodified":1486766107,
     "wof:name":"Canteen Vending Svc",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

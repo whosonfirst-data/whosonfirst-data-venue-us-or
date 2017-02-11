@@ -2,9 +2,14 @@
   "id": 773100177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 SE Stark St Portland OR 97214",
+    "addr:housenumber":"1410",
+    "addr:postcode":"97214",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651227,45.51926,-122.651227,45.51926",
     "geom:latitude":45.51926,
     "geom:longitude":-122.651227,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871515,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773100177
         }
     ],
     "wof:id":773100177,
-    "wof:lastmodified":1466768087,
+    "wof:lastmodified":1486773393,
     "wof:name":"Salon Lumina",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

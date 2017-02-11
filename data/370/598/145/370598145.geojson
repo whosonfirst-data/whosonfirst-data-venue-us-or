@@ -2,9 +2,14 @@
   "id": 370598145,
   "type": "Feature",
   "properties": {
+    "addr:full":"4621 SW Kelly Ave Portland OR 97239",
+    "addr:housenumber":"4621",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Kelly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6747,45.490247,-122.6747,45.490247",
     "geom:latitude":45.490247,
     "geom:longitude":-122.6747,
@@ -31,11 +36,14 @@
     "sg:website":"www.ancilnance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"315836e2c9eccd00ebaf1e1927ed3919",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":370598145
         }
     ],
     "wof:id":370598145,
-    "wof:lastmodified":1466772896,
+    "wof:lastmodified":1486773598,
     "wof:name":"Nance Ancil Photographs",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

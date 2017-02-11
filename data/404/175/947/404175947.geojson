@@ -2,9 +2,14 @@
   "id": 404175947,
   "type": "Feature",
   "properties": {
+    "addr:full":"5436 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"5436",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57887,45.483071,-122.57887,45.483071",
     "geom:latitude":45.483071,
     "geom:longitude":-122.57887,
@@ -32,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893209
     ],
     "wof:breaches":[],
@@ -46,19 +54,30 @@
     "wof:geomhash":"a7ec60bb93b87d48f764c39bf746555c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":404175947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":404175947
         }
     ],
     "wof:id":404175947,
-    "wof:lastmodified":1466767693,
+    "wof:lastmodified":1486769541,
     "wof:name":"Instaprint",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

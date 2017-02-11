@@ -2,9 +2,14 @@
   "id": 789969995,
   "type": "Feature",
   "properties": {
+    "addr:full":"2131 NW Kearney Street Portland OR 97210",
+    "addr:housenumber":"2131",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Kearney Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695536,45.529027,-122.695536,45.529027",
     "geom:latitude":45.529027,
     "geom:longitude":-122.695536,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789969995
         }
     ],
     "wof:id":789969995,
-    "wof:lastmodified":1466772676,
+    "wof:lastmodified":1486773787,
     "wof:name":"Zenner Meats",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

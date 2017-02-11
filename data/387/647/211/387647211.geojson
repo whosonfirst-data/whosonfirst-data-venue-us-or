@@ -2,9 +2,14 @@
   "id": 387647211,
   "type": "Feature",
   "properties": {
+    "addr:full":"6216 SE Stephens St Portland OR 97215",
+    "addr:housenumber":"6216",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stephens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.599335,45.509355,-122.599335,45.509355",
     "geom:latitude":45.509355,
     "geom:longitude":-122.599335,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,20 @@
     "wof:geomhash":"7012cc22b171cc4c328f4747c5137894",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
-            "region_id":85688513,
-            "venue_id":387647211
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":387647211
         }
     ],
     "wof:id":387647211,
-    "wof:lastmodified":1466774194,
+    "wof:lastmodified":1486771817,
     "wof:name":"Frances Michaelson Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

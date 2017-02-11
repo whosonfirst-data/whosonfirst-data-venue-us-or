@@ -2,9 +2,14 @@
   "id": 370166115,
   "type": "Feature",
   "properties": {
+    "addr:full":"4709 NE 148th Ave Portland OR 97230",
+    "addr:housenumber":"4709",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510274,45.559154,-122.510274,45.559154",
     "geom:latitude":45.559154,
     "geom:longitude":-122.510274,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"09a5f65413f969d0b95f56fbcae9c9d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":370166115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":370166115
         }
     ],
     "wof:id":370166115,
-    "wof:lastmodified":1466767442,
+    "wof:lastmodified":1486772081,
     "wof:name":"Northwest Mobile Home Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789872487,
   "type": "Feature",
   "properties": {
+    "addr:full":"6313 N Lombard Street Portland OR 97203",
+    "addr:housenumber":"6313",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.731257,45.585117,-122.731257,45.585117",
     "geom:latitude":45.585117,
     "geom:longitude":-122.731257,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":789872487
         }
     ],
     "wof:id":789872487,
-    "wof:lastmodified":1466771361,
+    "wof:lastmodified":1486765955,
     "wof:name":"Steiner Construction & Cabinets",
     "wof:parent_id":85893225,
     "wof:placetype":"venue",

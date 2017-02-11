@@ -2,9 +2,14 @@
   "id": 773424087,
   "type": "Feature",
   "properties": {
+    "addr:full":"8610 SW 17th Ave Portland OR 97219",
+    "addr:housenumber":"8610",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695088,45.462193,-122.695088,45.462193",
     "geom:latitude":45.462193,
     "geom:longitude":-122.695088,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":773424087
         }
     ],
     "wof:id":773424087,
-    "wof:lastmodified":1466774307,
+    "wof:lastmodified":1486770986,
     "wof:name":"YWCA Yolanda House",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85871489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

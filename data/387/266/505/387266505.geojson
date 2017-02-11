@@ -2,9 +2,14 @@
   "id": 387266505,
   "type": "Feature",
   "properties": {
+    "addr:full":"258 NW Skyline Blvd Portland OR 97210",
+    "addr:housenumber":"258",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.739089,45.520236,-122.739089,45.520236",
     "geom:latitude":45.520236,
     "geom:longitude":-122.739089,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893251,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85851719,
+        1108714057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +51,30 @@
     "wof:geomhash":"861bdc1f29b0496d1189bda358636ecb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893251,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":387266505
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":387266505
         }
     ],
     "wof:id":387266505,
-    "wof:lastmodified":1466771538,
+    "wof:lastmodified":1486772186,
     "wof:name":"Timmerman Realty Advisors LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

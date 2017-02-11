@@ -2,9 +2,14 @@
   "id": 773474827,
   "type": "Feature",
   "properties": {
+    "addr:full":"5116 SW 19th Dr Portland OR 97239",
+    "addr:housenumber":"5116",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 19Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697567,45.485694,-122.697567,45.485694",
     "geom:latitude":45.485694,
     "geom:longitude":-122.697567,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":773474827
         }
     ],
     "wof:id":773474827,
-    "wof:lastmodified":1466774789,
+    "wof:lastmodified":1486769436,
     "wof:name":"Seymour Ventures",
-    "wof:parent_id":85847775,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790201993,
   "type": "Feature",
   "properties": {
+    "addr:full":"13728 NW Glendoveer Dr Portland OR 97231",
+    "addr:housenumber":"13728",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Glendoveer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.819097,45.596168,-122.819097,45.596168",
     "geom:latitude":45.596168,
     "geom:longitude":-122.819097,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":790201993
         }
     ],
     "wof:id":790201993,
-    "wof:lastmodified":1466771578,
+    "wof:lastmodified":1486772193,
     "wof:name":"Appraisal Group Of America",
-    "wof:parent_id":85868975,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

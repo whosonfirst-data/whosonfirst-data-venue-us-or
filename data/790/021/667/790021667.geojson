@@ -2,9 +2,14 @@
   "id": 790021667,
   "type": "Feature",
   "properties": {
+    "addr:full":"722 E Burnside Portland OR 97214",
+    "addr:housenumber":"722",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657978,45.52274,-122.657978,45.52274",
     "geom:latitude":45.52274,
     "geom:longitude":-122.657978,
@@ -28,12 +33,14 @@
     "sg:website":"www.theroyalteaseburlesque.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717813,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108717813,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790021667
         }
     ],
     "wof:id":790021667,
-    "wof:lastmodified":1466767680,
+    "wof:lastmodified":1486773716,
     "wof:name":"The Royal Tease Burlesque",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108717813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

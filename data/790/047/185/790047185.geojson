@@ -2,9 +2,14 @@
   "id": 790047185,
   "type": "Feature",
   "properties": {
+    "addr:full":"11730 SE Main St Portland OR 97216",
+    "addr:housenumber":"11730",
+    "addr:postcode":"97216",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542685,45.514082,-122.542685,45.514082",
     "geom:latitude":45.514082,
     "geom:longitude":-122.542685,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790047185
         }
     ],
     "wof:id":790047185,
-    "wof:lastmodified":1466767988,
+    "wof:lastmodified":1486772232,
     "wof:name":"Pinzon House Painting",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

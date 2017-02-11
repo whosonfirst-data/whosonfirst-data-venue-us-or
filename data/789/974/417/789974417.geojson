@@ -2,9 +2,14 @@
   "id": 789974417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 NW Lovejoy Street Portland OR 97210",
+    "addr:housenumber":"2222",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Lovejoy Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697035,45.529803,-122.697035,45.529803",
     "geom:latitude":45.529803,
     "geom:longitude":-122.697035,
@@ -29,12 +34,14 @@
     "sg:website":"www.oregonclinic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789974417
         }
     ],
     "wof:id":789974417,
-    "wof:lastmodified":1466772752,
+    "wof:lastmodified":1486773760,
     "wof:name":"Oregon Wellness Clinic",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

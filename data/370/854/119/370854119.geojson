@@ -2,9 +2,14 @@
   "id": 370854119,
   "type": "Feature",
   "properties": {
+    "addr:full":"2618 SE Steele St Portland OR 97202",
+    "addr:housenumber":"2618",
+    "addr:postcode":"97202",
+    "addr:street":"Se Steele St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637648,45.484681,-122.637648,45.484681",
     "geom:latitude":45.484681,
     "geom:longitude":-122.637648,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"38ea3d3e3152cb8122716ec20d863eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":370854119
         }
     ],
     "wof:id":370854119,
-    "wof:lastmodified":1466774434,
+    "wof:lastmodified":1486767061,
     "wof:name":"NW Cars",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

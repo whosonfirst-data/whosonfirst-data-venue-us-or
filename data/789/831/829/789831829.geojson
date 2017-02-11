@@ -2,9 +2,14 @@
   "id": 789831829,
   "type": "Feature",
   "properties": {
+    "addr:full":"6327C SW Capital Hwy #263 Portland OR 97201",
+    "addr:housenumber":"6327c",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Capital Hwy # 263",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695091,45.478433,-122.695091,45.478433",
     "geom:latitude":45.478433,
     "geom:longitude":-122.695091,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":789831829
         }
     ],
     "wof:id":789831829,
-    "wof:lastmodified":1466769756,
+    "wof:lastmodified":1486769424,
     "wof:name":"America's Hub World Tours",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

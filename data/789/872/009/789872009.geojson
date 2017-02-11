@@ -2,9 +2,14 @@
   "id": 789872009,
   "type": "Feature",
   "properties": {
+    "addr:full":"7654 N Crawford Street Portland OR 97203",
+    "addr:housenumber":"7654",
+    "addr:postcode":"97203",
+    "addr:street":"N Crawford Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.748512,45.5828,-122.748512,45.5828",
     "geom:latitude":45.5828,
     "geom:longitude":-122.748512,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721333,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +52,20 @@
     "wof:geomhash":"0208c12eed2c7ece89b8ec86c0ab57c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
             "region_id":85688513,
             "venue_id":789872009
         }
     ],
     "wof:id":789872009,
-    "wof:lastmodified":1466771343,
+    "wof:lastmodified":1486772389,
     "wof:name":"Open Meadow Alternative Schools -High School",
-    "wof:parent_id":85830793,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

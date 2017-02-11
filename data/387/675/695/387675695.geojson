@@ -2,9 +2,14 @@
   "id": 387675695,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 SW Morrison St Portland OR 97204",
+    "addr:housenumber":"413",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677465,45.518837,-122.677465,45.518837",
     "geom:latitude":45.518837,
     "geom:longitude":-122.677465,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"73143ef564f8576b983facae8dd440c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387675695
         }
     ],
     "wof:id":387675695,
-    "wof:lastmodified":1466774366,
+    "wof:lastmodified":1486770083,
     "wof:name":"Cathy Jean",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

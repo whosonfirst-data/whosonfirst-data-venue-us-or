@@ -2,9 +2,14 @@
   "id": 790097973,
   "type": "Feature",
   "properties": {
+    "addr:full":"7505 NE Ambassador Pl Ste A Portland OR 97220",
+    "addr:housenumber":"7505",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Ambassador Pl Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570549,45.577222,-122.570549,45.577222",
     "geom:latitude":45.577222,
     "geom:longitude":-122.570549,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.ashtonagency.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790097973
         }
     ],
     "wof:id":790097973,
-    "wof:lastmodified":1466767822,
+    "wof:lastmodified":1486772333,
     "wof:name":"Ashton Bonding Agency",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

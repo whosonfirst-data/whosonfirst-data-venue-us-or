@@ -2,9 +2,14 @@
   "id": 370960067,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 SE Carlton St Portland OR 97202",
+    "addr:housenumber":"1412",
+    "addr:postcode":"97202",
+    "addr:street":"Se Carlton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650823,45.477814,-122.650823,45.477814",
     "geom:latitude":45.477814,
     "geom:longitude":-122.650823,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b4cc072681ad4fbb3525f91d37b9e441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370960067
         }
     ],
     "wof:id":370960067,
-    "wof:lastmodified":1466774883,
+    "wof:lastmodified":1486766848,
     "wof:name":"Harry Alston",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

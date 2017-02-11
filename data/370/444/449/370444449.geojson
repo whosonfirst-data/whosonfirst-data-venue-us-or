@@ -2,9 +2,14 @@
   "id": 370444449,
   "type": "Feature",
   "properties": {
+    "addr:full":"6107 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"6107",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579106,45.478279,-122.579106,45.478279",
     "geom:latitude":45.478279,
     "geom:longitude":-122.579106,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:brand_id":420574087,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"a60829290da9fecc06b11ac633c93499",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":370444449
         }
     ],
     "wof:id":370444449,
-    "wof:lastmodified":1466771962,
+    "wof:lastmodified":1486767686,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

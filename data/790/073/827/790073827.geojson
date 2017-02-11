@@ -2,9 +2,14 @@
   "id": 790073827,
   "type": "Feature",
   "properties": {
+    "addr:full":"8655 SW Barbur Boulevard Portland OR 97219",
+    "addr:housenumber":"8655",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.703416,45.462245,-122.703416,45.462245",
     "geom:latitude":45.462245,
     "geom:longitude":-122.703416,
@@ -40,12 +45,13 @@
     "sg:website":"http://www.jiffylube.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +66,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790073827
         }
     ],
     "wof:id":790073827,
-    "wof:lastmodified":1466768645,
+    "wof:lastmodified":1486769646,
     "wof:name":"Jiffy Lube",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85835959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

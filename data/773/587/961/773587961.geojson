@@ -2,9 +2,14 @@
   "id": 773587961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 SW 6th Ave Portland OR 97201",
+    "addr:housenumber":"1300",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68113,45.514409,-122.68113,45.514409",
     "geom:latitude":45.514409,
     "geom:longitude":-122.68113,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773587961
         }
     ],
     "wof:id":773587961,
-    "wof:lastmodified":1466775466,
+    "wof:lastmodified":1486770025,
     "wof:name":"Quick & Reilly Branch 1",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

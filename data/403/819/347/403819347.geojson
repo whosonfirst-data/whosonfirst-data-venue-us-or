@@ -2,9 +2,14 @@
   "id": 403819347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1756 N Highland St Portland OR 97217",
+    "addr:housenumber":"1756",
+    "addr:postcode":"97217",
+    "addr:street":"N Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685925,45.569067,-122.685925,45.569067",
     "geom:latitude":45.569067,
     "geom:longitude":-122.685925,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"7c036c2095526a3308dcb7c75c5b9a64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":403819347
         }
     ],
     "wof:id":403819347,
-    "wof:lastmodified":1466770078,
+    "wof:lastmodified":1486772105,
     "wof:name":"Matthew Jensen Contracting",
-    "wof:parent_id":85893195,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

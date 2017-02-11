@@ -2,9 +2,14 @@
   "id": 387804541,
   "type": "Feature",
   "properties": {
+    "addr:full":"8230 SE Harrison St Portland OR 97216",
+    "addr:housenumber":"8230",
+    "addr:postcode":"97216",
+    "addr:street":"Se Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57781,45.508286,-122.57781,45.508286",
     "geom:latitude":45.508286,
     "geom:longitude":-122.57781,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"1178d2877562c9088f68b88d1a3795e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387804541
         }
     ],
     "wof:id":387804541,
-    "wof:lastmodified":1466775010,
+    "wof:lastmodified":1486769596,
     "wof:name":"Marissa Thai Express",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

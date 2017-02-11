@@ -2,9 +2,14 @@
   "id": 404035359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2427 NW Pinnacle Dr Portland OR 97229",
+    "addr:housenumber":"2427",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Pinnacle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.767491,45.5404,-122.767491,45.5404",
     "geom:latitude":45.5404,
     "geom:longitude":-122.767491,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"21ee5c86e75a03a84b172e4dd2e4e247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":404035359
         }
     ],
     "wof:id":404035359,
-    "wof:lastmodified":1466769079,
+    "wof:lastmodified":1486763149,
     "wof:name":"Lois Portnoy",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

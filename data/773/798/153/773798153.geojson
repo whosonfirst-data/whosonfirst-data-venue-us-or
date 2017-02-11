@@ -2,9 +2,14 @@
   "id": 773798153,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 NW 23rd Pl Portland OR 97210",
+    "addr:housenumber":"9",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 23Rd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700002,45.523758,-122.700002,45.523758",
     "geom:latitude":45.523758,
     "geom:longitude":-122.700002,
@@ -36,12 +41,14 @@
     "sg:website":"http://www.arboronstate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
+            "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":773798153
         }
     ],
     "wof:id":773798153,
-    "wof:lastmodified":1466776007,
+    "wof:lastmodified":1486773707,
     "wof:name":"Uptowne Papers",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

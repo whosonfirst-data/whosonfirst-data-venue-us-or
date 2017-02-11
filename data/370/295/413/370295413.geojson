@@ -2,9 +2,14 @@
   "id": 370295413,
   "type": "Feature",
   "properties": {
+    "addr:full":"4731 SW Admiral St Portland OR 97221",
+    "addr:housenumber":"4731",
+    "addr:postcode":"97221",
+    "addr:street":"Sw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728032,45.488649,-122.728032,45.488649",
     "geom:latitude":45.488649,
     "geom:longitude":-122.728032,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f777a8f31c2cce7a1803030fb44f0fa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370295413
         }
     ],
     "wof:id":370295413,
-    "wof:lastmodified":1466769738,
+    "wof:lastmodified":1486769382,
     "wof:name":"Astor Carpet Cleaning Inc",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

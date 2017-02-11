@@ -2,9 +2,14 @@
   "id": 790016873,
   "type": "Feature",
   "properties": {
+    "addr:full":"7931 NE Halsey Street Portland OR 97213",
+    "addr:housenumber":"7931",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Halsey Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581611,45.533615,-122.581611,45.533615",
     "geom:latitude":45.533615,
     "geom:longitude":-122.581611,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790016873
         }
     ],
     "wof:id":790016873,
-    "wof:lastmodified":1466767641,
+    "wof:lastmodified":1486769584,
     "wof:name":"Pregnancy Resource Centers",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85834889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789855843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1553 SE Tolman St. Portland OR 97202",
+    "addr:housenumber":"1553",
+    "addr:postcode":"97202",
+    "addr:street":"Se Tolman St.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64964,45.477195,-122.64964,45.477195",
     "geom:latitude":45.477195,
     "geom:longitude":-122.64964,
@@ -30,12 +35,13 @@
     "sg:website":"www.portlandpersonalinjuryaccide...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789855843
         }
     ],
     "wof:id":789855843,
-    "wof:lastmodified":1466770733,
+    "wof:lastmodified":1486770521,
     "wof:name":"Shulman DuBois LLC",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

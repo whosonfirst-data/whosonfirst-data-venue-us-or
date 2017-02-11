@@ -2,9 +2,14 @@
   "id": 370603931,
   "type": "Feature",
   "properties": {
+    "addr:full":"12220 N Portland Rd Portland OR 97217",
+    "addr:housenumber":"12220",
+    "addr:postcode":"97217",
+    "addr:street":"N Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70363,45.613426,-122.70363,45.613426",
     "geom:latitude":45.613426,
     "geom:longitude":-122.70363,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719769,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"3619f1a3d1207b2cc08ae7b713063878",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "microhood_id":1108719769,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":370603931
         }
     ],
     "wof:id":370603931,
-    "wof:lastmodified":1466773062,
+    "wof:lastmodified":1486774185,
     "wof:name":"Morgan CFS Inc",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108719769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

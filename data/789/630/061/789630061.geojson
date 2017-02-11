@@ -2,9 +2,14 @@
   "id": 789630061,
   "type": "Feature",
   "properties": {
+    "addr:full":"3924 NE Hancock St Portland OR 97212",
+    "addr:housenumber":"3924",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Hancock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622724,45.536527,-122.622724,45.536527",
     "geom:latitude":45.536527,
     "geom:longitude":-122.622724,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.oldlibrarystudio.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":789630061
         }
     ],
     "wof:id":789630061,
-    "wof:lastmodified":1466769010,
+    "wof:lastmodified":1486769454,
     "wof:name":"Old Library Studio",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

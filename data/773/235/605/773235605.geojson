@@ -2,9 +2,14 @@
   "id": 773235605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4511 N Willamette Blvd Portland OR 97203",
+    "addr:housenumber":"4511",
+    "addr:postcode":"97203",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.715275,45.575249,-122.715275,45.575249",
     "geom:latitude":45.575249,
     "geom:longitude":-122.715275,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536113,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536113,
             "region_id":85688513,
             "venue_id":773235605
         }
     ],
     "wof:id":773235605,
-    "wof:lastmodified":1466771997,
+    "wof:lastmodified":1486772150,
     "wof:name":"Harwood Interiors",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790006897,
   "type": "Feature",
   "properties": {
+    "addr:full":"5663 NE Glisan St Portland OR 97213",
+    "addr:housenumber":"5663",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605175,45.526617,-122.605175,45.526617",
     "geom:latitude":45.526617,
     "geom:longitude":-122.605175,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":790006897
         }
     ],
     "wof:id":790006897,
-    "wof:lastmodified":1466767559,
+    "wof:lastmodified":1486772429,
     "wof:name":"1 & 1 Anytime Locksmith",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

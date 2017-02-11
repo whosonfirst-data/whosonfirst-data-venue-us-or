@@ -2,9 +2,14 @@
   "id": 386955587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 SE 50th Ave Portland OR 97215",
+    "addr:housenumber":"1614",
+    "addr:postcode":"97215",
+    "addr:street":"Se 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611411,45.510777,-122.611411,45.510777",
     "geom:latitude":45.510777,
     "geom:longitude":-122.611411,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,20 @@
     "wof:geomhash":"2680fb3cedb7ac17079fe1893d239771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":386955587
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":386955587
         }
     ],
     "wof:id":386955587,
-    "wof:lastmodified":1466767302,
+    "wof:lastmodified":1486767139,
     "wof:name":"Creative Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

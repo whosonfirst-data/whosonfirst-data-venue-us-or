@@ -2,9 +2,14 @@
   "id": 371045041,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 SE 8th Ave Portland OR 97214",
+    "addr:housenumber":"2005",
+    "addr:postcode":"97214",
+    "addr:street":"Se 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657838,45.507976,-122.657838,45.507976",
     "geom:latitude":45.507976,
     "geom:longitude":-122.657838,
@@ -30,11 +35,14 @@
     "sg:website":"www.portlandsawworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"75b876d7f12f66047b5ec6552a6d0454",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":371045041
         }
     ],
     "wof:id":371045041,
-    "wof:lastmodified":1466767889,
+    "wof:lastmodified":1486773514,
     "wof:name":"Portland Saw Works",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

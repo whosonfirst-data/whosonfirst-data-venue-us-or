@@ -2,9 +2,14 @@
   "id": 789948047,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 NW 13th Ave Ste 403 Portland OR 97209",
+    "addr:housenumber":"539",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 13Th Ave Ste 403",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684306,45.526769,-122.684306,45.526769",
     "geom:latitude":45.526769,
     "geom:longitude":-122.684306,
@@ -56,12 +61,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/47476817/portland_or/studio_luxe_hair_skin_spa.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +82,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789948047
         }
     ],
     "wof:id":789948047,
-    "wof:lastmodified":1466772472,
+    "wof:lastmodified":1486770337,
     "wof:name":"Studio Luxe Hair & Skin Spa",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

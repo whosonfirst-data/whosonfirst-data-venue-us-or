@@ -2,9 +2,14 @@
   "id": 789999433,
   "type": "Feature",
   "properties": {
+    "addr:full":"3570 NE Mathison Pl Portland OR 97212",
+    "addr:housenumber":"3570",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Mathison Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626487,45.542813,-122.626487,45.542813",
     "geom:latitude":45.542813,
     "geom:longitude":-122.626487,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893189
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":789999433
         }
     ],
     "wof:id":789999433,
-    "wof:lastmodified":1466773091,
+    "wof:lastmodified":1486768440,
     "wof:name":"Locks A Locksmith",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",

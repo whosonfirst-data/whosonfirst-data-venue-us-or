@@ -2,9 +2,14 @@
   "id": 790238847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 SW Beaverton Hillsdale Hwy Portland OR 97239",
+    "addr:housenumber":"2525",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Beaverton Hillsdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702574,45.480045,-122.702574,45.480045",
     "geom:latitude":45.480045,
     "geom:longitude":-122.702574,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790238847
         }
     ],
     "wof:id":790238847,
-    "wof:lastmodified":1466772208,
+    "wof:lastmodified":1486764667,
     "wof:name":"Fitmeals",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

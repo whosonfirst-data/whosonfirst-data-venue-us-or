@@ -2,9 +2,14 @@
   "id": 773434367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3145 SW Altadena Ter Portland OR 97239",
+    "addr:housenumber":"3145",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Altadena Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709489,45.493457,-122.709489,45.493457",
     "geom:latitude":45.493457,
     "geom:longitude":-122.709489,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,20 @@
     "wof:geomhash":"dbc3a022506e1888a1eaf91c196a1f22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":773434367
         }
     ],
     "wof:id":773434367,
-    "wof:lastmodified":1466774289,
+    "wof:lastmodified":1486769429,
     "wof:name":"De Castro Family LLC",
-    "wof:parent_id":85807447,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

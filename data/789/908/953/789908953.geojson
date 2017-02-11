@@ -2,9 +2,14 @@
   "id": 789908953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2864 SW Champlain Dr Portland OR 97205",
+    "addr:housenumber":"2864",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Champlain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70873,45.52133,-122.70873,45.52133",
     "geom:latitude":45.52133,
     "geom:longitude":-122.70873,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871473
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":789908953
         }
     ],
     "wof:id":789908953,
-    "wof:lastmodified":1466772078,
+    "wof:lastmodified":1486770890,
     "wof:name":"Proposal Rock Inn",
     "wof:parent_id":85871473,
     "wof:placetype":"venue",

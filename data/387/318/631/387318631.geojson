@@ -2,9 +2,14 @@
   "id": 387318631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1308 NW 20th Ave Portland OR 97209",
+    "addr:housenumber":"1308",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692538,45.532222,-122.692538,45.532222",
     "geom:latitude":45.532222,
     "geom:longitude":-122.692538,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"c4e32e94e20a3604a40f5dae44f2a555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387318631
         }
     ],
     "wof:id":387318631,
-    "wof:lastmodified":1466772158,
+    "wof:lastmodified":1486771161,
     "wof:name":"Susan Sweeting",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

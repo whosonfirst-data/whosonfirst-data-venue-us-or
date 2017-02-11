@@ -2,9 +2,14 @@
   "id": 404136347,
   "type": "Feature",
   "properties": {
+    "addr:full":"6140 NE Stanton St Portland OR 97213",
+    "addr:housenumber":"6140",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Stanton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.599715,45.543606,-122.599715,45.543606",
     "geom:latitude":45.543606,
     "geom:longitude":-122.599715,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"89103c541534086a1c9339d98063b9ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":404136347
         }
     ],
     "wof:id":404136347,
-    "wof:lastmodified":1466771311,
+    "wof:lastmodified":1486770388,
     "wof:name":"Montessori-Lily Field",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

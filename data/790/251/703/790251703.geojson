@@ -2,9 +2,14 @@
   "id": 790251703,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 NE 30th Ave Portland OR 97255",
+    "addr:housenumber":"5501",
+    "addr:postcode":"97255",
+    "addr:street":"Ne 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634906,45.562712,-122.634906,45.562712",
     "geom:latitude":45.562712,
     "geom:longitude":-122.634906,
@@ -26,12 +31,13 @@
     "sg:website":"www.blackbirdtattoo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":790251703
         }
     ],
     "wof:id":790251703,
-    "wof:lastmodified":1466772679,
+    "wof:lastmodified":1486768695,
     "wof:name":"Blackbird Tattoo",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

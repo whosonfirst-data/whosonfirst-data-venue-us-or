@@ -2,9 +2,14 @@
   "id": 354370723,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Watts St Portland OR 97217",
+    "addr:housenumber":"700",
+    "addr:postcode":"97217",
+    "addr:street":"N Watts St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67435,45.581375,-122.67435,45.581375",
     "geom:latitude":45.581375,
     "geom:longitude":-122.67435,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e93cc5efea6550bd8fede387afe24064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":354370723
         }
     ],
     "wof:id":354370723,
-    "wof:lastmodified":1466770778,
+    "wof:lastmodified":1486768962,
     "wof:name":"Gymboree Corporation",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

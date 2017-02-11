@@ -2,9 +2,14 @@
   "id": 370345445,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 NW Royal Blvd Portland OR 97210",
+    "addr:housenumber":"262",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Royal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.74309,45.522871,-122.74309,45.522871",
     "geom:latitude":45.522871,
     "geom:longitude":-122.74309,
@@ -31,14 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893251,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85851719,
+        1108714057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +54,30 @@
     "wof:geomhash":"50300c0dc664c924a123ecb1458c0f4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893251,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":370345445
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":370345445
         }
     ],
     "wof:id":370345445,
-    "wof:lastmodified":1466770706,
+    "wof:lastmodified":1486772190,
     "wof:name":"Milne and Associates LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370239387,
   "type": "Feature",
   "properties": {
+    "addr:full":"10429 SW 14th Dr Portland OR 97219",
+    "addr:housenumber":"10429",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 14Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693096,45.449475,-122.693096,45.449475",
     "geom:latitude":45.449475,
     "geom:longitude":-122.693096,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781233,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"db35685ed66abcd66c6fed8465ec8283",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781233,
             "region_id":85688513,
             "venue_id":370239387
         }
     ],
     "wof:id":370239387,
-    "wof:lastmodified":1466768697,
+    "wof:lastmodified":1486772293,
     "wof:name":"Clifford Johannsen PHD",
-    "wof:parent_id":85871489,
+    "wof:parent_id":420781233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

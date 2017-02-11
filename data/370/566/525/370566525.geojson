@@ -2,9 +2,14 @@
   "id": 370566525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1647 NE 142nd Ave Portland OR 97230",
+    "addr:housenumber":"1647",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 142Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516908,45.536739,-122.516908,45.536739",
     "geom:latitude":45.536739,
     "geom:longitude":-122.516908,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"12197421f5b090ec8cf0247a741f337f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":370566525
         }
     ],
     "wof:id":370566525,
-    "wof:lastmodified":1466772820,
+    "wof:lastmodified":1486768749,
     "wof:name":"Rangner Illustration Studio",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

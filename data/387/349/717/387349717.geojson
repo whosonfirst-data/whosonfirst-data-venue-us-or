@@ -2,9 +2,14 @@
   "id": 387349717,
   "type": "Feature",
   "properties": {
+    "addr:full":"4941 NE Rodney Ave Portland OR 97211",
+    "addr:housenumber":"4941",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Rodney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664683,45.558084,-122.664683,45.558084",
     "geom:latitude":45.558084,
     "geom:longitude":-122.664683,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513,
+        85893195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"08541d905d50a8b65448372f5c3458f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
+            "region_id":85688513,
+            "venue_id":387349717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387349717
         }
     ],
     "wof:id":387349717,
-    "wof:lastmodified":1466772128,
+    "wof:lastmodified":1486771741,
     "wof:name":"Northwest Dental Inc",
-    "wof:parent_id":85893199,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

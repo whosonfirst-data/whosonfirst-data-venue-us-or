@@ -2,9 +2,14 @@
   "id": 387952945,
   "type": "Feature",
   "properties": {
+    "addr:full":"10632 NE Halsey St Portland OR 97220",
+    "addr:housenumber":"10632",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552032,45.533425,-122.552032,45.533425",
     "geom:latitude":45.533425,
     "geom:longitude":-122.552032,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"3a43a84ed96a4f7d96186c8f35911ec3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":387952945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":387952945
         }
     ],
     "wof:id":387952945,
-    "wof:lastmodified":1466775414,
+    "wof:lastmodified":1486770707,
     "wof:name":"Merit Printing",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

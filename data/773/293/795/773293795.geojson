@@ -2,9 +2,14 @@
   "id": 773293795,
   "type": "Feature",
   "properties": {
+    "addr:full":"13556 SE Claybourne St Portland OR 97236",
+    "addr:housenumber":"13556",
+    "addr:postcode":"97236",
+    "addr:street":"Se Claybourne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523575,45.474728,-122.523575,45.474728",
     "geom:latitude":45.474728,
     "geom:longitude":-122.523575,
@@ -24,7 +29,15 @@
     "sg:postcode":"97236",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536131,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uzMPWIXjAqipn8miW13FK_45.474728_-122.523575@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462584629,
     "wof:geomhash":"780682846a199d0012b761929628f2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773293795
+        }
+    ],
     "wof:id":773293795,
-    "wof:lastmodified":1466772925,
+    "wof:lastmodified":1486772210,
     "wof:name":"Low Voltage Specialties",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

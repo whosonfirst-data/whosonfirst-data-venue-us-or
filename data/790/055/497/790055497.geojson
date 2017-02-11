@@ -2,9 +2,14 @@
   "id": 790055497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2310 N Lombard St Portland OR 97217",
+    "addr:housenumber":"2310",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690545,45.57713,-122.690545,45.57713",
     "geom:latitude":45.57713,
     "geom:longitude":-122.690545,
@@ -34,12 +39,13 @@
     "sg:website":"www.flavourspot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":790055497
         }
     ],
     "wof:id":790055497,
-    "wof:lastmodified":1466768185,
+    "wof:lastmodified":1486769507,
     "wof:name":"Flavour Spot",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

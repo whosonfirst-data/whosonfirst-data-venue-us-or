@@ -2,9 +2,14 @@
   "id": 790012747,
   "type": "Feature",
   "properties": {
+    "addr:full":"4265 NE Halsey St Apt 315 Portland OR 97213",
+    "addr:housenumber":"4265;315",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Halsey St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619133,45.533779,-122.619133,45.533779",
     "geom:latitude":45.533779,
     "geom:longitude":-122.619133,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":790012747
         }
     ],
     "wof:id":790012747,
-    "wof:lastmodified":1466767609,
+    "wof:lastmodified":1486768525,
     "wof:name":"Lucy Lu Flowers",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

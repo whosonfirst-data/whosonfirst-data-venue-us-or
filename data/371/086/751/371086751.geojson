@@ -2,9 +2,14 @@
   "id": 371086751,
   "type": "Feature",
   "properties": {
+    "addr:full":"6514 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"6514",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578979,45.475257,-122.578979,45.475257",
     "geom:latitude":45.475257,
     "geom:longitude":-122.578979,
@@ -26,11 +31,13 @@
     "sg:website":"www.autozone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:brand_id":420573803,
     "wof:breaches":[],
@@ -41,17 +48,18 @@
     "wof:geomhash":"18cc03e9ce75e4ab8dc058eddaa457e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":371086751
         }
     ],
     "wof:id":371086751,
-    "wof:lastmodified":1466768576,
+    "wof:lastmodified":1486769557,
     "wof:name":"Autozone",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

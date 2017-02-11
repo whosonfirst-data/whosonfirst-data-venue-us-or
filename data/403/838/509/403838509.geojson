@@ -2,9 +2,14 @@
   "id": 403838509,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"1626",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683672,45.561873,-122.683672,45.561873",
     "geom:latitude":45.561873,
     "geom:longitude":-122.683672,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"5f5926e9b3c1bdfbb0006ee421c01c65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":403838509
         }
     ],
     "wof:id":403838509,
-    "wof:lastmodified":1466770561,
+    "wof:lastmodified":1486771830,
     "wof:name":"Diversity Training Associates",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

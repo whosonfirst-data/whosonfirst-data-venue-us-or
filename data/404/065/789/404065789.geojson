@@ -2,9 +2,14 @@
   "id": 404065789,
   "type": "Feature",
   "properties": {
+    "addr:full":"9914 NW Engleman St Portland OR 97229",
+    "addr:housenumber":"9914",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Engleman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.779935,45.535726,-122.779935,45.535726",
     "geom:latitude":45.535726,
     "geom:longitude":-122.779935,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"74d66f7ff613116ce81ce3e4aaa73085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":404065789
         }
     ],
     "wof:id":404065789,
-    "wof:lastmodified":1466769638,
+    "wof:lastmodified":1486763542,
     "wof:name":"Sew Soft",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

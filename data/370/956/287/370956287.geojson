@@ -2,9 +2,14 @@
   "id": 370956287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2734 N Hayden Island Dr Portland OR 97217",
+    "addr:housenumber":"2734",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691675,45.616237,-122.691675,45.616237",
     "geom:latitude":45.616237,
     "geom:longitude":-122.691675,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"b7ab138c68832a8b8388ae885cfaf1a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":370956287
         }
     ],
     "wof:id":370956287,
-    "wof:lastmodified":1466774946,
+    "wof:lastmodified":1486772356,
     "wof:name":"Pacific Tire Distribituros",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

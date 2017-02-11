@@ -2,9 +2,14 @@
   "id": 354237821,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 Jantzen Beach Center Portland OR 97217",
+    "addr:housenumber":"1712",
+    "addr:postcode":"97217",
+    "addr:street":"Jantzen Beach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685957,45.612688,-122.685957,45.612688",
     "geom:latitude":45.612688,
     "geom:longitude":-122.685957,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"a8a6b0f99f8b681202b67277d8398358",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":354237821
         }
     ],
     "wof:id":354237821,
-    "wof:lastmodified":1466768398,
+    "wof:lastmodified":1486772361,
     "wof:name":"Damons-A Dining Event",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

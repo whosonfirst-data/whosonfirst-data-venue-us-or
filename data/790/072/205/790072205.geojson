@@ -2,9 +2,14 @@
   "id": 790072205,
   "type": "Feature",
   "properties": {
+    "addr:full":"7850 SW Barbur Blvd Ste C Portland OR 97219",
+    "addr:housenumber":"7850",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693547,45.4678,-122.693547,45.4678",
     "geom:latitude":45.4678,
     "geom:longitude":-122.693547,
@@ -37,12 +42,13 @@
     "sg:website":"www.hoot-n-annie.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790072205
         }
     ],
     "wof:id":790072205,
-    "wof:lastmodified":1466768589,
+    "wof:lastmodified":1486769438,
     "wof:name":"Hoot-n-Annie",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

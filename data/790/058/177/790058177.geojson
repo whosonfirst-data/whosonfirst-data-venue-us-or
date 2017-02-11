@@ -2,9 +2,14 @@
   "id": 790058177,
   "type": "Feature",
   "properties": {
+    "addr:full":"8801 N Vancouver Ave Portland OR 97217",
+    "addr:housenumber":"8801",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66723,45.58586,-122.66723,45.58586",
     "geom:latitude":45.58586,
     "geom:longitude":-122.66723,
@@ -42,12 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893179
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":790058177
         }
     ],
     "wof:id":790058177,
-    "wof:lastmodified":1466768240,
+    "wof:lastmodified":1486768368,
     "wof:name":"St Johns Corporation",
     "wof:parent_id":85893179,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789960995,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 NW Davis St Portland OR 97209",
+    "addr:housenumber":"222",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67266,45.524555,-122.67266,45.524555",
     "geom:latitude":45.524555,
     "geom:longitude":-122.67266,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789960995
         }
     ],
     "wof:id":789960995,
-    "wof:lastmodified":1466772683,
+    "wof:lastmodified":1486770687,
     "wof:name":"Hot Lips Pizza Portland State Univ",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

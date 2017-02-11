@@ -2,9 +2,14 @@
   "id": 790039293,
   "type": "Feature",
   "properties": {
+    "addr:full":"4307 SE Oak St Portland OR 97215",
+    "addr:housenumber":"4307",
+    "addr:postcode":"97215",
+    "addr:street":"Se Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618136,45.520271,-122.618136,45.520271",
     "geom:latitude":45.520271,
     "geom:longitude":-122.618136,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790039293
         }
     ],
     "wof:id":790039293,
-    "wof:lastmodified":1466767844,
+    "wof:lastmodified":1486769525,
     "wof:name":"P E C Properties",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

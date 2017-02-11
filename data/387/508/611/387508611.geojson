@@ -2,9 +2,14 @@
   "id": 387508611,
   "type": "Feature",
   "properties": {
+    "addr:full":"3688 SE Tenino St Portland OR 97202",
+    "addr:housenumber":"3688",
+    "addr:postcode":"97202",
+    "addr:street":"Se Tenino St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625188,45.464255,-122.625188,45.464255",
     "geom:latitude":45.464255,
     "geom:longitude":-122.625188,
@@ -25,10 +30,16 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        101715883,
+        102082213,
+        420536077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +49,29 @@
     "wof:geomhash":"5c7c25a73fcec272e082d12382fc8cc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85803429,
+            "region_id":85688513,
+            "venue_id":387508611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715883,
+            "neighbourhood_id":420536077,
             "region_id":85688513,
             "venue_id":387508611
         }
     ],
     "wof:id":387508611,
-    "wof:lastmodified":1466773281,
+    "wof:lastmodified":1486769364,
     "wof:name":"Continental Mechanical",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

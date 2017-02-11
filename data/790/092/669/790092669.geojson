@@ -2,9 +2,14 @@
   "id": 790092669,
   "type": "Feature",
   "properties": {
+    "addr:full":"10535 NE Glisan Street Suite 100 Portland OR 97220",
+    "addr:housenumber":"10535",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan Street Suite 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.55524,45.526283,-122.55524,45.526283",
     "geom:latitude":45.526283,
     "geom:longitude":-122.55524,
@@ -26,12 +31,13 @@
     "sg:website":"www.gatewaysportsmedicine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790092669
         }
     ],
     "wof:id":790092669,
-    "wof:lastmodified":1466767625,
+    "wof:lastmodified":1486770752,
     "wof:name":"Gateway Sports Medicine",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

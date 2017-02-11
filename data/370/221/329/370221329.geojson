@@ -2,9 +2,14 @@
   "id": 370221329,
   "type": "Feature",
   "properties": {
+    "addr:full":"3257 SW Fairmount Blvd Portland OR 97239",
+    "addr:housenumber":"3257",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Fairmount Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700712,45.492415,-122.700712,45.492415",
     "geom:latitude":45.492415,
     "geom:longitude":-122.700712,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513,
+        420536089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"49ad1ca888c30cbb37c59bec814e1268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":370221329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536089,
             "region_id":85688513,
             "venue_id":370221329
         }
     ],
     "wof:id":370221329,
-    "wof:lastmodified":1466768393,
+    "wof:lastmodified":1486772139,
     "wof:name":"Oztex Inc",
-    "wof:parent_id":85847775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

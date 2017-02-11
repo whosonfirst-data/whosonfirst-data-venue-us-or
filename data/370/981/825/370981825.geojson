@@ -2,9 +2,14 @@
   "id": 370981825,
   "type": "Feature",
   "properties": {
+    "addr:full":"6405 SE Ramona St Portland OR 97206",
+    "addr:housenumber":"6405",
+    "addr:postcode":"97206",
+    "addr:street":"Se Ramona St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598252,45.481016,-122.598252,45.481016",
     "geom:latitude":45.481016,
     "geom:longitude":-122.598252,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"4528153e6da1dc23308cb0d200bab855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":370981825
         }
     ],
     "wof:id":370981825,
-    "wof:lastmodified":1466775124,
+    "wof:lastmodified":1486771793,
     "wof:name":"Creative Purchasers Group Inc",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

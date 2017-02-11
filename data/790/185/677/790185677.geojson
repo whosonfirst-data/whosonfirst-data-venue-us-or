@@ -2,9 +2,14 @@
   "id": 790185677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 NW Greenleaf Rd Portland OR 97229",
+    "addr:housenumber":"1200",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Greenleaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752896,45.530931,-122.752896,45.530931",
     "geom:latitude":45.530931,
     "geom:longitude":-122.752896,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85804571
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +52,20 @@
     "wof:geomhash":"ba041182bf6350ed02d053d50c33f49b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85804571,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":790185677
         }
     ],
     "wof:id":790185677,
-    "wof:lastmodified":1466771230,
+    "wof:lastmodified":1486772193,
     "wof:name":"Green Eye Pictures",
-    "wof:parent_id":85804571,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

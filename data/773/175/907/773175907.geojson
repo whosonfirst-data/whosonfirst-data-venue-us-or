@@ -2,9 +2,14 @@
   "id": 773175907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2812 SE Steele St Portland OR 97202",
+    "addr:housenumber":"2812",
+    "addr:postcode":"97202",
+    "addr:street":"Se Steele St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634464,45.484649,-122.634464,45.484649",
     "geom:latitude":45.484649,
     "geom:longitude":-122.634464,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":773175907
         }
     ],
     "wof:id":773175907,
-    "wof:lastmodified":1466770638,
+    "wof:lastmodified":1486766703,
     "wof:name":"Steele St Orthpd Frcture Clnic",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387591013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2717 SW English Ct Portland OR 97201",
+    "addr:housenumber":"2717",
+    "addr:postcode":"97201",
+    "addr:street":"Sw English Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710504,45.504422,-122.710504,45.504422",
     "geom:latitude":45.504422,
     "geom:longitude":-122.710504,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"96977f81b4f7c1a0ec96f3b5058674e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
             "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":387591013
         }
     ],
     "wof:id":387591013,
-    "wof:lastmodified":1466773972,
+    "wof:lastmodified":1486773826,
     "wof:name":"G C F LLC",
-    "wof:parent_id":85867153,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

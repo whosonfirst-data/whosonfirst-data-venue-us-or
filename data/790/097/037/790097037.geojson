@@ -2,9 +2,14 @@
   "id": 790097037,
   "type": "Feature",
   "properties": {
+    "addr:full":"10355 NE Halsey St Ste A Portland OR 97220",
+    "addr:housenumber":"10355",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Halsey St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.556,45.533501,-122.556,45.533501",
     "geom:latitude":45.533501,
     "geom:longitude":-122.556,
@@ -26,12 +31,13 @@
     "sg:website":"www.playitagainsports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790097037
         }
     ],
     "wof:id":790097037,
-    "wof:lastmodified":1466767788,
+    "wof:lastmodified":1486770718,
     "wof:name":"Play It Again Sports",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

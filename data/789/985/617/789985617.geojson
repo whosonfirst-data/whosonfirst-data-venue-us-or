@@ -2,9 +2,14 @@
   "id": 789985617,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 NE Middlefield Rd Portland OR 97211",
+    "addr:housenumber":"24",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Middlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.668057,45.595613,-122.668057,45.595613",
     "geom:latitude":45.595613,
     "geom:longitude":-122.668057,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"http://www.summitbody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eJInGl5ZFntMLIqYZJQLY_45.595613_-122.668057@1303263417"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462592213,
     "wof:geomhash":"54acb06ac55abc96ec4d556989039ea6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789985617
+        }
+    ],
     "wof:id":789985617,
-    "wof:lastmodified":1466773128,
+    "wof:lastmodified":1486771632,
     "wof:name":"Summit Body & Equipment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

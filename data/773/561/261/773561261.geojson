@@ -2,9 +2,14 @@
   "id": 773561261,
   "type": "Feature",
   "properties": {
+    "addr:full":"10075 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"10075",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.724105,45.452506,-122.724105,45.452506",
     "geom:latitude":45.452506,
     "geom:longitude":-122.724105,
@@ -25,13 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713515,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":773561261
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871501,
+            "macrohood_id":1108714057,
+            "microhood_id":1108713515,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":773561261
         }
     ],
     "wof:id":773561261,
-    "wof:lastmodified":1466775419,
+    "wof:lastmodified":1486773410,
     "wof:name":"Bagel Basket",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

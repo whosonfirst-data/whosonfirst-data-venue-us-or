@@ -2,9 +2,14 @@
   "id": 790246015,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 SW Moody Ave Portland OR 97239",
+    "addr:housenumber":"3720",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Moody Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671889,45.496279,-122.671889,45.496279",
     "geom:latitude":45.496279,
     "geom:longitude":-122.671889,
@@ -37,12 +42,14 @@
     "sg:website":"http://www.thedoghouseportland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790246015
         }
     ],
     "wof:id":790246015,
-    "wof:lastmodified":1466772469,
+    "wof:lastmodified":1486773564,
     "wof:name":"The Dog House",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

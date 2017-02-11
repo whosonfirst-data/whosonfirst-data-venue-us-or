@@ -2,9 +2,14 @@
   "id": 789849017,
   "type": "Feature",
   "properties": {
+    "addr:full":"3015 SE Berkeley Pl Portland OR 97202",
+    "addr:housenumber":"3015",
+    "addr:postcode":"97202",
+    "addr:street":"Se Berkeley Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626613,45.463519,-122.626613,45.463519",
     "geom:latitude":45.463519,
     "geom:longitude":-122.626613,
@@ -26,12 +31,13 @@
     "sg:website":"www.lecookiemonkey.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803429
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85803429,
             "region_id":85688513,
             "venue_id":789849017
         }
     ],
     "wof:id":789849017,
-    "wof:lastmodified":1466770480,
+    "wof:lastmodified":1486769365,
     "wof:name":"Le Cookie Monkey",
     "wof:parent_id":85803429,
     "wof:placetype":"venue",

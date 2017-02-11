@@ -2,9 +2,14 @@
   "id": 371089329,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 NW 4th Ave Portland OR 97209",
+    "addr:housenumber":"211",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674546,45.525162,-122.674546,45.525162",
     "geom:latitude":45.525162,
     "geom:longitude":-122.674546,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ed3c95a0b684f6672cc0abbcc14e019b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":371089329
         }
     ],
     "wof:id":371089329,
-    "wof:lastmodified":1466768622,
+    "wof:lastmodified":1486770695,
     "wof:name":"Suey Sing Association",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

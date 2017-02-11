@@ -2,9 +2,14 @@
   "id": 790232397,
   "type": "Feature",
   "properties": {
+    "addr:full":"16610 SE Bush St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16610;97236",
+    "addr:street":"Se Bush St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492851,45.49501,-122.492851,45.49501",
     "geom:latitude":45.49501,
     "geom:longitude":-122.492851,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790232397
         }
     ],
     "wof:id":790232397,
-    "wof:lastmodified":1466772174,
+    "wof:lastmodified":1486771551,
     "wof:name":"Monckton, Laura Residental Home Care",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

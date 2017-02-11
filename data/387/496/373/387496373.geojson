@@ -2,9 +2,14 @@
   "id": 387496373,
   "type": "Feature",
   "properties": {
+    "addr:full":"10640 SE Bush St Portland OR 97266",
+    "addr:housenumber":"10640",
+    "addr:postcode":"97266",
+    "addr:street":"Se Bush St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552586,45.494842,-122.552586,45.494842",
     "geom:latitude":45.494842,
     "geom:longitude":-122.552586,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"0e0f26e6e3e5980276b75837e97d8e7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":387496373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":387496373
         }
     ],
     "wof:id":387496373,
-    "wof:lastmodified":1466773226,
+    "wof:lastmodified":1486771919,
     "wof:name":"Foster Floare Cortuna",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

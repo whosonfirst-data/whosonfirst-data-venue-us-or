@@ -2,9 +2,14 @@
   "id": 370444245,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 SW Park Ave Portland OR 97201",
+    "addr:housenumber":"1405",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683405,45.514276,-122.683405,45.514276",
     "geom:latitude":45.514276,
     "geom:longitude":-122.683405,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,18 @@
     "wof:geomhash":"ae767be03a1b3d63d84fa5bb070e72ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":370444245
         }
     ],
     "wof:id":370444245,
-    "wof:lastmodified":1466771958,
+    "wof:lastmodified":1486770250,
     "wof:name":"Gender Identity Counselling",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

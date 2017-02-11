@@ -2,9 +2,14 @@
   "id": 789841355,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW 4th and SW Hall Portland OR 97201",
+    "addr:housenumber":"",
+    "addr:postcode":"97201",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68123,45.50987,-122.68123,45.50987",
     "geom:latitude":45.50987,
     "geom:longitude":-122.68123,
@@ -41,12 +46,13 @@
     "sg:website":"www.portlandsoupco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789841355
         }
     ],
     "wof:id":789841355,
-    "wof:lastmodified":1466770155,
+    "wof:lastmodified":1486770261,
     "wof:name":"The Portland Soup Company",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

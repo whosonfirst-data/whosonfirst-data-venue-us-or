@@ -2,9 +2,14 @@
   "id": 354281153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 NW 14th Ave Portland OR 97209",
+    "addr:housenumber":"1421",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685626,45.533448,-122.685626,45.533448",
     "geom:latitude":45.533448,
     "geom:longitude":-122.685626,
@@ -29,11 +34,13 @@
     "sg:website":"www.wowpromo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"74f12d55428efdd4542672ecf435132d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":354281153
         }
     ],
     "wof:id":354281153,
-    "wof:lastmodified":1466769204,
+    "wof:lastmodified":1486770313,
     "wof:name":"Paper Power Unlimited Inc",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

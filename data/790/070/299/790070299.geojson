@@ -2,9 +2,14 @@
   "id": 790070299,
   "type": "Feature",
   "properties": {
+    "addr:full":"4346 NE Cully Blvd Portland OR 97218",
+    "addr:housenumber":"4346",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Cully Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601711,45.554159,-122.601711,45.554159",
     "geom:latitude":45.554159,
     "geom:longitude":-122.601711,
@@ -27,7 +32,15 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BZuoGAEmICAiDEW9LCktR_45.554159_-122.601711@1303263421"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462592892,
     "wof:geomhash":"5ddc3fa56acc2e1d864429308bd1eb47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":790070299
+        }
+    ],
     "wof:id":790070299,
-    "wof:lastmodified":1466768539,
+    "wof:lastmodified":1486771598,
     "wof:name":"A 1 24 Hour Portland Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

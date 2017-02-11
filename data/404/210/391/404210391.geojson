@@ -2,9 +2,14 @@
   "id": 404210391,
   "type": "Feature",
   "properties": {
+    "addr:full":"14946 NE Rose Pkwy Portland OR 97230",
+    "addr:housenumber":"14946",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Rose Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.50838,45.544934,-122.50838,45.544934",
     "geom:latitude":45.544934,
     "geom:longitude":-122.50838,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a6e098c95534eb2f2e60776f3f28f839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":404210391
         }
     ],
     "wof:id":404210391,
-    "wof:lastmodified":1466768290,
+    "wof:lastmodified":1486772089,
     "wof:name":"Hiatt Real Estate",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

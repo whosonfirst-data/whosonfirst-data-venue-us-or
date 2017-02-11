@@ -2,9 +2,14 @@
   "id": 773195353,
   "type": "Feature",
   "properties": {
+    "addr:full":"2224 SE 110th Ave Portland OR 97216",
+    "addr:housenumber":"2224",
+    "addr:postcode":"97216",
+    "addr:street":"Se 110Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.550132,45.505453,-122.550132,45.505453",
     "geom:latitude":45.505453,
     "geom:longitude":-122.550132,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773195353
         }
     ],
     "wof:id":773195353,
-    "wof:lastmodified":1466771308,
+    "wof:lastmodified":1486770779,
     "wof:name":"A Mobile Music",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

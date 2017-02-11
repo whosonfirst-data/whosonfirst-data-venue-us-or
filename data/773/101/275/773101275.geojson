@@ -2,9 +2,14 @@
   "id": 773101275,
   "type": "Feature",
   "properties": {
+    "addr:full":"8026 SE 21st Ave Portland OR 97202",
+    "addr:housenumber":"8026",
+    "addr:postcode":"97202",
+    "addr:street":"Se 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64299,45.465415,-122.64299,45.465415",
     "geom:latitude":45.465415,
     "geom:longitude":-122.64299,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536123
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536123,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":773101275
         }
     ],
     "wof:id":773101275,
-    "wof:lastmodified":1466768123,
+    "wof:lastmodified":1486770488,
     "wof:name":"Yacht Adventures Inc",
-    "wof:parent_id":420536123,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

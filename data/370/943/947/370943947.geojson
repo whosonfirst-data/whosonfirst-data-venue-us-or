@@ -2,9 +2,14 @@
   "id": 370943947,
   "type": "Feature",
   "properties": {
+    "addr:full":"3469 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"3469",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711867,45.546758,-122.711867,45.546758",
     "geom:latitude":45.546758,
     "geom:longitude":-122.711867,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:brand_id":420573931,
     "wof:breaches":[],
@@ -49,19 +56,20 @@
     "wof:geomhash":"86a189df89e48de64049900ba958d49d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":370943947
         }
     ],
     "wof:id":370943947,
-    "wof:lastmodified":1466774808,
+    "wof:lastmodified":1486771099,
     "wof:name":"Sherwin-Williams Paints",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

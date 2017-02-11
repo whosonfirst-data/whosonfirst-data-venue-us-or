@@ -2,9 +2,14 @@
   "id": 789983615,
   "type": "Feature",
   "properties": {
+    "addr:full":"9611 NE Sunderland Ave Portland OR 97211",
+    "addr:housenumber":"9611",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Sunderland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635963,45.592919,-122.635963,45.592919",
     "geom:latitude":45.592919,
     "geom:longitude":-122.635963,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893249
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":789983615
         }
     ],
     "wof:id":789983615,
-    "wof:lastmodified":1466773009,
+    "wof:lastmodified":1486768541,
     "wof:name":"Swartz Moving & Storage",
     "wof:parent_id":85893249,
     "wof:placetype":"venue",

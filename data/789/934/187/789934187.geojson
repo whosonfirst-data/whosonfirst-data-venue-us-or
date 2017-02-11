@@ -2,9 +2,14 @@
   "id": 789934187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6315 SE Holgate Blvd Portland OR 97206",
+    "addr:housenumber":"6315",
+    "addr:postcode":"97206",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59804,45.490497,-122.59804,45.490497",
     "geom:latitude":45.490497,
     "geom:longitude":-122.59804,
@@ -30,12 +35,13 @@
     "sg:website":"www.slatetechpdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789934187
         }
     ],
     "wof:id":789934187,
-    "wof:lastmodified":1466772342,
+    "wof:lastmodified":1486771650,
     "wof:name":"Slate Technologies",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

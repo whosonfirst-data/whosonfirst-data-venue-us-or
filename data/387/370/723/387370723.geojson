@@ -2,9 +2,14 @@
   "id": 387370723,
   "type": "Feature",
   "properties": {
+    "addr:full":"937 SW 14th Ave Portland OR 97205",
+    "addr:housenumber":"937",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687257,45.519377,-122.687257,45.519377",
     "geom:latitude":45.519377,
     "geom:longitude":-122.687257,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"3a69294751619590bef50c16d754399d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387370723
         }
     ],
     "wof:id":387370723,
-    "wof:lastmodified":1466772291,
+    "wof:lastmodified":1486764138,
     "wof:name":"Spectrum Systems Design",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

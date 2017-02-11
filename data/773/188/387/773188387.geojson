@@ -2,9 +2,14 @@
   "id": 773188387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5872 SE Harney Dr Portland OR 97206",
+    "addr:housenumber":"5872",
+    "addr:postcode":"97206",
+    "addr:street":"Se Harney Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603473,45.462035,-122.603473,45.462035",
     "geom:latitude":45.462035,
     "geom:longitude":-122.603473,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536111
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536111,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":773188387
         }
     ],
     "wof:id":773188387,
-    "wof:lastmodified":1466771066,
+    "wof:lastmodified":1486772245,
     "wof:name":"Sun Star Properties",
-    "wof:parent_id":420536111,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

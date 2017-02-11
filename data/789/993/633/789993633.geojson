@@ -2,9 +2,14 @@
   "id": 789993633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 NE Alberta Street Portland OR 97211",
+    "addr:housenumber":"1330",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652335,45.558995,-122.652335,45.558995",
     "geom:latitude":45.558995,
     "geom:longitude":-122.652335,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
+            "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789993633
         }
     ],
     "wof:id":789993633,
-    "wof:lastmodified":1466773218,
+    "wof:lastmodified":1486773366,
     "wof:name":"Tee Bee's Place",
-    "wof:parent_id":85893213,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

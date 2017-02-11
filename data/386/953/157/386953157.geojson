@@ -2,9 +2,14 @@
   "id": 386953157,
   "type": "Feature",
   "properties": {
+    "addr:full":"7145 N Denver Ave Portland OR 97217",
+    "addr:housenumber":"7145",
+    "addr:postcode":"97217",
+    "addr:street":"N Denver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687363,45.574005,-122.687363,45.574005",
     "geom:latitude":45.574005,
     "geom:longitude":-122.687363,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"88f3985ce246867c919c96ec58120989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":386953157
         }
     ],
     "wof:id":386953157,
-    "wof:lastmodified":1466767283,
+    "wof:lastmodified":1486772114,
     "wof:name":"Ladder Repair Man",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789828955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 SW Columbia St Portland OR 97201",
+    "addr:housenumber":"1423",
+    "addr:postcode":"97201",
+    "addr:street":"Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688963,45.516507,-122.688963,45.516507",
     "geom:latitude":45.516507,
     "geom:longitude":-122.688963,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.hotchkissmarketing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789828955
         }
     ],
     "wof:id":789828955,
-    "wof:lastmodified":1466769634,
+    "wof:lastmodified":1486764659,
     "wof:name":"Hotchkiss Marketing Solutions",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

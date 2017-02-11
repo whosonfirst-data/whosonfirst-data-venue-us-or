@@ -2,9 +2,14 @@
   "id": 370585425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1656 N Jessup St Portland OR 97217",
+    "addr:housenumber":"1656",
+    "addr:postcode":"97217",
+    "addr:street":"N Jessup St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683373,45.56401,-122.683373,45.56401",
     "geom:latitude":45.56401,
     "geom:longitude":-122.683373,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"3e0ecf11a8403888e049b244c9dc80e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370585425
         }
     ],
     "wof:id":370585425,
-    "wof:lastmodified":1466772934,
+    "wof:lastmodified":1486771844,
     "wof:name":"Metropolitan Grounds Keeping",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

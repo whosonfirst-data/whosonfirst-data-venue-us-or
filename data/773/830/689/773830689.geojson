@@ -2,9 +2,14 @@
   "id": 773830689,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 SW King Ave Portland OR 97205",
+    "addr:housenumber":"715",
+    "addr:postcode":"97205",
+    "addr:street":"Sw King Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695395,45.523173,-122.695395,45.523173",
     "geom:latitude":45.523173,
     "geom:longitude":-122.695395,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":773830689
         }
     ],
     "wof:id":773830689,
-    "wof:lastmodified":1466776161,
+    "wof:lastmodified":1486770971,
     "wof:name":"Vista Heights Apartments",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

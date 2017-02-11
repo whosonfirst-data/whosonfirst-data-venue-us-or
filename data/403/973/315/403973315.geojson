@@ -2,9 +2,14 @@
   "id": 403973315,
   "type": "Feature",
   "properties": {
+    "addr:full":"10015 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"10015",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677851,45.45306,-122.677851,45.45306",
     "geom:latitude":45.45306,
     "geom:longitude":-122.677851,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"88a24f2cbcc96d77aa59fcb6189835fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":403973315
         }
     ],
     "wof:id":403973315,
-    "wof:lastmodified":1466768674,
+    "wof:lastmodified":1486771451,
     "wof:name":"Ncvli",
-    "wof:parent_id":85818135,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

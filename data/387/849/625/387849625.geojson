@@ -2,9 +2,14 @@
   "id": 387849625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3722 SE Salmon St Portland OR 97214",
+    "addr:housenumber":"3722",
+    "addr:postcode":"97214",
+    "addr:street":"Se Salmon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.624719,45.514232,-122.624719,45.514232",
     "geom:latitude":45.514232,
     "geom:longitude":-122.624719,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1032b8d76d3f5f69b1fa8ee4404bbccf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387849625
         }
     ],
     "wof:id":387849625,
-    "wof:lastmodified":1466775158,
+    "wof:lastmodified":1486766970,
     "wof:name":"Zensible Spaces",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

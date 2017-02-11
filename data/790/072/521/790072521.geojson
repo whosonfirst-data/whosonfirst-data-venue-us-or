@@ -2,9 +2,14 @@
   "id": 790072521,
   "type": "Feature",
   "properties": {
+    "addr:full":"10015 SW Terwilliger Blvd Portland OR 97219",
+    "addr:housenumber":"10015",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676996,45.453043,-122.676996,45.453043",
     "geom:latitude":45.453043,
     "geom:longitude":-122.676996,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.lclark.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":790072521
         }
     ],
     "wof:id":790072521,
-    "wof:lastmodified":1466768601,
+    "wof:lastmodified":1486765458,
     "wof:name":"Pacific Envmtl Advocacy Ctr",
     "wof:parent_id":85871517,
     "wof:placetype":"venue",

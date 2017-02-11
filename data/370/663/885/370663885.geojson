@@ -2,9 +2,14 @@
   "id": 370663885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3338 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"3338",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648257,45.499198,-122.648257,45.499198",
     "geom:latitude":45.499198,
     "geom:longitude":-122.648257,
@@ -30,11 +35,14 @@
     "sg:website":"www.joinpdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513,
+        85807897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"6d3387e238d09e6c738ce09a94ea83b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
+            "region_id":85688513,
+            "venue_id":370663885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":370663885
         }
     ],
     "wof:id":370663885,
-    "wof:lastmodified":1466773370,
+    "wof:lastmodified":1486769404,
     "wof:name":"Join A Ctr For Involvement",
-    "wof:parent_id":85893193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

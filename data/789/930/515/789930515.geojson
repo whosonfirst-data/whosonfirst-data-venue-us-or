@@ -2,9 +2,14 @@
   "id": 789930515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5115 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"5115",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.609932,45.496306,-122.609932,45.496306",
     "geom:latitude":45.496306,
     "geom:longitude":-122.609932,
@@ -39,12 +44,13 @@
     "sg:website":"www.speedboatcoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789930515
         }
     ],
     "wof:id":789930515,
-    "wof:lastmodified":1466772313,
+    "wof:lastmodified":1486772138,
     "wof:name":"Speedboat Coffee",
-    "wof:parent_id":85867147,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

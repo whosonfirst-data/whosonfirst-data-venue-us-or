@@ -2,9 +2,14 @@
   "id": 371163837,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 SW Council Crest Dr Portland OR 97239",
+    "addr:housenumber":"4700",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Council Crest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696962,45.491526,-122.696962,45.491526",
     "geom:latitude":45.491526,
     "geom:longitude":-122.696962,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        420536089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"be959135dcaf3816eec20cec7b33ee02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":371163837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536089,
             "region_id":85688513,
             "venue_id":371163837
         }
     ],
     "wof:id":371163837,
-    "wof:lastmodified":1466769939,
+    "wof:lastmodified":1486770636,
     "wof:name":"Nextel Communications Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

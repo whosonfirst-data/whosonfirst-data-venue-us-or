@@ -2,9 +2,14 @@
   "id": 789947483,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 NW 9th Ave Portland OR 97209",
+    "addr:housenumber":"514",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680019,45.526669,-122.680019,45.526669",
     "geom:latitude":45.526669,
     "geom:longitude":-122.680019,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789947483
         }
     ],
     "wof:id":789947483,
-    "wof:lastmodified":1466772349,
+    "wof:lastmodified":1486763606,
     "wof:name":"Always Available Portland Locksmith",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

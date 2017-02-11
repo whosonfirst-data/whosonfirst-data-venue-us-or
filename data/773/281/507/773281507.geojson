@@ -2,9 +2,14 @@
   "id": 773281507,
   "type": "Feature",
   "properties": {
+    "addr:full":"14400 NE Shaver St Portland OR 97230",
+    "addr:housenumber":"14400",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Shaver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.513361,45.551519,-122.513361,45.551519",
     "geom:latitude":45.551519,
     "geom:longitude":-122.513361,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513,
+        85893153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
+            "region_id":85688513,
+            "venue_id":773281507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":773281507
         }
     ],
     "wof:id":773281507,
-    "wof:lastmodified":1466772519,
+    "wof:lastmodified":1486771485,
     "wof:name":"Bryant Electric",
-    "wof:parent_id":85893261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

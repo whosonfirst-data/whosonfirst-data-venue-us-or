@@ -2,9 +2,14 @@
   "id": 790215717,
   "type": "Feature",
   "properties": {
+    "addr:full":"2833 NE Weidler St Portland OR 97232",
+    "addr:housenumber":"2833",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Weidler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636421,45.534471,-122.636421,45.534471",
     "geom:latitude":45.534471,
     "geom:longitude":-122.636421,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871463,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871463,
             "region_id":85688513,
             "venue_id":790215717
         }
     ],
     "wof:id":790215717,
-    "wof:lastmodified":1466771831,
+    "wof:lastmodified":1486770830,
     "wof:name":"Nava Engineering Inc",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",

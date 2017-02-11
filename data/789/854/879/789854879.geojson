@@ -2,9 +2,14 @@
   "id": 789854879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"3701",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653697,45.496329,-122.653697,45.496329",
     "geom:latitude":45.496329,
     "geom:longitude":-122.653697,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789854879
         }
     ],
     "wof:id":789854879,
-    "wof:lastmodified":1466770691,
+    "wof:lastmodified":1486769400,
     "wof:name":"Mamola Melanie DC",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

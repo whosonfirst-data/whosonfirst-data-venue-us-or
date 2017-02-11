@@ -2,9 +2,14 @@
   "id": 789948237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1279 Northwest Overton Street Portland OR 97209",
+    "addr:housenumber":"1279",
+    "addr:postcode":"97209",
+    "addr:street":"Northwest Overton Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684278,45.532199,-122.684278,45.532199",
     "geom:latitude":45.532199,
     "geom:longitude":-122.684278,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789948237
         }
     ],
     "wof:id":789948237,
-    "wof:lastmodified":1466772476,
+    "wof:lastmodified":1486770344,
     "wof:name":"PFI Floor Covering Installations",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

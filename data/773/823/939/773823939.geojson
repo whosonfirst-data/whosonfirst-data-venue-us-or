@@ -2,9 +2,14 @@
   "id": 773823939,
   "type": "Feature",
   "properties": {
+    "addr:full":"10004 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"10004;97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.559998,45.477501,-122.559998,45.477501",
     "geom:latitude":45.477501,
     "geom:longitude":-122.559998,
@@ -33,12 +38,13 @@
     "sg:website":"www.buckles1.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":773823939
         }
     ],
     "wof:id":773823939,
-    "wof:lastmodified":1466776085,
+    "wof:lastmodified":1486766268,
     "wof:name":"Buckle's Collision Center",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

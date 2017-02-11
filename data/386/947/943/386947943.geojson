@@ -2,9 +2,14 @@
   "id": 386947943,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 SE 52nd Ave Portland OR 97206",
+    "addr:housenumber":"4710",
+    "addr:postcode":"97206",
+    "addr:street":"Se 52Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.608807,45.488659,-122.608807,45.488659",
     "geom:latitude":45.488659,
     "geom:longitude":-122.608807,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"fc01859ba9fccd3b04c0ffe2b359e11c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":386947943
         }
     ],
     "wof:id":386947943,
-    "wof:lastmodified":1466767263,
+    "wof:lastmodified":1486769925,
     "wof:name":"Jasons Hauling & Landscaping",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

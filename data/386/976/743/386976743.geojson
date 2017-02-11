@@ -2,9 +2,14 @@
   "id": 386976743,
   "type": "Feature",
   "properties": {
+    "addr:full":"5603 SW Hood Ave Portland OR 97239",
+    "addr:housenumber":"5603",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Hood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674864,45.483137,-122.674864,45.483137",
     "geom:latitude":45.483137,
     "geom:longitude":-122.674864,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893175
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"6d06fff90087d57faf253c4bc7b9df0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893175,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":386976743
         }
     ],
     "wof:id":386976743,
-    "wof:lastmodified":1466767398,
+    "wof:lastmodified":1486773596,
     "wof:name":"Bowen Agency",
-    "wof:parent_id":85893175,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

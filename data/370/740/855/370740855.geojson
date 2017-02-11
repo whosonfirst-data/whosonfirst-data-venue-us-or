@@ -2,9 +2,14 @@
   "id": 370740855,
   "type": "Feature",
   "properties": {
+    "addr:full":"4930 SE Reedway St Portland OR 97206",
+    "addr:housenumber":"4930",
+    "addr:postcode":"97206",
+    "addr:street":"Se Reedway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612006,45.481239,-122.612006,45.481239",
     "geom:latitude":45.481239,
     "geom:longitude":-122.612006,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"6d9428afec2e37233845db60077bfd9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":370740855
         }
     ],
     "wof:id":370740855,
-    "wof:lastmodified":1466773756,
+    "wof:lastmodified":1486769933,
     "wof:name":"Handi Aid Products Inc",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

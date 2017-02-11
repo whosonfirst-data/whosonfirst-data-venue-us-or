@@ -2,9 +2,14 @@
   "id": 371116657,
   "type": "Feature",
   "properties": {
+    "addr:full":"2136 SE 38th Ave Portland OR 97214",
+    "addr:housenumber":"2136",
+    "addr:postcode":"97214",
+    "addr:street":"Se 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62386,45.507755,-122.62386,45.507755",
     "geom:latitude":45.507755,
     "geom:longitude":-122.62386,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"703cd4dafeeff2bc9d2d41ed16d176d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":371116657
         }
     ],
     "wof:id":371116657,
-    "wof:lastmodified":1466769089,
+    "wof:lastmodified":1486767045,
     "wof:name":"CK Consulting Inc",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

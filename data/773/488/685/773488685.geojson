@@ -2,9 +2,14 @@
   "id": 773488685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2904 SE Berkeley Pl Portland OR 97202",
+    "addr:housenumber":"2904",
+    "addr:postcode":"97202",
+    "addr:street":"Se Berkeley Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631616,45.464036,-122.631616,45.464036",
     "geom:latitude":45.464036,
     "geom:longitude":-122.631616,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803429
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85803429,
             "region_id":85688513,
             "venue_id":773488685
         }
     ],
     "wof:id":773488685,
-    "wof:lastmodified":1466774792,
+    "wof:lastmodified":1486769365,
     "wof:name":"Choicepoint Group",
     "wof:parent_id":85803429,
     "wof:placetype":"venue",

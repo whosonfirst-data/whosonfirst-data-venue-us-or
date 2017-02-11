@@ -2,9 +2,14 @@
   "id": 773087017,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"7000",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661365,45.574433,-122.661365,45.574433",
     "geom:latitude":45.574433,
     "geom:longitude":-122.661365,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773087017
         }
     ],
     "wof:id":773087017,
-    "wof:lastmodified":1466767666,
+    "wof:lastmodified":1486768323,
     "wof:name":"K & B Auto Wholesale",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

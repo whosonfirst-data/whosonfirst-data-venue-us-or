@@ -2,9 +2,14 @@
   "id": 371032801,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 NW Kronan Ct Portland OR 97210",
+    "addr:housenumber":"310",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Kronan Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720809,45.523423,-122.720809,45.523423",
     "geom:latitude":45.523423,
     "geom:longitude":-122.720809,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871503,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"4da9be464ef65d6e51a38d893071da07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":371032801
         }
     ],
     "wof:id":371032801,
-    "wof:lastmodified":1466767696,
+    "wof:lastmodified":1486763122,
     "wof:name":"Larkin Group Inc",
     "wof:parent_id":85871503,
     "wof:placetype":"venue",

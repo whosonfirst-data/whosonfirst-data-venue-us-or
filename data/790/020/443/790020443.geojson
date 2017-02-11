@@ -2,9 +2,14 @@
   "id": 790020443,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 SE Salmon #103 Portland OR 97214",
+    "addr:housenumber":"811",
+    "addr:postcode":"97214",
+    "addr:street":"Se Salmon # 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681697,45.517605,-122.681697,45.517605",
     "geom:latitude":45.517605,
     "geom:longitude":-122.681697,
@@ -54,12 +59,13 @@
     "sg:website":"http://homeconomicsid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,13 +80,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790020443
         }
     ],
     "wof:id":790020443,
-    "wof:lastmodified":1466767664,
+    "wof:lastmodified":1486765545,
     "wof:name":"homECOnomics Interior Design",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

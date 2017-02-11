@@ -2,9 +2,14 @@
   "id": 387593889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2521 SE 9th Ave Portland OR 97202",
+    "addr:housenumber":"2521",
+    "addr:postcode":"97202",
+    "addr:street":"Se 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656855,45.502844,-122.656855,45.502844",
     "geom:latitude":45.502844,
     "geom:longitude":-122.656855,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"6df9f26337af29109da65b94fd4b84ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387593889
         }
     ],
     "wof:id":387593889,
-    "wof:lastmodified":1466773902,
+    "wof:lastmodified":1486773470,
     "wof:name":"Storagetek",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371108245,
   "type": "Feature",
   "properties": {
+    "addr:full":"4003 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"4003",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578848,45.492768,-122.578848,45.492768",
     "geom:latitude":45.492768,
     "geom:longitude":-122.578848,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"db78a0e7c535182de28a64d86bb3f49d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":371108245
         }
     ],
     "wof:id":371108245,
-    "wof:lastmodified":1466768929,
+    "wof:lastmodified":1486771655,
     "wof:name":"Living Hope Intl",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

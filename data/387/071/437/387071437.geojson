@@ -2,9 +2,14 @@
   "id": 387071437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1517 SE Taylor St Portland OR 97214",
+    "addr:housenumber":"1517",
+    "addr:postcode":"97214",
+    "addr:street":"Se Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649717,45.515126,-122.649717,45.515126",
     "geom:latitude":45.515126,
     "geom:longitude":-122.649717,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3ad7c5b13db5efa08047ec7a920e0af1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387071437
         }
     ],
     "wof:id":387071437,
-    "wof:lastmodified":1466768329,
+    "wof:lastmodified":1486767292,
     "wof:name":"Transporter Inc",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

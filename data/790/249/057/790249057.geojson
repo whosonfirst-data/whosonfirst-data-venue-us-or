@@ -2,9 +2,14 @@
   "id": 790249057,
   "type": "Feature",
   "properties": {
+    "addr:full":"NE Alberta St Portland OR 97253",
+    "addr:housenumber":"",
+    "addr:postcode":"97253",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615785,45.558889,-122.615785,45.558889",
     "geom:latitude":45.558889,
     "geom:longitude":-122.615785,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790249057
         }
     ],
     "wof:id":790249057,
-    "wof:lastmodified":1466772645,
+    "wof:lastmodified":1486771603,
     "wof:name":"Last Thursday",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

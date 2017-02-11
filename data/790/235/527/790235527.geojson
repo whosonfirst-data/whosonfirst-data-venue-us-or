@@ -2,9 +2,14 @@
   "id": 790235527,
   "type": "Feature",
   "properties": {
+    "addr:full":"3028 SE 148th Ave Portland OR 97236",
+    "addr:housenumber":"3028",
+    "addr:postcode":"97236",
+    "addr:street":"Se 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510468,45.500177,-122.510468,45.500177",
     "geom:latitude":45.500177,
     "geom:longitude":-122.510468,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790235527
         }
     ],
     "wof:id":790235527,
-    "wof:lastmodified":1466772264,
+    "wof:lastmodified":1486767191,
     "wof:name":"New Beginnings Landscape Construction",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

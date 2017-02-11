@@ -2,9 +2,14 @@
   "id": 773558403,
   "type": "Feature",
   "properties": {
+    "addr:full":"3536 SE 26th Ave Portland OR 97202",
+    "addr:housenumber":"3536",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639537,45.497186,-122.639537,45.497186",
     "geom:latitude":45.497186,
     "geom:longitude":-122.639537,
@@ -26,12 +31,13 @@
     "sg:website":"www.seiu49.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":773558403
         }
     ],
     "wof:id":773558403,
-    "wof:lastmodified":1466775228,
+    "wof:lastmodified":1486772122,
     "wof:name":"Service Employees Intl Union",
-    "wof:parent_id":85893197,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

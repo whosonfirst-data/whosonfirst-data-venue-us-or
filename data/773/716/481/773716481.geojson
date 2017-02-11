@@ -2,9 +2,14 @@
   "id": 773716481,
   "type": "Feature",
   "properties": {
+    "addr:full":"5231 SW Martha St Portland OR 97221",
+    "addr:housenumber":"5231",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Martha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.731258,45.485235,-122.731258,45.485235",
     "geom:latitude":45.485235,
     "geom:longitude":-122.731258,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +48,21 @@
     "wof:geomhash":"ed6401c6a6d2f2cb68f50ed12d5a12c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773716481
         }
     ],
     "wof:id":773716481,
-    "wof:lastmodified":1466775802,
+    "wof:lastmodified":1486774194,
     "wof:name":"Michelle D Cate",
-    "wof:parent_id":85807447,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

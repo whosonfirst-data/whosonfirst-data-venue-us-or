@@ -2,9 +2,14 @@
   "id": 789964219,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 NW 1st Ave Portland OR 97209",
+    "addr:housenumber":"31",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671344,45.523334,-122.671344,45.523334",
     "geom:latitude":45.523334,
     "geom:longitude":-122.671344,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +45,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789964219
         }
     ],
     "wof:id":789964219,
-    "wof:lastmodified":1466772740,
+    "wof:lastmodified":1486770688,
     "wof:name":"Ohm",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

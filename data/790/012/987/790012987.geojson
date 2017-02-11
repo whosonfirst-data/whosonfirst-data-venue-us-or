@@ -2,9 +2,14 @@
   "id": 790012987,
   "type": "Feature",
   "properties": {
+    "addr:full":"6410 NE Halsey St Portland OR 97213",
+    "addr:housenumber":"6410",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597316,45.533673,-122.597316,45.533673",
     "geom:latitude":45.533673,
     "geom:longitude":-122.597316,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":790012987
         }
     ],
     "wof:id":790012987,
-    "wof:lastmodified":1466767617,
+    "wof:lastmodified":1486770366,
     "wof:name":"Regional Mtl Mgt Svc Centre",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

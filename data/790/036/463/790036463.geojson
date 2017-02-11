@@ -2,9 +2,14 @@
   "id": 790036463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 SE 39th Avenue Portland OR 97214",
+    "addr:housenumber":"1330",
+    "addr:postcode":"97214",
+    "addr:street":"Se 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623051,45.513,-122.623051,45.513",
     "geom:latitude":45.513,
     "geom:longitude":-122.623051,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790036463
         }
     ],
     "wof:id":790036463,
-    "wof:lastmodified":1466767817,
+    "wof:lastmodified":1486766546,
     "wof:name":"Tripp Katya Lac",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

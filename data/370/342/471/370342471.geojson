@@ -2,9 +2,14 @@
   "id": 370342471,
   "type": "Feature",
   "properties": {
+    "addr:full":"6737 NE Portland Hwy Portland OR 97218",
+    "addr:housenumber":"6737",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Portland Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594847,45.565052,-122.594847,45.565052",
     "geom:latitude":45.565052,
     "geom:longitude":-122.594847,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"290612bd91a8fbec77d33140e996c5ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370342471
         }
     ],
     "wof:id":370342471,
-    "wof:lastmodified":1466770645,
+    "wof:lastmodified":1486769037,
     "wof:name":"Kim S Warehouse Distribut",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

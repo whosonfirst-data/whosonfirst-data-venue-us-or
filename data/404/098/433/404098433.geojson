@@ -2,9 +2,14 @@
   "id": 404098433,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 NE 87th Ave Portland OR 97220",
+    "addr:housenumber":"716",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 87Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.573526,45.530116,-122.573526,45.530116",
     "geom:latitude":45.530116,
     "geom:longitude":-122.573526,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"945a5fb9b3f21ffe69ae8dedcc57c8c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":404098433
         }
     ],
     "wof:id":404098433,
-    "wof:lastmodified":1466770489,
+    "wof:lastmodified":1486766497,
     "wof:name":"New Day Productions",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

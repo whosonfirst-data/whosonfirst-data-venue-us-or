@@ -2,9 +2,14 @@
   "id": 404125577,
   "type": "Feature",
   "properties": {
+    "addr:full":"3335 NW Saint Helens Rd Portland OR 97210",
+    "addr:housenumber":"3335",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.72479,45.546658,-122.72479,45.546658",
     "geom:latitude":45.546658,
     "geom:longitude":-122.72479,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"d294aded5eeaf41c68a4dfa358775104",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":404125577
         }
     ],
     "wof:id":404125577,
-    "wof:lastmodified":1466771089,
+    "wof:lastmodified":1486771089,
     "wof:name":"David Schuler Masonry Inc",
-    "wof:parent_id":85857801,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

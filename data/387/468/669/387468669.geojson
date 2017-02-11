@@ -2,9 +2,14 @@
   "id": 387468669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3731 SE 153rd Ave Portland OR 97236",
+    "addr:housenumber":"3731",
+    "addr:postcode":"97236",
+    "addr:street":"Se 153Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.506177,45.495667,-122.506177,45.495667",
     "geom:latitude":45.495667,
     "geom:longitude":-122.506177,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"95e4c53e45b6c27716fcebc38fe90b3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387468669
         }
     ],
     "wof:id":387468669,
-    "wof:lastmodified":1466773061,
+    "wof:lastmodified":1486767189,
     "wof:name":"West Coast Micro Consulting",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

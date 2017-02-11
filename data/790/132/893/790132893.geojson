@@ -2,9 +2,14 @@
   "id": 790132893,
   "type": "Feature",
   "properties": {
+    "addr:full":"7661 SW 74th Avenue Apt 20 Portland OR 97223",
+    "addr:housenumber":"7661;20",
+    "addr:postcode":"97223",
+    "addr:street":"Sw 74Th Avenue Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752533,45.464654,-122.752533,45.464654",
     "geom:latitude":45.464654,
     "geom:longitude":-122.752533,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VT1fbDHdOvv8VYYrMU0FA_45.464654_-122.752533@1303263424"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462593379,
     "wof:geomhash":"38120b93f98978c482a4dac69dd25af5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790132893
+        }
+    ],
     "wof:id":790132893,
-    "wof:lastmodified":1466769051,
+    "wof:lastmodified":1486772400,
     "wof:name":"Brittany Square",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

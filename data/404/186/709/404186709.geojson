@@ -2,9 +2,14 @@
   "id": 404186709,
   "type": "Feature",
   "properties": {
+    "addr:full":"6126 SE Duke St Portland OR 97206",
+    "addr:housenumber":"6126",
+    "addr:postcode":"97206",
+    "addr:street":"Se Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600548,45.475749,-122.600548,45.475749",
     "geom:latitude":45.475749,
     "geom:longitude":-122.600548,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871485
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b615bfce1c7e41e2d3408e3d0ec459bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871485,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":404186709
         }
     ],
     "wof:id":404186709,
-    "wof:lastmodified":1466767880,
+    "wof:lastmodified":1486772252,
     "wof:name":"Reyes Falviano Sr CPA",
-    "wof:parent_id":85871485,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

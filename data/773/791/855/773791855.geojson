@@ -2,9 +2,14 @@
   "id": 773791855,
   "type": "Feature",
   "properties": {
+    "addr:full":"6852 NE Sandy Blvd Portland OR 97213",
+    "addr:housenumber":"6852",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.592003,45.546902,-122.592003,45.546902",
     "geom:latitude":45.546902,
     "geom:longitude":-122.592003,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893229
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":773791855
         }
     ],
     "wof:id":773791855,
-    "wof:lastmodified":1466776005,
+    "wof:lastmodified":1486769267,
     "wof:name":"Miwa Restaurant",
     "wof:parent_id":85893229,
     "wof:placetype":"venue",

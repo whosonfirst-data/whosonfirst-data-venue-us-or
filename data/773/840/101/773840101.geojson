@@ -2,9 +2,14 @@
   "id": 773840101,
   "type": "Feature",
   "properties": {
+    "addr:full":"9151 SE Powell Blvd Portland OR 97266",
+    "addr:housenumber":"9151",
+    "addr:postcode":"97266",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569,45.497501,-122.569,45.497501",
     "geom:latitude":45.497501,
     "geom:longitude":-122.569,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773840101
         }
     ],
     "wof:id":773840101,
-    "wof:lastmodified":1466776103,
+    "wof:lastmodified":1486771911,
     "wof:name":"Gateway Dry Cleaners",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

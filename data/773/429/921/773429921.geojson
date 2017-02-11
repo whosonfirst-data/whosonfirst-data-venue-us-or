@@ -2,9 +2,14 @@
   "id": 773429921,
   "type": "Feature",
   "properties": {
+    "addr:full":"7109 SE 117th Pl Portland OR 97266",
+    "addr:housenumber":"7109",
+    "addr:postcode":"97266",
+    "addr:street":"Se 117Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542752,45.471498,-122.542752,45.471498",
     "geom:latitude":45.471498,
     "geom:longitude":-122.542752,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773429921
         }
     ],
     "wof:id":773429921,
-    "wof:lastmodified":1466774237,
+    "wof:lastmodified":1486772199,
     "wof:name":"Weiler Assoc",
-    "wof:parent_id":85830297,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

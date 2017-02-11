@@ -2,9 +2,14 @@
   "id": 773774801,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 NE 61st Ave Portland OR 97213",
+    "addr:housenumber":"2330",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601058,45.539597,-122.601058,45.539597",
     "geom:latitude":45.539597,
     "geom:longitude":-122.601058,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":773774801
         }
     ],
     "wof:id":773774801,
-    "wof:lastmodified":1466775951,
+    "wof:lastmodified":1486770381,
     "wof:name":"Book East",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789610039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2242 N Williams Ave Portland OR 97227",
+    "addr:housenumber":"2242",
+    "addr:postcode":"97227",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666707,45.539253,-122.666707,45.539253",
     "geom:latitude":45.539253,
     "geom:longitude":-122.666707,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":789610039
         }
     ],
     "wof:id":789610039,
-    "wof:lastmodified":1466768594,
+    "wof:lastmodified":1486770811,
     "wof:name":"Printers Parts Store Nw",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

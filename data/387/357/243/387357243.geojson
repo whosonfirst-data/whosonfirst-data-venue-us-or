@@ -2,9 +2,14 @@
   "id": 387357243,
   "type": "Feature",
   "properties": {
+    "addr:full":"11227 SE Division St Portland OR 97266",
+    "addr:housenumber":"11227",
+    "addr:postcode":"97266",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.546915,45.504263,-122.546915,45.504263",
     "geom:latitude":45.504263,
     "geom:longitude":-122.546915,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"effc9dc45365971ac195c0f313bf3f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":387357243
         }
     ],
     "wof:id":387357243,
-    "wof:lastmodified":1466772317,
+    "wof:lastmodified":1486772235,
     "wof:name":"Moore's Convenience Store",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

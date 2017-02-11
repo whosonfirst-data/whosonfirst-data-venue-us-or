@@ -2,9 +2,14 @@
   "id": 789998511,
   "type": "Feature",
   "properties": {
+    "addr:full":"3511 NE Schuyler St Portland OR 97212",
+    "addr:housenumber":"3511",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Schuyler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628143,45.53577,-122.628143,45.53577",
     "geom:latitude":45.53577,
     "geom:longitude":-122.628143,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85826019,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":789998511
         }
     ],
     "wof:id":789998511,
-    "wof:lastmodified":1466773172,
+    "wof:lastmodified":1486771663,
     "wof:name":"Toby's Can Collecting Service",
-    "wof:parent_id":85826019,
+    "wof:parent_id":85893189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

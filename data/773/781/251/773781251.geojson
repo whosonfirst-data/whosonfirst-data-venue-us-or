@@ -2,9 +2,14 @@
   "id": 773781251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2705 NE 52nd Ave Portland OR 97213",
+    "addr:housenumber":"2705",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 52Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.609737,45.543689,-122.609737,45.543689",
     "geom:latitude":45.543689,
     "geom:longitude":-122.609737,
@@ -28,7 +33,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867145,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4486dKe0gWvwNRKiGksM27_45.543689_-122.609737@1294180530"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462588327,
     "wof:geomhash":"74a963b3d965c189b7a6a79c568c9563",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
+            "region_id":85688513,
+            "venue_id":773781251
+        }
+    ],
     "wof:id":773781251,
-    "wof:lastmodified":1466775959,
+    "wof:lastmodified":1486770373,
     "wof:name":"Datatec Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

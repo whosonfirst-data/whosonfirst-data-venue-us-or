@@ -2,9 +2,14 @@
   "id": 790024891,
   "type": "Feature",
   "properties": {
+    "addr:full":"626 SE Alder St Portland OR 97214",
+    "addr:housenumber":"626",
+    "addr:postcode":"97214",
+    "addr:street":"Se Alder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659446,45.517943,-122.659446,45.517943",
     "geom:latitude":45.517943,
     "geom:longitude":-122.659446,
@@ -33,12 +38,14 @@
     "sg:website":"http://www.schneiderlaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790024891
         }
     ],
     "wof:id":790024891,
-    "wof:lastmodified":1466767721,
+    "wof:lastmodified":1486773448,
     "wof:name":"Schneider Law Offices",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

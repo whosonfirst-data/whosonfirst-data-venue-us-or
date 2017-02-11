@@ -2,9 +2,14 @@
   "id": 387026245,
   "type": "Feature",
   "properties": {
+    "addr:full":"12735 NE Whitaker Way Portland OR 97230",
+    "addr:housenumber":"12735",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Whitaker Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.533375,45.561526,-122.533375,45.561526",
     "geom:latitude":45.561526,
     "geom:longitude":-122.533375,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"c871ce3021ac9c0138841f29e481242e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":387026245
         }
     ],
     "wof:id":387026245,
-    "wof:lastmodified":1466767560,
+    "wof:lastmodified":1486769255,
     "wof:name":"Bill Hall Body & Frame Inc",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

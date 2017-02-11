@@ -2,9 +2,14 @@
   "id": 789791563,
   "type": "Feature",
   "properties": {
+    "addr:full":"9427 SE Sun Crest Dr Portland OR 97086",
+    "addr:housenumber":"9427",
+    "addr:postcode":"97086",
+    "addr:street":"Se Sun Crest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.566334,45.458246,-122.566334,45.458246",
     "geom:latitude":45.458246,
     "geom:longitude":-122.566334,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.tandcglass.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85830293,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bjVr7M5361x09Max4ueUY_45.458246_-122.566334@1303263409"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462590576,
     "wof:geomhash":"914ea35042439062d6e5ffdba05e727f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":789791563
+        }
+    ],
     "wof:id":789791563,
-    "wof:lastmodified":1466768247,
+    "wof:lastmodified":1486769550,
     "wof:name":"Town & Country Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

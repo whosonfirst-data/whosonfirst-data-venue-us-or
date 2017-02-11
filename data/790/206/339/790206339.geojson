@@ -2,9 +2,14 @@
   "id": 790206339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 NE Broadway Street Portland OR 97232",
+    "addr:housenumber":"1015",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655098,45.535291,-122.655098,45.535291",
     "geom:latitude":45.535291,
     "geom:longitude":-122.655098,
@@ -35,12 +40,13 @@
     "sg:website":"www.broadway.minutemanpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        420536083
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536083,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":790206339
         }
     ],
     "wof:id":790206339,
-    "wof:lastmodified":1466771667,
+    "wof:lastmodified":1486769490,
     "wof:name":"Minuteman Press",
-    "wof:parent_id":420536083,
+    "wof:parent_id":85827095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

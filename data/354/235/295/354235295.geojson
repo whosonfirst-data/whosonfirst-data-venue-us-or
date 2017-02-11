@@ -2,9 +2,14 @@
   "id": 354235295,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 NW 3rd Ave Portland OR 97209",
+    "addr:housenumber":"15",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673478,45.523727,-122.673478,45.523727",
     "geom:latitude":45.523727,
     "geom:longitude":-122.673478,
@@ -29,11 +34,13 @@
     "sg:website":"www.ugmportland.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"257465251456a8c3edc2af29f22b78ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":354235295
         }
     ],
     "wof:id":354235295,
-    "wof:lastmodified":1466768325,
+    "wof:lastmodified":1486770701,
     "wof:name":"Union Gospel Mission",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790041417,
   "type": "Feature",
   "properties": {
+    "addr:full":"7720 E Burnside Street Portland OR 97215",
+    "addr:housenumber":"7720",
+    "addr:postcode":"97215",
+    "addr:street":"E Burnside Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583386,45.522779,-122.583386,45.522779",
     "geom:latitude":45.522779,
     "geom:longitude":-122.583386,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790041417
         }
     ],
     "wof:id":790041417,
-    "wof:lastmodified":1466767881,
+    "wof:lastmodified":1486766747,
     "wof:name":"Melissa Anne Apartments",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

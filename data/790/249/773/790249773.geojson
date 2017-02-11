@@ -2,9 +2,14 @@
   "id": 790249773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2016 SE Division St Portland OR 97255",
+    "addr:housenumber":"2016",
+    "addr:postcode":"97255",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645141,45.504807,-122.645141,45.504807",
     "geom:latitude":45.504807,
     "geom:longitude":-122.645141,
@@ -41,12 +46,14 @@
     "sg:website":"www.fatkitty.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +68,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":790249773
         }
     ],
     "wof:id":790249773,
-    "wof:lastmodified":1466772531,
+    "wof:lastmodified":1486773669,
     "wof:name":"Fat Kitty Falafel",
-    "wof:parent_id":85893239,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

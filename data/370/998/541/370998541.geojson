@@ -2,9 +2,14 @@
   "id": 370998541,
   "type": "Feature",
   "properties": {
+    "addr:full":"3439 NE 65th Ave Portland OR 97213",
+    "addr:housenumber":"3439",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.596409,45.547282,-122.596409,45.547282",
     "geom:latitude":45.547282,
     "geom:longitude":-122.596409,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893229
+        85688513,
+        85867145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"9b2c198a33ac0b0e32271b5e87172247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893229,
+            "region_id":85688513,
+            "venue_id":370998541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":370998541
         }
     ],
     "wof:id":370998541,
-    "wof:lastmodified":1466774998,
+    "wof:lastmodified":1486770389,
     "wof:name":"Gemini Bookkeeping",
-    "wof:parent_id":85893229,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

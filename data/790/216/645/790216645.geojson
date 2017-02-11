@@ -2,9 +2,14 @@
   "id": 790216645,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 NE 15th Ave Portland OR 97232",
+    "addr:housenumber":"151",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650544,45.524025,-122.650544,45.524025",
     "geom:latitude":45.524025,
     "geom:longitude":-122.650544,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790216645
         }
     ],
     "wof:id":790216645,
-    "wof:lastmodified":1466771996,
+    "wof:lastmodified":1486767737,
     "wof:name":"All Classical Public Media",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

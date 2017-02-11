@@ -2,9 +2,14 @@
   "id": 386929183,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 SW Morrison St Portland OR 97204",
+    "addr:housenumber":"121",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67439,45.518008,-122.67439,45.518008",
     "geom:latitude":45.518008,
     "geom:longitude":-122.67439,
@@ -33,11 +38,13 @@
     "sg:website":"www.nbsrealtors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,18 @@
     "wof:geomhash":"7f57ac3d5bbc4ad109630802c3ea14fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":386929183
         }
     ],
     "wof:id":386929183,
-    "wof:lastmodified":1466767144,
+    "wof:lastmodified":1486769979,
     "wof:name":"Norris Beggs & Simpson NW Ltd",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

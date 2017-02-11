@@ -2,9 +2,14 @@
   "id": 790240161,
   "type": "Feature",
   "properties": {
+    "addr:full":"5505 SW 23rd Ave Portland OR 97239",
+    "addr:housenumber":"5505",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700738,45.483807,-122.700738,45.483807",
     "geom:latitude":45.483807,
     "geom:longitude":-122.700738,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.pps.k12.or.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790240161
         }
     ],
     "wof:id":790240161,
-    "wof:lastmodified":1466772216,
+    "wof:lastmodified":1486769451,
     "wof:name":"Gray Middle School",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

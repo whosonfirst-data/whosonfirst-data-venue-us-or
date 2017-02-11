@@ -2,9 +2,14 @@
   "id": 790217067,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 NE Broadway St Portland OR 97232",
+    "addr:housenumber":"2710",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637985,45.53517,-122.637985,45.53517",
     "geom:latitude":45.53517,
     "geom:longitude":-122.637985,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.prattframing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":790217067
         }
     ],
     "wof:id":790217067,
-    "wof:lastmodified":1466772005,
+    "wof:lastmodified":1486771664,
     "wof:name":"Pratt's Picture Frames",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85893189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

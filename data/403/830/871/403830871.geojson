@@ -2,9 +2,14 @@
   "id": 403830871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537756,45.531071,-122.537756,45.531071",
     "geom:latitude":45.531071,
     "geom:longitude":-122.537756,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"7aef24360e3587065759cd8c77c39b7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":403830871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":403830871
         }
     ],
     "wof:id":403830871,
-    "wof:lastmodified":1466770371,
+    "wof:lastmodified":1486770781,
     "wof:name":"Rochelle Villa Apartments",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

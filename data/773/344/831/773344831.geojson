@@ -2,9 +2,14 @@
   "id": 773344831,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 SE Umatilla St Portland OR 97202",
+    "addr:housenumber":"604",
+    "addr:postcode":"97202",
+    "addr:street":"Se Umatilla St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65903,45.462825,-122.65903,45.462825",
     "geom:latitude":45.462825,
     "geom:longitude":-122.65903,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":773344831
         }
     ],
     "wof:id":773344831,
-    "wof:lastmodified":1466773343,
+    "wof:lastmodified":1486770538,
     "wof:name":"Speedbump Graphic Apparel",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

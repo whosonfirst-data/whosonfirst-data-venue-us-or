@@ -2,9 +2,14 @@
   "id": 371121153,
   "type": "Feature",
   "properties": {
+    "addr:full":"966 NE Dekum St Portland OR 97211",
+    "addr:housenumber":"966",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Dekum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656235,45.571698,-122.656235,45.571698",
     "geom:latitude":45.571698,
     "geom:longitude":-122.656235,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"6484950b8b7dbe22ef31e0b871fd8430",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":371121153
         }
     ],
     "wof:id":371121153,
-    "wof:lastmodified":1466769174,
+    "wof:lastmodified":1486768584,
     "wof:name":"Pete Matje",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

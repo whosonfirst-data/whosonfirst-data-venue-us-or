@@ -2,9 +2,14 @@
   "id": 790261579,
   "type": "Feature",
   "properties": {
+    "addr:full":"11125 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"11125",
+    "addr:postcode":"97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.548598,45.476142,-122.548598,45.476142",
     "geom:latitude":45.476142,
     "geom:longitude":-122.548598,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790261579
         }
     ],
     "wof:id":790261579,
-    "wof:lastmodified":1466772574,
+    "wof:lastmodified":1486771944,
     "wof:name":"Abilco C & L",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

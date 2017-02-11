@@ -2,9 +2,14 @@
   "id": 404040401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1618 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"1618",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677398,45.510806,-122.677398,45.510806",
     "geom:latitude":45.510806,
     "geom:longitude":-122.677398,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"e3a4342f9250daba1ee517bd8b10d6ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":404040401
         }
     ],
     "wof:id":404040401,
-    "wof:lastmodified":1466769176,
+    "wof:lastmodified":1486763843,
     "wof:name":"Collins Pine Company Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

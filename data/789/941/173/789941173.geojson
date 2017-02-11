@@ -2,9 +2,14 @@
   "id": 789941173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2414 E. Burnside Portland OR 97206",
+    "addr:housenumber":"2414",
+    "addr:postcode":"97206",
+    "addr:street":"E. Burnside",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641203,45.522846,-122.641203,45.522846",
     "geom:latitude":45.522846,
     "geom:longitude":-122.641203,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789941173
         }
     ],
     "wof:id":789941173,
-    "wof:lastmodified":1466772414,
+    "wof:lastmodified":1486771403,
     "wof:name":"Beth Eyler, Hair Design",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

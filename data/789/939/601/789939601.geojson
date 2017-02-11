@@ -2,9 +2,14 @@
   "id": 789939601,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 NW 10th Ave Portland OR 97206",
+    "addr:housenumber":"110",
+    "addr:postcode":"97206",
+    "addr:street":"Nw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681128,45.524005,-122.681128,45.524005",
     "geom:latitude":45.524005,
     "geom:longitude":-122.681128,
@@ -26,12 +31,13 @@
     "sg:website":"www.blitzpdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789939601
         }
     ],
     "wof:id":789939601,
-    "wof:lastmodified":1466772239,
+    "wof:lastmodified":1486770311,
     "wof:name":"Blitz Buzz",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

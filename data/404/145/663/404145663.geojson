@@ -2,9 +2,14 @@
   "id": 404145663,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 NE Portland Blvd Portland OR 97211",
+    "addr:housenumber":"205",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Portland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663102,45.569972,-122.663102,45.569972",
     "geom:latitude":45.569972,
     "geom:longitude":-122.663102,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"f05176fdc10f9c9c4cc0eb67ab0f2b38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85841531,
+            "region_id":85688513,
+            "venue_id":404145663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":404145663
         }
     ],
     "wof:id":404145663,
-    "wof:lastmodified":1466767172,
+    "wof:lastmodified":1486768562,
     "wof:name":"Goodbuysrus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

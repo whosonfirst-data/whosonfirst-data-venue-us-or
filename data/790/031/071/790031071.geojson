@@ -2,9 +2,14 @@
   "id": 790031071,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 SE Main St Portland OR 97214",
+    "addr:housenumber":"2125",
+    "addr:postcode":"97214",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644319,45.513607,-122.644319,45.513607",
     "geom:latitude":45.513607,
     "geom:longitude":-122.644319,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.architectural-prototypes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790031071
         }
     ],
     "wof:id":790031071,
-    "wof:lastmodified":1466767758,
+    "wof:lastmodified":1486771359,
     "wof:name":"Architectural Prototypes",
-    "wof:parent_id":85828991,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

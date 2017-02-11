@@ -2,9 +2,14 @@
   "id": 789857565,
   "type": "Feature",
   "properties": {
+    "addr:full":"5025 SE 28th Portland OR 97202",
+    "addr:housenumber":"5025",
+    "addr:postcode":"97202",
+    "addr:street":"Se 28Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637537,45.486674,-122.637537,45.486674",
     "geom:latitude":45.486674,
     "geom:longitude":-122.637537,
@@ -26,12 +31,13 @@
     "sg:website":"www.kaiserpermanente.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789857565
         }
     ],
     "wof:id":789857565,
-    "wof:lastmodified":1466770806,
+    "wof:lastmodified":1486767525,
     "wof:name":"Kaiser Permanente Dental Offices",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

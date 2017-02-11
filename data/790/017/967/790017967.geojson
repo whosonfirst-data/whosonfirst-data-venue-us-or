@@ -2,9 +2,14 @@
   "id": 790017967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1847 E Burnside St # B Portland OR 97214",
+    "addr:housenumber":"1847",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside St # B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648003,45.5229,-122.648003,45.5229",
     "geom:latitude":45.5229,
     "geom:longitude":-122.648003,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790017967
         }
     ],
     "wof:id":790017967,
-    "wof:lastmodified":1466767652,
+    "wof:lastmodified":1486766302,
     "wof:name":"R L Custom Contracting",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

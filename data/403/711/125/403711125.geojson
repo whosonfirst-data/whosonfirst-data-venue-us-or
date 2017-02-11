@@ -2,9 +2,14 @@
   "id": 403711125,
   "type": "Feature",
   "properties": {
+    "addr:full":"7724 SE Aspen Summit Dr Portland OR 97266",
+    "addr:housenumber":"7724",
+    "addr:postcode":"97266",
+    "addr:street":"Se Aspen Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.564258,45.466926,-122.564258,45.466926",
     "geom:latitude":45.466926,
     "geom:longitude":-122.564258,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"dbce77c50bf395dc972d73a9646edf2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":403711125
         }
     ],
     "wof:id":403711125,
-    "wof:lastmodified":1466767972,
+    "wof:lastmodified":1486769537,
     "wof:name":"Aspen Summit Village Massage",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

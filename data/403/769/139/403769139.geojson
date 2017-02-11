@@ -2,9 +2,14 @@
   "id": 403769139,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 NE 105th Ave Portland OR 97220",
+    "addr:housenumber":"5301",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 105Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554714,45.564485,-122.554714,45.564485",
     "geom:latitude":45.564485,
     "geom:longitude":-122.554714,
@@ -31,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"0bbc855c0c2d14dbb88c282045f4940b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85840687,
+            "region_id":85688513,
+            "venue_id":403769139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":403769139
         }
     ],
     "wof:id":403769139,
-    "wof:lastmodified":1466769167,
+    "wof:lastmodified":1486769680,
     "wof:name":"Seaport Tire Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

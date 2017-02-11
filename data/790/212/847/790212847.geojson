@@ -2,9 +2,14 @@
   "id": 790212847,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 NE 41st Avenue Portland OR 97232",
+    "addr:housenumber":"840",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 41St Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623745,45.52854,-122.623745,45.52854",
     "geom:latitude":45.52854,
     "geom:longitude":-122.623745,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790212847
         }
     ],
     "wof:id":790212847,
-    "wof:lastmodified":1466772072,
+    "wof:lastmodified":1486769529,
     "wof:name":"Schools Public",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

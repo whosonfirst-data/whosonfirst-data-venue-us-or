@@ -2,9 +2,14 @@
   "id": 387431697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 SW Main St Portland OR 97205",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685483,45.517932,-122.685483,45.517932",
     "geom:latitude":45.517932,
     "geom:longitude":-122.685483,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85871479
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"df6e2b2b2cb2e9b87924ac25a5272915",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
+            "region_id":85688513,
+            "venue_id":387431697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387431697
         }
     ],
     "wof:id":387431697,
-    "wof:lastmodified":1466772661,
+    "wof:lastmodified":1486770122,
     "wof:name":"Caron Gideon Attorney At Law",
-    "wof:parent_id":85871479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

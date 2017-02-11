@@ -2,9 +2,14 @@
   "id": 789969389,
   "type": "Feature",
   "properties": {
+    "addr:full":"7200 NW Front Ave Portland OR 97210",
+    "addr:housenumber":"7200",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752061,45.575272,-122.752061,45.575272",
     "geom:latitude":45.575272,
     "geom:longitude":-122.752061,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85850801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85850801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789969389
         }
     ],
     "wof:id":789969389,
-    "wof:lastmodified":1466772790,
+    "wof:lastmodified":1486771088,
     "wof:name":"Wacker Semiconductor Holding Corporation",
-    "wof:parent_id":85850801,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

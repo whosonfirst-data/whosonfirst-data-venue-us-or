@@ -2,9 +2,14 @@
   "id": 790249645,
   "type": "Feature",
   "properties": {
+    "addr:full":"PPAA 618 SE Alder Portland OR 97255",
+    "addr:housenumber":"618",
+    "addr:postcode":"97255",
+    "addr:street":"Se Alder",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659525,45.517936,-122.659525,45.517936",
     "geom:latitude":45.517936,
     "geom:longitude":-122.659525,
@@ -26,12 +31,14 @@
     "sg:website":"www.portlandceilisociety.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790249645
         }
     ],
     "wof:id":790249645,
-    "wof:lastmodified":1466772526,
+    "wof:lastmodified":1486773505,
     "wof:name":"Portland Ceili Society",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

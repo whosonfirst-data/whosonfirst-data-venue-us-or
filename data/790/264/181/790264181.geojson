@@ -2,9 +2,14 @@
   "id": 790264181,
   "type": "Feature",
   "properties": {
+    "addr:full":"2850 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"2850",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57872,45.501787,-122.57872,45.501787",
     "geom:latitude":45.501787,
     "geom:longitude":-122.57872,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":790264181
         }
     ],
     "wof:id":790264181,
-    "wof:lastmodified":1466772734,
+    "wof:lastmodified":1486771044,
     "wof:name":"Gigi's Bookstore & Gifts",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

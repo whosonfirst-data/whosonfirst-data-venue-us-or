@@ -2,9 +2,14 @@
   "id": 773619793,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 SE 119th Ave Portland OR 97216",
+    "addr:housenumber":"128",
+    "addr:postcode":"97216",
+    "addr:street":"Se 119Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540291,45.521277,-122.540291,45.521277",
     "geom:latitude":45.521277,
     "geom:longitude":-122.540291,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773619793
         }
     ],
     "wof:id":773619793,
-    "wof:lastmodified":1466775549,
+    "wof:lastmodified":1486767151,
     "wof:name":"Friendly Remodeling Inc",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

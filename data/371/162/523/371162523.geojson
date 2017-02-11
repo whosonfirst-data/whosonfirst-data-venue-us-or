@@ -2,9 +2,14 @@
   "id": 371162523,
   "type": "Feature",
   "properties": {
+    "addr:full":"4209 SW Downs View Ct Portland OR 97221",
+    "addr:housenumber":"4209",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Downs View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719784,45.498272,-122.719784,45.498272",
     "geom:latitude":45.498272,
     "geom:longitude":-122.719784,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"d912f4ea7a446ae014e83456a260bcc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":371162523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":371162523
         }
     ],
     "wof:id":371162523,
-    "wof:lastmodified":1466769911,
+    "wof:lastmodified":1486770616,
     "wof:name":"Metropolitan Brass Co Inc",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

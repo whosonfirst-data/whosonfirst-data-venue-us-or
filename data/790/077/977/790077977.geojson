@@ -2,9 +2,14 @@
   "id": 790077977,
   "type": "Feature",
   "properties": {
+    "addr:full":"10729 SW 62nd Place Portland OR 97219",
+    "addr:housenumber":"10729",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 62Nd Place",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740449,45.447859,-122.740449,45.447859",
     "geom:latitude":45.447859,
     "geom:longitude":-122.740449,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":790077977
         }
     ],
     "wof:id":790077977,
-    "wof:lastmodified":1466768723,
+    "wof:lastmodified":1486772404,
     "wof:name":"Jackson Exterminators",
-    "wof:parent_id":85853819,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

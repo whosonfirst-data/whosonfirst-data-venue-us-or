@@ -2,9 +2,14 @@
   "id": 370597079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 SW Highland Pkwy Portland OR 97221",
+    "addr:housenumber":"1430",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Highland Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.729409,45.511605,-122.729409,45.511605",
     "geom:latitude":45.511605,
     "geom:longitude":-122.729409,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893251
     ],
     "wof:breaches":[],
@@ -39,7 +47,17 @@
     "wof:geomhash":"5cbe195409be7db31fb55432f056fb5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":370597079
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -49,9 +67,9 @@
         }
     ],
     "wof:id":370597079,
-    "wof:lastmodified":1466773009,
+    "wof:lastmodified":1486772030,
     "wof:name":"Dual Speed LLC",
-    "wof:parent_id":85893251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773773805,
   "type": "Feature",
   "properties": {
+    "addr:full":"15759 SE Clatsop St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"15759;97236",
+    "addr:street":"Se Clatsop St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.50065,45.461136,-122.50065,45.461136",
     "geom:latitude":45.461136,
     "geom:longitude":-122.50065,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773773805
         }
     ],
     "wof:id":773773805,
-    "wof:lastmodified":1466776131,
+    "wof:lastmodified":1486772197,
     "wof:name":"Flowers & Crafts By Joy",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371054353,
   "type": "Feature",
   "properties": {
+    "addr:full":"8825 SE 11th Ave Portland OR 97202",
+    "addr:housenumber":"8825",
+    "addr:postcode":"97202",
+    "addr:street":"Se 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655069,45.459077,-122.655069,45.459077",
     "geom:latitude":45.459077,
     "geom:longitude":-122.655069,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"17dedb9ace7f25c68e667be8867536fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":371054353
         }
     ],
     "wof:id":371054353,
-    "wof:lastmodified":1466768056,
+    "wof:lastmodified":1486770537,
     "wof:name":"Englert Mary LPC",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

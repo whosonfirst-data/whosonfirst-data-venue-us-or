@@ -2,9 +2,14 @@
   "id": 370258799,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 NE South Shore Rd Portland OR 97211",
+    "addr:housenumber":"810",
+    "addr:postcode":"97211",
+    "addr:street":"Ne South Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655207,45.596913,-122.655207,45.596913",
     "geom:latitude":45.596913,
     "geom:longitude":-122.655207,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"9e1ef1ed19e7e6f5f528ecbed638965e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":370258799
         }
     ],
     "wof:id":370258799,
-    "wof:lastmodified":1466769051,
+    "wof:lastmodified":1486771635,
     "wof:name":"Hay's Marine Transport",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

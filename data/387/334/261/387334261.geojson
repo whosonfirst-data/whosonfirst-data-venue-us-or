@@ -2,9 +2,14 @@
   "id": 387334261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2041 SW 58th Ave Portland OR 97221",
+    "addr:housenumber":"2041",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 58Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.736618,45.50944,-122.736618,45.50944",
     "geom:latitude":45.50944,
     "geom:longitude":-122.736618,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -42,7 +48,7 @@
     "wof:geomhash":"483fc85e1b859e99370cc838ccaeedff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387334261,
-    "wof:lastmodified":1466772130,
+    "wof:lastmodified":1486772020,
     "wof:name":"Fixture Production Company",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

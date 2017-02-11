@@ -2,9 +2,14 @@
   "id": 790189193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 NE 138th Pl Portland OR 97230",
+    "addr:housenumber":"1708",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 138Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.520301,45.535191,-122.520301,45.535191",
     "geom:latitude":45.535191,
     "geom:longitude":-122.520301,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":790189193
         }
     ],
     "wof:id":790189193,
-    "wof:lastmodified":1466771346,
+    "wof:lastmodified":1486768272,
     "wof:name":"Locks 1 2 3 Locksmith",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

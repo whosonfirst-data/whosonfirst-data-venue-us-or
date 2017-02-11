@@ -2,9 +2,14 @@
   "id": 404094449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1841 NW 23rd Ave Portland OR 97210",
+    "addr:housenumber":"1841",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69894,45.536626,-122.69894,45.536626",
     "geom:latitude":45.536626,
     "geom:longitude":-122.69894,
@@ -29,11 +34,14 @@
     "sg:website":"www.kahneeta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"02da9c71154fbb918524f01c66e25f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":404094449
         }
     ],
     "wof:id":404094449,
-    "wof:lastmodified":1466770400,
+    "wof:lastmodified":1486773768,
     "wof:name":"Media Cabin",
-    "wof:parent_id":85871509,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

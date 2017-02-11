@@ -2,9 +2,14 @@
   "id": 773112585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3425 SW Illinois St Portland OR 97239",
+    "addr:housenumber":"3425",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Illinois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712019,45.479421,-122.712019,45.479421",
     "geom:latitude":45.479421,
     "geom:longitude":-122.712019,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773112585
         }
     ],
     "wof:id":773112585,
-    "wof:lastmodified":1466768469,
+    "wof:lastmodified":1486771052,
     "wof:name":"Miller Information Technology",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

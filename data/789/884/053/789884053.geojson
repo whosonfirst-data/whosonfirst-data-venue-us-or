@@ -2,9 +2,14 @@
   "id": 789884053,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 SW Morrison Street Portland OR 97204",
+    "addr:housenumber":"121",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Morrison Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673598,45.51776,-122.673598,45.51776",
     "geom:latitude":45.51776,
     "geom:longitude":-122.673598,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789884053
         }
     ],
     "wof:id":789884053,
-    "wof:lastmodified":1466771694,
+    "wof:lastmodified":1486764265,
     "wof:name":"Hughes James D PC Atty",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

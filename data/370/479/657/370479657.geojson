@@ -2,9 +2,14 @@
   "id": 370479657,
   "type": "Feature",
   "properties": {
+    "addr:full":"5951 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"5951",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648456,45.479541,-122.648456,45.479541",
     "geom:latitude":45.479541,
     "geom:longitude":-122.648456,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"3f589e069a517fca8dd0ffde2a8b1405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370479657
         }
     ],
     "wof:id":370479657,
-    "wof:lastmodified":1466772210,
+    "wof:lastmodified":1486767182,
     "wof:name":"Bridges Produce Inc",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

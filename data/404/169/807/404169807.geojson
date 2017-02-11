@@ -2,9 +2,14 @@
   "id": 404169807,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 SW 5th Ave Portland OR 97204",
+    "addr:housenumber":"421",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676876,45.520296,-122.676876,45.520296",
     "geom:latitude":45.520296,
     "geom:longitude":-122.676876,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"2e400648f2b29e32ad77384eafacea8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":404169807
         }
     ],
     "wof:id":404169807,
-    "wof:lastmodified":1466767583,
+    "wof:lastmodified":1486764005,
     "wof:name":"Multnomah County Intake",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

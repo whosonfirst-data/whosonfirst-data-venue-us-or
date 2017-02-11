@@ -2,9 +2,14 @@
   "id": 790094533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 NE 84th Ave Portland OR 97220",
+    "addr:housenumber":"1023",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 84Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576317,45.530338,-122.576317,45.530338",
     "geom:latitude":45.530338,
     "geom:longitude":-122.576317,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790094533
         }
     ],
     "wof:id":790094533,
-    "wof:lastmodified":1466767696,
+    "wof:lastmodified":1486766444,
     "wof:name":"Dave & Linda's Personal Training",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790103903,
   "type": "Feature",
   "properties": {
+    "addr:full":"5815 SW 41st Ave Portland OR 97221",
+    "addr:housenumber":"5815",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719754,45.48196,-122.719754,45.48196",
     "geom:latitude":45.48196,
     "geom:longitude":-122.719754,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790103903
         }
     ],
     "wof:id":790103903,
-    "wof:lastmodified":1466768010,
+    "wof:lastmodified":1486771052,
     "wof:name":"1 A 1 A Locksmith",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

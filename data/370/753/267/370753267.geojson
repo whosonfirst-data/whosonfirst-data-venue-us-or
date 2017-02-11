@@ -2,9 +2,14 @@
   "id": 370753267,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 N Alberta St Portland OR 97217",
+    "addr:housenumber":"716",
+    "addr:postcode":"97217",
+    "addr:street":"N Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674169,45.558941,-122.674169,45.558941",
     "geom:latitude":45.558941,
     "geom:longitude":-122.674169,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"3f1c19c677e3b5f129b5950fc32b286d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":370753267
         }
     ],
     "wof:id":370753267,
-    "wof:lastmodified":1466773839,
+    "wof:lastmodified":1486771746,
     "wof:name":"Jasper L Ambers",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

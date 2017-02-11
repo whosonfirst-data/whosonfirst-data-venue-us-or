@@ -2,9 +2,14 @@
   "id": 790171429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Center Ct Portland OR 97227",
+    "addr:housenumber":"1",
+    "addr:postcode":"97227",
+    "addr:street":"Center Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.787034,45.599884,-122.787034,45.599884",
     "geom:latitude":45.599884,
     "geom:longitude":-122.787034,
@@ -26,12 +31,13 @@
     "sg:website":"www.rosequarter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830793,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85844911
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85844911,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":790171429
         }
     ],
     "wof:id":790171429,
-    "wof:lastmodified":1466770641,
+    "wof:lastmodified":1486769577,
     "wof:name":"Rose Garden Arena",
-    "wof:parent_id":85844911,
+    "wof:parent_id":85830793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

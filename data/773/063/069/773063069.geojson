@@ -2,9 +2,14 @@
   "id": 773063069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 SE Naegeli Ct Portland OR 97236",
+    "addr:housenumber":"4242",
+    "addr:postcode":"97236",
+    "addr:street":"Se Naegeli Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.489568,45.491459,-122.489568,45.491459",
     "geom:latitude":45.491459,
     "geom:longitude":-122.489568,
@@ -30,7 +35,11 @@
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +57,32 @@
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":773063069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773063069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":773063069
         }
     ],
     "wof:id":773063069,
-    "wof:lastmodified":1466771284,
+    "wof:lastmodified":1486772198,
     "wof:name":"Northwest Premier Inc",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

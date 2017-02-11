@@ -2,9 +2,14 @@
   "id": 789846581,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 SW 1st Avenue Portland OR 97201",
+    "addr:housenumber":"2501",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678798,45.505063,-122.678798,45.505063",
     "geom:latitude":45.505063,
     "geom:longitude":-122.678798,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789846581
         }
     ],
     "wof:id":789846581,
-    "wof:lastmodified":1466770381,
+    "wof:lastmodified":1486773559,
     "wof:name":"Lair Hill Too Cafe",
-    "wof:parent_id":420558713,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

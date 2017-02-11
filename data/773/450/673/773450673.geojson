@@ -2,9 +2,14 @@
   "id": 773450673,
   "type": "Feature",
   "properties": {
+    "addr:full":"7057 SE Powell Blvd Portland OR 97206",
+    "addr:housenumber":"7057",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.591399,45.497516,-122.591399,45.497516",
     "geom:latitude":45.497516,
     "geom:longitude":-122.591399,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773450673
         }
     ],
     "wof:id":773450673,
-    "wof:lastmodified":1466774572,
+    "wof:lastmodified":1486766771,
     "wof:name":"J & H Four Wheel Drive Spc",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

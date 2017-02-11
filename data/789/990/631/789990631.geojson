@@ -2,9 +2,14 @@
   "id": 789990631,
   "type": "Feature",
   "properties": {
+    "addr:full":"6036 NE 28th Ave Portland OR 97211",
+    "addr:housenumber":"6036",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636759,45.566983,-122.636759,45.566983",
     "geom:latitude":45.566983,
     "geom:longitude":-122.636759,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789990631
         }
     ],
     "wof:id":789990631,
-    "wof:lastmodified":1466773103,
+    "wof:lastmodified":1486768704,
     "wof:name":"Kaiser Permanente",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773051291,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 SE 14th Ave Portland OR 97214",
+    "addr:housenumber":"905",
+    "addr:postcode":"97214",
+    "addr:street":"Se 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6517,45.5158,-122.6517,45.5158",
     "geom:latitude":45.5158,
     "geom:longitude":-122.6517,
@@ -29,12 +34,13 @@
     "sg:website":"www.palmabrasive.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773051291
         }
     ],
     "wof:id":773051291,
-    "wof:lastmodified":1466771031,
+    "wof:lastmodified":1486766565,
     "wof:name":"Palm Abrasive & Tool Co",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

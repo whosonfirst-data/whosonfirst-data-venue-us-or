@@ -2,9 +2,14 @@
   "id": 370875265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 SE 29th Ave Portland OR 97214",
+    "addr:housenumber":"1337",
+    "addr:postcode":"97214",
+    "addr:street":"Se 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636185,45.51313,-122.636185,45.51313",
     "geom:latitude":45.51313,
     "geom:longitude":-122.636185,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"e81f0eab128d0d4233bf430a44c5142f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370875265
         }
     ],
     "wof:id":370875265,
-    "wof:lastmodified":1466774518,
+    "wof:lastmodified":1486769914,
     "wof:name":"Cloud Cover Studio",
-    "wof:parent_id":85893171,
+    "wof:parent_id":85851483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773111117,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 NE 150th Ave Portland OR 97230",
+    "addr:housenumber":"1914",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 150Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.507223,45.537376,-122.507223,45.537376",
     "geom:latitude":45.537376,
     "geom:longitude":-122.507223,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":773111117
         }
     ],
     "wof:id":773111117,
-    "wof:lastmodified":1466768420,
+    "wof:lastmodified":1486768530,
     "wof:name":"Leslie Homes",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

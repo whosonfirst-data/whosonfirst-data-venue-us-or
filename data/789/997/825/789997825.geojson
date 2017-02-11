@@ -2,9 +2,14 @@
   "id": 789997825,
   "type": "Feature",
   "properties": {
+    "addr:full":"2540 NE M L King Blvd Portland OR 97212",
+    "addr:housenumber":"2540",
+    "addr:postcode":"97212",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661274,45.541099,-122.661274,45.541099",
     "geom:latitude":45.541099,
     "geom:longitude":-122.661274,
@@ -47,12 +52,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/604379172/portland_or/marinello_schools_of_beauty.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +73,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":789997825
         }
     ],
     "wof:id":789997825,
-    "wof:lastmodified":1466773273,
+    "wof:lastmodified":1486770811,
     "wof:name":"Marinello Schools of Beauty",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

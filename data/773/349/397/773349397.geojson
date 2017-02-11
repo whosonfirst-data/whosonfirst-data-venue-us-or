@@ -2,9 +2,14 @@
   "id": 773349397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4707 NE 16th Ave Portland OR 97211",
+    "addr:housenumber":"4707",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648828,45.556986,-122.648828,45.556986",
     "geom:latitude":45.556986,
     "geom:longitude":-122.648828,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":773349397
         }
     ],
     "wof:id":773349397,
-    "wof:lastmodified":1466773353,
+    "wof:lastmodified":1486771985,
     "wof:name":"Liz Richards",
-    "wof:parent_id":85893213,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

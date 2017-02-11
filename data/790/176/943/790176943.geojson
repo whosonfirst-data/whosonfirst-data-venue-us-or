@@ -2,9 +2,14 @@
   "id": 790176943,
   "type": "Feature",
   "properties": {
+    "addr:full":"3811 N Mississippi Ave Portland OR 97227",
+    "addr:housenumber":"3811",
+    "addr:postcode":"97227",
+    "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675856,45.550411,-122.675856,45.550411",
     "geom:latitude":45.550411,
     "geom:longitude":-122.675856,
@@ -30,12 +35,14 @@
     "sg:website":"www.pistilsnursery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790176943
         }
     ],
     "wof:id":790176943,
-    "wof:lastmodified":1466770871,
+    "wof:lastmodified":1486773746,
     "wof:name":"Pistils Nursery",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

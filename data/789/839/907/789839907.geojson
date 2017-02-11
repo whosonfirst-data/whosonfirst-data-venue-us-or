@@ -2,9 +2,14 @@
   "id": 789839907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 SW Montgomery St Portland OR 97201",
+    "addr:housenumber":"1400",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Montgomery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69014,45.513771,-122.69014,45.513771",
     "geom:latitude":45.513771,
     "geom:longitude":-122.69014,
@@ -29,12 +34,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/39045323/portland_or/michael_a_colbach_personal_injury_attorney.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789839907
         }
     ],
     "wof:id":789839907,
-    "wof:lastmodified":1466770080,
+    "wof:lastmodified":1486770957,
     "wof:name":"Michael A. Colbach, Personal Injury Attorney",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85871479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

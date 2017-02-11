@@ -2,9 +2,14 @@
   "id": 773358845,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 NW 14th Ave Portland OR 97209",
+    "addr:housenumber":"524",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685239,45.527007,-122.685239,45.527007",
     "geom:latitude":45.527007,
     "geom:longitude":-122.685239,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":773358845
         }
     ],
     "wof:id":773358845,
-    "wof:lastmodified":1466773559,
+    "wof:lastmodified":1486770302,
     "wof:name":"Holden's Bistro",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

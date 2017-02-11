@@ -2,9 +2,14 @@
   "id": 370809901,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 SE 31st Ave Portland OR 97214",
+    "addr:housenumber":"324",
+    "addr:postcode":"97214",
+    "addr:street":"Se 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632873,45.519477,-122.632873,45.519477",
     "geom:latitude":45.519477,
     "geom:longitude":-122.632873,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +56,20 @@
     "wof:geomhash":"e135872f387a8df1021ad62eec2f0a21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":370809901
         }
     ],
     "wof:id":370809901,
-    "wof:lastmodified":1466774135,
+    "wof:lastmodified":1486771036,
     "wof:name":"Caricatures By Clark",
-    "wof:parent_id":85893157,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

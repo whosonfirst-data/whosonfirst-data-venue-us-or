@@ -2,9 +2,14 @@
   "id": 773816771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2335 N Harding Ave Portland OR 97227",
+    "addr:housenumber":"2335",
+    "addr:postcode":"97227",
+    "addr:street":"N Harding Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677847,45.539691,-122.677847,45.539691",
     "geom:latitude":45.539691,
     "geom:longitude":-122.677847,
@@ -30,12 +35,13 @@
     "sg:website":"www.prioritydelivery.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":773816771
         }
     ],
     "wof:id":773816771,
-    "wof:lastmodified":1466776072,
+    "wof:lastmodified":1486770820,
     "wof:name":"Priority Delivery Co",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

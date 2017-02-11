@@ -2,9 +2,14 @@
   "id": 773794895,
   "type": "Feature",
   "properties": {
+    "addr:full":"4335 SW Cullen Blvd Portland OR 97221",
+    "addr:housenumber":"4335",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Cullen Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.721194,45.484023,-122.721194,45.484023",
     "geom:latitude":45.484023,
     "geom:longitude":-122.721194,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773794895
         }
     ],
     "wof:id":773794895,
-    "wof:lastmodified":1466776015,
+    "wof:lastmodified":1486771055,
     "wof:name":"Biographies By Patty",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370435097,
   "type": "Feature",
   "properties": {
+    "addr:full":"6936 NE 7th Ave Portland OR 97211",
+    "addr:housenumber":"6936",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658256,45.572225,-122.658256,45.572225",
     "geom:latitude":45.572225,
     "geom:longitude":-122.658256,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"bd291feacb44e83faa37d38eeb277200",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":370435097
         }
     ],
     "wof:id":370435097,
-    "wof:lastmodified":1466771861,
+    "wof:lastmodified":1486768310,
     "wof:name":"Kalamafoni Sion",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

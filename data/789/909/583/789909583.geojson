@@ -2,9 +2,14 @@
   "id": 789909583,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 SW Washington St Ste 800 Portland OR 97205",
+    "addr:housenumber":"720",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Washington St Ste 800",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679116,45.520735,-122.679116,45.520735",
     "geom:latitude":45.520735,
     "geom:longitude":-122.679116,
@@ -42,12 +47,13 @@
     "sg:website":"http://www.boora.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +68,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789909583
         }
     ],
     "wof:id":789909583,
-    "wof:lastmodified":1466771915,
+    "wof:lastmodified":1486769951,
     "wof:name":"Boora Architects Inc",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

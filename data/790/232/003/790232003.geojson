@@ -2,9 +2,14 @@
   "id": 790232003,
   "type": "Feature",
   "properties": {
+    "addr:full":"14515 SE Division Street Portland OR 97236",
+    "addr:housenumber":"14515",
+    "addr:postcode":"97236",
+    "addr:street":"Se Division Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.513869,45.504138,-122.513869,45.504138",
     "geom:latitude":45.504138,
     "geom:longitude":-122.513869,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790232003
         }
     ],
     "wof:id":790232003,
-    "wof:lastmodified":1466772074,
+    "wof:lastmodified":1486767190,
     "wof:name":"Kfc",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

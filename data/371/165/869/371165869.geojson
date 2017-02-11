@@ -2,9 +2,14 @@
   "id": 371165869,
   "type": "Feature",
   "properties": {
+    "addr:full":"4203 SE Yamhill St Portland OR 97215",
+    "addr:housenumber":"4203",
+    "addr:postcode":"97215",
+    "addr:street":"Se Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6171,45.515791,-122.6171,45.515791",
     "geom:latitude":45.515791,
     "geom:longitude":-122.6171,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"8d77de0c76847feee5171b153bbba12c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":371165869
         }
     ],
     "wof:id":371165869,
-    "wof:lastmodified":1466769982,
+    "wof:lastmodified":1486769894,
     "wof:name":"Sofagrafix",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

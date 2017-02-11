@@ -2,9 +2,14 @@
   "id": 371067751,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 NW 8th Ave Portland OR 97209",
+    "addr:housenumber":"220",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678442,45.525017,-122.678442,45.525017",
     "geom:latitude":45.525017,
     "geom:longitude":-122.678442,
@@ -29,10 +34,13 @@
     "sg:website":"www.nwd.usace.army.mil",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
+        85688513,
         85867303
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"532254d609206c0dc393dccf579d93a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
+            "region_id":85688513,
+            "venue_id":371067751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":371067751
         }
     ],
     "wof:id":371067751,
-    "wof:lastmodified":1466768269,
+    "wof:lastmodified":1486770357,
     "wof:name":"US Army Corps Of Engineers",
-    "wof:parent_id":85867303,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790040639,
   "type": "Feature",
   "properties": {
+    "addr:full":"4531 SE Belmont St Portland OR 97215",
+    "addr:housenumber":"4531",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615856,45.516548,-122.615856,45.516548",
     "geom:latitude":45.516548,
     "geom:longitude":-122.615856,
@@ -35,12 +40,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790040639
         }
     ],
     "wof:id":790040639,
-    "wof:lastmodified":1466767878,
+    "wof:lastmodified":1486766312,
     "wof:name":"Life Works Northwest",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

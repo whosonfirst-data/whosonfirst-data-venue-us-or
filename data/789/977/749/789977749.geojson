@@ -2,9 +2,14 @@
   "id": 789977749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 NW Saint Helen's Rd Portland OR 97210",
+    "addr:housenumber":"2700",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helen'S Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720203,45.542812,-122.720203,45.542812",
     "geom:latitude":45.542812,
     "geom:longitude":-122.720203,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789977749
         }
     ],
     "wof:id":789977749,
-    "wof:lastmodified":1466772832,
+    "wof:lastmodified":1486771125,
     "wof:name":"Pdx Auto Glass",
-    "wof:parent_id":85868951,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

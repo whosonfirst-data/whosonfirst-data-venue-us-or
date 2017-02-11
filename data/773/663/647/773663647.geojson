@@ -2,9 +2,14 @@
   "id": 773663647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 NE Oregon St Portland OR 97232",
+    "addr:housenumber":"2211",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Oregon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64248,45.528656,-122.64248,45.528656",
     "geom:latitude":45.528656,
     "geom:longitude":-122.64248,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":773663647
         }
     ],
     "wof:id":773663647,
-    "wof:lastmodified":1466775668,
+    "wof:lastmodified":1486770998,
     "wof:name":"Paragon Media",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

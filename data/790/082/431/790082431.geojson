@@ -2,9 +2,14 @@
   "id": 790082431,
   "type": "Feature",
   "properties": {
+    "addr:full":"4647 SW Huber St Portland OR 97219",
+    "addr:housenumber":"4647",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Huber St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.724462,45.452457,-122.724462,45.452457",
     "geom:latitude":45.452457,
     "geom:longitude":-122.724462,
@@ -31,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713515,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871501,
-        85871471
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,24 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871501,
-            "region_id":85688513,
-            "venue_id":790082431
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871471,
+            "macrohood_id":1108714057,
+            "microhood_id":1108713515,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":790082431
         }
     ],
     "wof:id":790082431,
-    "wof:lastmodified":1466767249,
+    "wof:lastmodified":1486773408,
     "wof:name":"Pixel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

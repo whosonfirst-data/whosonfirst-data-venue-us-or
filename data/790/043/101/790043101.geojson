@@ -2,9 +2,14 @@
   "id": 790043101,
   "type": "Feature",
   "properties": {
+    "addr:full":"5018 E Burnside St Portland OR 97215",
+    "addr:housenumber":"5018",
+    "addr:postcode":"97215",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611635,45.522742,-122.611635,45.522742",
     "geom:latitude":45.522742,
     "geom:longitude":-122.611635,
@@ -26,12 +31,13 @@
     "sg:website":"www.eilersfamilydentistry.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790043101
         }
     ],
     "wof:id":790043101,
-    "wof:lastmodified":1466767909,
+    "wof:lastmodified":1486771805,
     "wof:name":"Eilers J T DMD PC",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

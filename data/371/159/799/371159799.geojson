@@ -2,9 +2,14 @@
   "id": 371159799,
   "type": "Feature",
   "properties": {
+    "addr:full":"7936 N Wayland Ave Portland OR 97203",
+    "addr:housenumber":"7936",
+    "addr:postcode":"97203",
+    "addr:street":"N Wayland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711263,45.582162,-122.711263,45.582162",
     "geom:latitude":45.582162,
     "geom:longitude":-122.711263,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"68d9fb745226d061644a95802fc935df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":371159799
         }
     ],
     "wof:id":371159799,
-    "wof:lastmodified":1466769859,
+    "wof:lastmodified":1486766032,
     "wof:name":"Barrons Hand Trucks Brake Co",
     "wof:parent_id":85893225,
     "wof:placetype":"venue",

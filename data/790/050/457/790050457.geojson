@@ -2,9 +2,14 @@
   "id": 790050457,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 SE 89th Avenue Portland OR 97216",
+    "addr:housenumber":"2250",
+    "addr:postcode":"97216",
+    "addr:street":"Se 89Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.572256,45.506454,-122.572256,45.506454",
     "geom:latitude":45.506454,
     "geom:longitude":-122.572256,
@@ -46,12 +51,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +72,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790050457
         }
     ],
     "wof:id":790050457,
-    "wof:lastmodified":1466768078,
+    "wof:lastmodified":1486769617,
     "wof:name":"Eagle Towncar",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85834889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

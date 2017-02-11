@@ -2,9 +2,14 @@
   "id": 387070077,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"914",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655742,45.522127,-122.655742,45.522127",
     "geom:latitude":45.522127,
     "geom:longitude":-122.655742,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"0c2b0a0ad50d4ec78518734d6dd650a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387070077
         }
     ],
     "wof:id":387070077,
-    "wof:lastmodified":1466768302,
+    "wof:lastmodified":1486773512,
     "wof:name":"Fabulous Food",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

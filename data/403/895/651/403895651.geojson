@@ -2,9 +2,14 @@
   "id": 403895651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1912 NE 46th Ave Portland OR 97213",
+    "addr:housenumber":"1912",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 46Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615884,45.537695,-122.615884,45.537695",
     "geom:latitude":45.537695,
     "geom:longitude":-122.615884,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893189
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"03a8f0c8d400afe99cce803f7ff98c9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85826019,
+            "region_id":85688513,
+            "venue_id":403895651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":403895651
         }
     ],
     "wof:id":403895651,
-    "wof:lastmodified":1466767292,
+    "wof:lastmodified":1486769461,
     "wof:name":"Min M Suk",
-    "wof:parent_id":85893189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387188601,
   "type": "Feature",
   "properties": {
+    "addr:full":"7009 SE Knight St Portland OR 97206",
+    "addr:housenumber":"7009",
+    "addr:postcode":"97206",
+    "addr:street":"Se Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589883,45.480306,-122.589883,45.480306",
     "geom:latitude":45.480306,
     "geom:longitude":-122.589883,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"779cf544842784a35f389ba28e9ca32a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":387188601
         }
     ],
     "wof:id":387188601,
-    "wof:lastmodified":1466770550,
+    "wof:lastmodified":1486771791,
     "wof:name":"Po Folk Tubbing",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

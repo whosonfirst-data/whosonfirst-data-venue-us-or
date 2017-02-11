@@ -2,9 +2,14 @@
   "id": 789607363,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 SW Naito Pkwy Portland OR 97204",
+    "addr:housenumber":"811",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Naito Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673025,45.516744,-122.673025,45.516744",
     "geom:latitude":45.516744,
     "geom:longitude":-122.673025,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.paulsoninvestment.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789607363
         }
     ],
     "wof:id":789607363,
-    "wof:lastmodified":1466768529,
+    "wof:lastmodified":1486763980,
     "wof:name":"Paulson Capital Corp.",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

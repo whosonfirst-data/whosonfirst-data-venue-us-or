@@ -2,9 +2,14 @@
   "id": 354389327,
   "type": "Feature",
   "properties": {
+    "addr:full":"3860 N Suttle Rd Portland OR 97217",
+    "addr:housenumber":"3860",
+    "addr:postcode":"97217",
+    "addr:street":"N Suttle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713569,45.615151,-122.713569,45.615151",
     "geom:latitude":45.615151,
     "geom:longitude":-122.713569,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b38fc5830213bfcd37a3b7e6f2fbd722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":354389327
         }
     ],
     "wof:id":354389327,
-    "wof:lastmodified":1466771114,
+    "wof:lastmodified":1486766094,
     "wof:name":"Wct Inc",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

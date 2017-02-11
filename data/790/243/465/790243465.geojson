@@ -2,9 +2,14 @@
   "id": 790243465,
   "type": "Feature",
   "properties": {
+    "addr:full":"0224 SW Hamilton St Suite 101 Portland OR 97239",
+    "addr:housenumber":"0224",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Hamilton St Suite 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67602,45.490879,-122.67602,45.490879",
     "geom:latitude":45.490879,
     "geom:longitude":-122.67602,
@@ -50,12 +55,14 @@
     "sg:website":"http://national.citysearch.com/profile/external/606746240/portland_or/skyline_integrative_medicine_jennifer_fletcher_dc_lac.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +77,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790243465
         }
     ],
     "wof:id":790243465,
-    "wof:lastmodified":1466772294,
+    "wof:lastmodified":1486773644,
     "wof:name":"Skyline Integrative Medicine, Jennifer Fletcher DC, LAc",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

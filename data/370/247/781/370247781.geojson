@@ -2,9 +2,14 @@
   "id": 370247781,
   "type": "Feature",
   "properties": {
+    "addr:full":"10307 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"10307;97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.556496,45.476694,-122.556496,45.476694",
     "geom:latitude":45.476694,
     "geom:longitude":-122.556496,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"bd2961cc815df7b263dabe153920a8d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370247781
         }
     ],
     "wof:id":370247781,
-    "wof:lastmodified":1466768846,
+    "wof:lastmodified":1486769543,
     "wof:name":"Foster Feed & Garden Inc",
-    "wof:parent_id":85830297,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

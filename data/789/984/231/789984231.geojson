@@ -2,9 +2,14 @@
   "id": 789984231,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 NE Lombard Street Portland OR 97211",
+    "addr:housenumber":"717",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Lombard Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657926,45.577328,-122.657926,45.577328",
     "geom:latitude":45.577328,
     "geom:longitude":-122.657926,
@@ -26,12 +31,13 @@
     "sg:website":"www.mollet.com/index.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":789984231
         }
     ],
     "wof:id":789984231,
-    "wof:lastmodified":1466773024,
+    "wof:lastmodified":1486768585,
     "wof:name":"Mollet Printing",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404086333,
   "type": "Feature",
   "properties": {
+    "addr:full":"14227 SE Knight St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"14227;97236",
+    "addr:street":"Se Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516622,45.479693,-122.516622,45.479693",
     "geom:latitude":45.479693,
     "geom:longitude":-122.516622,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85858087
+        85688513,
+        420536131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"b24de1a129e6fc7fc5a1a6153a8206f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85858087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
+            "region_id":85688513,
+            "venue_id":404086333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":404086333
         }
     ],
     "wof:id":404086333,
-    "wof:lastmodified":1466770111,
+    "wof:lastmodified":1486772204,
     "wof:name":"Adult Learning Systems",
-    "wof:parent_id":85858087,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

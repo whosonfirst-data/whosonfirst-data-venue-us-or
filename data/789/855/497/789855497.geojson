@@ -2,9 +2,14 @@
   "id": 789855497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3930 SE Francis St Portland OR 97202",
+    "addr:housenumber":"3930",
+    "addr:postcode":"97202",
+    "addr:street":"Se Francis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622005,45.494751,-122.622005,45.494751",
     "geom:latitude":45.494751,
     "geom:longitude":-122.622005,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.paralegalalternatives.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536085
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":789855497
         }
     ],
     "wof:id":789855497,
-    "wof:lastmodified":1466770717,
+    "wof:lastmodified":1486767027,
     "wof:name":"Paralegal Alternatives",
     "wof:parent_id":420536085,
     "wof:placetype":"venue",

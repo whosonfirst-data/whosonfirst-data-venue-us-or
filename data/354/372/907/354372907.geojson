@@ -2,9 +2,14 @@
   "id": 354372907,
   "type": "Feature",
   "properties": {
+    "addr:full":"5544 N Burrage Ave Portland OR 97217",
+    "addr:housenumber":"5544",
+    "addr:postcode":"97217",
+    "addr:street":"N Burrage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694515,45.564155,-122.694515,45.564155",
     "geom:latitude":45.564155,
     "geom:longitude":-122.694515,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1ba958e94372f72dfb3c57645e415c7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":354372907
         }
     ],
     "wof:id":354372907,
-    "wof:lastmodified":1466770820,
+    "wof:lastmodified":1486765787,
     "wof:name":"Cyber Dzine Consultants",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

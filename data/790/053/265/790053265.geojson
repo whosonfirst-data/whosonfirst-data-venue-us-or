@@ -2,9 +2,14 @@
   "id": 790053265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4150 N Suttle Rd Portland OR 97217",
+    "addr:housenumber":"4150",
+    "addr:postcode":"97217",
+    "addr:street":"N Suttle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709339,45.614001,-122.709339,45.614001",
     "geom:latitude":45.614001,
     "geom:longitude":-122.709339,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.orrco.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":790053265
         }
     ],
     "wof:id":790053265,
-    "wof:lastmodified":1466768139,
+    "wof:lastmodified":1486765826,
     "wof:name":"Oil Re-Refining Co",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

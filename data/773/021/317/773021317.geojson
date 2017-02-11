@@ -2,9 +2,14 @@
   "id": 773021317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 SE 55th Ave Portland OR 97215",
+    "addr:housenumber":"1731",
+    "addr:postcode":"97215",
+    "addr:street":"Se 55Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.606852,45.511939,-122.606852,45.511939",
     "geom:latitude":45.511939,
     "geom:longitude":-122.606852,
@@ -25,13 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":773021317
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773021317
         }
     ],
     "wof:id":773021317,
-    "wof:lastmodified":1466770290,
+    "wof:lastmodified":1486771816,
     "wof:name":"Jamess Office Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

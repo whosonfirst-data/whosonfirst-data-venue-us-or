@@ -2,9 +2,14 @@
   "id": 387889971,
   "type": "Feature",
   "properties": {
+    "addr:full":"5020 NE 82nd Ave Portland OR 97220",
+    "addr:housenumber":"5020",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578463,45.559731,-122.578463,45.559731",
     "geom:latitude":45.559731,
     "geom:longitude":-122.578463,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"8d7ec83459bbb6aedeb20fd91fe89195",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":387889971
         }
     ],
     "wof:id":387889971,
-    "wof:lastmodified":1466775255,
+    "wof:lastmodified":1486771991,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

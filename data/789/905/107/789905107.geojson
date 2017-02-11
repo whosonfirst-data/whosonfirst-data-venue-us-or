@@ -2,9 +2,14 @@
   "id": 789905107,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 SW Pine St Portland OR 97204",
+    "addr:housenumber":"50",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6713,45.520935,-122.6713,45.520935",
     "geom:latitude":45.520935,
     "geom:longitude":-122.6713,
@@ -40,12 +45,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/45294924/portland_or/kappes_miller_management.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +66,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789905107
         }
     ],
     "wof:id":789905107,
-    "wof:lastmodified":1466771858,
+    "wof:lastmodified":1486770694,
     "wof:name":"Kappes Miller Management",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

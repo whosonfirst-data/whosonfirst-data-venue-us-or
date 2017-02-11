@@ -2,9 +2,14 @@
   "id": 370716955,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 W Burnside St Portland OR 97204",
+    "addr:housenumber":"214",
+    "addr:postcode":"97204",
+    "addr:street":"W Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673368,45.523123,-122.673368,45.523123",
     "geom:latitude":45.523123,
     "geom:longitude":-122.673368,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"17cd41fdcb612c2fcae3d5448dbe7751",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":370716955
         }
     ],
     "wof:id":370716955,
-    "wof:lastmodified":1466773541,
+    "wof:lastmodified":1486770672,
     "wof:name":"X-Ray Cafe",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

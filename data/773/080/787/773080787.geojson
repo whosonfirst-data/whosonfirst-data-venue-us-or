@@ -2,9 +2,14 @@
   "id": 773080787,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 NW Skyline Blvd Portland OR 97229",
+    "addr:housenumber":"5100",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.782426,45.559403,-122.782426,45.559403",
     "geom:latitude":45.559403,
     "geom:longitude":-122.782426,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":773080787
         }
     ],
     "wof:id":773080787,
-    "wof:lastmodified":1466767474,
+    "wof:lastmodified":1486772186,
     "wof:name":"Eye In The Sky",
-    "wof:parent_id":85893259,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

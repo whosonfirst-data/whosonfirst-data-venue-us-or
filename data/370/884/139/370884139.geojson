@@ -2,9 +2,14 @@
   "id": 370884139,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 SW Dolph Ct Portland OR 97219",
+    "addr:housenumber":"2225",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Dolph Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701199,45.461683,-122.701199,45.461683",
     "geom:latitude":45.461683,
     "geom:longitude":-122.701199,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"f08cff2f8a69ca7e4650b3159a627c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":370884139
         }
     ],
     "wof:id":370884139,
-    "wof:lastmodified":1466774666,
+    "wof:lastmodified":1486770985,
     "wof:name":"Anthony J Lowe Attorney A",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85871489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

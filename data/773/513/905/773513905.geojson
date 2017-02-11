@@ -2,9 +2,14 @@
   "id": 773513905,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"3033",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678777,45.501074,-122.678777,45.501074",
     "geom:latitude":45.501074,
     "geom:longitude":-122.678777,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":773513905
         }
     ],
     "wof:id":773513905,
-    "wof:lastmodified":1466774973,
+    "wof:lastmodified":1486773557,
     "wof:name":"Terrie A Lyons PHD",
-    "wof:parent_id":420558713,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

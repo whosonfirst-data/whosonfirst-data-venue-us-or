@@ -2,9 +2,14 @@
   "id": 371076577,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 N Tomahawk Island Dr Portland OR 97217",
+    "addr:housenumber":"370",
+    "addr:postcode":"97217",
+    "addr:street":"N Tomahawk Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.669463,45.606397,-122.669463,45.606397",
     "geom:latitude":45.606397,
     "geom:longitude":-122.669463,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85807427
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,20 @@
     "wof:geomhash":"fdfc49b345701d71a8696bcc8c8f25d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807427,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":371076577
         }
     ],
     "wof:id":371076577,
-    "wof:lastmodified":1466768412,
+    "wof:lastmodified":1486772369,
     "wof:name":"SKF USA Inc",
-    "wof:parent_id":85807427,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

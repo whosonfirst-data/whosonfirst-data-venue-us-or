@@ -2,9 +2,14 @@
   "id": 404007335,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 NW 9th Ave Portland OR 97209",
+    "addr:housenumber":"223",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680239,45.524972,-122.680239,45.524972",
     "geom:latitude":45.524972,
     "geom:longitude":-122.680239,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"340f270d9d89d63565a5f228c0463319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":404007335
         }
     ],
     "wof:id":404007335,
-    "wof:lastmodified":1466768477,
+    "wof:lastmodified":1486763084,
     "wof:name":"Walter Moberg Design Inc",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

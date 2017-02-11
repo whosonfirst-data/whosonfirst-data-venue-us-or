@@ -2,9 +2,14 @@
   "id": 370784741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1835 SE 58th Ave Portland OR 97215",
+    "addr:housenumber":"1835",
+    "addr:postcode":"97215",
+    "addr:street":"Se 58Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603603,45.510172,-122.603603,45.510172",
     "geom:latitude":45.510172,
     "geom:longitude":-122.603603,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,20 @@
     "wof:geomhash":"b2b3a1819ff1c97f9eff84a1695a3457",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":370784741
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":370784741
         }
     ],
     "wof:id":370784741,
-    "wof:lastmodified":1466774110,
+    "wof:lastmodified":1486771804,
     "wof:name":"John Debarro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

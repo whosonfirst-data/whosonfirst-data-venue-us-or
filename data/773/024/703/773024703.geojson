@@ -2,9 +2,14 @@
   "id": 773024703,
   "type": "Feature",
   "properties": {
+    "addr:full":"5559 SE Ash St Portland OR 97215",
+    "addr:housenumber":"5559",
+    "addr:postcode":"97215",
+    "addr:street":"Se Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605502,45.521408,-122.605502,45.521408",
     "geom:latitude":45.521408,
     "geom:longitude":-122.605502,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773024703
         }
     ],
     "wof:id":773024703,
-    "wof:lastmodified":1466770383,
+    "wof:lastmodified":1486771816,
     "wof:name":"Acme Publishing",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789958995,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 NW 13th Ave Portland OR 97209",
+    "addr:housenumber":"411",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684439,45.525847,-122.684439,45.525847",
     "geom:latitude":45.525847,
     "geom:longitude":-122.684439,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789958995
         }
     ],
     "wof:id":789958995,
-    "wof:lastmodified":1466772516,
+    "wof:lastmodified":1486770343,
     "wof:name":"20 Minute Locksmith",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

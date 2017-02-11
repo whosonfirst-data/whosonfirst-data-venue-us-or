@@ -2,9 +2,14 @@
   "id": 403752833,
   "type": "Feature",
   "properties": {
+    "addr:full":"8931 SE Knapp St Portland OR 97266",
+    "addr:housenumber":"8931",
+    "addr:postcode":"97266",
+    "addr:street":"Se Knapp St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.571475,45.470354,-122.571475,45.470354",
     "geom:latitude":45.470354,
     "geom:longitude":-122.571475,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"2b7db30f1073c2e9c1603de3f9c3ffc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":403752833
         }
     ],
     "wof:id":403752833,
-    "wof:lastmodified":1466768897,
+    "wof:lastmodified":1486769542,
     "wof:name":"James Homan Paint Contractor",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387645647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2745 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"2745",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578765,45.502586,-122.578765,45.502586",
     "geom:latitude":45.502586,
     "geom:longitude":-122.578765,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"d09f7ea9e11dba3c93f7617c47310999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":387645647
         }
     ],
     "wof:id":387645647,
-    "wof:lastmodified":1466774076,
+    "wof:lastmodified":1486766640,
     "wof:name":"Tony's Auto World",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

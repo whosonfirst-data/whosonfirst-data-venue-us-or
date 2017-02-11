@@ -2,9 +2,14 @@
   "id": 371189911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2301",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69984,45.535472,-122.69984,45.535472",
     "geom:latitude":45.535472,
     "geom:longitude":-122.69984,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"feea86861dfb7bcbceda172502a7e959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":371189911
         }
     ],
     "wof:id":371189911,
-    "wof:lastmodified":1466770482,
+    "wof:lastmodified":1486763049,
     "wof:name":"Wayne E Kraft CPA",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

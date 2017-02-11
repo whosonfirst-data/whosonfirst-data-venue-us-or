@@ -2,9 +2,14 @@
   "id": 790212423,
   "type": "Feature",
   "properties": {
+    "addr:full":"3109 NE Broadway Street Portland OR 97232",
+    "addr:housenumber":"3109",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633857,45.535275,-122.633857,45.535275",
     "geom:latitude":45.535275,
     "geom:longitude":-122.633857,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871463,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":790212423
         }
     ],
     "wof:id":790212423,
-    "wof:lastmodified":1466771912,
+    "wof:lastmodified":1486771674,
     "wof:name":"Ace Electronics",
-    "wof:parent_id":85871463,
+    "wof:parent_id":85893189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

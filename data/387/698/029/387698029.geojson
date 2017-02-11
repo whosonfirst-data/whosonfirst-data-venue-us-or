@@ -2,9 +2,14 @@
   "id": 387698029,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 SW Taylor St Portland OR 97204",
+    "addr:housenumber":"95",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673606,45.516202,-122.673606,45.516202",
     "geom:latitude":45.516202,
     "geom:longitude":-122.673606,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c23d79c94a25a7a1921ffd6f3d3e2a91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387698029
         }
     ],
     "wof:id":387698029,
-    "wof:lastmodified":1466774372,
+    "wof:lastmodified":1486764010,
     "wof:name":"Werner Ladder",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

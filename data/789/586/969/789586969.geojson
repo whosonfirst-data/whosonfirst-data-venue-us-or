@@ -2,9 +2,14 @@
   "id": 789586969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 SW Barbur Blvd Portland OR 97239",
+    "addr:housenumber":"4330",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67724,45.491957,-122.67724,45.491957",
     "geom:latitude":45.491957,
     "geom:longitude":-122.67724,
@@ -29,12 +34,13 @@
     "sg:website":"http://loustaffordinsurance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85849969,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":789586969
         }
     ],
     "wof:id":789586969,
-    "wof:lastmodified":1466768079,
+    "wof:lastmodified":1486772302,
     "wof:name":"Lou Stafford Insurance",
-    "wof:parent_id":85849969,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

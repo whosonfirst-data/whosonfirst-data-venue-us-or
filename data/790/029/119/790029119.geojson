@@ -2,9 +2,14 @@
   "id": 790029119,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 E Burnside St Portland OR 97214",
+    "addr:housenumber":"2525",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639776,45.523098,-122.639776,45.523098",
     "geom:latitude":45.523098,
     "geom:longitude":-122.639776,
@@ -26,12 +31,13 @@
     "sg:website":"www.seallp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790029119
         }
     ],
     "wof:id":790029119,
-    "wof:lastmodified":1466767737,
+    "wof:lastmodified":1486768063,
     "wof:name":"Scott Edwards Architecture Llp",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387135029,
   "type": "Feature",
   "properties": {
+    "addr:full":"7026 N Montana Ave Portland OR 97217",
+    "addr:housenumber":"7026",
+    "addr:postcode":"97217",
+    "addr:street":"N Montana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679701,45.575003,-122.679701,45.575003",
     "geom:latitude":45.575003,
     "geom:longitude":-122.679701,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"07d8a5e34968f2a6ef2c7348a8709f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":387135029
         }
     ],
     "wof:id":387135029,
-    "wof:lastmodified":1466769460,
+    "wof:lastmodified":1486772104,
     "wof:name":"Mark Fuqua",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

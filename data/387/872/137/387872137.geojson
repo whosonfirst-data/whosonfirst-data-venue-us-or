@@ -2,9 +2,14 @@
   "id": 387872137,
   "type": "Feature",
   "properties": {
+    "addr:full":"936 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"936",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655901,45.522128,-122.655901,45.522128",
     "geom:latitude":45.522128,
     "geom:longitude":-122.655901,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"ddbf07b147042e19df582d09c2dd8fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387872137
         }
     ],
     "wof:id":387872137,
-    "wof:lastmodified":1466775208,
+    "wof:lastmodified":1486773443,
     "wof:name":"Assured Dental Lab",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773810641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4224 SE Hawthorne Blvd Portland OR 97215",
+    "addr:housenumber":"4224",
+    "addr:postcode":"97215",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618958,45.512043,-122.618958,45.512043",
     "geom:latitude":45.512043,
     "geom:longitude":-122.618958,
@@ -31,12 +36,14 @@
     "sg:website":"www.museartanddesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773810641
         }
     ],
     "wof:id":773810641,
-    "wof:lastmodified":1466776044,
+    "wof:lastmodified":1486773699,
     "wof:name":"Muse Art And Design",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

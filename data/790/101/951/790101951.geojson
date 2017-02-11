@@ -2,9 +2,14 @@
   "id": 790101951,
   "type": "Feature",
   "properties": {
+    "addr:full":"6404 SW Loop Dr Portland OR 97221",
+    "addr:housenumber":"6404",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Loop Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.721129,45.477572,-122.721129,45.477572",
     "geom:latitude":45.477572,
     "geom:longitude":-122.721129,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853645
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +67,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853645,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790101951
         }
     ],
     "wof:id":790101951,
-    "wof:lastmodified":1466767961,
+    "wof:lastmodified":1486771058,
     "wof:name":"Excalibur & Associates - Wa, Inc.",
-    "wof:parent_id":85853645,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

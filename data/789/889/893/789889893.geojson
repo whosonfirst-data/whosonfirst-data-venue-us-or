@@ -2,9 +2,14 @@
   "id": 789889893,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 1 SW First Ave. Portland OR 97204",
+    "addr:housenumber":"206 1",
+    "addr:postcode":"97204",
+    "addr:street":"Sw First Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671335,45.52313,-122.671335,45.52313",
     "geom:latitude":45.52313,
     "geom:longitude":-122.671335,
@@ -26,12 +31,13 @@
     "sg:website":"www.atticgallery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789889893
         }
     ],
     "wof:id":789889893,
-    "wof:lastmodified":1466771675,
+    "wof:lastmodified":1486770672,
     "wof:name":"Attic Gallery",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

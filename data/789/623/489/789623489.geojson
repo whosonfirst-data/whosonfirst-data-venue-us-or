@@ -2,9 +2,14 @@
   "id": 789623489,
   "type": "Feature",
   "properties": {
+    "addr:full":"9655 SE Pardee St Portland OR 97266",
+    "addr:housenumber":"9655",
+    "addr:postcode":"97266",
+    "addr:street":"Se Pardee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.564228,45.488848,-122.564228,45.488848",
     "geom:latitude":45.488848,
     "geom:longitude":-122.564228,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":789623489
         }
     ],
     "wof:id":789623489,
-    "wof:lastmodified":1466768905,
+    "wof:lastmodified":1486769539,
     "wof:name":"Shawn & Sabrina Greenwood",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

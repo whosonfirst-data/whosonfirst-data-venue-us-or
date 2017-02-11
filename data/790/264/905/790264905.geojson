@@ -2,9 +2,14 @@
   "id": 790264905,
   "type": "Feature",
   "properties": {
+    "addr:full":"8205 SE Rhine Street Portland OR 97266",
+    "addr:housenumber":"8205",
+    "addr:postcode":"97266",
+    "addr:street":"Se Rhine Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57873,45.496878,-122.57873,45.496878",
     "geom:latitude":45.496878,
     "geom:longitude":-122.57873,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":790264905
         }
     ],
     "wof:id":790264905,
-    "wof:lastmodified":1466772750,
+    "wof:lastmodified":1486771651,
     "wof:name":"Carl's Jr",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

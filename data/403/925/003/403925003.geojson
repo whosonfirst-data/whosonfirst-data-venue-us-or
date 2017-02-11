@@ -2,9 +2,14 @@
   "id": 403925003,
   "type": "Feature",
   "properties": {
+    "addr:full":"10761 N Lombard St Portland OR 97203",
+    "addr:housenumber":"10761",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.766331,45.606601,-122.766331,45.606601",
     "geom:latitude":45.606601,
     "geom:longitude":-122.766331,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85844911
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"30cef01fb84c0bdc39032ecd7358bf41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85844911,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":403925003
         }
     ],
     "wof:id":403925003,
-    "wof:lastmodified":1466767803,
+    "wof:lastmodified":1486769762,
     "wof:name":"Generex",
-    "wof:parent_id":85844911,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370436419,
   "type": "Feature",
   "properties": {
+    "addr:full":"7403 SE Stephens St Portland OR 97215",
+    "addr:housenumber":"7403",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stephens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585302,45.509705,-122.585302,45.509705",
     "geom:latitude":45.509705,
     "geom:longitude":-122.585302,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"58c42a6c2f743fe0171c760876f3aaa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":370436419
         }
     ],
     "wof:id":370436419,
-    "wof:lastmodified":1466771875,
+    "wof:lastmodified":1486771819,
     "wof:name":"Migrant Head Start Technical",
-    "wof:parent_id":85871497,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

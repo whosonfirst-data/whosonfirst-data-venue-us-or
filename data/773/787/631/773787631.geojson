@@ -2,9 +2,14 @@
   "id": 773787631,
   "type": "Feature",
   "properties": {
+    "addr:full":"2411 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"2411",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640999,45.516602,-122.640999,45.516602",
     "geom:latitude":45.516602,
     "geom:longitude":-122.640999,
@@ -31,12 +36,14 @@
     "sg:website":"www.wildabandonrestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893171
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893171,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":773787631
         }
     ],
     "wof:id":773787631,
-    "wof:lastmodified":1466775991,
+    "wof:lastmodified":1486773384,
     "wof:name":"Wild Abandon",
-    "wof:parent_id":85893171,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

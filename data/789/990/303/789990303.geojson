@@ -2,9 +2,14 @@
   "id": 789990303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1478 NE Killingsworth St 1F Portland OR 97211",
+    "addr:housenumber":"1478;1f",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65007,45.562721,-122.65007,45.562721",
     "geom:latitude":45.562721,
     "geom:longitude":-122.65007,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.ihadoregon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789990303
         }
     ],
     "wof:id":789990303,
-    "wof:lastmodified":1466772968,
+    "wof:lastmodified":1486768365,
     "wof:name":"I Have A Dream Foundation - Oregon",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

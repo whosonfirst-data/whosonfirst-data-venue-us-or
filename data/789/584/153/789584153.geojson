@@ -2,9 +2,14 @@
   "id": 789584153,
   "type": "Feature",
   "properties": {
+    "addr:full":"832 N Beech St Portland OR 97227",
+    "addr:housenumber":"832",
+    "addr:postcode":"97227",
+    "addr:street":"N Beech St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675238,45.54944,-122.675238,45.54944",
     "geom:latitude":45.54944,
     "geom:longitude":-122.675238,
@@ -32,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718537,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "microhood_id":1108718537,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":789584153
         }
     ],
     "wof:id":789584153,
-    "wof:lastmodified":1466768009,
+    "wof:lastmodified":1486773744,
     "wof:name":"Amnesia Brewing",
-    "wof:parent_id":85893207,
+    "wof:parent_id":1108718537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

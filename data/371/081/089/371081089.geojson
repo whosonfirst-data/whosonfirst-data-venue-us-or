@@ -2,9 +2,14 @@
   "id": 371081089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3053 NW 29th Ave Portland OR 97210",
+    "addr:housenumber":"3053",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711024,45.543967,-122.711024,45.543967",
     "geom:latitude":45.543967,
     "geom:longitude":-122.711024,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"51f90ea797f10e531cd9004f08df6f32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":371081089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":371081089
         }
     ],
     "wof:id":371081089,
-    "wof:lastmodified":1466768485,
+    "wof:lastmodified":1486771117,
     "wof:name":"Platt Electric Supply Inc",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

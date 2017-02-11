@@ -2,9 +2,14 @@
   "id": 387512785,
   "type": "Feature",
   "properties": {
+    "addr:full":"6433 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6433",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.596985,45.489825,-122.596985,45.489825",
     "geom:latitude":45.489825,
     "geom:longitude":-122.596985,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"63db1304018b081fd520467d74cc1414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":387512785
         }
     ],
     "wof:id":387512785,
-    "wof:lastmodified":1466773309,
+    "wof:lastmodified":1486766309,
     "wof:name":"Russian Cuisine",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

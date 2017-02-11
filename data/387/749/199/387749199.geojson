@@ -2,9 +2,14 @@
   "id": 387749199,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 NE Billinger Dr Portland OR 97220",
+    "addr:housenumber":"351",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Billinger Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.574461,45.525348,-122.574461,45.525348",
     "geom:latitude":45.525348,
     "geom:longitude":-122.574461,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b070dbeb04301ec4b3efe6a3b001b364",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":387749199
         }
     ],
     "wof:id":387749199,
-    "wof:lastmodified":1466774688,
+    "wof:lastmodified":1486769590,
     "wof:name":"Rehlin Construction",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

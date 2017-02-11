@@ -2,9 +2,14 @@
   "id": 790044113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 SE 50th Ave. Portland OR 97215",
+    "addr:housenumber":"1421",
+    "addr:postcode":"97215",
+    "addr:street":"Se 50Th Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611719,45.512447,-122.611719,45.512447",
     "geom:latitude":45.512447,
     "geom:longitude":-122.611719,
@@ -30,13 +35,14 @@
     "sg:website":"www.mindsetpdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":790044113
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893211,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790044113
         }
     ],
     "wof:id":790044113,
-    "wof:lastmodified":1466767917,
+    "wof:lastmodified":1486773685,
     "wof:name":"MindSet Hypnosis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

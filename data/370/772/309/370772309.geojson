@@ -2,9 +2,14 @@
   "id": 370772309,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 SW Broadway Dr Portland OR 97201",
+    "addr:housenumber":"840",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Broadway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685085,45.505194,-122.685085,45.505194",
     "geom:latitude":45.505194,
     "geom:longitude":-122.685085,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"034d84b079ad0b2fa1f8a2bf2da3c746",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832591,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":370772309
         }
     ],
     "wof:id":370772309,
-    "wof:lastmodified":1466773932,
+    "wof:lastmodified":1486772303,
     "wof:name":"Pollard Research Group",
-    "wof:parent_id":85832591,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

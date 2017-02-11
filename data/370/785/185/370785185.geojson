@@ -2,9 +2,14 @@
   "id": 370785185,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 SE 29th Ave Portland OR 97202",
+    "addr:housenumber":"8000",
+    "addr:postcode":"97202",
+    "addr:street":"Se 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633354,45.467796,-122.633354,45.467796",
     "geom:latitude":45.467796,
     "geom:longitude":-122.633354,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"460f40ed933ec12d71702137d1663daa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":370785185
         }
     ],
     "wof:id":370785185,
-    "wof:lastmodified":1466774011,
+    "wof:lastmodified":1486768049,
     "wof:name":"Stinky Ink",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

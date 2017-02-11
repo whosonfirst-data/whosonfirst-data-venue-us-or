@@ -2,9 +2,14 @@
   "id": 387022175,
   "type": "Feature",
   "properties": {
+    "addr:full":"4226 SW Downs View Ct Portland OR 97221",
+    "addr:housenumber":"4226",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Downs View Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720154,45.497672,-122.720154,45.497672",
     "geom:latitude":45.497672,
     "geom:longitude":-122.720154,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"346382c975a24a286dc74e74c432cbbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":387022175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":387022175
         }
     ],
     "wof:id":387022175,
-    "wof:lastmodified":1466767495,
+    "wof:lastmodified":1486770650,
     "wof:name":"Six Degrees",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

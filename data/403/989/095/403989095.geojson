@@ -2,9 +2,14 @@
   "id": 403989095,
   "type": "Feature",
   "properties": {
+    "addr:full":"2122 SE 57th Ave Portland OR 97215",
+    "addr:housenumber":"2122",
+    "addr:postcode":"97215",
+    "addr:street":"Se 57Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.604845,45.50689,-122.604845,45.50689",
     "geom:latitude":45.50689,
     "geom:longitude":-122.604845,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,20 @@
     "wof:geomhash":"54428754bcbd6548b32ac2dd2b281b93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":403989095
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":403989095
         }
     ],
     "wof:id":403989095,
-    "wof:lastmodified":1466768946,
+    "wof:lastmodified":1486771822,
     "wof:name":"Produce Basket",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789994347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3424 NE Bryce Street Portland OR 97212",
+    "addr:housenumber":"3424",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Bryce Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628983,45.549583,-122.628983,45.549583",
     "geom:latitude":45.549583,
     "geom:longitude":-122.628983,
@@ -29,12 +34,13 @@
     "sg:website":"www.bassit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827095,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":789994347
         }
     ],
     "wof:id":789994347,
-    "wof:lastmodified":1466773025,
+    "wof:lastmodified":1486771494,
     "wof:name":"Bass Information Technology",
-    "wof:parent_id":85827095,
+    "wof:parent_id":85893155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

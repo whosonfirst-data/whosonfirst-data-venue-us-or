@@ -2,9 +2,14 @@
   "id": 789831311,
   "type": "Feature",
   "properties": {
+    "addr:full":"0 SE 151st Ave Portland OR 97201",
+    "addr:housenumber":"0",
+    "addr:postcode":"97201",
+    "addr:street":"Se 151St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508065,45.522172,-122.508065,45.522172",
     "geom:latitude":45.522172,
     "geom:longitude":-122.508065,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":789831311
         }
     ],
     "wof:id":789831311,
-    "wof:lastmodified":1466769734,
+    "wof:lastmodified":1486767692,
     "wof:name":"A Locksmith Service",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403826845,
   "type": "Feature",
   "properties": {
+    "addr:full":"11110 SE Main St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"11110;97216",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.5491,45.513684,-122.5491,45.513684",
     "geom:latitude":45.513684,
     "geom:longitude":-122.5491,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"4d59611a154331d172b14844c67cacc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":403826845
         }
     ],
     "wof:id":403826845,
-    "wof:lastmodified":1466770270,
+    "wof:lastmodified":1486772237,
     "wof:name":"All Brite Striping",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

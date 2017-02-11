@@ -2,9 +2,14 @@
   "id": 773301773,
   "type": "Feature",
   "properties": {
+    "addr:full":"6343 N Michigan Ave Portland OR 97217",
+    "addr:housenumber":"6343",
+    "addr:postcode":"97217",
+    "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676964,45.569604,-122.676964,45.569604",
     "geom:latitude":45.569604,
     "geom:longitude":-122.676964,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":773301773
         }
     ],
     "wof:id":773301773,
-    "wof:lastmodified":1466772803,
+    "wof:lastmodified":1486769129,
     "wof:name":"Elysian Stoneworks",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

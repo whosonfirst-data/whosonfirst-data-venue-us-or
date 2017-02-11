@@ -2,9 +2,14 @@
   "id": 790251951,
   "type": "Feature",
   "properties": {
+    "addr:full":"SE 21 St and SE Clinton St Portland OR 97255",
+    "addr:housenumber":"21",
+    "addr:postcode":"97255",
+    "addr:street":"Se;Se Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644621,45.503398,-122.644621,45.503398",
     "geom:latitude":45.503398,
     "geom:longitude":-122.644621,
@@ -24,12 +29,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +50,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":790251951
         }
     ],
     "wof:id":790251951,
-    "wof:lastmodified":1466772681,
+    "wof:lastmodified":1486771699,
     "wof:name":"Clinton Street Cafe",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790255063,
   "type": "Feature",
   "properties": {
+    "addr:full":"11741 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"11741;97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.543518,45.476442,-122.543518,45.476442",
     "geom:latitude":45.476442,
     "geom:longitude":-122.543518,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790255063
         }
     ],
     "wof:id":790255063,
-    "wof:lastmodified":1466772587,
+    "wof:lastmodified":1486772213,
     "wof:name":"Friends Of Zenger Farm",
-    "wof:parent_id":85830297,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

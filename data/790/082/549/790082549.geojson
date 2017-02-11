@@ -2,9 +2,14 @@
   "id": 790082549,
   "type": "Feature",
   "properties": {
+    "addr:full":"6023 SW Orchid Drive Portland OR 97219",
+    "addr:housenumber":"6023",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Orchid Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.739538,45.461304,-122.739538,45.461304",
     "geom:latitude":45.461304,
     "geom:longitude":-122.739538,
@@ -27,7 +32,15 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zkBKOP31Q2OuM2B8HuGB1_45.461304_-122.739538@1303263422"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462592988,
     "wof:geomhash":"426cc976fa0c39fe1c1d4a6251ff821c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790082549
+        }
+    ],
     "wof:id":790082549,
-    "wof:lastmodified":1466767253,
+    "wof:lastmodified":1486772404,
     "wof:name":"Network Essentials",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387653011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 E Burnside St Portland OR 97214",
+    "addr:housenumber":"2625",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637434,45.522946,-122.637434,45.522946",
     "geom:latitude":45.522946,
     "geom:longitude":-122.637434,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"63d42503078d5189c29c22244f702014",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":387653011
         }
     ],
     "wof:id":387653011,
-    "wof:lastmodified":1466774228,
+    "wof:lastmodified":1486767024,
     "wof:name":"Jones Elsie M",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

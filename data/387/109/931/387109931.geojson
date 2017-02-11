@@ -2,9 +2,14 @@
   "id": 387109931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2947 SW Plum Ct Portland OR 97219",
+    "addr:housenumber":"2947",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Plum Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706398,45.455688,-122.706398,45.455688",
     "geom:latitude":45.455688,
     "geom:longitude":-122.706398,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,18 @@
     "wof:geomhash":"4dafa230cbcf8bab32ceb7bab2d24afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":387109931
         }
     ],
     "wof:id":387109931,
-    "wof:lastmodified":1466768974,
+    "wof:lastmodified":1486764030,
     "wof:name":"Judy's Quality Adult Care",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

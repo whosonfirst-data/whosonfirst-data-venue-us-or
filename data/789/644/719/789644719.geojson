@@ -2,9 +2,14 @@
   "id": 789644719,
   "type": "Feature",
   "properties": {
+    "addr:full":"0470 SW Hamilton Ct Portland OR 97239",
+    "addr:housenumber":"0470",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Hamilton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673362,45.489919,-122.673362,45.489919",
     "geom:latitude":45.489919,
     "geom:longitude":-122.673362,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":789644719
         }
     ],
     "wof:id":789644719,
-    "wof:lastmodified":1466769267,
+    "wof:lastmodified":1486773593,
     "wof:name":"Rivers Restaurant",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

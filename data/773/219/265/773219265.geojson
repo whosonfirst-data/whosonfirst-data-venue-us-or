@@ -2,9 +2,14 @@
   "id": 773219265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 N Hayden Meadows Dr Portland OR 97217",
+    "addr:housenumber":"1135",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678694,45.593847,-122.678694,45.593847",
     "geom:latitude":45.593847,
     "geom:longitude":-122.678694,
@@ -25,7 +30,15 @@
     "sg:province":"OR",
     "sg:website":"www.lazyboy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WZr0GtM4fSIc16pV6YT7X_45.593847_-122.678694@1294180530"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462584069,
     "wof:geomhash":"a1b473aa2d9b18a10d3c0bbe8e8a50ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773219265
+        }
+    ],
     "wof:id":773219265,
-    "wof:lastmodified":1466771765,
+    "wof:lastmodified":1486771634,
     "wof:name":"La-Z-Boy Furniture Galleries",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

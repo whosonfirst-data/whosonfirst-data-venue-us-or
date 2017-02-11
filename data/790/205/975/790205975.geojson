@@ -2,9 +2,14 @@
   "id": 790205975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3136 NE Davis Street Portland OR 97232",
+    "addr:housenumber":"3136",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Davis Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631808,45.524196,-122.631808,45.524196",
     "geom:latitude":45.524196,
     "geom:longitude":-122.631808,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790205975
         }
     ],
     "wof:id":790205975,
-    "wof:lastmodified":1466771655,
+    "wof:lastmodified":1486771032,
     "wof:name":"Passionflower",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

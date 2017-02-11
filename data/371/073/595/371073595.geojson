@@ -2,9 +2,14 @@
   "id": 371073595,
   "type": "Feature",
   "properties": {
+    "addr:full":"4329 SW Fairview Circus Portland OR 97221",
+    "addr:housenumber":"4329",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Fairview Circus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722971,45.516005,-122.722971,45.516005",
     "geom:latitude":45.516005,
     "geom:longitude":-122.722971,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -42,7 +48,7 @@
     "wof:geomhash":"43c6879ff75c1382a55be38838599264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":371073595,
-    "wof:lastmodified":1466768361,
+    "wof:lastmodified":1486772049,
     "wof:name":"Harris Coaching LLC",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

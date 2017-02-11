@@ -2,9 +2,14 @@
   "id": 790040983,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 SE 49th Ave Apt 7 Portland OR 97215",
+    "addr:housenumber":"926;7",
+    "addr:postcode":"97215",
+    "addr:street":"Se 49Th Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612554,45.516384,-122.612554,45.516384",
     "geom:latitude":45.516384,
     "geom:longitude":-122.612554,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790040983
         }
     ],
     "wof:id":790040983,
-    "wof:lastmodified":1466767891,
+    "wof:lastmodified":1486766237,
     "wof:name":"Heavens Gate Health Center",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

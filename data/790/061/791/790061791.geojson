@@ -2,9 +2,14 @@
   "id": 790061791,
   "type": "Feature",
   "properties": {
+    "addr:full":"6525 N Concord Ave Portland OR 97217",
+    "addr:housenumber":"6525",
+    "addr:postcode":"97217",
+    "addr:street":"N Concord Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684272,45.570045,-122.684272,45.570045",
     "geom:latitude":45.570045,
     "geom:longitude":-122.684272,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":790061791
         }
     ],
     "wof:id":790061791,
-    "wof:lastmodified":1466768322,
+    "wof:lastmodified":1486772112,
     "wof:name":"Sbcca",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370979111,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 SE 166th Pl Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"826;97233",
+    "addr:street":"Se 166Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.491752,45.515959,-122.491752,45.515959",
     "geom:latitude":45.515959,
     "geom:longitude":-122.491752,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"767af3c860029d2f408ffb1f99208785",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":370979111
         }
     ],
     "wof:id":370979111,
-    "wof:lastmodified":1466775119,
+    "wof:lastmodified":1486771544,
     "wof:name":"Jakes Products",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

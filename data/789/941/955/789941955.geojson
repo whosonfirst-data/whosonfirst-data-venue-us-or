@@ -2,9 +2,14 @@
   "id": 789941955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5225 SE 78th Ave #A Portland OR 97206",
+    "addr:housenumber":"5225",
+    "addr:postcode":"97206",
+    "addr:street":"Se 78Th Ave # A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583694,45.485186,-122.583694,45.485186",
     "geom:latitude":45.485186,
     "geom:longitude":-122.583694,
@@ -29,12 +34,14 @@
     "sg:website":"www.TheAmphead.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513,
+        85893185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
+            "region_id":85688513,
+            "venue_id":789941955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789941955
         }
     ],
     "wof:id":789941955,
-    "wof:lastmodified":1466772430,
+    "wof:lastmodified":1486771653,
     "wof:name":"Amphead Repair Service",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 386938295,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 SW Arboretum Cir Portland OR 97221",
+    "addr:housenumber":"610",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Arboretum Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.722614,45.518538,-122.722614,45.518538",
     "geom:latitude":45.518538,
     "geom:longitude":-122.722614,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101715829,
         102081631,
@@ -39,7 +45,7 @@
     "wof:geomhash":"38289d13aff5d7c87d1229737b88216f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":386938295,
-    "wof:lastmodified":1466767199,
+    "wof:lastmodified":1486772039,
     "wof:name":"Sheba House Of Elegance",
     "wof:parent_id":85893251,
     "wof:placetype":"venue",

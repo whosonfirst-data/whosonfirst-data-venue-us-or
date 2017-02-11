@@ -2,9 +2,14 @@
   "id": 790095349,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 NE 82nd Avenue Portland OR 97220",
+    "addr:housenumber":"1125",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 82Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579142,45.531365,-122.579142,45.531365",
     "geom:latitude":45.531365,
     "geom:longitude":-122.579142,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790095349
         }
     ],
     "wof:id":790095349,
-    "wof:lastmodified":1466767726,
+    "wof:lastmodified":1486769590,
     "wof:name":"Utopia Restuarant & Lounge",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

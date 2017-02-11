@@ -2,9 +2,14 @@
   "id": 387052503,
   "type": "Feature",
   "properties": {
+    "addr:full":"8817 NW Wood Ave Portland OR 97231",
+    "addr:housenumber":"8817",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Wood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.775668,45.58478,-122.775668,45.58478",
     "geom:latitude":45.58478,
     "geom:longitude":-122.775668,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719773,
+        85830793,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"ffb36ee1f8943e4fa078f21c9b1664c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "microhood_id":1108719773,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":387052503
         }
     ],
     "wof:id":387052503,
-    "wof:lastmodified":1466768019,
+    "wof:lastmodified":1486774190,
     "wof:name":"Burton Design",
-    "wof:parent_id":85868975,
+    "wof:parent_id":1108719773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

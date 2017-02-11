@@ -2,9 +2,14 @@
   "id": 371189849,
   "type": "Feature",
   "properties": {
+    "addr:full":"4215 NE 20th Ave Portland OR 97211",
+    "addr:housenumber":"4215",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644945,45.554255,-122.644945,45.554255",
     "geom:latitude":45.554255,
     "geom:longitude":-122.644945,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893233
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"b104330da155310cc584a1b48b8fa0f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":371189849
         }
     ],
     "wof:id":371189849,
-    "wof:lastmodified":1466770481,
+    "wof:lastmodified":1486769055,
     "wof:name":"Carolyn Woofter Interior Desig",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790052957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 N Schmeer Rd Portland OR 97217",
+    "addr:housenumber":"1501",
+    "addr:postcode":"97217",
+    "addr:street":"N Schmeer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68376,45.58954,-122.68376,45.58954",
     "geom:latitude":45.58954,
     "geom:longitude":-122.68376,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.cgini.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85828137
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":790052957
         }
     ],
     "wof:id":790052957,
-    "wof:lastmodified":1466768133,
+    "wof:lastmodified":1486765971,
     "wof:name":"Container Care International",
     "wof:parent_id":85828137,
     "wof:placetype":"venue",

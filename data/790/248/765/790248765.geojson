@@ -2,9 +2,14 @@
   "id": 790248765,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 40333 Portland OR 97240",
+    "addr:housenumber":"po box 40333",
+    "addr:postcode":"97240",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675446,45.521941,-122.675446,45.521941",
     "geom:latitude":45.521941,
     "geom:longitude":-122.675446,
@@ -26,12 +31,13 @@
     "sg:website":"www.earthshare-oregon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790248765
         }
     ],
     "wof:id":790248765,
-    "wof:lastmodified":1466772654,
+    "wof:lastmodified":1486770245,
     "wof:name":"Earth Share",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

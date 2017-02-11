@@ -2,9 +2,14 @@
   "id": 370285755,
   "type": "Feature",
   "properties": {
+    "addr:full":"13836 SE Eastridge St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13836;97236",
+    "addr:street":"Se Eastridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519771,45.462547,-122.519771,45.462547",
     "geom:latitude":45.462547,
     "geom:longitude":-122.519771,
@@ -29,10 +34,13 @@
     "sg:website":"www.fathershouseportland.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"0f3b935c1b6bc6f700c14a04fb6d3472",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":370285755
         }
     ],
     "wof:id":370285755,
-    "wof:lastmodified":1466769563,
+    "wof:lastmodified":1486772200,
     "wof:name":"Father's Housechurch",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

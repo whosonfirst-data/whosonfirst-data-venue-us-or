@@ -2,9 +2,14 @@
   "id": 403774121,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 SW Taylors Ferry Rd Portland OR 97219",
+    "addr:housenumber":"605",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Taylors Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672618,45.471229,-122.672618,45.471229",
     "geom:latitude":45.471229,
     "geom:longitude":-122.672618,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85885301
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"af95b82fdaa360940e5fba34e1e38273",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85885301,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":403774121
         }
     ],
     "wof:id":403774121,
-    "wof:lastmodified":1466769242,
+    "wof:lastmodified":1486773633,
     "wof:name":"Northwest Wealth Advisors",
-    "wof:parent_id":85885301,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

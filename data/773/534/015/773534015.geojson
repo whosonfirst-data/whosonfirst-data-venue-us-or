@@ -2,9 +2,14 @@
   "id": 773534015,
   "type": "Feature",
   "properties": {
+    "addr:full":"8922 NE Alderwood Rd Portland OR 97220",
+    "addr:housenumber":"8922",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Alderwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.574753,45.573785,-122.574753,45.573785",
     "geom:latitude":45.573785,
     "geom:longitude":-122.574753,
@@ -30,12 +35,13 @@
     "sg:website":"www.forwardair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":773534015
         }
     ],
     "wof:id":773534015,
-    "wof:lastmodified":1466775129,
+    "wof:lastmodified":1486772335,
     "wof:name":"Forward Air Inc",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

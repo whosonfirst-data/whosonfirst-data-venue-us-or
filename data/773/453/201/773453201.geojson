@@ -2,9 +2,14 @@
   "id": 773453201,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 SE 133rd Ave Portland OR 97233",
+    "addr:housenumber":"140",
+    "addr:postcode":"97233",
+    "addr:street":"Se 133Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.526028,45.522124,-122.526028,45.522124",
     "geom:latitude":45.522124,
     "geom:longitude":-122.526028,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773453201
         }
     ],
     "wof:id":773453201,
-    "wof:lastmodified":1466774378,
+    "wof:lastmodified":1486770750,
     "wof:name":"Grandfathers Clocks Etc",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

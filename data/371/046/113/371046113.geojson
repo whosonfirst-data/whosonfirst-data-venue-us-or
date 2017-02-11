@@ -2,9 +2,14 @@
   "id": 371046113,
   "type": "Feature",
   "properties": {
+    "addr:full":"9775 SE Mount Scott Blvd Portland OR 97266",
+    "addr:housenumber":"9775",
+    "addr:postcode":"97266",
+    "addr:street":"Se Mount Scott Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563818,45.466846,-122.563818,45.466846",
     "geom:latitude":45.466846,
     "geom:longitude":-122.563818,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:brand_id":420575169,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"eeb847c5b83deca0e7e7cb8653dc85d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":371046113
         }
     ],
     "wof:id":371046113,
-    "wof:lastmodified":1466767910,
+    "wof:lastmodified":1486769537,
     "wof:name":"SCI",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

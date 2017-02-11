@@ -2,9 +2,14 @@
   "id": 387191307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 SE 7th Ave Portland OR 97214",
+    "addr:housenumber":"1615",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658793,45.510904,-122.658793,45.510904",
     "geom:latitude":45.510904,
     "geom:longitude":-122.658793,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"d22995d5672d96034ac92d38c2696b32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387191307
         }
     ],
     "wof:id":387191307,
-    "wof:lastmodified":1466770607,
+    "wof:lastmodified":1486773482,
     "wof:name":"Pony Express Maintenance Co",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

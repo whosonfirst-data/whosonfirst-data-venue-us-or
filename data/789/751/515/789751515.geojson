@@ -2,9 +2,14 @@
   "id": 789751515,
   "type": "Feature",
   "properties": {
+    "addr:full":"17799 SW Boones Fry Lake Oswego OR 97034",
+    "addr:housenumber":"17799",
+    "addr:postcode":"97034",
+    "addr:street":"Sw Boones Fry",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702007,45.433076,-122.702007,45.433076",
     "geom:latitude":45.433076,
     "geom:longitude":-122.702007,
@@ -25,9 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715835,
         102082213,
         420536081
@@ -43,6 +52,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":789751515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715835,
             "neighbourhood_id":420536081,
@@ -51,9 +70,9 @@
         }
     ],
     "wof:id":789751515,
-    "wof:lastmodified":1466771335,
+    "wof:lastmodified":1486772263,
     "wof:name":"G I Joe's Sports & Auto Stores",
-    "wof:parent_id":420536081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

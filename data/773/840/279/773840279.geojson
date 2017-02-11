@@ -2,9 +2,14 @@
   "id": 773840279,
   "type": "Feature",
   "properties": {
+    "addr:full":"7130 SE Harold St Portland OR 97206",
+    "addr:housenumber":"7130",
+    "addr:postcode":"97206",
+    "addr:street":"Se Harold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58997,45.483043,-122.58997,45.483043",
     "geom:latitude":45.483043,
     "geom:longitude":-122.58997,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":773840279
         }
     ],
     "wof:id":773840279,
-    "wof:lastmodified":1466776108,
+    "wof:lastmodified":1486767438,
     "wof:name":"Mabuhay Grocery",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

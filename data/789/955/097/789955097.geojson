@@ -2,9 +2,14 @@
   "id": 789955097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 NW Lovejoy St Portland OR 97209",
+    "addr:housenumber":"2050",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Lovejoy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693571,45.52988,-122.693571,45.52988",
     "geom:latitude":45.52988,
     "geom:longitude":-122.693571,
@@ -20,12 +25,13 @@
     "sg:website":"http://portland.citysearch.com/profile/external/46324674/portland_or/blooming_moon_wellness_spa.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789955097
         }
     ],
     "wof:id":789955097,
-    "wof:lastmodified":1466772572,
+    "wof:lastmodified":1486771210,
     "wof:name":"Blooming Moon Wellness Spa",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

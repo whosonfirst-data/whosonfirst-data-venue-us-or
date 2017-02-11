@@ -2,9 +2,14 @@
   "id": 789943013,
   "type": "Feature",
   "properties": {
+    "addr:full":"7020 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"7020",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.591131,45.48712,-122.591131,45.48712",
     "geom:latitude":45.48712,
     "geom:longitude":-122.591131,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789943013
         }
     ],
     "wof:id":789943013,
-    "wof:lastmodified":1466772300,
+    "wof:lastmodified":1486771789,
     "wof:name":"Oregon Furniture Liq",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789896281,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 SE Washington St Ste 300 Portland OR 97204",
+    "addr:housenumber":"107",
+    "addr:postcode":"97204",
+    "addr:street":"Se Washington St Ste 300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664242,45.518557,-122.664242,45.518557",
     "geom:latitude":45.518557,
     "geom:longitude":-122.664242,
@@ -42,12 +47,14 @@
     "sg:website":"gradybritton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +69,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789896281
         }
     ],
     "wof:id":789896281,
-    "wof:lastmodified":1466771868,
+    "wof:lastmodified":1486773470,
     "wof:name":"Grady Britton",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

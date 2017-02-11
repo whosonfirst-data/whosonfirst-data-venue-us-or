@@ -2,9 +2,14 @@
   "id": 403787483,
   "type": "Feature",
   "properties": {
+    "addr:full":"9626 NW Henry Ct Portland OR 97229",
+    "addr:housenumber":"9626",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Henry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.776559,45.545699,-122.776559,45.545699",
     "geom:latitude":45.545699,
     "geom:longitude":-122.776559,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"773807bdd5c21182210253cc75b4517c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":403787483
         }
     ],
     "wof:id":403787483,
-    "wof:lastmodified":1466769453,
+    "wof:lastmodified":1486762836,
     "wof:name":"Adorable Additions",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

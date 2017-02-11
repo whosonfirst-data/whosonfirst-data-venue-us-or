@@ -2,9 +2,14 @@
   "id": 790029979,
   "type": "Feature",
   "properties": {
+    "addr:full":"1534 SE 38th Ave Portland OR 97214",
+    "addr:housenumber":"1534",
+    "addr:postcode":"97214",
+    "addr:street":"Se 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.623962,45.511823,-122.623962,45.511823",
     "geom:latitude":45.511823,
     "geom:longitude":-122.623962,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790029979
         }
     ],
     "wof:id":790029979,
-    "wof:lastmodified":1466767768,
+    "wof:lastmodified":1486773676,
     "wof:name":"Circle Of Care Caregiver Svc",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

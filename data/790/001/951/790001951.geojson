@@ -2,9 +2,14 @@
   "id": 790001951,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 NE Beech St Portland OR 97212",
+    "addr:housenumber":"807",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Beech St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657594,45.5495,-122.657594,45.5495",
     "geom:latitude":45.5495,
     "geom:longitude":-122.657594,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":790001951
         }
     ],
     "wof:id":790001951,
-    "wof:lastmodified":1466767508,
+    "wof:lastmodified":1486769088,
     "wof:name":"Obh Arts",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

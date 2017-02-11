@@ -2,9 +2,14 @@
   "id": 790083133,
   "type": "Feature",
   "properties": {
+    "addr:full":"8029 SW 17th Avenue Portland OR 97219",
+    "addr:housenumber":"8029",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 17Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695041,45.466673,-122.695041,45.466673",
     "geom:latitude":45.466673,
     "geom:longitude":-122.695041,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790083133
         }
     ],
     "wof:id":790083133,
-    "wof:lastmodified":1466767274,
+    "wof:lastmodified":1486769434,
     "wof:name":"La Sirenita 2",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

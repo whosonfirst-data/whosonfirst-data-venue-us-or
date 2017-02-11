@@ -2,9 +2,14 @@
   "id": 789891927,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 SW Ankeny St Portland OR 97204",
+    "addr:housenumber":"232",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671997,45.522598,-122.671997,45.522598",
     "geom:latitude":45.522598,
     "geom:longitude":-122.671997,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789891927
         }
     ],
     "wof:id":789891927,
-    "wof:lastmodified":1466771814,
+    "wof:lastmodified":1486770695,
     "wof:name":"Papillion Fine Lingerie",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

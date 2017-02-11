@@ -2,9 +2,14 @@
   "id": 370295841,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 NW 10th Ave Portland OR 97209",
+    "addr:housenumber":"525",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681332,45.527077,-122.681332,45.527077",
     "geom:latitude":45.527077,
     "geom:longitude":-122.681332,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"3319eda8adcc8b34f768f9a67dda7e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":370295841
         }
     ],
     "wof:id":370295841,
-    "wof:lastmodified":1466769746,
+    "wof:lastmodified":1486763502,
     "wof:name":"Zen Gallery",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

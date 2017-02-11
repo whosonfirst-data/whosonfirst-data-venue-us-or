@@ -2,9 +2,14 @@
   "id": 387915637,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 SE 160th Ave Portland OR 97233",
+    "addr:housenumber":"100",
+    "addr:postcode":"97233",
+    "addr:street":"Se 160Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498939,45.521945,-122.498939,45.521945",
     "geom:latitude":45.521945,
     "geom:longitude":-122.498939,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d4bc4e2a6442e60b7a4028573711ee4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
             "region_id":85688513,
             "venue_id":387915637
         }
     ],
     "wof:id":387915637,
-    "wof:lastmodified":1466775330,
+    "wof:lastmodified":1486768132,
     "wof:name":"Gail's Business Svc",
     "wof:parent_id":85893187,
     "wof:placetype":"venue",

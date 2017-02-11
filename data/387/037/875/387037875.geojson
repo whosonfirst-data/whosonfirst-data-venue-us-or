@@ -2,9 +2,14 @@
   "id": 387037875,
   "type": "Feature",
   "properties": {
+    "addr:full":"2539 NW Marsden Pl Portland OR 97229",
+    "addr:housenumber":"2539",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Marsden Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.777707,45.541295,-122.777707,45.541295",
     "geom:latitude":45.541295,
     "geom:longitude":-122.777707,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"26172e5e8f8465ba6ed3bee9810c179c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":387037875
         }
     ],
     "wof:id":387037875,
-    "wof:lastmodified":1466767764,
+    "wof:lastmodified":1486763452,
     "wof:name":"Kathleen Vinton Interior",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

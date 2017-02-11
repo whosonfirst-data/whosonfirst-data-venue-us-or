@@ -2,9 +2,14 @@
   "id": 789954161,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 W Burnside Street Portland OR 97209",
+    "addr:housenumber":"134",
+    "addr:postcode":"97209",
+    "addr:street":"W Burnside Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671568,45.523209,-122.671568,45.523209",
     "geom:latitude":45.523209,
     "geom:longitude":-122.671568,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789954161
         }
     ],
     "wof:id":789954161,
-    "wof:lastmodified":1466772542,
+    "wof:lastmodified":1486770678,
     "wof:name":"West Burnside Chiropractic Clinic",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

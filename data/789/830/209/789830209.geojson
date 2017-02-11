@@ -2,9 +2,14 @@
   "id": 789830209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 SW Jefferson St Portland OR 97201",
+    "addr:housenumber":"1700",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69136,45.517769,-122.69136,45.517769",
     "geom:latitude":45.517769,
     "geom:longitude":-122.69136,
@@ -29,12 +34,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000277022495",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789830209
         }
     ],
     "wof:id":789830209,
-    "wof:lastmodified":1466769688,
+    "wof:lastmodified":1486770959,
     "wof:name":"Allstate Insurance Company - Frank Carroll",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

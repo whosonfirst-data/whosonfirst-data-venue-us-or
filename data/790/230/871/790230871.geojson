@@ -2,9 +2,14 @@
   "id": 790230871,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 SE 138th Dr Portland OR 97236",
+    "addr:housenumber":"8101",
+    "addr:postcode":"97236",
+    "addr:street":"Se 138Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524985,45.464726,-122.524985,45.464726",
     "geom:latitude":45.464726,
     "geom:longitude":-122.524985,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790230871
         }
     ],
     "wof:id":790230871,
-    "wof:lastmodified":1466772168,
+    "wof:lastmodified":1486766351,
     "wof:name":"Quarry Direct Stone Sales",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790196549,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 NE 122nd Avenue Portland OR 97230",
+    "addr:housenumber":"203",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.53786,45.523965,-122.53786,45.523965",
     "geom:latitude":45.523965,
     "geom:longitude":-122.53786,
@@ -26,12 +31,13 @@
     "sg:website":"www.rtgt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790196549
         }
     ],
     "wof:id":790196549,
-    "wof:lastmodified":1466771593,
+    "wof:lastmodified":1486767980,
     "wof:name":"Tonkin Ron",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

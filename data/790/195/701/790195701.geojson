@@ -2,9 +2,14 @@
   "id": 790195701,
   "type": "Feature",
   "properties": {
+    "addr:full":"13150 NE Halsey St Portland OR 97230",
+    "addr:housenumber":"13150",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.527,45.533401,-122.527,45.533401",
     "geom:latitude":45.533401,
     "geom:longitude":-122.527,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536087
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790195701
         }
     ],
     "wof:id":790195701,
-    "wof:lastmodified":1466771591,
+    "wof:lastmodified":1486770760,
     "wof:name":"Kirchem Associates",
-    "wof:parent_id":420536087,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

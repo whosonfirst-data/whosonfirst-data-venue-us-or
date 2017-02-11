@@ -2,9 +2,14 @@
   "id": 789928475,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 SW Main St Ste 411 Portland OR 97205",
+    "addr:housenumber":"620",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Main St Ste 411",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680259,45.516472,-122.680259,45.516472",
     "geom:latitude":45.516472,
     "geom:longitude":-122.680259,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789928475
         }
     ],
     "wof:id":789928475,
-    "wof:lastmodified":1466772416,
+    "wof:lastmodified":1486765025,
     "wof:name":"Federal Cntract Compliance Off",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

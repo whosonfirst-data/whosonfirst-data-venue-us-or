@@ -2,9 +2,14 @@
   "id": 790058215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 N Hayden Island Dr Ste 999 Portland OR 97217",
+    "addr:housenumber":"1503",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Island Dr Ste 999",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683616,45.614506,-122.683616,45.614506",
     "geom:latitude":45.614506,
     "geom:longitude":-122.683616,
@@ -19,12 +24,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85871507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +45,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871507,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":790058215
         }
     ],
     "wof:id":790058215,
-    "wof:lastmodified":1466768242,
+    "wof:lastmodified":1486772368,
     "wof:name":"Hayden Island Mobile Home Park",
-    "wof:parent_id":85871507,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790221205,
   "type": "Feature",
   "properties": {
+    "addr:full":"SW 3rd and Stark Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"97233",
+    "addr:street":"Sw 3Rd And",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528776,45.519073,-122.528776,45.519073",
     "geom:latitude":45.519073,
     "geom:longitude":-122.528776,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790221205
         }
     ],
     "wof:id":790221205,
-    "wof:lastmodified":1466771887,
+    "wof:lastmodified":1486766367,
     "wof:name":"Celtic Foods",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

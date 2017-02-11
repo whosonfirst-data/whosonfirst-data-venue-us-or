@@ -2,9 +2,14 @@
   "id": 371186651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 NE Killingsworth St Portland OR 97211",
+    "addr:housenumber":"1505",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649708,45.562795,-122.649708,45.562795",
     "geom:latitude":45.562795,
     "geom:longitude":-122.649708,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"726b412ff114740f8e4e384804a1111b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":371186651
         }
     ],
     "wof:id":371186651,
-    "wof:lastmodified":1466770418,
+    "wof:lastmodified":1486768542,
     "wof:name":"Ed & Co",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

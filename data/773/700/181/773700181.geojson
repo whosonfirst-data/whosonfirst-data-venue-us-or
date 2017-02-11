@@ -2,9 +2,14 @@
   "id": 773700181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 SE 151st Ave Portland OR 97233",
+    "addr:housenumber":"1404",
+    "addr:postcode":"97233",
+    "addr:street":"Se 151St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.507579,45.513157,-122.507579,45.513157",
     "geom:latitude":45.513157,
     "geom:longitude":-122.507579,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":773700181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773700181
         }
     ],
     "wof:id":773700181,
-    "wof:lastmodified":1466775868,
+    "wof:lastmodified":1486771534,
     "wof:name":"Quality Medical Billing Svc",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

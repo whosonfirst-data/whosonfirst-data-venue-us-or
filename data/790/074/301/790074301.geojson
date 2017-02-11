@@ -2,9 +2,14 @@
   "id": 790074301,
   "type": "Feature",
   "properties": {
+    "addr:full":"0615 SW Palatine Hill Rd Portland OR 97219",
+    "addr:housenumber":"0615",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Palatine Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672536,45.450466,-122.672536,45.450466",
     "geom:latitude":45.450466,
     "geom:longitude":-122.672536,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":790074301
         }
     ],
     "wof:id":790074301,
-    "wof:lastmodified":1466768633,
+    "wof:lastmodified":1486764732,
     "wof:name":"Watzek Library",
     "wof:parent_id":85871517,
     "wof:placetype":"venue",

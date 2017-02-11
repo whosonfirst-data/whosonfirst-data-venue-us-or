@@ -2,9 +2,14 @@
   "id": 354388953,
   "type": "Feature",
   "properties": {
+    "addr:full":"9943 NE 6th Dr Portland OR 97211",
+    "addr:housenumber":"9943",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 6Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663369,45.594473,-122.663369,45.594473",
     "geom:latitude":45.594473,
     "geom:longitude":-122.663369,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893179,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"5ff402e4fe1d6fba8db6b633a75b16c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
             "region_id":85688513,
             "venue_id":354388953
         }
     ],
     "wof:id":354388953,
-    "wof:lastmodified":1466771098,
+    "wof:lastmodified":1486771629,
     "wof:name":"Taylor Boiler & Equipment Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790068353,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 NE 78th Ct Ste A4 Portland OR 97218",
+    "addr:housenumber":"6600",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 78Th Ct Ste A4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581159,45.57045,-122.581159,45.57045",
     "geom:latitude":45.57045,
     "geom:longitude":-122.581159,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790068353
         }
     ],
     "wof:id":790068353,
-    "wof:lastmodified":1466768504,
+    "wof:lastmodified":1486771619,
     "wof:name":"Cs Consulting",
-    "wof:parent_id":85819307,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

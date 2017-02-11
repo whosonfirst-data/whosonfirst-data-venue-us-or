@@ -2,9 +2,14 @@
   "id": 790221859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 SE 130th Ave Portland OR 97233",
+    "addr:housenumber":"1500",
+    "addr:postcode":"97233",
+    "addr:street":"Se 130Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.529987,45.512422,-122.529987,45.512422",
     "geom:latitude":45.512422,
     "geom:longitude":-122.529987,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.arthuracademy.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790221859
         }
     ],
     "wof:id":790221859,
-    "wof:lastmodified":1466771895,
+    "wof:lastmodified":1486766434,
     "wof:name":"David Douglas Public Schools",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

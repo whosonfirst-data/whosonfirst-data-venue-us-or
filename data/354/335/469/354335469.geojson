@@ -2,9 +2,14 @@
   "id": 354335469,
   "type": "Feature",
   "properties": {
+    "addr:full":"15803 SE Division St Portland OR 97236",
+    "addr:housenumber":"15803",
+    "addr:postcode":"97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.499212,45.504569,-122.499212,45.504569",
     "geom:latitude":45.504569,
     "geom:longitude":-122.499212,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ec0ab634769fe315fd6a5426e737250a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":354335469
         }
     ],
     "wof:id":354335469,
-    "wof:lastmodified":1466770042,
+    "wof:lastmodified":1486771541,
     "wof:name":"El Bracero",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

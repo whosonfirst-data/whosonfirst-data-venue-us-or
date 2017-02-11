@@ -2,9 +2,14 @@
   "id": 387506705,
   "type": "Feature",
   "properties": {
+    "addr:full":"6010 SE 41st Ave Portland OR 97202",
+    "addr:housenumber":"6010",
+    "addr:postcode":"97202",
+    "addr:street":"Se 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620518,45.478526,-122.620518,45.478526",
     "geom:latitude":45.478526,
     "geom:longitude":-122.620518,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e65388c715a1389cfc97b7049c160964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":387506705
         }
     ],
     "wof:id":387506705,
-    "wof:lastmodified":1466773374,
+    "wof:lastmodified":1486769930,
     "wof:name":"Sharon's Hair Care Salon",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

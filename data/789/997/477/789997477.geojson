@@ -2,9 +2,14 @@
   "id": 789997477,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 NE Graham St Suite 315 Portland OR 97212",
+    "addr:housenumber":"601",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Graham St Suite 315",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659481,45.543221,-122.659481,45.543221",
     "geom:latitude":45.543221,
     "geom:longitude":-122.659481,
@@ -26,12 +31,13 @@
     "sg:website":"www.mnspc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":789997477
         }
     ],
     "wof:id":789997477,
-    "wof:lastmodified":1466773267,
+    "wof:lastmodified":1486768568,
     "wof:name":"Microneurosurgical Consultants PC",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

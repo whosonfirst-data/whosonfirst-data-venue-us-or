@@ -2,9 +2,14 @@
   "id": 790239315,
   "type": "Feature",
   "properties": {
+    "addr:full":"3550 SW River Pkwy Portland OR 97239",
+    "addr:housenumber":"3550",
+    "addr:postcode":"97239",
+    "addr:street":"Sw River Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66972,45.49748,-122.66972,45.49748",
     "geom:latitude":45.49748,
     "geom:longitude":-122.66972,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790239315
         }
     ],
     "wof:id":790239315,
-    "wof:lastmodified":1466772343,
+    "wof:lastmodified":1486773564,
     "wof:name":"Urbana Market",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

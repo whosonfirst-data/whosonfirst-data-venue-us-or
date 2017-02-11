@@ -2,9 +2,14 @@
   "id": 773740433,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 SE 72nd Ave Portland OR 97215",
+    "addr:housenumber":"628",
+    "addr:postcode":"97215",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.588647,45.518812,-122.588647,45.518812",
     "geom:latitude":45.518812,
     "geom:longitude":-122.588647,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85834889,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773740433
         }
     ],
     "wof:id":773740433,
-    "wof:lastmodified":1466775845,
+    "wof:lastmodified":1486771818,
     "wof:name":"Young N Petite",
-    "wof:parent_id":85834889,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

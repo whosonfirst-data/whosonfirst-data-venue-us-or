@@ -2,9 +2,14 @@
   "id": 790242545,
   "type": "Feature",
   "properties": {
+    "addr:full":"3375 SW Terwilliger Blvd Portland OR 97239",
+    "addr:housenumber":"3375",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Terwilliger Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6813,45.498422,-122.6813,45.498422",
     "geom:latitude":45.498422,
     "geom:longitude":-122.6813,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718535,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832591,
+            "macrohood_id":1108714057,
+            "microhood_id":1108718535,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":790242545
         }
     ],
     "wof:id":790242545,
-    "wof:lastmodified":1466772408,
+    "wof:lastmodified":1486773734,
     "wof:name":"Francis Peter MD PHD",
-    "wof:parent_id":85832591,
+    "wof:parent_id":1108718535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

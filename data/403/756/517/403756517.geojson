@@ -2,9 +2,14 @@
   "id": 403756517,
   "type": "Feature",
   "properties": {
+    "addr:full":"5221 SW Dosch Rd Portland OR 97239",
+    "addr:housenumber":"5221",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Dosch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.708503,45.485067,-122.708503,45.485067",
     "geom:latitude":45.485067,
     "geom:longitude":-122.708503,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"ac1bebcc56531bd4594269c64825f033",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":403756517
         }
     ],
     "wof:id":403756517,
-    "wof:lastmodified":1466768963,
+    "wof:lastmodified":1486769450,
     "wof:name":"Nikex Equipment Co Inc",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

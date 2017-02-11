@@ -2,9 +2,14 @@
   "id": 790249697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 SW 12th Ave Portland OR 97255",
+    "addr:housenumber":"1201",
+    "addr:postcode":"97255",
+    "addr:street":"Sw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686134,45.517292,-122.686134,45.517292",
     "geom:latitude":45.517292,
     "geom:longitude":-122.686134,
@@ -29,12 +34,13 @@
     "sg:website":"www.brazilgrillrestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":790249697
         }
     ],
     "wof:id":790249697,
-    "wof:lastmodified":1466772528,
+    "wof:lastmodified":1486764715,
     "wof:name":"Brazil Grill",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

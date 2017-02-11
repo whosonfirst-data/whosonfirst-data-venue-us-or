@@ -2,9 +2,14 @@
   "id": 789984969,
   "type": "Feature",
   "properties": {
+    "addr:full":"1826 NE Gertz Rd Portland OR 97211",
+    "addr:housenumber":"1826",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Gertz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647399,45.589893,-122.647399,45.589893",
     "geom:latitude":45.589893,
     "geom:longitude":-122.647399,
@@ -36,7 +41,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M5IQ0996byxUPMmlMbkrt_45.589893_-122.647399@1303263417"
@@ -44,11 +57,22 @@
     "wof:country":"US",
     "wof:created":1462592209,
     "wof:geomhash":"1d500cb38a03342d608b89d00e0a637a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789984969
+        }
+    ],
     "wof:id":789984969,
-    "wof:lastmodified":1466773131,
+    "wof:lastmodified":1486771631,
     "wof:name":"Furniture Craft By Walt Heck",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

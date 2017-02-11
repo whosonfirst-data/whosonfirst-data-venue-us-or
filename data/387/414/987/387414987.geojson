@@ -2,9 +2,14 @@
   "id": 387414987,
   "type": "Feature",
   "properties": {
+    "addr:full":"13616 NE Siskiyou Ct Portland OR 97230",
+    "addr:housenumber":"13616",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Siskiyou Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519026,45.545266,-122.519026,45.545266",
     "geom:latitude":45.545266,
     "geom:longitude":-122.519026,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893231
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"681995374b6e4d79293c90d953d4203b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
+            "region_id":85688513,
+            "venue_id":387414987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":387414987
         }
     ],
     "wof:id":387414987,
-    "wof:lastmodified":1466772706,
+    "wof:lastmodified":1486771458,
     "wof:name":"Claudias TLC Afh",
-    "wof:parent_id":85893231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

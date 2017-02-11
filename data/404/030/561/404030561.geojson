@@ -2,9 +2,14 @@
   "id": 404030561,
   "type": "Feature",
   "properties": {
+    "addr:full":"5951 SE 19th Ave Portland OR 97202",
+    "addr:housenumber":"5951",
+    "addr:postcode":"97202",
+    "addr:street":"Se 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646483,45.479547,-122.646483,45.479547",
     "geom:latitude":45.479547,
     "geom:longitude":-122.646483,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"bf12cb383ece3b21be0afdc58508dcd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":404030561
         }
     ],
     "wof:id":404030561,
-    "wof:lastmodified":1466768985,
+    "wof:lastmodified":1486767112,
     "wof:name":"Palonis Classic Pizza",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

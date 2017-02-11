@@ -2,9 +2,14 @@
   "id": 789834097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1969 SW Park Avenue Portland OR 97201",
+    "addr:housenumber":"1969",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Park Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686163,45.51042,-122.686163,45.51042",
     "geom:latitude":45.51042,
     "geom:longitude":-122.686163,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789834097
         }
     ],
     "wof:id":789834097,
-    "wof:lastmodified":1466769841,
+    "wof:lastmodified":1486770146,
     "wof:name":"Park Plaza Apts",
-    "wof:parent_id":85842887,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

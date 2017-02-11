@@ -2,9 +2,14 @@
   "id": 789871993,
   "type": "Feature",
   "properties": {
+    "addr:full":"7506 N Chicago Avenue Portland OR 97203",
+    "addr:housenumber":"7506",
+    "addr:postcode":"97203",
+    "addr:street":"N Chicago Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.754994,45.591979,-122.754994,45.591979",
     "geom:latitude":45.591979,
     "geom:longitude":-122.754994,
@@ -29,11 +34,13 @@
     "sg:website":"www.ecoledebudo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,20 @@
     "wof:geomhash":"7f546257f115e788510a0ea8a7804166",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":789871993
         }
     ],
     "wof:id":789871993,
-    "wof:lastmodified":1466771343,
+    "wof:lastmodified":1486769723,
     "wof:name":"Ecole De Budo Raji",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

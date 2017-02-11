@@ -2,9 +2,14 @@
   "id": 789984245,
   "type": "Feature",
   "properties": {
+    "addr:full":"4839 NE Martin Luther King Jr. Blvd Ste 209 Portland OR 97211",
+    "addr:housenumber":"4839",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Martin Luther King Jr. Blvd Ste 209",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661645,45.552056,-122.661645,45.552056",
     "geom:latitude":45.552056,
     "geom:longitude":-122.661645,
@@ -36,12 +41,13 @@
     "sg:website":"www.theclearguy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893159,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789984245
         }
     ],
     "wof:id":789984245,
-    "wof:lastmodified":1466773025,
+    "wof:lastmodified":1486771754,
     "wof:name":"The Clear Guy",
-    "wof:parent_id":85893159,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

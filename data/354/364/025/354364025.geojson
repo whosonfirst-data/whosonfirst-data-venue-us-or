@@ -2,9 +2,14 @@
   "id": 354364025,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 SW 21st Ave Portland OR 97205",
+    "addr:housenumber":"950",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694155,45.521271,-122.694155,45.521271",
     "geom:latitude":45.521271,
     "geom:longitude":-122.694155,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b15cfd56ee19b2d45b90601e6c5c1bb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":354364025
         }
     ],
     "wof:id":354364025,
-    "wof:lastmodified":1466770649,
+    "wof:lastmodified":1486764516,
     "wof:name":"Celia Varain Interior Design",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789875401,
   "type": "Feature",
   "properties": {
+    "addr:full":"7007 N Syracuse St Portland OR 97203",
+    "addr:housenumber":"7007",
+    "addr:postcode":"97203",
+    "addr:street":"N Syracuse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.740651,45.584612,-122.740651,45.584612",
     "geom:latitude":45.584612,
     "geom:longitude":-122.740651,
@@ -27,7 +32,15 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721333,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rIIA2LrCsE2AaYoaBUPK2_45.584612_-122.740651@1303263412"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462591229,
     "wof:geomhash":"50b7a959bea4310a06a1ba7f716f13ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721333,
+            "region_id":85688513,
+            "venue_id":789875401
+        }
+    ],
     "wof:id":789875401,
-    "wof:lastmodified":1466771526,
+    "wof:lastmodified":1486772381,
     "wof:name":"24 Hour A Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

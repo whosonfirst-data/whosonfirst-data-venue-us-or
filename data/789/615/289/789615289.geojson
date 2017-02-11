@@ -2,9 +2,14 @@
   "id": 789615289,
   "type": "Feature",
   "properties": {
+    "addr:full":"4126 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"4126",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652444,45.493175,-122.652444,45.493175",
     "geom:latitude":45.493175,
     "geom:longitude":-122.652444,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.rainbowpainting-co.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789615289
         }
     ],
     "wof:id":789615289,
-    "wof:lastmodified":1466768764,
+    "wof:lastmodified":1486767330,
     "wof:name":"Rainbow Painting Co Inc",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

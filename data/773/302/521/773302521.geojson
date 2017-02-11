@@ -2,9 +2,14 @@
   "id": 773302521,
   "type": "Feature",
   "properties": {
+    "addr:full":"940 SE 7th Ave Portland OR 97214",
+    "addr:housenumber":"940",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658607,45.51608,-122.658607,45.51608",
     "geom:latitude":45.51608,
     "geom:longitude":-122.658607,
@@ -30,12 +35,14 @@
     "sg:website":"www.pacificcoastpaint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773302521
         }
     ],
     "wof:id":773302521,
-    "wof:lastmodified":1466772823,
+    "wof:lastmodified":1486773440,
     "wof:name":"Pacific Coast Sign Supply Co",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

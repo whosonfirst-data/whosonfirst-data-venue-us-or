@@ -2,9 +2,14 @@
   "id": 387135583,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 SE 6th Ave Portland OR 97214",
+    "addr:housenumber":"726",
+    "addr:postcode":"97214",
+    "addr:street":"Se 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659654,45.517413,-122.659654,45.517413",
     "geom:latitude":45.517413,
     "geom:longitude":-122.659654,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"b46c7ae5cae32d3f7bbd5cf5f03a7d44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387135583
         }
     ],
     "wof:id":387135583,
-    "wof:lastmodified":1466769472,
+    "wof:lastmodified":1486773494,
     "wof:name":"Spike's Auto Upholstery Inc",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

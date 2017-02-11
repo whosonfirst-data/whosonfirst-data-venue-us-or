@@ -2,9 +2,14 @@
   "id": 403931429,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 NW Couch St Portland OR 97209",
+    "addr:housenumber":"222",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Couch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673246,45.52376,-122.673246,45.52376",
     "geom:latitude":45.52376,
     "geom:longitude":-122.673246,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"c0c0d64369289bcf5552c62fb92203d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":403931429
         }
     ],
     "wof:id":403931429,
-    "wof:lastmodified":1466767924,
+    "wof:lastmodified":1486770692,
     "wof:name":"Union Gospel Mission",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387547463,
   "type": "Feature",
   "properties": {
+    "addr:full":"7336 SE Rural St Portland OR 97206",
+    "addr:housenumber":"7336",
+    "addr:postcode":"97206",
+    "addr:street":"Se Rural St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589348,45.471729,-122.589348,45.471729",
     "geom:latitude":45.471729,
     "geom:longitude":-122.589348,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871469
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"71557045c1a81dc414d35cfe44a41373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871469,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":387547463
         }
     ],
     "wof:id":387547463,
-    "wof:lastmodified":1466773474,
+    "wof:lastmodified":1486772245,
     "wof:name":"Burning Bush Chimney Service",
-    "wof:parent_id":85871469,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

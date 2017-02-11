@@ -2,9 +2,14 @@
   "id": 354397811,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 NW 2nd Ave Portland OR 97209",
+    "addr:housenumber":"24",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672464,45.523679,-122.672464,45.523679",
     "geom:latitude":45.523679,
     "geom:longitude":-122.672464,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"9918996ef6d2635897a6860896172ca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":354397811
         }
     ],
     "wof:id":354397811,
-    "wof:lastmodified":1466771260,
+    "wof:lastmodified":1486770696,
     "wof:name":"Greenworks P C E",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

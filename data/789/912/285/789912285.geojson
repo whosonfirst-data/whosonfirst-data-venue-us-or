@@ -2,9 +2,14 @@
   "id": 789912285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1038 SW Stark St Portland OR 97205",
+    "addr:housenumber":"1038",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682142,45.522314,-122.682142,45.522314",
     "geom:latitude":45.522314,
     "geom:longitude":-122.682142,
@@ -44,12 +49,13 @@
     "sg:website":"www.kennyandzukes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +70,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789912285
         }
     ],
     "wof:id":789912285,
-    "wof:lastmodified":1466772117,
+    "wof:lastmodified":1486770176,
     "wof:name":"Kenny & Zuke's Deli",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773032157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 SE 72nd Ave Portland OR 97215",
+    "addr:housenumber":"1405",
+    "addr:postcode":"97215",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589083,45.512273,-122.589083,45.512273",
     "geom:latitude":45.512273,
     "geom:longitude":-122.589083,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773032157
         }
     ],
     "wof:id":773032157,
-    "wof:lastmodified":1466770596,
+    "wof:lastmodified":1486771802,
     "wof:name":"Kady Properties",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

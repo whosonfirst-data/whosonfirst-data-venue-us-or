@@ -2,9 +2,14 @@
   "id": 370699403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 NE 62nd Ave Portland OR 97213",
+    "addr:housenumber":"1013",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 62Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600321,45.530901,-122.600321,45.530901",
     "geom:latitude":45.530901,
     "geom:longitude":-122.600321,
@@ -29,11 +34,13 @@
     "sg:website":"www.deluxefuel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"227496e8d2d371f1c62798dbb6c39f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":370699403
         }
     ],
     "wof:id":370699403,
-    "wof:lastmodified":1466773452,
+    "wof:lastmodified":1486770369,
     "wof:name":"Furnace Doctor Inc",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

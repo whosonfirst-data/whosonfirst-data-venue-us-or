@@ -2,9 +2,14 @@
   "id": 790249335,
   "type": "Feature",
   "properties": {
+    "addr:full":"NE 22nd Ave & Killingsworth St Portland OR 97253",
+    "addr:housenumber":"",
+    "addr:postcode":"97253",
+    "addr:street":"Ne 22Nd Ave & Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643509,45.562698,-122.643509,45.562698",
     "geom:latitude":45.562698,
     "geom:longitude":-122.643509,
@@ -25,12 +30,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":790249335
         }
     ],
     "wof:id":790249335,
-    "wof:lastmodified":1466772520,
+    "wof:lastmodified":1486768352,
     "wof:name":"Alberta Park",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

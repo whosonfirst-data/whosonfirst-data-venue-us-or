@@ -2,9 +2,14 @@
   "id": 387049715,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 NW 9th Ave Portland OR 97209",
+    "addr:housenumber":"408",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680133,45.526295,-122.680133,45.526295",
     "geom:latitude":45.526295,
     "geom:longitude":-122.680133,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"85defd77a66ed078515029d9a99d9314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":387049715
         }
     ],
     "wof:id":387049715,
-    "wof:lastmodified":1466767969,
+    "wof:lastmodified":1486763072,
     "wof:name":"Dean Potter & Assoc Inc",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

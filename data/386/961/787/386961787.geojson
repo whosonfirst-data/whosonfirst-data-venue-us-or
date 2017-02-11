@@ -2,9 +2,14 @@
   "id": 386961787,
   "type": "Feature",
   "properties": {
+    "addr:full":"8533 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"8533",
+    "addr:postcode":"97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.575568,45.481881,-122.575568,45.481881",
     "geom:latitude":45.481881,
     "geom:longitude":-122.575568,
@@ -26,11 +31,13 @@
     "sg:website":"www.outboardsalvage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"2a05999195699dbc880b3787a21af324",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":386961787
         }
     ],
     "wof:id":386961787,
-    "wof:lastmodified":1466767335,
+    "wof:lastmodified":1486767280,
     "wof:name":"Oregon Outboard Salvage",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387535031,
   "type": "Feature",
   "properties": {
+    "addr:full":"7048 NE M L King Blvd Portland OR 97211",
+    "addr:housenumber":"7048",
+    "addr:postcode":"97211",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661291,45.573857,-122.661291,45.573857",
     "geom:latitude":45.573857,
     "geom:longitude":-122.661291,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d137b5a19829b7e9c4a9246f1a22d068",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":387535031
         }
     ],
     "wof:id":387535031,
-    "wof:lastmodified":1466773393,
+    "wof:lastmodified":1486772097,
     "wof:name":"Forever A Lady Beauty Salon",
-    "wof:parent_id":85841531,
+    "wof:parent_id":85893263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

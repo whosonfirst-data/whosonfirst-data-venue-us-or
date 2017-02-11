@@ -2,9 +2,14 @@
   "id": 404033867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4328 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"4328",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578716,45.49128,-122.578716,45.49128",
     "geom:latitude":45.49128,
     "geom:longitude":-122.578716,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:brand_id":420575255,
     "wof:breaches":[],
@@ -44,19 +51,20 @@
     "wof:geomhash":"66cb4d910ad4f8fb8fab16fbfa3d8989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":404033867
         }
     ],
     "wof:id":404033867,
-    "wof:lastmodified":1466769046,
+    "wof:lastmodified":1486769542,
     "wof:name":"Game Stop Corp",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

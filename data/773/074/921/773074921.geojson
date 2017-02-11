@@ -2,9 +2,14 @@
   "id": 773074921,
   "type": "Feature",
   "properties": {
+    "addr:full":"13135 SE Foster Rd Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"13135;97236",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528921,45.476839,-122.528921,45.476839",
     "geom:latitude":45.476839,
     "geom:longitude":-122.528921,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536095
+        85688513,
+        420536131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536095,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
+            "region_id":85688513,
+            "venue_id":773074921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773074921
         }
     ],
     "wof:id":773074921,
-    "wof:lastmodified":1466767291,
+    "wof:lastmodified":1486772210,
     "wof:name":"Grammi Z's Embroidery",
-    "wof:parent_id":420536095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

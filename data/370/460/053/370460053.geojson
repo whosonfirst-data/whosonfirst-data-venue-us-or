@@ -2,9 +2,14 @@
   "id": 370460053,
   "type": "Feature",
   "properties": {
+    "addr:full":"11136 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"11136",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.726872,45.444911,-122.726872,45.444911",
     "geom:latitude":45.444911,
     "geom:longitude":-122.726872,
@@ -28,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781231,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        101715835,
-        102082213,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +49,20 @@
     "wof:geomhash":"152daa87fe40f56caf0089321d2da03a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":370460053
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
-            "neighbourhood_id":85871501,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":370460053
         }
     ],
     "wof:id":370460053,
-    "wof:lastmodified":1466772075,
+    "wof:lastmodified":1486772279,
     "wof:name":"Bakers Bistro",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

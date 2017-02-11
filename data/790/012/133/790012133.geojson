@@ -2,9 +2,14 @@
   "id": 790012133,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 NE Sandy Boulevard Portland OR 97213",
+    "addr:housenumber":"6800",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Sandy Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.593097,45.546583,-122.593097,45.546583",
     "geom:latitude":45.546583,
     "geom:longitude":-122.593097,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893229
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":790012133
         }
     ],
     "wof:id":790012133,
-    "wof:lastmodified":1466767587,
+    "wof:lastmodified":1486768550,
     "wof:name":"MAI Floral",
     "wof:parent_id":85893229,
     "wof:placetype":"venue",

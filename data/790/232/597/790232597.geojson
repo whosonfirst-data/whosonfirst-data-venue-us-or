@@ -2,9 +2,14 @@
   "id": 790232597,
   "type": "Feature",
   "properties": {
+    "addr:full":"15919 SE Bybee Dr Portland OR 97236",
+    "addr:housenumber":"15919",
+    "addr:postcode":"97236",
+    "addr:street":"Se Bybee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.49942,45.470058,-122.49942,45.470058",
     "geom:latitude":45.470058,
     "geom:longitude":-122.49942,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790232597
         }
     ],
     "wof:id":790232597,
-    "wof:lastmodified":1466772082,
+    "wof:lastmodified":1486766351,
     "wof:name":"Oregon Electrical Group, Inc.",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

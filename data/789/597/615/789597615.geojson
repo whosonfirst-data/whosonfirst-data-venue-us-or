@@ -2,9 +2,14 @@
   "id": 789597615,
   "type": "Feature",
   "properties": {
+    "addr:full":"5650 NE Columbia Blvd Portland OR 97218",
+    "addr:housenumber":"5650",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605003,45.569199,-122.605003,45.569199",
     "geom:latitude":45.569199,
     "geom:longitude":-122.605003,
@@ -30,12 +35,13 @@
     "sg:website":"www.installersfloorcovering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":789597615
         }
     ],
     "wof:id":789597615,
-    "wof:lastmodified":1466768272,
+    "wof:lastmodified":1486771595,
     "wof:name":"Installers Floor Covering",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

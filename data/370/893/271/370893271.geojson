@@ -2,9 +2,14 @@
   "id": 370893271,
   "type": "Feature",
   "properties": {
+    "addr:full":"9452 N Oswego Ave Portland OR 97203",
+    "addr:housenumber":"9452",
+    "addr:postcode":"97203",
+    "addr:street":"N Oswego Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.746182,45.595309,-122.746182,45.595309",
     "geom:latitude":45.595309,
     "geom:longitude":-122.746182,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5dbe5e3af059d5ef8726d4b27ffa10ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":370893271
         }
     ],
     "wof:id":370893271,
-    "wof:lastmodified":1466774521,
+    "wof:lastmodified":1486765773,
     "wof:name":"Du Val's Dockside Canvas",
     "wof:parent_id":85846673,
     "wof:placetype":"venue",

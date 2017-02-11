@@ -2,9 +2,14 @@
   "id": 403992329,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 SW Hall St Portland OR 97201",
+    "addr:housenumber":"527",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Hall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68309,45.510407,-122.68309,45.510407",
     "geom:latitude":45.510407,
     "geom:longitude":-122.68309,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"d5f442b6111dc62db72bde47cdbd09dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":403992329
         }
     ],
     "wof:id":403992329,
-    "wof:lastmodified":1466769006,
+    "wof:lastmodified":1486764116,
     "wof:name":"Les Swanson",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

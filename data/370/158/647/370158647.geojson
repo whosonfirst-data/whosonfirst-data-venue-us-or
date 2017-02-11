@@ -2,9 +2,14 @@
   "id": 370158647,
   "type": "Feature",
   "properties": {
+    "addr:full":"831 SE 170th Dr Portland OR 97233",
+    "addr:housenumber":"831",
+    "addr:postcode":"97233",
+    "addr:street":"Se 170Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.487989,45.516704,-122.487989,45.516704",
     "geom:latitude":45.516704,
     "geom:longitude":-122.487989,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
-        101716277,
+        101715829,
         102081631,
+        85688513,
+        101716277,
         85845549
     ],
     "wof:breaches":[],
@@ -43,7 +52,17 @@
     "wof:geomhash":"6dee313aba0692d6bfaa71c48d29cea1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":370158647
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
@@ -53,9 +72,9 @@
         }
     ],
     "wof:id":370158647,
-    "wof:lastmodified":1466767311,
+    "wof:lastmodified":1486771532,
     "wof:name":"Morgans Collectibles",
-    "wof:parent_id":85845549,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

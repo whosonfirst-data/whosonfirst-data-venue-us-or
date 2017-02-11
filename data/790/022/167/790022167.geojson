@@ -2,9 +2,14 @@
   "id": 790022167,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 SE 12th Ave Portland OR 97214",
+    "addr:housenumber":"207",
+    "addr:postcode":"97214",
+    "addr:street":"Se 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653616,45.521437,-122.653616,45.521437",
     "geom:latitude":45.521437,
     "geom:longitude":-122.653616,
@@ -36,12 +41,13 @@
     "sg:website":"profile.myspace.com/hungrytigertoo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790022167
         }
     ],
     "wof:id":790022167,
-    "wof:lastmodified":1466767671,
+    "wof:lastmodified":1486766829,
     "wof:name":"Hungry Tiger Too",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

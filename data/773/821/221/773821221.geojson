@@ -2,9 +2,14 @@
   "id": 773821221,
   "type": "Feature",
   "properties": {
+    "addr:full":"6310 SE 72nd Ave Portland OR 97206",
+    "addr:housenumber":"6310",
+    "addr:postcode":"97206",
+    "addr:street":"Se 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589302,45.477371,-122.589302,45.477371",
     "geom:latitude":45.477371,
     "geom:longitude":-122.589302,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":773821221
         }
     ],
     "wof:id":773821221,
-    "wof:lastmodified":1466776063,
+    "wof:lastmodified":1486771795,
     "wof:name":"Kester Kb Distribution",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

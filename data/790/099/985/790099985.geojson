@@ -2,9 +2,14 @@
   "id": 790099985,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 SW 47th Dr Portland OR 97221",
+    "addr:housenumber":"4300",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 47Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.724055,45.492214,-122.724055,45.492214",
     "geom:latitude":45.492214,
     "geom:longitude":-122.724055,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +52,18 @@
     "wof:geomhash":"bc3610aa650196b8a84a0df45b3360a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790099985
         }
     ],
     "wof:id":790099985,
-    "wof:lastmodified":1466767894,
+    "wof:lastmodified":1486765566,
     "wof:name":"Schools Public",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

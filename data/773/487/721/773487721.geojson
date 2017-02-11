@@ -2,9 +2,14 @@
   "id": 773487721,
   "type": "Feature",
   "properties": {
+    "addr:full":"2143 SE 54th Ave Portland OR 97215",
+    "addr:housenumber":"2143",
+    "addr:postcode":"97215",
+    "addr:street":"Se 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607154,45.506977,-122.607154,45.506977",
     "geom:latitude":45.506977,
     "geom:longitude":-122.607154,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
-            "region_id":85688513,
-            "venue_id":773487721
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773487721
         }
     ],
     "wof:id":773487721,
-    "wof:lastmodified":1466774691,
+    "wof:lastmodified":1486771803,
     "wof:name":"Bump In Road Theater",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

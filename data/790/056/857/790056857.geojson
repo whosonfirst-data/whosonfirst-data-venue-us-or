@@ -2,9 +2,14 @@
   "id": 790056857,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N Columbia Blvd Portland OR 97217",
+    "addr:housenumber":"901",
+    "addr:postcode":"97217",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67588,45.584091,-122.67588,45.584091",
     "geom:latitude":45.584091,
     "geom:longitude":-122.67588,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721309,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721309,
             "region_id":85688513,
             "venue_id":790056857
         }
     ],
     "wof:id":790056857,
-    "wof:lastmodified":1466768224,
+    "wof:lastmodified":1486772353,
     "wof:name":"Fisherman Marine And Outdoor",
-    "wof:parent_id":85841531,
+    "wof:parent_id":1108721309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

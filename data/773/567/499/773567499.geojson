@@ -2,9 +2,14 @@
   "id": 773567499,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 SE 74th Ave Portland OR 97215",
+    "addr:housenumber":"41",
+    "addr:postcode":"97215",
+    "addr:street":"Se 74Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.586903,45.521505,-122.586903,45.521505",
     "geom:latitude":45.521505,
     "geom:longitude":-122.586903,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85834889,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":773567499
         }
     ],
     "wof:id":773567499,
-    "wof:lastmodified":1466775341,
+    "wof:lastmodified":1486771802,
     "wof:name":"6 Sense",
-    "wof:parent_id":85834889,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

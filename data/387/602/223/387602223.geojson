@@ -2,9 +2,14 @@
   "id": 387602223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3161 SW Fairmount Blvd Portland OR 97239",
+    "addr:housenumber":"3161",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Fairmount Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.698168,45.489092,-122.698168,45.489092",
     "geom:latitude":45.489092,
     "geom:longitude":-122.698168,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"62f27597238972c701e2bef79774f3f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":387602223
         }
     ],
     "wof:id":387602223,
-    "wof:lastmodified":1466773937,
+    "wof:lastmodified":1486769424,
     "wof:name":"Richard Perkins Company",
-    "wof:parent_id":85847775,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

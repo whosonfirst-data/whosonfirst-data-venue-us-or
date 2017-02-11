@@ -2,9 +2,14 @@
   "id": 370321275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1660 SW Bertha Blvd Portland OR 97219",
+    "addr:housenumber":"1660",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Bertha Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695257,45.472883,-122.695257,45.472883",
     "geom:latitude":45.472883,
     "geom:longitude":-122.695257,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"ea7bc36f18af2e9a87b323020a974763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":370321275
         }
     ],
     "wof:id":370321275,
-    "wof:lastmodified":1466770247,
+    "wof:lastmodified":1486769423,
     "wof:name":"Portland Motor Coaches Inc",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

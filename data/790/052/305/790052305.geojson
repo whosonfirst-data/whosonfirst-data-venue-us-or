@@ -2,9 +2,14 @@
   "id": 790052305,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 N Interstate Avenue Portland OR 97217",
+    "addr:housenumber":"7000",
+    "addr:postcode":"97217",
+    "addr:street":"N Interstate Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681993,45.573925,-122.681993,45.573925",
     "geom:latitude":45.573925,
     "geom:longitude":-122.681993,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":790052305
         }
     ],
     "wof:id":790052305,
-    "wof:lastmodified":1466768109,
+    "wof:lastmodified":1486772111,
     "wof:name":"Jesusito Market",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

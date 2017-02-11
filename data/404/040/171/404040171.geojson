@@ -2,9 +2,14 @@
   "id": 404040171,
   "type": "Feature",
   "properties": {
+    "addr:full":"11305 SE Harold St Portland OR 97266",
+    "addr:housenumber":"11305",
+    "addr:postcode":"97266",
+    "addr:street":"Se Harold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545582,45.483023,-122.545582,45.483023",
     "geom:latitude":45.483023,
     "geom:longitude":-122.545582,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"6f6dcd85eb380ca44e48af91543d655e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":404040171
         }
     ],
     "wof:id":404040171,
-    "wof:lastmodified":1466769172,
+    "wof:lastmodified":1486766714,
     "wof:name":"Berry Tile",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

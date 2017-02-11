@@ -2,9 +2,14 @@
   "id": 404146013,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 NW Savier St Portland OR 97210",
+    "addr:housenumber":"3310",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Savier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.716142,45.534377,-122.716142,45.534377",
     "geom:latitude":45.534377,
     "geom:longitude":-122.716142,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108720529,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"ff24c6b0efad6095854d407860eb491b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "microhood_id":1108720529,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":404146013
         }
     ],
     "wof:id":404146013,
-    "wof:lastmodified":1466767179,
+    "wof:lastmodified":1486774199,
     "wof:name":"Herman M Frankel MD",
-    "wof:parent_id":85857791,
+    "wof:parent_id":1108720529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

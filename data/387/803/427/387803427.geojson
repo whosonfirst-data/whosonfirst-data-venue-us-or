@@ -2,9 +2,14 @@
   "id": 387803427,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 SE 81st Ave Portland OR 97206",
+    "addr:housenumber":"2602",
+    "addr:postcode":"97206",
+    "addr:street":"Se 81St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579715,45.504505,-122.579715,45.504505",
     "geom:latitude":45.504505,
     "geom:longitude":-122.579715,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"883b6d97c40a10086eb7ab612d7d5a9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":387803427
         }
     ],
     "wof:id":387803427,
-    "wof:lastmodified":1466775009,
+    "wof:lastmodified":1486766600,
     "wof:name":"No Bohloni Handyman Service",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

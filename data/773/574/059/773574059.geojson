@@ -2,9 +2,14 @@
   "id": 773574059,
   "type": "Feature",
   "properties": {
+    "addr:full":"4055 SW 48th Pl Portland OR 97221",
+    "addr:housenumber":"4055",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 48Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.725188,45.492918,-122.725188,45.492918",
     "geom:latitude":45.492918,
     "geom:longitude":-122.725188,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +51,18 @@
     "wof:geomhash":"2fa28fca03e11233c8adcfc686ca3dd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":773574059
         }
     ],
     "wof:id":773574059,
-    "wof:lastmodified":1466775341,
+    "wof:lastmodified":1486769386,
     "wof:name":"Harkins Systems",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

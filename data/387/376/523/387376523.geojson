@@ -2,9 +2,14 @@
   "id": 387376523,
   "type": "Feature",
   "properties": {
+    "addr:full":"8138 SW Ruby Ter Portland OR 97219",
+    "addr:housenumber":"8138",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Ruby Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681436,45.465747,-122.681436,45.465747",
     "geom:latitude":45.465747,
     "geom:longitude":-122.681436,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"56f15dd96c7429749152ec68662a0028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":387376523
         }
     ],
     "wof:id":387376523,
-    "wof:lastmodified":1466772457,
+    "wof:lastmodified":1486772155,
     "wof:name":"ITW Texwipe",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789980935,
   "type": "Feature",
   "properties": {
+    "addr:full":"2311 NW Northrup Street Suite 202 Portland OR 97210",
+    "addr:housenumber":"2311",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Northrup Street Suite 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709919,45.529645,-122.709919,45.529645",
     "geom:latitude":45.529645,
     "geom:longitude":-122.709919,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        420536099
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536099,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
+            "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":789980935
         }
     ],
     "wof:id":789980935,
-    "wof:lastmodified":1466772974,
+    "wof:lastmodified":1486773710,
     "wof:name":"Radiology Billing",
-    "wof:parent_id":420536099,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

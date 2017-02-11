@@ -2,9 +2,14 @@
   "id": 387032783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4805 NE Buffalo St Portland OR 97218",
+    "addr:housenumber":"4805",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Buffalo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611749,45.575377,-122.611749,45.575377",
     "geom:latitude":45.575377,
     "geom:longitude":-122.611749,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"8e4ad6201c59fae1703d1af2df462577",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387032783
         }
     ],
     "wof:id":387032783,
-    "wof:lastmodified":1466767679,
+    "wof:lastmodified":1486768532,
     "wof:name":"Salt & Pepper Construction Co",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

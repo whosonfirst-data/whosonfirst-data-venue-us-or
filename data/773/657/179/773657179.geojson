@@ -2,9 +2,14 @@
   "id": 773657179,
   "type": "Feature",
   "properties": {
+    "addr:full":"3003 NW Luray Ter Portland OR 97210",
+    "addr:housenumber":"3003",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Luray Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711625,45.530588,-122.711625,45.530588",
     "geom:latitude":45.530588,
     "geom:longitude":-122.711625,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        420536099
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536099,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
+            "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":773657179
         }
     ],
     "wof:id":773657179,
-    "wof:lastmodified":1466775638,
+    "wof:lastmodified":1486773710,
     "wof:name":"Bull Run Investments",
-    "wof:parent_id":420536099,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

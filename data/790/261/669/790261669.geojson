@@ -2,9 +2,14 @@
   "id": 790261669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2776 SE 84th Avenue Portland OR 97266",
+    "addr:housenumber":"2776",
+    "addr:postcode":"97266",
+    "addr:street":"Se 84Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576958,45.502549,-122.576958,45.502549",
     "geom:latitude":45.502549,
     "geom:longitude":-122.576958,
@@ -44,12 +49,13 @@
     "sg:website":"www.addisonglobalinteriors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +70,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790261669
         }
     ],
     "wof:id":790261669,
-    "wof:lastmodified":1466772693,
+    "wof:lastmodified":1486771922,
     "wof:name":"Addison Global Interiors",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387396795,
   "type": "Feature",
   "properties": {
+    "addr:full":"3206 SE 160th Ave Portland OR 97236",
+    "addr:housenumber":"3206",
+    "addr:postcode":"97236",
+    "addr:street":"Se 160Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498875,45.497488,-122.498875,45.497488",
     "geom:latitude":45.497488,
     "geom:longitude":-122.498875,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c3d7001468d7a429f8d214b1d6154743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387396795
         }
     ],
     "wof:id":387396795,
-    "wof:lastmodified":1466772600,
+    "wof:lastmodified":1486766856,
     "wof:name":"Varadin Adult Foster Home",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

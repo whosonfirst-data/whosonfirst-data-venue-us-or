@@ -2,9 +2,14 @@
   "id": 790084695,
   "type": "Feature",
   "properties": {
+    "addr:full":"1454 SW Taylors Ferry Rd Portland OR 97219",
+    "addr:housenumber":"1454",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Taylors Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69268,45.457272,-122.69268,45.457272",
     "geom:latitude":45.457272,
     "geom:longitude":-122.69268,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781233,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781233,
             "region_id":85688513,
             "venue_id":790084695
         }
     ],
     "wof:id":790084695,
-    "wof:lastmodified":1466767331,
+    "wof:lastmodified":1486772291,
     "wof:name":"Event Floral",
-    "wof:parent_id":85871489,
+    "wof:parent_id":420781233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370798771,
   "type": "Feature",
   "properties": {
+    "addr:full":"13424 N Woodrush Way Portland OR 97203",
+    "addr:housenumber":"13424",
+    "addr:postcode":"97203",
+    "addr:street":"N Woodrush Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.767454,45.619766,-122.767454,45.619766",
     "geom:latitude":45.619766,
     "geom:longitude":-122.767454,
@@ -26,11 +31,14 @@
     "sg:website":"www.kantocorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719769,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846673
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +48,21 @@
     "wof:geomhash":"829834163afe133495c94930240fb1cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "microhood_id":1108719769,
             "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":370798771
         }
     ],
     "wof:id":370798771,
-    "wof:lastmodified":1466774079,
+    "wof:lastmodified":1486774177,
     "wof:name":"Kanto Corp",
-    "wof:parent_id":85846673,
+    "wof:parent_id":1108719769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

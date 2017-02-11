@@ -2,9 +2,14 @@
   "id": 790043709,
   "type": "Feature",
   "properties": {
+    "addr:full":"6027 SE Belmont St Ste 3 Portland OR 97215",
+    "addr:housenumber":"6027",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.60142,45.516862,-122.60142,45.516862",
     "geom:latitude":45.516862,
     "geom:longitude":-122.60142,
@@ -29,12 +34,13 @@
     "sg:website":"www.egroupcpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":790043709
         }
     ],
     "wof:id":790043709,
-    "wof:lastmodified":1466767932,
+    "wof:lastmodified":1486767303,
     "wof:name":"Epstein Group PC",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

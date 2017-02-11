@@ -2,9 +2,14 @@
   "id": 790248381,
   "type": "Feature",
   "properties": {
+    "addr:full":"3107 SW Dosch Rd Portland OR 97239",
+    "addr:housenumber":"3107",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Dosch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712307,45.500267,-122.712307,45.500267",
     "geom:latitude":45.500267,
     "geom:longitude":-122.712307,
@@ -37,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,18 +59,20 @@
     "wof:geomhash":"11d7323daa88aff864f47c8f03c29c17",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":790248381
         }
     ],
     "wof:id":790248381,
-    "wof:lastmodified":1466772521,
+    "wof:lastmodified":1486770579,
     "wof:name":"Hayzlett Cabinet Co",
-    "wof:parent_id":85807447,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789944947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 NW 20th Ave Apt 101 Portland OR 97209",
+    "addr:housenumber":"1204;101",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 20Th Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692596,45.531341,-122.692596,45.531341",
     "geom:latitude":45.531341,
     "geom:longitude":-122.692596,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.pinkhammillinery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789944947
         }
     ],
     "wof:id":789944947,
-    "wof:lastmodified":1466772573,
+    "wof:lastmodified":1486771278,
     "wof:name":"Pinkham Millinery",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

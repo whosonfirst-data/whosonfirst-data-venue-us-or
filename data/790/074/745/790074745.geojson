@@ -2,9 +2,14 @@
   "id": 790074745,
   "type": "Feature",
   "properties": {
+    "addr:full":"9310 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"9310",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719031,45.458224,-122.719031,45.458224",
     "geom:latitude":45.458224,
     "geom:longitude":-122.719031,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":790074745
         }
     ],
     "wof:id":790074745,
-    "wof:lastmodified":1466768653,
+    "wof:lastmodified":1486772403,
     "wof:name":"Owen Steere Co",
-    "wof:parent_id":85871489,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789579399,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 NW 5th Ave Portland OR 97209",
+    "addr:housenumber":"115",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675759,45.524081,-122.675759,45.524081",
     "geom:latitude":45.524081,
     "geom:longitude":-122.675759,
@@ -32,12 +37,13 @@
     "sg:website":"www.backspace.bz/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789579399
         }
     ],
     "wof:id":789579399,
-    "wof:lastmodified":1466767951,
+    "wof:lastmodified":1486770675,
     "wof:name":"Backspace",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

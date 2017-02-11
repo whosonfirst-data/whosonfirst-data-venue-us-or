@@ -2,9 +2,14 @@
   "id": 773347771,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 NW Saint Helens Rd Portland OR 97210",
+    "addr:housenumber":"7900",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.763681,45.578544,-122.763681,45.578544",
     "geom:latitude":45.578544,
     "geom:longitude":-122.763681,
@@ -26,12 +31,14 @@
     "sg:website":"www.harleymarine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85850801
+        85688513,
+        85830793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85850801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
+            "region_id":85688513,
+            "venue_id":773347771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":773347771
         }
     ],
     "wof:id":773347771,
-    "wof:lastmodified":1466773578,
+    "wof:lastmodified":1486772191,
     "wof:name":"Olympic Tug & Barge Inc",
-    "wof:parent_id":85850801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

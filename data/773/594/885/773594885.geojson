@@ -2,9 +2,14 @@
   "id": 773594885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3368 SW Fairmount Blvd Portland OR 97239",
+    "addr:housenumber":"3368",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Fairmount Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710141,45.497695,-122.710141,45.497695",
     "geom:latitude":45.497695,
     "geom:longitude":-122.710141,
@@ -30,11 +35,13 @@
     "sg:website":"www.agent47.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +52,20 @@
     "wof:geomhash":"f6a0263cd05dd54b17632d9c8fffc840",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":773594885
         }
     ],
     "wof:id":773594885,
-    "wof:lastmodified":1466775384,
+    "wof:lastmodified":1486770643,
     "wof:name":"Agent 47 Advertising",
-    "wof:parent_id":85807447,
+    "wof:parent_id":85867153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

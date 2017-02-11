@@ -2,9 +2,14 @@
   "id": 789863041,
   "type": "Feature",
   "properties": {
+    "addr:full":"4031 SE 26th Ave Portland OR 97202",
+    "addr:housenumber":"4031",
+    "addr:postcode":"97202",
+    "addr:street":"Se 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639907,45.493884,-122.639907,45.493884",
     "geom:latitude":45.493884,
     "geom:longitude":-122.639907,
@@ -30,12 +35,13 @@
     "sg:website":"sharpautobody.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789863041
         }
     ],
     "wof:id":789863041,
-    "wof:lastmodified":1466771000,
+    "wof:lastmodified":1486766255,
     "wof:name":"Sharp Auto Body",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

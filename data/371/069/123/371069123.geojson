@@ -2,9 +2,14 @@
   "id": 371069123,
   "type": "Feature",
   "properties": {
+    "addr:full":"3335 NE Marine Dr Portland OR 97211",
+    "addr:housenumber":"3335",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563286,45.583366,-122.563286,45.583366",
     "geom:latitude":45.583366,
     "geom:longitude":-122.563286,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"93fd5e6cd13941598e3125e0c326d2ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":371069123
         }
     ],
     "wof:id":371069123,
-    "wof:lastmodified":1466768292,
+    "wof:lastmodified":1486772348,
     "wof:name":"Columbia Corinthian Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

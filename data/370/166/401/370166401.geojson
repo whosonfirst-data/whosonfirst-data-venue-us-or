@@ -2,9 +2,14 @@
   "id": 370166401,
   "type": "Feature",
   "properties": {
+    "addr:full":"9118 N Hodge Ave Portland OR 97203",
+    "addr:housenumber":"9118",
+    "addr:postcode":"97203",
+    "addr:street":"N Hodge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719982,45.58958,-122.719982,45.58958",
     "geom:latitude":45.58958,
     "geom:longitude":-122.719982,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ef7a1757db888c55a06f5b215ef1d99b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":370166401
         }
     ],
     "wof:id":370166401,
-    "wof:lastmodified":1466767447,
+    "wof:lastmodified":1486766077,
     "wof:name":"Jerry H De Fore Inventory Svc",
     "wof:parent_id":85893225,
     "wof:placetype":"venue",

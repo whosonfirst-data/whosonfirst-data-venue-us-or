@@ -2,9 +2,14 @@
   "id": 354312773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2145 SW Naito Pkwy Portland OR 97201",
+    "addr:housenumber":"2145",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Naito Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677538,45.507727,-122.677538,45.507727",
     "geom:latitude":45.507727,
     "geom:longitude":-122.677538,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e713d945b1f6aa2f360cddd6a549ced7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":354312773
         }
     ],
     "wof:id":354312773,
-    "wof:lastmodified":1466769676,
+    "wof:lastmodified":1486764648,
     "wof:name":"Boy Scouts of America",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

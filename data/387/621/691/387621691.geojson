@@ -2,9 +2,14 @@
   "id": 387621691,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 NE Tomahawk Island Dr Portland OR 97217",
+    "addr:housenumber":"260",
+    "addr:postcode":"97217",
+    "addr:street":"Ne Tomahawk Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654034,45.604583,-122.654034,45.604583",
     "geom:latitude":45.604583,
     "geom:longitude":-122.654034,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85807427
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"204d8dee1ae2a877f57f74f058a5c7c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807427,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":387621691
         }
     ],
     "wof:id":387621691,
-    "wof:lastmodified":1466774059,
+    "wof:lastmodified":1486772364,
     "wof:name":"Sailing Life New & Used Boats",
-    "wof:parent_id":85807427,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

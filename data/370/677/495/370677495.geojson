@@ -2,9 +2,14 @@
   "id": 370677495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 NW Johnson St Portland OR 97209",
+    "addr:housenumber":"1920",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692178,45.528408,-122.692178,45.528408",
     "geom:latitude":45.528408,
     "geom:longitude":-122.692178,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"225469ac8a01960fe25fae0fffb4ce53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370677495
         }
     ],
     "wof:id":370677495,
-    "wof:lastmodified":1466773322,
+    "wof:lastmodified":1486771220,
     "wof:name":"Sexual Trama Assessment Trtmnt",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

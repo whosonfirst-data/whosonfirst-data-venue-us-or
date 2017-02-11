@@ -2,9 +2,14 @@
   "id": 790001219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2709 NE 7th Avenue Portland OR 97212",
+    "addr:housenumber":"2709",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 7Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658749,45.542302,-122.658749,45.542302",
     "geom:latitude":45.542302,
     "geom:longitude":-122.658749,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790001219
         }
     ],
     "wof:id":790001219,
-    "wof:lastmodified":1466767498,
+    "wof:lastmodified":1486768784,
     "wof:name":"Knott Street Grocery",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

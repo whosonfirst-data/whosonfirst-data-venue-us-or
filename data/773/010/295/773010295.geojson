@@ -2,9 +2,14 @@
   "id": 773010295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2671 NW Vaughn St Portland OR 97210",
+    "addr:housenumber":"2671",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Vaughn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705879,45.536871,-122.705879,45.536871",
     "geom:latitude":45.536871,
     "geom:longitude":-122.705879,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":773010295
         }
     ],
     "wof:id":773010295,
-    "wof:lastmodified":1466769936,
+    "wof:lastmodified":1486771169,
     "wof:name":"NAPA Auto Parts",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387030155,
   "type": "Feature",
   "properties": {
+    "addr:full":"2716 SE 21st Ave Portland OR 97202",
+    "addr:housenumber":"2716",
+    "addr:postcode":"97202",
+    "addr:street":"Se 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644551,45.502796,-122.644551,45.502796",
     "geom:latitude":45.502796,
     "geom:longitude":-122.644551,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d0362787f48e68bbd4cd4af9aeb7f47d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387030155
         }
     ],
     "wof:id":387030155,
-    "wof:lastmodified":1466767626,
+    "wof:lastmodified":1486771707,
     "wof:name":"X Large Store",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773750571,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 N Hayden Bay Dr Portland OR 97217",
+    "addr:housenumber":"158",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672971,45.609859,-122.672971,45.609859",
     "geom:latitude":45.609859,
     "geom:longitude":-122.672971,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85807427
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807427,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":773750571
         }
     ],
     "wof:id":773750571,
-    "wof:lastmodified":1466775782,
+    "wof:lastmodified":1486772365,
     "wof:name":"Beggar Dog Biscuits Inc",
-    "wof:parent_id":85807427,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

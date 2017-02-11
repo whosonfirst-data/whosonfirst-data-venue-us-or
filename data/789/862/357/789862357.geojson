@@ -2,9 +2,14 @@
   "id": 789862357,
   "type": "Feature",
   "properties": {
+    "addr:full":"6708 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"6708",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648524,45.47374,-122.648524,45.47374",
     "geom:latitude":45.47374,
     "geom:longitude":-122.648524,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536123
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536123,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789862357
         }
     ],
     "wof:id":789862357,
-    "wof:lastmodified":1466770973,
+    "wof:lastmodified":1486770534,
     "wof:name":"Locksmith Portland or",
-    "wof:parent_id":420536123,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773615839,
   "type": "Feature",
   "properties": {
+    "addr:full":"4126 NE 16th Ave Portland OR 97211",
+    "addr:housenumber":"4126",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.649261,45.554203,-122.649261,45.554203",
     "geom:latitude":45.554203,
     "geom:longitude":-122.649261,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893233
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":773615839
         }
     ],
     "wof:id":773615839,
-    "wof:lastmodified":1466775547,
+    "wof:lastmodified":1486771979,
     "wof:name":"Michael Schmitt Photography",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",

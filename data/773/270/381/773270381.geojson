@@ -2,9 +2,14 @@
   "id": 773270381,
   "type": "Feature",
   "properties": {
+    "addr:full":"7008 N Lombard St Portland OR 97203",
+    "addr:housenumber":"7008",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.739524,45.587056,-122.739524,45.587056",
     "geom:latitude":45.587056,
     "geom:longitude":-122.739524,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893225
+        85688513,
+        85846673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893225,
+            "region_id":85688513,
+            "venue_id":773270381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":773270381
         }
     ],
     "wof:id":773270381,
-    "wof:lastmodified":1466772343,
+    "wof:lastmodified":1486769752,
     "wof:name":"Taqueria Plaza Azul",
-    "wof:parent_id":85893225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

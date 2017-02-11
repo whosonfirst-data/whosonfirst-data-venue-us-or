@@ -2,9 +2,14 @@
   "id": 789860185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1327 SE Tacoma St Portland OR 97202",
+    "addr:housenumber":"1327",
+    "addr:postcode":"97202",
+    "addr:street":"Se Tacoma St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652144,45.464467,-122.652144,45.464467",
     "geom:latitude":45.464467,
     "geom:longitude":-122.652144,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789860185
         }
     ],
     "wof:id":789860185,
-    "wof:lastmodified":1466770880,
+    "wof:lastmodified":1486770493,
     "wof:name":"A Full Service Locksmith",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

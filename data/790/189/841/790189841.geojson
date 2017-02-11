@@ -2,9 +2,14 @@
   "id": 790189841,
   "type": "Feature",
   "properties": {
+    "addr:full":"12420 NE Siskiyou St Portland OR 97230",
+    "addr:housenumber":"12420",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Siskiyou St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535186,45.544221,-122.535186,45.544221",
     "geom:latitude":45.544221,
     "geom:longitude":-122.535186,
@@ -24,12 +29,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893231,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893231
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +50,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893231,
             "region_id":85688513,
             "venue_id":790189841
         }
     ],
     "wof:id":790189841,
-    "wof:lastmodified":1466771373,
+    "wof:lastmodified":1486768436,
     "wof:name":"Tree of Life Church",
     "wof:parent_id":85893231,
     "wof:placetype":"venue",

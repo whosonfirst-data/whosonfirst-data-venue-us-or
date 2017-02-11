@@ -2,9 +2,14 @@
   "id": 790238387,
   "type": "Feature",
   "properties": {
+    "addr:full":"3718 SW Condor Avenue Portland OR 97239",
+    "addr:housenumber":"3718",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Condor Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.679101,45.496401,-122.679101,45.496401",
     "geom:latitude":45.496401,
     "geom:longitude":-122.679101,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420558713
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420558713,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":790238387
         }
     ],
     "wof:id":790238387,
-    "wof:lastmodified":1466772191,
+    "wof:lastmodified":1486772295,
     "wof:name":"Nepom David R Atty",
-    "wof:parent_id":420558713,
+    "wof:parent_id":420781235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

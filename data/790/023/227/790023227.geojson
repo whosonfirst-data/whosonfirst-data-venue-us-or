@@ -2,9 +2,14 @@
   "id": 790023227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1336 E Burnside St Ste 200 Portland OR 97214",
+    "addr:housenumber":"1336",
+    "addr:postcode":"97214",
+    "addr:street":"E Burnside St Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652232,45.522911,-122.652232,45.522911",
     "geom:latitude":45.522911,
     "geom:longitude":-122.652232,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.pbl.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790023227
         }
     ],
     "wof:id":790023227,
-    "wof:lastmodified":1466767680,
+    "wof:lastmodified":1486771384,
     "wof:name":"Lane, James L - Parker Bush & Lane",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403886113,
   "type": "Feature",
   "properties": {
+    "addr:full":"7708 SE Aspen Summit Dr Portland OR 97266",
+    "addr:housenumber":"7708",
+    "addr:postcode":"97266",
+    "addr:street":"Se Aspen Summit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.56431,45.466905,-122.56431,45.466905",
     "geom:latitude":45.466905,
     "geom:longitude":-122.56431,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85854775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"f823b2c22d15c9a4fea816a2ea77f087",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85854775,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":403886113
         }
     ],
     "wof:id":403886113,
-    "wof:lastmodified":1466767129,
+    "wof:lastmodified":1486769551,
     "wof:name":"Bekah's Barrista Coffee House",
-    "wof:parent_id":85854775,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

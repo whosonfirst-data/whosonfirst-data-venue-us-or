@@ -2,9 +2,14 @@
   "id": 404102535,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 N Killingsworth St Portland OR 97217",
+    "addr:housenumber":"705",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674937,45.562756,-122.674937,45.562756",
     "geom:latitude":45.562756,
     "geom:longitude":-122.674937,
@@ -26,11 +31,13 @@
     "sg:website":"www.pcc.edu/library",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"45bd3ea079845df738c02edc788d07b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":404102535
         }
     ],
     "wof:id":404102535,
-    "wof:lastmodified":1466770639,
+    "wof:lastmodified":1486769142,
     "wof:name":"Cascade Center Library",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

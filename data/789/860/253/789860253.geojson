@@ -2,9 +2,14 @@
   "id": 789860253,
   "type": "Feature",
   "properties": {
+    "addr:full":"4235 SE Salmon St Portland OR 97202",
+    "addr:housenumber":"4235",
+    "addr:postcode":"97202",
+    "addr:street":"Se Salmon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618787,45.5143,-122.618787,45.5143",
     "geom:latitude":45.5143,
     "geom:longitude":-122.618787,
@@ -26,12 +31,13 @@
     "sg:website":"www.childswork.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":789860253
         }
     ],
     "wof:id":789860253,
-    "wof:lastmodified":1466770883,
+    "wof:lastmodified":1486769907,
     "wof:name":"Childswork Learning Center",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

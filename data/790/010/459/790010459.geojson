@@ -2,9 +2,14 @@
   "id": 790010459,
   "type": "Feature",
   "properties": {
+    "addr:full":"3517 NE 46th Ave Portland OR 97213",
+    "addr:housenumber":"3517",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 46Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616124,45.548449,-122.616124,45.548449",
     "geom:latitude":45.548449,
     "geom:longitude":-122.616124,
@@ -30,12 +35,13 @@
     "sg:website":"bumblekiss.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":790010459
         }
     ],
     "wof:id":790010459,
-    "wof:lastmodified":1466767579,
+    "wof:lastmodified":1486771497,
     "wof:name":"Bumblekiss",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

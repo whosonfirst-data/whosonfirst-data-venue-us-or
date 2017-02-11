@@ -2,9 +2,14 @@
   "id": 773546021,
   "type": "Feature",
   "properties": {
+    "addr:full":"6305 SE 158th Ave Portland OR 97236",
+    "addr:housenumber":"6305",
+    "addr:postcode":"97236",
+    "addr:street":"Se 158Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.501085,45.476754,-122.501085,45.476754",
     "geom:latitude":45.476754,
     "geom:longitude":-122.501085,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773546021
         }
     ],
     "wof:id":773546021,
-    "wof:lastmodified":1466775294,
+    "wof:lastmodified":1486766656,
     "wof:name":"Custom Pressure Washing",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

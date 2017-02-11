@@ -2,9 +2,14 @@
   "id": 370873075,
   "type": "Feature",
   "properties": {
+    "addr:full":"7906 N Delaware Ave Portland OR 97217",
+    "addr:housenumber":"7906",
+    "addr:postcode":"97217",
+    "addr:street":"N Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692364,45.580948,-122.692364,45.580948",
     "geom:latitude":45.580948,
     "geom:longitude":-122.692364,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"790cec564cbd2d968c0da7118dabe1c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":370873075
         }
     ],
     "wof:id":370873075,
-    "wof:lastmodified":1466774391,
+    "wof:lastmodified":1486769518,
     "wof:name":"Taggart's Auto Repair",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 386929609,
   "type": "Feature",
   "properties": {
+    "addr:full":"5228 NE 158th Ave Portland OR 97230",
+    "addr:housenumber":"5228",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 158Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.500165,45.560076,-122.500165,45.560076",
     "geom:latitude":45.560076,
     "geom:longitude":-122.500165,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
+        102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,30 @@
     "wof:geomhash":"51f955f20feb1b03d09021b95b40d79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":386929609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":386929609
         }
     ],
     "wof:id":386929609,
-    "wof:lastmodified":1466767150,
+    "wof:lastmodified":1486772071,
     "wof:name":"Bioshark Systems",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

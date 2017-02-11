@@ -2,9 +2,14 @@
   "id": 403967487,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 NW Front Ave Portland OR 97210",
+    "addr:housenumber":"5501",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Front Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742706,45.566562,-122.742706,45.566562",
     "geom:latitude":45.566562,
     "geom:longitude":-122.742706,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"89d066747a9c5b46974dba33a3d5ad91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":403967487
         }
     ],
     "wof:id":403967487,
-    "wof:lastmodified":1466768571,
+    "wof:lastmodified":1486771103,
     "wof:name":"Paramount Petroleum",
-    "wof:parent_id":85857801,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

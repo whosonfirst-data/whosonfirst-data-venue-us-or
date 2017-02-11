@@ -2,9 +2,14 @@
   "id": 790097089,
   "type": "Feature",
   "properties": {
+    "addr:full":"9200 NE Fremont Street Portland OR 97220",
+    "addr:housenumber":"9200",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Fremont Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.568214,45.54888,-122.568214,45.54888",
     "geom:latitude":45.54888,
     "geom:longitude":-122.568214,
@@ -36,12 +41,13 @@
     "sg:website":"www.citychristianschool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":790097089
         }
     ],
     "wof:id":790097089,
-    "wof:lastmodified":1466767790,
+    "wof:lastmodified":1486768992,
     "wof:name":"City Christian Schools",
     "wof:parent_id":85893205,
     "wof:placetype":"venue",

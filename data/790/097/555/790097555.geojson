@@ -2,9 +2,14 @@
   "id": 790097555,
   "type": "Feature",
   "properties": {
+    "addr:full":"10552 NE Glisan St Portland OR 97220",
+    "addr:housenumber":"10552",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554401,45.526123,-122.554401,45.526123",
     "geom:latitude":45.526123,
     "geom:longitude":-122.554401,
@@ -35,12 +40,13 @@
     "sg:website":"www.jaminraklmt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790097555
         }
     ],
     "wof:id":790097555,
-    "wof:lastmodified":1466767807,
+    "wof:lastmodified":1486770747,
     "wof:name":"Jamin Rak Massage Therapy",
-    "wof:parent_id":85846461,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

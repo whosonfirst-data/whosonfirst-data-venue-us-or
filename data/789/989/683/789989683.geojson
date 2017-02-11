@@ -2,9 +2,14 @@
   "id": 789989683,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 NE Walker St Portland OR 97211",
+    "addr:housenumber":"41",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666582,45.593003,-122.666582,45.593003",
     "geom:latitude":45.593003,
     "geom:longitude":-122.666582,
@@ -59,7 +64,15 @@
     ],
     "sg:website":"http://www.potterwebster.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aCOvvXTFH5XlSwQXnVDbY_45.593003_-122.666582@1303263417"
@@ -67,11 +80,22 @@
     "wof:country":"US",
     "wof:created":1462592244,
     "wof:geomhash":"d6af42dcd28f7947d3ed49fef734bc7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789989683
+        }
+    ],
     "wof:id":789989683,
-    "wof:lastmodified":1466772951,
+    "wof:lastmodified":1486771626,
     "wof:name":"Custom Trailer Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

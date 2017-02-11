@@ -2,9 +2,14 @@
   "id": 790078225,
   "type": "Feature",
   "properties": {
+    "addr:full":"12223 SW 29th Ave Portland OR 97219",
+    "addr:housenumber":"12223",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706333,45.437114,-122.706333,45.437114",
     "geom:latitude":45.437114,
     "geom:longitude":-122.706333,
@@ -29,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715835,
         102082213,
         420536081
@@ -47,6 +56,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
+            "region_id":85688513,
+            "venue_id":790078225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715835,
             "neighbourhood_id":420536081,
@@ -55,9 +74,9 @@
         }
     ],
     "wof:id":790078225,
-    "wof:lastmodified":1466768717,
+    "wof:lastmodified":1486772266,
     "wof:name":"Xtract Solutions",
-    "wof:parent_id":420536081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

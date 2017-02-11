@@ -2,9 +2,14 @@
   "id": 773759435,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 N Portland Blvd Portland OR 97217",
+    "addr:housenumber":"2515",
+    "addr:postcode":"97217",
+    "addr:street":"N Portland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.693414,45.570008,-122.693414,45.570008",
     "geom:latitude":45.570008,
     "geom:longitude":-122.693414,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773759435
         }
     ],
     "wof:id":773759435,
-    "wof:lastmodified":1466775923,
+    "wof:lastmodified":1486772117,
     "wof:name":"Cash Conection 14",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

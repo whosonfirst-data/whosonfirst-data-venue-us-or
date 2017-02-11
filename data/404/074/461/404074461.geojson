@@ -2,9 +2,14 @@
   "id": 404074461,
   "type": "Feature",
   "properties": {
+    "addr:full":"4516 NE 38th Ave Portland OR 97211",
+    "addr:housenumber":"4516",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.624387,45.55651,-122.624387,45.55651",
     "geom:latitude":45.55651,
     "geom:longitude":-122.624387,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"66bbf3ddf0d8c204ef0b862ad3d248c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":404074461
         }
     ],
     "wof:id":404074461,
-    "wof:lastmodified":1466769814,
+    "wof:lastmodified":1486768930,
     "wof:name":"Hamilton Tax Service",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

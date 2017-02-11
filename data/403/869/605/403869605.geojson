@@ -2,9 +2,14 @@
   "id": 403869605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1526 SE Elliott Ave Portland OR 97214",
+    "addr:housenumber":"1526",
+    "addr:postcode":"97214",
+    "addr:street":"Se Elliott",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647224,45.510341,-122.647224,45.510341",
     "geom:latitude":45.510341,
     "geom:longitude":-122.647224,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85828991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"558378a06dfc5f712f7c10ccccac3b88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85828991,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":403869605
         }
     ],
     "wof:id":403869605,
-    "wof:lastmodified":1466771155,
+    "wof:lastmodified":1486773544,
     "wof:name":"Campa Graphics Inc",
-    "wof:parent_id":85828991,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

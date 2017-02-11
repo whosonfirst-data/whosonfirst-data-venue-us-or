@@ -2,9 +2,14 @@
   "id": 371030765,
   "type": "Feature",
   "properties": {
+    "addr:full":"3702 SW Moody Ave Portland OR 97239",
+    "addr:housenumber":"3702",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Moody Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672011,45.495031,-122.672011,45.495031",
     "geom:latitude":45.495031,
     "geom:longitude":-122.672011,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714047,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"ec6b83a90c989015fc3288bf0e9ab79b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714047,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":371030765
         }
     ],
     "wof:id":371030765,
-    "wof:lastmodified":1466767659,
+    "wof:lastmodified":1486773562,
     "wof:name":"River Campus Investors",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790192463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 NE 185th Dr Portland OR 97230",
+    "addr:housenumber":"3700",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 185Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.472932,45.550299,-122.472932,45.550299",
     "geom:latitude":45.550299,
     "geom:longitude":-122.472932,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85824571,
         102191575,
+        1108720843,
         85633793,
-        101716277,
+        101715829,
         102081631,
-        85824571
+        85688513,
+        85893261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +60,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
-            "locality_id":101716277,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85824571,
+            "region_id":85688513,
+            "venue_id":790192463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790192463
         }
     ],
     "wof:id":790192463,
-    "wof:lastmodified":1466771530,
+    "wof:lastmodified":1486772086,
     "wof:name":"Harley Grahn",
-    "wof:parent_id":85824571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790057329,
   "type": "Feature",
   "properties": {
+    "addr:full":"8440 N Interstate Ave Portland OR 97217",
+    "addr:housenumber":"8440",
+    "addr:postcode":"97217",
+    "addr:street":"N Interstate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656147,45.569649,-122.656147,45.569649",
     "geom:latitude":45.569649,
     "geom:longitude":-122.656147,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":790057329
         }
     ],
     "wof:id":790057329,
-    "wof:lastmodified":1466768227,
+    "wof:lastmodified":1486768417,
     "wof:name":"Dancin' Bare",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790225409,
   "type": "Feature",
   "properties": {
+    "addr:full":"12208 SE Market St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"12208;97233",
+    "addr:street":"Se Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537584,45.511551,-122.537584,45.511551",
     "geom:latitude":45.511551,
     "geom:longitude":-122.537584,
@@ -40,12 +45,13 @@
     "sg:website":"http://apps.amfam.com/agentlocator/BMCGINNE?sourceid=yp3",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +66,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790225409
         }
     ],
     "wof:id":790225409,
-    "wof:lastmodified":1466772111,
+    "wof:lastmodified":1486772228,
     "wof:name":"American Family Insurance- Barbara Mcginness",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

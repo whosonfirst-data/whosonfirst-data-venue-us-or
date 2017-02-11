@@ -2,9 +2,14 @@
   "id": 403828297,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 NW Flanders St Portland OR 97209",
+    "addr:housenumber":"821",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Flanders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680052,45.525926,-122.680052,45.525926",
     "geom:latitude":45.525926,
     "geom:longitude":-122.680052,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"16bfe8f98d0451f282d4df72630bb4bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":403828297
         }
     ],
     "wof:id":403828297,
-    "wof:lastmodified":1466770302,
+    "wof:lastmodified":1486763011,
     "wof:name":"Kinetic Fitness Systems",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

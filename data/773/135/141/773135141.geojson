@@ -2,9 +2,14 @@
   "id": 773135141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2546 SE 131st Ave Portland OR 97236",
+    "addr:housenumber":"2546",
+    "addr:postcode":"97236",
+    "addr:street":"Se 131St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528408,45.501591,-122.528408,45.501591",
     "geom:latitude":45.501591,
     "geom:longitude":-122.528408,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773135141
         }
     ],
     "wof:id":773135141,
-    "wof:lastmodified":1466769148,
+    "wof:lastmodified":1486771916,
     "wof:name":"Oregon Eden Presbyterian Chr",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

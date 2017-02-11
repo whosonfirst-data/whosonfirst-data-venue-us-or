@@ -2,9 +2,14 @@
   "id": 404017941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 NE 63rd Ave Portland OR 97213",
+    "addr:housenumber":"1601",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 63Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.598677,45.534309,-122.598677,45.534309",
     "geom:latitude":45.534309,
     "geom:longitude":-122.598677,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"215d448fa044f976eb8936dffd381a57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":404017941
         }
     ],
     "wof:id":404017941,
-    "wof:lastmodified":1466768777,
+    "wof:lastmodified":1486770364,
     "wof:name":"Five Star Engagements",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

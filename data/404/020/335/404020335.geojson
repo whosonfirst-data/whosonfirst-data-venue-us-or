@@ -2,9 +2,14 @@
   "id": 404020335,
   "type": "Feature",
   "properties": {
+    "addr:full":"5520 NE 31st Ave Portland OR 97211",
+    "addr:housenumber":"5520",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633787,45.564331,-122.633787,45.564331",
     "geom:latitude":45.564331,
     "geom:longitude":-122.633787,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"3597b2c3ae6bbb3cc395b8bd0b804afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":404020335
         }
     ],
     "wof:id":404020335,
-    "wof:lastmodified":1466768812,
+    "wof:lastmodified":1486771567,
     "wof:name":"Amalgamated Paint & Constr",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

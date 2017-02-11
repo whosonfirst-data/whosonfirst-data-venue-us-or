@@ -2,9 +2,14 @@
   "id": 790067393,
   "type": "Feature",
   "properties": {
+    "addr:full":"6212 NE 78th Ct Ste C Portland OR 97218",
+    "addr:housenumber":"6212",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 78Th Ct Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582464,45.568227,-122.582464,45.568227",
     "geom:latitude":45.568227,
     "geom:longitude":-122.582464,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790067393
         }
     ],
     "wof:id":790067393,
-    "wof:lastmodified":1466768487,
+    "wof:lastmodified":1486771613,
     "wof:name":"Home Style Upholstry Supply",
-    "wof:parent_id":85819307,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

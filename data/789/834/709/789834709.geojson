@@ -2,9 +2,14 @@
   "id": 789834709,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 SW Sam Jackson Park Rd Portland OR 97201",
+    "addr:housenumber":"2800",
+    "addr:postcode":"97201",
+    "addr:street":"Sw;Jackson Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6876,45.502706,-122.6876,45.502706",
     "geom:latitude":45.502706,
     "geom:longitude":-122.6876,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718535,
+        420781235,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832591,
+            "macrohood_id":1108714057,
+            "microhood_id":1108718535,
+            "neighbourhood_id":420781235,
             "region_id":85688513,
             "venue_id":789834709
         }
     ],
     "wof:id":789834709,
-    "wof:lastmodified":1466769865,
+    "wof:lastmodified":1486773737,
     "wof:name":"1 24 Hour Portland Locksmith",
-    "wof:parent_id":85832591,
+    "wof:parent_id":1108718535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

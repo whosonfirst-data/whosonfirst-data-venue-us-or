@@ -2,9 +2,14 @@
   "id": 789984763,
   "type": "Feature",
   "properties": {
+    "addr:full":"10708 NE 2nd Ave Portland OR 97211",
+    "addr:housenumber":"10708",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66363,45.600215,-122.66363,45.600215",
     "geom:latitude":45.600215,
     "geom:longitude":-122.66363,
@@ -29,7 +34,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UA3baS6gUzk1xdgVerjKM_45.600215_-122.663630@1303263417"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462592207,
     "wof:geomhash":"15758c2c910dd8ca1ccbe16b677cd28b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789984763
+        }
+    ],
     "wof:id":789984763,
-    "wof:lastmodified":1466773039,
+    "wof:lastmodified":1486771628,
     "wof:name":"Form & Structure",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

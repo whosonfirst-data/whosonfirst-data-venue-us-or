@@ -2,9 +2,14 @@
   "id": 790100069,
   "type": "Feature",
   "properties": {
+    "addr:full":"5137 Sw Martha St Portland OR 97221",
+    "addr:housenumber":"5137",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Martha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.730358,45.485254,-122.730358,45.485254",
     "geom:latitude":45.485254,
     "geom:longitude":-122.730358,
@@ -30,11 +35,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +53,21 @@
     "wof:geomhash":"8978ebc72c1f0d48224dab1acc9c8584",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807447,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":790100069
         }
     ],
     "wof:id":790100069,
-    "wof:lastmodified":1466767897,
+    "wof:lastmodified":1486774197,
     "wof:name":"Affordable Motorcycle Repair",
-    "wof:parent_id":85807447,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

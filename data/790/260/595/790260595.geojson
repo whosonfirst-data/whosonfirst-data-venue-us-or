@@ -2,9 +2,14 @@
   "id": 790260595,
   "type": "Feature",
   "properties": {
+    "addr:full":"7035 SE 82nd Ave Porltand OR 97266",
+    "addr:housenumber":"7035",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579365,45.471822,-122.579365,45.471822",
     "geom:latitude":45.471822,
     "geom:longitude":-122.579365,
@@ -42,12 +47,13 @@
     "sg:website":"www.nwmoving.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85827985
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +68,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827985,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":790260595
         }
     ],
     "wof:id":790260595,
-    "wof:lastmodified":1466772547,
+    "wof:lastmodified":1486772248,
     "wof:name":"Move It Or Lose It Inc",
-    "wof:parent_id":85827985,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

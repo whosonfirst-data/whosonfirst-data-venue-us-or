@@ -2,9 +2,14 @@
   "id": 773696071,
   "type": "Feature",
   "properties": {
+    "addr:full":"17218 SE Powell Blvd Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17218;97236",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.486723,45.492754,-122.486723,45.492754",
     "geom:latitude":45.492754,
     "geom:longitude":-122.486723,
@@ -34,7 +39,11 @@
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +61,32 @@
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":773696071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":773696071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":773696071
         }
     ],
     "wof:id":773696071,
-    "wof:lastmodified":1466775741,
+    "wof:lastmodified":1486772202,
     "wof:name":"Loan Mart 3645 Payday Loans",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

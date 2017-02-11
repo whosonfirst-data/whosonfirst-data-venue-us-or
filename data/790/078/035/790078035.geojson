@@ -2,9 +2,14 @@
   "id": 790078035,
   "type": "Feature",
   "properties": {
+    "addr:full":"9320 SW Barbur Blvd Ste 280 Portland OR 97219",
+    "addr:housenumber":"9320",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd Ste 280",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710127,45.457956,-122.710127,45.457956",
     "geom:latitude":45.457956,
     "geom:longitude":-122.710127,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513,
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":790078035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790078035
         }
     ],
     "wof:id":790078035,
-    "wof:lastmodified":1466768710,
+    "wof:lastmodified":1486769656,
     "wof:name":"Commercial Floors Inc",
-    "wof:parent_id":85871489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

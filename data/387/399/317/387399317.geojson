@@ -2,9 +2,14 @@
   "id": 387399317,
   "type": "Feature",
   "properties": {
+    "addr:full":"4480 SW Garden Home Rd Portland OR 97219",
+    "addr:housenumber":"4480",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720816,45.466228,-122.720816,45.466228",
     "geom:latitude":45.466228,
     "geom:longitude":-122.720816,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c57dc64f714d247187735a859470dfd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":387399317
         }
     ],
     "wof:id":387399317,
-    "wof:lastmodified":1466772603,
+    "wof:lastmodified":1486763958,
     "wof:name":"Abel Irrigation & Lighting",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

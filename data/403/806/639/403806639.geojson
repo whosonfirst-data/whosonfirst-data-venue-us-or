@@ -2,9 +2,14 @@
   "id": 403806639,
   "type": "Feature",
   "properties": {
+    "addr:full":"3923 SE 105th Ave Portland OR 97266",
+    "addr:housenumber":"3923",
+    "addr:postcode":"97266",
+    "addr:street":"Se 105Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554885,45.493587,-122.554885,45.493587",
     "geom:latitude":45.493587,
     "geom:longitude":-122.554885,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        85893227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"1bd5b159678370cf7e20569628b8da38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":403806639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":403806639
         }
     ],
     "wof:id":403806639,
-    "wof:lastmodified":1466769761,
+    "wof:lastmodified":1486771915,
     "wof:name":"Hancock Vocal Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

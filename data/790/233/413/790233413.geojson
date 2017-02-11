@@ -2,9 +2,14 @@
   "id": 790233413,
   "type": "Feature",
   "properties": {
+    "addr:full":"16002 SE Division Street Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"16002;97236",
+    "addr:street":"Se Division Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498142,45.504387,-122.498142,45.504387",
     "geom:latitude":45.504387,
     "geom:longitude":-122.498142,
@@ -26,12 +31,13 @@
     "sg:website":"www.usbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":790233413
         }
     ],
     "wof:id":790233413,
-    "wof:lastmodified":1466772213,
+    "wof:lastmodified":1486766650,
     "wof:name":"U S Bank",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

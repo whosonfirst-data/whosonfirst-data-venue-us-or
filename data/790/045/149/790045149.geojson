@@ -2,9 +2,14 @@
   "id": 790045149,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 SE 82nd Ave Portland OR 97216",
+    "addr:housenumber":"324",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578832,45.520579,-122.578832,45.520579",
     "geom:latitude":45.520579,
     "geom:longitude":-122.578832,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790045149
         }
     ],
     "wof:id":790045149,
-    "wof:lastmodified":1466767949,
+    "wof:lastmodified":1486769610,
     "wof:name":"All Ways Warm Properties",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

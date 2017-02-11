@@ -2,9 +2,14 @@
   "id": 370224887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 SW Palatine St Portland OR 97219",
+    "addr:housenumber":"1026",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Palatine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695191,45.444347,-122.695191,45.444347",
     "geom:latitude":45.444347,
     "geom:longitude":-122.695191,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"f27d680c91780df81e933f8ace5f1ebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
             "region_id":85688513,
             "venue_id":370224887
         }
     ],
     "wof:id":370224887,
-    "wof:lastmodified":1466771454,
+    "wof:lastmodified":1486772265,
     "wof:name":"Pro West Landscape Inc",
-    "wof:parent_id":85818135,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

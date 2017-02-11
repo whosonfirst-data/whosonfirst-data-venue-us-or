@@ -2,9 +2,14 @@
   "id": 387512805,
   "type": "Feature",
   "properties": {
+    "addr:full":"10500 SW Boones Ferry Rd Portland OR 97219",
+    "addr:housenumber":"10500",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Boones Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686038,45.449192,-122.686038,45.449192",
     "geom:latitude":45.449192,
     "geom:longitude":-122.686038,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"00f95d1ce0c611f248d7b358f47ec4b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":387512805
         }
     ],
     "wof:id":387512805,
-    "wof:lastmodified":1466773309,
+    "wof:lastmodified":1486771452,
     "wof:name":"Cable Runners",
-    "wof:parent_id":85818135,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

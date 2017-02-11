@@ -2,9 +2,14 @@
   "id": 370573111,
   "type": "Feature",
   "properties": {
+    "addr:full":"6031 SE Belmont St Portland OR 97215",
+    "addr:housenumber":"6031",
+    "addr:postcode":"97215",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601368,45.516834,-122.601368,45.516834",
     "geom:latitude":45.516834,
     "geom:longitude":-122.601368,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893211
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5ac6c5bf163c6ed7f87adb49b2ec7ed0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":370573111
         }
     ],
     "wof:id":370573111,
-    "wof:lastmodified":1466772857,
+    "wof:lastmodified":1486767647,
     "wof:name":"Mt Tabor School-Martial Arts",
     "wof:parent_id":85893211,
     "wof:placetype":"venue",

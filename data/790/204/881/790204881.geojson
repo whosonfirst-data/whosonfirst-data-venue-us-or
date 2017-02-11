@@ -2,9 +2,14 @@
   "id": 790204881,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 NE Oregon Street Portland OR 97232",
+    "addr:housenumber":"525",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Oregon Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660419,45.528664,-122.660419,45.528664",
     "geom:latitude":45.528664,
     "geom:longitude":-122.660419,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871513
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":790204881
         }
     ],
     "wof:id":790204881,
-    "wof:lastmodified":1466771765,
+    "wof:lastmodified":1486769222,
     "wof:name":"Northwest Service Academy",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",

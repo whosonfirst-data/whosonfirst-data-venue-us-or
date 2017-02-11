@@ -2,9 +2,14 @@
   "id": 403843107,
   "type": "Feature",
   "properties": {
+    "addr:full":"17419 SE Division St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17419;97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.483865,45.504658,-122.483865,45.504658",
     "geom:latitude":45.504658,
     "geom:longitude":-122.483865,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
-        101716277,
+        101715829,
         102081631,
+        85688513,
+        101716277,
         85845549
     ],
     "wof:breaches":[],
@@ -43,7 +52,17 @@
     "wof:geomhash":"8e459c97cf1e12267b23de004af436bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":403843107
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
@@ -53,9 +72,9 @@
         }
     ],
     "wof:id":403843107,
-    "wof:lastmodified":1466770652,
+    "wof:lastmodified":1486771537,
     "wof:name":"Sandee Reiki",
-    "wof:parent_id":85845549,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

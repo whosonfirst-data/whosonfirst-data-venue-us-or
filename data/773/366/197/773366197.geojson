@@ -2,9 +2,14 @@
   "id": 773366197,
   "type": "Feature",
   "properties": {
+    "addr:full":"3215 NE 89th Ave Portland OR 97220",
+    "addr:housenumber":"3215",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 89Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570984,45.547999,-122.570984,45.547999",
     "geom:latitude":45.547999,
     "geom:longitude":-122.570984,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":773366197
         }
     ],
     "wof:id":773366197,
-    "wof:lastmodified":1466773743,
+    "wof:lastmodified":1486768891,
     "wof:name":"Mikes Landscape Maintena",
     "wof:parent_id":85893205,
     "wof:placetype":"venue",

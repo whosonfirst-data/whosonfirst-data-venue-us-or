@@ -2,9 +2,14 @@
   "id": 370240705,
   "type": "Feature",
   "properties": {
+    "addr:full":"3422 NE Ainsworth St Portland OR 97211",
+    "addr:housenumber":"3422",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Ainsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628826,45.566225,-122.628826,45.566225",
     "geom:latitude":45.566225,
     "geom:longitude":-122.628826,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"826b0830f2d6f118face9e46d4a06316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":370240705
         }
     ],
     "wof:id":370240705,
-    "wof:lastmodified":1466768722,
+    "wof:lastmodified":1486768552,
     "wof:name":"Bob Franz Construction & Rmdlg",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789908617,
   "type": "Feature",
   "properties": {
+    "addr:full":"1229 SW 10th Ave Portland OR 97205",
+    "addr:housenumber":"1229",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684098,45.516371,-122.684098,45.516371",
     "geom:latitude":45.516371,
     "geom:longitude":-122.684098,
@@ -26,12 +31,13 @@
     "sg:website":"www.boyds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789908617
         }
     ],
     "wof:id":789908617,
-    "wof:lastmodified":1466772068,
+    "wof:lastmodified":1486764983,
     "wof:name":"Boyd Coffee Company",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

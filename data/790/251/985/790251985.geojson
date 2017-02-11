@@ -2,9 +2,14 @@
   "id": 790251985,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 SW Morrison St 8th Fl Portland OR 97255",
+    "addr:housenumber":"525",
+    "addr:postcode":"97255",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6781,45.518949,-122.6781,45.518949",
     "geom:latitude":45.518949,
     "geom:longitude":-122.6781,
@@ -29,12 +34,13 @@
     "sg:website":"www.urbanfarmerrestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790251985
         }
     ],
     "wof:id":790251985,
-    "wof:lastmodified":1466772564,
+    "wof:lastmodified":1486770259,
     "wof:name":"Urban Farmer Restaurant",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

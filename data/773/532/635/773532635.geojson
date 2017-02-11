@@ -2,9 +2,14 @@
   "id": 773532635,
   "type": "Feature",
   "properties": {
+    "addr:full":"12190 SE Market St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"12190;97216",
+    "addr:street":"Se Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539798,45.511481,-122.539798,45.511481",
     "geom:latitude":45.511481,
     "geom:longitude":-122.539798,
@@ -29,12 +34,13 @@
     "sg:website":"www.crowntrophy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773532635
         }
     ],
     "wof:id":773532635,
-    "wof:lastmodified":1466775045,
+    "wof:lastmodified":1486772215,
     "wof:name":"Crown Trophy",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

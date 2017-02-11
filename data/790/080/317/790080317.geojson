@@ -2,9 +2,14 @@
   "id": 790080317,
   "type": "Feature",
   "properties": {
+    "addr:full":"7324 SW 54th Ave Portland OR 97219",
+    "addr:housenumber":"7324",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732857,45.471814,-122.732857,45.471814",
     "geom:latitude":45.471814,
     "geom:longitude":-122.732857,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":790080317
         }
     ],
     "wof:id":790080317,
-    "wof:lastmodified":1466767174,
+    "wof:lastmodified":1486765571,
     "wof:name":"Suzanne Savaria",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

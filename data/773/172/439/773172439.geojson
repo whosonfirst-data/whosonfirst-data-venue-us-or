@@ -2,9 +2,14 @@
   "id": 773172439,
   "type": "Feature",
   "properties": {
+    "addr:full":"8135 SE Market St Portland OR 97215",
+    "addr:housenumber":"8135",
+    "addr:postcode":"97215",
+    "addr:street":"Se Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579854,45.510898,-122.579854,45.510898",
     "geom:latitude":45.510898,
     "geom:longitude":-122.579854,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773172439
         }
     ],
     "wof:id":773172439,
-    "wof:lastmodified":1466770510,
+    "wof:lastmodified":1486769616,
     "wof:name":"Griffins Quality",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

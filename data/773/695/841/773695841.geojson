@@ -2,9 +2,14 @@
   "id": 773695841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3485 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"3485",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.719558,45.538504,-122.719558,45.538504",
     "geom:latitude":45.538504,
     "geom:longitude":-122.719558,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108720529,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "microhood_id":1108720529,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":773695841
         }
     ],
     "wof:id":773695841,
-    "wof:lastmodified":1466775738,
+    "wof:lastmodified":1486774200,
     "wof:name":"Sonja Straub MD",
-    "wof:parent_id":85857791,
+    "wof:parent_id":1108720529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

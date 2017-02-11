@@ -2,9 +2,14 @@
   "id": 790171483,
   "type": "Feature",
   "properties": {
+    "addr:full":"3808 N Williams Ave Portland OR 97227",
+    "addr:housenumber":"3808",
+    "addr:postcode":"97227",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.666406,45.550294,-122.666406,45.550294",
     "geom:latitude":45.550294,
     "geom:longitude":-122.666406,
@@ -29,12 +34,13 @@
     "sg:website":"www.myspace.com/akemisalon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790171483
         }
     ],
     "wof:id":790171483,
-    "wof:lastmodified":1466770643,
+    "wof:lastmodified":1486768785,
     "wof:name":"Akemi Salon",
     "wof:parent_id":85893159,
     "wof:placetype":"venue",

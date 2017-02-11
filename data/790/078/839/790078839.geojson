@@ -2,9 +2,14 @@
   "id": 790078839,
   "type": "Feature",
   "properties": {
+    "addr:full":"7855 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"7855",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.71444,45.467661,-122.71444,45.467661",
     "geom:latitude":45.467661,
     "geom:longitude":-122.71444,
@@ -34,12 +39,13 @@
     "sg:website":"www.fibersinmotion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85835959,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85835959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":790078839
         }
     ],
     "wof:id":790078839,
-    "wof:lastmodified":1466768739,
+    "wof:lastmodified":1486764747,
     "wof:name":"Fibers In Motion",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",

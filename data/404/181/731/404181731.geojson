@@ -2,9 +2,14 @@
   "id": 404181731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1445 N Hayden Island Dr Portland OR 97217",
+    "addr:housenumber":"1445",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680674,45.613495,-122.680674,45.613495",
     "geom:latitude":45.613495,
     "geom:longitude":-122.680674,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721317,
+        102191575,
+        1108714605,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:brand_id":420574061,
     "wof:breaches":[],
@@ -43,19 +51,20 @@
     "wof:geomhash":"d8e563c67629879186bd31ca42f85900",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
             "region_id":85688513,
             "venue_id":404181731
         }
     ],
     "wof:id":404181731,
-    "wof:lastmodified":1466767796,
+    "wof:lastmodified":1486772368,
     "wof:name":"US Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

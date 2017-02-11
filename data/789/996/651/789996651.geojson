@@ -2,9 +2,14 @@
   "id": 789996651,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 NE Brazee Street Portland OR 97212",
+    "addr:housenumber":"3025",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Brazee Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634808,45.54023,-122.634808,45.54023",
     "geom:latitude":45.54023,
     "geom:longitude":-122.634808,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827095,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":789996651
         }
     ],
     "wof:id":789996651,
-    "wof:lastmodified":1466773155,
+    "wof:lastmodified":1486771667,
     "wof:name":"Scharff Gary U Atty",
-    "wof:parent_id":85827095,
+    "wof:parent_id":85893189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

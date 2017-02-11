@@ -2,9 +2,14 @@
   "id": 790249025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 SW Broadway Portland OR 97253",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97253",
+    "addr:street":"Sw Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681137,45.516556,-122.681137,45.516556",
     "geom:latitude":45.516556,
     "geom:longitude":-122.681137,
@@ -26,12 +31,13 @@
     "sg:website":"www.pcpa.com/out/cafe.php",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":790249025
         }
     ],
     "wof:id":790249025,
-    "wof:lastmodified":1466772513,
+    "wof:lastmodified":1486763917,
     "wof:name":"Art Bar & Bistro",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

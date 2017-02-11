@@ -2,9 +2,14 @@
   "id": 773434501,
   "type": "Feature",
   "properties": {
+    "addr:full":"15330 SE Ogden Dr Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"15330;97236",
+    "addr:street":"Se Ogden Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.505275,45.470896,-122.505275,45.470896",
     "geom:latitude":45.470896,
     "geom:longitude":-122.505275,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773434501
         }
     ],
     "wof:id":773434501,
-    "wof:lastmodified":1466774168,
+    "wof:lastmodified":1486772207,
     "wof:name":"A Absolute Comfort Heating",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

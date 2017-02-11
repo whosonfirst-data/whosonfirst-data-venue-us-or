@@ -2,9 +2,14 @@
   "id": 789954029,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 NW Lovejoy St Apt 402 Portland OR 97209",
+    "addr:housenumber":"900;402",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Lovejoy St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680382,45.530121,-122.680382,45.530121",
     "geom:latitude":45.530121,
     "geom:longitude":-122.680382,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789954029
         }
     ],
     "wof:id":789954029,
-    "wof:lastmodified":1466772428,
+    "wof:lastmodified":1486763238,
     "wof:name":"High Ground Wine Partners",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

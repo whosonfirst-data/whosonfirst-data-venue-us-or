@@ -2,9 +2,14 @@
   "id": 790006863,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 NE Hoyt Street Suite 421 Portland OR 97213",
+    "addr:housenumber":"5050",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Hoyt Street Suite 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610775,45.527203,-122.610775,45.527203",
     "geom:latitude":45.527203,
     "geom:longitude":-122.610775,
@@ -34,12 +39,13 @@
     "sg:website":"www.womenshealthtoday.yourmd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721345,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":1108721345,
             "region_id":85688513,
             "venue_id":790006863
         }
     ],
     "wof:id":790006863,
-    "wof:lastmodified":1466767558,
+    "wof:lastmodified":1486772430,
     "wof:name":"Gibbens Janet L MD",
-    "wof:parent_id":85871467,
+    "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773544133,
   "type": "Feature",
   "properties": {
+    "addr:full":"6816 SE Mitchell St Portland OR 97206",
+    "addr:housenumber":"6816",
+    "addr:postcode":"97206",
+    "addr:street":"Se Mitchell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.591387,45.485497,-122.591387,45.485497",
     "geom:latitude":45.485497,
     "geom:longitude":-122.591387,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":773544133
         }
     ],
     "wof:id":773544133,
-    "wof:lastmodified":1466775288,
+    "wof:lastmodified":1486771787,
     "wof:name":"River City Moving",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

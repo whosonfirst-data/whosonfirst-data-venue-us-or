@@ -2,9 +2,14 @@
   "id": 404159755,
   "type": "Feature",
   "properties": {
+    "addr:full":"17472 SE Division St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"17472;97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.483119,45.504585,-122.483119,45.504585",
     "geom:latitude":45.504585,
     "geom:longitude":-122.483119,
@@ -25,8 +30,15 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893161,
+        102191575,
+        1108715281,
         85633793,
-        85688513
+        101715829,
+        102081631,
+        85688513,
+        101716277,
+        85845549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +48,29 @@
     "wof:geomhash":"016842a81ad064e21eb1a9d3c099976c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":404159755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101716277,
+            "neighbourhood_id":85845549,
             "region_id":85688513,
             "venue_id":404159755
         }
     ],
     "wof:id":404159755,
-    "wof:lastmodified":1466767409,
+    "wof:lastmodified":1486771539,
     "wof:name":"Eb Custom Rod & Tackle",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

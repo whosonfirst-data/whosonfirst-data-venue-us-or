@@ -2,9 +2,14 @@
   "id": 789988439,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 NE 10th Ave Portland OR 97211",
+    "addr:housenumber":"4815",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655629,45.557417,-122.655629,45.557417",
     "geom:latitude":45.557417,
     "geom:longitude":-122.655629,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789988439
         }
     ],
     "wof:id":789988439,
-    "wof:lastmodified":1466773066,
+    "wof:lastmodified":1486771760,
     "wof:name":"P & H Hampton X-Mas Trees",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

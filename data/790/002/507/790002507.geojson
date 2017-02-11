@@ -2,9 +2,14 @@
   "id": 790002507,
   "type": "Feature",
   "properties": {
+    "addr:full":"3444 NE 35th avenue Portland OR 97212",
+    "addr:housenumber":"3444",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 35Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.627799,45.547848,-122.627799,45.547848",
     "geom:latitude":45.547848,
     "geom:longitude":-122.627799,
@@ -55,12 +60,13 @@
     "sg:website":"www.risaboyer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,13 +81,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":790002507
         }
     ],
     "wof:id":790002507,
-    "wof:lastmodified":1466767510,
+    "wof:lastmodified":1486768286,
     "wof:name":"Risa Boyer Architecture",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

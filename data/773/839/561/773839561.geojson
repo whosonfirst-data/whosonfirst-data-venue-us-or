@@ -2,9 +2,14 @@
   "id": 773839561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"3405",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578743,45.497955,-122.578743,45.497955",
     "geom:latitude":45.497955,
     "geom:longitude":-122.578743,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773839561
         }
     ],
     "wof:id":773839561,
-    "wof:lastmodified":1466776116,
+    "wof:lastmodified":1486766603,
     "wof:name":"Direct Auto Wholesale",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

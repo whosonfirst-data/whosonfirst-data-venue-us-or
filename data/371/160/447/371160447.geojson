@@ -2,9 +2,14 @@
   "id": 371160447,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 SW Washington St Portland OR 97204",
+    "addr:housenumber":"215",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674689,45.519619,-122.674689,45.519619",
     "geom:latitude":45.519619,
     "geom:longitude":-122.674689,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +55,20 @@
     "wof:geomhash":"42e7d1f0fa4b45346c204e09cee462bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":371160447
         }
     ],
     "wof:id":371160447,
-    "wof:lastmodified":1466769870,
+    "wof:lastmodified":1486770173,
     "wof:name":"Carburton Property 8",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

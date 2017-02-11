@@ -2,9 +2,14 @@
   "id": 387401699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3061 SE Pine St Portland OR 97214",
+    "addr:housenumber":"3061",
+    "addr:postcode":"97214",
+    "addr:street":"Se Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633117,45.520762,-122.633117,45.520762",
     "geom:latitude":45.520762,
     "geom:longitude":-122.633117,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"83d704c147ae94f63b335d7a3d464694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":387401699
         }
     ],
     "wof:id":387401699,
-    "wof:lastmodified":1466772621,
+    "wof:lastmodified":1486771031,
     "wof:name":"Jr Word Specialists",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

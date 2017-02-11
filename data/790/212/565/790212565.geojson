@@ -2,9 +2,14 @@
   "id": 790212565,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 NE 19th Ave Portland OR 97232",
+    "addr:housenumber":"401",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646492,45.525749,-122.646492,45.525749",
     "geom:latitude":45.525749,
     "geom:longitude":-122.646492,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790212565
         }
     ],
     "wof:id":790212565,
-    "wof:lastmodified":1466772067,
+    "wof:lastmodified":1486771028,
     "wof:name":"Enthusiast Media Group",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

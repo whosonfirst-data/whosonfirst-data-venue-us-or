@@ -2,9 +2,14 @@
   "id": 773522043,
   "type": "Feature",
   "properties": {
+    "addr:full":"6904 NE Grand Ave Portland OR 97211",
+    "addr:housenumber":"6904",
+    "addr:postcode":"or 97211",
+    "addr:street":"Ne Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660285,45.572477,-122.660285,45.572477",
     "geom:latitude":45.572477,
     "geom:longitude":-122.660285,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":773522043
         }
     ],
     "wof:id":773522043,
-    "wof:lastmodified":1466774980,
+    "wof:lastmodified":1486772093,
     "wof:name":"Natalies Place For Business",
-    "wof:parent_id":85841531,
+    "wof:parent_id":85893263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

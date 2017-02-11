@@ -2,9 +2,14 @@
   "id": 773193667,
   "type": "Feature",
   "properties": {
+    "addr:full":"3739 SW Hillside Dr Portland OR 97221",
+    "addr:housenumber":"3739",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Hillside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717632,45.499527,-122.717632,45.499527",
     "geom:latitude":45.499527,
     "geom:longitude":-122.717632,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
+        85688513,
         85807447
     ],
     "wof:breaches":[],
@@ -40,18 +48,30 @@
     "wof:geomhash":"b2ae51f3a655a1e58f785588c7ed59cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867153,
+            "region_id":85688513,
+            "venue_id":773193667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":773193667
         }
     ],
     "wof:id":773193667,
-    "wof:lastmodified":1466771242,
+    "wof:lastmodified":1486770596,
     "wof:name":"Richard G Samuels",
-    "wof:parent_id":85807447,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

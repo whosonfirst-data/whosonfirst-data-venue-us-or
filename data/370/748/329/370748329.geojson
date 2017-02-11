@@ -2,9 +2,14 @@
   "id": 370748329,
   "type": "Feature",
   "properties": {
+    "addr:full":"5730 SE 49th Ave Portland OR 97206",
+    "addr:housenumber":"5730",
+    "addr:postcode":"97206",
+    "addr:street":"Se 49Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.612321,45.480823,-122.612321,45.480823",
     "geom:latitude":45.480823,
     "geom:longitude":-122.612321,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"69434b16290bcb6e18181ed9e8dd2135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":370748329
         }
     ],
     "wof:id":370748329,
-    "wof:lastmodified":1466773802,
+    "wof:lastmodified":1486769923,
     "wof:name":"Lok Hop Enterprises Inc",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

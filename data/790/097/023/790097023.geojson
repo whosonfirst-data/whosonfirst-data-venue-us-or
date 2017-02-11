@@ -2,9 +2,14 @@
   "id": 790097023,
   "type": "Feature",
   "properties": {
+    "addr:full":"9500 NE Cascades Pkwy Portland OR 97220",
+    "addr:housenumber":"9500",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Cascades Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.564571,45.572404,-122.564571,45.572404",
     "geom:latitude":45.572404,
     "geom:longitude":-122.564571,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893247,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790097023
         }
     ],
     "wof:id":790097023,
-    "wof:lastmodified":1466767788,
+    "wof:lastmodified":1486772336,
     "wof:name":"ITT Technical Institute",
-    "wof:parent_id":85893247,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

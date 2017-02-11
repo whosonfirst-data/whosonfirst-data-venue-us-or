@@ -2,9 +2,14 @@
   "id": 790021357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 SE Alder St Portland OR 97214",
+    "addr:housenumber":"1925",
+    "addr:postcode":"97214",
+    "addr:street":"Se Alder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646279,45.51803,-122.646279,45.51803",
     "geom:latitude":45.51803,
     "geom:longitude":-122.646279,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871515,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790021357
         }
     ],
     "wof:id":790021357,
-    "wof:lastmodified":1466767667,
+    "wof:lastmodified":1486773393,
     "wof:name":"A Locksmith 0 0 24 Hour",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

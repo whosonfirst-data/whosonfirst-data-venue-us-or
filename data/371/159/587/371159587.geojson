@@ -2,9 +2,14 @@
   "id": 371159587,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 SE Belmont St Portland OR 97214",
+    "addr:housenumber":"2600",
+    "addr:postcode":"97214",
+    "addr:street":"Se Belmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.638115,45.516438,-122.638115,45.516438",
     "geom:latitude":45.516438,
     "geom:longitude":-122.638115,
@@ -25,10 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,21 @@
     "wof:geomhash":"819c89b8ce5f77b3ae147db636e178f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":371159587
         }
     ],
     "wof:id":371159587,
-    "wof:lastmodified":1466769856,
+    "wof:lastmodified":1486773394,
     "wof:name":"Mind Empowered Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

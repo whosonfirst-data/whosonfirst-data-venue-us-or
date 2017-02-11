@@ -2,9 +2,14 @@
   "id": 370957831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2953 NW Saint Helens Rd Portland OR 97210",
+    "addr:housenumber":"2953",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737712,45.557372,-122.737712,45.557372",
     "geom:latitude":45.557372,
     "geom:longitude":-122.737712,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830793,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"0e9a4869a62f1da4517a2e234063460d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":370957831
         }
     ],
     "wof:id":370957831,
-    "wof:lastmodified":1466774956,
+    "wof:lastmodified":1486769578,
     "wof:name":"Sprintnet",
-    "wof:parent_id":85857801,
+    "wof:parent_id":85830793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

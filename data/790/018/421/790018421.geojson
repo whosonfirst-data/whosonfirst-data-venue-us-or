@@ -2,9 +2,14 @@
   "id": 790018421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 SE 7th Avenue Portland OR 97214",
+    "addr:housenumber":"1802",
+    "addr:postcode":"97214",
+    "addr:street":"Se 7Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658883,45.509857,-122.658883,45.509857",
     "geom:latitude":45.509857,
     "geom:longitude":-122.658883,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790018421
         }
     ],
     "wof:id":790018421,
-    "wof:lastmodified":1466767644,
+    "wof:lastmodified":1486773459,
     "wof:name":"Elliott Automotive Service",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

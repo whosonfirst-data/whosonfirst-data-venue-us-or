@@ -2,9 +2,14 @@
   "id": 789993385,
   "type": "Feature",
   "properties": {
+    "addr:full":"5240 NE 42nd Ave Portland OR 97211",
+    "addr:housenumber":"5240",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620406,45.56106,-122.620406,45.56106",
     "geom:latitude":45.56106,
     "geom:longitude":-122.620406,
@@ -26,12 +31,13 @@
     "sg:website":"www.curvygirlclothing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":789993385
         }
     ],
     "wof:id":789993385,
-    "wof:lastmodified":1466773216,
+    "wof:lastmodified":1486771590,
     "wof:name":"Curvy Girl Clothing",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

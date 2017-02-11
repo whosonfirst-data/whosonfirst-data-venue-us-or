@@ -2,9 +2,14 @@
   "id": 387442883,
   "type": "Feature",
   "properties": {
+    "addr:full":"12530 NE Marx St Portland OR 97230",
+    "addr:housenumber":"12530",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Marx St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534676,45.558855,-122.534676,45.558855",
     "geom:latitude":45.558855,
     "geom:longitude":-122.534676,
@@ -26,11 +31,13 @@
     "sg:website":"www.sterlingsavingsbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"eb2cbef81dd6e7da399fe74a161a76b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":387442883
         }
     ],
     "wof:id":387442883,
-    "wof:lastmodified":1466773006,
+    "wof:lastmodified":1486771467,
     "wof:name":"Sterling Savings Bank",
-    "wof:parent_id":85840687,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

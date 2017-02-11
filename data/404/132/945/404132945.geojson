@@ -2,9 +2,14 @@
   "id": 404132945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2816 N Watts St Portland OR 97217",
+    "addr:housenumber":"2816",
+    "addr:postcode":"97217",
+    "addr:street":"N Watts St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69658,45.581206,-122.69658,45.581206",
     "geom:latitude":45.581206,
     "geom:longitude":-122.69658,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"c0b28aa157a88a5e52ac5ffda7f1e614",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":404132945
         }
     ],
     "wof:id":404132945,
-    "wof:lastmodified":1466771234,
+    "wof:lastmodified":1486769508,
     "wof:name":"Karls Machine Shop",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

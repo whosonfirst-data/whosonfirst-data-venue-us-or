@@ -2,9 +2,14 @@
   "id": 789853499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3511 SE Milwaukie Avenue Portland OR 97202",
+    "addr:housenumber":"3511",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653632,45.497325,-122.653632,45.497325",
     "geom:latitude":45.497325,
     "geom:longitude":-122.653632,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513,
+        85807897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
+            "region_id":85688513,
+            "venue_id":789853499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":789853499
         }
     ],
     "wof:id":789853499,
-    "wof:lastmodified":1466770634,
+    "wof:lastmodified":1486769397,
     "wof:name":"Lauka & Associates",
-    "wof:parent_id":85893193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387071069,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 SE 166th Pl Portland OR 97236",
+    "addr:housenumber":"3705",
+    "addr:postcode":"97236",
+    "addr:street":"Se 166Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.491693,45.496433,-122.491693,45.496433",
     "geom:latitude":45.496433,
     "geom:longitude":-122.491693,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"3fee13aecf6a76032ae2590e339fd0a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387071069
         }
     ],
     "wof:id":387071069,
-    "wof:lastmodified":1466768322,
+    "wof:lastmodified":1486771550,
     "wof:name":"TLC Photography",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

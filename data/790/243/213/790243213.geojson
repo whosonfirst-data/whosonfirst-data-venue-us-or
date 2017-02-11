@@ -2,9 +2,14 @@
   "id": 790243213,
   "type": "Feature",
   "properties": {
+    "addr:full":"0233 SW Julia St Portland OR 97239",
+    "addr:housenumber":"0233",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Julia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675675,45.488108,-122.675675,45.488108",
     "geom:latitude":45.488108,
     "geom:longitude":-122.675675,
@@ -36,12 +41,14 @@
     "sg:website":"http://www.servicemasterclean.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790243213
         }
     ],
     "wof:id":790243213,
-    "wof:lastmodified":1466772287,
+    "wof:lastmodified":1486773591,
     "wof:name":"Servicemaster",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

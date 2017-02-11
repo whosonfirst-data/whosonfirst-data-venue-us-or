@@ -2,9 +2,14 @@
   "id": 789846665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2712 SW Patton Ct Portland OR 97201",
+    "addr:housenumber":"2712",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Patton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.71196,45.504165,-122.71196,45.504165",
     "geom:latitude":45.504165,
     "geom:longitude":-122.71196,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
             "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":789846665
         }
     ],
     "wof:id":789846665,
-    "wof:lastmodified":1466770385,
+    "wof:lastmodified":1486773811,
     "wof:name":"Swigert Prindle Trust",
-    "wof:parent_id":85867153,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

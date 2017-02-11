@@ -2,9 +2,14 @@
   "id": 773490973,
   "type": "Feature",
   "properties": {
+    "addr:full":"3439 SW Dickinson St Portland OR 97219",
+    "addr:housenumber":"3439",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Dickinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.71185,45.447425,-122.71185,45.447425",
     "geom:latitude":45.447425,
     "geom:longitude":-122.71185,
@@ -25,13 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781229,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":773490973
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781229,
             "region_id":85688513,
             "venue_id":773490973
         }
     ],
     "wof:id":773490973,
-    "wof:lastmodified":1466774711,
+    "wof:lastmodified":1486772261,
     "wof:name":"Accessible Health & Dental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

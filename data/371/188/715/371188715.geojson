@@ -2,9 +2,14 @@
   "id": 371188715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3949 SW Tower Way Portland OR 97221",
+    "addr:housenumber":"3949",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Tower Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717498,45.480109,-122.717498,45.480109",
     "geom:latitude":45.480109,
     "geom:longitude":-122.717498,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"9f4ee6d569f61966ccca7847fb887d4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":371188715
         }
     ],
     "wof:id":371188715,
-    "wof:lastmodified":1466770456,
+    "wof:lastmodified":1486771053,
     "wof:name":"Ta Dah Food N Stuff",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85871499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789942961,
   "type": "Feature",
   "properties": {
+    "addr:full":"7807 SE 42nd Ave Portland OR 97206",
+    "addr:housenumber":"7807",
+    "addr:postcode":"97206",
+    "addr:street":"Se 42Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619606,45.467028,-122.619606,45.467028",
     "geom:latitude":45.467028,
     "geom:longitude":-122.619606,
@@ -26,9 +31,13 @@
     "sg:website":"www.prissywinks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
+        101715829,
+        102081631,
+        85688513,
         101715883,
         102082213,
         420536077
@@ -44,6 +53,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
+            "region_id":85688513,
+            "venue_id":789942961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102082213,
             "locality_id":101715883,
             "neighbourhood_id":420536077,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":789942961,
-    "wof:lastmodified":1466772422,
+    "wof:lastmodified":1486769936,
     "wof:name":"Prissy Winks Florist",
-    "wof:parent_id":420536077,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

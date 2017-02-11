@@ -2,9 +2,14 @@
   "id": 386954783,
   "type": "Feature",
   "properties": {
+    "addr:full":"3185 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"3185",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699497,45.568801,-122.699497,45.568801",
     "geom:latitude":45.568801,
     "geom:longitude":-122.699497,
@@ -29,11 +34,13 @@
     "sg:website":"www.grandpasgourmet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"76e0ccb388b11ec6bf7d0b41622733bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893221,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":386954783
         }
     ],
     "wof:id":386954783,
-    "wof:lastmodified":1466767298,
+    "wof:lastmodified":1486772101,
     "wof:name":"Grandpas Gourmet Foods",
-    "wof:parent_id":85893221,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

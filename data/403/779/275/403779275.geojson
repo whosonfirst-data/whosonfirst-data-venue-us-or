@@ -2,9 +2,14 @@
   "id": 403779275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 NW 20th Ave Portland OR 97209",
+    "addr:housenumber":"1318",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692558,45.532749,-122.692558,45.532749",
     "geom:latitude":45.532749,
     "geom:longitude":-122.692558,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"fa8978addb62d72b74f3964a1a1a043c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":403779275
         }
     ],
     "wof:id":403779275,
-    "wof:lastmodified":1466769320,
+    "wof:lastmodified":1486771145,
     "wof:name":"Susan Wisdom MA LPC",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

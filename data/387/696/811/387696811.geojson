@@ -2,9 +2,14 @@
   "id": 387696811,
   "type": "Feature",
   "properties": {
+    "addr:full":"2933 SW Fairview Blvd Portland OR 97205",
+    "addr:housenumber":"2933",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Fairview Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709637,45.521812,-122.709637,45.521812",
     "geom:latitude":45.521812,
     "geom:longitude":-122.709637,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871473
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7d6ac649292b8d271def8f8626b91dd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":387696811
         }
     ],
     "wof:id":387696811,
-    "wof:lastmodified":1466774471,
+    "wof:lastmodified":1486764351,
     "wof:name":"Restoration Design Inc",
     "wof:parent_id":85871473,
     "wof:placetype":"venue",

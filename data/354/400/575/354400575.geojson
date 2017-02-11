@@ -2,9 +2,14 @@
   "id": 354400575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 NW 24th Ave Portland OR 97210",
+    "addr:housenumber":"1507",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 24Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700871,45.533983,-122.700871,45.533983",
     "geom:latitude":45.533983,
     "geom:longitude":-122.700871,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:brand_id":420575515,
     "wof:breaches":[],
@@ -40,17 +47,18 @@
     "wof:geomhash":"c284e0231e3c822eb6fc1cb33d8cb66b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":354400575
         }
     ],
     "wof:id":354400575,
-    "wof:lastmodified":1466771309,
+    "wof:lastmodified":1486763535,
     "wof:name":"New York Life",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

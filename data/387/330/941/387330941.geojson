@@ -2,9 +2,14 @@
   "id": 387330941,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 SE 122nd Ave Portland OR 97233",
+    "addr:housenumber":"510",
+    "addr:postcode":"97233",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537662,45.517016,-122.537662,45.517016",
     "geom:latitude":45.517016,
     "geom:longitude":-122.537662,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:brand_id":420573793,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"bf6c23e8e664717fdc963358a9ace24c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":387330941
         }
     ],
     "wof:id":387330941,
-    "wof:lastmodified":1466771977,
+    "wof:lastmodified":1486772238,
     "wof:name":"Bank Of America",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790259289,
   "type": "Feature",
   "properties": {
+    "addr:full":"11439 SE Foster Rd. Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"11439;97266",
+    "addr:street":"Se Foster Rd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.544351,45.476437,-122.544351,45.476437",
     "geom:latitude":45.476437,
     "geom:longitude":-122.544351,
@@ -26,12 +31,13 @@
     "sg:website":"www.relparts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790259289
         }
     ],
     "wof:id":790259289,
-    "wof:lastmodified":1466772662,
+    "wof:lastmodified":1486772205,
     "wof:name":"Reliable Parts",
-    "wof:parent_id":85821523,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

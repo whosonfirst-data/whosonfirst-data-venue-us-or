@@ -2,9 +2,14 @@
   "id": 789911737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 S.W. Stark Street Portland OR 97205",
+    "addr:housenumber":"1234",
+    "addr:postcode":"97205",
+    "addr:street":"S.W. Stark Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683478,45.522669,-122.683478,45.522669",
     "geom:latitude":45.522669,
     "geom:longitude":-122.683478,
@@ -37,12 +42,13 @@
     "sg:website":"www.americanapparel.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789911737
         }
     ],
     "wof:id":789911737,
-    "wof:lastmodified":1466772102,
+    "wof:lastmodified":1486770294,
     "wof:name":"American Apparel",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

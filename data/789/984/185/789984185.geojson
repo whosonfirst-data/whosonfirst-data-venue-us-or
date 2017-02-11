@@ -2,9 +2,14 @@
   "id": 789984185,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 NE 23rd Ave Portland OR 97211",
+    "addr:housenumber":"4815",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.641928,45.557769,-122.641928,45.557769",
     "geom:latitude":45.557769,
     "geom:longitude":-122.641928,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893213,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789984185
         }
     ],
     "wof:id":789984185,
-    "wof:lastmodified":1466773023,
+    "wof:lastmodified":1486771569,
     "wof:name":"Cirkus Pandemonium",
-    "wof:parent_id":85893213,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

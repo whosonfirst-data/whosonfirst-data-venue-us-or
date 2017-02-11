@@ -2,9 +2,14 @@
   "id": 790077695,
   "type": "Feature",
   "properties": {
+    "addr:full":"5931 SW Knightsbridge Dr Portland OR 97219",
+    "addr:housenumber":"5931",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Knightsbridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.738473,45.459724,-122.738473,45.459724",
     "geom:latitude":45.459724,
     "geom:longitude":-122.738473,
@@ -29,7 +34,15 @@
     "sg:postcode":"97219",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vMaxctHiyXsM8cmHE8hCu_45.459724_-122.738473@1303263421"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462592956,
     "wof:geomhash":"4a81828f02dc5c0334d44de7be661fc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790077695
+        }
+    ],
     "wof:id":790077695,
-    "wof:lastmodified":1466768713,
+    "wof:lastmodified":1486772401,
     "wof:name":"Snack Pirate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

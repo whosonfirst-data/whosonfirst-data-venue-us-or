@@ -2,9 +2,14 @@
   "id": 354408479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2337 NW Birkendene St Portland OR 97229",
+    "addr:housenumber":"2337",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Birkendene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.772879,45.541792,-122.772879,45.541792",
     "geom:latitude":45.541792,
     "geom:longitude":-122.772879,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b530411feebba67a458327c3297c73a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":354408479
         }
     ],
     "wof:id":354408479,
-    "wof:lastmodified":1466767152,
+    "wof:lastmodified":1486763121,
     "wof:name":"Si Quan Corporation",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773088639,
   "type": "Feature",
   "properties": {
+    "addr:full":"6950 SE Deardorff Rd Portland OR 97236",
+    "addr:housenumber":"6950",
+    "addr:postcode":"97236",
+    "addr:street":"Se Deardorff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523956,45.469285,-122.523956,45.469285",
     "geom:latitude":45.469285,
     "geom:longitude":-122.523956,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773088639
         }
     ],
     "wof:id":773088639,
-    "wof:lastmodified":1466767716,
+    "wof:lastmodified":1486772208,
     "wof:name":"Exstream Landscaping",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

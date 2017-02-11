@@ -2,9 +2,14 @@
   "id": 387560425,
   "type": "Feature",
   "properties": {
+    "addr:full":"7606 SE 117th Dr Portland OR 97266",
+    "addr:housenumber":"7606",
+    "addr:postcode":"97266",
+    "addr:street":"Se 117Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542752,45.467857,-122.542752,45.467857",
     "geom:latitude":45.467857,
     "geom:longitude":-122.542752,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85803591
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"81104d9ca569fba1a9bf68e1ad306b7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85803591,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":387560425
         }
     ],
     "wof:id":387560425,
-    "wof:lastmodified":1466773694,
+    "wof:lastmodified":1486772212,
     "wof:name":"Five B's Financial & Tax Svc",
-    "wof:parent_id":85803591,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

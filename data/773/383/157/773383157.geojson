@@ -2,9 +2,14 @@
   "id": 773383157,
   "type": "Feature",
   "properties": {
+    "addr:full":"9921 NW Bartholomew Dr Portland OR 97229",
+    "addr:housenumber":"9921",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Bartholomew Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.778931,45.538818,-122.778931,45.538818",
     "geom:latitude":45.538818,
     "geom:longitude":-122.778931,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":773383157
         }
     ],
     "wof:id":773383157,
-    "wof:lastmodified":1466773674,
+    "wof:lastmodified":1486763004,
     "wof:name":"Kevins Auto Service",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386966599,
   "type": "Feature",
   "properties": {
+    "addr:full":"2403 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2403",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701845,45.535517,-122.701845,45.535517",
     "geom:latitude":45.535517,
     "geom:longitude":-122.701845,
@@ -31,11 +36,13 @@
     "sg:website":"www.equinoxjewelers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"f59c22bb83ad352ee946e0f108935aec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":386966599
         }
     ],
     "wof:id":386966599,
-    "wof:lastmodified":1466767357,
+    "wof:lastmodified":1486763541,
     "wof:name":"Equinox Creative Jewelers",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790060487,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 N Rosa Parks Way Portland OR 97217",
+    "addr:housenumber":"809",
+    "addr:postcode":"97217",
+    "addr:street":"N Rosa Parks Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674954,45.56992,-122.674954,45.56992",
     "geom:latitude":45.56992,
     "geom:longitude":-122.674954,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790060487
         }
     ],
     "wof:id":790060487,
-    "wof:lastmodified":1466768288,
+    "wof:lastmodified":1486769706,
     "wof:name":"R And M Motors Portland",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

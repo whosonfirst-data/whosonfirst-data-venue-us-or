@@ -2,9 +2,14 @@
   "id": 789943457,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Winning Way Portland OR 97208",
+    "addr:housenumber":"300",
+    "addr:postcode":"97208",
+    "addr:street":"Winning Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667362,45.533264,-122.667362,45.533264",
     "geom:latitude":45.533264,
     "geom:longitude":-122.667362,
@@ -26,12 +31,13 @@
     "sg:website":"www.frightfx.com/Elshoff/index.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871513
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":789943457
         }
     ],
     "wof:id":789943457,
-    "wof:lastmodified":1466772314,
+    "wof:lastmodified":1486769092,
     "wof:name":"Elshoff Manor",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",

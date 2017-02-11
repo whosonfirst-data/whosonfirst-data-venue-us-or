@@ -2,9 +2,14 @@
   "id": 404128603,
   "type": "Feature",
   "properties": {
+    "addr:full":"6426 SE 122nd Ave Portland OR 97236",
+    "addr:housenumber":"6426",
+    "addr:postcode":"97236",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537029,45.475584,-122.537029,45.475584",
     "geom:latitude":45.475584,
     "geom:longitude":-122.537029,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85821517
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"050c4e9acaba5f2e6f6b9146af3b5b94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85821517,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":404128603
         }
     ],
     "wof:id":404128603,
-    "wof:lastmodified":1466771162,
+    "wof:lastmodified":1486772203,
     "wof:name":"Andrusko Peter Attila",
-    "wof:parent_id":85821517,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

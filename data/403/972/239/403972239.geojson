@@ -2,9 +2,14 @@
   "id": 403972239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Lloyd Center Portland OR 97232",
+    "addr:housenumber":"1013",
+    "addr:postcode":"97232",
+    "addr:street":"Lloyd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652048,45.531977,-122.652048,45.531977",
     "geom:latitude":45.531977,
     "geom:longitude":-122.652048,
@@ -34,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +55,20 @@
     "wof:geomhash":"c3e3e0180ad0a237245a05f6d1b80601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":403972239
         }
     ],
     "wof:id":403972239,
-    "wof:lastmodified":1466768653,
+    "wof:lastmodified":1486771331,
     "wof:name":"Lloyd Alteration Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370288553,
   "type": "Feature",
   "properties": {
+    "addr:full":"237 NE 10th Ave Portland OR 97232",
+    "addr:housenumber":"237",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655697,45.524792,-122.655697,45.524792",
     "geom:latitude":45.524792,
     "geom:longitude":-122.655697,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"fd6e292370cdf97298f0bb36cc65186b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370288553
         }
     ],
     "wof:id":370288553,
-    "wof:lastmodified":1466769613,
+    "wof:lastmodified":1486773517,
     "wof:name":"Portland Roasting",
-    "wof:parent_id":85871495,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

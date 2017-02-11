@@ -2,9 +2,14 @@
   "id": 773438341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 NW Luzon St Portland OR 97210",
+    "addr:housenumber":"3333",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Luzon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.716218,45.542487,-122.716218,45.542487",
     "geom:latitude":45.542487,
     "geom:longitude":-122.716218,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":773438341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":773438341
         }
     ],
     "wof:id":773438341,
-    "wof:lastmodified":1466774314,
+    "wof:lastmodified":1486771116,
     "wof:name":"Holman Distribution Ctr of Ore",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

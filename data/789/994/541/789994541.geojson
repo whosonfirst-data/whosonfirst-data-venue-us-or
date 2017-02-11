@@ -2,9 +2,14 @@
   "id": 789994541,
   "type": "Feature",
   "properties": {
+    "addr:full":"2524 NE 39th Avenue Portland OR 97212",
+    "addr:housenumber":"2524",
+    "addr:postcode":"97212",
+    "addr:street":"Ne 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622809,45.540881,-122.622809,45.540881",
     "geom:latitude":45.540881,
     "geom:longitude":-122.622809,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893189,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893189
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893189,
             "region_id":85688513,
             "venue_id":789994541
         }
     ],
     "wof:id":789994541,
-    "wof:lastmodified":1466773031,
+    "wof:lastmodified":1486769029,
     "wof:name":"Madison Beverly M Lac",
     "wof:parent_id":85893189,
     "wof:placetype":"venue",

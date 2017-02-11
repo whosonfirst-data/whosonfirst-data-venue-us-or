@@ -2,9 +2,14 @@
   "id": 773821757,
   "type": "Feature",
   "properties": {
+    "addr:full":"10810 NE Sandy Blvd Portland OR 97220",
+    "addr:housenumber":"10810",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.55156,45.558563,-122.55156,45.558563",
     "geom:latitude":45.558563,
     "geom:longitude":-122.55156,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":773821757
         }
     ],
     "wof:id":773821757,
-    "wof:lastmodified":1466776082,
+    "wof:lastmodified":1486768671,
     "wof:name":"Winner's Motor Sports Bar",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

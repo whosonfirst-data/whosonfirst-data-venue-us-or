@@ -2,9 +2,14 @@
   "id": 404187421,
   "type": "Feature",
   "properties": {
+    "addr:full":"13603 NE Siskiyou Ct Portland OR 97230",
+    "addr:housenumber":"13603",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Siskiyou Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.51889,45.545397,-122.51889,45.545397",
     "geom:latitude":45.545397,
     "geom:longitude":-122.51889,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"9f3f96e2f5d81fe2c5b0254084dcaca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":404187421
         }
     ],
     "wof:id":404187421,
-    "wof:lastmodified":1466767893,
+    "wof:lastmodified":1486769261,
     "wof:name":"H-4 Investments Inc",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",

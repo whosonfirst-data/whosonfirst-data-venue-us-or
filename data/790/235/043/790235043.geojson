@@ -2,9 +2,14 @@
   "id": 790235043,
   "type": "Feature",
   "properties": {
+    "addr:full":"3506 SE 122nd Avenue Portland OR 97236",
+    "addr:housenumber":"3506",
+    "addr:postcode":"97236",
+    "addr:street":"Se 122Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537806,45.496724,-122.537806,45.496724",
     "geom:latitude":45.496724,
     "geom:longitude":-122.537806,
@@ -35,12 +40,13 @@
     "sg:website":"www.baskinrobbins.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790235043
         }
     ],
     "wof:id":790235043,
-    "wof:lastmodified":1466772246,
+    "wof:lastmodified":1486766619,
     "wof:name":"Baskin-Robbins 31 Ice Cream Stores",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

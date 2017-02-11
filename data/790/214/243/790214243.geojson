@@ -2,9 +2,14 @@
   "id": 790214243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2239 NE Broadway Portland OR 97232",
+    "addr:housenumber":"2239",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.642643,45.535005,-122.642643,45.535005",
     "geom:latitude":45.535005,
     "geom:longitude":-122.642643,
@@ -26,12 +31,13 @@
     "sg:website":"www.linguava.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871463,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871463
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871463,
             "region_id":85688513,
             "venue_id":790214243
         }
     ],
     "wof:id":790214243,
-    "wof:lastmodified":1466771800,
+    "wof:lastmodified":1486770835,
     "wof:name":"Linguava Interpreters",
     "wof:parent_id":85871463,
     "wof:placetype":"venue",

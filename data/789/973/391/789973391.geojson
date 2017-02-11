@@ -2,9 +2,14 @@
   "id": 789973391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 NW Vaughn St Suite 140 Portland OR 97210",
+    "addr:housenumber":"2701",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Vaughn St Suite 140",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706863,45.536781,-122.706863,45.536781",
     "geom:latitude":45.536781,
     "geom:longitude":-122.706863,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789973391
         }
     ],
     "wof:id":789973391,
-    "wof:lastmodified":1466772728,
+    "wof:lastmodified":1486763050,
     "wof:name":"Kaiser Permanente Hospice",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354386985,
   "type": "Feature",
   "properties": {
+    "addr:full":"6416 SE 80th Pl Portland OR 97206",
+    "addr:housenumber":"6416",
+    "addr:postcode":"97206",
+    "addr:street":"Se 80Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.581024,45.476019,-122.581024,45.476019",
     "geom:latitude":45.476019,
     "geom:longitude":-122.581024,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ed789de683e53eae03f5117d6db3ef4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":354386985
         }
     ],
     "wof:id":354386985,
-    "wof:lastmodified":1466771060,
+    "wof:lastmodified":1486766583,
     "wof:name":"S&A Janitorial Service",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

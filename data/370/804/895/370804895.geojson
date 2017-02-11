@@ -2,9 +2,14 @@
   "id": 370804895,
   "type": "Feature",
   "properties": {
+    "addr:full":"7835 SE 54th Ave Portland OR 97206",
+    "addr:housenumber":"7835",
+    "addr:postcode":"97206",
+    "addr:street":"Se 54Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607415,45.466793,-122.607415,45.466793",
     "geom:latitude":45.466793,
     "geom:longitude":-122.607415,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"1433e779a2772f5b98b1bcf20a216dda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":370804895
         }
     ],
     "wof:id":370804895,
-    "wof:lastmodified":1466774008,
+    "wof:lastmodified":1486772253,
     "wof:name":"William S Brennan",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789992975,
   "type": "Feature",
   "properties": {
+    "addr:full":"5949 NE 30th Ave Portland OR 97211",
+    "addr:housenumber":"5949",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635126,45.565945,-122.635126,45.565945",
     "geom:latitude":45.565945,
     "geom:longitude":-122.635126,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789992975
         }
     ],
     "wof:id":789992975,
-    "wof:lastmodified":1466773122,
+    "wof:lastmodified":1486769104,
     "wof:name":"Concordia University Bookstore",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

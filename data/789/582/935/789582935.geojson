@@ -2,9 +2,14 @@
   "id": 789582935,
   "type": "Feature",
   "properties": {
+    "addr:full":"3351 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"3351",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629828,45.532026,-122.629828,45.532026",
     "geom:latitude":45.532026,
     "geom:longitude":-122.629828,
@@ -34,12 +39,13 @@
     "sg:website":"www.nobonz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":789582935
         }
     ],
     "wof:id":789582935,
-    "wof:lastmodified":1466767998,
+    "wof:lastmodified":1486766299,
     "wof:name":"No Bonz About It",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

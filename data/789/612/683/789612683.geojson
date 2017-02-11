@@ -2,9 +2,14 @@
   "id": 789612683,
   "type": "Feature",
   "properties": {
+    "addr:full":"437 SW 4th Ave Portland OR 97204",
+    "addr:housenumber":"437",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67562,45.520277,-122.67562,45.520277",
     "geom:latitude":45.520277,
     "geom:longitude":-122.67562,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789612683
         }
     ],
     "wof:id":789612683,
-    "wof:lastmodified":1466768678,
+    "wof:lastmodified":1486764606,
     "wof:name":"Us Naval Recruiting",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

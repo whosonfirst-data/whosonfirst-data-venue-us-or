@@ -2,9 +2,14 @@
   "id": 773534337,
   "type": "Feature",
   "properties": {
+    "addr:full":"6515 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6515",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.59548,45.489193,-122.59548,45.489193",
     "geom:latitude":45.489193,
     "geom:longitude":-122.59548,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":773534337
         }
     ],
     "wof:id":773534337,
-    "wof:lastmodified":1466775053,
+    "wof:lastmodified":1486766836,
     "wof:name":"Auto Clinic Inc",
     "wof:parent_id":85893185,
     "wof:placetype":"venue",

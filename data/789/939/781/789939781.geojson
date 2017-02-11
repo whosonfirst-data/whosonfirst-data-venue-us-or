@@ -2,9 +2,14 @@
   "id": 789939781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 SE 43rd Avenue Portland OR 97206",
+    "addr:housenumber":"3400",
+    "addr:postcode":"97206",
+    "addr:street":"Se 43Rd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618525,45.498461,-122.618525,45.498461",
     "geom:latitude":45.498461,
     "geom:longitude":-122.618525,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789939781
         }
     ],
     "wof:id":789939781,
-    "wof:lastmodified":1466772242,
+    "wof:lastmodified":1486766979,
     "wof:name":"St Ignatius School",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

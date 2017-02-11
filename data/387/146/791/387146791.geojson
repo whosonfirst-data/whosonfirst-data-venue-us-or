@@ -2,9 +2,14 @@
   "id": 387146791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 NW Johnson St Portland OR 97209",
+    "addr:housenumber":"1304",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685333,45.528536,-122.685333,45.528536",
     "geom:latitude":45.528536,
     "geom:longitude":-122.685333,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"f15527cfc06e6f4e0b136cb397d70dc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":387146791
         }
     ],
     "wof:id":387146791,
-    "wof:lastmodified":1466769700,
+    "wof:lastmodified":1486763291,
     "wof:name":"Downtown Self Storage",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

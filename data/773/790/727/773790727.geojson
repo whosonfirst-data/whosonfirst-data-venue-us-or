@@ -2,9 +2,14 @@
   "id": 773790727,
   "type": "Feature",
   "properties": {
+    "addr:full":"3255 NE Wygant St Portland OR 97211",
+    "addr:housenumber":"3255",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Wygant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631407,45.557765,-122.631407,45.557765",
     "geom:latitude":45.557765,
     "geom:longitude":-122.631407,
@@ -33,12 +38,13 @@
     "sg:website":"www.abc-lockandsafecompany.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":773790727
         }
     ],
     "wof:id":773790727,
-    "wof:lastmodified":1466776006,
+    "wof:lastmodified":1486771580,
     "wof:name":"ABC Lock and Safe",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

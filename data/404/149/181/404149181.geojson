@@ -2,9 +2,14 @@
   "id": 404149181,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 SW Yamhill St Portland OR 97204",
+    "addr:housenumber":"55",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673543,45.51699,-122.673543,45.51699",
     "geom:latitude":45.51699,
     "geom:longitude":-122.673543,
@@ -31,11 +36,13 @@
     "sg:website":"www.groundwatersolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"91ab0a7edaed4f0c0eaab00dd08649ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":404149181
         }
     ],
     "wof:id":404149181,
-    "wof:lastmodified":1466767234,
+    "wof:lastmodified":1486770272,
     "wof:name":"Ground Water Solution Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

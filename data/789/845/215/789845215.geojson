@@ -2,9 +2,14 @@
   "id": 789845215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1133 SW Market St Ste 222 Portland OR 97201",
+    "addr:housenumber":"1133",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Market St Ste 222",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686702,45.514381,-122.686702,45.514381",
     "geom:latitude":45.514381,
     "geom:longitude":-122.686702,
@@ -26,12 +31,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=3795AC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789845215
         }
     ],
     "wof:id":789845215,
-    "wof:lastmodified":1466770322,
+    "wof:lastmodified":1486764980,
     "wof:name":"State Farm Insurance Agent-Rich Ranf Insurance Agency Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789948499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 NW Naito Parkway Portland OR 97209",
+    "addr:housenumber":"1200",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Naito Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678331,45.532075,-122.678331,45.532075",
     "geom:latitude":45.532075,
     "geom:longitude":-122.678331,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789948499
         }
     ],
     "wof:id":789948499,
-    "wof:lastmodified":1466772624,
+    "wof:lastmodified":1486763108,
     "wof:name":"The Rommel Architectural Partnership",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

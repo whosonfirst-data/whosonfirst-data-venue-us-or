@@ -2,9 +2,14 @@
   "id": 403978237,
   "type": "Feature",
   "properties": {
+    "addr:full":"5635 SW Ash Creek Ln Portland OR 97219",
+    "addr:housenumber":"5635",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Ash Creek Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.735898,45.457486,-122.735898,45.457486",
     "geom:latitude":45.457486,
     "geom:longitude":-122.735898,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"305b5640b8278a66f64fd39b59d49c4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":403978237
         }
     ],
     "wof:id":403978237,
-    "wof:lastmodified":1466768763,
+    "wof:lastmodified":1486772404,
     "wof:name":"Opus Homes Inc",
-    "wof:parent_id":85871471,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

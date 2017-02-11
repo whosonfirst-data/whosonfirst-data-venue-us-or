@@ -2,9 +2,14 @@
   "id": 790061439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 N Hayden Meadows Drive Portland OR 97217",
+    "addr:housenumber":"1210",
+    "addr:postcode":"97217",
+    "addr:street":"N Hayden Meadows Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680576,45.59296,-122.680576,45.59296",
     "geom:latitude":45.59296,
     "geom:longitude":-122.680576,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.haydenmeadowspetclinic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16sxSVfs8hmveVsyN7ogzm_45.592960_-122.680576@1303263421"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592831,
     "wof:geomhash":"537dec86469a7bd7f7c92c82f4e9a295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":790061439
+        }
+    ],
     "wof:id":790061439,
-    "wof:lastmodified":1466768310,
+    "wof:lastmodified":1486771629,
     "wof:name":"Hayden Meadows Pet Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

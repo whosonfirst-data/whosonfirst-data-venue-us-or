@@ -2,9 +2,14 @@
   "id": 403712737,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 NW 11th Ave Portland OR 97209",
+    "addr:housenumber":"221",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682267,45.524949,-122.682267,45.524949",
     "geom:latitude":45.524949,
     "geom:longitude":-122.682267,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"041af305a7a858a8ea30cf13a513e7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":403712737
         }
     ],
     "wof:id":403712737,
-    "wof:lastmodified":1466768000,
+    "wof:lastmodified":1486770306,
     "wof:name":"LA Zhu Pearl Of The Orient",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

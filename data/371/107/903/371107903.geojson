@@ -2,9 +2,14 @@
   "id": 371107903,
   "type": "Feature",
   "properties": {
+    "addr:full":"12323 SE Holgate Blvd Portland OR 97236",
+    "addr:housenumber":"12323",
+    "addr:postcode":"97236",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.536058,45.489696,-122.536058,45.489696",
     "geom:latitude":45.489696,
     "geom:longitude":-122.536058,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"f4ea2f0b49d9eff5b333946f1bb42851",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":371107903
         }
     ],
     "wof:id":371107903,
-    "wof:lastmodified":1466768924,
+    "wof:lastmodified":1486771950,
     "wof:name":"Fleming Musicworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

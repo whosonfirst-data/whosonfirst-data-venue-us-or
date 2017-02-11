@@ -2,9 +2,14 @@
   "id": 790083705,
   "type": "Feature",
   "properties": {
+    "addr:full":"10425 SW Hood Ave Portland OR 97219",
+    "addr:housenumber":"10425",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Hood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674318,45.450175,-122.674318,45.450175",
     "geom:latitude":45.450175,
     "geom:longitude":-122.674318,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871517
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":790083705
         }
     ],
     "wof:id":790083705,
-    "wof:lastmodified":1466767295,
+    "wof:lastmodified":1486764736,
     "wof:name":"Weingarten Fs Md Phd",
     "wof:parent_id":85871517,
     "wof:placetype":"venue",

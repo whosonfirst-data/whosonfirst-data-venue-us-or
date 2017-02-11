@@ -2,9 +2,14 @@
   "id": 773497019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5641 SE 111th Ave Portland OR 97266",
+    "addr:housenumber":"5641",
+    "addr:postcode":"97266",
+    "addr:street":"Se 111Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549056,45.481699,-122.549056,45.481699",
     "geom:latitude":45.481699,
     "geom:longitude":-122.549056,
@@ -26,12 +31,13 @@
     "sg:website":"www.servicepestcontrolinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830297
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830297,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":773497019
         }
     ],
     "wof:id":773497019,
-    "wof:lastmodified":1466774921,
+    "wof:lastmodified":1486769547,
     "wof:name":"Service Pest Control Inc",
-    "wof:parent_id":85830297,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

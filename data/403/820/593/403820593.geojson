@@ -2,9 +2,14 @@
   "id": 403820593,
   "type": "Feature",
   "properties": {
+    "addr:full":"4331 SE Bybee Blvd Portland OR 97206",
+    "addr:housenumber":"4331",
+    "addr:postcode":"97206",
+    "addr:street":"Se Bybee Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618402,45.472653,-122.618402,45.472653",
     "geom:latitude":45.472653,
     "geom:longitude":-122.618402,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85859031
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ac080d5a7d7394663571994124162018",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":403820593
         }
     ],
     "wof:id":403820593,
-    "wof:lastmodified":1466770107,
+    "wof:lastmodified":1486766694,
     "wof:name":"Moreland Nails",
     "wof:parent_id":85859031,
     "wof:placetype":"venue",

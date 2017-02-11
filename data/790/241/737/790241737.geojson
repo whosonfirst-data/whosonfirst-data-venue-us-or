@@ -2,9 +2,14 @@
   "id": 790241737,
   "type": "Feature",
   "properties": {
+    "addr:full":"4215 SW 34th Ave Portland OR 97239",
+    "addr:housenumber":"4215",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 34Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712265,45.492687,-122.712265,45.492687",
     "geom:latitude":45.492687,
     "geom:longitude":-122.712265,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +56,18 @@
     "wof:geomhash":"1b10747729f9c7efa344ab23ed57fb8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790241737
         }
     ],
     "wof:id":790241737,
-    "wof:lastmodified":1466772252,
+    "wof:lastmodified":1486764531,
     "wof:name":"Cahill Consulting",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789841713,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 SW Market St Portland OR 97201",
+    "addr:housenumber":"101",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676888,45.511742,-122.676888,45.511742",
     "geom:latitude":45.511742,
     "geom:longitude":-122.676888,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789841713
         }
     ],
     "wof:id":789841713,
-    "wof:lastmodified":1466770173,
+    "wof:lastmodified":1486764700,
     "wof:name":"Portland Rose Festival Foundation",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

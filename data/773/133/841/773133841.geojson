@@ -2,9 +2,14 @@
   "id": 773133841,
   "type": "Feature",
   "properties": {
+    "addr:full":"11554 SE Main St Portland OR 97216",
+    "addr:housenumber":"",
+    "addr:postcode":"11554;97216",
+    "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.543294,45.514,-122.543294,45.514",
     "geom:latitude":45.514,
     "geom:longitude":-122.543294,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773133841
         }
     ],
     "wof:id":773133841,
-    "wof:lastmodified":1466769104,
+    "wof:lastmodified":1486772235,
     "wof:name":"Robert Garcia",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

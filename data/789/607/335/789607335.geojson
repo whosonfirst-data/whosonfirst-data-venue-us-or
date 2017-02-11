@@ -2,9 +2,14 @@
   "id": 789607335,
   "type": "Feature",
   "properties": {
+    "addr:full":"2580 NW Upshur St Portland OR 97210",
+    "addr:housenumber":"2580",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Upshur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704477,45.536098,-122.704477,45.536098",
     "geom:latitude":45.536098,
     "geom:longitude":-122.704477,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.cinerentwest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789607335
         }
     ],
     "wof:id":789607335,
-    "wof:lastmodified":1466768528,
+    "wof:lastmodified":1486762821,
     "wof:name":"Cine Rent West",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

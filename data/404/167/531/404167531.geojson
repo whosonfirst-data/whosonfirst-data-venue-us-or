@@ -2,9 +2,14 @@
   "id": 404167531,
   "type": "Feature",
   "properties": {
+    "addr:full":"6680 NE Portland Hwy Portland OR 97218",
+    "addr:housenumber":"6680",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Portland Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594535,45.564641,-122.594535,45.564641",
     "geom:latitude":45.564641,
     "geom:longitude":-122.594535,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"68348c1521ba2d50381bd66c1945ea7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":404167531
         }
     ],
     "wof:id":404167531,
-    "wof:lastmodified":1466767543,
+    "wof:lastmodified":1486768927,
     "wof:name":"One Two Three",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773595905,
   "type": "Feature",
   "properties": {
+    "addr:full":"6649 NE Wygant St Portland OR 97218",
+    "addr:housenumber":"6649",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Wygant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.594733,45.558252,-122.594733,45.558252",
     "geom:latitude":45.558252,
     "geom:longitude":-122.594733,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":773595905
         }
     ],
     "wof:id":773595905,
-    "wof:lastmodified":1466775571,
+    "wof:lastmodified":1486768995,
     "wof:name":"Eric Duer Window Cleaning",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

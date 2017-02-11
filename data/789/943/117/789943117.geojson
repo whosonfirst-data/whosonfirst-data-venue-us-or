@@ -2,9 +2,14 @@
   "id": 789943117,
   "type": "Feature",
   "properties": {
+    "addr:full":"8120 SE Knight St Portland OR 97206",
+    "addr:housenumber":"8120",
+    "addr:postcode":"97206",
+    "addr:street":"Se Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579751,45.480203,-122.579751,45.480203",
     "geom:latitude":45.480203,
     "geom:longitude":-122.579751,
@@ -42,12 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789943117
         }
     ],
     "wof:id":789943117,
-    "wof:lastmodified":1466772304,
+    "wof:lastmodified":1486771794,
     "wof:name":"Portland Temple Wings Of Healing, Inc",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

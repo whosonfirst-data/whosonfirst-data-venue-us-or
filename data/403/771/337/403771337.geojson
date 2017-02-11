@@ -2,9 +2,14 @@
   "id": 403771337,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 SW Canby St Portland OR 97219",
+    "addr:housenumber":"240",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Canby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677817,45.468248,-122.677817,45.468248",
     "geom:latitude":45.468248,
     "geom:longitude":-122.677817,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85808507
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"1693ac94ebdb5a922fcc52af6118c7a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85808507,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":403771337
         }
     ],
     "wof:id":403771337,
-    "wof:lastmodified":1466769205,
+    "wof:lastmodified":1486772155,
     "wof:name":"Metroarts Inc",
-    "wof:parent_id":85808507,
+    "wof:parent_id":420536125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

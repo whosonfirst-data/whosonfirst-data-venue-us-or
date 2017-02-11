@@ -2,9 +2,14 @@
   "id": 773450009,
   "type": "Feature",
   "properties": {
+    "addr:full":"12607 SW 62nd Ave Portland OR 97219",
+    "addr:housenumber":"12607",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 62Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.741202,45.434404,-122.741202,45.434404",
     "geom:latitude":45.434404,
     "geom:longitude":-122.741202,
@@ -29,7 +34,15 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871501,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lFKTldHpzmBxyp7k1OxOb_45.434404_-122.741202@1294180530"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462585836,
     "wof:geomhash":"0e4a509a262c9bb1282b9a5796547d47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871501,
+            "region_id":85688513,
+            "venue_id":773450009
+        }
+    ],
     "wof:id":773450009,
-    "wof:lastmodified":1466774565,
+    "wof:lastmodified":1486771063,
     "wof:name":"Sjm Auto Technik",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

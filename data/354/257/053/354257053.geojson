@@ -2,9 +2,14 @@
   "id": 354257053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1707 NW Caxton Ct Portland OR 97229",
+    "addr:housenumber":"1707",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Caxton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.779606,45.53544,-122.779606,45.53544",
     "geom:latitude":45.53544,
     "geom:longitude":-122.779606,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"cc26190a6bc2ab2438cb790e94936821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":354257053
         }
     ],
     "wof:id":354257053,
-    "wof:lastmodified":1466768758,
+    "wof:lastmodified":1486770921,
     "wof:name":"Bella Beach Vacation Rentals",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

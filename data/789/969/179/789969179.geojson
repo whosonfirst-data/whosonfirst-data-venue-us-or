@@ -2,9 +2,14 @@
   "id": 789969179,
   "type": "Feature",
   "properties": {
+    "addr:full":"3229 NW Pittock Dr Portland OR 97210",
+    "addr:housenumber":"3229",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Pittock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720001,45.5228,-122.720001,45.5228",
     "geom:latitude":45.5228,
     "geom:longitude":-122.720001,
@@ -35,12 +40,13 @@
     "sg:website":"www.pittockmansion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871503,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":789969179
         }
     ],
     "wof:id":789969179,
-    "wof:lastmodified":1466772785,
+    "wof:lastmodified":1486771069,
     "wof:name":"Pittock Mansion",
     "wof:parent_id":85871503,
     "wof:placetype":"venue",

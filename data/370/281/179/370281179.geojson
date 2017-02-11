@@ -2,9 +2,14 @@
   "id": 370281179,
   "type": "Feature",
   "properties": {
+    "addr:full":"7100 SE 52nd Ave Portland OR 97206",
+    "addr:housenumber":"7100",
+    "addr:postcode":"97206",
+    "addr:street":"Se 52Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.609993,45.471179,-122.609993,45.471179",
     "geom:latitude":45.471179,
     "geom:longitude":-122.609993,
@@ -30,10 +35,13 @@
     "sg:website":"www.cedarpatiofurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"d1d62d0c19d180090eb3da11a5662af6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":370281179
         }
     ],
     "wof:id":370281179,
-    "wof:lastmodified":1466769472,
+    "wof:lastmodified":1486772256,
     "wof:name":"52nd Ave Hardware & Bldg Sup",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

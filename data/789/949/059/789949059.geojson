@@ -2,9 +2,14 @@
   "id": 789949059,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 NW Hoyt St Ste 220 Portland OR 97209",
+    "addr:housenumber":"910",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Hoyt St Ste 220",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680339,45.527141,-122.680339,45.527141",
     "geom:latitude":45.527141,
     "geom:longitude":-122.680339,
@@ -29,12 +34,13 @@
     "sg:website":"www.li-ningusa.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789949059
         }
     ],
     "wof:id":789949059,
-    "wof:lastmodified":1466772366,
+    "wof:lastmodified":1486763219,
     "wof:name":"Li-Ning Sports USA Inc",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

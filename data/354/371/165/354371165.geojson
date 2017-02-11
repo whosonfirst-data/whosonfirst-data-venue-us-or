@@ -2,9 +2,14 @@
   "id": 354371165,
   "type": "Feature",
   "properties": {
+    "addr:full":"6518 NE Sumner St Portland OR 97218",
+    "addr:housenumber":"6518",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Sumner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.595871,45.559913,-122.595871,45.559913",
     "geom:latitude":45.559913,
     "geom:longitude":-122.595871,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"90be8b3e5d774f72633a6adf363f0aff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":354371165
         }
     ],
     "wof:id":354371165,
-    "wof:lastmodified":1466770786,
+    "wof:lastmodified":1486771605,
     "wof:name":"Edward Foix",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773067737,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 N Bridgeton Rd Portland OR 97217",
+    "addr:housenumber":"315",
+    "addr:postcode":"97217",
+    "addr:street":"N Bridgeton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.669507,45.603165,-122.669507,45.603165",
     "geom:latitude":45.603165,
     "geom:longitude":-122.669507,
@@ -24,7 +29,15 @@
     "sg:postcode":"97217",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o3slRFDUGklILXC7UgFFw_45.603165_-122.669507@1294180530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462582919,
     "wof:geomhash":"79c714b1b416e15d878c91c0a6a3889e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":773067737
+        }
+    ],
     "wof:id":773067737,
-    "wof:lastmodified":1466771402,
+    "wof:lastmodified":1486769368,
     "wof:name":"South Channel Brokers & Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

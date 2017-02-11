@@ -2,9 +2,14 @@
   "id": 387267041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3748 SE 8th Ave Portland OR 97202",
+    "addr:housenumber":"3748",
+    "addr:postcode":"97202",
+    "addr:street":"Se 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657653,45.495678,-122.657653,45.495678",
     "geom:latitude":45.495678,
     "geom:longitude":-122.657653,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"45d7a69c5743624ed8b81d97c404d1b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":387267041
         }
     ],
     "wof:id":387267041,
-    "wof:lastmodified":1466771544,
+    "wof:lastmodified":1486766555,
     "wof:name":"Mpm Property Management LLC",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

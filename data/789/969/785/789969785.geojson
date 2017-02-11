@@ -2,9 +2,14 @@
   "id": 789969785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2680 NW Thurman St Portland OR 97210",
+    "addr:housenumber":"2680",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Thurman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706383,45.535358,-122.706383,45.535358",
     "geom:latitude":45.535358,
     "geom:longitude":-122.706383,
@@ -29,12 +34,13 @@
     "sg:website":"www.nwneighborhoodveterinaryhosp...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789969785
         }
     ],
     "wof:id":789969785,
-    "wof:lastmodified":1466772672,
+    "wof:lastmodified":1486762859,
     "wof:name":"NW Neighborhood Veterinary Hospital",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

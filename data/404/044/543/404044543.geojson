@@ -2,9 +2,14 @@
   "id": 404044543,
   "type": "Feature",
   "properties": {
+    "addr:full":"12907 SE Mill Ct Portland OR 97233",
+    "addr:housenumber":"12907",
+    "addr:postcode":"97233",
+    "addr:street":"Se Mill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.531832,45.510948,-122.531832,45.510948",
     "geom:latitude":45.510948,
     "geom:longitude":-122.531832,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"d94e3c235cd70bc12146f0f90b935c01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":404044543
         }
     ],
     "wof:id":404044543,
-    "wof:lastmodified":1466769257,
+    "wof:lastmodified":1486772223,
     "wof:name":"Paradise Restored Lawn Care",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387047973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1219 NE 113th Ave Portland OR 97220",
+    "addr:housenumber":"1219",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 113Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545964,45.528423,-122.545964,45.528423",
     "geom:latitude":45.528423,
     "geom:longitude":-122.545964,
@@ -25,11 +30,15 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85893223,
+        1108720843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,30 @@
     "wof:geomhash":"ce6592371e7c6be8b46b9dbf483e224c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
+            "region_id":85688513,
+            "venue_id":387047973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":387047973
         }
     ],
     "wof:id":387047973,
-    "wof:lastmodified":1466767936,
+    "wof:lastmodified":1486770737,
     "wof:name":"Carpet Counselor",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

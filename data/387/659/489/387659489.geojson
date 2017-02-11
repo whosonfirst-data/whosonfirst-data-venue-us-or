@@ -2,9 +2,14 @@
   "id": 387659489,
   "type": "Feature",
   "properties": {
+    "addr:full":"10933 NW Skyline Blvd Portland OR 97231",
+    "addr:housenumber":"10933",
+    "addr:postcode":"97231",
+    "addr:street":"Nw Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.830614,45.599647,-122.830614,45.599647",
     "geom:latitude":45.599647,
     "geom:longitude":-122.830614,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"2f3a62f05e70ce0658a1f9cc480a2016",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":387659489
         }
     ],
     "wof:id":387659489,
-    "wof:lastmodified":1466774280,
+    "wof:lastmodified":1486772189,
     "wof:name":"Papa Murphys",
-    "wof:parent_id":85868975,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

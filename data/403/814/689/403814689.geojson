@@ -2,9 +2,14 @@
   "id": 403814689,
   "type": "Feature",
   "properties": {
+    "addr:full":"11318 SW 49th Ave Portland OR 97219",
+    "addr:housenumber":"11318",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 49Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.726991,45.443368,-122.726991,45.443368",
     "geom:latitude":45.443368,
     "geom:longitude":-122.726991,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781231,
+        102191575,
+        1108714057,
         85633793,
-        101715835,
-        102082213,
-        85871501
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"3d331b8e7b340a7c8d200d4d8a4ded36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
-            "neighbourhood_id":85871501,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":403814689
         }
     ],
     "wof:id":403814689,
-    "wof:lastmodified":1466769898,
+    "wof:lastmodified":1486772275,
     "wof:name":"Asvadi Robab",
-    "wof:parent_id":85871501,
+    "wof:parent_id":420781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

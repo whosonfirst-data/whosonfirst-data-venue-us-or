@@ -2,9 +2,14 @@
   "id": 404121677,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 SW Washington St Portland OR 97205",
+    "addr:housenumber":"617",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678748,45.520699,-122.678748,45.520699",
     "geom:latitude":45.520699,
     "geom:longitude":-122.678748,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"c9f222be24f1d1ebd4dd11b4238b4408",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":404121677
         }
     ],
     "wof:id":404121677,
-    "wof:lastmodified":1466771017,
+    "wof:lastmodified":1486769985,
     "wof:name":"Condom Capers Inc",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

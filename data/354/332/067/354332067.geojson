@@ -2,9 +2,14 @@
   "id": 354332067,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"2820",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697452,45.562339,-122.697452,45.562339",
     "geom:latitude":45.562339,
     "geom:longitude":-122.697452,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c36779fd6050041dc3deec490b5c0a48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":354332067
         }
     ],
     "wof:id":354332067,
-    "wof:lastmodified":1466769926,
+    "wof:lastmodified":1486765782,
     "wof:name":"Joe Kurmaskie",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

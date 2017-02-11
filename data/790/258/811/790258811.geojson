@@ -2,9 +2,14 @@
   "id": 790258811,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 SE 82nd Ave Ste 200 Portland OR 97266",
+    "addr:housenumber":"3900",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57859,45.494036,-122.57859,45.494036",
     "geom:latitude":45.494036,
     "geom:longitude":-122.57859,
@@ -26,12 +31,13 @@
     "sg:website":"www.rossstores.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790258811
         }
     ],
     "wof:id":790258811,
-    "wof:lastmodified":1466772528,
+    "wof:lastmodified":1486769547,
     "wof:name":"Ross Dress For Less",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

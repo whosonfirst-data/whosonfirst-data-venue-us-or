@@ -2,9 +2,14 @@
   "id": 790064593,
   "type": "Feature",
   "properties": {
+    "addr:full":"4606 N Channel Avenue Portland OR 97217",
+    "addr:housenumber":"4606",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704739,45.556724,-122.704739,45.556724",
     "geom:latitude":45.556724,
     "geom:longitude":-122.704739,
@@ -26,12 +31,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790064593
         }
     ],
     "wof:id":790064593,
-    "wof:lastmodified":1466768405,
+    "wof:lastmodified":1486766107,
     "wof:name":"Seven-Eleven Food Stores",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

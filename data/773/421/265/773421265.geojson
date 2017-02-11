@@ -2,9 +2,14 @@
   "id": 773421265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 N Holman St Portland OR 97217",
+    "addr:housenumber":"1533",
+    "addr:postcode":"97217",
+    "addr:street":"N Holman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683822,45.568494,-122.683822,45.568494",
     "geom:latitude":45.568494,
     "geom:longitude":-122.683822,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773421265
         }
     ],
     "wof:id":773421265,
-    "wof:lastmodified":1466774072,
+    "wof:lastmodified":1486772116,
     "wof:name":"Mostly Mowers Mobile Service",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790068811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5610 NE 65th Ave Portland OR 97218",
+    "addr:housenumber":"5610",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.595634,45.563482,-122.595634,45.563482",
     "geom:latitude":45.563482,
     "geom:longitude":-122.595634,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.arrow-roofing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893177
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":790068811
         }
     ],
     "wof:id":790068811,
-    "wof:lastmodified":1466768521,
+    "wof:lastmodified":1486769269,
     "wof:name":"Arrow Roofing & Sheet Metal Inc",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",

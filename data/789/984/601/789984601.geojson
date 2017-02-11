@@ -2,9 +2,14 @@
   "id": 789984601,
   "type": "Feature",
   "properties": {
+    "addr:full":"431 NE Jarrett St Portland OR 97211",
+    "addr:housenumber":"431",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Jarrett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661138,45.564848,-122.661138,45.564848",
     "geom:latitude":45.564848,
     "geom:longitude":-122.661138,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"http://www.vwservices.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893199,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13n99gVFxPclPrmWhg33jB_45.564848_-122.661138@1303263417"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592206,
     "wof:geomhash":"39023b72324f7b6c2733d57599a4e8b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
+            "region_id":85688513,
+            "venue_id":789984601
+        }
+    ],
     "wof:id":789984601,
-    "wof:lastmodified":1466773127,
+    "wof:lastmodified":1486771759,
     "wof:name":"V. West Contracting And Consulting Services, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387806833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1837 SE 35th Ave Portland OR 97214",
+    "addr:housenumber":"1837",
+    "addr:postcode":"97214",
+    "addr:street":"Se 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628728,45.510388,-122.628728,45.510388",
     "geom:latitude":45.510388,
     "geom:longitude":-122.628728,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"24a97b9a296714b9b6933c9002b77712",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":387806833
         }
     ],
     "wof:id":387806833,
-    "wof:lastmodified":1466775020,
+    "wof:lastmodified":1486770861,
     "wof:name":"James D Beaton",
-    "wof:parent_id":85867133,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

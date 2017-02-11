@@ -2,9 +2,14 @@
   "id": 789941045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 SE 58th Ave Portland OR 97206",
+    "addr:housenumber":"2835",
+    "addr:postcode":"97206",
+    "addr:street":"Se 58Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.602997,45.5014,-122.602997,45.5014",
     "geom:latitude":45.5014,
     "geom:longitude":-122.602997,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":789941045
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":789941045
         }
     ],
     "wof:id":789941045,
-    "wof:lastmodified":1466772411,
+    "wof:lastmodified":1486766979,
     "wof:name":"Wilson Gary A",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387851321,
   "type": "Feature",
   "properties": {
+    "addr:full":"9631 NE Colfax St Portland OR 97220",
+    "addr:housenumber":"9631",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Colfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.565829,45.567598,-122.565829,45.567598",
     "geom:latitude":45.567598,
     "geom:longitude":-122.565829,
@@ -30,11 +35,13 @@
     "sg:website":"www.grayrose.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"a5a4c461e1be7a0012772f6dbc200db2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":387851321
         }
     ],
     "wof:id":387851321,
-    "wof:lastmodified":1466775067,
+    "wof:lastmodified":1486768948,
     "wof:name":"Grayrose Marketing Group",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

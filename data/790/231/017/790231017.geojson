@@ -2,9 +2,14 @@
   "id": 790231017,
   "type": "Feature",
   "properties": {
+    "addr:full":"8322 SE 134th Dr Portland OR 97236",
+    "addr:housenumber":"8322",
+    "addr:postcode":"97236",
+    "addr:street":"Se 134Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.52711,45.463098,-122.52711,45.463098",
     "geom:latitude":45.463098,
     "geom:longitude":-122.52711,
@@ -27,7 +32,15 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536131,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AEEGhaPpqgAb1EfMwoNAC_45.463098_-122.527110@1303263428"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462594177,
     "wof:geomhash":"c96a6ee76ba79b9435b852f9f30a52b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790231017
+        }
+    ],
     "wof:id":790231017,
-    "wof:lastmodified":1466772170,
+    "wof:lastmodified":1486772213,
     "wof:name":"AHK Hardwood & Tile Floors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

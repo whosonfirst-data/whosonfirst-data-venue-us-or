@@ -2,9 +2,14 @@
   "id": 789999423,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 NE Fremont St Portland OR 97212",
+    "addr:housenumber":"903",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.656673,45.548249,-122.656673,45.548249",
     "geom:latitude":45.548249,
     "geom:longitude":-122.656673,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.ballpublications.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85827095,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85827095
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":789999423
         }
     ],
     "wof:id":789999423,
-    "wof:lastmodified":1466773091,
+    "wof:lastmodified":1486768448,
     "wof:name":"Ball Publications",
     "wof:parent_id":85827095,
     "wof:placetype":"venue",

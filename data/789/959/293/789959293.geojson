@@ -2,9 +2,14 @@
   "id": 789959293,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 NW Flanders St Portland OR 97209",
+    "addr:housenumber":"411",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Flanders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674758,45.526425,-122.674758,45.526425",
     "geom:latitude":45.526425,
     "geom:longitude":-122.674758,
@@ -26,12 +31,13 @@
     "sg:website":"www.pipesystems.weebly.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789959293
         }
     ],
     "wof:id":789959293,
-    "wof:lastmodified":1466772650,
+    "wof:lastmodified":1486762820,
     "wof:name":"Pipe Systems Plumbing",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

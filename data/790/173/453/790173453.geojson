@@ -2,9 +2,14 @@
   "id": 790173453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3926 N Vancouver Ave Portland OR 97227",
+    "addr:housenumber":"3926",
+    "addr:postcode":"97227",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667767,45.551125,-122.667767,45.551125",
     "geom:latitude":45.551125,
     "geom:longitude":-122.667767,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790173453
         }
     ],
     "wof:id":790173453,
-    "wof:lastmodified":1466770712,
+    "wof:lastmodified":1486768384,
     "wof:name":"Emergency A Locksmith",
     "wof:parent_id":85893159,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370702077,
   "type": "Feature",
   "properties": {
+    "addr:full":"4507 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"4507",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651049,45.489644,-122.651049,45.489644",
     "geom:latitude":45.489644,
     "geom:longitude":-122.651049,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"e6cb197ef905e0aef5ad3dbee848924a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":370702077
         }
     ],
     "wof:id":370702077,
-    "wof:lastmodified":1466773582,
+    "wof:lastmodified":1486769400,
     "wof:name":"Intricut",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

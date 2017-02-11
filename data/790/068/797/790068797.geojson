@@ -2,9 +2,14 @@
   "id": 790068797,
   "type": "Feature",
   "properties": {
+    "addr:full":"4207 NE 56th Ave Portland OR 97218",
+    "addr:housenumber":"4207",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 56Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605361,45.553251,-122.605361,45.553251",
     "geom:latitude":45.553251,
     "geom:longitude":-122.605361,
@@ -28,7 +33,15 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xpBcZJmHf9dkvWdjMyyyS_45.553251_-122.605361@1303263421"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592882,
     "wof:geomhash":"c8b979cde280594d781c5646cb580b60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":790068797
+        }
+    ],
     "wof:id":790068797,
-    "wof:lastmodified":1466768520,
+    "wof:lastmodified":1486771602,
     "wof:name":"Hays & Associates Garden Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387569193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 SE Spokane St Portland OR 97202",
+    "addr:housenumber":"1436",
+    "addr:postcode":"97202",
+    "addr:street":"Se Spokane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651965,45.464961,-122.651965,45.464961",
     "geom:latitude":45.464961,
     "geom:longitude":-122.651965,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"31a1170b61e746e3e750ca4fc1219130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387569193
         }
     ],
     "wof:id":387569193,
-    "wof:lastmodified":1466773742,
+    "wof:lastmodified":1486770508,
     "wof:name":"Sellwood Pool",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

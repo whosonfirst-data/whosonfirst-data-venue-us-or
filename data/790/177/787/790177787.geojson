@@ -2,9 +2,14 @@
   "id": 790177787,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 6811 Portland OR 97228",
+    "addr:housenumber":"po",
+    "addr:postcode":"97228",
+    "addr:street":"Box 6811",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68,45.53,-122.68,45.53",
     "geom:latitude":45.53,
     "geom:longitude":-122.68,
@@ -29,12 +34,13 @@
     "sg:website":"www.dragontheater.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":790177787
         }
     ],
     "wof:id":790177787,
-    "wof:lastmodified":1466770907,
+    "wof:lastmodified":1486770340,
     "wof:name":"Dragon Theater Puppets",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

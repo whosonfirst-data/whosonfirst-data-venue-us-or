@@ -2,9 +2,14 @@
   "id": 773474075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3834 N Michigan Ave Portland OR 97227",
+    "addr:housenumber":"3834",
+    "addr:postcode":"97227",
+    "addr:street":"N Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676621,45.549657,-122.676621,45.549657",
     "geom:latitude":45.549657,
     "geom:longitude":-122.676621,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":773474075
         }
     ],
     "wof:id":773474075,
-    "wof:lastmodified":1466774769,
+    "wof:lastmodified":1486771508,
     "wof:name":"Lb Design",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370216579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4125 N Longview Ave Portland OR 97217",
+    "addr:housenumber":"4125",
+    "addr:postcode":"97217",
+    "addr:street":"N Longview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683132,45.554516,-122.683132,45.554516",
     "geom:latitude":45.554516,
     "geom:longitude":-122.683132,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"08c7dbd8637051daa7f1370adb15b985",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370216579
         }
     ],
     "wof:id":370216579,
-    "wof:lastmodified":1466768316,
+    "wof:lastmodified":1486771868,
     "wof:name":"Katies Transportation",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

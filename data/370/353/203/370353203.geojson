@@ -2,9 +2,14 @@
   "id": 370353203,
   "type": "Feature",
   "properties": {
+    "addr:full":"4531 NE Holman St Portland OR 97218",
+    "addr:housenumber":"4531",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Holman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615661,45.568256,-122.615661,45.568256",
     "geom:latitude":45.568256,
     "geom:longitude":-122.615661,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"f6503cb3dffd3afd90000d5e10ea18be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":370353203
         }
     ],
     "wof:id":370353203,
-    "wof:lastmodified":1466770873,
+    "wof:lastmodified":1486771619,
     "wof:name":"Big Car Daddy",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

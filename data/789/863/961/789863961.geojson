@@ -2,9 +2,14 @@
   "id": 789863961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1323 SE Tacoma St Portland OR 97202",
+    "addr:housenumber":"1323",
+    "addr:postcode":"97202",
+    "addr:street":"Se Tacoma St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652183,45.464327,-122.652183,45.464327",
     "geom:latitude":45.464327,
     "geom:longitude":-122.652183,
@@ -43,12 +48,13 @@
     "sg:website":"www.columbia.com/where/outlet_st...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +69,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789863961
         }
     ],
     "wof:id":789863961,
-    "wof:lastmodified":1466771022,
+    "wof:lastmodified":1486770490,
     "wof:name":"Columbia Sportswear Outlet",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

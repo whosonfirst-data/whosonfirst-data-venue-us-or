@@ -2,9 +2,14 @@
   "id": 773494931,
   "type": "Feature",
   "properties": {
+    "addr:full":"10921 SE Krieger Ln Portland OR 97266",
+    "addr:housenumber":"10921",
+    "addr:postcode":"97266",
+    "addr:street":"Se Krieger Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549936,45.466135,-122.549936,45.466135",
     "geom:latitude":45.466135,
     "geom:longitude":-122.549936,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803591
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85803591,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":773494931
         }
     ],
     "wof:id":773494931,
-    "wof:lastmodified":1466774823,
+    "wof:lastmodified":1486769570,
     "wof:name":"N W Remodeling Inc",
-    "wof:parent_id":85803591,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

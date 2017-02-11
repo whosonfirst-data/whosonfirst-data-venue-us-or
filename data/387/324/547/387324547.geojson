@@ -2,9 +2,14 @@
   "id": 387324547,
   "type": "Feature",
   "properties": {
+    "addr:full":"5035 SW 19th Dr Portland OR 97239",
+    "addr:housenumber":"5035",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 19Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697112,45.484943,-122.697112,45.484943",
     "geom:latitude":45.484943,
     "geom:longitude":-122.697112,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85825583
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ae386852cb25eb86037f4104d84d5e90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":387324547
         }
     ],
     "wof:id":387324547,
-    "wof:lastmodified":1466772073,
+    "wof:lastmodified":1486764053,
     "wof:name":"Scott Medical",
     "wof:parent_id":85825583,
     "wof:placetype":"venue",

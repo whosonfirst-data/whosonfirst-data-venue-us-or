@@ -2,9 +2,14 @@
   "id": 790056259,
   "type": "Feature",
   "properties": {
+    "addr:full":"6726 N Interstate Ave Portland OR 97217",
+    "addr:housenumber":"6726",
+    "addr:postcode":"97217",
+    "addr:street":"N Interstate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68174,45.571642,-122.68174,45.571642",
     "geom:latitude":45.571642,
     "geom:longitude":-122.68174,
@@ -30,12 +35,13 @@
     "sg:website":"alexsandras.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":790056259
         }
     ],
     "wof:id":790056259,
-    "wof:lastmodified":1466768203,
+    "wof:lastmodified":1486772108,
     "wof:name":"AlexSandras Vintage Emporium",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354353331,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 NW Broadway Portland OR 97209",
+    "addr:housenumber":"224",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677437,45.52501,-122.677437,45.52501",
     "geom:latitude":45.52501,
     "geom:longitude":-122.677437,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c970c497b9eb6b31b3f00b67dd8c823e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":354353331
         }
     ],
     "wof:id":354353331,
-    "wof:lastmodified":1466770400,
+    "wof:lastmodified":1486763454,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789933471,
   "type": "Feature",
   "properties": {
+    "addr:full":"5804 SE Powell Blvd Portland OR 97206",
+    "addr:housenumber":"5804",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603017,45.497489,-122.603017,45.497489",
     "geom:latitude":45.497489,
     "geom:longitude":-122.603017,
@@ -30,12 +35,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893185,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893185,
             "region_id":85688513,
             "venue_id":789933471
         }
     ],
     "wof:id":789933471,
-    "wof:lastmodified":1466772346,
+    "wof:lastmodified":1486771651,
     "wof:name":"Larkin Research",
-    "wof:parent_id":85871497,
+    "wof:parent_id":85893185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

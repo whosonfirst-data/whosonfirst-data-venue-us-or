@@ -2,9 +2,14 @@
   "id": 370287203,
   "type": "Feature",
   "properties": {
+    "addr:full":"10736 NE Fargo St Portland OR 97220",
+    "addr:housenumber":"10736",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Fargo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.551648,45.545532,-122.551648,45.545532",
     "geom:latitude":45.545532,
     "geom:longitude":-122.551648,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"e6f77d01832a27017fb96d9532f5c5a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":370287203
         }
     ],
     "wof:id":370287203,
-    "wof:lastmodified":1466769589,
+    "wof:lastmodified":1486771892,
     "wof:name":"USA Rv Transporters Inc",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

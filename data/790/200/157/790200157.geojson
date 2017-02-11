@@ -2,9 +2,14 @@
   "id": 790200157,
   "type": "Feature",
   "properties": {
+    "addr:full":"15296 NE Sandy Boulevard Apt B Portland OR 97230",
+    "addr:housenumber":"15296",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Sandy Boulevard Apt B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.504441,45.551331,-122.504441,45.551331",
     "geom:latitude":45.551331,
     "geom:longitude":-122.504441,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893261
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790200157
         }
     ],
     "wof:id":790200157,
-    "wof:lastmodified":1466771520,
+    "wof:lastmodified":1486772073,
     "wof:name":"Village Garden Apartments",
     "wof:parent_id":85893261,
     "wof:placetype":"venue",

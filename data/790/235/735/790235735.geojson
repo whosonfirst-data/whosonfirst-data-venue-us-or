@@ -2,9 +2,14 @@
   "id": 790235735,
   "type": "Feature",
   "properties": {
+    "addr:full":"5955 SE 122nd Ave Portland OR 97236",
+    "addr:housenumber":"5955",
+    "addr:postcode":"97236",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537987,45.479193,-122.537987,45.479193",
     "geom:latitude":45.479193,
     "geom:longitude":-122.537987,
@@ -29,12 +34,13 @@
     "sg:website":"www.safeguardtowing.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790235735
         }
     ],
     "wof:id":790235735,
-    "wof:lastmodified":1466772271,
+    "wof:lastmodified":1486771935,
     "wof:name":"Safeguard Towing",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

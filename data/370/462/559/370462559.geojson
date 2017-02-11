@@ -2,9 +2,14 @@
   "id": 370462559,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 SE 31st Ave Portland OR 97202",
+    "addr:housenumber":"4325",
+    "addr:postcode":"97202",
+    "addr:street":"Se 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633744,45.490771,-122.633744,45.490771",
     "geom:latitude":45.490771,
     "geom:longitude":-122.633744,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536085,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"0bdf5b52a9fd41fdc3f161416afbcd11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":370462559
         }
     ],
     "wof:id":370462559,
-    "wof:lastmodified":1466772212,
+    "wof:lastmodified":1486772128,
     "wof:name":"Design Time With Miss Amanda",
-    "wof:parent_id":85893197,
+    "wof:parent_id":420536085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

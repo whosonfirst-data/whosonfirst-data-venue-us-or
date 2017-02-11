@@ -2,9 +2,14 @@
   "id": 773386249,
   "type": "Feature",
   "properties": {
+    "addr:full":"2837 SE 39th Ave Portland OR 97202",
+    "addr:housenumber":"2837",
+    "addr:postcode":"97202",
+    "addr:street":"Se 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622684,45.502196,-122.622684,45.502196",
     "geom:latitude":45.502196,
     "geom:longitude":-122.622684,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":773386249
         }
     ],
     "wof:id":773386249,
-    "wof:lastmodified":1466773735,
+    "wof:lastmodified":1486766643,
     "wof:name":"Brothers Builders Inc",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

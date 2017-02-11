@@ -2,9 +2,14 @@
   "id": 371086567,
   "type": "Feature",
   "properties": {
+    "addr:full":"11806 SE Cora St Portland OR 97266",
+    "addr:housenumber":"11806",
+    "addr:postcode":"97266",
+    "addr:street":"Se Cora St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.541318,45.491186,-122.541318,45.491186",
     "geom:latitude":45.491186,
     "geom:longitude":-122.541318,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"61cd8b72147cc0dcd5e01691f441c2d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":371086567
         }
     ],
     "wof:id":371086567,
-    "wof:lastmodified":1466768575,
+    "wof:lastmodified":1486767476,
     "wof:name":"Gene R Halase Properties",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

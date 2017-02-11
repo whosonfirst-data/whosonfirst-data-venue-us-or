@@ -2,9 +2,14 @@
   "id": 387473475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 SE Brooklyn St Portland OR 97202",
+    "addr:housenumber":"1710",
+    "addr:postcode":"97202",
+    "addr:street":"Se Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647746,45.50127,-122.647746,45.50127",
     "geom:latitude":45.50127,
     "geom:longitude":-122.647746,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"44ce50f99c114de0ea64cb98e91c3ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":387473475
         }
     ],
     "wof:id":387473475,
-    "wof:lastmodified":1466773098,
+    "wof:lastmodified":1486767649,
     "wof:name":"Reddi Kleen Inc",
     "wof:parent_id":85893193,
     "wof:placetype":"venue",

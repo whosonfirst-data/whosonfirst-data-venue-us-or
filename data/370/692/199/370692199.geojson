@@ -2,9 +2,14 @@
   "id": 370692199,
   "type": "Feature",
   "properties": {
+    "addr:full":"16916 SE Powell Blvd Portland OR 97236",
+    "addr:housenumber":"16916",
+    "addr:postcode":"97236",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.488491,45.493071,-122.488491,45.493071",
     "geom:latitude":45.493071,
     "geom:longitude":-122.488491,
@@ -30,10 +35,15 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        420536131,
+        1108715281,
+        101715829,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +53,39 @@
     "wof:geomhash":"076c156d5b7fe521f23d5c3cf66b21d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":370692199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":370692199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":370692199
         }
     ],
     "wof:id":370692199,
-    "wof:lastmodified":1466773538,
+    "wof:lastmodified":1486772198,
     "wof:name":"Powell Court Apts",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

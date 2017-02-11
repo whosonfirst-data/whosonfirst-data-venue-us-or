@@ -2,9 +2,14 @@
   "id": 773010303,
   "type": "Feature",
   "properties": {
+    "addr:full":"15540 SE Henderson Way Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"15540;97236",
+    "addr:street":"Se Henderson Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.50311,45.469568,-122.50311,45.469568",
     "geom:latitude":45.469568,
     "geom:longitude":-122.50311,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773010303
         }
     ],
     "wof:id":773010303,
-    "wof:lastmodified":1466769937,
+    "wof:lastmodified":1486772200,
     "wof:name":"Dan McCauley Surface Tech",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

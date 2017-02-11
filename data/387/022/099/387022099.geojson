@@ -2,9 +2,14 @@
   "id": 387022099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 NW Nela St Portland OR 97210",
+    "addr:housenumber":"2800",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Nela St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710565,45.543501,-122.710565,45.543501",
     "geom:latitude":45.543501,
     "geom:longitude":-122.710565,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"c62888b3c96b301205d0d116552c291d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":387022099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":387022099
         }
     ],
     "wof:id":387022099,
-    "wof:lastmodified":1466767494,
+    "wof:lastmodified":1486771101,
     "wof:name":"Paratransit Services",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

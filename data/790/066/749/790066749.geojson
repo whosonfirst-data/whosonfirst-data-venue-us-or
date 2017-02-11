@@ -2,9 +2,14 @@
   "id": 790066749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 N Hayden Island Dr Portland OR 97218",
+    "addr:housenumber":"1335",
+    "addr:postcode":"97218",
+    "addr:street":"N Hayden Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680182,45.613861,-122.680182,45.613861",
     "geom:latitude":45.613861,
     "geom:longitude":-122.680182,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.boomersbbque.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721317,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RYPK8kiZPjAY6K80CiRzP_45.613861_-122.680182@1303263421"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592868,
     "wof:geomhash":"2559533dd37ae6545ddd7d7d3ebc9c7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
+            "region_id":85688513,
+            "venue_id":790066749
+        }
+    ],
     "wof:id":790066749,
-    "wof:lastmodified":1466768480,
+    "wof:lastmodified":1486772360,
     "wof:name":"Boomers Burgers & Ribs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

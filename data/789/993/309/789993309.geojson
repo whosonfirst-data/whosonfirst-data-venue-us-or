@@ -2,9 +2,14 @@
   "id": 789993309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1618 NE Blue Heron Dr Portland OR 97211",
+    "addr:housenumber":"1618",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Blue Heron Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648732,45.591024,-122.648732,45.591024",
     "geom:latitude":45.591024,
     "geom:longitude":-122.648732,
@@ -18,7 +23,15 @@
     "sg:postcode":"97211",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3050chig1Ad5DsolY2iMsT_45.591024_-122.648732@1303263417"
@@ -26,11 +39,22 @@
     "wof:country":"US",
     "wof:created":1462592275,
     "wof:geomhash":"ba573e2da286386a55fea2b00984a15e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":789993309
+        }
+    ],
     "wof:id":789993309,
-    "wof:lastmodified":1466773215,
+    "wof:lastmodified":1486771628,
     "wof:name":"First Harvest Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

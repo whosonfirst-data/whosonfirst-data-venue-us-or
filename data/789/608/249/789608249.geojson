@@ -2,9 +2,14 @@
   "id": 789608249,
   "type": "Feature",
   "properties": {
+    "addr:full":"16029 SE Taylor St Portland OR 97233",
+    "addr:housenumber":"",
+    "addr:postcode":"16029;97233",
+    "addr:street":"Se Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.496706,45.51509,-122.496706,45.51509",
     "geom:latitude":45.51509,
     "geom:longitude":-122.496706,
@@ -33,12 +38,14 @@
     "sg:website":"http://www.stewmac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85893161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":789608249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":789608249
         }
     ],
     "wof:id":789608249,
-    "wof:lastmodified":1466768553,
+    "wof:lastmodified":1486771534,
     "wof:name":"Stewmac Inc",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

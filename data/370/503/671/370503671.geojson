@@ -2,9 +2,14 @@
   "id": 370503671,
   "type": "Feature",
   "properties": {
+    "addr:full":"9050 NE Halsey St Portland OR 97220",
+    "addr:housenumber":"",
+    "addr:postcode":"9050;97220",
+    "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570446,45.533405,-122.570446,45.533405",
     "geom:latitude":45.533405,
     "geom:longitude":-122.570446,
@@ -29,11 +34,13 @@
     "sg:website":"www.ur.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"0baa455bd38204c2fa36001507273abf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":370503671
         }
     ],
     "wof:id":370503671,
-    "wof:lastmodified":1466772346,
+    "wof:lastmodified":1486771774,
     "wof:name":"United Rentals Trench Safety",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

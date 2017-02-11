@@ -2,9 +2,14 @@
   "id": 789940463,
   "type": "Feature",
   "properties": {
+    "addr:full":"4206 SE Martins St Portland OR 97206",
+    "addr:housenumber":"4206",
+    "addr:postcode":"97206",
+    "addr:street":"Se Martins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.619357,45.47844,-122.619357,45.47844",
     "geom:latitude":45.47844,
     "geom:longitude":-122.619357,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893181
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893181,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":789940463
         }
     ],
     "wof:id":789940463,
-    "wof:lastmodified":1466772263,
+    "wof:lastmodified":1486769932,
     "wof:name":"Jacoby & Rogue Paint Removal, Inc.",
-    "wof:parent_id":85893181,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

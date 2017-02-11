@@ -2,9 +2,14 @@
   "id": 789948835,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 NW Glisan St Portland OR 97209",
+    "addr:housenumber":"435",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67482,45.526667,-122.67482,45.526667",
     "geom:latitude":45.526667,
     "geom:longitude":-122.67482,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789948835
         }
     ],
     "wof:id":789948835,
-    "wof:lastmodified":1466772630,
+    "wof:lastmodified":1486763353,
     "wof:name":"Transition Projects",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

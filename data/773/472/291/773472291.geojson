@@ -2,9 +2,14 @@
   "id": 773472291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"1926",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645677,45.522094,-122.645677,45.522094",
     "geom:latitude":45.522094,
     "geom:longitude":-122.645677,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773472291
         }
     ],
     "wof:id":773472291,
-    "wof:lastmodified":1466774645,
+    "wof:lastmodified":1486771420,
     "wof:name":"Papaver",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789831971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1930 SW River Dr Portland OR 97201",
+    "addr:housenumber":"1930",
+    "addr:postcode":"97201",
+    "addr:street":"Sw River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673532,45.508268,-122.673532,45.508268",
     "geom:latitude":45.508268,
     "geom:longitude":-122.673532,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789831971
         }
     ],
     "wof:id":789831971,
-    "wof:lastmodified":1466769762,
+    "wof:lastmodified":1486770261,
     "wof:name":"Artistic Flowers & Home Decor",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

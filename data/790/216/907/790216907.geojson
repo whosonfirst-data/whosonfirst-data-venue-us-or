@@ -2,9 +2,14 @@
   "id": 790216907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1545 NE Sandy Blvd Portland OR 97232",
+    "addr:housenumber":"1545",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65018,45.524282,-122.65018,45.524282",
     "geom:latitude":45.524282,
     "geom:longitude":-122.65018,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790216907
         }
     ],
     "wof:id":790216907,
-    "wof:lastmodified":1466771867,
+    "wof:lastmodified":1486771014,
     "wof:name":"1 Action 7 Day Lock Service",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

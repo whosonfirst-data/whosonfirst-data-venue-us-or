@@ -2,9 +2,14 @@
   "id": 790081589,
   "type": "Feature",
   "properties": {
+    "addr:full":"7341 SW 45th Ave Portland OR 97219",
+    "addr:housenumber":"7341",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.723453,45.471859,-122.723453,45.471859",
     "geom:latitude":45.471859,
     "geom:longitude":-122.723453,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":790081589
         }
     ],
     "wof:id":790081589,
-    "wof:lastmodified":1466767219,
+    "wof:lastmodified":1486769581,
     "wof:name":"Grace Studio",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

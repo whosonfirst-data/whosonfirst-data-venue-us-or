@@ -2,9 +2,14 @@
   "id": 773611473,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 SE 160th Ave Portland OR 97236",
+    "addr:housenumber":"2600",
+    "addr:postcode":"97236",
+    "addr:street":"Se 160Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.498471,45.502421,-122.498471,45.502421",
     "geom:latitude":45.502421,
     "geom:longitude":-122.498471,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773611473
         }
     ],
     "wof:id":773611473,
-    "wof:lastmodified":1466775515,
+    "wof:lastmodified":1486767692,
     "wof:name":"TP Building Services",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

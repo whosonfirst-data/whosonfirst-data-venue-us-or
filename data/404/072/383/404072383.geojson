@@ -2,9 +2,14 @@
   "id": 404072383,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 NE 20th Ave Portland OR 97232",
+    "addr:housenumber":"604",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 20Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.645381,45.527877,-122.645381,45.527877",
     "geom:latitude":45.527877,
     "geom:longitude":-122.645381,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"bbc74509608abd11f487336039c3990e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":404072383
         }
     ],
     "wof:id":404072383,
-    "wof:lastmodified":1466769768,
+    "wof:lastmodified":1486767211,
     "wof:name":"Interntonal Frt Systems of Ore",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354409473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 NE Fremont St Portland OR 97212",
+    "addr:housenumber":"1325",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652024,45.548319,-122.652024,45.548319",
     "geom:latitude":45.548319,
     "geom:longitude":-122.652024,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893235
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"867d2833d1e5222bd440bf191389c73c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893235,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":354409473
         }
     ],
     "wof:id":354409473,
-    "wof:lastmodified":1466767169,
+    "wof:lastmodified":1486771980,
     "wof:name":"Peanut Butter & Ellies",
-    "wof:parent_id":85893235,
+    "wof:parent_id":85893233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

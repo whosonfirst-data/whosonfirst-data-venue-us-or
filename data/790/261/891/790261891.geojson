@@ -2,9 +2,14 @@
   "id": 790261891,
   "type": "Feature",
   "properties": {
+    "addr:full":"8245 SE Division Street Portland OR 97266",
+    "addr:housenumber":"8245",
+    "addr:postcode":"97266",
+    "addr:street":"Se Division Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578412,45.504863,-122.578412,45.504863",
     "geom:latitude":45.504863,
     "geom:longitude":-122.578412,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790261891
         }
     ],
     "wof:id":790261891,
-    "wof:lastmodified":1466772698,
+    "wof:lastmodified":1486767685,
     "wof:name":"Vien Dong Video & Gifts",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370195573,
   "type": "Feature",
   "properties": {
+    "addr:full":"8335 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"8335",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647116,45.462427,-122.647116,45.462427",
     "geom:latitude":45.462427,
     "geom:longitude":-122.647116,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"221451b2ef28f93528e27e91ea5c118f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370195573
         }
     ],
     "wof:id":370195573,
-    "wof:lastmodified":1466767959,
+    "wof:lastmodified":1486770497,
     "wof:name":"Jeanette's Of Sellwood",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

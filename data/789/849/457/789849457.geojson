@@ -2,9 +2,14 @@
   "id": 789849457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 SE Bybee Blvd Portland OR 97202",
+    "addr:housenumber":"3012",
+    "addr:postcode":"97202",
+    "addr:street":"Se Bybee Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632251,45.473091,-122.632251,45.473091",
     "geom:latitude":45.473091,
     "geom:longitude":-122.632251,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":789849457
         }
     ],
     "wof:id":789849457,
-    "wof:lastmodified":1466770498,
+    "wof:lastmodified":1486767317,
     "wof:name":"Emergency All Day Locksmith",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387400559,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 NE Alberta St Portland OR 97218",
+    "addr:housenumber":"4242",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.615207,45.558992,-122.615207,45.558992",
     "geom:latitude":45.558992,
     "geom:longitude":-122.615207,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"8a8fdf1a1f13e8b7a83ccc5bf0125ecc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":387400559
         }
     ],
     "wof:id":387400559,
-    "wof:lastmodified":1466772718,
+    "wof:lastmodified":1486771600,
     "wof:name":"42nd Ave Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

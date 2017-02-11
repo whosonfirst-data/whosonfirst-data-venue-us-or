@@ -2,9 +2,14 @@
   "id": 370447013,
   "type": "Feature",
   "properties": {
+    "addr:full":"389 SW Palatine Hill Rd Portland OR 97219",
+    "addr:housenumber":"389",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Palatine Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681775,45.459028,-122.681775,45.459028",
     "geom:latitude":45.459028,
     "geom:longitude":-122.681775,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809669
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"7590422e2c3e98f73d3679eef9e6cc7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809669,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":370447013
         }
     ],
     "wof:id":370447013,
-    "wof:lastmodified":1466771831,
+    "wof:lastmodified":1486771453,
     "wof:name":"Polished Brass",
-    "wof:parent_id":85809669,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

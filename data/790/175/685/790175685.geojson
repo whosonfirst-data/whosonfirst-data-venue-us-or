@@ -2,9 +2,14 @@
   "id": 790175685,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 N Page St Ste 7 Portland OR 97227",
+    "addr:housenumber":"116",
+    "addr:postcode":"97227",
+    "addr:street":"N Page St Ste 7",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667451,45.539437,-122.667451,45.539437",
     "geom:latitude":45.539437,
     "geom:longitude":-122.667451,
@@ -26,12 +31,13 @@
     "sg:website":"www.1964ears.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790175685
         }
     ],
     "wof:id":790175685,
-    "wof:lastmodified":1466770817,
+    "wof:lastmodified":1486768386,
     "wof:name":"1964 EARS",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

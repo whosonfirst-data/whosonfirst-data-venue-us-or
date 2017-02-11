@@ -2,9 +2,14 @@
   "id": 789932459,
   "type": "Feature",
   "properties": {
+    "addr:full":"6446 SE Windsor Ct Portland OR 97206",
+    "addr:housenumber":"6446",
+    "addr:postcode":"97206",
+    "addr:street":"Se Windsor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597232,45.504662,-122.597232,45.504662",
     "geom:latitude":45.504662,
     "geom:longitude":-122.597232,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":789932459
         }
     ],
     "wof:id":789932459,
-    "wof:lastmodified":1466772198,
+    "wof:lastmodified":1486766310,
     "wof:name":"5150 Mma Fight Gear",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

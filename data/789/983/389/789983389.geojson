@@ -2,9 +2,14 @@
   "id": 789983389,
   "type": "Feature",
   "properties": {
+    "addr:full":"5826 NE 32nd Pl Portland OR 97211",
+    "addr:housenumber":"5826",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 32Nd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631729,45.564687,-122.631729,45.564687",
     "geom:latitude":45.564687,
     "geom:longitude":-122.631729,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789983389
         }
     ],
     "wof:id":789983389,
-    "wof:lastmodified":1466772888,
+    "wof:lastmodified":1486768794,
     "wof:name":"Ed Klein Evangelistic Assoc",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

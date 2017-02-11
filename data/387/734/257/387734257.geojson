@@ -2,9 +2,14 @@
   "id": 387734257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1705 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"1705",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687399,45.562047,-122.687399,45.562047",
     "geom:latitude":45.562047,
     "geom:longitude":-122.687399,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"05e69f116db5c271bfd312188fc2103a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387734257
         }
     ],
     "wof:id":387734257,
-    "wof:lastmodified":1466774706,
+    "wof:lastmodified":1486771864,
     "wof:name":"Siloam Intl Conflict Rsltn",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789980471,
   "type": "Feature",
   "properties": {
+    "addr:full":"6161 NW 61st Ave Portland OR 97210",
+    "addr:housenumber":"6161",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.746738,45.566437,-122.746738,45.566437",
     "geom:latitude":45.566437,
     "geom:longitude":-122.746738,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789980471
         }
     ],
     "wof:id":789980471,
-    "wof:lastmodified":1466772960,
+    "wof:lastmodified":1486771127,
     "wof:name":"Great West Casualty Company",
-    "wof:parent_id":85857801,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790450503,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 NW 1st Ave Suite 400 Portland OR 97209 ",
+    "addr:housenumber":"34",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 1St Ave Suite 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671291,45.523616,-122.671291,45.523616",
     "geom:latitude":45.523616,
     "geom:longitude":-122.671291,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.rnanetworks.com/index.php",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":790450503
         }
     ],
     "wof:id":790450503,
-    "wof:lastmodified":1466774891,
+    "wof:lastmodified":1486770702,
     "wof:name":"RNA Networks",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

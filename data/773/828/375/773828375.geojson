@@ -2,9 +2,14 @@
   "id": 773828375,
   "type": "Feature",
   "properties": {
+    "addr:full":"5889 NW Saint Helens Rd Portland OR 97210",
+    "addr:housenumber":"5889",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Saint Helens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.746456,45.564,-122.746456,45.564",
     "geom:latitude":45.564,
     "geom:longitude":-122.746456,
@@ -23,12 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108720531,
+        85830793,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857801
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857801,
+            "macrohood_id":1108714055,
+            "microhood_id":1108720531,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":773828375
         }
     ],
     "wof:id":773828375,
-    "wof:lastmodified":1466776156,
+    "wof:lastmodified":1486774205,
     "wof:name":"Reinhard Petroleum",
-    "wof:parent_id":85857801,
+    "wof:parent_id":1108720531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

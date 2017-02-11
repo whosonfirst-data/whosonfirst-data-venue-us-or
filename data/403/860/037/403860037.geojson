@@ -2,9 +2,14 @@
   "id": 403860037,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 SE 122nd Ave Portland OR 97233",
+    "addr:housenumber":"300",
+    "addr:postcode":"97233",
+    "addr:street":"Se 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537759,45.519712,-122.537759,45.519712",
     "geom:latitude":45.519712,
     "geom:longitude":-122.537759,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:brand_id":420574087,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"93c4b4afdf8705fdfa7cbead5ca3773b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":403860037
         }
     ],
     "wof:id":403860037,
-    "wof:lastmodified":1466770972,
+    "wof:lastmodified":1486770750,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

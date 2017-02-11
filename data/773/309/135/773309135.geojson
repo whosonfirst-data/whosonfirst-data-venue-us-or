@@ -2,9 +2,14 @@
   "id": 773309135,
   "type": "Feature",
   "properties": {
+    "addr:full":"5712 SE Liebe St Portland OR 97206",
+    "addr:housenumber":"5712",
+    "addr:postcode":"97206",
+    "addr:street":"Se Liebe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605064,45.487175,-122.605064,45.487175",
     "geom:latitude":45.487175,
     "geom:longitude":-122.605064,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":773309135
         }
     ],
     "wof:id":773309135,
-    "wof:lastmodified":1466772919,
+    "wof:lastmodified":1486769944,
     "wof:name":"Computer Electronics & Service",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

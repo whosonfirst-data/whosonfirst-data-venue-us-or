@@ -2,9 +2,14 @@
   "id": 773679401,
   "type": "Feature",
   "properties": {
+    "addr:full":"8042 SE Taylor St Portland OR 97215",
+    "addr:housenumber":"8042",
+    "addr:postcode":"97215",
+    "addr:street":"Se Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579291,45.515425,-122.579291,45.515425",
     "geom:latitude":45.515425,
     "geom:longitude":-122.579291,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773679401
         }
     ],
     "wof:id":773679401,
-    "wof:lastmodified":1466775705,
+    "wof:lastmodified":1486767294,
     "wof:name":"Lees Carpet Service Inc",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

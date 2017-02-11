@@ -2,9 +2,14 @@
   "id": 773727661,
   "type": "Feature",
   "properties": {
+    "addr:full":"12721 SE Division St Portland OR 97236",
+    "addr:housenumber":"12721",
+    "addr:postcode":"97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.531669,45.504144,-122.531669,45.504144",
     "geom:latitude":45.504144,
     "geom:longitude":-122.531669,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":773727661
         }
     ],
     "wof:id":773727661,
-    "wof:lastmodified":1466775826,
+    "wof:lastmodified":1486772218,
     "wof:name":"Big Applie",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370719799,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 SW Jefferson St Portland OR 97201",
+    "addr:housenumber":"2130",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696173,45.518878,-122.696173,45.518878",
     "geom:latitude":45.518878,
     "geom:longitude":-122.696173,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"8ac4475ffe6cbfac14cc3e5816973d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":370719799
         }
     ],
     "wof:id":370719799,
-    "wof:lastmodified":1466773641,
+    "wof:lastmodified":1486764858,
     "wof:name":"Rogers Fitzwalter & Powell Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

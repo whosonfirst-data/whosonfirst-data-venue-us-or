@@ -2,9 +2,14 @@
   "id": 789896305,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 SW 2nd Ave Portland OR 97204",
+    "addr:housenumber":"133",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672954,45.521579,-122.672954,45.521579",
     "geom:latitude":45.521579,
     "geom:longitude":-122.672954,
@@ -35,12 +40,13 @@
     "sg:website":"pedalbiketours.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789896305
         }
     ],
     "wof:id":789896305,
-    "wof:lastmodified":1466772004,
+    "wof:lastmodified":1486770698,
     "wof:name":"Pedal Bicycle Tours",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790064223,
   "type": "Feature",
   "properties": {
+    "addr:full":"4123 N Michigan St Portland OR 97217",
+    "addr:housenumber":"4123",
+    "addr:postcode":"97217",
+    "addr:street":"N Michigan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676903,45.553796,-122.676903,45.553796",
     "geom:latitude":45.553796,
     "geom:longitude":-122.676903,
@@ -35,12 +40,13 @@
     "sg:website":"ecotinters.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790064223
         }
     ],
     "wof:id":790064223,
-    "wof:lastmodified":1466768391,
+    "wof:lastmodified":1486771508,
     "wof:name":"Ecotinters",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789857869,
   "type": "Feature",
   "properties": {
+    "addr:full":"2805 SE 43rd Ave Portland OR 97202",
+    "addr:housenumber":"2805",
+    "addr:postcode":"97202",
+    "addr:street":"Se 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618214,45.502438,-122.618214,45.502438",
     "geom:latitude":45.502438,
     "geom:longitude":-122.618214,
@@ -29,12 +34,13 @@
     "sg:website":"www.asturgeonpainting.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789857869
         }
     ],
     "wof:id":789857869,
-    "wof:lastmodified":1466770819,
+    "wof:lastmodified":1486770874,
     "wof:name":"A Sturgeon Painting",
     "wof:parent_id":85871465,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387969545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2848 SE 62nd Ave Portland OR 97206",
+    "addr:housenumber":"2848",
+    "addr:postcode":"97206",
+    "addr:street":"Se 62Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.599371,45.501845,-122.599371,45.501845",
     "geom:latitude":45.501845,
     "geom:longitude":-122.599371,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"fa6b3f1fa853e413685234739b8e948e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":387969545
         }
     ],
     "wof:id":387969545,
-    "wof:lastmodified":1466775493,
+    "wof:lastmodified":1486766640,
     "wof:name":"Ezbuypropertycom",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789987805,
   "type": "Feature",
   "properties": {
+    "addr:full":"4235 NE 15th Ave Portland OR 97211",
+    "addr:housenumber":"4235",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650539,45.553974,-122.650539,45.553974",
     "geom:latitude":45.553974,
     "geom:longitude":-122.650539,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893233,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893233
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893233,
             "region_id":85688513,
             "venue_id":789987805
         }
     ],
     "wof:id":789987805,
-    "wof:lastmodified":1466773057,
+    "wof:lastmodified":1486769032,
     "wof:name":"Any Place 24 Locksmith",
     "wof:parent_id":85893233,
     "wof:placetype":"venue",

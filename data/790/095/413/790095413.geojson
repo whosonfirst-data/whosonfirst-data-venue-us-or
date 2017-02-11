@@ -2,9 +2,14 @@
   "id": 790095413,
   "type": "Feature",
   "properties": {
+    "addr:full":"11304 NE Morris Street Portland OR 97220",
+    "addr:housenumber":"11304",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Morris Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.546215,45.543164,-122.546215,45.543164",
     "geom:latitude":45.543164,
     "geom:longitude":-122.546215,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":790095413
         }
     ],
     "wof:id":790095413,
-    "wof:lastmodified":1466767728,
+    "wof:lastmodified":1486771892,
     "wof:name":"Williams Scott Hair Design Associates",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

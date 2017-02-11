@@ -2,9 +2,14 @@
   "id": 790240211,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 SW MacAdam Avenue Suite 160 Portland OR 97239",
+    "addr:housenumber":"5200",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Avenue Suite 160",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675277,45.48575,-122.675277,45.48575",
     "geom:latitude":45.48575,
     "geom:longitude":-122.675277,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893175
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893175,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790240211
         }
     ],
     "wof:id":790240211,
-    "wof:lastmodified":1466772344,
+    "wof:lastmodified":1486773583,
     "wof:name":"Multi-Services",
-    "wof:parent_id":85893175,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

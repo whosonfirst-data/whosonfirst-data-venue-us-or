@@ -2,9 +2,14 @@
   "id": 387462319,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 SE Mill St Portland OR 97214",
+    "addr:housenumber":"623",
+    "addr:postcode":"97214",
+    "addr:street":"Se Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658889,45.510165,-122.658889,45.510165",
     "geom:latitude":45.510165,
     "geom:longitude":-122.658889,
@@ -29,11 +34,14 @@
     "sg:website":"www.pmgi.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"6a4aef6ba01d186de99403a6358e87a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":387462319
         }
     ],
     "wof:id":387462319,
-    "wof:lastmodified":1466772892,
+    "wof:lastmodified":1486773494,
     "wof:name":"Printing Management Group",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790261961,
   "type": "Feature",
   "properties": {
+    "addr:full":"6735 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"6735",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579077,45.473961,-122.579077,45.473961",
     "geom:latitude":45.473961,
     "geom:longitude":-122.579077,
@@ -45,12 +50,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85827985
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +71,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85827985,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":790261961
         }
     ],
     "wof:id":790261961,
-    "wof:lastmodified":1466772580,
+    "wof:lastmodified":1486772253,
     "wof:name":"Protrans Now",
-    "wof:parent_id":85827985,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

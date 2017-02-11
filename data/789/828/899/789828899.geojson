@@ -2,9 +2,14 @@
   "id": 789828899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2363 Mountn View Rd E Portland OR 97201",
+    "addr:housenumber":"2363",
+    "addr:postcode":"97201",
+    "addr:street":"Mountn View Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.589649,45.508946,-122.589649,45.508946",
     "geom:latitude":45.508946,
     "geom:longitude":-122.589649,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":789828899
         }
     ],
     "wof:id":789828899,
-    "wof:lastmodified":1466769631,
+    "wof:lastmodified":1486771812,
     "wof:name":"Washington State Horse Council",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

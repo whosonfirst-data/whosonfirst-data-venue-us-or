@@ -2,9 +2,14 @@
   "id": 789834489,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 SW 5th Ave Portland OR 97201",
+    "addr:housenumber":"1811",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681662,45.511344,-122.681662,45.511344",
     "geom:latitude":45.511344,
     "geom:longitude":-122.681662,
@@ -26,12 +31,13 @@
     "sg:website":"www.pitapit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789834489
         }
     ],
     "wof:id":789834489,
-    "wof:lastmodified":1466769856,
+    "wof:lastmodified":1486770165,
     "wof:name":"Pita Pit",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

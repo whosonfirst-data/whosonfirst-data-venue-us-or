@@ -2,9 +2,14 @@
   "id": 403960133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 SE Rhine St Portland OR 97202",
+    "addr:housenumber":"1220",
+    "addr:postcode":"97202",
+    "addr:street":"Se Rhine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.652554,45.497419,-122.652554,45.497419",
     "geom:latitude":45.497419,
     "geom:longitude":-122.652554,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513,
+        85807897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"a0e52f0b5da9a4f24373d8aad12503fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893193,
+            "region_id":85688513,
+            "venue_id":403960133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":403960133
         }
     ],
     "wof:id":403960133,
-    "wof:lastmodified":1466768439,
+    "wof:lastmodified":1486769406,
     "wof:name":"L & M Appliance Parts & Svc",
-    "wof:parent_id":85893193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

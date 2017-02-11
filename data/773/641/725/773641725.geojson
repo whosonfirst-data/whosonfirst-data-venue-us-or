@@ -2,9 +2,14 @@
   "id": 773641725,
   "type": "Feature",
   "properties": {
+    "addr:full":"11312 SE Boise St Portland OR 97266",
+    "addr:housenumber":"11312",
+    "addr:postcode":"97266",
+    "addr:street":"Se Boise St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.5458,45.491476,-122.5458,45.491476",
     "geom:latitude":45.491476,
     "geom:longitude":-122.5458,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773641725
         }
     ],
     "wof:id":773641725,
-    "wof:lastmodified":1466775593,
+    "wof:lastmodified":1486771926,
     "wof:name":"Clay's Tree Svc & Chipping",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

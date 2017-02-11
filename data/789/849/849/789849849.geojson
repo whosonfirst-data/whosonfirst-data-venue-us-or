@@ -2,9 +2,14 @@
   "id": 789849849,
   "type": "Feature",
   "properties": {
+    "addr:full":"SE 7th Ave & SE Miller St Portland OR 97202",
+    "addr:housenumber":"",
+    "addr:postcode":"97202",
+    "addr:street":"Se 7Th Ave & Se Miller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658998,45.46647,-122.658998,45.46647",
     "geom:latitude":45.46647,
     "geom:longitude":-122.658998,
@@ -30,12 +35,13 @@
     "sg:website":"www.portlandonline.com/parks/fin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789849849
         }
     ],
     "wof:id":789849849,
-    "wof:lastmodified":1466770515,
+    "wof:lastmodified":1486770517,
     "wof:name":"Sellwood Park",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

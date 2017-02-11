@@ -2,9 +2,14 @@
   "id": 789953641,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 NW Couch St Ste 101 Portland OR 97209",
+    "addr:housenumber":"412",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Couch St Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674547,45.52381,-122.674547,45.52381",
     "geom:latitude":45.52381,
     "geom:longitude":-122.674547,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789953641
         }
     ],
     "wof:id":789953641,
-    "wof:lastmodified":1466772552,
+    "wof:lastmodified":1486770678,
     "wof:name":"Floating World Comics",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

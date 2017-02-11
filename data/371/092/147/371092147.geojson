@@ -2,9 +2,14 @@
   "id": 371092147,
   "type": "Feature",
   "properties": {
+    "addr:full":"5404 SE Henry St Portland OR 97206",
+    "addr:housenumber":"5404",
+    "addr:postcode":"97206",
+    "addr:street":"Se Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.607712,45.476459,-122.607712,45.476459",
     "geom:latitude":45.476459,
     "geom:longitude":-122.607712,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85859031,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"924f820c1328ef401be016027f46c246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85859031,
             "region_id":85688513,
             "venue_id":371092147
         }
     ],
     "wof:id":371092147,
-    "wof:lastmodified":1466768666,
+    "wof:lastmodified":1486769942,
     "wof:name":"Marv Reed Electronic",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85859031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

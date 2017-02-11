@@ -2,9 +2,14 @@
   "id": 773000699,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 SE 18th Ave Portland OR 97214",
+    "addr:housenumber":"214",
+    "addr:postcode":"97214",
+    "addr:street":"Se 18Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64746,45.520849,-122.64746,45.520849",
     "geom:latitude":45.520849,
     "geom:longitude":-122.64746,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871495,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":773000699
         }
     ],
     "wof:id":773000699,
-    "wof:lastmodified":1466769673,
+    "wof:lastmodified":1486771417,
     "wof:name":"Citizens For Oregons Future",
-    "wof:parent_id":85871495,
+    "wof:parent_id":85871515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

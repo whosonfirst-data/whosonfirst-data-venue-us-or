@@ -2,9 +2,14 @@
   "id": 370870897,
   "type": "Feature",
   "properties": {
+    "addr:full":"17545 SE Marie St Portland OR 97236",
+    "addr:housenumber":"17545",
+    "addr:postcode":"97236",
+    "addr:street":"Se Marie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484131,45.494557,-122.484131,45.494557",
     "geom:latitude":45.494557,
     "geom:longitude":-122.484131,
@@ -29,10 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688513,
+        102191575,
         85633793,
         101716277,
         102081631,
-        85830789
+        85830789,
+        85893161,
+        1108715281,
+        101715829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,29 @@
     "wof:geomhash":"658664e1d7908fd5abe009b24f111ab0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
             "neighbourhood_id":85830789,
             "region_id":85688513,
             "venue_id":370870897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":370870897
         }
     ],
     "wof:id":370870897,
-    "wof:lastmodified":1466774600,
+    "wof:lastmodified":1486771554,
     "wof:name":"Ch Powell Remodeling",
-    "wof:parent_id":85830789,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370985061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4127 NE Multnomah St Portland OR 97232",
+    "addr:housenumber":"4127",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Multnomah St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622305,45.53162,-122.622305,45.53162",
     "geom:latitude":45.53162,
     "geom:longitude":-122.622305,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"c08c534352c53402d67754a731b74be1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85826019,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":370985061
         }
     ],
     "wof:id":370985061,
-    "wof:lastmodified":1466774957,
+    "wof:lastmodified":1486769525,
     "wof:name":"Casey Financial Services",
-    "wof:parent_id":85826019,
+    "wof:parent_id":85829959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387886623,
   "type": "Feature",
   "properties": {
+    "addr:full":"2136 SW 5th Ave Portland OR 97201",
+    "addr:housenumber":"2136",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.68299,45.507599,-122.68299,45.507599",
     "geom:latitude":45.507599,
     "geom:longitude":-122.68299,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"ed42c3516dee96e1cdaca736cf55b6c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387886623
         }
     ],
     "wof:id":387886623,
-    "wof:lastmodified":1466775299,
+    "wof:lastmodified":1486770261,
     "wof:name":"Interface Studies Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

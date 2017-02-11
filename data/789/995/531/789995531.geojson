@@ -2,9 +2,14 @@
   "id": 789995531,
   "type": "Feature",
   "properties": {
+    "addr:full":"4110 NE Fremont St Portland OR 97212",
+    "addr:housenumber":"4110",
+    "addr:postcode":"97212",
+    "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620482,45.54817,-122.620482,45.54817",
     "geom:latitude":45.54817,
     "geom:longitude":-122.620482,
@@ -47,12 +52,13 @@
     "sg:website":"www.fullcircleresaleportland.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +73,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":789995531
         }
     ],
     "wof:id":789995531,
-    "wof:lastmodified":1466773052,
+    "wof:lastmodified":1486768246,
     "wof:name":"Full Circle Resale by Gazelle",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

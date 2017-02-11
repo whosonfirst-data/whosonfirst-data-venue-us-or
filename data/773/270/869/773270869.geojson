@@ -2,9 +2,14 @@
   "id": 773270869,
   "type": "Feature",
   "properties": {
+    "addr:full":"2626 SW Huber St Portland OR 97219",
+    "addr:housenumber":"2626",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Huber St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705534,45.451714,-122.705534,45.451714",
     "geom:latitude":45.451714,
     "geom:longitude":-122.705534,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":773270869
         }
     ],
     "wof:id":773270869,
-    "wof:lastmodified":1466772468,
+    "wof:lastmodified":1486770989,
     "wof:name":"Dutchman Towing",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

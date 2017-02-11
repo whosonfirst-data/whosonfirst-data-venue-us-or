@@ -2,9 +2,14 @@
   "id": 370915925,
   "type": "Feature",
   "properties": {
+    "addr:full":"6343 N Villard Ave Portland OR 97217",
+    "addr:housenumber":"6343",
+    "addr:postcode":"97217",
+    "addr:street":"N Villard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697649,45.569564,-122.697649,45.569564",
     "geom:latitude":45.569564,
     "geom:longitude":-122.697649,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"3486be04c8ff6808192c1359bd26fd11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":370915925
         }
     ],
     "wof:id":370915925,
-    "wof:lastmodified":1466774760,
+    "wof:lastmodified":1486772102,
     "wof:name":"Florabunda",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

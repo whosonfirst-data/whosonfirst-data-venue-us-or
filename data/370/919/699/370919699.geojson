@@ -2,9 +2,14 @@
   "id": 370919699,
   "type": "Feature",
   "properties": {
+    "addr:full":"11610 SE Holgate Blvd Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"11610;97266",
+    "addr:street":"Se Holgate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542503,45.489608,-122.542503,45.489608",
     "geom:latitude":45.489608,
     "geom:longitude":-122.542503,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"170c5d343d7334dae5b65ffe1003530d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":370919699
         }
     ],
     "wof:id":370919699,
-    "wof:lastmodified":1466774783,
+    "wof:lastmodified":1486767862,
     "wof:name":"Syrian Lebanese American Club",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

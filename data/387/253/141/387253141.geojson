@@ -2,9 +2,14 @@
   "id": 387253141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4224 SE Hawthorne Blvd Portland OR 97215",
+    "addr:housenumber":"4224",
+    "addr:postcode":"97215",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618426,45.511962,-122.618426,45.511962",
     "geom:latitude":45.511962,
     "geom:longitude":-122.618426,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893241,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +47,21 @@
     "wof:geomhash":"dec82ce4716b4978c00793f2096cf17c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893241,
-            "region_id":85688513,
-            "venue_id":387253141
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387253141
         }
     ],
     "wof:id":387253141,
-    "wof:lastmodified":1466771506,
+    "wof:lastmodified":1486773690,
     "wof:name":"Shadow House Collectibles",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

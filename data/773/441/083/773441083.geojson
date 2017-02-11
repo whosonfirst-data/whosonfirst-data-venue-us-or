@@ -2,9 +2,14 @@
   "id": 773441083,
   "type": "Feature",
   "properties": {
+    "addr:full":"13835 SE Eastridge St Portland OR 97236",
+    "addr:housenumber":"13835",
+    "addr:postcode":"97236",
+    "addr:street":"Se Eastridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519872,45.462631,-122.519872,45.462631",
     "geom:latitude":45.462631,
     "geom:longitude":-122.519872,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":773441083
         }
     ],
     "wof:id":773441083,
-    "wof:lastmodified":1466774346,
+    "wof:lastmodified":1486767479,
     "wof:name":"Billups & Lewis Inc",
     "wof:parent_id":420536131,
     "wof:placetype":"venue",

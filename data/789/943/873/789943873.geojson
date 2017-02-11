@@ -2,9 +2,14 @@
   "id": 789943873,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 NW 4th Avenue Apt 1215 Portland OR 97209",
+    "addr:housenumber":"333;1215",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 4Th Avenue Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674502,45.525474,-122.674502,45.525474",
     "geom:latitude":45.525474,
     "geom:longitude":-122.674502,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789943873
         }
     ],
     "wof:id":789943873,
-    "wof:lastmodified":1466772436,
+    "wof:lastmodified":1486762971,
     "wof:name":"Monte Rossa Cafe",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

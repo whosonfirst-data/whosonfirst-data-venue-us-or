@@ -2,9 +2,14 @@
   "id": 773822051,
   "type": "Feature",
   "properties": {
+    "addr:full":"9120 NW Wiley Ln Portland OR 97229",
+    "addr:housenumber":"9120",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Wiley Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.771231,45.546982,-122.771231,45.546982",
     "geom:latitude":45.546982,
     "geom:longitude":-122.771231,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.scnresearch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":773822051
         }
     ],
     "wof:id":773822051,
-    "wof:lastmodified":1466776058,
+    "wof:lastmodified":1486763039,
     "wof:name":"Scn Research Inc",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

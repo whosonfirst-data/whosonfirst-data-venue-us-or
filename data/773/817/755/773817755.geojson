@@ -2,9 +2,14 @@
   "id": 773817755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3448 NW Yeon Ave Portland OR 97210",
+    "addr:housenumber":"3448",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713556,45.547431,-122.713556,45.547431",
     "geom:latitude":45.547431,
     "geom:longitude":-122.713556,
@@ -32,12 +37,14 @@
     "sg:website":"http://www.gansink.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717057,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868951
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868951,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717057,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":773817755
         }
     ],
     "wof:id":773817755,
-    "wof:lastmodified":1466776063,
+    "wof:lastmodified":1486773714,
     "wof:name":"Gans Ink & Supply Co",
-    "wof:parent_id":85868951,
+    "wof:parent_id":1108717057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387115777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 SE 50th Ave Portland OR 97206",
+    "addr:housenumber":"3201",
+    "addr:postcode":"97206",
+    "addr:street":"Se 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61135,45.498916,-122.61135,45.498916",
     "geom:latitude":45.498916,
     "geom:longitude":-122.61135,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867147
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +55,20 @@
     "wof:geomhash":"2ecc675479de4de994f804e038e79d62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867147,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":387115777
         }
     ],
     "wof:id":387115777,
-    "wof:lastmodified":1466769085,
+    "wof:lastmodified":1486770846,
     "wof:name":"A B C Fire Extinguisher Inc",
-    "wof:parent_id":85867147,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

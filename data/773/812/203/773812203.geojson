@@ -2,9 +2,14 @@
   "id": 773812203,
   "type": "Feature",
   "properties": {
+    "addr:full":"4309 N Overlook Blvd Portland OR 97217",
+    "addr:housenumber":"4309",
+    "addr:postcode":"97217",
+    "addr:street":"N Overlook Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688125,45.554586,-122.688125,45.554586",
     "geom:latitude":45.554586,
     "geom:longitude":-122.688125,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.prentice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773812203
         }
     ],
     "wof:id":773812203,
-    "wof:lastmodified":1466776148,
+    "wof:lastmodified":1486765865,
     "wof:name":"Prentice Co",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

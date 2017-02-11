@@ -2,9 +2,14 @@
   "id": 790230419,
   "type": "Feature",
   "properties": {
+    "addr:full":"14154 SE Division Street Portland OR 97236",
+    "addr:housenumber":"14154",
+    "addr:postcode":"97236",
+    "addr:street":"Se Division Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.517563,45.503992,-122.517563,45.503992",
     "geom:latitude":45.503992,
     "geom:longitude":-122.517563,
@@ -26,12 +31,13 @@
     "sg:website":"pinkfeatherrestaurantandlounge.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":790230419
         }
     ],
     "wof:id":790230419,
-    "wof:lastmodified":1466772160,
+    "wof:lastmodified":1486771943,
     "wof:name":"Pink Feather",
-    "wof:parent_id":85868947,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370188047,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 NE 80th Ave Portland OR 97218",
+    "addr:housenumber":"4211",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580749,45.553035,-122.580749,45.553035",
     "geom:latitude":45.553035,
     "geom:longitude":-122.580749,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85867145
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"5677870afb8cd566c9ab906164967975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867145,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":370188047
         }
     ],
     "wof:id":370188047,
-    "wof:lastmodified":1466767825,
+    "wof:lastmodified":1486771960,
     "wof:name":"Inspect It 1st Property Inspec",
-    "wof:parent_id":85867145,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

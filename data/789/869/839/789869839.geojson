@@ -2,9 +2,14 @@
   "id": 789869839,
   "type": "Feature",
   "properties": {
+    "addr:full":"4430 N Trenton St Portland OR 97203",
+    "addr:housenumber":"4430",
+    "addr:postcode":"97203",
+    "addr:street":"N Trenton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712568,45.588622,-122.712568,45.588622",
     "geom:latitude":45.588622,
     "geom:longitude":-122.712568,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893225,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893225,
             "region_id":85688513,
             "venue_id":789869839
         }
     ],
     "wof:id":789869839,
-    "wof:lastmodified":1466771264,
+    "wof:lastmodified":1486771902,
     "wof:name":"Boys & Girls Club Of New Columbia",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85893225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

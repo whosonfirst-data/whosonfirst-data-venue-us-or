@@ -2,9 +2,14 @@
   "id": 773681105,
   "type": "Feature",
   "properties": {
+    "addr:full":"9009 NE Airport Way Portland OR 97220",
+    "addr:housenumber":"9009",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563226,45.577552,-122.563226,45.577552",
     "geom:latitude":45.577552,
     "geom:longitude":-122.563226,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85840687,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":773681105
         }
     ],
     "wof:id":773681105,
-    "wof:lastmodified":1466775697,
+    "wof:lastmodified":1486772330,
     "wof:name":"Sky Chefs Flight Kitchen",
-    "wof:parent_id":85840687,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

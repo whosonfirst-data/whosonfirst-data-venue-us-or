@@ -2,9 +2,14 @@
   "id": 789857443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 SE Spokane St Portland OR 97202",
+    "addr:housenumber":"1715",
+    "addr:postcode":"97202",
+    "addr:street":"Se Spokane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.646908,45.465021,-122.646908,45.465021",
     "geom:latitude":45.465021,
     "geom:longitude":-122.646908,
@@ -20,12 +25,13 @@
     "sg:website":"http://sundeleafpainting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868967
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +46,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868967,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789857443
         }
     ],
     "wof:id":789857443,
-    "wof:lastmodified":1466770801,
+    "wof:lastmodified":1486770501,
     "wof:name":"Sundeleaf Painting: Home & Industrial Painting",
-    "wof:parent_id":85868967,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

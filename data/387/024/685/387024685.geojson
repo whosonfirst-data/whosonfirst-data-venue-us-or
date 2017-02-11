@@ -2,9 +2,14 @@
   "id": 387024685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6011 SW Jan Tree Ct Portland OR 97219",
+    "addr:housenumber":"6011",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Jan Tree Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.738849,45.470791,-122.738849,45.470791",
     "geom:latitude":45.470791,
     "geom:longitude":-122.738849,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"91db9a4e0dbfa12125c5b3d3dcc6819f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":387024685
         }
     ],
     "wof:id":387024685,
-    "wof:lastmodified":1466767536,
+    "wof:lastmodified":1486763958,
     "wof:name":"Slack S Super Service Inc",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

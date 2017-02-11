@@ -2,9 +2,14 @@
   "id": 387717469,
   "type": "Feature",
   "properties": {
+    "addr:full":"10310 NE Skidmore St Portland OR 97220",
+    "addr:housenumber":"10310",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Skidmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.557197,45.553504,-122.557197,45.553504",
     "geom:latitude":45.553504,
     "geom:longitude":-122.557197,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513,
+        85840687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,30 @@
     "wof:geomhash":"ae9faf11c707320ee3213a86d551dc79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
+            "region_id":85688513,
+            "venue_id":387717469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":387717469
         }
     ],
     "wof:id":387717469,
-    "wof:lastmodified":1466774609,
+    "wof:lastmodified":1486769682,
     "wof:name":"Foliage Services By Concepts",
-    "wof:parent_id":85893223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

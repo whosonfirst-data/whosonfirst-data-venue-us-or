@@ -2,9 +2,14 @@
   "id": 789970759,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 NW MacLeay Boulevard Portland OR 97210",
+    "addr:housenumber":"10",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Macleay Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710449,45.523165,-122.710449,45.523165",
     "geom:latitude":45.523165,
     "geom:longitude":-122.710449,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871473,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        420536099
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536099,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871473,
             "region_id":85688513,
             "venue_id":789970759
         }
     ],
     "wof:id":789970759,
-    "wof:lastmodified":1466772827,
+    "wof:lastmodified":1486770892,
     "wof:name":"Miller Jeffrey L Archt",
-    "wof:parent_id":420536099,
+    "wof:parent_id":85871473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

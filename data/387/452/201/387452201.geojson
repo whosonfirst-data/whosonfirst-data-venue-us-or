@@ -2,9 +2,14 @@
   "id": 387452201,
   "type": "Feature",
   "properties": {
+    "addr:full":"10345 NE Clackamas St Portland OR 97220",
+    "addr:housenumber":"10345",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Clackamas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553627,45.532832,-122.553627,45.532832",
     "geom:latitude":45.532832,
     "geom:longitude":-122.553627,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"c31326375bcc036aef22aa4a53e90273",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387452201
         }
     ],
     "wof:id":387452201,
-    "wof:lastmodified":1466772921,
+    "wof:lastmodified":1486770709,
     "wof:name":"Never Pay More Discount Dist",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

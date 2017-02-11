@@ -2,9 +2,14 @@
   "id": 370934381,
   "type": "Feature",
   "properties": {
+    "addr:full":"6125 N Basin Ave Portland OR 97217",
+    "addr:housenumber":"6125",
+    "addr:postcode":"97217",
+    "addr:street":"N Basin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710105,45.567744,-122.710105,45.567744",
     "geom:latitude":45.567744,
     "geom:longitude":-122.710105,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:brand_id":420574421,
     "wof:breaches":[],
@@ -51,19 +58,20 @@
     "wof:geomhash":"cd951dd8fd7b8d34d29a361ef0f52d30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":370934381
         }
     ],
     "wof:id":370934381,
-    "wof:lastmodified":1466774851,
+    "wof:lastmodified":1486771862,
     "wof:name":"UPS",
-    "wof:parent_id":85846677,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

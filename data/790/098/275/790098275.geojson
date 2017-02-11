@@ -2,9 +2,14 @@
   "id": 790098275,
   "type": "Feature",
   "properties": {
+    "addr:full":"10530 NE Simpson St Portland OR 97220",
+    "addr:housenumber":"10530",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Simpson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554417,45.565298,-122.554417,45.565298",
     "geom:latitude":45.565298,
     "geom:longitude":-122.554417,
@@ -38,12 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790098275
         }
     ],
     "wof:id":790098275,
-    "wof:lastmodified":1466767833,
+    "wof:lastmodified":1486768896,
     "wof:name":"The Fiber Guys",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

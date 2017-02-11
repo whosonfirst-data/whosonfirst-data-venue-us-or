@@ -2,9 +2,14 @@
   "id": 354246271,
   "type": "Feature",
   "properties": {
+    "addr:full":"10921 NE Simpson St Portland OR 97220",
+    "addr:housenumber":"10921",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Simpson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54758,45.565911,-122.54758,45.565911",
     "geom:latitude":45.565911,
     "geom:longitude":-122.54758,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"b59298e71bfbe760f12915364e06c3fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":354246271
         }
     ],
     "wof:id":354246271,
-    "wof:lastmodified":1466768555,
+    "wof:lastmodified":1486769051,
     "wof:name":"Columbia Sheet Metal Inc",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

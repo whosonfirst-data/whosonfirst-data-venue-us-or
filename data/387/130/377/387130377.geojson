@@ -2,9 +2,14 @@
   "id": 387130377,
   "type": "Feature",
   "properties": {
+    "addr:full":"2149 N Willamette Blvd Portland OR 97217",
+    "addr:housenumber":"2149",
+    "addr:postcode":"97217",
+    "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688642,45.562033,-122.688642,45.562033",
     "geom:latitude":45.562033,
     "geom:longitude":-122.688642,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"77ba4f3f7ecab6e700af4eda3f1e9c5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":387130377
         }
     ],
     "wof:id":387130377,
-    "wof:lastmodified":1466769373,
+    "wof:lastmodified":1486765786,
     "wof:name":"Angel Academy Learning Ctr LLC",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

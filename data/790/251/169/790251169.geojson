@@ -2,9 +2,14 @@
   "id": 790251169,
   "type": "Feature",
   "properties": {
+    "addr:full":"6935 NE 82nd Ave Portland OR 97255",
+    "addr:housenumber":"6935",
+    "addr:postcode":"97255",
+    "addr:street":"Ne 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580229,45.57417,-122.580229,45.57417",
     "geom:latitude":45.57417,
     "geom:longitude":-122.580229,
@@ -30,12 +35,13 @@
     "sg:website":"www.airparkportland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790251169
         }
     ],
     "wof:id":790251169,
-    "wof:lastmodified":1466772666,
+    "wof:lastmodified":1486772334,
     "wof:name":"Portland Airpark",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790058195,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 N Channel Ave Portland OR 97217",
+    "addr:housenumber":"4800",
+    "addr:postcode":"97217",
+    "addr:street":"N Channel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706733,45.557744,-122.706733,45.557744",
     "geom:latitude":45.557744,
     "geom:longitude":-122.706733,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790058195
         }
     ],
     "wof:id":790058195,
-    "wof:lastmodified":1466768241,
+    "wof:lastmodified":1486765714,
     "wof:name":"0 0 0 0 0 Local Locksmith",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

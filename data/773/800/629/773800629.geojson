@@ -2,9 +2,14 @@
   "id": 773800629,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 N Portland Blvd Portland OR 97217",
+    "addr:housenumber":"2020",
+    "addr:postcode":"97217",
+    "addr:street":"N Portland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688004,45.57,-122.688004,45.57",
     "geom:latitude":45.57,
     "geom:longitude":-122.688004,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841531,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":773800629
         }
     ],
     "wof:id":773800629,
-    "wof:lastmodified":1466776021,
+    "wof:lastmodified":1486772114,
     "wof:name":"Thai Ginger",
-    "wof:parent_id":85841531,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

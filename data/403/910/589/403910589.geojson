@@ -2,9 +2,14 @@
   "id": 403910589,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 NW Powhatan Ter Portland OR 97210",
+    "addr:housenumber":"737",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Powhatan Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712371,45.528934,-122.712371,45.528934",
     "geom:latitude":45.528934,
     "geom:longitude":-122.712371,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108717055,
+        85871503,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871503
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"843433b8583e1ef47af260e14c3d7c8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "microhood_id":1108717055,
             "neighbourhood_id":85871503,
             "region_id":85688513,
             "venue_id":403910589
         }
     ],
     "wof:id":403910589,
-    "wof:lastmodified":1466767541,
+    "wof:lastmodified":1486773706,
     "wof:name":"Mary A Niles",
-    "wof:parent_id":85871503,
+    "wof:parent_id":1108717055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

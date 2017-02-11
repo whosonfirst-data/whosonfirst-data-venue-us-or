@@ -2,9 +2,14 @@
   "id": 370633911,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 SW Pine St Portland OR 97204",
+    "addr:housenumber":"222",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673308,45.521376,-122.673308,45.521376",
     "geom:latitude":45.521376,
     "geom:longitude":-122.673308,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"2e09cba8e5b2f6f4d03abfff3e8c5f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":370633911
         }
     ],
     "wof:id":370633911,
-    "wof:lastmodified":1466773291,
+    "wof:lastmodified":1486769966,
     "wof:name":"Westshore",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

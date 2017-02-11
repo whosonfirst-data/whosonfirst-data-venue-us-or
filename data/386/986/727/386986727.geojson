@@ -2,9 +2,14 @@
   "id": 386986727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 SW Morrison St Portland OR 97205",
+    "addr:housenumber":"1220",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685076,45.520707,-122.685076,45.520707",
     "geom:latitude":45.520707,
     "geom:longitude":-122.685076,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1419d55ab559ddbac6464c92a5cf2fbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":386986727
         }
     ],
     "wof:id":386986727,
-    "wof:lastmodified":1466767440,
+    "wof:lastmodified":1486763913,
     "wof:name":"Tricia Zigrang PHD",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

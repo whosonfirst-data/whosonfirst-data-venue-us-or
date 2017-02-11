@@ -2,9 +2,14 @@
   "id": 370726085,
   "type": "Feature",
   "properties": {
+    "addr:full":"10211 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"10211",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.724828,45.452275,-122.724828,45.452275",
     "geom:latitude":45.452275,
     "geom:longitude":-122.724828,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713515,
+        420781231,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        101715835,
-        102082213,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +51,21 @@
     "wof:geomhash":"71f744055b878d6f5a0fe9347c54064a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":370726085
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715835,
-            "neighbourhood_id":85871501,
+            "macrohood_id":1108714057,
+            "microhood_id":1108713515,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":370726085
         }
     ],
     "wof:id":370726085,
-    "wof:lastmodified":1466773678,
+    "wof:lastmodified":1486773410,
     "wof:name":"Acceptance Capital Mrtg Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

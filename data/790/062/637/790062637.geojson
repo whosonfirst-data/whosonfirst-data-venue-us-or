@@ -2,9 +2,14 @@
   "id": 790062637,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 N Columbia Blvd Portland OR 97217",
+    "addr:housenumber":"712",
+    "addr:postcode":"97217",
+    "addr:street":"N Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673461,45.583793,-122.673461,45.583793",
     "geom:latitude":45.583793,
     "geom:longitude":-122.673461,
@@ -71,12 +76,13 @@
     "sg:website":"http://www.westmeyerfence.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +97,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":790062637
         }
     ],
     "wof:id":790062637,
-    "wof:lastmodified":1466768348,
+    "wof:lastmodified":1486768964,
     "wof:name":"West-Meyer Fence",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370170123,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 SE Alder St Portland OR 97214",
+    "addr:housenumber":"939",
+    "addr:postcode":"97214",
+    "addr:street":"Se Alder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.655942,45.517999,-122.655942,45.517999",
     "geom:latitude":45.517999,
     "geom:longitude":-122.655942,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"7608ec44f00779a9e18c3f9c2be61efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370170123
         }
     ],
     "wof:id":370170123,
-    "wof:lastmodified":1466771513,
+    "wof:lastmodified":1486773436,
     "wof:name":"Pod 22",
-    "wof:parent_id":85871515,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

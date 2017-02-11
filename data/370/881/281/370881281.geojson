@@ -2,9 +2,14 @@
   "id": 370881281,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 NE 52nd Ave Portland OR 97213",
+    "addr:housenumber":"909",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 52Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.610035,45.530432,-122.610035,45.530432",
     "geom:latitude":45.530432,
     "geom:longitude":-122.610035,
@@ -30,11 +35,13 @@
     "sg:website":"www.ehspdx.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"596d15792b9f780a07f77b07308869ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":370881281
         }
     ],
     "wof:id":370881281,
-    "wof:lastmodified":1466774427,
+    "wof:lastmodified":1486770367,
     "wof:name":"Early Head Start Family Ctr",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

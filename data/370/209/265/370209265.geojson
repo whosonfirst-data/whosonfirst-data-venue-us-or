@@ -2,9 +2,14 @@
   "id": 370209265,
   "type": "Feature",
   "properties": {
+    "addr:full":"11218 NW College Dr Portland OR 97229",
+    "addr:housenumber":"11218",
+    "addr:postcode":"97229",
+    "addr:street":"Nw College Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.792881,45.577749,-122.792881,45.577749",
     "geom:latitude":45.577749,
     "geom:longitude":-122.792881,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536127,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868975
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"f196a9ec9dfdcfaaf8e5b31767ec4140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868975,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":420536127,
             "region_id":85688513,
             "venue_id":370209265
         }
     ],
     "wof:id":370209265,
-    "wof:lastmodified":1466768192,
+    "wof:lastmodified":1486772186,
     "wof:name":"AGFA Div of Bayer Corporation",
-    "wof:parent_id":85868975,
+    "wof:parent_id":420536127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

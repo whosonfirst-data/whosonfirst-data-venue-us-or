@@ -2,9 +2,14 @@
   "id": 387593755,
   "type": "Feature",
   "properties": {
+    "addr:full":"9271 SW 7th Ave Portland OR 97219",
+    "addr:housenumber":"9271",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686022,45.458394,-122.686022,45.458394",
     "geom:latitude":45.458394,
     "geom:longitude":-122.686022,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871517,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809669
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"08bd39ac7d4e6861e5320f68898ad648",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809669,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85871517,
             "region_id":85688513,
             "venue_id":387593755
         }
     ],
     "wof:id":387593755,
-    "wof:lastmodified":1466773901,
+    "wof:lastmodified":1486771452,
     "wof:name":"Devana E Ranger",
-    "wof:parent_id":85809669,
+    "wof:parent_id":85871517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

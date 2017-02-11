@@ -2,9 +2,14 @@
   "id": 354364471,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 SW 13th Ave Portland OR 97205",
+    "addr:housenumber":"523",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684856,45.521682,-122.684856,45.521682",
     "geom:latitude":45.521682,
     "geom:longitude":-122.684856,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"7ff85e749e76dbe1d2c119fdaba40be0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":354364471
         }
     ],
     "wof:id":354364471,
-    "wof:lastmodified":1466770658,
+    "wof:lastmodified":1486769966,
     "wof:name":"Alder House Apartments",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

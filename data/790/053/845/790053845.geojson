@@ -2,9 +2,14 @@
   "id": 790053845,
   "type": "Feature",
   "properties": {
+    "addr:full":"5825 N Greeley Ave Portland OR 97217",
+    "addr:housenumber":"5825",
+    "addr:postcode":"97217",
+    "addr:street":"N Greeley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695607,45.565317,-122.695607,45.565317",
     "geom:latitude":45.565317,
     "geom:longitude":-122.695607,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790053845
         }
     ],
     "wof:id":790053845,
-    "wof:lastmodified":1466768160,
+    "wof:lastmodified":1486766018,
     "wof:name":"Oregon Wild",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

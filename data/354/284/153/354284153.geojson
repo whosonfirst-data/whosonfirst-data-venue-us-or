@@ -2,9 +2,14 @@
   "id": 354284153,
   "type": "Feature",
   "properties": {
+    "addr:full":"5525 SE 28th Ave Portland OR 97202",
+    "addr:housenumber":"5525",
+    "addr:postcode":"97202",
+    "addr:street":"Se 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637432,45.483644,-122.637432,45.483644",
     "geom:latitude":45.483644,
     "geom:longitude":-122.637432,
@@ -32,11 +37,13 @@
     "sg:website":"www.jewellmfg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"d6b4daba1185335167684dfd9a8cdd7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":354284153
         }
     ],
     "wof:id":354284153,
-    "wof:lastmodified":1466769251,
+    "wof:lastmodified":1486770978,
     "wof:name":"Jewell Manufacturing Inc",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789881653,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 SW Pine St Portland OR 97204",
+    "addr:housenumber":"108",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672203,45.520947,-122.672203,45.520947",
     "geom:latitude":45.520947,
     "geom:longitude":-122.672203,
@@ -38,12 +43,13 @@
     "sg:website":"www.qubeloungepdx.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789881653
         }
     ],
     "wof:id":789881653,
-    "wof:lastmodified":1466771516,
+    "wof:lastmodified":1486770699,
     "wof:name":"Qube",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

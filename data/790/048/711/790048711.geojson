@@ -2,9 +2,14 @@
   "id": 790048711,
   "type": "Feature",
   "properties": {
+    "addr:full":"2346 SE 82nd Avenue Portland OR 97216",
+    "addr:housenumber":"2346",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578799,45.506057,-122.578799,45.506057",
     "geom:latitude":45.506057,
     "geom:longitude":-122.578799,
@@ -30,12 +35,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513,
+        85834889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
+            "region_id":85688513,
+            "venue_id":790048711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790048711
         }
     ],
     "wof:id":790048711,
-    "wof:lastmodified":1466768033,
+    "wof:lastmodified":1486769614,
     "wof:name":"Kings Bakery Company",
-    "wof:parent_id":85871497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

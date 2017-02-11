@@ -2,9 +2,14 @@
   "id": 773118107,
   "type": "Feature",
   "properties": {
+    "addr:full":"3023 SE 59th Ave Portland OR 97206",
+    "addr:housenumber":"3023",
+    "addr:postcode":"97206",
+    "addr:street":"Se 59Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601955,45.500397,-122.601955,45.500397",
     "geom:latitude":45.500397,
     "geom:longitude":-122.601955,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773118107
         }
     ],
     "wof:id":773118107,
-    "wof:lastmodified":1466768637,
+    "wof:lastmodified":1486771047,
     "wof:name":"D Belgarde Excavation Inc",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790032125,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 SE Mill St Portland OR 97214",
+    "addr:housenumber":"628",
+    "addr:postcode":"97214",
+    "addr:street":"Se Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.659462,45.510093,-122.659462,45.510093",
     "geom:latitude":45.510093,
     "geom:longitude":-122.659462,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893163
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893163,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790032125
         }
     ],
     "wof:id":790032125,
-    "wof:lastmodified":1466767766,
+    "wof:lastmodified":1486773492,
     "wof:name":"Rallitek Performance",
-    "wof:parent_id":85893163,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

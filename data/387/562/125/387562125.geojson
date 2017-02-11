@@ -2,9 +2,14 @@
   "id": 387562125,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 SE 69th Ave Portland OR 97215",
+    "addr:housenumber":"909",
+    "addr:postcode":"97215",
+    "addr:street":"Se 69Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.592283,45.516228,-122.592283,45.516228",
     "geom:latitude":45.516228,
     "geom:longitude":-122.592283,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871481
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"49bceb87a123bb4140837f173b389d70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871481,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":387562125
         }
     ],
     "wof:id":387562125,
-    "wof:lastmodified":1466773709,
+    "wof:lastmodified":1486771802,
     "wof:name":"Allen & None Designs",
-    "wof:parent_id":85871481,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

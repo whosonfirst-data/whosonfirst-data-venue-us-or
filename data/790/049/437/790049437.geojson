@@ -2,9 +2,14 @@
   "id": 790049437,
   "type": "Feature",
   "properties": {
+    "addr:full":"10803 SE Cherry Blossom Drive Portland OR 97216",
+    "addr:housenumber":"10803",
+    "addr:postcode":"97216",
+    "addr:street":"Se Cherry Blossom Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.552043,45.514204,-122.552043,45.514204",
     "geom:latitude":45.514204,
     "geom:longitude":-122.552043,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85846461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846461,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790049437
         }
     ],
     "wof:id":790049437,
-    "wof:lastmodified":1466768048,
+    "wof:lastmodified":1486772216,
     "wof:name":"McDaniel Philip L Dr MD",
-    "wof:parent_id":85846461,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387044087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1222 SW 6th Ave Portland OR 97204",
+    "addr:housenumber":"1222",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680642,45.515198,-122.680642,45.515198",
     "geom:latitude":45.515198,
     "geom:longitude":-122.680642,
@@ -26,11 +31,13 @@
     "sg:website":"www.keybank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:brand_id":420574445,
     "wof:breaches":[],
@@ -41,17 +48,18 @@
     "wof:geomhash":"0d750a91c8de2349545f6cb9cae123ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387044087
         }
     ],
     "wof:id":387044087,
-    "wof:lastmodified":1466767868,
+    "wof:lastmodified":1486770251,
     "wof:name":"Key Bank",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

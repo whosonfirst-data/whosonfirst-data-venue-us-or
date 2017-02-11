@@ -2,9 +2,14 @@
   "id": 387213873,
   "type": "Feature",
   "properties": {
+    "addr:full":"9019 NE Benjamin St Portland OR 97220",
+    "addr:housenumber":"9019",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Benjamin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.569977,45.547562,-122.569977,45.547562",
     "geom:latitude":45.547562,
     "geom:longitude":-122.569977,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893205,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"1eeff28ea5d5bb57dcf9e57588125ba8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893205,
             "region_id":85688513,
             "venue_id":387213873
         }
     ],
     "wof:id":387213873,
-    "wof:lastmodified":1466771081,
+    "wof:lastmodified":1486768501,
     "wof:name":"Deltana Inc",
     "wof:parent_id":85893205,
     "wof:placetype":"venue",

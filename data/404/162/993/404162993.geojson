@@ -2,9 +2,14 @@
   "id": 404162993,
   "type": "Feature",
   "properties": {
+    "addr:full":"3777 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"3777",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.653216,45.495136,-122.653216,45.495136",
     "geom:latitude":45.495136,
     "geom:longitude":-122.653216,
@@ -32,11 +37,13 @@
     "sg:website":"www.kimballdesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807897,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"05aa7410504c9120706f3b8c22b57a6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85807897,
             "region_id":85688513,
             "venue_id":404162993
         }
     ],
     "wof:id":404162993,
-    "wof:lastmodified":1466767463,
+    "wof:lastmodified":1486766251,
     "wof:name":"Anton C Kimball Design",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",

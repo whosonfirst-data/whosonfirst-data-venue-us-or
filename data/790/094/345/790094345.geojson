@@ -2,9 +2,14 @@
   "id": 790094345,
   "type": "Feature",
   "properties": {
+    "addr:full":"10373 NE Hancock Street Portland OR 97220",
+    "addr:housenumber":"10373",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Hancock Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.556209,45.536323,-122.556209,45.536323",
     "geom:latitude":45.536323,
     "geom:longitude":-122.556209,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":790094345
         }
     ],
     "wof:id":790094345,
-    "wof:lastmodified":1466767689,
+    "wof:lastmodified":1486771886,
     "wof:name":"Abbassian Ray Dr",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

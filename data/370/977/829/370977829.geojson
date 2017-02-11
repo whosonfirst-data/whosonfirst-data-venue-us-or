@@ -2,9 +2,14 @@
   "id": 370977829,
   "type": "Feature",
   "properties": {
+    "addr:full":"6245 SW Capitol Hwy Portland OR 97239",
+    "addr:housenumber":"6245",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692333,45.479255,-122.692333,45.479255",
     "geom:latitude":45.479255,
     "geom:longitude":-122.692333,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"4d5d51aaac7fb1d389e634a88b303b24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":370977829
         }
     ],
     "wof:id":370977829,
-    "wof:lastmodified":1466774929,
+    "wof:lastmodified":1486769443,
     "wof:name":"Chris Wood Rud",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

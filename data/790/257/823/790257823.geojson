@@ -2,9 +2,14 @@
   "id": 790257823,
   "type": "Feature",
   "properties": {
+    "addr:full":"9707 SE Foster Rd Portland OR 97266",
+    "addr:housenumber":"9707",
+    "addr:postcode":"97266",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563071,45.478454,-122.563071,45.478454",
     "geom:latitude":45.478454,
     "geom:longitude":-122.563071,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85830293
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":790257823
         }
     ],
     "wof:id":790257823,
-    "wof:lastmodified":1466772508,
+    "wof:lastmodified":1486769548,
     "wof:name":"Locksmith All Night",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",

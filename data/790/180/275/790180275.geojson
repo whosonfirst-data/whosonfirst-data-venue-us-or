@@ -2,9 +2,14 @@
   "id": 790180275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2903 NW Birkendene St Portland OR 97229",
+    "addr:housenumber":"2903",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Birkendene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.764826,45.543523,-122.764826,45.543523",
     "geom:latitude":45.543523,
     "geom:longitude":-122.764826,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":790180275
         }
     ],
     "wof:id":790180275,
-    "wof:lastmodified":1466771012,
+    "wof:lastmodified":1486763594,
     "wof:name":"Ekc Consulting",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

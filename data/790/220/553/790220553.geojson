@@ -2,9 +2,14 @@
   "id": 790220553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 NE Grand Ave Portland OR 97232",
+    "addr:housenumber":"1620",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66065,45.534592,-122.66065,45.534592",
     "geom:latitude":45.534592,
     "geom:longitude":-122.66065,
@@ -90,12 +95,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871513
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,13 +116,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":790220553
         }
     ],
     "wof:id":790220553,
-    "wof:lastmodified":1466772037,
+    "wof:lastmodified":1486768461,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",

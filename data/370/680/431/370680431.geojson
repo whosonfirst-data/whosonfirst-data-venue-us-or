@@ -2,9 +2,14 @@
   "id": 370680431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3449 SE Sherman St Portland OR 97214",
+    "addr:housenumber":"3449",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62869,45.506133,-122.62869,45.506133",
     "geom:latitude":45.506133,
     "geom:longitude":-122.62869,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"762f0b7b6ad796d50724415879e46c3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370680431
         }
     ],
     "wof:id":370680431,
-    "wof:lastmodified":1466773457,
+    "wof:lastmodified":1486770882,
     "wof:name":"Steve Tucker Design",
-    "wof:parent_id":85893169,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

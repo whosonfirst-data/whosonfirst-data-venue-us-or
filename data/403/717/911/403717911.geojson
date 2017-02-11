@@ -2,9 +2,14 @@
   "id": 403717911,
   "type": "Feature",
   "properties": {
+    "addr:full":"5413 NE Columbia Blvd Portland OR 97218",
+    "addr:housenumber":"5413",
+    "addr:postcode":"97218",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600552,45.568779,-122.600552,45.568779",
     "geom:latitude":45.568779,
     "geom:longitude":-122.600552,
@@ -29,10 +34,13 @@
     "sg:website":"www.unitedrentals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:brand_id":420574359,
     "wof:breaches":[],
@@ -43,19 +51,20 @@
     "wof:geomhash":"727be81c1c3135c7212b74e7905c07ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":403717911
         }
     ],
     "wof:id":403717911,
-    "wof:lastmodified":1466768159,
+    "wof:lastmodified":1486768805,
     "wof:name":"United Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

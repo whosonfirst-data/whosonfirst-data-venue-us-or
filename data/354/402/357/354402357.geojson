@@ -2,9 +2,14 @@
   "id": 354402357,
   "type": "Feature",
   "properties": {
+    "addr:full":"3732 SE Knapp St Portland OR 97202",
+    "addr:housenumber":"3732",
+    "addr:postcode":"97202",
+    "addr:street":"Se Knapp St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622789,45.470423,-122.622789,45.470423",
     "geom:latitude":45.470423,
     "geom:longitude":-122.622789,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"bdeed09de6c857f4da216883d2428f75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":354402357
         }
     ],
     "wof:id":354402357,
-    "wof:lastmodified":1466771341,
+    "wof:lastmodified":1486769414,
     "wof:name":"Holy Family Parish",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

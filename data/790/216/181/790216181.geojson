@@ -2,9 +2,14 @@
   "id": 790216181,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 NE Royal Ct Portland OR 97232",
+    "addr:housenumber":"708",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Royal Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62453,45.528316,-122.62453,45.528316",
     "geom:latitude":45.528316,
     "geom:longitude":-122.62453,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":790216181
         }
     ],
     "wof:id":790216181,
-    "wof:lastmodified":1466771848,
+    "wof:lastmodified":1486766681,
     "wof:name":"Harrington Family Foundation",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

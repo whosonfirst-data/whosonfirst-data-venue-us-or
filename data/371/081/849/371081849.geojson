@@ -2,9 +2,14 @@
   "id": 371081849,
   "type": "Feature",
   "properties": {
+    "addr:full":"7115 SW 52nd Ave Portland OR 97219",
+    "addr:housenumber":"7115",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 52Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.730632,45.473583,-122.730632,45.473583",
     "geom:latitude":45.473583,
     "geom:longitude":-122.730632,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b12f253d8208d34061c7f630ea676930",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":371081849
         }
     ],
     "wof:id":371081849,
-    "wof:lastmodified":1466768498,
+    "wof:lastmodified":1486763892,
     "wof:name":"Alexandrite Group Inc",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

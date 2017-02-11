@@ -2,9 +2,14 @@
   "id": 789957213,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 NW Couch St Portland OR 97209",
+    "addr:housenumber":"67",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Couch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671065,45.523874,-122.671065,45.523874",
     "geom:latitude":45.523874,
     "geom:longitude":-122.671065,
@@ -29,12 +34,13 @@
     "sg:website":"allbrightcarpetcleaning.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789957213
         }
     ],
     "wof:id":789957213,
-    "wof:lastmodified":1466772473,
+    "wof:lastmodified":1486770682,
     "wof:name":"Allbright Carpet Cleaning",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

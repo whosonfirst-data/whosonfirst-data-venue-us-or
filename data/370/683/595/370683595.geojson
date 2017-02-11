@@ -2,9 +2,14 @@
   "id": 370683595,
   "type": "Feature",
   "properties": {
+    "addr:full":"3636 SE Morrison St Portland OR 97214",
+    "addr:housenumber":"3636",
+    "addr:postcode":"97214",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626168,45.517084,-122.626168,45.517084",
     "geom:latitude":45.517084,
     "geom:longitude":-122.626168,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893157
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,21 @@
     "wof:geomhash":"66802e527de4a4ec6221d3cc1a2d896d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893157,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370683595
         }
     ],
     "wof:id":370683595,
-    "wof:lastmodified":1466773474,
+    "wof:lastmodified":1486773390,
     "wof:name":"Hinkle & Sons Fine Woodworking",
-    "wof:parent_id":85893157,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

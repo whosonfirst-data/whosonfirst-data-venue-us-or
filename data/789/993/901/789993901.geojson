@@ -2,9 +2,14 @@
   "id": 789993901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 NE 37th Ave Portland OR 97211",
+    "addr:housenumber":"4330",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625523,45.553719,-122.625523,45.553719",
     "geom:latitude":45.553719,
     "geom:longitude":-122.625523,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.bethanyportland.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893155
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":789993901
         }
     ],
     "wof:id":789993901,
-    "wof:lastmodified":1466773135,
+    "wof:lastmodified":1486771495,
     "wof:name":"Bethany Lutheran Church-",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",

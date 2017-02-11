@@ -2,9 +2,14 @@
   "id": 773667997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 NE 41st Ave Portland OR 97232",
+    "addr:housenumber":"1607",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621364,45.534414,-122.621364,45.534414",
     "geom:latitude":45.534414,
     "geom:longitude":-122.621364,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85826019,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85826019,
             "region_id":85688513,
             "venue_id":773667997
         }
     ],
     "wof:id":773667997,
-    "wof:lastmodified":1466775677,
+    "wof:lastmodified":1486769455,
     "wof:name":"Thomas Boardman",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",

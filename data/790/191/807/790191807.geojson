@@ -2,9 +2,14 @@
   "id": 790191807,
   "type": "Feature",
   "properties": {
+    "addr:full":"12518 NE Airport Way Portland OR 97230",
+    "addr:housenumber":"12518",
+    "addr:postcode":"97230",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.53338,45.56548,-122.53338,45.56548",
     "geom:latitude":45.56548,
     "geom:longitude":-122.53338,
@@ -46,12 +51,13 @@
     "sg:website":"http://www.westerntool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85811205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +72,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85811205,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":790191807
         }
     ],
     "wof:id":790191807,
-    "wof:lastmodified":1466771440,
+    "wof:lastmodified":1486771490,
     "wof:name":"Western Tool Supply",
-    "wof:parent_id":85811205,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

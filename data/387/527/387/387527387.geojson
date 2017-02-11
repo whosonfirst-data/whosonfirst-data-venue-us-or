@@ -2,9 +2,14 @@
   "id": 387527387,
   "type": "Feature",
   "properties": {
+    "addr:full":"12009 SE Brookside Dr Portland OR 97266",
+    "addr:housenumber":"12009",
+    "addr:postcode":"97266",
+    "addr:street":"Se Brookside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540947,45.472894,-122.540947,45.472894",
     "geom:latitude":45.472894,
     "geom:longitude":-122.540947,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
+        102191575,
+        1108715281,
         85633793,
-        101715871,
-        102082213,
-        85821517
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"a8578977afb26c5094b13a8bd87b9544",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":101715871,
-            "neighbourhood_id":85821517,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":387527387
         }
     ],
     "wof:id":387527387,
-    "wof:lastmodified":1466773443,
+    "wof:lastmodified":1486772195,
     "wof:name":"Artistic Remodeling",
-    "wof:parent_id":85821517,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370419671,
   "type": "Feature",
   "properties": {
+    "addr:full":"6142 SE 111th Ave Portland OR 97266",
+    "addr:housenumber":"6142",
+    "addr:postcode":"97266",
+    "addr:street":"Se 111Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549236,45.476298,-122.549236,45.476298",
     "geom:latitude":45.476298,
     "geom:longitude":-122.549236,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85821523
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +56,20 @@
     "wof:geomhash":"171d35c5ef7a89ced027c178f8606045",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821523,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":370419671
         }
     ],
     "wof:id":370419671,
-    "wof:lastmodified":1466771656,
+    "wof:lastmodified":1486771936,
     "wof:name":"Leading Edge Laminations Inc",
-    "wof:parent_id":85821523,
+    "wof:parent_id":85893227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354386569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2869 SE Franklin St Portland OR 97202",
+    "addr:housenumber":"2869",
+    "addr:postcode":"97202",
+    "addr:street":"Se Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635836,45.49917,-122.635836,45.49917",
     "geom:latitude":45.49917,
     "geom:longitude":-122.635836,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"cbe44ebd707f0853ab7503d0ae01300f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":354386569
         }
     ],
     "wof:id":354386569,
-    "wof:lastmodified":1466771053,
+    "wof:lastmodified":1486771724,
     "wof:name":"All Jazz Music All Styles",
-    "wof:parent_id":85893197,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

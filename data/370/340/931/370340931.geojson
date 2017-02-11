@@ -2,9 +2,14 @@
   "id": 370340931,
   "type": "Feature",
   "properties": {
+    "addr:full":"553 N Holland St Portland OR 97217",
+    "addr:housenumber":"553",
+    "addr:postcode":"97217",
+    "addr:street":"N Holland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672015,45.575882,-122.672015,45.575882",
     "geom:latitude":45.575882,
     "geom:longitude":-122.672015,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85841531,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85841531
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"640ff62bd47aca8a41a7c0a879f6961d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85841531,
             "region_id":85688513,
             "venue_id":370340931
         }
     ],
     "wof:id":370340931,
-    "wof:lastmodified":1466770613,
+    "wof:lastmodified":1486768663,
     "wof:name":"Devon Hamberg Enterprises",
     "wof:parent_id":85841531,
     "wof:placetype":"venue",

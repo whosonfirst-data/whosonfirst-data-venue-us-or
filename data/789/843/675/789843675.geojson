@@ -2,9 +2,14 @@
   "id": 789843675,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 SW Columbia Street Portland OR 97201",
+    "addr:housenumber":"222",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Columbia Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6773,45.513389,-122.6773,45.513389",
     "geom:latitude":45.513389,
     "geom:longitude":-122.6773,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789843675
         }
     ],
     "wof:id":789843675,
-    "wof:lastmodified":1466770258,
+    "wof:lastmodified":1486764143,
     "wof:name":"Brown Stuart R Attys",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

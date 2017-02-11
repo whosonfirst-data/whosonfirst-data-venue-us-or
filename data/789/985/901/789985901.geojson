@@ -2,9 +2,14 @@
   "id": 789985901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 NE Roselawn St Portland OR 97211",
+    "addr:housenumber":"1103",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Roselawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654499,45.561412,-122.654499,45.561412",
     "geom:latitude":45.561412,
     "geom:longitude":-122.654499,
@@ -30,12 +35,14 @@
     "sg:website":"www.pecaatelier.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513,
+        85893199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
+            "region_id":85688513,
+            "venue_id":789985901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":789985901
         }
     ],
     "wof:id":789985901,
-    "wof:lastmodified":1466773045,
+    "wof:lastmodified":1486771753,
     "wof:name":"Peca Atelier",
-    "wof:parent_id":85893257,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

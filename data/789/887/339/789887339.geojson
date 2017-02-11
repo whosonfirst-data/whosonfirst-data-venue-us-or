@@ -2,9 +2,14 @@
   "id": 789887339,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 SW 4th Ave Ste 600 Portland OR 97204",
+    "addr:housenumber":"321",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 4Th Ave Ste 600",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675347,45.52113,-122.675347,45.52113",
     "geom:latitude":45.52113,
     "geom:longitude":-122.675347,
@@ -28,10 +33,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +51,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789887339
         }
     ],
     "wof:id":789887339,
-    "wof:lastmodified":1466771607,
+    "wof:lastmodified":1486764609,
     "wof:name":"Buchanan Angeli Altschul & Sullivan",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

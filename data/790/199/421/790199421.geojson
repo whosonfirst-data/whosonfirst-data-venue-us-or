@@ -2,9 +2,14 @@
   "id": 790199421,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 NE 127th Ave Portland OR 97230",
+    "addr:housenumber":"128",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 127Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532537,45.52363,-122.532537,45.52363",
     "geom:latitude":45.52363,
     "geom:longitude":-122.532537,
@@ -44,12 +49,13 @@
     "sg:website":"http://www.alphafencing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +70,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790199421
         }
     ],
     "wof:id":790199421,
-    "wof:lastmodified":1466771665,
+    "wof:lastmodified":1486766617,
     "wof:name":"Alpha Fencing Co",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

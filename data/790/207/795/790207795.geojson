@@ -2,9 +2,14 @@
   "id": 790207795,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 NE 21st Ave Ste 200 Portland OR 97232",
+    "addr:housenumber":"605",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 21St Ave Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644462,45.52725,-122.644462,45.52725",
     "geom:latitude":45.52725,
     "geom:longitude":-122.644462,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.naughtynw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790207795
         }
     ],
     "wof:id":790207795,
-    "wof:lastmodified":1466771703,
+    "wof:lastmodified":1486771030,
     "wof:name":"Portland Mercury",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

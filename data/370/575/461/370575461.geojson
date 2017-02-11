@@ -2,9 +2,14 @@
   "id": 370575461,
   "type": "Feature",
   "properties": {
+    "addr:full":"8907 SW 30th Ave Portland OR 97219",
+    "addr:housenumber":"8907",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.707814,45.4599,-122.707814,45.4599",
     "geom:latitude":45.4599,
     "geom:longitude":-122.707814,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513,
+        85835959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"49cdee8145871d750d5c817f3e89a3fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
+            "region_id":85688513,
+            "venue_id":370575461
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85835959,
             "region_id":85688513,
             "venue_id":370575461
         }
     ],
     "wof:id":370575461,
-    "wof:lastmodified":1466772863,
+    "wof:lastmodified":1486769630,
     "wof:name":"Creative FX",
-    "wof:parent_id":85871489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

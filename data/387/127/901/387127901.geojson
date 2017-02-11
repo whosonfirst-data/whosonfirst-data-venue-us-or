@@ -2,9 +2,14 @@
   "id": 387127901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 NE M L King Blvd Portland OR 97212",
+    "addr:housenumber":"3939",
+    "addr:postcode":"97212",
+    "addr:street":"Ne M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661634,45.551579,-122.661634,45.551579",
     "geom:latitude":45.551579,
     "geom:longitude":-122.661634,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"296b8c1416f5ce561a43b7248c6632fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893159,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":387127901
         }
     ],
     "wof:id":387127901,
-    "wof:lastmodified":1466769325,
+    "wof:lastmodified":1486771757,
     "wof:name":"Horn Of Africa",
-    "wof:parent_id":85893159,
+    "wof:parent_id":85893199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

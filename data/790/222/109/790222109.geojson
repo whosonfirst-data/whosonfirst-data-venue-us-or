@@ -2,9 +2,14 @@
   "id": 790222109,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 SE 133rd Avenue Portland OR 97233",
+    "addr:housenumber":"405",
+    "addr:postcode":"97233",
+    "addr:street":"Se 133Rd Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.525989,45.51964,-122.525989,45.51964",
     "geom:latitude":45.51964,
     "geom:longitude":-122.525989,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":790222109
         }
     ],
     "wof:id":790222109,
-    "wof:lastmodified":1466771902,
+    "wof:lastmodified":1486770735,
     "wof:name":"Oregon Dental Specialists PC",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

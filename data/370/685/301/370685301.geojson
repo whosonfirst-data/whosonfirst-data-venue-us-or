@@ -2,9 +2,14 @@
   "id": 370685301,
   "type": "Feature",
   "properties": {
+    "addr:full":"4912 NE 31st Ave Portland OR 97211",
+    "addr:housenumber":"4912",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.633751,45.558249,-122.633751,45.558249",
     "geom:latitude":45.558249,
     "geom:longitude":-122.633751,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"0cd5a70a7330b54451e17d4512e7f516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":370685301
         }
     ],
     "wof:id":370685301,
-    "wof:lastmodified":1466773479,
+    "wof:lastmodified":1486771576,
     "wof:name":"Kustom Kup",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387253695,
   "type": "Feature",
   "properties": {
+    "addr:full":"4136 NE 32nd Pl Portland OR 97211",
+    "addr:housenumber":"4136",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 32Nd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631658,45.554076,-122.631658,45.554076",
     "geom:latitude":45.554076,
     "geom:longitude":-122.631658,
@@ -25,10 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85802561,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85827095
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"526aaef7b478513e1c5c323ed55ac16d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85802561,
+            "region_id":85688513,
+            "venue_id":387253695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85827095,
             "region_id":85688513,
             "venue_id":387253695
         }
     ],
     "wof:id":387253695,
-    "wof:lastmodified":1466771510,
+    "wof:lastmodified":1486769356,
     "wof:name":"PJC Sales Inc",
-    "wof:parent_id":85827095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371145595,
   "type": "Feature",
   "properties": {
+    "addr:full":"2652 SW Ridge Dr Portland OR 97219",
+    "addr:housenumber":"2652",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.706276,45.454187,-122.706276,45.454187",
     "geom:latitude":45.454187,
     "geom:longitude":-122.706276,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fc2cad9306f75917b8e95f1005ff5d18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":371145595
         }
     ],
     "wof:id":371145595,
-    "wof:lastmodified":1466769621,
+    "wof:lastmodified":1486770988,
     "wof:name":"Eduardo Leiva",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

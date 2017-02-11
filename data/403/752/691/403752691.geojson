@@ -2,9 +2,14 @@
   "id": 403752691,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 SW Hood Ave Portland OR 97239",
+    "addr:housenumber":"3405",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Hood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673943,45.497941,-122.673943,45.497941",
     "geom:latitude":45.497941,
     "geom:longitude":-122.673943,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"1d3b4d151eeb7d90fd3c86650a48b1ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":403752691
         }
     ],
     "wof:id":403752691,
-    "wof:lastmodified":1466768895,
+    "wof:lastmodified":1486773646,
     "wof:name":"Stirling Dial-A-Talk",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

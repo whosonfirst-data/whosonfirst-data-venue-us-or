@@ -2,9 +2,14 @@
   "id": 789852751,
   "type": "Feature",
   "properties": {
+    "addr:full":"7648 SE 27th Ave Portland OR 97202",
+    "addr:housenumber":"7648",
+    "addr:postcode":"97202",
+    "addr:street":"Se 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.635284,45.469794,-122.635284,45.469794",
     "geom:latitude":45.469794,
     "geom:longitude":-122.635284,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85817069,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85817069
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85817069,
             "region_id":85688513,
             "venue_id":789852751
         }
     ],
     "wof:id":789852751,
-    "wof:lastmodified":1466770610,
+    "wof:lastmodified":1486768071,
     "wof:name":"111 Locksmith",
     "wof:parent_id":85817069,
     "wof:placetype":"venue",

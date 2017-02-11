@@ -2,9 +2,14 @@
   "id": 403953055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2260 SE 70th Ave Portland OR 97215",
+    "addr:housenumber":"2260",
+    "addr:postcode":"97215",
+    "addr:street":"Se 70Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.590682,45.506176,-122.590682,45.506176",
     "geom:latitude":45.506176,
     "geom:longitude":-122.590682,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893211,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"12aa40b038095b7d1afd68b84574f9ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871497,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893211,
             "region_id":85688513,
             "venue_id":403953055
         }
     ],
     "wof:id":403953055,
-    "wof:lastmodified":1466768313,
+    "wof:lastmodified":1486771809,
     "wof:name":"Creative Solutions Group Inc",
-    "wof:parent_id":85871497,
+    "wof:parent_id":85893211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

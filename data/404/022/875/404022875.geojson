@@ -2,9 +2,14 @@
   "id": 404022875,
   "type": "Feature",
   "properties": {
+    "addr:full":"6623 NE 59th Pl Portland OR 97218",
+    "addr:housenumber":"6623",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 59Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.600476,45.572336,-122.600476,45.572336",
     "geom:latitude":45.572336,
     "geom:longitude":-122.600476,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893177,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893167
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"c49cb208e72079dc0d5e26396395c3ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893167,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
             "region_id":85688513,
             "venue_id":404022875
         }
     ],
     "wof:id":404022875,
-    "wof:lastmodified":1466768857,
+    "wof:lastmodified":1486771612,
     "wof:name":"Expresscopycom",
-    "wof:parent_id":85893167,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

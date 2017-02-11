@@ -2,9 +2,14 @@
   "id": 790034279,
   "type": "Feature",
   "properties": {
+    "addr:full":"935 SE 39th Avenue Portland OR 97214",
+    "addr:housenumber":"935",
+    "addr:postcode":"97214",
+    "addr:street":"Se 39Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622756,45.51621,-122.622756,45.51621",
     "geom:latitude":45.51621,
     "geom:longitude":-122.622756,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790034279
         }
     ],
     "wof:id":790034279,
-    "wof:lastmodified":1466767793,
+    "wof:lastmodified":1486766545,
     "wof:name":"39th Mini Mart",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

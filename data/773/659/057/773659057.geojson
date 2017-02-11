@@ -2,9 +2,14 @@
   "id": 773659057,
   "type": "Feature",
   "properties": {
+    "addr:full":"7661 SE Division St Portland OR 97206",
+    "addr:housenumber":"7661",
+    "addr:postcode":"97206",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583807,45.505456,-122.583807,45.505456",
     "geom:latitude":45.505456,
     "geom:longitude":-122.583807,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513,
+        85834889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
+            "region_id":85688513,
+            "venue_id":773659057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":773659057
         }
     ],
     "wof:id":773659057,
-    "wof:lastmodified":1466775646,
+    "wof:lastmodified":1486769614,
     "wof:name":"George Auto Sales",
-    "wof:parent_id":85871497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

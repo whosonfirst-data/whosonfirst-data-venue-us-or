@@ -2,9 +2,14 @@
   "id": 790079811,
   "type": "Feature",
   "properties": {
+    "addr:full":"9220 SW 43rd Ave Portland OR 97219",
+    "addr:housenumber":"9220",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.721521,45.458439,-122.721521,45.458439",
     "geom:latitude":45.458439,
     "geom:longitude":-122.721521,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":790079811
         }
     ],
     "wof:id":790079811,
-    "wof:lastmodified":1466767155,
+    "wof:lastmodified":1486772398,
     "wof:name":"Boatrigger.Com",
-    "wof:parent_id":85871489,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

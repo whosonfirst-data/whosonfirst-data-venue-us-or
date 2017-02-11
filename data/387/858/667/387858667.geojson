@@ -2,9 +2,14 @@
   "id": 387858667,
   "type": "Feature",
   "properties": {
+    "addr:full":"3973 N Missouri Ave Portland OR 97227",
+    "addr:housenumber":"3973",
+    "addr:postcode":"97227",
+    "addr:street":"N Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677755,45.551185,-122.677755,45.551185",
     "geom:latitude":45.551185,
     "geom:longitude":-122.677755,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"57630d20e1198876bedbcd8c54fbf3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":387858667
         }
     ],
     "wof:id":387858667,
-    "wof:lastmodified":1466775186,
+    "wof:lastmodified":1486771511,
     "wof:name":"Mark Barnes Photography",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

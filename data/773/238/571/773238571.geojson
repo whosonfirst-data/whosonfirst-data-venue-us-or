@@ -2,9 +2,14 @@
   "id": 773238571,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 NE Weidler St Portland OR 97232",
+    "addr:housenumber":"211",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Weidler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662736,45.534426,-122.662736,45.534426",
     "geom:latitude":45.534426,
     "geom:longitude":-122.662736,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871513,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871513
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871513,
             "region_id":85688513,
             "venue_id":773238571
         }
     ],
     "wof:id":773238571,
-    "wof:lastmodified":1466772009,
+    "wof:lastmodified":1486771325,
     "wof:name":"Metropltan Hsing Rdvlpment LLC",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",

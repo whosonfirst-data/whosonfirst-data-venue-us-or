@@ -2,9 +2,14 @@
   "id": 790093859,
   "type": "Feature",
   "properties": {
+    "addr:full":"7515 NE Ambassador Pl Ste R Portland OR 97220",
+    "addr:housenumber":"7515",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Ambassador Pl Ste R",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570569,45.577252,-122.570569,45.577252",
     "geom:latitude":45.577252,
     "geom:longitude":-122.570569,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.minarikdrives.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721307,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":790093859
         }
     ],
     "wof:id":790093859,
-    "wof:lastmodified":1466767671,
+    "wof:lastmodified":1486772334,
     "wof:name":"Minarik Corporation",
-    "wof:parent_id":85819307,
+    "wof:parent_id":1108721307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

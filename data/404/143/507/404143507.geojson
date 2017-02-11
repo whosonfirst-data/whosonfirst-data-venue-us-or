@@ -2,9 +2,14 @@
   "id": 404143507,
   "type": "Feature",
   "properties": {
+    "addr:full":"17145 SE Taylor St Portland OR 97233",
+    "addr:housenumber":"17145",
+    "addr:postcode":"97233",
+    "addr:street":"Se Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.487958,45.515209,-122.487958,45.515209",
     "geom:latitude":45.515209,
     "geom:longitude":-122.487958,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
-        101716277,
+        101715829,
         102081631,
+        85688513,
+        101716277,
         85845549
     ],
     "wof:breaches":[],
@@ -42,7 +51,17 @@
     "wof:geomhash":"3610fb0f68c40bc8461864f034e64776",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
+            "region_id":85688513,
+            "venue_id":404143507
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101716277,
@@ -52,9 +71,9 @@
         }
     ],
     "wof:id":404143507,
-    "wof:lastmodified":1466767136,
+    "wof:lastmodified":1486771523,
     "wof:name":"Wohlford John",
-    "wof:parent_id":85845549,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

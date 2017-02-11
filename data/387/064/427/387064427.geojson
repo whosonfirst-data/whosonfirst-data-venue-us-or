@@ -2,9 +2,14 @@
   "id": 387064427,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 SW 1st Ave Portland OR 97201",
+    "addr:housenumber":"2501",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.678682,45.505078,-122.678682,45.505078",
     "geom:latitude":45.505078,
     "geom:longitude":-122.678682,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714045,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,21 @@
     "wof:geomhash":"e7cbe37c136fc3ffc534fc2764eea977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714045,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":387064427
         }
     ],
     "wof:id":387064427,
-    "wof:lastmodified":1466768209,
+    "wof:lastmodified":1486773558,
     "wof:name":"Columbia Basin Fish and Wildli",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108714045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387621723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 SE 139th Ave Portland OR 97233",
+    "addr:housenumber":"1740",
+    "addr:postcode":"97233",
+    "addr:street":"Se 139Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.520926,45.513441,-122.520926,45.513441",
     "geom:latitude":45.513441,
     "geom:longitude":-122.520926,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"572d4e1eb1461f3059817d640e0e5da1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387621723
         }
     ],
     "wof:id":387621723,
-    "wof:lastmodified":1466774157,
+    "wof:lastmodified":1486766553,
     "wof:name":"Snow CAP",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

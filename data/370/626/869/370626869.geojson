@@ -2,9 +2,14 @@
   "id": 370626869,
   "type": "Feature",
   "properties": {
+    "addr:full":"4808 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"4808",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578806,45.487034,-122.578806,45.487034",
     "geom:latitude":45.487034,
     "geom:longitude":-122.578806,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893243
+        85688513
     ],
     "wof:brand_id":420573941,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"4f9ddf9df7b219d08542c3aef352e546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893243,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370626869
         }
     ],
     "wof:id":370626869,
-    "wof:lastmodified":1466773088,
+    "wof:lastmodified":1486769544,
     "wof:name":"American Family Insurance",
-    "wof:parent_id":85893243,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

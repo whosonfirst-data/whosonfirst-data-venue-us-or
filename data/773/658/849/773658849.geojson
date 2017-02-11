@@ -2,9 +2,14 @@
   "id": 773658849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Schmeer Rd Portland OR 97217",
+    "addr:housenumber":"1001",
+    "addr:postcode":"97217",
+    "addr:street":"N Schmeer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671076,45.588044,-122.671076,45.588044",
     "geom:latitude":45.588044,
     "geom:longitude":-122.671076,
@@ -28,7 +33,15 @@
         "sport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q0Ju7j7ot4dDk8fPcURwX_45.588044_-122.671076@1294180530"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462587384,
     "wof:geomhash":"83d86861f8c65c5799ea95147f797bd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773658849
+        }
+    ],
     "wof:id":773658849,
-    "wof:lastmodified":1466775780,
+    "wof:lastmodified":1486771635,
     "wof:name":"HBPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

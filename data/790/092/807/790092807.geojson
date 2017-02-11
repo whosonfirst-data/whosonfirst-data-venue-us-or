@@ -2,9 +2,14 @@
   "id": 790092807,
   "type": "Feature",
   "properties": {
+    "addr:full":"12005 NE Airport Way Portland OR 97220",
+    "addr:housenumber":"12005",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Airport Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537673,45.567525,-122.537673,45.567525",
     "geom:latitude":45.567525,
     "geom:longitude":-122.537673,
@@ -38,12 +43,13 @@
     "sg:website":"www.burgerking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790092807
         }
     ],
     "wof:id":790092807,
-    "wof:lastmodified":1466767629,
+    "wof:lastmodified":1486768852,
     "wof:name":"Burger King",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370899093,
   "type": "Feature",
   "properties": {
+    "addr:full":"5944 NE Sandy Blvd Portland OR 97213",
+    "addr:housenumber":"5944",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601773,45.543183,-122.601773,45.543183",
     "geom:latitude":45.543183,
     "geom:longitude":-122.601773,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
+        102191575,
+        1108720843,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"8650b1b209a41200b9b89b0c938420c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":370899093
         }
     ],
     "wof:id":370899093,
-    "wof:lastmodified":1466774656,
+    "wof:lastmodified":1486770382,
     "wof:name":"Natural Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

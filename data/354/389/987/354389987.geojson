@@ -2,9 +2,14 @@
   "id": 354389987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 N Webster St Portland OR 97217",
+    "addr:housenumber":"1033",
+    "addr:postcode":"97217",
+    "addr:street":"N Webster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677809,45.559788,-122.677809,45.559788",
     "geom:latitude":45.559788,
     "geom:longitude":-122.677809,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"51d83337cedbdeb8a28d5688480327c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":354389987
         }
     ],
     "wof:id":354389987,
-    "wof:lastmodified":1466771125,
+    "wof:lastmodified":1486768863,
     "wof:name":"Portland Youth Redirection",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

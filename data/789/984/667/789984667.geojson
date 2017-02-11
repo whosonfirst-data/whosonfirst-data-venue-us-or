@@ -2,9 +2,14 @@
   "id": 789984667,
   "type": "Feature",
   "properties": {
+    "addr:full":"3014 NE Killingsworth Portland OR 97211",
+    "addr:housenumber":"3014",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Killingsworth",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.634563,45.562498,-122.634563,45.562498",
     "geom:latitude":45.562498,
     "geom:longitude":-122.634563,
@@ -36,12 +41,13 @@
     "sg:website":"redfoxvintage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":789984667
         }
     ],
     "wof:id":789984667,
-    "wof:lastmodified":1466773036,
+    "wof:lastmodified":1486771570,
     "wof:name":"Red Fox Vintage",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

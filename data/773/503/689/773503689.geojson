@@ -2,9 +2,14 @@
   "id": 773503689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1151 NE Faloma Rd Portland OR 97211",
+    "addr:housenumber":"1151",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Faloma Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657017,45.598506,-122.657017,45.598506",
     "geom:latitude":45.598506,
     "geom:longitude":-122.657017,
@@ -27,7 +32,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893179,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TNNbqEFJJK7iGWT23NWo3_45.598506_-122.657017@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462586230,
     "wof:geomhash":"15a9496db3396f69ca8cdd48fcff6f80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893179,
+            "region_id":85688513,
+            "venue_id":773503689
+        }
+    ],
     "wof:id":773503689,
-    "wof:lastmodified":1466774811,
+    "wof:lastmodified":1486771628,
     "wof:name":"Jims Auto Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

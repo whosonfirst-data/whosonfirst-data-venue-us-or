@@ -2,9 +2,14 @@
   "id": 387589621,
   "type": "Feature",
   "properties": {
+    "addr:full":"5605 NE 105th Ave Portland OR 97220",
+    "addr:housenumber":"5605",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 105Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554775,45.562464,-122.554775,45.562464",
     "geom:latitude":45.562464,
     "geom:longitude":-122.554775,
@@ -35,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893247
     ],
     "wof:breaches":[],
@@ -49,19 +57,30 @@
     "wof:geomhash":"2be00ae6a17fd4177b2799c7d98049ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85840687,
+            "region_id":85688513,
+            "venue_id":387589621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":387589621
         }
     ],
     "wof:id":387589621,
-    "wof:lastmodified":1466773883,
+    "wof:lastmodified":1486769672,
     "wof:name":"205 Auto Salvage Inc",
-    "wof:parent_id":85893247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

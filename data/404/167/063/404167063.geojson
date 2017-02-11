@@ -2,9 +2,14 @@
   "id": 404167063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 SW King Ave Portland OR 97205",
+    "addr:housenumber":"1012",
+    "addr:postcode":"97205",
+    "addr:street":"Sw King Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695334,45.520692,-122.695334,45.520692",
     "geom:latitude":45.520692,
     "geom:longitude":-122.695334,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"3ef92bc6139894a70b503dfb1b765df6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":404167063
         }
     ],
     "wof:id":404167063,
-    "wof:lastmodified":1466767535,
+    "wof:lastmodified":1486770949,
     "wof:name":"Jay Clncal Psychlogist Edwards",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

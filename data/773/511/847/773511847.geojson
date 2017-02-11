@@ -2,9 +2,14 @@
   "id": 773511847,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 NE 14th Ave Portland OR 97211",
+    "addr:housenumber":"5711",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651153,45.563857,-122.651153,45.563857",
     "geom:latitude":45.563857,
     "geom:longitude":-122.651153,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":773511847
         }
     ],
     "wof:id":773511847,
-    "wof:lastmodified":1466775057,
+    "wof:lastmodified":1486768582,
     "wof:name":"Lonnie's Beauty Salon",
     "wof:parent_id":85893257,
     "wof:placetype":"venue",

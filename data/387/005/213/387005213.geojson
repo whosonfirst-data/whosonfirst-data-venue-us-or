@@ -2,9 +2,14 @@
   "id": 387005213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3209 SE 174th Ave Portland OR 97236",
+    "addr:housenumber":"3209",
+    "addr:postcode":"97236",
+    "addr:street":"Se 174Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484745,45.499137,-122.484745,45.499137",
     "geom:latitude":45.499137,
     "geom:longitude":-122.484745,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85805545
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"be471cc4b1f4d692c3e8fe3e881c8f07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85805545,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":387005213
         }
     ],
     "wof:id":387005213,
-    "wof:lastmodified":1466767215,
+    "wof:lastmodified":1486771551,
     "wof:name":"Buckmaster Cad Cam Programming",
-    "wof:parent_id":85805545,
+    "wof:parent_id":85893161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790231031,
   "type": "Feature",
   "properties": {
+    "addr:full":"14310 SE Crystal Ct Portland OR 97236",
+    "addr:housenumber":"14310",
+    "addr:postcode":"97236",
+    "addr:street":"Se Crystal Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.5157,45.463155,-122.5157,45.463155",
     "geom:latitude":45.463155,
     "geom:longitude":-122.5157,
@@ -29,7 +34,15 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536131,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MC7z6gkiFA0lnamksqudm_45.463155_-122.515700@1303263428"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462594177,
     "wof:geomhash":"3ed449b276dc5e44309f8502e6b01312",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
+            "region_id":85688513,
+            "venue_id":790231031
+        }
+    ],
     "wof:id":790231031,
-    "wof:lastmodified":1466772319,
+    "wof:lastmodified":1486772208,
     "wof:name":"Leonards Plumbing & Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

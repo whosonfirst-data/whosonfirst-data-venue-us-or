@@ -2,9 +2,14 @@
   "id": 789943321,
   "type": "Feature",
   "properties": {
+    "addr:full":"P.O. Box 751-SD Portland OR 97207",
+    "addr:housenumber":"p.o. box 751-sd",
+    "addr:postcode":"97207",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6751,45.5239,-122.6751,45.5239",
     "geom:latitude":45.5239,
     "geom:longitude":-122.6751,
@@ -26,12 +31,13 @@
     "sg:website":"www.davecusick.com/postmodernrock/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867129
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867129,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789943321
         }
     ],
     "wof:id":789943321,
-    "wof:lastmodified":1466772310,
+    "wof:lastmodified":1486770694,
     "wof:name":"Dave Cusick's Post Modern Rock Show - Podcast",
-    "wof:parent_id":85867129,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

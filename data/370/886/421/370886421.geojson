@@ -2,9 +2,14 @@
   "id": 370886421,
   "type": "Feature",
   "properties": {
+    "addr:full":"2809 SE 75th Ave Portland OR 97206",
+    "addr:housenumber":"2809",
+    "addr:postcode":"97206",
+    "addr:street":"Se 75Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585876,45.502533,-122.585876,45.502533",
     "geom:latitude":45.502533,
     "geom:longitude":-122.585876,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"9416839d1e46e858c5c4c297b15be98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":370886421
         }
     ],
     "wof:id":370886421,
-    "wof:lastmodified":1466774484,
+    "wof:lastmodified":1486771040,
     "wof:name":"Pac-West Distributing Co",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

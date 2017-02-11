@@ -2,9 +2,14 @@
   "id": 790210237,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 NE 20th Ave Ste 202 Portland OR 97232",
+    "addr:housenumber":"825",
+    "addr:postcode":"97232",
+    "addr:street":"Ne 20Th Ave Ste 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64563,45.528976,-122.64563,45.528976",
     "geom:latitude":45.528976,
     "geom:longitude":-122.64563,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790210237
         }
     ],
     "wof:id":790210237,
-    "wof:lastmodified":1466771759,
+    "wof:lastmodified":1486766515,
     "wof:name":"Epr Design",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

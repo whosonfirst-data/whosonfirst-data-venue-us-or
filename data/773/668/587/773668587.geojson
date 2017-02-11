@@ -2,9 +2,14 @@
   "id": 773668587,
   "type": "Feature",
   "properties": {
+    "addr:full":"10407 SE Center St Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"10407;97266",
+    "addr:street":"Se Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553208,45.492562,-122.553208,45.492562",
     "geom:latitude":45.492562,
     "geom:longitude":-122.553208,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536091
+        85688513,
+        85893227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536091,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":773668587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773668587
         }
     ],
     "wof:id":773668587,
-    "wof:lastmodified":1466775666,
+    "wof:lastmodified":1486771915,
     "wof:name":"Nitas Adult Care Home",
-    "wof:parent_id":420536091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

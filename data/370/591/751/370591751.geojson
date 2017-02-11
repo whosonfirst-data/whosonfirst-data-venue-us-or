@@ -2,9 +2,14 @@
   "id": 370591751,
   "type": "Feature",
   "properties": {
+    "addr:full":"6443 SW Beaverton-Hillsdale Hwy Portland OR 97221",
+    "addr:housenumber":"6443",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Beaverton-Hillsdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742992,45.487161,-122.742992,45.487161",
     "geom:latitude":45.487161,
     "geom:longitude":-122.742992,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871499
+        85688513,
+        85807447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"2bae65a97d87c965625a37403e139d52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871499,
+            "region_id":85688513,
+            "venue_id":370591751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":370591751
         }
     ],
     "wof:id":370591751,
-    "wof:lastmodified":1466772984,
+    "wof:lastmodified":1486769387,
     "wof:name":"Windermere Cronin & Caplan REA",
-    "wof:parent_id":85871499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790136677,
   "type": "Feature",
   "properties": {
+    "addr:full":"7420 SW Garden Home Rd Portland OR 97223",
+    "addr:housenumber":"7420",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752385,45.465714,-122.752385,45.465714",
     "geom:latitude":45.465714,
     "geom:longitude":-122.752385,
@@ -25,7 +30,15 @@
     "sg:province":"OR",
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=37962D",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O3vQyqGiUS2aJ31pLb3pu_45.465714_-122.752385@1303263424"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462593404,
     "wof:geomhash":"cd02de8278360f40a7ca44104f057098",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":790136677
+        }
+    ],
     "wof:id":790136677,
-    "wof:lastmodified":1466769199,
+    "wof:lastmodified":1486772400,
     "wof:name":"State Farm Insurance Agent-Paul Hagemann",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

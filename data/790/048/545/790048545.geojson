@@ -2,9 +2,14 @@
   "id": 790048545,
   "type": "Feature",
   "properties": {
+    "addr:full":"9220 SE Stark St Portland OR 97216",
+    "addr:housenumber":"9220",
+    "addr:postcode":"97216",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.568875,45.518689,-122.568875,45.518689",
     "geom:latitude":45.518689,
     "geom:longitude":-122.568875,
@@ -30,12 +35,13 @@
     "sg:website":"www.americanag.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790048545
         }
     ],
     "wof:id":790048545,
-    "wof:lastmodified":1466768027,
+    "wof:lastmodified":1486766430,
     "wof:name":"American Agriculture",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

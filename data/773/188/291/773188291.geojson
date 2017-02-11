@@ -2,9 +2,14 @@
   "id": 773188291,
   "type": "Feature",
   "properties": {
+    "addr:full":"7525 SE Powell Blvd Portland OR 97206",
+    "addr:housenumber":"7525",
+    "addr:postcode":"97206",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585001,45.497503,-122.585001,45.497503",
     "geom:latitude":45.497503,
     "geom:longitude":-122.585001,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
             "region_id":85688513,
             "venue_id":773188291
         }
     ],
     "wof:id":773188291,
-    "wof:lastmodified":1466771062,
+    "wof:lastmodified":1486766739,
     "wof:name":"Old Car Parts",
     "wof:parent_id":85871497,
     "wof:placetype":"venue",

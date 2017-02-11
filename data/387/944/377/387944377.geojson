@@ -2,9 +2,14 @@
   "id": 387944377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 NE Lombard St Portland OR 97211",
+    "addr:housenumber":"1422",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650819,45.576406,-122.650819,45.576406",
     "geom:latitude":45.576406,
     "geom:longitude":-122.650819,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:brand_id":420575469,
     "wof:breaches":[],
@@ -45,17 +52,18 @@
     "wof:geomhash":"390ae81546b1de34aff3c411d84ae649",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":387944377
         }
     ],
     "wof:id":387944377,
-    "wof:lastmodified":1466775443,
+    "wof:lastmodified":1486768883,
     "wof:name":"Game Crazy",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

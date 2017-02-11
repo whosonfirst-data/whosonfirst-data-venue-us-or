@@ -2,9 +2,14 @@
   "id": 789835297,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 SE 16 Ave Portland OR 97201",
+    "addr:housenumber":"7601",
+    "addr:postcode":"97201",
+    "addr:street":"Se 16 Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.650085,45.470136,-122.650085,45.470136",
     "geom:latitude":45.470136,
     "geom:longitude":-122.650085,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536117
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536117,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789835297
         }
     ],
     "wof:id":789835297,
-    "wof:lastmodified":1466769881,
+    "wof:lastmodified":1486770497,
     "wof:name":"Any Locksmith Company 24 Hr",
-    "wof:parent_id":420536117,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

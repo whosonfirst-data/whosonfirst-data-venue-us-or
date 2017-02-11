@@ -2,9 +2,14 @@
   "id": 404203351,
   "type": "Feature",
   "properties": {
+    "addr:full":"3332 N Lombard St Portland OR 97217",
+    "addr:housenumber":"3332",
+    "addr:postcode":"97217",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700644,45.57706,-122.700644,45.57706",
     "geom:latitude":45.57706,
     "geom:longitude":-122.700644,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536075,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85846677
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"35e67f1778bba583c6bbe00a3e8f1e01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85846677,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":420536075,
             "region_id":85688513,
             "venue_id":404203351
         }
     ],
     "wof:id":404203351,
-    "wof:lastmodified":1466768171,
+    "wof:lastmodified":1486772104,
     "wof:name":"Changepoint",
-    "wof:parent_id":85846677,
+    "wof:parent_id":420536075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

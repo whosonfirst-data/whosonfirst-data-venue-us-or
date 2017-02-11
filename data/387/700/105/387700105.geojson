@@ -2,9 +2,14 @@
   "id": 387700105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 NW Vaughn St Portland OR 97210",
+    "addr:housenumber":"2017",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Vaughn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694529,45.537054,-122.694529,45.537054",
     "geom:latitude":45.537054,
     "geom:longitude":-122.694529,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867139
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +54,20 @@
     "wof:geomhash":"6f1d29e97e17c43ab2018fc1ce84ae73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867139,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":387700105
         }
     ],
     "wof:id":387700105,
-    "wof:lastmodified":1466774387,
+    "wof:lastmodified":1486771269,
     "wof:name":"Western Trailer Company",
-    "wof:parent_id":85867139,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

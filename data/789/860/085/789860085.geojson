@@ -2,9 +2,14 @@
   "id": 789860085,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 SE 36th Avenue Portland OR 97202",
+    "addr:housenumber":"3505",
+    "addr:postcode":"97202",
+    "addr:street":"Se 36Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626211,45.49759,-122.626211,45.49759",
     "geom:latitude":45.49759,
     "geom:longitude":-122.626211,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893197
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893197,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789860085
         }
     ],
     "wof:id":789860085,
-    "wof:lastmodified":1466770875,
+    "wof:lastmodified":1486770870,
     "wof:name":"Walthour Denise M DMD",
-    "wof:parent_id":85893197,
+    "wof:parent_id":85871465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387945889,
   "type": "Feature",
   "properties": {
+    "addr:full":"5114 SE 115th Ave Portland OR 97266",
+    "addr:housenumber":"5114",
+    "addr:postcode":"97266",
+    "addr:street":"Se 115Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.544481,45.486191,-122.544481,45.486191",
     "geom:latitude":45.486191,
     "geom:longitude":-122.544481,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"261dacf4ea54ccdbde322f67ac1df0a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":387945889
         }
     ],
     "wof:id":387945889,
-    "wof:lastmodified":1466775446,
+    "wof:lastmodified":1486771956,
     "wof:name":"Landeros Construction",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

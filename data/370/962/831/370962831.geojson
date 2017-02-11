@@ -2,9 +2,14 @@
   "id": 370962831,
   "type": "Feature",
   "properties": {
+    "addr:full":"5706 SW Illinois St Portland OR 97221",
+    "addr:housenumber":"5706",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Illinois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737273,45.479311,-122.737273,45.479311",
     "geom:latitude":45.479311,
     "geom:longitude":-122.737273,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871499
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"a0a3f3862238dcfd37a2a6526b54afcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
             "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":370962831
         }
     ],
     "wof:id":370962831,
-    "wof:lastmodified":1466774991,
+    "wof:lastmodified":1486774192,
     "wof:name":"Thin Man Ivory",
-    "wof:parent_id":85871499,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

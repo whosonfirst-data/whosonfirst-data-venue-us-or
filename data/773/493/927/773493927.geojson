@@ -2,9 +2,14 @@
   "id": 773493927,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 SW 2nd Ave Portland OR 97204",
+    "addr:housenumber":"601",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674477,45.518128,-122.674477,45.518128",
     "geom:latitude":45.518128,
     "geom:longitude":-122.674477,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773493927
         }
     ],
     "wof:id":773493927,
-    "wof:lastmodified":1466774912,
+    "wof:lastmodified":1486764121,
     "wof:name":"Ods Companies",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

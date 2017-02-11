@@ -2,9 +2,14 @@
   "id": 354404633,
   "type": "Feature",
   "properties": {
+    "addr:full":"4412 SW Barbur Blvd Portland OR 97239",
+    "addr:housenumber":"4412",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.677017,45.492113,-122.677017,45.492113",
     "geom:latitude":45.492113,
     "geom:longitude":-122.677017,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714051,
+        85849969,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85849969
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"fbb89c68090f919a3519d2312a75c5e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714051,
             "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":354404633
         }
     ],
     "wof:id":354404633,
-    "wof:lastmodified":1466771385,
+    "wof:lastmodified":1486773652,
     "wof:name":"Arthrtis Fundation Ore Chapter",
-    "wof:parent_id":85849969,
+    "wof:parent_id":1108714051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

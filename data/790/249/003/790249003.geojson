@@ -2,9 +2,14 @@
   "id": 790249003,
   "type": "Feature",
   "properties": {
+    "addr:full":"929 N. Russel St. Portland OR 97253",
+    "addr:housenumber":"929",
+    "addr:postcode":"97253",
+    "addr:street":"N. Russel St.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676247,45.541016,-122.676247,45.541016",
     "geom:latitude":45.541016,
     "geom:longitude":-122.676247,
@@ -26,12 +31,13 @@
     "sg:website":"www.widmer.com/gasthaus.aspx",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":790249003
         }
     ],
     "wof:id":790249003,
-    "wof:lastmodified":1466772645,
+    "wof:lastmodified":1486768569,
     "wof:name":"Widmer Brothers",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

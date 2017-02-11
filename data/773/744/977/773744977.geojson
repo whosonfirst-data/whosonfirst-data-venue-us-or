@@ -2,9 +2,14 @@
   "id": 773744977,
   "type": "Feature",
   "properties": {
+    "addr:full":"8257 SE 32nd Ave Portland OR 97202",
+    "addr:housenumber":"8257",
+    "addr:postcode":"97202",
+    "addr:street":"Se 32Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629874,45.463189,-122.629874,45.463189",
     "geom:latitude":45.463189,
     "geom:longitude":-122.629874,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85803429,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85803429
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85803429,
             "region_id":85688513,
             "venue_id":773744977
         }
     ],
     "wof:id":773744977,
-    "wof:lastmodified":1466775910,
+    "wof:lastmodified":1486769365,
     "wof:name":"Majic Works",
     "wof:parent_id":85803429,
     "wof:placetype":"venue",

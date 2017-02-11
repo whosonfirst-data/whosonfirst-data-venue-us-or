@@ -2,9 +2,14 @@
   "id": 790240315,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 SW Macadam Ave # 180 Portland OR 97239",
+    "addr:housenumber":"5100",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Macadam Ave # 180",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675568,45.486469,-122.675568,45.486469",
     "geom:latitude":45.486469,
     "geom:longitude":-122.675568,
@@ -35,12 +40,14 @@
     "sg:website":"http://www.guardianlife.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714049,
+        85849969,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893175
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893175,
+            "macrohood_id":1108714057,
+            "microhood_id":1108714049,
+            "neighbourhood_id":85849969,
             "region_id":85688513,
             "venue_id":790240315
         }
     ],
     "wof:id":790240315,
-    "wof:lastmodified":1466772219,
+    "wof:lastmodified":1486773616,
     "wof:name":"The Guardian Life Insurance Company Of America",
-    "wof:parent_id":85893175,
+    "wof:parent_id":1108714049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

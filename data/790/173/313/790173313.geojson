@@ -2,9 +2,14 @@
   "id": 790173313,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 N Borthwick Avenue Portland OR 97227",
+    "addr:housenumber":"4010",
+    "addr:postcode":"97227",
+    "addr:street":"N Borthwick Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673247,45.552175,-122.673247,45.552175",
     "geom:latitude":45.552175,
     "geom:longitude":-122.673247,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893207
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893207,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":790173313
         }
     ],
     "wof:id":790173313,
-    "wof:lastmodified":1466770706,
+    "wof:lastmodified":1486771515,
     "wof:name":"Albina Head Start",
-    "wof:parent_id":85893207,
+    "wof:parent_id":85893159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

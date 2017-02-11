@@ -2,9 +2,14 @@
   "id": 790037861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3267 SE Hawthorne Blvd Portland OR 97214",
+    "addr:housenumber":"3267",
+    "addr:postcode":"97214",
+    "addr:street":"Se Hawthorne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631377,45.512055,-122.631377,45.512055",
     "geom:latitude":45.512055,
     "geom:longitude":-122.631377,
@@ -26,12 +31,14 @@
     "sg:website":"www.golddustmeridian.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867133
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867133,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
+            "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790037861
         }
     ],
     "wof:id":790037861,
-    "wof:lastmodified":1466767836,
+    "wof:lastmodified":1486773689,
     "wof:name":"Gold Dust Meridian",
-    "wof:parent_id":85867133,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

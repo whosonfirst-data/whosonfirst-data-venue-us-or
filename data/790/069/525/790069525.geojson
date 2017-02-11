@@ -2,9 +2,14 @@
   "id": 790069525,
   "type": "Feature",
   "properties": {
+    "addr:full":"4557 NE 60th Avenue Portland OR 97218",
+    "addr:housenumber":"4557",
+    "addr:postcode":"97218",
+    "addr:street":"Ne 60Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601037,45.556306,-122.601037,45.556306",
     "geom:latitude":45.556306,
     "geom:longitude":-122.601037,
@@ -24,7 +29,15 @@
     "sg:postcode":"97218",
     "sg:province":"OR",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893177,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AFq8rZ3dqaAmWAinUk0yX_45.556306_-122.601037@1303263421"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462592887,
     "wof:geomhash":"11b90b21ed56e153fd163de8c2dff517",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893177,
+            "region_id":85688513,
+            "venue_id":790069525
+        }
+    ],
     "wof:id":790069525,
-    "wof:lastmodified":1466768528,
+    "wof:lastmodified":1486771587,
     "wof:name":"Family Tradition Tattooing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

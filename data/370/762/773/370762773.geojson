@@ -2,9 +2,14 @@
   "id": 370762773,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 SE Grand Ave Portland OR 97214",
+    "addr:housenumber":"532",
+    "addr:postcode":"97214",
+    "addr:street":"Se Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.660659,45.518885,-122.660659,45.518885",
     "geom:latitude":45.518885,
     "geom:longitude":-122.660659,
@@ -26,11 +31,14 @@
     "sg:website":"www.roseandraindrop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +48,21 @@
     "wof:geomhash":"dd4ddd3ccc38e0a363687a54869f3583",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":370762773
         }
     ],
     "wof:id":370762773,
-    "wof:lastmodified":1466773871,
+    "wof:lastmodified":1486773456,
     "wof:name":"Rose & Raindrop",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

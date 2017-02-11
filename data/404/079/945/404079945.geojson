@@ -2,9 +2,14 @@
   "id": 404079945,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 SE Stark St Portland OR 97215",
+    "addr:housenumber":"8000",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580508,45.519144,-122.580508,45.519144",
     "geom:latitude":45.519144,
     "geom:longitude":-122.580508,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"dddc89c11f1245e60ad3b6d8147226a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":404079945
         }
     ],
     "wof:id":404079945,
-    "wof:lastmodified":1466769933,
+    "wof:lastmodified":1486769595,
     "wof:name":"Lewis Rentals",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

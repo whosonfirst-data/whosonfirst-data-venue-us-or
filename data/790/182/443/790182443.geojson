@@ -2,9 +2,14 @@
   "id": 790182443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 NW Miller Rd B308 Portland OR 97229",
+    "addr:housenumber":"1940",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Miller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.778247,45.537024,-122.778247,45.537024",
     "geom:latitude":45.537024,
     "geom:longitude":-122.778247,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":790182443
         }
     ],
     "wof:id":790182443,
-    "wof:lastmodified":1466771102,
+    "wof:lastmodified":1486763377,
     "wof:name":"Portland Telecom Llc-",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

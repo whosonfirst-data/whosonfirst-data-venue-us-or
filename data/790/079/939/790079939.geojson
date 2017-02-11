@@ -2,9 +2,14 @@
   "id": 790079939,
   "type": "Feature",
   "properties": {
+    "addr:full":"5908 SW Texas St Portland OR 97219",
+    "addr:housenumber":"5908",
+    "addr:postcode":"97219",
+    "addr:street":"Sw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.737649,45.473929,-122.737649,45.473929",
     "geom:latitude":45.473929,
     "geom:longitude":-122.737649,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85832347,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85832347,
             "region_id":85688513,
             "venue_id":790079939
         }
     ],
     "wof:id":790079939,
-    "wof:lastmodified":1466767160,
+    "wof:lastmodified":1486764892,
     "wof:name":"Culver Mobile Home Park",
     "wof:parent_id":85832347,
     "wof:placetype":"venue",

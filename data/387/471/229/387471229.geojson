@@ -2,9 +2,14 @@
   "id": 387471229,
   "type": "Feature",
   "properties": {
+    "addr:full":"3212 SE Ankeny St Portland OR 97214",
+    "addr:housenumber":"3212",
+    "addr:postcode":"97214",
+    "addr:street":"Se Ankeny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.631833,45.522038,-122.631833,45.522038",
     "geom:latitude":45.522038,
     "geom:longitude":-122.631833,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"e24abfdd4f6de7dbcf14ccae9d7d5352",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":387471229
         }
     ],
     "wof:id":387471229,
-    "wof:lastmodified":1466773090,
+    "wof:lastmodified":1486769525,
     "wof:name":"Union Gospel Ministries",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354374849,
   "type": "Feature",
   "properties": {
+    "addr:full":"3853 NW Devoto Ln Portland OR 97229",
+    "addr:housenumber":"3853",
+    "addr:postcode":"97229",
+    "addr:street":"Nw Devoto Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.77404,45.551159,-122.77404,45.551159",
     "geom:latitude":45.551159,
     "geom:longitude":-122.77404,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893259
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"71b8ed1694b285cf863e3b3f524efb4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893259,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":354374849
         }
     ],
     "wof:id":354374849,
-    "wof:lastmodified":1466770854,
+    "wof:lastmodified":1486770918,
     "wof:name":"Yasaman Consulting",
-    "wof:parent_id":85893259,
+    "wof:parent_id":85871477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354307931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2166 SE 142nd Ave Portland OR 97233",
+    "addr:housenumber":"2166",
+    "addr:postcode":"97233",
+    "addr:street":"Se 142Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.517191,45.508367,-122.517191,45.508367",
     "geom:latitude":45.508367,
     "geom:longitude":-122.517191,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"5807fbfe406477346228fdd1d7773409",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":354307931
         }
     ],
     "wof:id":354307931,
-    "wof:lastmodified":1466769600,
+    "wof:lastmodified":1486767645,
     "wof:name":"Johns Carpet Service",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790013995,
   "type": "Feature",
   "properties": {
+    "addr:full":"6411 NE Broadway St Portland OR 97213",
+    "addr:housenumber":"6411",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597361,45.53508,-122.597361,45.53508",
     "geom:latitude":45.53508,
     "geom:longitude":-122.597361,
@@ -37,12 +42,13 @@
     "sg:website":"www.portlandmuttstrut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":790013995
         }
     ],
     "wof:id":790013995,
-    "wof:lastmodified":1466767629,
+    "wof:lastmodified":1486770381,
     "wof:name":"Portland Mutt Strut, LLC",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

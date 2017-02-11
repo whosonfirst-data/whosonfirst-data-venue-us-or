@@ -2,9 +2,14 @@
   "id": 790036687,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 SE Cesar E Chavez Blvd Ste A Portland OR 97214",
+    "addr:housenumber":"1402",
+    "addr:postcode":"97214",
+    "addr:street":"Se Cesar E Chavez Blvd Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.622908,45.512843,-122.622908,45.512843",
     "geom:latitude":45.512843,
     "geom:longitude":-122.622908,
@@ -32,12 +37,14 @@
     "sg:website":"http://www.healthypetsnw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108715777,
+        85851483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108715777,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":790036687
         }
     ],
     "wof:id":790036687,
-    "wof:lastmodified":1466767826,
+    "wof:lastmodified":1486773696,
     "wof:name":"Healthy Pets Northwest",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108715777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

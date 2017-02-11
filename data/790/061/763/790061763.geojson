@@ -2,9 +2,14 @@
   "id": 790061763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 N Humboldt Street Portland OR 97217",
+    "addr:housenumber":"1710",
+    "addr:postcode":"97217",
+    "addr:street":"N Humboldt Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686089,45.558523,-122.686089,45.558523",
     "geom:latitude":45.558523,
     "geom:longitude":-122.686089,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790061763
         }
     ],
     "wof:id":790061763,
-    "wof:lastmodified":1466768321,
+    "wof:lastmodified":1486771858,
     "wof:name":"Schools Public",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

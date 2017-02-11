@@ -2,9 +2,14 @@
   "id": 387275793,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 NE Ambassador Pl Portland OR 97220",
+    "addr:housenumber":"7700",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Ambassador Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57118,45.578162,-122.57118,45.578162",
     "geom:latitude":45.578162,
     "geom:longitude":-122.57118,
@@ -25,11 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        102532251,
+        1108721307,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85819307
+        85688513
     ],
     "wof:brand_id":420573797,
     "wof:breaches":[],
@@ -40,19 +48,21 @@
     "wof:geomhash":"49b957fc2d321ca611994d588d332e30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102532251,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85819307,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":1108721307,
             "region_id":85688513,
             "venue_id":387275793
         }
     ],
     "wof:id":387275793,
-    "wof:lastmodified":1466771635,
+    "wof:lastmodified":1486772345,
     "wof:name":"Walgreens",
-    "wof:parent_id":85819307,
+    "wof:parent_id":102532251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

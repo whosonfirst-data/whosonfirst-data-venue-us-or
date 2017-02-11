@@ -2,9 +2,14 @@
   "id": 387266609,
   "type": "Feature",
   "properties": {
+    "addr:full":"10650 NE Sacramento St Portland OR 97220",
+    "addr:housenumber":"10650",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sacramento St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.555388,45.539398,-122.555388,45.539398",
     "geom:latitude":45.539398,
     "geom:longitude":-122.555388,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868989
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"a7cb8b69f9dc3c70c59a5fa8018ab79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868989,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":387266609
         }
     ],
     "wof:id":387266609,
-    "wof:lastmodified":1466771539,
+    "wof:lastmodified":1486771887,
     "wof:name":"Photo Comm Inc",
-    "wof:parent_id":85868989,
+    "wof:parent_id":85893223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773829913,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 SW 11th Ave Portland OR 97205",
+    "addr:housenumber":"409",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681999,45.522202,-122.681999,45.522202",
     "geom:latitude":45.522202,
     "geom:longitude":-122.681999,
@@ -26,12 +31,13 @@
     "sg:website":"www.markspencer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773829913
         }
     ],
     "wof:id":773829913,
-    "wof:lastmodified":1466775908,
+    "wof:lastmodified":1486770192,
     "wof:name":"The Mark Spencer Hotel",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

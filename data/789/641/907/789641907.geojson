@@ -2,9 +2,14 @@
   "id": 789641907,
   "type": "Feature",
   "properties": {
+    "addr:full":"7937 SE 13th Ave Portland OR 97202",
+    "addr:housenumber":"7937",
+    "addr:postcode":"97202",
+    "addr:street":"Se 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65301,45.46669,-122.65301,45.46669",
     "geom:latitude":45.46669,
     "geom:longitude":-122.65301,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868965
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868965,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789641907
         }
     ],
     "wof:id":789641907,
-    "wof:lastmodified":1466769229,
+    "wof:lastmodified":1486770489,
     "wof:name":"Thai Lahnna",
-    "wof:parent_id":85868965,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

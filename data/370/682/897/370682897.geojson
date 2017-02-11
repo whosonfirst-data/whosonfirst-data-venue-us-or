@@ -2,9 +2,14 @@
   "id": 370682897,
   "type": "Feature",
   "properties": {
+    "addr:full":"3728 SE Yamhill St Portland OR 97214",
+    "addr:housenumber":"3728",
+    "addr:postcode":"97214",
+    "addr:street":"Se Yamhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.62472,45.515655,-122.62472,45.515655",
     "geom:latitude":45.515655,
     "geom:longitude":-122.62472,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7d0eb50077353c64efc61a283fec0720",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":370682897
         }
     ],
     "wof:id":370682897,
-    "wof:lastmodified":1466773354,
+    "wof:lastmodified":1486769902,
     "wof:name":"Echo Imaging",
     "wof:parent_id":85851483,
     "wof:placetype":"venue",

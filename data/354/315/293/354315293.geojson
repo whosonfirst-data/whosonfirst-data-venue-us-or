@@ -2,9 +2,14 @@
   "id": 354315293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 SE 82nd Ave Portland OR 97216",
+    "addr:housenumber":"1550",
+    "addr:postcode":"97216",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578668,45.511311,-122.578668,45.511311",
     "geom:latitude":45.511311,
     "geom:longitude":-122.578668,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"bc4133bc34df9ef058961cbd308734ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":354315293
         }
     ],
     "wof:id":354315293,
-    "wof:lastmodified":1466769708,
+    "wof:lastmodified":1486769585,
     "wof:name":"Donahue Auto Sales",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

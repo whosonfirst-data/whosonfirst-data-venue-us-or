@@ -2,9 +2,14 @@
   "id": 773546667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1328 NE 51st Ave Portland OR 97213",
+    "addr:housenumber":"1328",
+    "addr:postcode":"97213",
+    "addr:street":"Ne 51St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.611222,45.532794,-122.611222,45.532794",
     "geom:latitude":45.532794,
     "geom:longitude":-122.611222,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85826019
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85826019,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":773546667
         }
     ],
     "wof:id":773546667,
-    "wof:lastmodified":1466775235,
+    "wof:lastmodified":1486770390,
     "wof:name":"Homes Ink",
-    "wof:parent_id":85826019,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

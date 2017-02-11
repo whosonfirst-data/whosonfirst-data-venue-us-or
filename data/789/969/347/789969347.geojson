@@ -2,9 +2,14 @@
   "id": 789969347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1705 NW 25th Ave Portland OR 97210",
+    "addr:housenumber":"1705",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 25Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702821,45.534728,-122.702821,45.534728",
     "geom:latitude":45.534728,
     "geom:longitude":-122.702821,
@@ -42,12 +47,13 @@
     "sg:website":"http://www.wallyhood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789969347
         }
     ],
     "wof:id":789969347,
-    "wof:lastmodified":1466772789,
+    "wof:lastmodified":1486762841,
     "wof:name":"Wallace Creative Inc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

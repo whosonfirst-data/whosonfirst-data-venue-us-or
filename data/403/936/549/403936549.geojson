@@ -2,9 +2,14 @@
   "id": 403936549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 NW 16th Ave Portland OR 97209",
+    "addr:housenumber":"1111",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687589,45.531345,-122.687589,45.531345",
     "geom:latitude":45.531345,
     "geom:longitude":-122.687589,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"55bd73f586560cd9064c1d60335b8101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":403936549
         }
     ],
     "wof:id":403936549,
-    "wof:lastmodified":1466768019,
+    "wof:lastmodified":1486771174,
     "wof:name":"Food Services Of America",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

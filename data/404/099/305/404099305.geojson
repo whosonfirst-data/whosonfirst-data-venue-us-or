@@ -2,9 +2,14 @@
   "id": 404099305,
   "type": "Feature",
   "properties": {
+    "addr:full":"4584 NE 35th Ave Portland OR 97211",
+    "addr:housenumber":"4584",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628565,45.555412,-122.628565,45.555412",
     "geom:latitude":45.555412,
     "geom:longitude":-122.628565,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893155,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"ecefa09ee8277a8bfacd2aa4ae59edf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893149,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893155,
             "region_id":85688513,
             "venue_id":404099305
         }
     ],
     "wof:id":404099305,
-    "wof:lastmodified":1466770521,
+    "wof:lastmodified":1486771498,
     "wof:name":"Arcadia Construction Inc",
-    "wof:parent_id":85893149,
+    "wof:parent_id":85893155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773695591,
   "type": "Feature",
   "properties": {
+    "addr:full":"11712 SE Powell Blvd Portland OR 97266",
+    "addr:housenumber":"11712",
+    "addr:postcode":"97266",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.542356,45.496846,-122.542356,45.496846",
     "geom:latitude":45.496846,
     "geom:longitude":-122.542356,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893227,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893227
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893227,
             "region_id":85688513,
             "venue_id":773695591
         }
     ],
     "wof:id":773695591,
-    "wof:lastmodified":1466775734,
+    "wof:lastmodified":1486771923,
     "wof:name":"Powell Terrace",
     "wof:parent_id":85893227,
     "wof:placetype":"venue",

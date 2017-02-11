@@ -2,9 +2,14 @@
   "id": 387625841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 SW River Sq Portland OR 97201",
+    "addr:housenumber":"1811",
+    "addr:postcode":"97201",
+    "addr:street":"Sw River Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674577,45.508637,-122.674577,45.508637",
     "geom:latitude":45.508637,
     "geom:longitude":-122.674577,
@@ -30,11 +35,13 @@
     "sg:website":"www.obeidi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"853bdcd1a1cf69ac997a5a9f798bf432",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387625841
         }
     ],
     "wof:id":387625841,
-    "wof:lastmodified":1466774078,
+    "wof:lastmodified":1486770261,
     "wof:name":"Obeidi's Sinclair's Framing",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

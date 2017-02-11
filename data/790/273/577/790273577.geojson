@@ -2,9 +2,14 @@
   "id": 790273577,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 10624 Portland OR 97296",
+    "addr:housenumber":"po box 10624",
+    "addr:postcode":"97296",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702587,45.534852,-122.702587,45.534852",
     "geom:latitude":45.534852,
     "geom:longitude":-122.702587,
@@ -34,12 +39,13 @@
     "sg:website":"www.modifiedstyle.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":790273577
         }
     ],
     "wof:id":790273577,
-    "wof:lastmodified":1466772889,
+    "wof:lastmodified":1486763133,
     "wof:name":"Modified Style",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

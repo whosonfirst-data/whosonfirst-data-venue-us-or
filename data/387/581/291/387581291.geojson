@@ -2,9 +2,14 @@
   "id": 387581291,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 SE 47th Ave Portland OR 97215",
+    "addr:housenumber":"602",
+    "addr:postcode":"97215",
+    "addr:street":"Se 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.614541,45.517256,-122.614541,45.517256",
     "geom:latitude":45.517256,
     "geom:longitude":-122.614541,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713507,
+        85851483,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85851483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"46735cc48e1b472ec12c9cc1fa94e4b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713507,
             "neighbourhood_id":85851483,
             "region_id":85688513,
             "venue_id":387581291
         }
     ],
     "wof:id":387581291,
-    "wof:lastmodified":1466773928,
+    "wof:lastmodified":1486773385,
     "wof:name":"Yorck Franken Construction",
-    "wof:parent_id":85851483,
+    "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

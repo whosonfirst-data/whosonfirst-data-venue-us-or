@@ -2,9 +2,14 @@
   "id": 773190681,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 SE Windsor Ct Portland OR 97206",
+    "addr:housenumber":"4625",
+    "addr:postcode":"97206",
+    "addr:street":"Se Windsor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.614949,45.50478,-122.614949,45.50478",
     "geom:latitude":45.50478,
     "geom:longitude":-122.614949,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871465,
-        85893241
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
             "neighbourhood_id":85871465,
-            "region_id":85688513,
-            "venue_id":773190681
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85893241,
             "region_id":85688513,
             "venue_id":773190681
         }
     ],
     "wof:id":773190681,
-    "wof:lastmodified":1466771138,
+    "wof:lastmodified":1486773671,
     "wof:name":"White Llly Creative Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

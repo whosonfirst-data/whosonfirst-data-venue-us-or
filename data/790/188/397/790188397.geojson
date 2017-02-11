@@ -2,9 +2,14 @@
   "id": 790188397,
   "type": "Feature",
   "properties": {
+    "addr:full":"8705 NW Hazeltine St Portland OR 97229",
+    "addr:housenumber":"8705",
+    "addr:postcode":"97229",
+    "addr:street":"Nw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.766844,45.535384,-122.766844,45.535384",
     "geom:latitude":45.535384,
     "geom:longitude":-122.766844,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871477,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871477
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871477,
             "region_id":85688513,
             "venue_id":790188397
         }
     ],
     "wof:id":790188397,
-    "wof:lastmodified":1466771321,
+    "wof:lastmodified":1486763277,
     "wof:name":"Later Life Moves Nw",
     "wof:parent_id":85871477,
     "wof:placetype":"venue",

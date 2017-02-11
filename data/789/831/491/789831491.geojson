@@ -2,9 +2,14 @@
   "id": 789831491,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 SE Woodstock Blvd Portland OR 97201",
+    "addr:housenumber":"4515",
+    "addr:postcode":"97201",
+    "addr:street":"Se Woodstock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632327,45.479259,-122.632327,45.479259",
     "geom:latitude":45.479259,
     "geom:longitude":-122.632327,
@@ -26,12 +31,13 @@
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789831491
         }
     ],
     "wof:id":789831491,
-    "wof:lastmodified":1466769742,
+    "wof:lastmodified":1486770979,
     "wof:name":"Wells Fargo",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

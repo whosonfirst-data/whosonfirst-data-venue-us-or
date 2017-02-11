@@ -2,9 +2,14 @@
   "id": 790055463,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 N Killingsworth Ct Portland OR 97217",
+    "addr:housenumber":"924",
+    "addr:postcode":"97217",
+    "addr:street":"N Killingsworth Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676696,45.561718,-122.676696,45.561718",
     "geom:latitude":45.561718,
     "geom:longitude":-122.676696,
@@ -29,12 +34,13 @@
     "sg:website":"www.modernartphotograph.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":790055463
         }
     ],
     "wof:id":790055463,
-    "wof:lastmodified":1466768183,
+    "wof:lastmodified":1486768595,
     "wof:name":"Modern Art Photograph",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

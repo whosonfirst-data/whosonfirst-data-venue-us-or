@@ -2,9 +2,14 @@
   "id": 790071711,
   "type": "Feature",
   "properties": {
+    "addr:full":"6684 SW Capitol Hwy Portland OR 97219",
+    "addr:housenumber":"6684",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.705768,45.476181,-122.705768,45.476181",
     "geom:latitude":45.476181,
     "geom:longitude":-122.705768,
@@ -26,12 +31,13 @@
     "sg:website":"www.ChabadOregon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893245
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893245,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790071711
         }
     ],
     "wof:id":790071711,
-    "wof:lastmodified":1466768586,
+    "wof:lastmodified":1486769433,
     "wof:name":"Congregation Chabad",
-    "wof:parent_id":85893245,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

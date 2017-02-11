@@ -2,9 +2,14 @@
   "id": 371105943,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 SW 3rd Ave Portland OR 97204",
+    "addr:housenumber":"920",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676504,45.516365,-122.676504,45.516365",
     "geom:latitude":45.516365,
     "geom:longitude":-122.676504,
@@ -35,11 +40,13 @@
     "sg:website":"www.immunix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"f2e43e34970b3c72525b32576b36218f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":371105943
         }
     ],
     "wof:id":371105943,
-    "wof:lastmodified":1466768894,
+    "wof:lastmodified":1486763870,
     "wof:name":"Immunix",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

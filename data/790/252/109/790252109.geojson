@@ -2,9 +2,14 @@
   "id": 790252109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1334 SE 14th Portland OR 97255",
+    "addr:housenumber":"1334",
+    "addr:postcode":"97255",
+    "addr:street":"Se 14Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651644,45.51299,-122.651644,45.51299",
     "geom:latitude":45.51299,
     "geom:longitude":-122.651644,
@@ -26,12 +31,13 @@
     "sg:website":"www.thececilia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871515
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790252109
         }
     ],
     "wof:id":790252109,
-    "wof:lastmodified":1466772538,
+    "wof:lastmodified":1486767222,
     "wof:name":"the cecilia",
     "wof:parent_id":85871515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773498785,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 SE 148th Ave Portland OR 97233",
+    "addr:housenumber":"261",
+    "addr:postcode":"97233",
+    "addr:street":"Se 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510755,45.520624,-122.510755,45.520624",
     "geom:latitude":45.520624,
     "geom:longitude":-122.510755,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893187,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893187
+        85688513,
+        85868947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893187,
+            "region_id":85688513,
+            "venue_id":773498785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":773498785
         }
     ],
     "wof:id":773498785,
-    "wof:lastmodified":1466774856,
+    "wof:lastmodified":1486770729,
     "wof:name":"Cedar Tree Apartments",
-    "wof:parent_id":85893187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789977425,
   "type": "Feature",
   "properties": {
+    "addr:full":"2202 NW Roosevelt St Portland OR 97210",
+    "addr:housenumber":"2202",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697234,45.538361,-122.697234,45.538361",
     "geom:latitude":45.538361,
     "geom:longitude":-122.697234,
@@ -29,12 +34,13 @@
     "sg:website":"crossfitxfactor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789977425
         }
     ],
     "wof:id":789977425,
-    "wof:lastmodified":1466772823,
+    "wof:lastmodified":1486762950,
     "wof:name":"Crossfit X-Factor",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

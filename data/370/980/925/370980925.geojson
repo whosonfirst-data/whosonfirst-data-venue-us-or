@@ -2,9 +2,14 @@
   "id": 370980925,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 NW 17th Ave Portland OR 97209",
+    "addr:housenumber":"818",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688362,45.529134,-122.688362,45.529134",
     "geom:latitude":45.529134,
     "geom:longitude":-122.688362,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85893253
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +57,20 @@
     "wof:geomhash":"b0458e9f2ba29d417814d273bc04d37f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893253,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":370980925
         }
     ],
     "wof:id":370980925,
-    "wof:lastmodified":1466775127,
+    "wof:lastmodified":1486771158,
     "wof:name":"Raymond W Peterson Assoc",
-    "wof:parent_id":85893253,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

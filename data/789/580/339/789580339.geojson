@@ -2,9 +2,14 @@
   "id": 789580339,
   "type": "Feature",
   "properties": {
+    "addr:full":"14634 SE Market Ct Portland OR 97233",
+    "addr:housenumber":"14634",
+    "addr:postcode":"97233",
+    "addr:street":"Se Market Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.512738,45.512031,-122.512738,45.512031",
     "geom:latitude":45.512031,
     "geom:longitude":-122.512738,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.positivelyentertainment.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":789580339
         }
     ],
     "wof:id":789580339,
-    "wof:lastmodified":1466767960,
+    "wof:lastmodified":1486766874,
     "wof:name":"Crooked Arrow Publishing",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

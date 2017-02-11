@@ -2,9 +2,14 @@
   "id": 790230509,
   "type": "Feature",
   "properties": {
+    "addr:full":"6636 SE 142nd Ave Portland OR 97236",
+    "addr:housenumber":"6636",
+    "addr:postcode":"97236",
+    "addr:street":"Se 142Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516998,45.475201,-122.516998,45.475201",
     "geom:latitude":45.475201,
     "geom:longitude":-122.516998,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536131,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85858087
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85858087,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536131,
             "region_id":85688513,
             "venue_id":790230509
         }
     ],
     "wof:id":790230509,
-    "wof:lastmodified":1466772064,
+    "wof:lastmodified":1486772203,
     "wof:name":"Body & Soul Creative Dance",
-    "wof:parent_id":85858087,
+    "wof:parent_id":420536131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

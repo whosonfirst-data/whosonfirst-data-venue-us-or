@@ -2,9 +2,14 @@
   "id": 404077763,
   "type": "Feature",
   "properties": {
+    "addr:full":"7739 SW 10th Ave Portland OR 97219",
+    "addr:housenumber":"7739",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.688687,45.468466,-122.688687,45.468466",
     "geom:latitude":45.468466,
     "geom:longitude":-122.688687,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420536125,
+        102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"a5cee4a6af35cadd77f3a36f4b7619fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420536125,
             "region_id":85688513,
             "venue_id":404077763
         }
     ],
     "wof:id":404077763,
-    "wof:lastmodified":1466769866,
+    "wof:lastmodified":1486764061,
     "wof:name":"M T Price Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

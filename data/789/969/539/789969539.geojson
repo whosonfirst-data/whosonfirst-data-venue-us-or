@@ -2,9 +2,14 @@
   "id": 789969539,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 NW Flanders St Portland OR 97210",
+    "addr:housenumber":"2250",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Flanders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697446,45.525536,-122.697446,45.525536",
     "geom:latitude":45.525536,
     "geom:longitude":-122.697446,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108718923,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "microhood_id":1108718923,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789969539
         }
     ],
     "wof:id":789969539,
-    "wof:lastmodified":1466772664,
+    "wof:lastmodified":1486773752,
     "wof:name":"Trust It",
-    "wof:parent_id":85867141,
+    "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

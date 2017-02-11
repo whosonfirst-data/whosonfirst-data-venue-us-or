@@ -2,9 +2,14 @@
   "id": 790029211,
   "type": "Feature",
   "properties": {
+    "addr:full":"685 SW 11th Ave Portland OR 97214",
+    "addr:housenumber":"685",
+    "addr:postcode":"97214",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.682308,45.527849,-122.682308,45.527849",
     "geom:latitude":45.527849,
     "geom:longitude":-122.682308,
@@ -31,12 +36,13 @@
     "sg:website":"http://sunsetcarpetcleaning.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":790029211
         }
     ],
     "wof:id":790029211,
-    "wof:lastmodified":1466767740,
+    "wof:lastmodified":1486770344,
     "wof:name":"Sunset Carpet Cleaning",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

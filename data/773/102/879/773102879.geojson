@@ -2,9 +2,14 @@
   "id": 773102879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3226 NE Glisan St Portland OR 97232",
+    "addr:housenumber":"3226",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.630426,45.526381,-122.630426,45.526381",
     "geom:latitude":45.526381,
     "geom:longitude":-122.630426,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85829959,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85829959,
             "region_id":85688513,
             "venue_id":773102879
         }
     ],
     "wof:id":773102879,
-    "wof:lastmodified":1466768175,
+    "wof:lastmodified":1486766539,
     "wof:name":"Estate Broker",
     "wof:parent_id":85829959,
     "wof:placetype":"venue",

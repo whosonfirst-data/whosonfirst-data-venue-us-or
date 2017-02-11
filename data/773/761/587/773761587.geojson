@@ -2,9 +2,14 @@
   "id": 773761587,
   "type": "Feature",
   "properties": {
+    "addr:full":"852 SW 21st Ave Portland OR 97205",
+    "addr:housenumber":"852",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694172,45.522218,-122.694172,45.522218",
     "geom:latitude":45.522218,
     "geom:longitude":-122.694172,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":773761587
         }
     ],
     "wof:id":773761587,
-    "wof:lastmodified":1466775928,
+    "wof:lastmodified":1486764899,
     "wof:name":"Bodies In Balance",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

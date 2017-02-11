@@ -2,9 +2,14 @@
   "id": 370350247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 SW Hall St Portland OR 97201",
+    "addr:housenumber":"1423",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Hall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691744,45.512732,-122.691744,45.512732",
     "geom:latitude":45.512732,
     "geom:longitude":-122.691744,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719767,
+        85867153,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85842887
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"98246b9e844fef2e16d63e59b78360b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842887,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719767,
+            "neighbourhood_id":85867153,
             "region_id":85688513,
             "venue_id":370350247
         }
     ],
     "wof:id":370350247,
-    "wof:lastmodified":1466770811,
+    "wof:lastmodified":1486773819,
     "wof:name":"B Sinclair Advertising Relatns",
-    "wof:parent_id":85842887,
+    "wof:parent_id":1108719767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

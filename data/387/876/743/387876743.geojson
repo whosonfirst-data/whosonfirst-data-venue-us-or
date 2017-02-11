@@ -2,9 +2,14 @@
   "id": 387876743,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 NE 114th Ave Portland OR 97220",
+    "addr:housenumber":"810",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 114Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.544579,45.52849,-122.544579,45.52849",
     "geom:latitude":45.52849,
     "geom:longitude":-122.544579,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"51d669cc2a01628d5a0ece46a89c6422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":387876743
         }
     ],
     "wof:id":387876743,
-    "wof:lastmodified":1466775217,
+    "wof:lastmodified":1486770754,
     "wof:name":"Gumba Enterprises  Inc",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

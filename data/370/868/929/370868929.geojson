@@ -2,9 +2,14 @@
   "id": 370868929,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 SE Foster Rd Portland OR 97206",
+    "addr:housenumber":"6400",
+    "addr:postcode":"97206",
+    "addr:street":"Se Foster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597443,45.489914,-122.597443,45.489914",
     "geom:latitude":45.489914,
     "geom:longitude":-122.597443,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893185
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"1ede406fd230aae1c7be44075c27d106",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893185,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":370868929
         }
     ],
     "wof:id":370868929,
-    "wof:lastmodified":1466774505,
+    "wof:lastmodified":1486771792,
     "wof:name":"Dave Fricks Karate",
-    "wof:parent_id":85893185,
+    "wof:parent_id":85893209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

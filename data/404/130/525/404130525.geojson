@@ -2,9 +2,14 @@
   "id": 404130525,
   "type": "Feature",
   "properties": {
+    "addr:full":"4675 N Concord Ave Portland OR 97217",
+    "addr:housenumber":"4675",
+    "addr:postcode":"97217",
+    "addr:street":"N Concord Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684932,45.55664,-122.684932,45.55664",
     "geom:latitude":45.55664,
     "geom:longitude":-122.684932,
@@ -29,11 +34,13 @@
     "sg:website":"www.gracewestonphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"e224a563a62e448663b04b493d5ce0cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893195,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":404130525
         }
     ],
     "wof:id":404130525,
-    "wof:lastmodified":1466771191,
+    "wof:lastmodified":1486771877,
     "wof:name":"Grace Weston Photography",
-    "wof:parent_id":85893195,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

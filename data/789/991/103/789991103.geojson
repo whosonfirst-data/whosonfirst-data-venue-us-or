@@ -2,9 +2,14 @@
   "id": 789991103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1313 NE Lombard Pl Portland OR 97211",
+    "addr:housenumber":"1313",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Lombard Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651625,45.577221,-122.651625,45.577221",
     "geom:latitude":45.577221,
     "geom:longitude":-122.651625,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893263
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":789991103
         }
     ],
     "wof:id":789991103,
-    "wof:lastmodified":1466773198,
+    "wof:lastmodified":1486768256,
     "wof:name":"Mikuni Wild Harvest, Inc.",
     "wof:parent_id":85893263,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773604905,
   "type": "Feature",
   "properties": {
+    "addr:full":"2411 NW Northrup St Portland OR 97210",
+    "addr:housenumber":"2411",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Northrup St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70254,45.53122,-122.70254,45.53122",
     "geom:latitude":45.53122,
     "geom:longitude":-122.70254,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":773604905
         }
     ],
     "wof:id":773604905,
-    "wof:lastmodified":1466775627,
+    "wof:lastmodified":1486763173,
     "wof:name":"Photorack",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",

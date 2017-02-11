@@ -2,9 +2,14 @@
   "id": 370693101,
   "type": "Feature",
   "properties": {
+    "addr:full":"8202 SE Flavel St Portland OR 97266",
+    "addr:housenumber":"8202",
+    "addr:postcode":"97266",
+    "addr:street":"Se Flavel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578014,45.468572,-122.578014,45.468572",
     "geom:latitude":45.468572,
     "geom:longitude":-122.578014,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
-        102082213,
-        85827985
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"6ad659b1b3d965e0c72528c558f8c618",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082213,
-            "locality_id":-1,
-            "neighbourhood_id":85827985,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
             "region_id":85688513,
             "venue_id":370693101
         }
     ],
     "wof:id":370693101,
-    "wof:lastmodified":1466773427,
+    "wof:lastmodified":1486769565,
     "wof:name":"Hong Kong Noodle & Cafe Inc",
-    "wof:parent_id":85827985,
+    "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

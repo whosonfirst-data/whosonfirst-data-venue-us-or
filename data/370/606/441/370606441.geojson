@@ -2,9 +2,14 @@
   "id": 370606441,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 N Vancouver Ave Portland OR 97227",
+    "addr:housenumber":"1920",
+    "addr:postcode":"97227",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66764,45.537909,-122.66764,45.537909",
     "geom:latitude":45.537909,
     "geom:longitude":-122.66764,
@@ -31,11 +36,13 @@
     "sg:website":"www.screammusic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871461,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871461
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"e477a9104b22c13ee75967231e721f69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85871461,
             "region_id":85688513,
             "venue_id":370606441
         }
     ],
     "wof:id":370606441,
-    "wof:lastmodified":1466773068,
+    "wof:lastmodified":1486769075,
     "wof:name":"Scream Music",
     "wof:parent_id":85871461,
     "wof:placetype":"venue",

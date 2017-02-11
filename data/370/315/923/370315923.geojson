@@ -2,9 +2,14 @@
   "id": 370315923,
   "type": "Feature",
   "properties": {
+    "addr:full":"3228 SW Sunset Blvd Portland OR 97239",
+    "addr:housenumber":"3228",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Sunset Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.709493,45.488649,-122.709493,45.488649",
     "geom:latitude":45.488649,
     "geom:longitude":-122.709493,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"c3b8207702b04b44ee6cb3d9870caf13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":370315923
         }
     ],
     "wof:id":370315923,
-    "wof:lastmodified":1466770136,
+    "wof:lastmodified":1486769442,
     "wof:name":"Sunset Pre-School",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

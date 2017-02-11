@@ -2,9 +2,14 @@
   "id": 790209745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2238 NE Glisan St Portland OR 97232",
+    "addr:housenumber":"2238",
+    "addr:postcode":"97232",
+    "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.643316,45.526523,-122.643316,45.526523",
     "geom:latitude":45.526523,
     "geom:longitude":-122.643316,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871495
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":790209745
         }
     ],
     "wof:id":790209745,
-    "wof:lastmodified":1466771860,
+    "wof:lastmodified":1486766294,
     "wof:name":"Anew Serenity Hypnosis Center,",
     "wof:parent_id":85871495,
     "wof:placetype":"venue",

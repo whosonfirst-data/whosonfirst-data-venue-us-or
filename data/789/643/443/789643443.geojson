@@ -2,9 +2,14 @@
   "id": 789643443,
   "type": "Feature",
   "properties": {
+    "addr:full":"11699 SW Barbur Blvd Portland OR 97219",
+    "addr:housenumber":"11699",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.743632,45.442986,-122.743632,45.442986",
     "geom:latitude":45.442986,
     "geom:longitude":-122.743632,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85853819
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85853819,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":789643443
         }
     ],
     "wof:id":789643443,
-    "wof:lastmodified":1466769240,
+    "wof:lastmodified":1486772401,
     "wof:name":"Taco Del Mar",
-    "wof:parent_id":85853819,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

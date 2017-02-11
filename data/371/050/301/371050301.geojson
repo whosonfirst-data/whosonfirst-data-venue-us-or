@@ -2,9 +2,14 @@
   "id": 371050301,
   "type": "Feature",
   "properties": {
+    "addr:full":"5530 NE 122nd Ave Portland OR 97230",
+    "addr:housenumber":"5530",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534711,45.563568,-122.534711,45.563568",
     "geom:latitude":45.563568,
     "geom:longitude":-122.534711,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893153,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85811205
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"20d7171a6f217afd74e747f933d8daf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85811205,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893153,
             "region_id":85688513,
             "venue_id":371050301
         }
     ],
     "wof:id":371050301,
-    "wof:lastmodified":1466767987,
+    "wof:lastmodified":1486771476,
     "wof:name":"A-Lift Elevator Co",
-    "wof:parent_id":85811205,
+    "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

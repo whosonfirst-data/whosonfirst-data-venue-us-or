@@ -2,9 +2,14 @@
   "id": 387736343,
   "type": "Feature",
   "properties": {
+    "addr:full":"5535 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"5535",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648451,45.482942,-122.648451,45.482942",
     "geom:latitude":45.482942,
     "geom:longitude":-122.648451,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85807897
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"d6d627fc21737d8f25e5cba081b901e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85807897,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":387736343
         }
     ],
     "wof:id":387736343,
-    "wof:lastmodified":1466774722,
+    "wof:lastmodified":1486770500,
     "wof:name":"Eco-Technic",
-    "wof:parent_id":85807897,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

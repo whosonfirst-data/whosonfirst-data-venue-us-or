@@ -2,9 +2,14 @@
   "id": 403841001,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 SW 19th Dr Portland OR 97239",
+    "addr:housenumber":"5100",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 19Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.697481,45.485568,-122.697481,45.485568",
     "geom:latitude":45.485568,
     "geom:longitude":-122.697481,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"7adba179052aca548dd05bd0f74770b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":403841001
         }
     ],
     "wof:id":403841001,
-    "wof:lastmodified":1466771488,
+    "wof:lastmodified":1486769444,
     "wof:name":"Pacific NW Surfacing",
-    "wof:parent_id":85847775,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

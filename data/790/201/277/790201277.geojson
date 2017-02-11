@@ -2,9 +2,14 @@
   "id": 790201277,
   "type": "Feature",
   "properties": {
+    "addr:full":"4314 NE 148th Ave Portland OR 97230",
+    "addr:housenumber":"4314",
+    "addr:postcode":"97230",
+    "addr:street":"Ne 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.510295,45.554268,-122.510295,45.554268",
     "geom:latitude":45.554268,
     "geom:longitude":-122.510295,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893261,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893153
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893153,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893261,
             "region_id":85688513,
             "venue_id":790201277
         }
     ],
     "wof:id":790201277,
-    "wof:lastmodified":1466771561,
+    "wof:lastmodified":1486772082,
     "wof:name":"B & G Quality Welding & Repair Inc",
-    "wof:parent_id":85893153,
+    "wof:parent_id":85893261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

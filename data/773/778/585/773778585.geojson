@@ -2,9 +2,14 @@
   "id": 773778585,
   "type": "Feature",
   "properties": {
+    "addr:full":"6916 SE Tenino St Portland OR 97206",
+    "addr:housenumber":"6916",
+    "addr:postcode":"97206",
+    "addr:street":"Se Tenino St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.591537,45.464089,-122.591537,45.464089",
     "geom:latitude":45.464089,
     "geom:longitude":-122.591537,
@@ -27,7 +32,15 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781227,
+        102191575,
+        1108715281,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ATvphk7ZvxABB89V3YX4U_45.464089_-122.591537@1294180530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462588308,
     "wof:geomhash":"2bc286cfb4b0d710191e908731c56dc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
+            "region_id":85688513,
+            "venue_id":773778585
+        }
+    ],
     "wof:id":773778585,
-    "wof:lastmodified":1466776132,
+    "wof:lastmodified":1486772250,
     "wof:name":"Willamette Valley Custom Crpnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

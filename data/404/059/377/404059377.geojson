@@ -2,9 +2,14 @@
   "id": 404059377,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 NE 33rd Ave Portland OR 97211",
+    "addr:housenumber":"6401",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 33Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.630727,45.569105,-122.630727,45.569105",
     "geom:latitude":45.569105,
     "geom:longitude":-122.630727,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893173
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2d34a04b936575da3dd29559144bd6fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":404059377
         }
     ],
     "wof:id":404059377,
-    "wof:lastmodified":1466769444,
+    "wof:lastmodified":1486768818,
     "wof:name":"Et TU Skin Care",
     "wof:parent_id":85893173,
     "wof:placetype":"venue",

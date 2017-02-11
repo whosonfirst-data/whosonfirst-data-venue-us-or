@@ -2,9 +2,14 @@
   "id": 789910827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 SW King Ave Ste 11 Portland OR 97205",
+    "addr:housenumber":"1012;11",
+    "addr:postcode":"97205",
+    "addr:street":"Sw King Ave Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.695,45.520901,-122.695,45.520901",
     "geom:latitude":45.520901,
     "geom:longitude":-122.695,
@@ -43,12 +48,13 @@
     "sg:website":"www.roberttrotman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789910827
         }
     ],
     "wof:id":789910827,
-    "wof:lastmodified":1466771947,
+    "wof:lastmodified":1486770974,
     "wof:name":"Trotman Robert Interior Design Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

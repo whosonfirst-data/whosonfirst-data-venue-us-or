@@ -2,9 +2,14 @@
   "id": 773243707,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 SE 143rd Ave Portland OR 97233",
+    "addr:housenumber":"715",
+    "addr:postcode":"97233",
+    "addr:street":"Se 143Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516307,45.516891,-122.516307,45.516891",
     "geom:latitude":45.516891,
     "geom:longitude":-122.516307,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893161,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893161,
             "region_id":85688513,
             "venue_id":773243707
         }
     ],
     "wof:id":773243707,
-    "wof:lastmodified":1466771938,
+    "wof:lastmodified":1486767645,
     "wof:name":"Driscoll Communications",
     "wof:parent_id":85893161,
     "wof:placetype":"venue",

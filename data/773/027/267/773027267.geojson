@@ -2,9 +2,14 @@
   "id": 773027267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2936 SW Taylors Ferry Rd Portland OR 97219",
+    "addr:housenumber":"2936",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Taylors Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70972,45.457086,-122.70972,45.457086",
     "geom:latitude":45.457086,
     "geom:longitude":-122.70972,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871489,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871489,
             "region_id":85688513,
             "venue_id":773027267
         }
     ],
     "wof:id":773027267,
-    "wof:lastmodified":1466770463,
+    "wof:lastmodified":1486764800,
     "wof:name":"Spare-Time Layouts",
     "wof:parent_id":85871489,
     "wof:placetype":"venue",

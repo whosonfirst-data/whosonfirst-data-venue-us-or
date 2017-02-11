@@ -2,9 +2,14 @@
   "id": 790056381,
   "type": "Feature",
   "properties": {
+    "addr:full":"5411 N Lagoon Ave Portland OR 97217",
+    "addr:housenumber":"5411",
+    "addr:postcode":"97217",
+    "addr:street":"N Lagoon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710375,45.56176,-122.710375,45.56176",
     "geom:latitude":45.56176,
     "geom:longitude":-122.710375,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.d-machine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85893221
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714605,
             "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":790056381
         }
     ],
     "wof:id":790056381,
-    "wof:lastmodified":1466768207,
+    "wof:lastmodified":1486766015,
     "wof:name":"Daimler Trucks North America",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",

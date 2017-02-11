@@ -2,9 +2,14 @@
   "id": 354359647,
   "type": "Feature",
   "properties": {
+    "addr:full":"10734 NE Skidmore St Portland OR 97220",
+    "addr:housenumber":"10734",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Skidmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553593,45.553502,-122.553593,45.553502",
     "geom:latitude":45.553502,
     "geom:longitude":-122.553593,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"95f87619496a1f8dd1a890ff927d80ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":354359647
         }
     ],
     "wof:id":354359647,
-    "wof:lastmodified":1466770538,
+    "wof:lastmodified":1486769302,
     "wof:name":"Syner-Giea",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

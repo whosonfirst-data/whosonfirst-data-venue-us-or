@@ -2,9 +2,14 @@
   "id": 789578053,
   "type": "Feature",
   "properties": {
+    "addr:full":"5437 SW Garden Home Rd Portland OR 97219",
+    "addr:housenumber":"5437",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.732642,45.464589,-122.732642,45.464589",
     "geom:latitude":45.464589,
     "geom:longitude":-122.732642,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108721343,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85832347
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85832347,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
             "region_id":85688513,
             "venue_id":789578053
         }
     ],
     "wof:id":789578053,
-    "wof:lastmodified":1466767912,
+    "wof:lastmodified":1486772407,
     "wof:name":"Fox Accounting & Tax",
-    "wof:parent_id":85832347,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

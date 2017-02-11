@@ -2,9 +2,14 @@
   "id": 790074067,
   "type": "Feature",
   "properties": {
+    "addr:full":"10629 SW 14th Dr Portland OR 97219",
+    "addr:housenumber":"10629",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 14Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.694265,45.448254,-122.694265,45.448254",
     "geom:latitude":45.448254,
     "geom:longitude":-122.694265,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781233,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85818135
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85818135,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781233,
             "region_id":85688513,
             "venue_id":790074067
         }
     ],
     "wof:id":790074067,
-    "wof:lastmodified":1466768625,
+    "wof:lastmodified":1486772291,
     "wof:name":"R O I Commercial Real Estate Inc",
-    "wof:parent_id":85818135,
+    "wof:parent_id":420781233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

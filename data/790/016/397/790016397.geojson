@@ -2,9 +2,14 @@
   "id": 790016397,
   "type": "Feature",
   "properties": {
+    "addr:full":"6010 NE Halsey Street Portland OR 97213",
+    "addr:housenumber":"6010",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Halsey Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.601971,45.533603,-122.601971,45.533603",
     "geom:latitude":45.533603,
     "geom:longitude":-122.601971,
@@ -26,12 +31,13 @@
     "sg:website":"www.plaidpantry.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867145,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85871467
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871467,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85867145,
             "region_id":85688513,
             "venue_id":790016397
         }
     ],
     "wof:id":790016397,
-    "wof:lastmodified":1466767624,
+    "wof:lastmodified":1486770377,
     "wof:name":"Plaid Pantry Markets",
-    "wof:parent_id":85871467,
+    "wof:parent_id":85867145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

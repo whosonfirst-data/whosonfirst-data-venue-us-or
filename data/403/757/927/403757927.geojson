@@ -2,9 +2,14 @@
   "id": 403757927,
   "type": "Feature",
   "properties": {
+    "addr:full":"7319 SE Henderson St Portland OR 97206",
+    "addr:housenumber":"7319",
+    "addr:postcode":"97206",
+    "addr:street":"Se Henderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585496,45.470037,-122.585496,45.470037",
     "geom:latitude":45.470037,
     "geom:longitude":-122.585496,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781227,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"ca202c9e052cc7bb0ac3fd55591a8d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781227,
             "region_id":85688513,
             "venue_id":403757927
         }
     ],
     "wof:id":403757927,
-    "wof:lastmodified":1466768987,
+    "wof:lastmodified":1486772256,
     "wof:name":"Chris Dien",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

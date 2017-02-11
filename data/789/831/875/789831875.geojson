@@ -2,9 +2,14 @@
   "id": 789831875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1203 Ste Ste Portland OR 97201",
+    "addr:housenumber":"1203",
+    "addr:postcode":"97201",
+    "addr:street":"Ste Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.683174,45.512107,-122.683174,45.512107",
     "geom:latitude":45.512107,
     "geom:longitude":-122.683174,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789831875
         }
     ],
     "wof:id":789831875,
-    "wof:lastmodified":1466769759,
+    "wof:lastmodified":1486764116,
     "wof:name":"Legacy Emanuel Hospital & Health Center",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

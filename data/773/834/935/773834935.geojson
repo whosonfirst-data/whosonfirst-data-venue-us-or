@@ -2,9 +2,14 @@
   "id": 773834935,
   "type": "Feature",
   "properties": {
+    "addr:full":"8417 N Lombard St Portland OR 97203",
+    "addr:housenumber":"8417",
+    "addr:postcode":"97203",
+    "addr:street":"N Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.753039,45.590184,-122.753039,45.590184",
     "geom:latitude":45.590184,
     "geom:longitude":-122.753039,
@@ -38,11 +43,13 @@
     "sg:website":"www.bluemooncamera.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,18 +60,20 @@
     "wof:geomhash":"afbb45db1f41e814a4de617a38bfbbe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":773834935
         }
     ],
     "wof:id":773834935,
-    "wof:lastmodified":1466776124,
+    "wof:lastmodified":1486769744,
     "wof:name":"Blue Moon Camera & Machine",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

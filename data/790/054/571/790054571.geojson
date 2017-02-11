@@ -2,9 +2,14 @@
   "id": 790054571,
   "type": "Feature",
   "properties": {
+    "addr:full":"1258 Jantzen Beach Ctr Sprcenter Portland OR 97217",
+    "addr:housenumber":"1258",
+    "addr:postcode":"97217",
+    "addr:street":"Jantzen Beach Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681433,45.613155,-122.681433,45.613155",
     "geom:latitude":45.613155,
     "geom:longitude":-122.681433,
@@ -28,7 +33,15 @@
         "creole"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721317,
+        102191575,
+        1108714605,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HaDEzVsDpyBs0YP8ZaFnu_45.613155_-122.681433@1303263420"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462592760,
     "wof:geomhash":"c7a14ba56b50bc619ed19e394f53cff5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":1108721317,
+            "region_id":85688513,
+            "venue_id":790054571
+        }
+    ],
     "wof:id":790054571,
-    "wof:lastmodified":1466768164,
+    "wof:lastmodified":1486772361,
     "wof:name":"Cajun & Grill Of Jantzen Beach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

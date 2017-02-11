@@ -2,9 +2,14 @@
   "id": 370345827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 SW Troy St Portland OR 97219",
+    "addr:housenumber":"1316",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Troy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.692955,45.468248,-122.692955,45.468248",
     "geom:latitude":45.468248,
     "geom:longitude":-122.692955,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85809397
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"8665fdf733f5518b3305cb9918f3d799",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85809397,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":370345827
         }
     ],
     "wof:id":370345827,
-    "wof:lastmodified":1466770716,
+    "wof:lastmodified":1486769429,
     "wof:name":"Christopher Bishop",
-    "wof:parent_id":85809397,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

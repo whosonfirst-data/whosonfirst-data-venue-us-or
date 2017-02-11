@@ -2,9 +2,14 @@
   "id": 773818045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SE Division St Portland OR 97202",
+    "addr:housenumber":"1401",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651586,45.505082,-122.651586,45.505082",
     "geom:latitude":45.505082,
     "geom:longitude":-122.651586,
@@ -31,12 +36,14 @@
     "sg:website":"www.longfellowspdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713581,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893193
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713581,
             "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":773818045
         }
     ],
     "wof:id":773818045,
-    "wof:lastmodified":1466776038,
+    "wof:lastmodified":1486773550,
     "wof:name":"Longfellow's Books",
-    "wof:parent_id":85893193,
+    "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

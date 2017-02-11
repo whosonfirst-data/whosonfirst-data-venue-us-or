@@ -2,9 +2,14 @@
   "id": 370338227,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 NE Columbia Blvd Portland OR 97211",
+    "addr:housenumber":"2600",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639659,45.57566,-122.639659,45.57566",
     "geom:latitude":45.57566,
     "geom:longitude":-122.639659,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893249,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"57665b1c9f38d467e2ed817f8809b1d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893249,
             "region_id":85688513,
             "venue_id":370338227
         }
     ],
     "wof:id":370338227,
-    "wof:lastmodified":1466770560,
+    "wof:lastmodified":1486772006,
     "wof:name":"Amalgamated Sugar Co LLC",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

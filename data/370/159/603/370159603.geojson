@@ -2,9 +2,14 @@
   "id": 370159603,
   "type": "Feature",
   "properties": {
+    "addr:full":"8115 SE Stark St Portland OR 97215",
+    "addr:housenumber":"8115",
+    "addr:postcode":"97215",
+    "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580335,45.519217,-122.580335,45.519217",
     "geom:latitude":45.519217,
     "geom:longitude":-122.580335,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85834889,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85834889
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"c7599062503c498ec964cfd985fd7497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":370159603
         }
     ],
     "wof:id":370159603,
-    "wof:lastmodified":1466767327,
+    "wof:lastmodified":1486766227,
     "wof:name":"Mt Tabor Video",
     "wof:parent_id":85834889,
     "wof:placetype":"venue",

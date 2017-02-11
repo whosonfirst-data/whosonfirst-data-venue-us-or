@@ -2,9 +2,14 @@
   "id": 387227143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4548 N Albina Ave Portland OR 97217",
+    "addr:housenumber":"4548",
+    "addr:postcode":"97217",
+    "addr:street":"N Albina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675114,45.555571,-122.675114,45.555571",
     "geom:latitude":45.555571,
     "geom:longitude":-122.675114,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"16f4601e0a98bc2af2cace60e3927e51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":387227143
         }
     ],
     "wof:id":387227143,
-    "wof:lastmodified":1466771341,
+    "wof:lastmodified":1486769109,
     "wof:name":"Altus Engineering LLP",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

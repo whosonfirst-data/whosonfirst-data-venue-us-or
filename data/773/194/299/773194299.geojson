@@ -2,9 +2,14 @@
   "id": 773194299,
   "type": "Feature",
   "properties": {
+    "addr:full":"6049 SW Pendleton Ct Portland OR 97221",
+    "addr:housenumber":"6049",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Pendleton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.738698,45.481911,-122.738698,45.481911",
     "geom:latitude":45.481911,
     "geom:longitude":-122.738698,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108719775,
+        85871499,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871499
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "microhood_id":1108719775,
             "neighbourhood_id":85871499,
             "region_id":85688513,
             "venue_id":773194299
         }
     ],
     "wof:id":773194299,
-    "wof:lastmodified":1466771272,
+    "wof:lastmodified":1486774193,
     "wof:name":"Portland Remodel Co",
-    "wof:parent_id":85871499,
+    "wof:parent_id":1108719775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

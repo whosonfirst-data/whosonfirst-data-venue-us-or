@@ -2,9 +2,14 @@
   "id": 387577499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 N Trenton St Portland OR 97217",
+    "addr:housenumber":"3610",
+    "addr:postcode":"97217",
+    "addr:street":"N Trenton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.704281,45.588548,-122.704281,45.588548",
     "geom:latitude":45.588548,
     "geom:longitude":-122.704281,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85828137,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85841161
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"afd261a3b9138b8c341ab4c2ae206e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85841161,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85828137,
             "region_id":85688513,
             "venue_id":387577499
         }
     ],
     "wof:id":387577499,
-    "wof:lastmodified":1466773671,
+    "wof:lastmodified":1486769502,
     "wof:name":"C A Scott",
-    "wof:parent_id":85841161,
+    "wof:parent_id":85828137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

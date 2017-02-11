@@ -2,9 +2,14 @@
   "id": 370878837,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 SE 28th Ave Portland OR 97214",
+    "addr:housenumber":"12",
+    "addr:postcode":"97214",
+    "addr:street":"Se 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.6372,45.522206,-122.6372,45.522206",
     "geom:latitude":45.522206,
     "geom:longitude":-122.6372,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871495,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85829959
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"eede6b0cdadd6513d7728da61d7587a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85829959,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871495,
             "region_id":85688513,
             "venue_id":370878837
         }
     ],
     "wof:id":370878837,
-    "wof:lastmodified":1466774546,
+    "wof:lastmodified":1486771031,
     "wof:name":"F & I U Wash",
-    "wof:parent_id":85829959,
+    "wof:parent_id":85871495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

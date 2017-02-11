@@ -2,9 +2,14 @@
   "id": 790080033,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 SW Huber St Ste 325 Portland OR 97219",
+    "addr:housenumber":"4225",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Huber St Ste 325",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720476,45.452203,-122.720476,45.452203",
     "geom:latitude":45.452203,
     "geom:longitude":-122.720476,
@@ -39,13 +44,14 @@
     "sg:website":"http://www.permalert.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713515,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        85871489
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,24 +66,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":790080033
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871489,
+            "macrohood_id":1108714057,
+            "microhood_id":1108713515,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":790080033
         }
     ],
     "wof:id":790080033,
-    "wof:lastmodified":1466767163,
+    "wof:lastmodified":1486773403,
     "wof:name":"Midweco Tdc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

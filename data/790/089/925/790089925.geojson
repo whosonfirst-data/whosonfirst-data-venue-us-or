@@ -2,9 +2,14 @@
   "id": 790089925,
   "type": "Feature",
   "properties": {
+    "addr:full":"8811 NE Sandy Blvd Portland OR 97220",
+    "addr:housenumber":"8811",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.57205,45.555394,-122.57205,45.555394",
     "geom:latitude":45.555394,
     "geom:longitude":-122.57205,
@@ -43,12 +48,13 @@
     "sg:website":"www.cityhomeimprovementinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893247,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893247
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893247,
             "region_id":85688513,
             "venue_id":790089925
         }
     ],
     "wof:id":790089925,
-    "wof:lastmodified":1466767520,
+    "wof:lastmodified":1486768990,
     "wof:name":"City Home Improvement Inc",
     "wof:parent_id":85893247,
     "wof:placetype":"venue",

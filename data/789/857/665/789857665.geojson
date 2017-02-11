@@ -2,9 +2,14 @@
   "id": 789857665,
   "type": "Feature",
   "properties": {
+    "addr:full":"4999 SE 30th Ave Portland OR 97202",
+    "addr:housenumber":"4999",
+    "addr:postcode":"97202",
+    "addr:street":"Se 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.63441,45.487523,-122.63441,45.487523",
     "geom:latitude":45.487523,
     "geom:longitude":-122.63441,
@@ -29,12 +34,13 @@
     "sg:website":"www.portland-movers.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871483,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871483
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871483,
             "region_id":85688513,
             "venue_id":789857665
         }
     ],
     "wof:id":789857665,
-    "wof:lastmodified":1466770810,
+    "wof:lastmodified":1486770983,
     "wof:name":"Redefyne Moving",
     "wof:parent_id":85871483,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354299397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1551 SW Market St Portland OR 97201",
+    "addr:housenumber":"1551",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.691621,45.515714,-122.691621,45.515714",
     "geom:latitude":45.515714,
     "geom:longitude":-122.691621,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0eaa0e21c5f632fc505bb64d31007603",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":354299397
         }
     ],
     "wof:id":354299397,
-    "wof:lastmodified":1466769484,
+    "wof:lastmodified":1486764239,
     "wof:name":"Kevin J Kwiecien DMD",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

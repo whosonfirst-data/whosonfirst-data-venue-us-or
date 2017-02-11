@@ -2,9 +2,14 @@
   "id": 387319043,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 SW Morrison St Portland OR 97205",
+    "addr:housenumber":"1410",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.687127,45.521264,-122.687127,45.521264",
     "geom:latitude":45.521264,
     "geom:longitude":-122.687127,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"039edb200a1004156cc54fc9ecba6a7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":387319043
         }
     ],
     "wof:id":387319043,
-    "wof:lastmodified":1466772155,
+    "wof:lastmodified":1486764811,
     "wof:name":"Northwest Osteopathic Medical",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

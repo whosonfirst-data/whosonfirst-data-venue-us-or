@@ -2,9 +2,14 @@
   "id": 789622771,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 SW 3rd Ave Portland OR 97204",
+    "addr:housenumber":"336",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.674004,45.520802,-122.674004,45.520802",
     "geom:latitude":45.520802,
     "geom:longitude":-122.674004,
@@ -31,12 +36,13 @@
     "sg:website":"www.cameronsbooks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789622771
         }
     ],
     "wof:id":789622771,
-    "wof:lastmodified":1466768893,
+    "wof:lastmodified":1486770097,
     "wof:name":"Cameron's Books & Magazines",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

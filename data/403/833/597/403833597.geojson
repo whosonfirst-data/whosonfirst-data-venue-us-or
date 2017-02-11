@@ -2,9 +2,14 @@
   "id": 403833597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3040 NE 121st Ave Portland OR 97220",
+    "addr:housenumber":"3040",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 121St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.538554,45.544158,-122.538554,45.544158",
     "geom:latitude":45.544158,
     "geom:longitude":-122.538554,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893223,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893223
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"16f8fb193e7ab3fc6ea24ecf8f2fcbe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893223,
             "region_id":85688513,
             "venue_id":403833597
         }
     ],
     "wof:id":403833597,
-    "wof:lastmodified":1466770421,
+    "wof:lastmodified":1486768434,
     "wof:name":"Clay's Concrete Constr Co",
     "wof:parent_id":85893223,
     "wof:placetype":"venue",

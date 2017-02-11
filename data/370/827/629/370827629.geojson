@@ -2,9 +2,14 @@
   "id": 370827629,
   "type": "Feature",
   "properties": {
+    "addr:full":"11909 NE Glenn Widing Dr Portland OR 97220",
+    "addr:housenumber":"11909",
+    "addr:postcode":"97220",
+    "addr:street":"Ne Glenn Widing Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539841,45.568817,-122.539841,45.568817",
     "geom:latitude":45.568817,
     "geom:longitude":-122.539841,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"4ece85969fca543c24978df5217bcf25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":370827629
         }
     ],
     "wof:id":370827629,
-    "wof:lastmodified":1466774277,
+    "wof:lastmodified":1486768295,
     "wof:name":"Unisys Corp",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

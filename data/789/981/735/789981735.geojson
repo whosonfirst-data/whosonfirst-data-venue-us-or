@@ -2,9 +2,14 @@
   "id": 789981735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 NW 29th Ave Portland OR 97210",
+    "addr:housenumber":"2900",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.710953,45.543591,-122.710953,45.543591",
     "geom:latitude":45.543591,
     "geom:longitude":-122.710953,
@@ -30,12 +35,14 @@
     "sg:website":"http://www.wcwr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":789981735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789981735
         }
     ],
     "wof:id":789981735,
-    "wof:lastmodified":1466772874,
+    "wof:lastmodified":1486771123,
     "wof:name":"West Coast Wire Rope",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

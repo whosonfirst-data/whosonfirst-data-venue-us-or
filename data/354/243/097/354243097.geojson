@@ -2,9 +2,14 @@
   "id": 354243097,
   "type": "Feature",
   "properties": {
+    "addr:full":"875 NE Jarrett St Portland OR 97211",
+    "addr:housenumber":"875",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Jarrett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657049,45.564914,-122.657049,45.564914",
     "geom:latitude":45.564914,
     "geom:longitude":-122.657049,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893257,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513,
+        85893199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"56314d017c102e3636d9c9ee8831f968",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893257,
+            "region_id":85688513,
+            "venue_id":354243097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":354243097
         }
     ],
     "wof:id":354243097,
-    "wof:lastmodified":1466768508,
+    "wof:lastmodified":1486771763,
     "wof:name":"Jeffery D Brown",
-    "wof:parent_id":85893257,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789579389,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 SE Sherman St Portland OR 97214",
+    "addr:housenumber":"809",
+    "addr:postcode":"97214",
+    "addr:street":"Se Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657683,45.50653,-122.657683,45.50653",
     "geom:latitude":45.50653,
     "geom:longitude":-122.657683,
@@ -31,12 +36,14 @@
     "sg:website":"http://www.internationalpaper.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868957
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868957,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":789579389
         }
     ],
     "wof:id":789579389,
-    "wof:lastmodified":1466767951,
+    "wof:lastmodified":1486773527,
     "wof:name":"International Paper",
-    "wof:parent_id":85868957,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

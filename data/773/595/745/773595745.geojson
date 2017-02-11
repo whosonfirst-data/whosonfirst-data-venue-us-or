@@ -2,9 +2,14 @@
   "id": 773595745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2305 SE 34th Ave Portland OR 97214",
+    "addr:housenumber":"2305",
+    "addr:postcode":"97214",
+    "addr:street":"Se 34Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629659,45.505486,-122.629659,45.505486",
     "geom:latitude":45.505486,
     "geom:longitude":-122.629659,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":773595745
         }
     ],
     "wof:id":773595745,
-    "wof:lastmodified":1466775452,
+    "wof:lastmodified":1486773671,
     "wof:name":"Scott Shuey Design",
-    "wof:parent_id":85893169,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

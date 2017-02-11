@@ -2,9 +2,14 @@
   "id": 387102755,
   "type": "Feature",
   "properties": {
+    "addr:full":"6207 NE 15th Ave Portland OR 97211",
+    "addr:housenumber":"6207",
+    "addr:postcode":"97211",
+    "addr:street":"Ne 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.65007,45.567022,-122.65007,45.567022",
     "geom:latitude":45.567022,
     "geom:longitude":-122.65007,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893263,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"6a826c641235a75e76b3ec17a458a960",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893257,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893263,
             "region_id":85688513,
             "venue_id":387102755
         }
     ],
     "wof:id":387102755,
-    "wof:lastmodified":1466768852,
+    "wof:lastmodified":1486772095,
     "wof:name":"Balloons In Flight",
-    "wof:parent_id":85893257,
+    "wof:parent_id":85893263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 790096883,
   "type": "Feature",
   "properties": {
+    "addr:full":"11922 N.E. Airport Way East Portland OR 97220",
+    "addr:housenumber":"11922",
+    "addr:postcode":"97220",
+    "addr:street":"N.E. Airport Way East",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540627,45.566921,-122.540627,45.566921",
     "geom:latitude":45.566921,
     "geom:longitude":-122.540627,
@@ -26,12 +31,13 @@
     "sg:website":"marriott.com/property/propertypa...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":790096883
         }
     ],
     "wof:id":790096883,
-    "wof:lastmodified":1466767782,
+    "wof:lastmodified":1486768852,
     "wof:name":"SpringHill Suites Portland Airport",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

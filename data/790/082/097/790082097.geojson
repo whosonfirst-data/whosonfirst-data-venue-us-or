@@ -2,9 +2,14 @@
   "id": 790082097,
   "type": "Feature",
   "properties": {
+    "addr:full":"7555 SW Barbur Boulevard Portland OR 97219",
+    "addr:housenumber":"7555",
+    "addr:postcode":"97219",
+    "addr:street":"Sw Barbur Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.689708,45.470316,-122.689708,45.470316",
     "geom:latitude":45.470316,
     "geom:longitude":-122.689708,
@@ -35,12 +40,13 @@
     "sg:website":"www.wamu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790082097
         }
     ],
     "wof:id":790082097,
-    "wof:lastmodified":1466767237,
+    "wof:lastmodified":1486769429,
     "wof:name":"Washington Mutual",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789986857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1723 NE Alberta St Portland OR 97211",
+    "addr:housenumber":"1723",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647314,45.559099,-122.647314,45.559099",
     "geom:latitude":45.559099,
     "geom:longitude":-122.647314,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713505,
+        85893257,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893257
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "microhood_id":1108713505,
             "neighbourhood_id":85893257,
             "region_id":85688513,
             "venue_id":789986857
         }
     ],
     "wof:id":789986857,
-    "wof:lastmodified":1466773132,
+    "wof:lastmodified":1486773371,
     "wof:name":"Bumble Bee Gallery",
-    "wof:parent_id":85893257,
+    "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

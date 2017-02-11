@@ -2,9 +2,14 @@
   "id": 789583937,
   "type": "Feature",
   "properties": {
+    "addr:full":"4234 SW Shattuck Rd Portland OR 97221",
+    "addr:housenumber":"4234",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Shattuck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.727762,45.492734,-122.727762,45.492734",
     "geom:latitude":45.492734,
     "geom:longitude":-122.727762,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85807447
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +52,18 @@
     "wof:geomhash":"9383107c168e74c50220d5126cb9eed7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":789583937
         }
     ],
     "wof:id":789583937,
-    "wof:lastmodified":1466768032,
+    "wof:lastmodified":1486765560,
     "wof:name":"Peter J Kendall",
     "wof:parent_id":85807447,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387929559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 NW 29th Ave Portland OR 97210",
+    "addr:housenumber":"2300",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711015,45.541239,-122.711015,45.541239",
     "geom:latitude":45.541239,
     "geom:longitude":-122.711015,
@@ -31,11 +36,14 @@
     "sg:website":"www.pipcohose.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85871509
+        85688513,
+        85871505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,30 @@
     "wof:geomhash":"00486d40e373dda2f269387c9e16fc7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85871509,
+            "region_id":85688513,
+            "venue_id":387929559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":387929559
         }
     ],
     "wof:id":387929559,
-    "wof:lastmodified":1466775462,
+    "wof:lastmodified":1486771092,
     "wof:name":"Peterson Industrial Prods Inc",
-    "wof:parent_id":85871509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

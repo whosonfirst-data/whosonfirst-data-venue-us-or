@@ -2,9 +2,14 @@
   "id": 789952039,
   "type": "Feature",
   "properties": {
+    "addr:full":"1038 NW Johnson St Portland OR 97209",
+    "addr:housenumber":"1038",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681592,45.528657,-122.681592,45.528657",
     "geom:latitude":45.528657,
     "geom:longitude":-122.681592,
@@ -26,12 +31,13 @@
     "sg:website":"www.pearlaudiovideo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789952039
         }
     ],
     "wof:id":789952039,
-    "wof:lastmodified":1466772503,
+    "wof:lastmodified":1486763345,
     "wof:name":"Pearl Audio Video",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

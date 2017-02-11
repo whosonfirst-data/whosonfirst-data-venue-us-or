@@ -2,9 +2,14 @@
   "id": 370560437,
   "type": "Feature",
   "properties": {
+    "addr:full":"6204 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"6204",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648177,45.478533,-122.648177,45.478533",
     "geom:latitude":45.478533,
     "geom:longitude":-122.648177,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85867151
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"0c91b25c2ca88bc8b190c820bfd171df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":370560437
         }
     ],
     "wof:id":370560437,
-    "wof:lastmodified":1466772763,
+    "wof:lastmodified":1486766415,
     "wof:name":"Grayland Vicki Photography",
     "wof:parent_id":85867151,
     "wof:placetype":"venue",

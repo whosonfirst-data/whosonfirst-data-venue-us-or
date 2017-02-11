@@ -2,9 +2,14 @@
   "id": 370881145,
   "type": "Feature",
   "properties": {
+    "addr:full":"11121 SE Division St Portland OR 97266",
+    "addr:housenumber":"",
+    "addr:postcode":"11121;97266",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.548196,45.504274,-122.548196,45.504274",
     "geom:latitude":45.504274,
     "geom:longitude":-122.548196,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"a2ab120e965dfb3d24b7008b4ad78583",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":370881145
         }
     ],
     "wof:id":370881145,
-    "wof:lastmodified":1466774424,
+    "wof:lastmodified":1486770730,
     "wof:name":"Hoppers Pub",
-    "wof:parent_id":85842991,
+    "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

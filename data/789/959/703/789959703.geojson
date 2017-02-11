@@ -2,9 +2,14 @@
   "id": 789959703,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 NW Kearney Street Portland OR 97209",
+    "addr:housenumber":"920",
+    "addr:postcode":"97209",
+    "addr:street":"Nw Kearney Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680451,45.529367,-122.680451,45.529367",
     "geom:latitude":45.529367,
     "geom:longitude":-122.680451,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867143,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867143
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867143,
             "region_id":85688513,
             "venue_id":789959703
         }
     ],
     "wof:id":789959703,
-    "wof:lastmodified":1466772657,
+    "wof:lastmodified":1486770334,
     "wof:name":"Pearl Court Apartments",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",

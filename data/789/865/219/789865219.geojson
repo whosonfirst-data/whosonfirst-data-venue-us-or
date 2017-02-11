@@ -2,9 +2,14 @@
   "id": 789865219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2709 SE Woodward St Portland OR 97202",
+    "addr:housenumber":"2709",
+    "addr:postcode":"97202",
+    "addr:street":"Se Woodward St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.638567,45.501942,-122.638567,45.501942",
     "geom:latitude":45.501942,
     "geom:longitude":-122.638567,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893193,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85893193,
             "region_id":85688513,
             "venue_id":789865219
         }
     ],
     "wof:id":789865219,
-    "wof:lastmodified":1466771076,
+    "wof:lastmodified":1486771699,
     "wof:name":"Crown Custodial Inc.",
-    "wof:parent_id":85893239,
+    "wof:parent_id":85893193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

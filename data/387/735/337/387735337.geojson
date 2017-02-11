@@ -2,9 +2,14 @@
   "id": 387735337,
   "type": "Feature",
   "properties": {
+    "addr:full":"6214 SE 82nd Ave Portland OR 97266",
+    "addr:housenumber":"6214",
+    "addr:postcode":"97266",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578967,45.477732,-122.578967,45.477732",
     "geom:latitude":45.477732,
     "geom:longitude":-122.578967,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830293,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
+        85688513,
         85893209
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"3b7dd5314a9fad2d9523dc2066fcd2af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85830293,
+            "region_id":85688513,
+            "venue_id":387735337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":387735337
         }
     ],
     "wof:id":387735337,
-    "wof:lastmodified":1466774711,
+    "wof:lastmodified":1486769550,
     "wof:name":"Raymond E Schmidt Jr",
-    "wof:parent_id":85893209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

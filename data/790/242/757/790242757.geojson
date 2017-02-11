@@ -2,9 +2,14 @@
   "id": 790242757,
   "type": "Feature",
   "properties": {
+    "addr:full":"4930 SW 18th Pl Portland OR 97239",
+    "addr:housenumber":"4930",
+    "addr:postcode":"97239",
+    "addr:street":"Sw 18Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.698387,45.487228,-122.698387,45.487228",
     "geom:latitude":45.487228,
     "geom:longitude":-122.698387,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85847775
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85847775,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":790242757
         }
     ],
     "wof:id":790242757,
-    "wof:lastmodified":1466772410,
+    "wof:lastmodified":1486769437,
     "wof:name":"Bruce Cross Benefits",
-    "wof:parent_id":85847775,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

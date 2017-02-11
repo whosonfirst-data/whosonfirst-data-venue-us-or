@@ -2,9 +2,14 @@
   "id": 773560667,
   "type": "Feature",
   "properties": {
+    "addr:full":"6959 SW Garden Home Rd Portland OR 97223",
+    "addr:housenumber":"6959",
+    "addr:postcode":"97223",
+    "addr:street":"Sw Garden Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.749607,45.465764,-122.749607,45.465764",
     "geom:latitude":45.465764,
     "geom:longitude":-122.749607,
@@ -36,7 +41,15 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108721343,
+        102191575,
+        1108714057,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XWwH4kZF4GrwYBBcOP1Sq_45.465764_-122.749607@1294180530"
@@ -44,11 +57,22 @@
     "wof:country":"US",
     "wof:created":1462586652,
     "wof:geomhash":"d6cab33395ade1eadb51ee5120106084",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":1108721343,
+            "region_id":85688513,
+            "venue_id":773560667
+        }
+    ],
     "wof:id":773560667,
-    "wof:lastmodified":1466775324,
+    "wof:lastmodified":1486772398,
     "wof:name":"Old Market Pub & Brewery 42142",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

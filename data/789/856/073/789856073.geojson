@@ -2,9 +2,14 @@
   "id": 789856073,
   "type": "Feature",
   "properties": {
+    "addr:full":"7311 SE Milwaukie Ave Portland OR 97202",
+    "addr:housenumber":"7311",
+    "addr:postcode":"97202",
+    "addr:street":"Se Milwaukie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.648625,45.47147,-122.648625,45.47147",
     "geom:latitude":45.47147,
     "geom:longitude":-122.648625,
@@ -29,12 +34,13 @@
     "sg:website":"www.pdxhair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536123
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536123,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":789856073
         }
     ],
     "wof:id":789856073,
-    "wof:lastmodified":1466770742,
+    "wof:lastmodified":1486770485,
     "wof:name":"PDXHAIR",
-    "wof:parent_id":420536123,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

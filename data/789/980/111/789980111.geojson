@@ -2,9 +2,14 @@
   "id": 789980111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2439 NW 29th Avenue Portland OR 97210",
+    "addr:housenumber":"2439",
+    "addr:postcode":"97210",
+    "addr:street":"Nw 29Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.711218,45.539773,-122.711218,45.539773",
     "geom:latitude":45.539773,
     "geom:longitude":-122.711218,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.designfurnishings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871505,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85857791
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85857791,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871505,
             "region_id":85688513,
             "venue_id":789980111
         }
     ],
     "wof:id":789980111,
-    "wof:lastmodified":1466773092,
+    "wof:lastmodified":1486771123,
     "wof:name":"Design Furnishings",
-    "wof:parent_id":85857791,
+    "wof:parent_id":85871505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

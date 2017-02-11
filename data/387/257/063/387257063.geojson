@@ -2,9 +2,14 @@
   "id": 387257063,
   "type": "Feature",
   "properties": {
+    "addr:full":"6444 SW Capitol Hwy Portland OR 97239",
+    "addr:housenumber":"6444",
+    "addr:postcode":"97239",
+    "addr:street":"Sw Capitol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.699047,45.477681,-122.699047,45.477681",
     "geom:latitude":45.477681,
     "geom:longitude":-122.699047,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85825583,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867149
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"29692ff1e01af456d5a2dc00a5659951",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867149,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85825583,
             "region_id":85688513,
             "venue_id":387257063
         }
     ],
     "wof:id":387257063,
-    "wof:lastmodified":1466771655,
+    "wof:lastmodified":1486769429,
     "wof:name":"Cheryl Knepper Hair Design",
-    "wof:parent_id":85867149,
+    "wof:parent_id":85825583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

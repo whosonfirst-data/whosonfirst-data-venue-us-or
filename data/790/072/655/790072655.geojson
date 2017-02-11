@@ -2,9 +2,14 @@
   "id": 790072655,
   "type": "Feature",
   "properties": {
+    "addr:full":"11621 SW 43rd Ave Portland OR 97219",
+    "addr:housenumber":"11621",
+    "addr:postcode":"97219",
+    "addr:street":"Sw 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.721063,45.441658,-122.721063,45.441658",
     "geom:latitude":45.441658,
     "geom:longitude":-122.721063,
@@ -33,13 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781231,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871471,
-        85871501
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,24 +59,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871471,
-            "region_id":85688513,
-            "venue_id":790072655
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081631,
-            "locality_id":101715829,
-            "neighbourhood_id":85871501,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":420781231,
             "region_id":85688513,
             "venue_id":790072655
         }
     ],
     "wof:id":790072655,
-    "wof:lastmodified":1466768605,
+    "wof:lastmodified":1486772267,
     "wof:name":"Anne Richardson",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

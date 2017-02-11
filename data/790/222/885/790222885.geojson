@@ -2,9 +2,14 @@
   "id": 790222885,
   "type": "Feature",
   "properties": {
+    "addr:full":"12732 SE Stark St Plz 125, Building G Portland OR 97233",
+    "addr:housenumber":"125",
+    "addr:postcode":"12732;97233",
+    "addr:street":"Se Stark St Plz;G",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.533187,45.51799,-122.533187,45.51799",
     "geom:latitude":45.51799,
     "geom:longitude":-122.533187,
@@ -34,12 +39,13 @@
     "sg:website":"www.drluacupuncture.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868947,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":790222885
         }
     ],
     "wof:id":790222885,
-    "wof:lastmodified":1466771923,
+    "wof:lastmodified":1486772234,
     "wof:name":"Dr. Lu's Acupuncture & Massage Clinic",
-    "wof:parent_id":85868947,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

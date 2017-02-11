@@ -2,9 +2,14 @@
   "id": 354330339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 SW Jefferson St Portland OR 97201",
+    "addr:housenumber":"1410",
+    "addr:postcode":"97201",
+    "addr:street":"Sw Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.690283,45.517506,-122.690283,45.517506",
     "geom:latitude":45.517506,
     "geom:longitude":-122.690283,
@@ -26,11 +31,13 @@
     "sg:website":"www.fccgi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"32962985472a71dca6b3327e94b0447d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":354330339
         }
     ],
     "wof:id":354330339,
-    "wof:lastmodified":1466769894,
+    "wof:lastmodified":1486764898,
     "wof:name":"Fog Cutter Capital Group Inc",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

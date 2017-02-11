@@ -2,9 +2,14 @@
   "id": 790104461,
   "type": "Feature",
   "properties": {
+    "addr:full":"4226 SW 40th Avenue Portland OR 97221",
+    "addr:housenumber":"4226",
+    "addr:postcode":"97221",
+    "addr:street":"Sw 40Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.717478,45.491947,-122.717478,45.491947",
     "geom:latitude":45.491947,
     "geom:longitude":-122.717478,
@@ -26,12 +31,13 @@
     "sg:website":"www.redrooplumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85807447,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85821817
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85821817,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85807447,
             "region_id":85688513,
             "venue_id":790104461
         }
     ],
     "wof:id":790104461,
-    "wof:lastmodified":1466768031,
+    "wof:lastmodified":1486769380,
     "wof:name":"Red Roo Plumbing",
-    "wof:parent_id":85821817,
+    "wof:parent_id":85807447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

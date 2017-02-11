@@ -2,9 +2,14 @@
   "id": 789849209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3221 SE Division D Street Noshery Portland OR 97202",
+    "addr:housenumber":"3221",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division D Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.632324,45.50482,-122.632324,45.50482",
     "geom:latitude":45.50482,
     "geom:longitude":-122.632324,
@@ -34,12 +39,14 @@
     "sg:website":"twitter.com/Oregoniceworks",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893169
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893169,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":789849209
         }
     ],
     "wof:id":789849209,
-    "wof:lastmodified":1466770488,
+    "wof:lastmodified":1486773660,
     "wof:name":"Oregon Ice/Soup Works",
-    "wof:parent_id":85893169,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

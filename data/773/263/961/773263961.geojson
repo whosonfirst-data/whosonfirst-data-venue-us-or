@@ -2,9 +2,14 @@
   "id": 773263961,
   "type": "Feature",
   "properties": {
+    "addr:full":"7983 SE 17th Ave Portland OR 97202",
+    "addr:housenumber":"7983",
+    "addr:postcode":"97202",
+    "addr:street":"Se 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647108,45.466224,-122.647108,45.466224",
     "geom:latitude":45.466224,
     "geom:longitude":-122.647108,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867151,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        420536123
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":420536123,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85867151,
             "region_id":85688513,
             "venue_id":773263961
         }
     ],
     "wof:id":773263961,
-    "wof:lastmodified":1466772389,
+    "wof:lastmodified":1486770541,
     "wof:name":"Aquariums Live",
-    "wof:parent_id":420536123,
+    "wof:parent_id":85867151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

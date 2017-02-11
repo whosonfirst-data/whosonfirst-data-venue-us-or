@@ -2,9 +2,14 @@
   "id": 387841627,
   "type": "Feature",
   "properties": {
+    "addr:full":"6441 SW Canyon Ct Portland OR 97221",
+    "addr:housenumber":"6441",
+    "addr:postcode":"97221",
+    "addr:street":"Sw Canyon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.7417,45.508971,-122.7417,45.508971",
     "geom:latitude":45.508971,
     "geom:longitude":-122.7417,
@@ -31,14 +36,14 @@
     "sg:website":"www.oicf.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85893251,
-        101716333,
-        102082215,
-        85851719
+        85688513,
+        85893251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +53,29 @@
     "wof:geomhash":"59ed496e6a67983aa27e5bc95f04aa5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85851719,
+            "region_id":85688513,
+            "venue_id":387841627
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
             "neighbourhood_id":85893251,
             "region_id":85688513,
             "venue_id":387841627
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
-            "neighbourhood_id":85851719,
-            "region_id":85688513,
-            "venue_id":387841627
         }
     ],
     "wof:id":387841627,
-    "wof:lastmodified":1466775145,
+    "wof:lastmodified":1486772044,
     "wof:name":"Oregon Independent College",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

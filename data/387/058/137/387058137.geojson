@@ -2,9 +2,14 @@
   "id": 387058137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3965 SE Powell Blvd Portland OR 97202",
+    "addr:housenumber":"3965",
+    "addr:postcode":"97202",
+    "addr:street":"Se Powell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621609,45.497447,-122.621609,45.497447",
     "geom:latitude":45.497447,
     "geom:longitude":-122.621609,
@@ -33,10 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
-        102081631
+        102081631,
+        85688513,
+        420536085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +55,30 @@
     "wof:geomhash":"2952878dddd6106e4e2cb6a2fbd590ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85871465,
+            "region_id":85688513,
+            "venue_id":387058137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420536085,
             "region_id":85688513,
             "venue_id":387058137
         }
     ],
     "wof:id":387058137,
-    "wof:lastmodified":1466768109,
+    "wof:lastmodified":1486770845,
     "wof:name":"District 2 Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

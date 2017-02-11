@@ -2,9 +2,14 @@
   "id": 789958867,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 NW 3rd Ave Portland OR 97209",
+    "addr:housenumber":"239",
+    "addr:postcode":"97209",
+    "addr:street":"Nw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.673453,45.52482,-122.673453,45.52482",
     "geom:latitude":45.52482,
     "geom:longitude":-122.673453,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867303
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714055,
             "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789958867
         }
     ],
     "wof:id":789958867,
-    "wof:lastmodified":1466772512,
+    "wof:lastmodified":1486763590,
     "wof:name":"Great Era Oriental Goods",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",

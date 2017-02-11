@@ -2,9 +2,14 @@
   "id": 370440653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2045 SE Division St Portland OR 97202",
+    "addr:housenumber":"2045",
+    "addr:postcode":"97202",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644754,45.504895,-122.644754,45.504895",
     "geom:latitude":45.504895,
     "geom:longitude":-122.644754,
@@ -31,11 +36,14 @@
     "sg:website":"www.starbucks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108714053,
+        85871465,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893239
+        85688513
     ],
     "wof:brand_id":420573983,
     "wof:breaches":[],
@@ -46,19 +54,21 @@
     "wof:geomhash":"85834db1a96f5f3ce03fa944784deff7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893239,
+            "macrohood_id":1108715281,
+            "microhood_id":1108714053,
+            "neighbourhood_id":85871465,
             "region_id":85688513,
             "venue_id":370440653
         }
     ],
     "wof:id":370440653,
-    "wof:lastmodified":1466771897,
+    "wof:lastmodified":1486773665,
     "wof:name":"Starbucks",
-    "wof:parent_id":85893239,
+    "wof:parent_id":1108714053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

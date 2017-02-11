@@ -2,9 +2,14 @@
   "id": 790273461,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 14947 17 SE 3rd Suite 404 Portland OR 97293",
+    "addr:housenumber":"po box 14947",
+    "addr:postcode":"97293",
+    "addr:street":"Se 3Rd Suite 404",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.663247,45.522452,-122.663247,45.522452",
     "geom:latitude":45.522452,
     "geom:longitude":-122.663247,
@@ -29,12 +34,14 @@
     "sg:website":"www.bookjournals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893203
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85893203,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":790273461
         }
     ],
     "wof:id":790273461,
-    "wof:lastmodified":1466772745,
+    "wof:lastmodified":1486773500,
     "wof:name":"Ex Libris Anonymous",
-    "wof:parent_id":85893203,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

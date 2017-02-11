@@ -2,9 +2,14 @@
   "id": 790250641,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Marine Dr McCuddy's Marina Portland OR 97255",
+    "addr:housenumber":"33",
+    "addr:postcode":"97255",
+    "addr:street":"Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.665997,45.601265,-122.665997,45.601265",
     "geom:latitude":45.601265,
     "geom:longitude":-122.665997,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.thedeck.bz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85807427,
+        102191575,
+        1108720843,
+        85633793,
+        101715829,
+        102081631,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uQGnOKJ6GNwbMhgPsCePR_45.601265_-122.665997@1303263429"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462594343,
     "wof:geomhash":"f2f8b58185f24b662327abb69dea78aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85807427,
+            "region_id":85688513,
+            "venue_id":790250641
+        }
+    ],
     "wof:id":790250641,
-    "wof:lastmodified":1466772421,
+    "wof:lastmodified":1486769368,
     "wof:name":"Deck on the Columbia Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

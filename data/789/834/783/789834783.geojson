@@ -2,9 +2,14 @@
   "id": 789834783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 SW 5th Ave Ste 120 Portland OR 97201",
+    "addr:housenumber":"1300",
+    "addr:postcode":"97201",
+    "addr:street":"Sw 5Th Ave Ste 120",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67945,45.514343,-122.67945,45.514343",
     "geom:latitude":45.514343,
     "geom:longitude":-122.67945,
@@ -26,12 +31,13 @@
     "sg:website":"www.lublinerflorist.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":789834783
         }
     ],
     "wof:id":789834783,
-    "wof:lastmodified":1466769867,
+    "wof:lastmodified":1486764231,
     "wof:name":"Lubliner Florist",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

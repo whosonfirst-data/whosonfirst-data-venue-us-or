@@ -2,9 +2,14 @@
   "id": 404073043,
   "type": "Feature",
   "properties": {
+    "addr:full":"7710 NE Alameda St Portland OR 97213",
+    "addr:housenumber":"7710",
+    "addr:postcode":"97213",
+    "addr:street":"Ne Alameda St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583758,45.542641,-122.583758,45.542641",
     "geom:latitude":45.542641,
     "geom:longitude":-122.583758,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85822419
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"dd10b5ce992e21377293e7b7f1db5e73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85822419,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":404073043
         }
     ],
     "wof:id":404073043,
-    "wof:lastmodified":1466769791,
+    "wof:lastmodified":1486771962,
     "wof:name":"Praetorian Investment Co",
-    "wof:parent_id":85822419,
+    "wof:parent_id":85893229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

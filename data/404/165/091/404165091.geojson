@@ -2,9 +2,14 @@
   "id": 404165091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 SE 140th Ave Portland OR 97233",
+    "addr:housenumber":"1235",
+    "addr:postcode":"97233",
+    "addr:street":"Se 140Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519781,45.515085,-122.519781,45.515085",
     "geom:latitude":45.515085,
     "geom:longitude":-122.519781,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85868947,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85868947
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"347462605e61fe3fbc18b630e861adca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85868947,
             "region_id":85688513,
             "venue_id":404165091
         }
     ],
     "wof:id":404165091,
-    "wof:lastmodified":1466767498,
+    "wof:lastmodified":1486766595,
     "wof:name":"Adept Machine Works",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",

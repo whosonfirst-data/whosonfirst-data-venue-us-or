@@ -2,9 +2,14 @@
   "id": 403888645,
   "type": "Feature",
   "properties": {
+    "addr:full":"9308 N Bristol Ave Portland OR 97203",
+    "addr:housenumber":"9308",
+    "addr:postcode":"97203",
+    "addr:street":"N Bristol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.754433,45.59751,-122.754433,45.59751",
     "geom:latitude":45.59751,
     "geom:longitude":-122.754433,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85846673,
+        102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85830793
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"0a81332634d795cc29e648ab258a53ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85830793,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85846673,
             "region_id":85688513,
             "venue_id":403888645
         }
     ],
     "wof:id":403888645,
-    "wof:lastmodified":1466767172,
+    "wof:lastmodified":1486769744,
     "wof:name":"Pioneer Building Maintenance",
-    "wof:parent_id":85830793,
+    "wof:parent_id":85846673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387846669,
   "type": "Feature",
   "properties": {
+    "addr:full":"10255 NW 109th Ave Portland OR 97231",
+    "addr:housenumber":"10255",
+    "addr:postcode":"97231",
+    "addr:street":"Nw 109Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.787624,45.599788,-122.787624,45.599788",
     "geom:latitude":45.599788,
     "geom:longitude":-122.787624,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85830793,
+        102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85844911
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"246f9654b232441062f239625dbc4f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85844911,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85830793,
             "region_id":85688513,
             "venue_id":387846669
         }
     ],
     "wof:id":387846669,
-    "wof:lastmodified":1466775148,
+    "wof:lastmodified":1486769572,
     "wof:name":"Stoneware By Robert Jill Fronk",
-    "wof:parent_id":85844911,
+    "wof:parent_id":85830793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

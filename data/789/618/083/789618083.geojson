@@ -2,9 +2,14 @@
   "id": 789618083,
   "type": "Feature",
   "properties": {
+    "addr:full":"6022 NE 112th Ave Portland OR 97220",
+    "addr:housenumber":"6022",
+    "addr:postcode":"97220",
+    "addr:street":"Ne 112Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.547456,45.566897,-122.547456,45.566897",
     "geom:latitude":45.566897,
     "geom:longitude":-122.547456,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.hometownhearthandgrill.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85840687,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85840687
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85840687,
             "region_id":85688513,
             "venue_id":789618083
         }
     ],
     "wof:id":789618083,
-    "wof:lastmodified":1466768803,
+    "wof:lastmodified":1486769256,
     "wof:name":"Hometown Hearth & Grill",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789960331,
   "type": "Feature",
   "properties": {
+    "addr:full":"1933 W Burnside Street Portland OR 97209",
+    "addr:housenumber":"1933",
+    "addr:postcode":"97209",
+    "addr:street":"W Burnside Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.69093,45.522943,-122.69093,45.522943",
     "geom:latitude":45.522943,
     "geom:longitude":-122.69093,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789960331
         }
     ],
     "wof:id":789960331,
-    "wof:lastmodified":1466772546,
+    "wof:lastmodified":1486770954,
     "wof:name":"Panda Express",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

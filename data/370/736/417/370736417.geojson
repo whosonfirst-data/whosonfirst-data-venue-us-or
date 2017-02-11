@@ -2,9 +2,14 @@
   "id": 370736417,
   "type": "Feature",
   "properties": {
+    "addr:full":"12710 SE Division St Portland OR 97236",
+    "addr:housenumber":"",
+    "addr:postcode":"12710;97236",
+    "addr:street":"Se Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.531564,45.504144,-122.531564,45.504144",
     "geom:latitude":45.504144,
     "geom:longitude":-122.531564,
@@ -25,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        420781223,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85842991
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"237d6c6455aec0dfbcc2477a54fdf7b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85842991,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":420781223,
             "region_id":85688513,
             "venue_id":370736417
         }
     ],
     "wof:id":370736417,
-    "wof:lastmodified":1466773606,
+    "wof:lastmodified":1486772218,
     "wof:name":"Mid County Dental Health",
-    "wof:parent_id":85842991,
+    "wof:parent_id":420781223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 789877567,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 SW 1st Ave Suite 360 Portland OR 97204",
+    "addr:housenumber":"208",
+    "addr:postcode":"97204",
+    "addr:street":"Sw 1St Ave Suite 360",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671813,45.521013,-122.671813,45.521013",
     "geom:latitude":45.521013,
     "geom:longitude":-122.671813,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.VisaOregon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867303,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85867303,
             "region_id":85688513,
             "venue_id":789877567
         }
     ],
     "wof:id":789877567,
-    "wof:lastmodified":1466771485,
+    "wof:lastmodified":1486770668,
     "wof:name":"Nelson | Smith LLP",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

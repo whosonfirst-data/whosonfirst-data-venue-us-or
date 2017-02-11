@@ -2,9 +2,14 @@
   "id": 789625711,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 SW Alder St Portland OR 97204",
+    "addr:housenumber":"311",
+    "addr:postcode":"97204",
+    "addr:street":"Sw Alder",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675285,45.518949,-122.675285,45.518949",
     "geom:latitude":45.518949,
     "geom:longitude":-122.675285,
@@ -36,10 +41,10 @@
     "wof:belongsto":[
         85688513,
         102191575,
+        1108714057,
         85633793,
         101715829,
-        102081631,
-        85868953
+        102081631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +59,15 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
             "region_id":85688513,
             "venue_id":789625711
         }
     ],
     "wof:id":789625711,
-    "wof:lastmodified":1466768945,
+    "wof:lastmodified":1486764991,
     "wof:name":"Leather Furniture Co",
-    "wof:parent_id":85868953,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

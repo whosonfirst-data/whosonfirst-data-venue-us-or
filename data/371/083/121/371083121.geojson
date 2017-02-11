@@ -2,9 +2,14 @@
   "id": 371083121,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 SE Morrison St Portland OR 97214",
+    "addr:housenumber":"627",
+    "addr:postcode":"97214",
+    "addr:street":"Se Morrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.658872,45.517295,-122.658872,45.517295",
     "geom:latitude":45.517295,
     "geom:longitude":-122.658872,
@@ -31,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        1108713517,
+        85871515,
+        102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85816689
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,21 @@
     "wof:geomhash":"5aaf67b51edf7ea36e5a9fd3f977ca73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85816689,
+            "macrohood_id":1108715281,
+            "microhood_id":1108713517,
+            "neighbourhood_id":85871515,
             "region_id":85688513,
             "venue_id":371083121
         }
     ],
     "wof:id":371083121,
-    "wof:lastmodified":1466768517,
+    "wof:lastmodified":1486773470,
     "wof:name":"Portland Swimwear Inc",
-    "wof:parent_id":85816689,
+    "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

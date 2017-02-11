@@ -2,9 +2,14 @@
   "id": 789977087,
   "type": "Feature",
   "properties": {
+    "addr:full":"2378 NW Irving Street Portland OR 97210",
+    "addr:housenumber":"2378",
+    "addr:postcode":"97210",
+    "addr:street":"Nw Irving Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.700224,45.527734,-122.700224,45.527734",
     "geom:latitude":45.527734,
     "geom:longitude":-122.700224,
@@ -29,12 +34,13 @@
     "sg:website":"www.fruitandflower.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871509,
         102191575,
+        1108714055,
         85633793,
         101715829,
         102081631,
-        85867141
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85867141,
+            "macrohood_id":1108714055,
+            "neighbourhood_id":85871509,
             "region_id":85688513,
             "venue_id":789977087
         }
     ],
     "wof:id":789977087,
-    "wof:lastmodified":1466772812,
+    "wof:lastmodified":1486771205,
     "wof:name":"Fruit & Flower Child Care Center",
-    "wof:parent_id":85867141,
+    "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

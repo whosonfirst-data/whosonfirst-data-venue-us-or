@@ -2,9 +2,14 @@
   "id": 387886983,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 NE Wygant St Portland OR 97211",
+    "addr:housenumber":"206",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Wygant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.662632,45.55759,-122.662632,45.55759",
     "geom:latitude":45.55759,
     "geom:longitude":-122.662632,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893199,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893199
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"900dbe5295e3f31c3b14a396d37a9988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893199,
             "region_id":85688513,
             "venue_id":387886983
         }
     ],
     "wof:id":387886983,
-    "wof:lastmodified":1466775243,
+    "wof:lastmodified":1486768402,
     "wof:name":"Debrie Dub",
     "wof:parent_id":85893199,
     "wof:placetype":"venue",

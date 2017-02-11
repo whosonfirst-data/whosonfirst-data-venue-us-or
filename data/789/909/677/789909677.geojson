@@ -2,9 +2,14 @@
   "id": 789909677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1411 SW Morrison Street Portland OR 97205",
+    "addr:housenumber":"1411",
+    "addr:postcode":"97205",
+    "addr:street":"Sw Morrison Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686291,45.521151,-122.686291,45.521151",
     "geom:latitude":45.521151,
     "geom:longitude":-122.686291,
@@ -40,12 +45,13 @@
     "sg:website":"www.thechildrensgarden.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871479,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +66,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85871479,
             "region_id":85688513,
             "venue_id":789909677
         }
     ],
     "wof:id":789909677,
-    "wof:lastmodified":1466771919,
+    "wof:lastmodified":1486764139,
     "wof:name":"Children's Garden Learning Centers",
     "wof:parent_id":85871479,
     "wof:placetype":"venue",

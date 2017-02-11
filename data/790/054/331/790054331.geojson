@@ -2,9 +2,14 @@
   "id": 790054331,
   "type": "Feature",
   "properties": {
+    "addr:full":"4944 N Williams Ave Portland OR 97217",
+    "addr:housenumber":"4944",
+    "addr:postcode":"97217",
+    "addr:street":"N Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.66671,45.558856,-122.66671,45.558856",
     "geom:latitude":45.558856,
     "geom:longitude":-122.66671,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893195,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893195
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893195,
             "region_id":85688513,
             "venue_id":790054331
         }
     ],
     "wof:id":790054331,
-    "wof:lastmodified":1466768155,
+    "wof:lastmodified":1486768459,
     "wof:name":"Glad Rags",
     "wof:parent_id":85893195,
     "wof:placetype":"venue",

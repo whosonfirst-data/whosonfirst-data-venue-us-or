@@ -2,9 +2,14 @@
   "id": 790041315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 SE 82nd Ave Portland OR 97215",
+    "addr:housenumber":"1817",
+    "addr:postcode":"97215",
+    "addr:street":"Se 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579066,45.509655,-122.579066,45.509655",
     "geom:latitude":45.509655,
     "geom:longitude":-122.579066,
@@ -25,12 +30,14 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85871497,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85871497
+        85688513,
+        85834889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85871497,
+            "region_id":85688513,
+            "venue_id":790041315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108715281,
+            "neighbourhood_id":85834889,
             "region_id":85688513,
             "venue_id":790041315
         }
     ],
     "wof:id":790041315,
-    "wof:lastmodified":1466767877,
+    "wof:lastmodified":1486769614,
     "wof:name":"L. K. Foods Trading",
-    "wof:parent_id":85871497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

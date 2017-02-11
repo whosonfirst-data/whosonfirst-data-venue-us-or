@@ -2,9 +2,14 @@
   "id": 387919457,
   "type": "Feature",
   "properties": {
+    "addr:full":"4106 N Vancouver Ave Portland OR 97217",
+    "addr:housenumber":"4106",
+    "addr:postcode":"97217",
+    "addr:street":"N Vancouver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.667928,45.554534,-122.667928,45.554534",
     "geom:latitude":45.554534,
     "geom:longitude":-122.667928,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893159,
+        102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893159
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"c9f2aede14f072cab07c915fb0125bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893159,
             "region_id":85688513,
             "venue_id":387919457
         }
     ],
     "wof:id":387919457,
-    "wof:lastmodified":1466775430,
+    "wof:lastmodified":1486768516,
     "wof:name":"Northeast Workforce Center",
     "wof:parent_id":85893159,
     "wof:placetype":"venue",

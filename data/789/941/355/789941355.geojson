@@ -2,9 +2,14 @@
   "id": 789941355,
   "type": "Feature",
   "properties": {
+    "addr:full":"7511 SE Henry Pl Fl 2 Portland OR 97206",
+    "addr:housenumber":"7511;2",
+    "addr:postcode":"97206",
+    "addr:street":"Se Henry Pl Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.58582,45.476193,-122.58582,45.476193",
     "geom:latitude":45.476193,
     "geom:longitude":-122.58582,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893209,
         102191575,
+        1108715281,
         85633793,
         101715829,
         102081631,
-        85893209
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108715281,
             "neighbourhood_id":85893209,
             "region_id":85688513,
             "venue_id":789941355
         }
     ],
     "wof:id":789941355,
-    "wof:lastmodified":1466772418,
+    "wof:lastmodified":1486767109,
     "wof:name":"Henry Court Apts Inc",
     "wof:parent_id":85893209,
     "wof:placetype":"venue",

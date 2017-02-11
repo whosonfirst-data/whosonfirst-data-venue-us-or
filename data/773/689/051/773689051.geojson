@@ -2,9 +2,14 @@
   "id": 773689051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4105 N Colonial Ave Portland OR 97217",
+    "addr:housenumber":"4105",
+    "addr:postcode":"97217",
+    "addr:street":"N Colonial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.684147,45.554646,-122.684147,45.554646",
     "geom:latitude":45.554646,
     "geom:longitude":-122.684147,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893221,
         102191575,
+        1108714605,
         85633793,
         101715829,
         102081631,
-        85802599
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85802599,
+            "macrohood_id":1108714605,
+            "neighbourhood_id":85893221,
             "region_id":85688513,
             "venue_id":773689051
         }
     ],
     "wof:id":773689051,
-    "wof:lastmodified":1466775724,
+    "wof:lastmodified":1486771832,
     "wof:name":"Quiznos Subs",
-    "wof:parent_id":85802599,
+    "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

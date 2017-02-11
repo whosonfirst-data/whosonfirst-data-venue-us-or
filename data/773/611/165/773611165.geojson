@@ -2,9 +2,14 @@
   "id": 773611165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 SW 11th Ave Portland OR 97205",
+    "addr:housenumber":"1110",
+    "addr:postcode":"97205",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685191,45.516326,-122.685191,45.516326",
     "geom:latitude":45.516326,
     "geom:longitude":-122.685191,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
         102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":773611165
         }
     ],
     "wof:id":773611165,
-    "wof:lastmodified":1466775509,
+    "wof:lastmodified":1486764977,
     "wof:name":"Northwest Pilot Project",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

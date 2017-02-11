@@ -2,9 +2,14 @@
   "id": 790249071,
   "type": "Feature",
   "properties": {
+    "addr:full":"3449 NE 72nd Ave Portland OR 97253",
+    "addr:housenumber":"3449",
+    "addr:postcode":"97253",
+    "addr:street":"Ne 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.588905,45.548019,-122.588905,45.548019",
     "geom:latitude":45.548019,
     "geom:longitude":-122.588905,
@@ -25,12 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893229,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85893229
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108720843,
             "neighbourhood_id":85893229,
             "region_id":85688513,
             "venue_id":790249071
         }
     ],
     "wof:id":790249071,
-    "wof:lastmodified":1466772645,
+    "wof:lastmodified":1486769271,
     "wof:name":"Annie's Donuts",
     "wof:parent_id":85893229,
     "wof:placetype":"venue",

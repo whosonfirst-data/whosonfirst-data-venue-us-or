@@ -2,9 +2,14 @@
   "id": 773317831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2156 NE Columbia Blvd Portland OR 97211",
+    "addr:housenumber":"2156",
+    "addr:postcode":"97211",
+    "addr:street":"Ne Columbia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.64171,45.576008,-122.64171,45.576008",
     "geom:latitude":45.576008,
     "geom:longitude":-122.64171,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85893173,
         102191575,
+        1108720843,
         85633793,
         101715829,
         102081631,
-        85868949
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868949,
+            "macrohood_id":1108720843,
+            "neighbourhood_id":85893173,
             "region_id":85688513,
             "venue_id":773317831
         }
     ],
     "wof:id":773317831,
-    "wof:lastmodified":1466773177,
+    "wof:lastmodified":1486771566,
     "wof:name":"Platt Electric Supply Inc",
-    "wof:parent_id":85868949,
+    "wof:parent_id":85893173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
