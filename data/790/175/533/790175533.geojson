@@ -8,13 +8,19 @@
     "addr:street":"N Mississippi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.675558,45.548282,-122.675558,45.548282",
     "geom:latitude":45.548282,
     "geom:longitude":-122.675558,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=mexican"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"3524 N Mississippi Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593740,
-    "wof:geomhash":"a38da4214780544b8eedcda736353889",
+    "wof:geomhash":"abb1e08fd8353e2c34aadc037ea38d06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":790175533,
-    "wof:lastmodified":1486773745,
+    "wof:lastmodified":1502555694,
     "wof:name":"?Por Que No?",
     "wof:parent_id":1108718537,
     "wof:placetype":"venue",
@@ -72,7 +78,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "mexican"
+        "mexican",
+        "restaurant"
     ]
 },
   "bbox": [
