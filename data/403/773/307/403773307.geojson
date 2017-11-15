@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.685076,45.520707,-122.685076,45.520707",
     "geom:latitude":45.520707,
     "geom:longitude":-122.685076,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85871479
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"1419d55ab559ddbac6464c92a5cf2fbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85871479,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":403773307
         }
     ],
     "wof:id":403773307,
-    "wof:lastmodified":1472640923,
+    "wof:lastmodified":1491876771,
     "wof:name":"Charles R Edwards PHD",
-    "wof:parent_id":85871479,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

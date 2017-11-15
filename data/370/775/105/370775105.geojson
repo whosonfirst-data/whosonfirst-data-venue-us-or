@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.771633,45.509001,-122.771633,45.509001",
     "geom:latitude":45.509001,
     "geom:longitude":-122.771633,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"19cf36b5e513fa73f9597a44b3335064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":370775105
         }
     ],
     "wof:id":370775105,
-    "wof:lastmodified":1472641343,
+    "wof:lastmodified":1491922238,
     "wof:name":"Anderson Construction Inc",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",

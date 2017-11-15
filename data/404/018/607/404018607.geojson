@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67347,45.516962,-122.67347,45.516962",
     "geom:latitude":45.516962,
     "geom:longitude":-122.67347,
@@ -35,11 +36,13 @@
     "sg:website":"www.ata.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"9f5b618c871f7c7109a00ae50a25e941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":404018607
         }
     ],
     "wof:id":404018607,
-    "wof:lastmodified":1472640856,
+    "wof:lastmodified":1491876525,
     "wof:name":"American Tinnitus Association",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

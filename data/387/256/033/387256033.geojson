@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.681215,45.521359,-122.681215,45.521359",
     "geom:latitude":45.521359,
     "geom:longitude":-122.681215,
@@ -29,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85868953
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"090ff97882e87908bccefa78757db5c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
-            "neighbourhood_id":85868953,
+            "macrohood_id":1108714057,
+            "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387256033
         }
     ],
     "wof:id":387256033,
-    "wof:lastmodified":1472641191,
+    "wof:lastmodified":1491876981,
     "wof:name":"Cheryl Stewart",
-    "wof:parent_id":85868953,
+    "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],

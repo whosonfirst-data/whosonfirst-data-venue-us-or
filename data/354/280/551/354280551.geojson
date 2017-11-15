@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.676292,45.518346,-122.676292,45.518346",
     "geom:latitude":45.518346,
     "geom:longitude":-122.676292,
@@ -29,11 +30,13 @@
     "sg:province":"OR",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:brand_id":420574685,
     "wof:breaches":[],
@@ -44,17 +47,18 @@
     "wof:geomhash":"772820f616cef0503d5ac678ff29ab73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":354280551
         }
     ],
     "wof:id":354280551,
-    "wof:lastmodified":1472640890,
+    "wof:lastmodified":1491876724,
     "wof:name":"Journeys",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

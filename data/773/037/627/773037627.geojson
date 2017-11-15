@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.744505,45.504049,-122.744505,45.504049",
     "geom:latitude":45.504049,
     "geom:longitude":-122.744505,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
         102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":773037627
         }
     ],
     "wof:id":773037627,
-    "wof:lastmodified":1472641170,
+    "wof:lastmodified":1491922245,
     "wof:name":"Doctor T & His Orchestra",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",

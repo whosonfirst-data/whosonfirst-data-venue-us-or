@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.747072,45.518512,-122.747072,45.518512",
     "geom:latitude":45.518512,
     "geom:longitude":-122.747072,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"0fbaf4922f2aa88e0a656b3197640a60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":370361497
         }
     ],
     "wof:id":370361497,
-    "wof:lastmodified":1472641087,
+    "wof:lastmodified":1491922230,
     "wof:name":"Fixture Production Co",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",

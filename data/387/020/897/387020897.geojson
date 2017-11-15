@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.752985,45.515609,-122.752985,45.515609",
     "geom:latitude":45.515609,
     "geom:longitude":-122.752985,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85851719,
+        102191575,
+        1108714057,
         85633793,
-        101716333,
-        102082215,
-        85851719
+        101715829,
+        102081631,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"cf50d8199a0713d6c2b88bc1819fc3b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082215,
-            "locality_id":101716333,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85851719,
             "region_id":85688513,
             "venue_id":387020897
         }
     ],
     "wof:id":387020897,
-    "wof:lastmodified":1472640861,
+    "wof:lastmodified":1491922277,
     "wof:name":"Michael G Thomas Chocolate",
     "wof:parent_id":85851719,
     "wof:placetype":"venue",

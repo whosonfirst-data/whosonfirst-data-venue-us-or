@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.675152,45.516767,-122.675152,45.516767",
     "geom:latitude":45.516767,
     "geom:longitude":-122.675152,
@@ -30,11 +31,13 @@
     "sg:website":"www.foottrafficpdx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"f7fe1b71435849b9c5d2d8930761b293",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387137033
         }
     ],
     "wof:id":387137033,
-    "wof:lastmodified":1472641088,
+    "wof:lastmodified":1491877273,
     "wof:name":"Foot Traffic",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

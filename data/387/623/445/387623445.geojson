@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.67547,45.516009,-122.67547,45.516009",
     "geom:latitude":45.516009,
     "geom:longitude":-122.67547,
@@ -35,11 +36,13 @@
     "sg:website":"www.msa-ep.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"04af7d110823789dc1b9a935a0efda1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":387623445
         }
     ],
     "wof:id":387623445,
-    "wof:lastmodified":1472641425,
+    "wof:lastmodified":1491876781,
     "wof:name":"Murray Smith & Associates Inc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",

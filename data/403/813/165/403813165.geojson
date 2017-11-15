@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.680864,45.512925,-122.680864,45.512925",
     "geom:latitude":45.512925,
     "geom:longitude":-122.680864,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688513,
+        85867131,
+        102191575,
+        1108714057,
         85633793,
         101715829,
         102081631,
-        85867131
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"907e8611a85521c0a9fcfdbccf38a3e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081631,
             "locality_id":101715829,
+            "macrohood_id":1108714057,
             "neighbourhood_id":85867131,
             "region_id":85688513,
             "venue_id":403813165
         }
     ],
     "wof:id":403813165,
-    "wof:lastmodified":1472640957,
+    "wof:lastmodified":1491876414,
     "wof:name":"David C Landis",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
