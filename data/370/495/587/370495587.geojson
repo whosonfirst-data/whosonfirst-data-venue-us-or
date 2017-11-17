@@ -7,6 +7,7 @@
     "addr:postcode":"97210",
     "addr:street":"Nw 22Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.696679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 NW 22nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
         "sg:id":"SG_5CpnLH7RcczOY9uNypUc6f_45.530435_-122.696679@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3f51ac2f2e545fd2c195dda3c8a9c59",
+    "wof:geomhash":"074dc79d941e38c901769d1ea240a204",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":370495587,
-    "wof:lastmodified":1486773777,
+    "wof:lastmodified":1510943019,
     "wof:name":"Diagnostic Imaging N W PC",
     "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789971383
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

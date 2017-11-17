@@ -7,6 +7,7 @@
     "addr:postcode":"97221",
     "addr:street":"Sw Westgate Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.732326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5440 SW Westgate Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_6ukAIcsLgKBV1nVj2MqRXy_45.510631_-122.732326@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b676203716c8ab19d6ff1a5c73047ba0",
+    "wof:geomhash":"c5db0d84cd3a45f4b2b82fab1ae9a164",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":371064355,
-    "wof:lastmodified":1491877558,
+    "wof:lastmodified":1510942489,
     "wof:name":"John P Knox",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790101213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

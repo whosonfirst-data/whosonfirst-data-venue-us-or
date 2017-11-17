@@ -7,13 +7,16 @@
     "addr:postcode":"97005",
     "addr:street":"Sw Beaverton Hillsdale Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.78787,45.487963,-122.78787,45.487963",
     "geom:latitude":45.487963,
     "geom:longitude":-122.78787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10775 SW Beaverton Hillsdale Hwy",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -47,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":452906513,
         "sg:id":"SG_4kIvN6VmaFINSl2eI5Hyky_45.487963_-122.787870@1303263404"
     },
     "wof:country":"US",
     "wof:created":1462589748,
-    "wof:geomhash":"3c61aea4652ac3c05581a4624ad3f439",
+    "wof:geomhash":"1bf687a93faaef043ab7e2b5f500f611",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +68,17 @@
         }
     ],
     "wof:id":789685817,
-    "wof:lastmodified":1472641166,
+    "wof:lastmodified":1510942709,
     "wof:name":"Target",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789687229
+    ],
+    "wof:supersedes":[
+        789687229
+    ],
     "wof:tags":[
         "drugstore"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"97213",
     "addr:street":"Ne Hoyt St Ste 157 Suite 120",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.610854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5050 NE Hoyt St Ste 157 Suite 120",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592388,
-    "wof:geomhash":"388b25b786d82787e1d8e683dbda6179",
+    "wof:geomhash":"69dc5546cc80eb3d840d9ce563cecebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":790007109,
-    "wof:lastmodified":1486772428,
+    "wof:lastmodified":1510942222,
     "wof:name":"Oregon Osteoporosis Center",
     "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790006517
+    ],
+    "wof:supersedes":[
+        386992435
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"97221",
     "addr:street":"Sw Westgate Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.731959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5201 SW Westgate Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585314,
-    "wof:geomhash":"b52308c222e8e55efa12ca57fe3d4ae4",
+    "wof:geomhash":"54ed786e63d64a69ea5608b8a47b418a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,13 +82,18 @@
         }
     ],
     "wof:id":773388825,
-    "wof:lastmodified":1491877810,
+    "wof:lastmodified":1510943311,
     "wof:name":"Pacific Northwest Pilates",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790104387
+    ],
+    "wof:supersedes":[
+        790104387,
+        790104473
+    ],
     "wof:tags":[
         "program",
         "physical",

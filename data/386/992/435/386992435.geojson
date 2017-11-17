@@ -7,6 +7,7 @@
     "addr:postcode":"97213",
     "addr:street":"Ne Hoyt St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.611074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5050 NE Hoyt St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_5ccT8VjOzv4i48H4FEW0lu_45.527144_-122.611074@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"08a7e58af37cf65dcb48c749feccda38",
+    "wof:geomhash":"ee808625ad8b18921daa8d7012cabb15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,15 @@
         }
     ],
     "wof:id":386992435,
-    "wof:lastmodified":1486772409,
+    "wof:lastmodified":1510942222,
     "wof:name":"Oregon Osteoporosis Center",
     "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790007109,
+        790006517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -7,6 +7,7 @@
     "addr:postcode":"97205",
     "addr:street":"Sw Alder",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.678317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"610 SW Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589175,
-    "wof:geomhash":"e459d8e5a283fc0e68251b8fb9b958ce",
+    "wof:geomhash":"20c1f5cd1c7479f0c10aa343633195a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":789614933,
-    "wof:lastmodified":1486770128,
+    "wof:lastmodified":1510943092,
     "wof:name":"Electrolysis Clinic of Portland",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789926707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"

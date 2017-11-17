@@ -7,6 +7,7 @@
     "addr:postcode":"97202",
     "addr:street":"Se Milwaukie Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.654372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3230 SE Milwaukie Avenue",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":368063562,
         "sg:id":"SG_0WqhYsD44jpjgRoDCoT7OC_45.499838_-122.654372@1303263411"
     },
     "wof:country":"US",
     "wof:created":1462591068,
-    "wof:geomhash":"d32168e7fbd0be064cd96bdc95f54dd7",
+    "wof:geomhash":"12d8d9047f5fc408a01833223a562472",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":789855249,
-    "wof:lastmodified":1486769396,
+    "wof:lastmodified":1510942933,
     "wof:name":"U S Bank",
     "wof:parent_id":85807897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773827715
+    ],
+    "wof:supersedes":[
+        773827715
+    ],
     "wof:tags":[]
 },
   "bbox": [

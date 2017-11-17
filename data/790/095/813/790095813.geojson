@@ -7,6 +7,7 @@
     "addr:postcode":"97220",
     "addr:street":"Ne Sandy Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.553418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10618 NE Sandy Boulevard",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593095,
-    "wof:geomhash":"60a9841ec2b9253c6217e00c7c239a01",
+    "wof:geomhash":"c6d66ca25871b46aa3ad181a6c308fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":790095813,
-    "wof:lastmodified":1486769691,
+    "wof:lastmodified":1510943901,
     "wof:name":"Saltwater Fanta-seas",
     "wof:parent_id":85840687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790096657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

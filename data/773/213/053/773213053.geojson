@@ -7,6 +7,7 @@
     "addr:postcode":"25691;97060",
     "addr:street":"Se Stark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.401138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"25691 SE Stark St",
     "sg:city":"Troutdale",
     "sg:classifiers":[
@@ -44,13 +45,17 @@
     "wof:geomhash":"4661401dfd946c426da06fef0c613029",
     "wof:hierarchy":[],
     "wof:id":773213053,
-    "wof:lastmodified":1510604540,
+    "wof:lastmodified":1510943129,
     "wof:name":"Albertsons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789769643
+    ],
+    "wof:supersedes":[
+        789769643
+    ],
     "wof:tags":[
         "grocer"
     ]

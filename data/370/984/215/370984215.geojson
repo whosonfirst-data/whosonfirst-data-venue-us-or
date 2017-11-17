@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 6Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.677535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"321 SW 6th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_1681qkJ44nYQCps567Qvbp_45.521237_-122.677535@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8cc585319637eb74de755ba6027f41d",
+    "wof:geomhash":"8a338042ef28cc0b0014bc1cdf746221",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":370984215,
-    "wof:lastmodified":1486770239,
+    "wof:lastmodified":1510942831,
     "wof:name":"US Bank",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789893277
+    ],
+    "wof:supersedes":[
+        789893601,
+        789893277
+    ],
     "wof:tags":[]
 },
   "bbox": [

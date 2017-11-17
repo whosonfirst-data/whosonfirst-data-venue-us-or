@@ -7,6 +7,7 @@
     "addr:postcode":"97209",
     "addr:street":"W Burnside St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.687459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1623 W Burnside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589090,
-    "wof:geomhash":"5da0d643e094f283ca57441d3699f2ea",
+    "wof:geomhash":"d28a394d029532f916ab83f5b36cda67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":789603179,
-    "wof:lastmodified":1486771154,
+    "wof:lastmodified":1510943657,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789958229
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

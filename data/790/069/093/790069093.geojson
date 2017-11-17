@@ -7,6 +7,7 @@
     "addr:postcode":"97218",
     "addr:street":"Ne 42Nd Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.620243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4920 NE 42nd Avenue",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":368206763,
         "sg:id":"SG_1LooYTW4Gfv5kbP9wwC9nt_45.558480_-122.620243@1303263421"
     },
     "wof:country":"US",
     "wof:created":1462592884,
-    "wof:geomhash":"f88163763d808e576a3f5c3cb3fb05c6",
+    "wof:geomhash":"f26f89ede6412eefda5f3a1ed5bef994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":790069093,
-    "wof:lastmodified":1486771609,
+    "wof:lastmodified":1510943248,
     "wof:name":"U S Bank",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789585303
+    ],
+    "wof:supersedes":[
+        789585303
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"97210",
     "addr:street":"Nw Flanders St Suite 207",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.699035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2330 NW Flanders St Suite 207",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592104,
-    "wof:geomhash":"221b951a8b83f819b299ded3b14c0a2e",
+    "wof:geomhash":"d6964726132dc40bdd9e02fba1019690",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":789972547,
-    "wof:lastmodified":1486771204,
+    "wof:lastmodified":1510942180,
     "wof:name":"Westover Heights Clinic",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789977059
+    ],
+    "wof:supersedes":[
+        370372135
+    ],
     "wof:tags":[
         "welfare"
     ]

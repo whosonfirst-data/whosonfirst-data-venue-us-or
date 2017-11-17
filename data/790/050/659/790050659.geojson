@@ -7,6 +7,7 @@
     "addr:postcode":"97216",
     "addr:street":"Se Main Street Suite",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.558569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10201 SE Main Street Suite 11",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592730,
-    "wof:geomhash":"12f296583b1d1b6fe60750e07cef0fef",
+    "wof:geomhash":"a56aba36c4b9c6fc073201135eb56ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,19 @@
         }
     ],
     "wof:id":790050659,
-    "wof:lastmodified":1486770727,
+    "wof:lastmodified":1510942870,
     "wof:name":"Adventist Health Adventist Medical Center",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790050675,
+        790050847
+    ],
+    "wof:supersedes":[
+        790047721,
+        790047651
+    ],
     "wof:tags":[]
 },
   "bbox": [

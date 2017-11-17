@@ -7,6 +7,7 @@
     "addr:postcode":"97221",
     "addr:street":"Sw Westgate Drive Suite 115",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.731785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5201 SW Westgate Drive Suite 115",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3626207735,
         "sg:id":"SG_5ej9hSANFI4oHnml96Cht0_45.509275_-122.731785@1303263423"
     },
     "wof:country":"US",
     "wof:created":1462593174,
-    "wof:geomhash":"e72dd9115c0828e9697edf8b0b102efe",
+    "wof:geomhash":"17545a6aa0758af78138e8826b95359e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +76,19 @@
         }
     ],
     "wof:id":790104387,
-    "wof:lastmodified":1491876806,
+    "wof:lastmodified":1510943311,
     "wof:name":"Pacific Northwest Pilates",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790104473,
+        773388825
+    ],
+    "wof:supersedes":[
+        773388825,
+        790104473
+    ],
     "wof:tags":[
         "trainer",
         "pilate"

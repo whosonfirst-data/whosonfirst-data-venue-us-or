@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 5Th Ave Suite 1600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.677505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 SW 5th Ave suite 1600",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591316,
-    "wof:geomhash":"4ced702fce44d2b3905b5ccaba099798",
+    "wof:geomhash":"deee8bbec01a38342a5b7dcba60ee076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":789882983,
-    "wof:lastmodified":1486764131,
+    "wof:lastmodified":1510943078,
     "wof:name":"Something Silver",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789890461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

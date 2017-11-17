@@ -15,7 +15,7 @@
     "geom:longitude":-122.838487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"1225 NW Waterhouse Ave",
     "sg:city":"Beaverton",
     "sg:classifiers":[],
@@ -36,6 +36,7 @@
     "wof:brand_id":1125155317,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":324118997,
         "sg:id":"SG_252Lr0LwmMlbMkkVwYGqvD_45.528266_-122.838487@1303263405"
     },
     "wof:country":"US",
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":789695231,
-    "wof:lastmodified":1510696061,
+    "wof:lastmodified":1510944044,
     "wof:name":"Sweet Tomatoes",
     "wof:parent_id":85817883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789655025
+    ],
     "wof:tags":[]
 },
   "bbox": [

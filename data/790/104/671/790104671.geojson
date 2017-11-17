@@ -7,6 +7,7 @@
     "addr:postcode":"11050;97222",
     "addr:street":"Se Mcloughlin Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.642161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"11050 SE McLoughlin Boulevard",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,6 +36,7 @@
     "wof:brand_id":1125150603,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":368695661,
         "sg:id":"SG_3vGc4ccrDJmgHnrGEOZCMS_45.442614_-122.642161@1303263423"
     },
     "wof:country":"US",
@@ -42,13 +44,17 @@
     "wof:geomhash":"1c215e58b07e59cd736373d610bf575a",
     "wof:hierarchy":[],
     "wof:id":790104671,
-    "wof:lastmodified":1510697769,
+    "wof:lastmodified":1510943329,
     "wof:name":"Bank of the West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790113819
+    ],
+    "wof:supersedes":[
+        790113819
+    ],
     "wof:tags":[]
 },
   "bbox": [

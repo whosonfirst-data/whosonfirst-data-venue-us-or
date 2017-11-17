@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.455403,45.544872,-122.455403,45.544872",
     "geom:latitude":45.544872,
     "geom:longitude":-122.455403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"20101 NE Sandy Blvd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -39,10 +41,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4867967456,
         "sg:id":"SG_1Mu0HeWEmpqpxoEDysDM3H_45.544872_-122.455403@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8021222ac031236ba6755d3a58cda0da",
+    "wof:geomhash":"693cdab7b41b78431bd20fce821db62a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,15 @@
         }
     ],
     "wof:id":387627847,
-    "wof:lastmodified":1472641425,
+    "wof:lastmodified":1510943435,
     "wof:name":"Stagecoach Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789735955
+    ],
     "wof:tags":[
         "bar"
     ]

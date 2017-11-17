@@ -7,6 +7,7 @@
     "addr:postcode":"97213",
     "addr:street":"Ne Glisan St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.614434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4805 NE Glisan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -89,7 +91,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592358,
-    "wof:geomhash":"af376f204d64bd330663de59b04e1177",
+    "wof:geomhash":"354869044f818ac9711575dc27694faf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,12 +105,14 @@
         }
     ],
     "wof:id":790004163,
-    "wof:lastmodified":1486772417,
+    "wof:lastmodified":1510944071,
     "wof:name":"Providence Portland Medical Center",
     "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790013901
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

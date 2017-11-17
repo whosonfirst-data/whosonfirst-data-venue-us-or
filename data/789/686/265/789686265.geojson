@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.797997,45.488998,-122.797997,45.488998",
     "geom:latitude":45.488998,
     "geom:longitude":-122.797997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11950 SW Broadway St",
     "sg:city":"Beaverton",
     "sg:classifiers":[
@@ -47,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":849037663,
         "sg:id":"SG_6ChuzAZmzSd2jUn1czqHdd_45.488998_-122.797997@1303263404"
     },
     "wof:country":"US",
     "wof:created":1462589751,
-    "wof:geomhash":"ccf2c1a590b2160026f8edc156aafb57",
+    "wof:geomhash":"b6d515c95d28bfd8324270ca131c0a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +67,15 @@
         }
     ],
     "wof:id":789686265,
-    "wof:lastmodified":1472641165,
+    "wof:lastmodified":1510944121,
     "wof:name":"The Dessert Tray",
     "wof:parent_id":85868963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789654823
+    ],
     "wof:tags":[
         "dessert"
     ]

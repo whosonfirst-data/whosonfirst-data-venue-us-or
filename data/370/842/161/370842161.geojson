@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.302557,44.044718,-121.302557,44.044718",
     "geom:latitude":44.044718,
     "geom:longitude":-121.302557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"535 SE 3rd St",
     "sg:city":"Bend",
     "sg:classifiers":[
@@ -41,10 +43,11 @@
     "wof:brand_id":420574679,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":505699152,
         "sg:id":"SG_1b0EML71vlvmWazQxs7Bv2_44.044718_-121.302557@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"628e026428be25d6f26db8c47e1bf745",
+    "wof:geomhash":"d893b15d724e639a4e2a9fc314e059e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,15 @@
         }
     ],
     "wof:id":370842161,
-    "wof:lastmodified":1472641359,
+    "wof:lastmodified":1510943689,
     "wof:name":"Arbys",
     "wof:parent_id":85876211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789634717
+    ],
     "wof:tags":[
         "eating"
     ]

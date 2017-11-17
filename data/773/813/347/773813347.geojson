@@ -7,6 +7,7 @@
     "addr:postcode":"97217",
     "addr:street":"N Interstate Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.681999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4550 N Interstate Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588579,
-    "wof:geomhash":"203ebdd295c0a42be2417a56c7ce2c6f",
+    "wof:geomhash":"f588d4d2f215d59361619c50011ada17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,17 @@
         }
     ],
     "wof:id":773813347,
-    "wof:lastmodified":1486771849,
+    "wof:lastmodified":1510942181,
     "wof:name":"US Bank",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790060715
+    ],
+    "wof:supersedes":[
+        790060715
+    ],
     "wof:tags":[
         "saving",
         "commercial"

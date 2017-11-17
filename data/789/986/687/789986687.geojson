@@ -7,6 +7,7 @@
     "addr:postcode":"97211",
     "addr:street":"Ne Alberta St. Suite B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.642548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2225 NE Alberta St. Suite B",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4134857709,
         "sg:id":"SG_2NpZs0Xphuv3XSCDE8qJC2_45.559238_-122.642548@1303263417"
     },
     "wof:country":"US",
     "wof:created":1462592223,
-    "wof:geomhash":"e2c50f749a007a3e55a0367244c956ab",
+    "wof:geomhash":"fce746c24f7aad0341863b9738964b78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":789986687,
-    "wof:lastmodified":1486773374,
+    "wof:lastmodified":1510942732,
     "wof:name":"Body Aware Massage",
     "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789987961
+    ],
+    "wof:supersedes":[
+        789987961
+    ],
     "wof:tags":[]
 },
   "bbox": [

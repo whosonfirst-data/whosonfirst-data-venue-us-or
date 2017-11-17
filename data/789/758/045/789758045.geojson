@@ -7,13 +7,16 @@
     "addr:postcode":"97035",
     "addr:street":"Boones Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.720684,45.40914,-122.720684,45.40914",
     "geom:latitude":45.40914,
     "geom:longitude":-122.720684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16044 Boones Ferry Rd",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -39,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":53871664,
         "sg:id":"SG_6Er5vfsQ4h7tqkSapM6byq_45.409140_-122.720684@1303263407"
     },
     "wof:country":"US",
     "wof:created":1462590315,
-    "wof:geomhash":"b4da31e1c4b457701f3b1470542941d5",
+    "wof:geomhash":"6e10fa2663af413eb83e344d1a1d2a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +60,17 @@
         }
     ],
     "wof:id":789758045,
-    "wof:lastmodified":1472641335,
+    "wof:lastmodified":1510944072,
     "wof:name":"McDonald's",
     "wof:parent_id":85829115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        370774029
+    ],
+    "wof:supersedes":[
+        370774029
+    ],
     "wof:tags":[]
 },
   "bbox": [

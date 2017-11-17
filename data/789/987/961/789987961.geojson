@@ -7,6 +7,7 @@
     "addr:postcode":"97211",
     "addr:street":"Ne Alberta St Ste B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.642633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2225 NE Alberta St Ste B",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592231,
-    "wof:geomhash":"1cf5a8ef0b1f5398b9966ab578f23d29",
+    "wof:geomhash":"ede30f245e7558f2ccc5d1a9d11ed387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":789987961,
-    "wof:lastmodified":1486773375,
+    "wof:lastmodified":1510942732,
     "wof:name":"Bodyaware Massage",
     "wof:parent_id":1108713505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789986687
+    ],
+    "wof:supersedes":[
+        789986687
+    ],
     "wof:tags":[
         "medicine",
         "alternative"

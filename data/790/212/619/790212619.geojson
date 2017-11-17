@@ -7,6 +7,7 @@
     "addr:postcode":"97232",
     "addr:street":"Lloyd Ctr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.651952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1407 Lloyd Ctr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594045,
-    "wof:geomhash":"389b495e99752650659b847a1f6ae62d",
+    "wof:geomhash":"4449bc8e92172098b3a09a12255c3bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":790212619,
-    "wof:lastmodified":1491864837,
+    "wof:lastmodified":1510943153,
     "wof:name":"U S Bank",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790213345
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"97217",
     "addr:street":"N Interstate Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.68201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4550 N Interstate Avenue",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":367514462,
         "sg:id":"SG_2dqTl7xhrI6p0pd2Dx8DXi_45.555617_-122.682010@1303263421"
     },
     "wof:country":"US",
     "wof:created":1462592826,
-    "wof:geomhash":"8408e0d7e404678e3bba943f23100d0d",
+    "wof:geomhash":"cb974022b23256a6088a8f2b9b02f239",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":790060715,
-    "wof:lastmodified":1486771834,
+    "wof:lastmodified":1510942181,
     "wof:name":"U S Bank",
     "wof:parent_id":85893221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773813347
+    ],
+    "wof:supersedes":[
+        773813347
+    ],
     "wof:tags":[]
 },
   "bbox": [

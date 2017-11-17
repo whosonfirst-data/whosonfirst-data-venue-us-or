@@ -7,13 +7,16 @@
     "addr:postcode":"97027",
     "addr:street":"Mcloughlin Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.603023,45.378442,-122.603023,45.378442",
     "geom:latitude":45.378442,
     "geom:longitude":-122.603023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"19640 McLoughlin Blvd",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     "wof:brand_id":420573787,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":315017996,
         "sg:id":"SG_2XhrVRjnGAvPLLDoUW0y2R_45.378442_-122.603023@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b57a00657aea37a411f13538b86bed3f",
+    "wof:geomhash":"8e4ee74a03865b12d4746ed59987b1df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +61,17 @@
         }
     ],
     "wof:id":404011445,
-    "wof:lastmodified":1472640848,
+    "wof:lastmodified":1510942916,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85868959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789637717
+    ],
+    "wof:supersedes":[
+        789637717
+    ],
     "wof:tags":[
         "pizza"
     ]

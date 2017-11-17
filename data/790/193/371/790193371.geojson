@@ -7,6 +7,7 @@
     "addr:postcode":"97230",
     "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.537758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"203 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593885,
-    "wof:geomhash":"47ef683ea7a756aa640a818d62bf300e",
+    "wof:geomhash":"8735bf89355ba11b848d578b3da8c1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":790193371,
-    "wof:lastmodified":1486770717,
+    "wof:lastmodified":1510944027,
     "wof:name":"Ron Tonkin Gran Turismo",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        387570005
+    ],
+    "wof:supersedes":[
+        790091239
+    ],
     "wof:tags":[
         "car",
         "used",

@@ -7,6 +7,7 @@
     "addr:postcode":"97236",
     "addr:street":"Se Powell Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.488729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16916 SE Powell Boulevard",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594207,
-    "wof:geomhash":"32b7de1a4693798fabcca95963586dd1",
+    "wof:geomhash":"2283c6c4a54b6411939c13d9ba31710c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,12 +96,14 @@
         }
     ],
     "wof:id":790234689,
-    "wof:lastmodified":1486772209,
+    "wof:lastmodified":1510942181,
     "wof:name":"Powell Court Apartments",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370692199
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment",

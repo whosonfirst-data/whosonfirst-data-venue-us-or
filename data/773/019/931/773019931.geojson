@@ -7,6 +7,7 @@
     "addr:postcode":"10000;97216",
     "addr:street":"Se Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.558441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 SE Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582457,
-    "wof:geomhash":"3df5324918b57845c357ae25ce104bfc",
+    "wof:geomhash":"78321280c2d9c3cc03f2b4c8ea11f4da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":773019931,
-    "wof:lastmodified":1486770731,
+    "wof:lastmodified":1510941189,
     "wof:name":"Womens Health Care Clinic Ore",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370434941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

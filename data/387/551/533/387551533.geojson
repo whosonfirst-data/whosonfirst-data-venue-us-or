@@ -7,13 +7,16 @@
     "addr:postcode":"97301",
     "addr:street":"High St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.03665,44.94065,-123.03665,44.94065",
     "geom:latitude":44.94065,
     "geom:longitude":-123.03665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 High St NE",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5YnwhX9StUVG78V087bkZJ_44.940650_-123.036650@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"32b279e93f4bd2c530a9e1b73d249ff3",
+    "wof:geomhash":"bfabad2f7b037d72e917e638a6083cf2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":387551533,
-    "wof:lastmodified":1472641395,
+    "wof:lastmodified":1510943017,
     "wof:name":"Marion County Sheriff's Office",
     "wof:parent_id":85880567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773501897
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"

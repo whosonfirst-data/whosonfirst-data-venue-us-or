@@ -7,6 +7,7 @@
     "addr:postcode":"97230",
     "addr:street":"Ne 122Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.537003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4100 NE 122nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":368241018,
         "sg:id":"SG_5p5L8TG2PLNB4FED0ZdZIt_45.552502_-122.537003@1303263427"
     },
     "wof:country":"US",
     "wof:created":1462593961,
-    "wof:geomhash":"b1c4eb5ff992ef232007b2339e7ae978",
+    "wof:geomhash":"26c6f0c8e0108646a898ba923f1aeed9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":790200439,
-    "wof:lastmodified":1486771470,
+    "wof:lastmodified":1510943498,
     "wof:name":"US Bank",
     "wof:parent_id":85893153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790199597
+    ],
+    "wof:supersedes":[
+        790199597
+    ],
     "wof:tags":[]
 },
   "bbox": [

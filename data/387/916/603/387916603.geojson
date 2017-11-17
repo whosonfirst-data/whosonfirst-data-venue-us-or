@@ -7,13 +7,16 @@
     "addr:postcode":"97223",
     "addr:street":"Sw Pacific Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.783546,45.422717,-122.783546,45.422717",
     "geom:latitude":45.422717,
     "geom:longitude":-122.783546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13500 SW Pacific Hwy",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7JJZX6NgYszeGHAmbILzPZ_45.422717_-122.783546@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"0edcdf23f24a63a6038a457b82282b25",
+    "wof:geomhash":"e00cfb6c5b6daa36ca1da3caf9cb347a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":387916603,
-    "wof:lastmodified":1472641510,
+    "wof:lastmodified":1510943552,
     "wof:name":"UPS Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790134663
+    ],
+    "wof:supersedes":[
+        790134663
+    ],
     "wof:tags":[
         "mailing",
         "shipping"

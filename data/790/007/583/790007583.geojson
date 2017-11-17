@@ -7,6 +7,7 @@
     "addr:postcode":"97213",
     "addr:street":"Ne Hoyt Street Suite 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.610775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5050 NE Hoyt Street Suite 200",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592390,
-    "wof:geomhash":"0ae8c478f103e3950f6b432ce0b08d66",
+    "wof:geomhash":"61141b22c47f4f3ab0b0320fe4278359",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,15 @@
         }
     ],
     "wof:id":790007583,
-    "wof:lastmodified":1486772429,
+    "wof:lastmodified":1510943730,
     "wof:name":"Eyehealth Northwest",
     "wof:parent_id":1108721345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790007929,
+        773717293
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

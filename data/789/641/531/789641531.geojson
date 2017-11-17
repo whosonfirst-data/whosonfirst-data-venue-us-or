@@ -7,13 +7,16 @@
     "addr:postcode":"97138",
     "addr:street":"S Roosevelt Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.921061,45.992314,-123.921061,45.992314",
     "geom:latitude":45.992314,
     "geom:longitude":-123.921061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"225 S Roosevelt Dr",
     "sg:city":"Seaside",
     "sg:classifiers":[
@@ -41,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":119407752,
         "sg:id":"SG_4ewyoKrxWjkw7jeoiw2mB5_45.992314_-123.921061@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462589385,
-    "wof:geomhash":"894142e3ec92c63b2cf5e1b4d5c313ce",
+    "wof:geomhash":"7159eaa88753703e3080a9835e19bd0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +61,17 @@
         }
     ],
     "wof:id":789641531,
-    "wof:lastmodified":1472641109,
+    "wof:lastmodified":1510943049,
     "wof:name":"McDonald's",
     "wof:parent_id":85836449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773336689
+    ],
+    "wof:supersedes":[
+        773336689
+    ],
     "wof:tags":[
         "burger",
         "american"

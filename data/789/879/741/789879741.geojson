@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.67663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591288,
-    "wof:geomhash":"8e1b8cc741672c3a84a65531f491370c",
+    "wof:geomhash":"048e4847f4cba8e1d19c6ed6ba322491",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":789879741,
-    "wof:lastmodified":1486764482,
+    "wof:lastmodified":1510943298,
     "wof:name":"U.S. District Court",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370522639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

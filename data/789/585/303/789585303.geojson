@@ -7,6 +7,7 @@
     "addr:postcode":"97218",
     "addr:street":"Ne 42Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.620003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4920 NE 42nd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588951,
-    "wof:geomhash":"54883eaa5a79368e09a7699634f1f63f",
+    "wof:geomhash":"e2e1a50f94ce7e098e4f14e1329f7565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,17 @@
         }
     ],
     "wof:id":789585303,
-    "wof:lastmodified":1486771591,
+    "wof:lastmodified":1510943248,
     "wof:name":"US Bank",
     "wof:parent_id":85893177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790069093
+    ],
+    "wof:supersedes":[
+        790069093
+    ],
     "wof:tags":[
         "saving",
         "commercial"

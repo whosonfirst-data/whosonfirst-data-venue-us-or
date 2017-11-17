@@ -7,6 +7,7 @@
     "addr:postcode":"97210",
     "addr:street":"Nw Yeon Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.705191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3145 NW Yeon Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592169,
-    "wof:geomhash":"c9cf9a4fa5a678fa9341026c6490af59",
+    "wof:geomhash":"3848dde21f4172739cdebf43b71fda83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":789980433,
-    "wof:lastmodified":1486771105,
+    "wof:lastmodified":1510944179,
     "wof:name":"United Tile",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789982747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"

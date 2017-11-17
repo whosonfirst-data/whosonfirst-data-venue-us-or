@@ -7,6 +7,7 @@
     "addr:postcode":"97232",
     "addr:street":"Lloyd Ctr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.653999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1256 Lloyd Ctr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594021,
-    "wof:geomhash":"93d1f31d6e1e0523886bb062f6dd1163",
+    "wof:geomhash":"939738c8f312c0b17089206e39f3ff1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,18 @@
         }
     ],
     "wof:id":790208939,
-    "wof:lastmodified":1486771336,
+    "wof:lastmodified":1510944076,
     "wof:name":"T Mobile",
     "wof:parent_id":85871513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790208947,
+        790214217
+    ],
+    "wof:supersedes":[
+        773023371
+    ],
     "wof:tags":[]
 },
   "bbox": [

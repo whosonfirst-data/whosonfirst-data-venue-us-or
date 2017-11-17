@@ -7,6 +7,7 @@
     "addr:postcode":"97216",
     "addr:street":"Se Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.557999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10220 SE Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588728,
-    "wof:geomhash":"8b66672ae27f034c7fd24db8f1d4d314",
+    "wof:geomhash":"a627bac0cb54ab66b2f61ca6b160e8ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +72,17 @@
         }
     ],
     "wof:id":773830919,
-    "wof:lastmodified":1486772221,
+    "wof:lastmodified":1510943840,
     "wof:name":"US Bank",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790049779
+    ],
+    "wof:supersedes":[
+        790049779
+    ],
     "wof:tags":[]
 },
   "bbox": [

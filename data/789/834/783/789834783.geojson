@@ -7,6 +7,7 @@
     "addr:postcode":"97201",
     "addr:street":"Sw 5Th Ave Ste 120",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.67945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1300 SW 5th Ave Ste 120",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3763194905,
         "sg:id":"SG_5Vaxucyrea8a5YehO7t12Q_45.514343_-122.679450@1303263411"
     },
     "wof:country":"US",
     "wof:created":1462590905,
-    "wof:geomhash":"efebd2f7d2db9a28596d5a903489bc8a",
+    "wof:geomhash":"0e6a157d6b946a0e48c6b14be66aa82f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":789834783,
-    "wof:lastmodified":1486764231,
+    "wof:lastmodified":1510944198,
     "wof:name":"Lubliner Florist",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773818309
+    ],
+    "wof:supersedes":[
+        773818309
+    ],
     "wof:tags":[]
 },
   "bbox": [

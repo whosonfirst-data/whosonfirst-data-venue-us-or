@@ -7,6 +7,7 @@
     "addr:postcode":"97209",
     "addr:street":"Nw Kearney St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.690123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1849 NW Kearney St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_1TCmCY82N2Sbv3oGxqLXks_45.529306_-122.690123@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bb25b075620b9832b5e3bf545da3529",
+    "wof:geomhash":"ff3dc4554cb2b9663d962e1dc732811d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":404035357,
-    "wof:lastmodified":1486771282,
+    "wof:lastmodified":1510943643,
     "wof:name":"Head & Neck Surgical Assoc",
     "wof:parent_id":85871509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789947599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
