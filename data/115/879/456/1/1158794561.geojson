@@ -11,6 +11,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651106,45.517552,-122.651106,45.517552",
     "geom:latitude":45.517552,
     "geom:longitude":-122.651106,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":1158794561,
-    "wof:lastmodified":1502553854,
+    "wof:lastmodified":1524095118,
     "wof:name":"Nostrana",
     "wof:parent_id":1108713507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790029547
+    ],
     "wof:tags":[
         "restaurant",
         "italian"

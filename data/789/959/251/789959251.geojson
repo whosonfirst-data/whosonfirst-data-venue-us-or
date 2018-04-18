@@ -7,6 +7,7 @@
     "addr:postcode":"97209",
     "addr:street":"Nw 6Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.676923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 NW 6th Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591990,
-    "wof:geomhash":"83d74af82d9daaff712b65598ec53333",
+    "wof:geomhash":"12bbb63b2918ea1cd2478a4e7e873e50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,17 @@
         }
     ],
     "wof:id":789959251,
-    "wof:lastmodified":1486770687,
+    "wof:lastmodified":1524095166,
     "wof:name":"Wilfs Restaurant & Bar",
     "wof:parent_id":85867303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789642401
+    ],
+    "wof:supersedes":[
+        370261607
+    ],
     "wof:tags":[
         "new",
         "american"

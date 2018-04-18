@@ -7,6 +7,7 @@
     "addr:postcode":"97201",
     "addr:street":"Sw Clay St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.681318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"521 SW Clay St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_7iL3oBn8oeLfKqAXMkAz20_45.513757_-122.681318@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"780783de11cb187960182cacf2dd3b65",
+    "wof:geomhash":"b35cd150313047af62bf43ca60ebe7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":387957179,
-    "wof:lastmodified":1486764404,
+    "wof:lastmodified":1524095168,
     "wof:name":"Paul Zander Tyree",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        403942177
+    ],
+    "wof:supersedes":[
+        789842955
+    ],
     "wof:tags":[
         "attorney"
     ]

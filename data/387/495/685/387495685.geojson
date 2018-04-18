@@ -7,6 +7,7 @@
     "addr:postcode":"97210",
     "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.698679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1200 NW 23rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -64,12 +65,15 @@
         }
     ],
     "wof:id":387495685,
-    "wof:lastmodified":1510941528,
+    "wof:lastmodified":1524095167,
     "wof:name":"Legacy Clinic Good Samaritan",
     "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789967165,
+        789969899
+    ],
     "wof:supersedes":[
         789972077
     ],

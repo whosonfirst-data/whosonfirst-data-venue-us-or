@@ -7,6 +7,7 @@
     "addr:postcode":"97220",
     "addr:street":"Ne Halsey St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.540726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11916 NE Halsey St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593021,
-    "wof:geomhash":"f94bb9ea83ae30f3d54fda2270735285",
+    "wof:geomhash":"6f2b363cee1e16162a0843b40836090b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":790087593,
-    "wof:lastmodified":1491880895,
+    "wof:lastmodified":1524095140,
     "wof:name":"Family Pet Center",
     "wof:parent_id":85868947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790095255
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

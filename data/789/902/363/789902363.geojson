@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw Yamhill St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.678173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 SW Yamhill St Ph 4",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -56,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591464,
-    "wof:geomhash":"99141a8f0c6f35c22bf70d99cc974d6b",
+    "wof:geomhash":"7d360594710ba95dc6dcae6785ab6cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +72,17 @@
         }
     ],
     "wof:id":789902363,
-    "wof:lastmodified":1486764153,
+    "wof:lastmodified":1524095160,
     "wof:name":"Crandall Arambula, Pc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        387786817
+    ],
+    "wof:supersedes":[
+        370666861
+    ],
     "wof:tags":[
         "civil",
         "planning",

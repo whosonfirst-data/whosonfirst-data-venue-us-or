@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.674689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 SW Washington St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_40V7OWc4tJvbNABO0Dzleo_45.519619_-122.674689@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"42e7d1f0fa4b45346c204e09cee462bd",
+    "wof:geomhash":"bc054cccef9e4ce4f6ad027285fe7ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,17 @@
         }
     ],
     "wof:id":387804569,
-    "wof:lastmodified":1486769981,
+    "wof:lastmodified":1524095164,
     "wof:name":"Dwyer & Miller",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        387255053
+    ],
+    "wof:supersedes":[
+        789901123
+    ],
     "wof:tags":[
         "attorney"
     ]

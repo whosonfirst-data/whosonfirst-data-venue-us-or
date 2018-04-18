@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.812139,42.270949,-122.812139,42.270949",
     "geom:latitude":42.270949,
     "geom:longitude":-122.812139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3847 S Pacific Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584650,
-    "wof:geomhash":"98e853bb3f0ac807db483952ef913382",
+    "wof:geomhash":"f0fac2fa290af30a7cc1ea118b9df3fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773296707,
-    "wof:lastmodified":1472641684,
+    "wof:lastmodified":1524095153,
     "wof:name":"Kaylor Electric",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773232589
+    ],
     "wof:tags":[
         "electric",
         "contractor"

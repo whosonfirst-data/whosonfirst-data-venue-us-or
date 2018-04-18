@@ -7,6 +7,7 @@
     "addr:postcode":"97205",
     "addr:street":"Sw Broadway Ste 1900",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 SW Broadway Ste 1900",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591705,
-    "wof:geomhash":"50e96d6ee40f8b4465b9053a4db2a926",
+    "wof:geomhash":"77cd9640d0cbb7ea984f1628bd43617b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,19 @@
         }
     ],
     "wof:id":789929299,
-    "wof:lastmodified":1486764491,
+    "wof:lastmodified":1524095165,
     "wof:name":"Jrnstdt Knnth E Atty Bllrd Smth Jrnstdt & Wlsn A",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789928921
+    ],
+    "wof:supersedes":[
+        789907819,
+        789913455,
+        789914607
+    ],
     "wof:tags":[]
 },
   "bbox": [

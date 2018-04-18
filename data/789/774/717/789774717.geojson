@@ -7,6 +7,7 @@
     "addr:postcode":"97062",
     "addr:street":"Sw Teton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.783545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"18850 SW Teton Ave",
     "sg:city":"Tualatin",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":789774717,
-    "wof:lastmodified":1511320682,
+    "wof:lastmodified":1524095132,
     "wof:name":"US Post Office",
     "wof:parent_id":85824717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403704463
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

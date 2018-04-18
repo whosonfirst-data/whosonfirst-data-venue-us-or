@@ -7,13 +7,16 @@
     "addr:postcode":"97501",
     "addr:street":"W Main St Ste 5A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.878998,42.317299,-122.878998,42.317299",
     "geom:latitude":42.317299,
     "geom:longitude":-122.878998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 W Main St Ste 5A",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595326,
-    "wof:geomhash":"7a16d7e27dc90ca5726ba3b6ba894de1",
+    "wof:geomhash":"f8a4305f8cfd388b2cf5c4e920348578",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +59,18 @@
         }
     ],
     "wof:id":790372555,
-    "wof:lastmodified":1472641611,
+    "wof:lastmodified":1524095168,
     "wof:name":"Grkng Tmthy C Brphy MLS Schmr Grkng & Brphy Llp",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790378019
+    ],
+    "wof:supersedes":[
+        790366267,
+        790366719
+    ],
     "wof:tags":[
         "litigation"
     ]

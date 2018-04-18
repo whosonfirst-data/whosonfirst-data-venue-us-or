@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.674939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"534 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -75,12 +76,14 @@
         }
     ],
     "wof:id":789893317,
-    "wof:lastmodified":1510943968,
+    "wof:lastmodified":1524095121,
     "wof:name":"ABC Jewelry Co.",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354383333
+    ],
     "wof:supersedes":[
         789631675,
         789885815

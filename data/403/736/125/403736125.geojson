@@ -7,6 +7,7 @@
     "addr:postcode":"97838",
     "addr:street":"S Hwy 395",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-119.253032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2265 S Hwy 395",
     "sg:city":"Hermiston",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":403736125,
-    "wof:lastmodified":1511998276,
+    "wof:lastmodified":1524095129,
     "wof:name":"Dennys",
     "wof:parent_id":85812325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789654373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

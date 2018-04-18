@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 5Th Ave Ste 900",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.676129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 SW 5th Ave Ste 900",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591296,
-    "wof:geomhash":"9400a40a3dc145e13be98f83494153b8",
+    "wof:geomhash":"2fb5a392a5d2a256424e0ef4b706a819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,20 @@
         }
     ],
     "wof:id":789880699,
-    "wof:lastmodified":1486770127,
+    "wof:lastmodified":1524095158,
     "wof:name":"Gevurtz Menashe Larson & Howe PC",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789884463,
+        789887989,
+        789897119,
+        789891001
+    ],
+    "wof:supersedes":[
+        789878667
+    ],
     "wof:tags":[
         "attorney",
         "family",

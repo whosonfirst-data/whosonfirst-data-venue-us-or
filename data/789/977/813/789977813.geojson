@@ -7,6 +7,7 @@
     "addr:postcode":"97210",
     "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.69848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"505 NW 23rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592150,
-    "wof:geomhash":"f98d15ca14375c0e44ebd857d2cc6433",
+    "wof:geomhash":"5f78c1bbeb7d87417fa1bc078cd8bb8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":789977813,
-    "wof:lastmodified":1486773783,
+    "wof:lastmodified":1524095128,
     "wof:name":"Pizzicato Pizza",
     "wof:parent_id":1108718923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789642757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

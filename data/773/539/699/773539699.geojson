@@ -7,6 +7,7 @@
     "addr:postcode":"97266",
     "addr:street":"Se 101St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.559807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6400 SE 101st Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586476,
-    "wof:geomhash":"9b95e2bd026ba3e0c17065afe9a31d7b",
+    "wof:geomhash":"1d9a5cc5311ef7f9939c8043b87c5fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":773539699,
-    "wof:lastmodified":1486769543,
+    "wof:lastmodified":1524095121,
     "wof:name":"Baker Tanks",
     "wof:parent_id":85830293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354390177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tank"

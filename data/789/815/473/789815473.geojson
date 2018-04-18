@@ -7,6 +7,7 @@
     "addr:postcode":"97128",
     "addr:street":"Ne Highway 99W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-123.188004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1101 NE Highway 99W",
     "sg:city":"McMinnville",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":789815473,
-    "wof:lastmodified":1510877333,
+    "wof:lastmodified":1524095127,
     "wof:name":"Ruby Tuesday",
     "wof:parent_id":85839751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789641189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"97205",
     "addr:street":"Sw Alder St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.679321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"705 SW Alder St",
     "sg:city":"Portland",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591504,
-    "wof:geomhash":"0ddb0cc868d81604dc16a7b9bbc8ca2f",
+    "wof:geomhash":"f3f7d6990d4593987e2bb0a30e7fa5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":789907321,
-    "wof:lastmodified":1486770091,
+    "wof:lastmodified":1524095120,
     "wof:name":"Pizzicato",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789585709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

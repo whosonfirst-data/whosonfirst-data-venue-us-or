@@ -7,6 +7,7 @@
     "addr:postcode":"97034",
     "addr:street":"1St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.663403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"601 1st St",
     "sg:city":"Lake Oswego",
     "sg:classifiers":[
@@ -54,12 +55,15 @@
         }
     ],
     "wof:id":370958509,
-    "wof:lastmodified":1510943096,
+    "wof:lastmodified":1524095169,
     "wof:name":"Klein Douglas J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789749799,
+        773541289
+    ],
     "wof:supersedes":[
         789746955
     ],

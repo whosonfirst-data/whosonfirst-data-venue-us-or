@@ -7,6 +7,7 @@
     "addr:postcode":"97205",
     "addr:street":"Sw Park Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.681129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"846 SW Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591600,
-    "wof:geomhash":"c85faa14b7ff903cf9fb1cc811525e5c",
+    "wof:geomhash":"f455db01c2be97a6d7904d490b93d85a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":789917093,
-    "wof:lastmodified":1486764145,
+    "wof:lastmodified":1524095163,
     "wof:name":"Regal Cinemas Fox Tower",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789910679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

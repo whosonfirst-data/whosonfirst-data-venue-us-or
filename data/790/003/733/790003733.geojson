@@ -7,6 +7,7 @@
     "addr:postcode":"97213",
     "addr:street":"Ne Fremont St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.61875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4331 NE Fremont St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592355,
-    "wof:geomhash":"69786ec68eb7827f947ef5e3d45a9da4",
+    "wof:geomhash":"bc47f17bafabf9c791ed6a31ae86b0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":790003733,
-    "wof:lastmodified":1486771498,
+    "wof:lastmodified":1524095123,
     "wof:name":"Beaumont Vision",
     "wof:parent_id":85893155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790005775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

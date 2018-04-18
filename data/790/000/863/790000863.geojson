@@ -7,6 +7,7 @@
     "addr:postcode":"97212",
     "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.621541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4035 NE Sandy Blvd",
     "sg:city":"Portland",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":790000863,
-    "wof:lastmodified":1512000267,
+    "wof:lastmodified":1524095129,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85826019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789658367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

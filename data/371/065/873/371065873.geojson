@@ -7,13 +7,16 @@
     "addr:postcode":"97223",
     "addr:street":"Sw Hall Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.76545,45.437277,-122.76545,45.437277",
     "geom:latitude":45.437277,
     "geom:longitude":-122.76545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11565 SW Hall Blvd",
     "sg:city":"Tigard",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_759DP3lEdJylVZWAcULEVL_45.437277_-122.765450@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"91e647653bc494553cabc915bf2584cc",
+    "wof:geomhash":"1f906034d6984672d304f482f2123740",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,20 @@
         }
     ],
     "wof:id":371065873,
-    "wof:lastmodified":1472640900,
+    "wof:lastmodified":1524095150,
     "wof:name":"Tigard Tendercare Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790120655,
+        790129429,
+        790135493,
+        790138623
+    ],
+    "wof:supersedes":[
+        387885973
+    ],
     "wof:tags":[
         "dentist"
     ]

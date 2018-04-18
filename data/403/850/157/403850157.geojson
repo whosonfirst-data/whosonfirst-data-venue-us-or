@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw Stark St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.675356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 SW Stark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_60a4aYptBfYEAUER228FEm_45.520400_-122.675356@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1b76837d891cae58dfc9ea7d49316ef",
+    "wof:geomhash":"3693c659538e8e7903d52c0a0c36027d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,17 @@
         }
     ],
     "wof:id":403850157,
-    "wof:lastmodified":1486770097,
+    "wof:lastmodified":1524095129,
     "wof:name":"Azumano Travel Executive Ofc",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        387228819
+    ],
+    "wof:supersedes":[
+        773021071
+    ],
     "wof:tags":[
         "agency",
         "bureau"

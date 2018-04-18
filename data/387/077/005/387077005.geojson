@@ -7,6 +7,7 @@
     "addr:postcode":"97204",
     "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.677595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1220 SW 3rd Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_3dEjt4t2hRPrVa5i6fTB9Z_45.514350_-122.677595@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"40f3f8c1944e9d798e4550be8ede2a92",
+    "wof:geomhash":"ee5d314ad46299d4280c19264e383da7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":387077005,
-    "wof:lastmodified":1486764142,
+    "wof:lastmodified":1524095131,
     "wof:name":"Federal Mediation Conciliation",
     "wof:parent_id":85867131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        386952817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"

@@ -7,13 +7,16 @@
     "addr:postcode":"97501",
     "addr:street":"W 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.879997,42.322498,-122.879997,42.322498",
     "geom:latitude":42.322498,
     "geom:longitude":-122.879997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 W 8th St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595332,
-    "wof:geomhash":"53df0605858832df059f96e941111b98",
+    "wof:geomhash":"f8a288e7fa06a9be70abb739bfe66cf6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +61,18 @@
         }
     ],
     "wof:id":790373387,
-    "wof:lastmodified":1472641613,
+    "wof:lastmodified":1524095166,
     "wof:name":"Kaufman Eric Atty",
     "wof:parent_id":85854039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773076647,
+        354296521
+    ],
+    "wof:supersedes":[
+        790371311
+    ],
     "wof:tags":[
         "divorce",
         "law",
