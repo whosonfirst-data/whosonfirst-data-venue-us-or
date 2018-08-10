@@ -2,17 +2,21 @@
   "id": 387856925,
   "type": "Feature",
   "properties": {
-    "addr:full":"7280 SW 82nd Ave Portland OR 97223",
+    "addr:city":"Portland",
+    "addr:full":"7280 Sw 82Nd Ave Portland, Or 97223-7320",
+    "addr:house_number":"7280",
     "addr:housenumber":"7280",
-    "addr:postcode":"97223",
+    "addr:postcode":"97223-7320",
+    "addr:road":"Sw 82Nd Ave",
+    "addr:state":"OR",
     "addr:street":"Sw 82Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.760965,45.467781,-122.760965,45.467781",
-    "geom:latitude":45.467781,
-    "geom:longitude":-122.760965,
+    "geom:bbox":"-122.76094,45.46748,-122.76094,45.46748",
+    "geom:latitude":45.46748,
+    "geom:longitude":-122.76094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +36,10 @@
     "sg:tags":[
         "social"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -45,7 +52,7 @@
         "sg:id":"SG_5E7nKkRheVmD25LSQdSs47_45.467781_-122.760965@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2859ed7ce90c8af29d63d6bd27586f",
+    "wof:geomhash":"9757810b18b8422a6404b6f47247f1df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,8 +65,8 @@
         }
     ],
     "wof:id":387856925,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Painted Sky & Co",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Painted Sky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -70,10 +77,10 @@
     ]
 },
   "bbox": [
-    -122.760965,
-    45.467781,
-    -122.760965,
-    45.467781
+    -122.76094,
+    45.46748,
+    -122.76094,
+    45.46748
 ],
-  "geometry": {"coordinates":[-122.760965,45.467781],"type":"Point"}
+  "geometry": {"coordinates":[-122.76094000000001,45.46748],"type":"Point"}
 }

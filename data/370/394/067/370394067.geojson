@@ -2,18 +2,24 @@
   "id": 370394067,
   "type": "Feature",
   "properties": {
-    "addr:full":"746 Long St Sweet Home OR 97386",
+    "addr:city":"Sweet Home",
+    "addr:full":"746 Long St Sweet Home, Or 97386",
+    "addr:house_number":"746",
     "addr:housenumber":"746",
+    "addr:phone":"+1 541-367-4580",
     "addr:postcode":"97386",
+    "addr:road":"Long St",
+    "addr:state":"OR",
     "addr:street":"Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.734841,44.396596,-122.734841,44.396596",
-    "geom:latitude":44.396596,
-    "geom:longitude":-122.734841,
+    "geom:bbox":"-122.73525,44.39688,-122.73525,44.39688",
+    "geom:latitude":44.39688,
+    "geom:longitude":-122.73525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"746 Long St",
     "sg:city":"Sweet Home",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "art",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -41,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404100276,
         "sg:id":"SG_5OmwYPa4LtcWjbnBTRb65O_44.396596_-122.734841@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"083485882e42264d2319a61433f08ece",
+    "wof:geomhash":"bd659f0bbab1401ca1538702f2b603bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":370394067,
-    "wof:lastmodified":1472641095,
-    "wof:name":"East Linn Museum",
+    "wof:lastmodified":1533926033,
+    "wof:name":"East Linn Museum Society",
     "wof:parent_id":85815199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -70,10 +78,10 @@
     ]
 },
   "bbox": [
-    -122.734841,
-    44.396596,
-    -122.734841,
-    44.396596
+    -122.73525,
+    44.39688,
+    -122.73525,
+    44.39688
 ],
-  "geometry": {"coordinates":[-122.734841,44.396596],"type":"Point"}
+  "geometry": {"coordinates":[-122.73524999999999,44.39688],"type":"Point"}
 }

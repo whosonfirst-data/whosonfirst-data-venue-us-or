@@ -2,17 +2,22 @@
   "id": 790031551,
   "type": "Feature",
   "properties": {
-    "addr:full":"1928 SE Ladd Ave Portland OR 97214",
+    "addr:city":"Portland",
+    "addr:full":"1928 Se Ladd Ave Portland, Or 97214",
+    "addr:house_number":"1928",
     "addr:housenumber":"1928",
+    "addr:phone":"+1 503-232-0433",
     "addr:postcode":"97214",
+    "addr:road":"Se Ladd Ave",
+    "addr:state":"OR",
     "addr:street":"Se Ladd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.649847,45.509372,-122.649847,45.509372",
-    "geom:latitude":45.509372,
-    "geom:longitude":-122.649847,
+    "geom:bbox":"-122.64985,45.50847,-122.64985,45.50847",
+    "geom:latitude":45.50847,
+    "geom:longitude":-122.64985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"97214",
     "sg:province":"OR",
     "sg:website":"www.thehatmuseum.com/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         1108713581,
         85893193,
@@ -48,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592584,
-    "wof:geomhash":"7fff2794c531a178b754541375342707",
+    "wof:geomhash":"f1fd4f8b66ed6a61044199891399825a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +71,8 @@
         }
     ],
     "wof:id":790031551,
-    "wof:lastmodified":1524615672,
-    "wof:name":"The Hat Museum",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Hat Museum",
     "wof:parent_id":1108713581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.649847,
-    45.509372,
-    -122.649847,
-    45.509372
+    -122.64985,
+    45.50847,
+    -122.64985,
+    45.50847
 ],
-  "geometry": {"coordinates":[-122.64984699999999,45.509372],"type":"Point"}
+  "geometry": {"coordinates":[-122.64985,45.50847],"type":"Point"}
 }

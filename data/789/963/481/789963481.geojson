@@ -2,17 +2,22 @@
   "id": 789963481,
   "type": "Feature",
   "properties": {
-    "addr:full":"724 NW Davis St Portland OR 97209",
+    "addr:city":"Portland",
+    "addr:full":"724 Northwest Davis St Portland, Or 97209",
+    "addr:house_number":"724",
     "addr:housenumber":"724",
+    "addr:phone":"+1 503-223-2654",
     "addr:postcode":"97209",
+    "addr:road":"Northwest Davis St",
+    "addr:state":"OR",
     "addr:street":"Nw Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.677999,45.524459,-122.677999,45.524459",
-    "geom:latitude":45.524459,
-    "geom:longitude":-122.677999,
+    "geom:bbox":"-122.67783,45.52436,-122.67783,45.52436",
+    "geom:latitude":45.52436,
+    "geom:longitude":-122.67783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,7 +44,10 @@
         "galleries"
     ],
     "sg:website":"www.museumofcontemporarycraft.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         85867143,
         102191575,
@@ -57,7 +65,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592026,
-    "wof:geomhash":"d29477ec569a415eba461a8adcfabd16",
+    "wof:geomhash":"1f85245f95169a9779fbe5ce1fd6ce3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,8 +79,8 @@
         }
     ],
     "wof:id":789963481,
-    "wof:lastmodified":1524615673,
-    "wof:name":"Museum of Contemporary Craft",
+    "wof:lastmodified":1533926033,
+    "wof:name":"Contemporary Crafts Museum And Gallery",
     "wof:parent_id":85867143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -84,10 +92,10 @@
     ]
 },
   "bbox": [
-    -122.677999,
-    45.524459,
-    -122.677999,
-    45.524459
+    -122.67783,
+    45.52436,
+    -122.67783,
+    45.52436
 ],
-  "geometry": {"coordinates":[-122.677999,45.524459],"type":"Point"}
+  "geometry": {"coordinates":[-122.67783,45.52436],"type":"Point"}
 }

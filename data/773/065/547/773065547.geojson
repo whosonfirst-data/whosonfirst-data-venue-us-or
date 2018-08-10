@@ -2,17 +2,22 @@
   "id": 773065547,
   "type": "Feature",
   "properties": {
-    "addr:full":"8035 Champoeg Rd NE St Paul OR 97137",
+    "addr:city":"Saint Paul",
+    "addr:full":"8035 Champoeg Rd Ne Saint Paul, Or 97137",
+    "addr:house_number":"8035",
     "addr:housenumber":"8035",
+    "addr:phone":"+1 503-633-2237",
     "addr:postcode":"97137",
+    "addr:road":"Champoeg Rd Ne",
+    "addr:state":"OR",
     "addr:street":"Champoeg Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.899578,45.250797,-122.899578,45.250797",
-    "geom:latitude":45.250797,
-    "geom:longitude":-122.899578,
+    "geom:bbox":"-122.89671,45.24861,-122.89671,45.24861",
+    "geom:latitude":45.24861,
+    "geom:longitude":-122.89671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,8 @@
     "sg:phone":"+1 503 633 2237",
     "sg:postcode":"97137",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688513,
         102191575,
@@ -45,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582897,
-    "wof:geomhash":"306d89842685643d217afca08b135569",
+    "wof:geomhash":"c05272d6c44263cfd72c38fe272c5ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":773065547,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Pioneer Mother Memorial Log Ca",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Pioneer Mothers Memorial Log Cabin Museum",
     "wof:parent_id":85810605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.899578,
-    45.250797,
-    -122.899578,
-    45.250797
+    -122.89671,
+    45.24861,
+    -122.89671,
+    45.24861
 ],
-  "geometry": {"coordinates":[-122.89957800000001,45.250797],"type":"Point"}
+  "geometry": {"coordinates":[-122.89671,45.24861],"type":"Point"}
 }

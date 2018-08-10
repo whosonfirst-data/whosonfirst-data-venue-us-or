@@ -2,17 +2,22 @@
   "id": 773482839,
   "type": "Feature",
   "properties": {
-    "addr:full":"24195 Redwood Hwy Kerby OR 97531",
+    "addr:city":"Kerby",
+    "addr:full":"24195 Redwood Hwy Kerby, Or 97531",
+    "addr:house_number":"24195",
     "addr:housenumber":"24195",
+    "addr:phone":"+1 541-592-5252",
     "addr:postcode":"97531",
+    "addr:road":"Redwood Hwy",
+    "addr:state":"OR",
     "addr:street":"Redwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-123.651177,42.19825,-123.651177,42.19825",
-    "geom:latitude":42.19825,
-    "geom:longitude":-123.651177,
+    "geom:bbox":"-123.65117,42.19844,-123.65117,42.19844",
+    "geom:latitude":42.19844,
+    "geom:longitude":-123.65117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,8 @@
     "sg:phone":"+1 541 592 5252",
     "sg:postcode":"97531",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,10 +44,10 @@
     },
     "wof:country":"US",
     "wof:created":1462586089,
-    "wof:geomhash":"5354dc40a812c2c83583e00a4712f34c",
+    "wof:geomhash":"8e5bbbc5258ba04dfae029ed3069fa22",
     "wof:hierarchy":[],
     "wof:id":773482839,
-    "wof:lastmodified":1524615672,
+    "wof:lastmodified":1533926033,
     "wof:name":"Kerbyville Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.651177,
-    42.19825,
-    -123.651177,
-    42.19825
+    -123.65117,
+    42.19844,
+    -123.65117,
+    42.19844
 ],
-  "geometry": {"coordinates":[-123.651177,42.19825],"type":"Point"}
+  "geometry": {"coordinates":[-123.65116999999999,42.19844],"type":"Point"}
 }

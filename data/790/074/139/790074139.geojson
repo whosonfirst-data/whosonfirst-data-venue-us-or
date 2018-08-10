@@ -7,6 +7,7 @@
     "addr:postcode":"97219",
     "addr:street":"Sw Vermont Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.722316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4411 SW Vermont Street",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":790074139,
-    "wof:lastmodified":1524095135,
+    "wof:lastmodified":1533926032,
     "wof:name":"Oregon Health & Science University",
     "wof:parent_id":85835959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "790078661"
+    ],
     "wof:supersedes":[
         773579865
     ],

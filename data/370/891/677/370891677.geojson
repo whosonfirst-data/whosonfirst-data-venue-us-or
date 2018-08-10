@@ -2,17 +2,22 @@
   "id": 370891677,
   "type": "Feature",
   "properties": {
-    "addr:full":"911 6th St Umatilla OR 97882",
+    "addr:city":"Umatilla",
+    "addr:full":"911 6Th St Umatilla, Or 97882-0975",
+    "addr:house_number":"911",
     "addr:housenumber":"911",
-    "addr:postcode":"97882",
+    "addr:phone":"+1 541-922-0209",
+    "addr:postcode":"97882-0975",
+    "addr:road":"6Th St",
+    "addr:state":"OR",
     "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.341592,45.917821,-119.341592,45.917821",
-    "geom:latitude":45.917821,
-    "geom:longitude":-119.341592,
+    "geom:bbox":"-119.32941,45.91456,-119.32941,45.91456",
+    "geom:latitude":45.91456,
+    "geom:longitude":-119.32941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,8 @@
     "sg:phone":"+1 541 922 0209",
     "sg:postcode":"97882",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -44,7 +50,7 @@
         "sg:id":"SG_75EbHZ43D1X63cLwooAz7H_45.917821_-119.341592@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"60196cb2a7ad66fd9aaf55f7029e4023",
+    "wof:geomhash":"65ae783626d48a1ab38d325085d14300",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,8 +72,8 @@
         }
     ],
     "wof:id":370891677,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Umatilla Museum & Historical",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Umatilla Museum And Historical Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -76,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.341592,
-    45.917821,
-    -119.341592,
-    45.917821
+    -119.32941,
+    45.91456,
+    -119.32941,
+    45.91456
 ],
-  "geometry": {"coordinates":[-119.34159200000001,45.917821],"type":"Point"}
+  "geometry": {"coordinates":[-119.32941,45.91456],"type":"Point"}
 }

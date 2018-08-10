@@ -2,17 +2,22 @@
   "id": 370731145,
   "type": "Feature",
   "properties": {
-    "addr:full":"711 E Main St Klamath Falls OR 97601",
+    "addr:city":"Klamath Falls",
+    "addr:full":"711 E Main St Klamath Falls, Or 97601-3340",
+    "addr:house_number":"711",
     "addr:housenumber":"711",
-    "addr:postcode":"97601",
+    "addr:phone":"+1 541-885-2995",
+    "addr:postcode":"97601-3340",
+    "addr:road":"E Main St",
+    "addr:state":"OR",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.765097,42.222806,-121.765097,42.222806",
-    "geom:latitude":42.222806,
-    "geom:longitude":-121.765097,
+    "geom:bbox":"-121.76507,42.22229,-121.76507,42.22229",
+    "geom:latitude":42.22229,
+    "geom:longitude":-121.76507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -38,7 +43,10 @@
         "gallery",
         "amusement"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532893
+    ],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -52,7 +60,7 @@
         "sg:id":"SG_3vjKT5gcp3E6vSm6jqTjWb_42.222806_-121.765097@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"5da0413540e298d4e3ff2c09caa93e0a",
+    "wof:geomhash":"7c8cea9e2b0c5b7a4a98af3584e358bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,8 +73,8 @@
         }
     ],
     "wof:id":370731145,
-    "wof:lastmodified":1524615671,
-    "wof:name":"Childrens Museum Klamath Falls",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Children'S Museum Of Klamath Falls",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -78,10 +86,10 @@
     ]
 },
   "bbox": [
-    -121.765097,
-    42.222806,
-    -121.765097,
-    42.222806
+    -121.76507,
+    42.22229,
+    -121.76507,
+    42.22229
 ],
-  "geometry": {"coordinates":[-121.765097,42.222806],"type":"Point"}
+  "geometry": {"coordinates":[-121.76506999999999,42.22229],"type":"Point"}
 }

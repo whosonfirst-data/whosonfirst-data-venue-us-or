@@ -2,17 +2,21 @@
   "id": 773820811,
   "type": "Feature",
   "properties": {
-    "addr:full":"5000 N Willamette Blvd Portland OR 97203",
+    "addr:city":"Portland",
+    "addr:full":"5000 N Willamette Blvd Portland, Or 97203",
+    "addr:house_number":"5000",
     "addr:housenumber":"5000",
     "addr:postcode":"97203",
+    "addr:road":"N Willamette Blvd",
+    "addr:state":"OR",
     "addr:street":"N Willamette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.726216,45.575075,-122.726216,45.575075",
-    "geom:latitude":45.575075,
-    "geom:longitude":-122.726216,
+    "geom:bbox":"-122.72555,45.57482,-122.72555,45.57482",
+    "geom:latitude":45.57482,
+    "geom:longitude":-122.72555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +36,10 @@
     "sg:tags":[
         "university"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         420536113,
         102191575,
@@ -49,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588639,
-    "wof:geomhash":"133a44aeb66e857b4b80b04db43c2c20",
+    "wof:geomhash":"f0e6ecf07941359c0f4f42c1751874b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +70,8 @@
         }
     ],
     "wof:id":773820811,
-    "wof:lastmodified":1524615672,
-    "wof:name":"The University of Portland",
+    "wof:lastmodified":1533926033,
+    "wof:name":"University Of Portland Museum",
     "wof:parent_id":420536113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -75,10 +82,10 @@
     ]
 },
   "bbox": [
-    -122.726216,
-    45.575075,
-    -122.726216,
-    45.575075
+    -122.72555,
+    45.57482,
+    -122.72555,
+    45.57482
 ],
-  "geometry": {"coordinates":[-122.72621599999999,45.575075],"type":"Point"}
+  "geometry": {"coordinates":[-122.72555,45.57482],"type":"Point"}
 }

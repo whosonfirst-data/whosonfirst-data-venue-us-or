@@ -2,17 +2,22 @@
   "id": 790018997,
   "type": "Feature",
   "properties": {
-    "addr:full":"1945 SE Water Avenue Portland OR 97214",
+    "addr:city":"Portland",
+    "addr:full":"1945 Se Water Avenue Portland, Or 97214",
+    "addr:house_number":"1945",
     "addr:housenumber":"1945",
+    "addr:phone":"+1 503-797-4000",
     "addr:postcode":"97214",
+    "addr:road":"Se Water Avenue",
+    "addr:state":"OR",
     "addr:street":"Se Water Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.665678,45.509229,-122.665678,45.509229",
-    "geom:latitude":45.509229,
-    "geom:longitude":-122.665678,
+    "geom:bbox":"-122.64733,45.51611,-122.64733,45.51611",
+    "geom:latitude":45.51611,
+    "geom:longitude":-122.64733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 503 797 4626",
     "sg:postcode":"97214",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         1108713517,
         85871515,
@@ -47,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592484,
-    "wof:geomhash":"816204f8cc10b2a01244690feebe1a12",
+    "wof:geomhash":"cf9d4be1a849679cdc12aee58a9d1872",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +70,8 @@
         }
     ],
     "wof:id":790018997,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Omsi Science Store",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Oregon Museum Of Science & Industry",
     "wof:parent_id":1108713517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -72,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.665678,
-    45.509229,
-    -122.665678,
-    45.509229
+    -122.64733,
+    45.51611,
+    -122.64733,
+    45.51611
 ],
-  "geometry": {"coordinates":[-122.665678,45.509229],"type":"Point"}
+  "geometry": {"coordinates":[-122.64733,45.51611],"type":"Point"}
 }

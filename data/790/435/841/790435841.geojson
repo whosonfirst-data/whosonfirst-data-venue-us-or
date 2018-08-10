@@ -2,17 +2,22 @@
   "id": 790435841,
   "type": "Feature",
   "properties": {
-    "addr:full":"7930 SW 77th St Redmond OR 97756",
+    "addr:city":"Redmond",
+    "addr:full":"7930 Sw 77Th St Redmond, Or 97756",
+    "addr:house_number":"7930",
     "addr:housenumber":"7930",
+    "addr:phone":"+1 541-382-5574",
     "addr:postcode":"97756",
+    "addr:road":"Sw 77Th St",
+    "addr:state":"OR",
     "addr:street":"Sw 77Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.263564,44.202225,-121.263564,44.202225",
-    "geom:latitude":44.202225,
-    "geom:longitude":-121.263564,
+    "geom:bbox":"-121.26347,44.20349,-121.26347,44.20349",
+    "geom:latitude":44.20349,
+    "geom:longitude":-121.26347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -45,7 +50,10 @@
         "art",
         "supply"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530507
+    ],
     "wof:belongsto":[
         85876195,
         85633793,
@@ -60,7 +68,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595811,
-    "wof:geomhash":"a4e117678e2c8bf1564f882468d9baaf",
+    "wof:geomhash":"20004a16ffddc78b1e585ec6f3245c7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -72,8 +80,8 @@
         }
     ],
     "wof:id":790435841,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Petersen Rock Garden & Museum",
+    "wof:lastmodified":1533926033,
+    "wof:name":"Petersen Rock Garden And Museum",
     "wof:parent_id":85876195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -87,10 +95,10 @@
     ]
 },
   "bbox": [
-    -121.263564,
-    44.202225,
-    -121.263564,
-    44.202225
+    -121.26347,
+    44.20349,
+    -121.26347,
+    44.20349
 ],
-  "geometry": {"coordinates":[-121.263564,44.202225],"type":"Point"}
+  "geometry": {"coordinates":[-121.26347,44.20349],"type":"Point"}
 }

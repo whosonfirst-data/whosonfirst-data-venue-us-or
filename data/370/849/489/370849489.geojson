@@ -2,17 +2,22 @@
   "id": 370849489,
   "type": "Feature",
   "properties": {
-    "addr:full":"209 E 2nd St Wallowa OR 97885",
+    "addr:city":"Wallowa",
+    "addr:full":"209 E 2Nd St Wallowa, Or 97885",
+    "addr:house_number":"209",
     "addr:housenumber":"209",
+    "addr:phone":"+1 541-886-3101",
     "addr:postcode":"97885",
+    "addr:road":"E 2Nd St",
+    "addr:state":"OR",
     "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.527932,45.571122,-117.527932,45.571122",
-    "geom:latitude":45.571122,
-    "geom:longitude":-117.527932,
+    "geom:bbox":"-117.52686,45.57113,-117.52686,45.57113",
+    "geom:latitude":45.57113,
+    "geom:longitude":-117.52686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,8 @@
     "sg:postcode":"97885",
     "sg:province":"OR",
     "sg:website":"www.wallowanezperce.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -43,7 +49,7 @@
         "sg:id":"SG_1iMXCS87jKGzXNlQSrionY_45.571122_-117.527932@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"07a3e07979f46b4cec9bf138947a386d",
+    "wof:geomhash":"219efd8c2a64dc70b33d115d29bd32be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":370849489,
-    "wof:lastmodified":1524615672,
-    "wof:name":"Nez Perce Interpretive Ctr",
+    "wof:lastmodified":1533926032,
+    "wof:name":"Nez Perce Interpretive Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-or",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.527932,
-    45.571122,
-    -117.527932,
-    45.571122
+    -117.52686,
+    45.57113,
+    -117.52686,
+    45.57113
 ],
-  "geometry": {"coordinates":[-117.52793200000001,45.571122],"type":"Point"}
+  "geometry": {"coordinates":[-117.52686,45.57113],"type":"Point"}
 }

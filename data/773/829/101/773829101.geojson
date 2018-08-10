@@ -2,17 +2,22 @@
   "id": 773829101,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 N State St Lake Oswego OR 97034",
+    "addr:city":"Lake Oswego",
+    "addr:full":"311 N State St Lake Oswego, Or 97034",
+    "addr:house_number":"311",
     "addr:housenumber":"311",
+    "addr:phone":"+1 503-697-7436",
     "addr:postcode":"97034",
+    "addr:road":"N State St",
+    "addr:state":"OR",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.663002,45.418598,-122.663002,45.418598",
-    "geom:latitude":45.418598,
-    "geom:longitude":-122.663002,
+    "geom:bbox":"-122.66402,45.41366,-122.66402,45.41366",
+    "geom:latitude":45.41366,
+    "geom:longitude":-122.66402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -43,7 +48,10 @@
         "line"
     ],
     "sg:website":"oregonelectricrailway.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         85688513,
         102191575,
@@ -59,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588713,
-    "wof:geomhash":"9acc0112a5b844c9b1eec9ed32b1e77c",
+    "wof:geomhash":"84dcf218c045bb513b9fa7c7a337797b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +80,7 @@
         }
     ],
     "wof:id":773829101,
-    "wof:lastmodified":1524615671,
+    "wof:lastmodified":1533926033,
     "wof:name":"Willamette Shore Trolley",
     "wof:parent_id":420536053,
     "wof:placetype":"venue",
@@ -89,10 +97,10 @@
     ]
 },
   "bbox": [
-    -122.663002,
-    45.418598,
-    -122.663002,
-    45.418598
+    -122.66402,
+    45.41366,
+    -122.66402,
+    45.41366
 ],
-  "geometry": {"coordinates":[-122.66300200000001,45.418598],"type":"Point"}
+  "geometry": {"coordinates":[-122.66401999999999,45.41366],"type":"Point"}
 }

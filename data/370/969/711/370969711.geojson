@@ -2,17 +2,22 @@
   "id": 370969711,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 Main St Klamath Falls OR 97601",
+    "addr:city":"Klamath Falls",
+    "addr:full":"31 Main St Klamath Falls, Or 97601",
+    "addr:house_number":"31",
     "addr:housenumber":"31",
+    "addr:phone":"+1 541-883-4207",
     "addr:postcode":"97601",
+    "addr:road":"Main St",
+    "addr:state":"OR",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.788433,42.220158,-121.788433,42.220158",
-    "geom:latitude":42.220158,
-    "geom:longitude":-121.788433,
+    "geom:bbox":"-121.78836,42.22022,-121.78836,42.22022",
+    "geom:latitude":42.22022,
+    "geom:longitude":-121.78836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 541 883 4207",
     "sg:postcode":"97601",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532893
+    ],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -43,7 +51,7 @@
         "sg:id":"SG_7KCa3afG2SCc0WVq8lsOZP_42.220158_-121.788433@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ddc7c5aec43842a35cc4a4307e856ac",
+    "wof:geomhash":"84b2f75577ceac6865a29b9bdc5467b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":370969711,
-    "wof:lastmodified":1524615672,
+    "wof:lastmodified":1533926032,
     "wof:name":"Klamath County Baldwin Museum",
     "wof:parent_id":85851937,
     "wof:placetype":"venue",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.788433,
-    42.220158,
-    -121.788433,
-    42.220158
+    -121.78836,
+    42.22022,
+    -121.78836,
+    42.22022
 ],
-  "geometry": {"coordinates":[-121.788433,42.220158],"type":"Point"}
+  "geometry": {"coordinates":[-121.78836,42.22022],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 370679245,
   "type": "Feature",
   "properties": {
-    "addr:full":"590 Main St Springfield OR 97477",
+    "addr:city":"Springfield",
+    "addr:full":"590 Main St Springfield, Or 97477-5469",
+    "addr:house_number":"590",
     "addr:housenumber":"590",
-    "addr:postcode":"97477",
+    "addr:phone":"+1 541-726-2300",
+    "addr:postcode":"97477-5469",
+    "addr:road":"Main St",
+    "addr:state":"OR",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-123.019418,44.046256,-123.019418,44.046256",
-    "geom:latitude":44.046256,
-    "geom:longitude":-123.019418,
+    "geom:bbox":"-123.01842,44.04627,-123.01842,44.04627",
+    "geom:latitude":44.04627,
+    "geom:longitude":-123.01842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 541 726 2300",
     "sg:postcode":"97477",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533927
+    ],
     "wof:belongsto":[
         85688513,
         85633793,
@@ -44,7 +52,7 @@
         "sg:id":"SG_5qok4RLeZjgDpx1DdOdwzO_44.046256_-123.019418@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e26934a4cccac159414c694126866a71",
+    "wof:geomhash":"3ecc8ac162c838f4444b0a1019608a30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":370679245,
-    "wof:lastmodified":1524615672,
+    "wof:lastmodified":1533926032,
     "wof:name":"Springfield Museum",
     "wof:parent_id":85877249,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.019418,
-    44.046256,
-    -123.019418,
-    44.046256
+    -123.01842,
+    44.04627,
+    -123.01842,
+    44.04627
 ],
-  "geometry": {"coordinates":[-123.019418,44.046256],"type":"Point"}
+  "geometry": {"coordinates":[-123.01842000000001,44.04627],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 790201047,
   "type": "Feature",
   "properties": {
-    "addr:full":"17111 NE Sandy Blvd Portland OR 97230",
+    "addr:city":"Portland",
+    "addr:full":"17111 Ne Sandy Blvd Portland, Or 97230",
+    "addr:house_number":"17111",
     "addr:housenumber":"17111",
+    "addr:phone":"+1 503-261-8078",
     "addr:postcode":"97230",
+    "addr:road":"Ne Sandy Blvd",
+    "addr:state":"OR",
     "addr:street":"Ne Sandy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.488243,45.548199,-122.488243,45.548199",
-    "geom:latitude":45.548199,
-    "geom:longitude":-122.488243,
+    "geom:bbox":"-122.48684,45.54787,-122.48684,45.54787",
+    "geom:latitude":45.54787,
+    "geom:longitude":-122.48684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 503 261 8078",
     "sg:postcode":"97230",
     "sg:province":"OR",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         85688513,
         102191575,
@@ -45,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593967,
-    "wof:geomhash":"079658c649c625b761bb03c0d01ecafc",
+    "wof:geomhash":"0afcf0b895b419f483cb7589519b2383",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":790201047,
-    "wof:lastmodified":1524615672,
+    "wof:lastmodified":1533926033,
     "wof:name":"Frw Historical Society",
     "wof:parent_id":85824571,
     "wof:placetype":"venue",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.488243,
-    45.548199,
-    -122.488243,
-    45.548199
+    -122.48684,
+    45.54787,
+    -122.48684,
+    45.54787
 ],
-  "geometry": {"coordinates":[-122.488243,45.548199],"type":"Point"}
+  "geometry": {"coordinates":[-122.48684,45.54787],"type":"Point"}
 }
